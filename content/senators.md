@@ -7,7 +7,8 @@ author: john
 image:
 video:
 url: 
-layout: staticpage
+type: "page"
+layout: senate
 subheader:
      greeting:
      description:
