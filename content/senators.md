@@ -7,7 +7,7 @@ author: john
 image:
 video:
 url: 
-type: "senate"
+type: page
 layout: senate
 flow_text: false
 weight: 0
