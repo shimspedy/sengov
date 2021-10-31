@@ -7,8 +7,8 @@ author: john
 image:
 video:
 url: 
-type: page
-layout: senate
+type: "page"
+layout: "senate"
 subheader:
      greeting:
      description:
