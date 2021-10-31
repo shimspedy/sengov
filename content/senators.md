@@ -7,10 +7,7 @@ author: john
 image:
 video:
 url: 
-type: page
 layout: senate
-flow_text: false
-weight: 0
 subheader:
      greeting:
      description:
