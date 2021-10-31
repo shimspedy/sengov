@@ -202,7 +202,7 @@
                </div>
                {{ if .Params.Twitter }}
                <div class="twits center">
-                    <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-width="600" data-height="300"></a> 
+                    <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-tweet-limit="1" data-width="600" data-height="300"></a> 
                     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                </div>
                {{end}}
