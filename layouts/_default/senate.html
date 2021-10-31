@@ -1,13 +1,6 @@
 {{ define "main" }}
-     {{if and (.Layout) (eq .Layout "course_home")}}
-          {{ partial "markup/course" . }}
-          {{ partial "articles/lesson" . }}
-          course home
-          {{ partial "listings/home" . }}
-     {{else}}
-     {{ partial "listings/section" . }}
-     else default
-     {{ partial "listings/home" . }}
-         {{.Content}} 
-     {{end}}
+{{ partial "listings/map" . }}
+ else default
+ {{ partial "listings/home" . }}
+        
 {{ end }}
