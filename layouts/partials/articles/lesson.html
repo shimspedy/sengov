@@ -197,17 +197,7 @@
                   <!-- {{ partial "subheader" . }}  -->
                <div class="adsgoogle">
 
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-                    crossorigin="anonymous"></script>
-               <!-- 728bydime -->
-               <ins class="adsbygoogle"
-                    style="display:block"
-                    data-ad-client="ca-pub-7616051391644176"
-                    data-ad-slot="5256849542"
-                    data-ad-format="auto"></ins>
-               <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-               </script>
+                   <!-- adssssss -->
                
                </div>
                {{ if .Params.Twitter }}
@@ -220,10 +210,10 @@
                     {{ partial "nav/table-of-contents" . }}
                     {{.Content}}
                </div>
-               <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
+               <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
                {{ if .Params.Powrid}}
                <div class="powr-comments" id="{{.Params.Powrid}}"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
-               {{end}}
+               {{end}} -->
 
 
                    <!-- <h1>{{.Title}}</h1>
@@ -233,8 +223,8 @@
                {{- end -}}
                <div style="font-size:18px" class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
                     {{.Content}}
-               </div>
-               {{ partial "nav/pagination.html" . }} -->
+               </div> -->
+               {{ partial "nav/pagination.html" . }}
 
 
 
