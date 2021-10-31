@@ -6,7 +6,7 @@ description:
 author: john
 image:
 video:
-url: /senate/
+url: 
 type: "page"
 layout: senate
 flow_text: false
