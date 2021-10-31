@@ -1,5 +1,11 @@
 {{ define "main" }}
-{{.Content}}
-ffffffff
-{{ partial "listings/home" . }}
-{{end}}
+     {{if and (.Layout) (eq .Layout "course_home")}}
+          {{ partial "markup/course" . }}
+          {{ partial "articles/lesson" . }}
+          {{ partial "listings/home" . }}
+     {{else}}
+     {{ partial "listings/section" . }}
+     {{ partial "listings/home" . }}
+         {{.Content}} 
+     {{end}}
+{{ end }}
