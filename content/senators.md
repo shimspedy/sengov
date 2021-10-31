@@ -7,8 +7,6 @@ author: john
 image:
 video:
 url: 
-type: page
-layout: senate
 weight: 0
 subheader:
      greeting:
