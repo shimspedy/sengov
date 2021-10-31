@@ -3,27 +3,27 @@
     "short_name": "sengov",
     "icons": [
       {
-        "src": "/appicons/seal.png",
+        "src": "/seal.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "/appicons/seal.png",
+        "src": "/seal.png",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "/appicons/seal.png",
+        "src": "/seal.png",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "/appicons/seal.png",
+        "src": "/seal.png",
         "sizes": "196x196",
         "type": "image/png"
       },
       {
-        "src": "/appicons/seal.png",
+        "src": "/seal.png",
         "sizes": "512x512",
         "type": "image/png"
       }
