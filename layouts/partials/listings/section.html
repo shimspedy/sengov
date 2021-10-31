@@ -12,21 +12,6 @@
 </div>
 {{end}}
 
-
-{{if .Sections}}
-<h2>Former governors</h2>
-<div class=" row">
-     {{range .Sections }}
-     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
-               <div class="col s12 m6 l6">
-               {{ partial "listings/senate" . }}
-               </div>
-          {{end}}
-     {{end}}
-</div>
-{{end}}
-
-
 {{if .Sections}}
      <h2>Contact {{.Title}} Senators</h2>
      <div class=" row">
@@ -43,8 +28,23 @@
 {{end}}
 
 
+
 {{if .Sections}}
-     <h2>Contact {{.Title}} Senators</h2>
+<h2>Former {{.Title}} governors</h2>
+<div class=" row">
+     {{range .Sections }}
+     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
+               <div class="col s12 m6 l6">
+               {{ partial "listings/senate" . }}
+               </div>
+          {{end}}
+     {{end}}
+</div>
+{{end}}
+
+
+{{if .Sections}}
+     <h2>former {{.Title}} Senators</h2>
      <div class=" row">
           {{range .Sections }}
                {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "former")  }}
