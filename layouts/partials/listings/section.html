@@ -1,0 +1,55 @@
+
+{{if .Sections}}
+<h2>Contact {{.Title}} Governors</h2>
+<div class=" row">
+     {{range .Sections }}
+     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
+               <div class="col s12 m6 l6">
+               {{ partial "listings/senate" . }}
+               </div>
+          {{end}}
+     {{end}}
+</div>
+{{end}}
+
+
+{{if .Sections}}
+<h2>Former governors</h2>
+<div class=" row">
+     {{range .Sections }}
+     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
+               <div class="col s12 m6 l6">
+               {{ partial "listings/senate" . }}
+               </div>
+          {{end}}
+     {{end}}
+</div>
+{{end}}
+
+<!-- {{if .Pages}}
+<h2>Contact {{.Title}} Senators</h2>
+     <div class="row">
+        {{ template "recursive-article-listing" . }}
+     </div>
+{{end}} -->
+
+{{define "recursive-course-listing"}}
+     {{if .Sections}}
+          {{range .Sections }}
+               <div class=" row">
+                    {{ partial "listings/senate" . }}
+               </div>
+               {{ template "recursive-course-listing" . }}
+          {{end}}
+
+     {{end}}
+{{end}}
+
+{{define "recursive-article-listing"}}
+    {{range .Pages }}
+        <div class="col">
+            {{ partial "listings/article-card" . }}
+        </div>
+        {{ template "recursive-article-listing" . }}
+    {{end}}
+{{end}}

@@ -1,0 +1,259 @@
+<div class="row" itemscope itemtype="https://schema.org/Person">
+     <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+        {{ partial "nav/course-list" . }} 
+     </aside>
+     <div class="col xl7 l7 m12 s12" >
+          
+          <article  class="white z-depth-1" style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+
+               <div itemscope itemtype="https://schema.org/Person" class="row">
+
+                    {{ if eq .Params.imagedir "root" }}
+                    <div class="col s12 m6 l5" style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                         {{ else }}
+                    <div class="col s12 m6 l5" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                     {{end}}
+                         <div class="senator-image"  >
+                              <img src="{{.URL}}{{.Params.image}}" itemprop="image" alt="contact {{.Params.Name}}" style="display: none;">
+                            </div>
+                    </div>
+              
+                    <div class="col s12 m6 l7">
+                         <div class="senator-info">
+                              <div class="profile-content">
+                                   <ul class="profile-detail">
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Name</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p  itemprop="name">{{.Params.Name}}</p>
+                                             </div>
+                                        </li>
+                                        <li class="info-value">
+                                             <div class="State">
+                                               <label>Role</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p itemprop="jobTitle">{{.Params.Role}}</p>
+                                             </div>
+                                        </li>
+                                        <li class="info-value">
+                                             <div class="State">
+                                               <label>State</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></p>
+                                             </div>
+                                        </li>
+                                        <li class="info-value">
+                                             <div class="Party">
+                                             <label>Party</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Party}}</p>
+                                             </div>
+                                        </li>
+                                        <li class="info-value">
+                                             <div class="birthday">
+                                             <label>Born</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Born}}</p>
+                                             </div>
+                                        </li>
+                                        {{ if isset .Params "enteredoffice" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Entered Office</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Enteredoffice}}</p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "terms1" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Terms</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Terms1}}</p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "terms2" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Terms</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Terms2}}</p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "terms3" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Terms</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Terms3}}</p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Term Expires</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p>{{.Params.Termexpires}}</p>
+                                             </div>
+                                        </li>
+                                        {{ if isset .Params "mailingaddress1" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>State Mailing Address</label>
+                                             </div>
+                                             <div class="value"  itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+                                                  <p itemprop="streetAddress">{{.Params.Mailingaddress1}} </p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "mailingaddres2" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label itemprop="addressLocality">DC Mailing Address</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p itemprop="streetAddress">{{.Params.Mailingaddress2}} </p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "phonenumber1" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>state Phone Number</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p itemprop="telephone"><a href="tel:{{.Params.Phonenumber1}}" class="" itemprop="telephone">{{.Params.Phonenumber1}}</a></p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "phonenumber2" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>DC Phone Number</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="tel:{{.Params.Phonenumber2}}" class="" itemprop="telephone">{{.Params.Phonenumber2}}</a></p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "fax1" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>state fax</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="tel:{{.Params.Phonenumber}}" class="" itemprop="faxNumber">{{.Params.Fax1}}</a></p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        {{ if isset .Params "fax2" }}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>DC fax</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="tel:{{.Params.Phonenumber}}" class="" itemprop="faxNumber">{{.Params.Fax2}}</a></p>
+                                             </div>
+                                        </li>
+                                        {{end}}
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Email Address</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="{{.Params.Emailaddress}}" class="" target="_blank" itemprop="colleague"> Email Form</a></p>
+                                             </div>
+                                        </li>
+                                        <li class="info-value">
+                                             <div class="name">
+                                             <label>Official Website</label>
+                                             </div>
+                                             <div class="value">
+                                                  <p><a href="{{.Params.Website}}" class="" target="_blank" itemprop="colleague">Official Website</a></p>
+                                             </div>
+                                        </li>
+                                   </ul>
+                              </div>
+                         </div>
+                         {{ partial "subheader" . }} 
+                    </div>
+              
+                  </div>
+                  
+                  <!-- {{ partial "subheader" . }}  -->
+               <div class="adsgoogle">
+
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+                    crossorigin="anonymous"></script>
+               <!-- 728bydime -->
+               <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-7616051391644176"
+                    data-ad-slot="5256849542"
+                    data-ad-format="auto"></ins>
+               <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+               </script>
+               
+               </div>
+               {{ if .Params.Twitter }}
+               <div class="twits center">
+                    <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-width="600" data-height="300"></a> 
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+               </div>
+               {{end}}
+               <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; ">
+                    {{ partial "nav/table-of-contents" . }}
+                    {{.Content}}
+               </div>
+               <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
+               {{ if .Params.Powrid}}
+               <div class="powr-comments" id="{{.Params.Powrid}}"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+               {{end}}
+
+
+                   <!-- <h1>{{.Title}}</h1>
+               {{ partial "articles/article-subheader" . }}
+               {{- if .Params.video -}}
+                    {{ partial "youtube-video" . }}
+               {{- end -}}
+               <div style="font-size:18px" class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
+                    {{.Content}}
+               </div>
+               {{ partial "nav/pagination.html" . }} -->
+
+
+
+
+
+
+          </article>
+
+
+     </div>
+     <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+          <div id="nav-side-article">
+               {{- partial "social-icons/vertical" . -}}
+               {{- partial "mailchimp" . -}}
+               <br />
+               {{- partial "ads/sidebar" . -}}
+               <!-- {{- partial "ads/sidebar-custom" -}} -->
+               
+               
+          </div>
+     </aside>
+</div>

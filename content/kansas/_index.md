@@ -1,0 +1,9 @@
+---
+date: 2020-09-11T11:55:00-04:00
+title: "Kansas"
+seo_title: "Contact Kansas Governor"
+description: Contact Kansas Governor
+author: john shim
+url: /kansas/
+weight: 1
+---

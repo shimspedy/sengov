@@ -1,0 +1,129 @@
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{- .Params.State -}}",
+        "streetAddress": "{{- .Params.Mailingaddress1 -}} "
+      },
+      "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+      "jobTitle": "senator",
+      "name": "{{- .Params.name -}}",
+      "telephone": "{{- .Params.Phonenumber1 -}}",
+      "url": "{{- .Params.Website -}}"
+    }
+</script>
+
+<script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{.Permalink}}"
+          },
+          "headline": "{{.Params.seo_title}}",
+          "image": {
+            "@type": "ImageObject",
+            <!-- "url": "{{- .Page.URL -}}{{.Params.image}}", -->
+            "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+            "height": 512,
+            "width": 1024
+          },
+          "datePublished": "{{.Date}}",
+          "dateModified": "{{.Lastmod}}",
+          "author": {
+            "@type": "Person",
+            "name": "{{- if .Params.author -}}{{- .Params.author -}}{{- else -}}john shim{{- end -}}"
+          },
+           "publisher": {
+            "@type": "Organization",
+            "name": "sengov.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "{{- .Site.BaseURL -}}slogo.svg",
+              "width": 600,
+              "height": 60
+            }
+          },
+          "description": "{{- .Description -}}",
+          "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+        }
+</script>
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "en-US",
+    "author" : "{{ .Params.author }}",
+    "creator" : "{{ .Params.author }}",
+    "accountablePerson" : "{{ .Params.author }}",
+    "copyrightHolder" : "{{ .Params.author }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "image": {
+        "@type": "ImageObject",
+        <!-- "url": "{{- .Page.URL -}}{{.Params.image}}", -->
+        "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+        "height": 512,
+        "width": 1024
+      },
+    "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+    "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org", 
+  "@type" : "Organization", 
+  "url" : "{{.Permalink}}", 
+  "name": "Office of  {{- .Params.State -}}  Governor", 
+  "address": {  
+    "@type": "PostalAddress",  
+    "addressLocality": "{{- .Params.City -}}, {{- .Params.State -}}",  
+    "postalCode": "{{- .Params.Zipcode -}}",  
+    "streetAddress": "{{- .Params.Mailingaddress -}} "
+   },
+   "email": "{{- .Params.email -}}",
+    "contactPoint" : 
+    [{ 
+      "@type": "ContactPoint", 
+        "telephone": "{{- .Params.Phonenumber -}}",  
+        "contactType": "customer service",  
+        "areaServed": "{{- .Params.City -}}"  
+      }], 
+          "member": 
+          { "@type": "OrganizationRole",  
+            "member": {  "@type": "Person",  
+            "name": "{{- .Params.name -}}", 
+            "image": "{{- substr .Site.BaseURL 0 -1 -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}{{- .Params.image -}}{{- end -}}", 
+            "sameAs": [  "{{- substr .Site.BaseURL 0 -1 -}}",
+              "{{.Permalink}}",
+              "https://www.facebook.com/{{- .Params.Facebook -}}",  
+              "https://twitter.com/{{- .Params.Twitter -}}",  
+              "http://instagram.com/{{- .Params.Instagram -}}",  
+              "https://www.youtube.com/channel/{{- .Params.Youtube -}}",  
+              "https://www.linkedin.com/in/{{- .Params.Linkedin -}}",  
+              "https://en.wikipedia.org/{{- .Params.Wiki -}}" ] },  
+            "startDate": "{{- .Params.Startdate -}}",  
+            "endDate": "present",  
+            "roleName": "Governor" 
+        } 
+  }
+</script>
