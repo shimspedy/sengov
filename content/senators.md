@@ -6,13 +6,12 @@ description:
 author: john
 image:
 video:
-url:
-layout: single
+url: /senate/
+type: "page"
+layout: senate
 flow_text: false
 weight: 0
 subheader:
      greeting:
      description:
 ---
-
-{{ partial "listings/sen" . }}
