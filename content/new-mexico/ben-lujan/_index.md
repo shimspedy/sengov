@@ -1,11 +1,11 @@
 ---
 date: 2021-03-22T11:48:55-05:00
-title: "Ben Ray LujÃ¡n "
-seo_title: "contact senator Ben Ray LujÃ¡n "
+title: "Ben Ray Luján "
+seo_title: "contact senator Ben Ray Luján "
 subheader:
-     greeting: contact senator Ben Ray LujÃ¡n (D-NM) 
+     greeting: contact senator Ben Ray Luján (D-NM) 
      description: Ben Ray Luján is an American politician serving as the junior United States senator from New Mexico since 2021. He served as the U.S. representative for New Mexico's 3rd congressional district from 2009 to 2021 and the assistant House Democratic leader from 2019 to 2021.
-description: Contact senator Ben Ray LujÃ¡n of New Mexico. Contact information for Ben Ray LujÃ¡n includes  email address, phone number, and mailing address.
+description: Contact senator Ben Ray Luján of New Mexico. Contact information for Ben Ray Luján includes  email address, phone number, and mailing address.
 author: john shim
 image: ben-lujan.jpeg
 video:
@@ -14,7 +14,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name:	Ben Ray LujÃ¡n
+name:	Ben Ray Luján
 state:	New Mexico
 party:	Democratic
 role: senator
