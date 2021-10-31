@@ -7,7 +7,11 @@
                          <a id='logo-container' href='{{.Site.BaseURL}}'>
                               <img src="/slogo.png" alt="contact Governorss" style="display:inline-block; width: 70px; vertical-align: top; margin-top:6px;" class='hide-on-small-only' >
                               <span style='font-size: 28px; margin-left: 10px;'>
-                                   Contact {{.Params.Role}} {{.Params.Name}}
+                                   {{ if .IsHome }}
+                                    Senators & Governors
+                                   {{ else }}
+                                     Contact {{.Params.Role}} {{.Params.Name}}
+                                     {{ end }}
                               </span>
                          </a>
                          <ul class='right hide-on-med-and-down'>
