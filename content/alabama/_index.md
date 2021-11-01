@@ -1,6 +1,7 @@
 ---
 date: 2020-09-11T11:55:00-04:00
 title: "Alabama"
+state: "AL"
 seo_title: "Contact Alabama Senators"
 description: Contact Alabama Senators
 author: cs
