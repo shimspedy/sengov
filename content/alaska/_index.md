@@ -1,6 +1,7 @@
 ---
 date: 2020-09-11T11:55:00-04:00
 title: "Alaska"
+State: "AK"
 seo_title: "Contact Alaska Governor"
 description: Contact Alaska Governor
 author: john shim
