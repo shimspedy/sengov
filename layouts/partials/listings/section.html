@@ -1,6 +1,6 @@
 
 {{if .Sections}}
-<h2>Contact {{.Title}} Governors</h2>
+<h2 class="flow-text">Contact {{.Title}} Governors</h2>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
@@ -13,7 +13,7 @@
 {{end}}
 
 {{if .Sections}}
-     <h2>Contact {{.Title}} Senators</h2>
+     <h2 class="flow-text">Contact {{.Title}} Senators</h2>
      <div class=" row">
           {{range .Sections }}
                {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "current")  }}
@@ -30,7 +30,7 @@
 
 
 {{if .Sections}}
-<h2>Former {{.Title}} governors</h2>
+<h2 class="flow-text">Former {{.Title}} governors</h2>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
@@ -44,7 +44,7 @@
 
 
 {{if .Sections}}
-     <h2>former {{.Title}} Senators</h2>
+     <h2 class="flow-text">former {{.Title}} Senators</h2>
      <div class=" row">
           {{range .Sections }}
                {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "former")  }}
