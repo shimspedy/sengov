@@ -3,7 +3,7 @@
 <div class="row" id="governors">
      {{range .Sections }}
            <div class="col s12 m6 l3">
-          <a href="{{.Permalink}}" ><h5 class="grey-text text-darken-2">{{.state}}</h5></a>
+          <a href="{{.Permalink}}" ><h5 class="grey-text text-darken-2">{{ .Params.stateab }}</h5></a>
           </div>
      {{end}}
 </div>
