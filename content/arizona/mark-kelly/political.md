@@ -160,7 +160,7 @@ Mark believes health care is a right. Every Arizonan should have quality health 
 
 Even with reforms made to expand health care access, too many Arizonans lack coverage or are paying more out of pocket for doctor visits, deductibles, and especially prescription drugs. Mark will work to fix what is broken with our healthcare system by providing more options and competition to reduce costs. And all of that starts with ending partisan attacks that have driven up costs and threatened to take away coverage from more than 400,000 Arizonans who get their insurance through the expansion of Medicaid, known as AHCCCS, in Arizona.
 
-#### Mark supports:
+#### Mark supports
 Ensuring every Arizonan has health insurance, and that those with pre-existing conditions are covered with insurance they can afford.
 
 * A public health care option that would compete with private insurers.
