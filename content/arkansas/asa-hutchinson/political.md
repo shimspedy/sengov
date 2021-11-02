@@ -13,7 +13,7 @@ imagedir: root
 video:
 video:
 url: /arkansas/asa-hutchinson/politics
-weight: 2
+weight: 3
 layout: course_home
 
 ####candidate
