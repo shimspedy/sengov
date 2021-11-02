@@ -162,6 +162,7 @@ Even with reforms made to expand health care access, too many Arizonans lack cov
 
 #### Mark supports:
 Ensuring every Arizonan has health insurance, and that those with pre-existing conditions are covered with insurance they can afford.
+
 * A public health care option that would compete with private insurers.
 * Taking on the pharmaceutical industry to lower the cost of prescription drug costs.
 * More transparency for and oversight of hospital costs.
@@ -177,7 +178,7 @@ From the G.I. Bill to the VA, Mark understands we need veterans services to work
 
 There needs to be an increased culture of accountability at the VA: a focus on each individual veteran, not the paperwork. Every veteran has taken risks and made sacrifices in service to our country, and Mark won’t rest until they get what they have earned.
 
-### Mark Will Be A Champion For Working Arizonans And Arizona's Middle Class
+### Mark Will Be A Champion For Working Arizonans And Arizona Middle Class
 
 #### Economy and Jobs
 Mark is the son of two police officers and the product of a working-class family and pschieblic schools. Mark’s parents taught him how to set and reach really hard goals. Those lessons are what gave him the foundation to enter military service and become a combat pilot, engineer, and astronaut.
