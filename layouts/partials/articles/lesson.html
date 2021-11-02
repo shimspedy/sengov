@@ -212,6 +212,9 @@
                </div>
                <div style="font-size:18px" class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"  style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; "> 
                     {{.Content}}
+               {{- if .Params.video -}}
+                    {{ partial "youtube-video" . }}
+               {{- end -}}
                </div>
                <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
                {{ if .Params.Powrid}}
