@@ -1,2 +1,3 @@
-User-agent: Twitterbot
+User-agent: *
 Disallow:
+Sitemap: https://sengov.com/sitemap.xml
