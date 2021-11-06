@@ -24,7 +24,8 @@ age: '60'
 enteredoffice:	January 3, 2015
 termexpires:	January 3, 2027
 mailingaddress:	185 Dirksen Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-6342https://www.tillis.senate.gov/public/index.cfm/email-mehttps://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby
+phonenumber:	(202) 224-6342
+emailaddress: https://www.tillis.senate.gov/public/index.cfm/email-mehttps://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby
 website:	http://www.tillis.senate.gov/
 powrid: 5f34256e_1607161983
 twitter: SenThomTillis
