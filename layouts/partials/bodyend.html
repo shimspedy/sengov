@@ -1,7 +1,0 @@
-{{ $main := resources.Get "js/main.js" }}
-{{ $init := resources.Get "js/init.js" }}
-{{ $materialize := resources.Get "js/materialize.js" }}
-{{ $sticky := resources.Get "js/sticky-kit.js" }}
-{{ $search := resources.Get "js/search.js" }}
-{{ $secureJS := slice $main $init $materialize $sticky $search | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
-<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
