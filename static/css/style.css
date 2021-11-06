@@ -26,11 +26,11 @@ h3 {
     margin: 1.14rem 0 .912rem 0;
 }
 
-article ul:not(.browser-default) li, ul ul, ol ul {
+/* article ul:not(.browser-default) li, ul ul, ol ul {
      list-style-type: circle;
      list-style-position: inside;
      margin-left: 15px;
-  }
+  } */
   
 
 #table-of-contents ul {
@@ -112,7 +112,21 @@ article ul:not(.browser-default) li, ul ul, ol ul {
      border: 2px solid #bebebe;
  }
 
- 
+ article ul:not(.browser-default) li, ul ul, ol ul {
+     content: "# ";
+     margin-right: 5px;
+     opacity: .7;
+     line-height: 1;
+     color: #dab437;
+     -webkit-transform: translateY(4px);
+     transform: translateY(4px);
+     display: inline-block;
+     text-align: right;
+     border-radius: 10px;
+     position: absolute;
+     left: 0;
+  }
+
  #table-of-contents {
      border-width: 2px 2px 4px;
      border-style: solid;
@@ -126,6 +140,7 @@ article ul:not(.browser-default) li, ul ul, ol ul {
      box-shadow: 0 2px 3px rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .1);
  }
 #table-of-contents ul {
+     list-style: none;
        margin-top: 0px;
        margin-bottom: 0px;
 }
