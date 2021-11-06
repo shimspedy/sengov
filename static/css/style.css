@@ -146,3 +146,25 @@ article ul:not(.browser-default) li, ul ul, ol ul {
      position: absolute;
      left: 0;
 }
+
+article .flow-text h1,h2,h3 {
+       position: relative;
+}
+article .flow-text h1:hover::before ,article .flow-text h2:hover::before ,article .flow-text h3:hover::before {
+content: "#";
+color: #dab437;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+opacity: .8;
+position: absolute;
+left: -35px;
+width: 30px;
+top: -3px;
+bottom: 0;
+-webkit-transition: opacity .3s ease;
+transition: opacity .3s ease;
+}
+    
+   
+   
