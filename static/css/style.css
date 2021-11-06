@@ -27,15 +27,25 @@ h3 {
 }
 
 article ul:not(.browser-default) li, ul ul, ol ul {
-     list-style-type: circle;
+     list-style-type: none;
      list-style-position: inside;
      margin-left: 15px;
   }
   
 
-#table-of-contents ul {
-     margin-top:0px;
-     margin-bottom:0px;
+  article ul:not(.browser-default) li:before {
+     content: "# ";
+     margin-right: 5px;
+     opacity: .7;
+     line-height: 1;
+     color: #dab437;
+     -webkit-transform: translateY(4px);
+     transform: translateY(4px);
+     display: inline-block;
+     text-align: right;
+     border-radius: 10px;
+     position: absolute;
+     left: 0;
 }
 
 .page-wrap{
