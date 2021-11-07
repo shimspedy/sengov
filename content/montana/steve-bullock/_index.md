@@ -19,24 +19,24 @@ state:	Montana
 birthstate: Montana
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	April 11, 1966
 age: '54'
 enteredoffice:	January 7, 2013  
 terms1: January 7, 2013 - January 1, 2017
-terms2: January 2, 2017 - Current
+terms2: January 2, 2017 - January 4, 2021
 terms3: 
-termexpires:	
+termexpires: January 4, 2021	
 mailingaddress1: State Capitol Helena, MT 59620-0801
 mailingaddress2:		
-phonenumber1: 406/444-3111
+phonenumber1: 
 phonenumber2:	
-fax1: 406/444-5529
+fax1: 
 fax2: 
-emailaddress:	http://governor.mt.gov/Contact
-website:	http://governor.mt.gov/
-powrid: 43b470de_1609210882
-twitter: GovernorBullock
+emailaddress:	
+website:	
+powrid: 
+twitter:
 ---
 
 
