@@ -11,7 +11,7 @@ image: elee-reeves.png
 imageurl: /mississippi/tate-reeves/elee-reeves.png
 imagedir: root
 video:
-url: /mississippi/tate-reeves/bio
+url: /mississippi/tate-reeves/spouse
 weight: 3
 layout: course_home
 
