@@ -10,9 +10,9 @@
                <div class="row">
 
                     {{ if eq .Params.imagedir "root" }}
-                    <div class="col s12 m6 l5 bio" style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                    <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
                          {{ else }}
-                    <div class="col s12 m6 l5" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                    <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: contain; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
                      {{end}}
                          <div class="senator-image"  >
                               <img src="{{.URL}}{{.Params.image}}" itemprop="image" alt="contact {{.Params.Name}}" style="display: none;">
