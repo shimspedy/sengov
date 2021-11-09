@@ -83,15 +83,31 @@ article .contents ul:not(.browser-default) li, ul ul, ol ul {
 
 
 
-.profile-content .info-value{
-     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border-bottom: 1px solid #e2dfdf;
+.profile-img{
+     border-top: 10px solid #44429a;
+     border-bottom: 10px solid #a9007b;
+     border-left: 5px solid #562e93;
 }
-.profile-content .info-value p{
-     margin: 1px;
-}
+
+.senator-info {
+     border-right: 5px solid #0f1b547a;
+     border-left: 5px solid #563197;
+     border-top: 5px solid #414094;
+     border-bottom: 5px solid #a9007a;
+     border-radius: 20px;
+     padding: 5px;
+     background: #8fa8d542;
+ }
+ 
+ td, th {
+     padding: 5px;
+     border: 1px solid #e2dfdf;
+     font-size: 13px;
+ }
+
+ .bio {
+     background-color: #8299dd63 !important;
+ }
 
 .democratic {
      background-image: url(/democratic.png);
