@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://sengov.com/sitemap.xml
+sitemap: https://ask.sengov.com/sitemap_index.xml
