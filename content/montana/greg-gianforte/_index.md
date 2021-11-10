@@ -38,7 +38,7 @@ fax2:
 emailaddress:	http://governor.mt.gov/Contact
 website:	http://governor.mt.gov/
 powrid: 43b470de_1609210882
-twitter: gianforte
+twitter: GregForMontana
 ---
 
 
