@@ -1,0 +1,46 @@
+<div class='page-footer grey darken-1' style="position: relative; z-index: 100; background-image: url(/sengov.png);">
+     <div class='page-wrap'>
+         <div class='row page-margin'>
+              <div class='col xl4 l4 m12 s12'>
+                  <h5 class='white-text'>sengov.com</h5>
+                  <p class="white-text">All information is based on public available information.</p>
+              </div>
+              <div class='col xl1 l1 hide-on-med-and-down'>
+              </div>
+             <div class='col xl4 l4 m12 s12'>
+                 <h5 class='white-text'>Site Links</h5>
+                 <ul>
+                    <li><a class='grey-text text-lighten-3' href='{{.Site.BaseURL}}#courses' id='courses'>Courses<i class='material-icons left'>library_books</i></a></li>
+                    <br /> 
+                    <li><a class='grey-text text-lighten-3' href='{{.Site.BaseURL}}about' id='about'>How To Contact My Governorss <i class='material-icons left'>info_outline</i></a></li>
+                    <br />
+                    <li><a class='grey-text text-lighten-3' href='{{.Site.BaseURL}}salary' id='salary'>Governorss salary and benefits<i class='material-icons left'>attach_money</i></a></li>
+                 </ul>
+             </div>
+             <div class='col xl2 l1 hide-on-med-and-down'>
+             </div>
+             <div class='col xl3 l1  m12 s12'> 
+             </div>
+         </div>
+     </div>
+     <div class='footer-copyright'>
+         <div class='container center'>
+             © {{ now.Year }} SenGov.com All Rights Reserved
+         </div>
+     </div>
+</div>
+<script>
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker
+            .register('/sw.js', { scope: '/' })
+            .then(function(registration) {
+                //console.log('Service Worker Registered');
+            });
+  
+        navigator.serviceWorker
+            .ready
+            .then(function(registration) {
+                //console.log('Service Worker Ready');
+            });
+    }
+  </script>

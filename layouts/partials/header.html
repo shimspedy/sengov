@@ -1,0 +1,36 @@
+<nav style="background-image: url(/sengovbg.jpeg);background-color: #031b39;">
+     <div class="navbar-fixed">
+          <nav style="background-image: url(/sengovbg.jpeg);background-color: #031b39;">
+               <div class='nav-wrapper page-wrap'>
+                    <div class="page-margin">
+                         <a class='button-collapse' href='#' data-activates='slide-out'><i class='material-icons'>menu</i>
+                         <a id='logo-container' href='{{.Site.BaseURL}}'>
+                              <img src="/slogo.svg" alt="contact senators and Governors" style="display:inline-block; width: 70px; vertical-align: top; margin-top:6px;" class='hide-on-small-only' >
+                              <span class="flow-text" style='margin-left: 10px;'>
+                                   {{ if .IsHome }}
+                                    Senators & Governors
+                                   {{ else }}
+                                     Contact {{.Params.Role}} {{.Params.Name}}
+                                     {{ end }}
+                              </span>
+                         </a>
+                         <ul class='right hide-on-med-and-down'>
+                              <!-- <li><a href='{{.Site.BaseURL}}senators'>senators<i class='material-icons left'>library_books</i></a></li>-->
+                              <li><a href='https://ask.sengov.com/'>forum<i class='material-icons left'>library_books</i></a></li>
+                              <li class="{{if eq .URL `/about/` }}active{{end}}"><a href='{{.Site.BaseURL}}about'>About<i class='material-icons left'>info_outline</i></a></li>
+                              <li class="{{if eq .URL `/salary/` }}active{{end}}"><a href='{{.Site.BaseURL}}salary'>salary<i class='material-icons left'>attach_money</i></a></li>
+                         </ul>
+                    </div>
+               </div>
+          </nav>
+     </div>
+     <ul id='slide-out' class='side-nav'>
+          <!-- <li><a href='{{.Site.BaseURL}}/senators'>senators<i class='material-icons left'>library_books</i></a></li>
+           <li><a href='{{.Site.BaseURL}}/governors'>governors<i class='material-icons left'>library_books</i></a></li> -->
+          <li><a href='https://ask.sengov.com/'>forum<i class='material-icons left'>library_books</i></a></li>
+          <li><a href='{{.Site.BaseURL}}about'>About<i class='material-icons left'>info_outline</i></a></li>
+          <li><a href='{{.Site.BaseURL}}salary'>salary<i class='material-icons left'>attach_money</i></a></li>
+          <hr>
+          {{ partial "nav/drawer-course-list" . }}
+     </ul>
+</nav>

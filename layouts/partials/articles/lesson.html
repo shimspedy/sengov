@@ -1,0 +1,186 @@
+{{ partial "markup/governor" . }}
+<div class="row" itemscope itemtype="https://schema.org/Person">
+  <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+     {{ partial "nav/course-list" . }} 
+  </aside>
+  <div class="col xl7 l7 m12 s12" >
+       
+       <article  class="white z-depth-1" style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+
+            <div itemscope itemtype="https://schema.org/Person" class="row">
+
+                 {{ if eq .Params.imagedir "root" }}
+                 <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                    <div class="senator-image"  >
+                      <img src="{{.Params.imageurl}}" alt=" senator {{.Params.Name}}" style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
+                    </div>
+                      {{ else }}
+                 <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                    <div class="senator-image"  >
+                      <img src="{{.URL}}{{.Params.image}}" alt=" senator {{.Params.Name}}" style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
+                    </div>
+                    {{end}}
+                 </div>
+                 <div class="col s12 m6 l7">
+                           <div class="senator-info" itemscope itemtype="https://schema.org/Table">
+                                <h2 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact information</h2>
+                                <table >
+                                     <tbody>
+                                       <tr>
+                                         <td>Name</td>
+                                         <td>{{.Params.Name}}</td>
+                                       </tr>
+                                       <tr>
+                                         <td>Role</td>
+                                         <td>{{.Params.Role}}</td>
+                                       </tr>
+                                       <tr>
+                                         <td>State</td>
+                                         <td><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
+                                       </tr>
+                                       <tr>
+                                          <td>Party</td>
+                                          <td>{{.Params.Party}}</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Born</td>
+                                          <td>{{.Params.Born}}</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Entered Office</td>
+                                          <td>{{.Params.Enteredoffice}}</td>
+                                        </tr>
+                                        {{ if isset .Params "terms1" }}
+                                        <tr>
+                                          <td>Terms1</td>
+                                          <td>{{.Params.Terms1}}</td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "terms2" }}
+                                        <tr>
+                                          <td>Terms 2</td>
+                                          <td>{{.Params.Terms2}}</td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "terms3" }}
+                                        <tr>
+                                          <td>Terms 3</td>
+                                          <td>{{.Params.Terms3}}</td>
+                                        </tr>
+                                        {{end}}
+                                        <tr>
+                                          <td>Term expires</td>
+                                          <td>{{.Params.Termexpires}}</td>
+                                        </tr>
+                                        {{ if isset .Params "mailingaddress1" }}
+                                        <tr>
+                                          <td>Mailing Address</td>
+                                          <td>{{.Params.Mailingaddress1}} </td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "mailingaddress2" }}
+                                        <tr>
+                                          <td>Mailing Address 2</td>
+                                          <td>{{.Params.Mailingaddress2}} </td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "phonenumber1" }}
+                                        <tr>
+                                          <td>Phone number</td>
+                                          <td><a href="tel:{{.Params.Phonenumber1}}" class="" itemprop="telephone">{{.Params.Phonenumber1}}</a></td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "phonenumber2" }}
+                                        <tr>
+                                          <td>Phone number</td>
+                                          <td><a href="tel:{{.Params.Phonenumber2}}" class="" itemprop="telephone">{{.Params.Phonenumber2}}</a></td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "fax1" }}
+                                        <tr>
+                                          <td>fax 1</td>
+                                          <td>{{.Params.Fax1}}</a></td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "fax2" }}
+                                        <tr>
+                                          <td>fax 2</td>
+                                          <td>{{.Params.Fax2}}</td>
+                                        </tr>
+                                        {{end}}
+                                        <tr>
+                                          <td>email</td>
+                                          <td><a href="{{.Params.Emailaddress}}" class="" target="_blank"> Email Form</a></td>
+                                        </tr>
+                                        <tr>
+                                          <td>Website</td>
+                                          <td><a href="{{.Params.Website}}" class="" target="_blank" itemprop="url">Official Website</a></td>
+                                        </tr>
+  
+                                     </tbody>
+                                   </table>
+  
+                      </div>
+                      {{ partial "subheader" . }} 
+                 </div>
+           
+               </div>
+               
+               <!-- {{ partial "subheader" . }}  -->
+            <!-- <div class="adsgoogle">
+
+                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+                 crossorigin="anonymous"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-7616051391644176"
+                 data-ad-slot="5256849542"
+                 data-ad-format="auto"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div> -->
+            {{ if .Params.Twitter }}
+            <div class="twits center">
+                 <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-tweet-limit="1" data-width="600" data-height="300"></a> 
+                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            {{end}}
+            <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; ">
+                 {{ partial "nav/table-of-contents" . }}
+                 {{.Content}}
+            </div>
+            <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div>  -->
+
+
+                <!-- <h1>{{.Title}}</h1>
+            {{ partial "articles/article-subheader" . }}
+            {{- if .Params.video -}}
+                 {{ partial "youtube-video" . }}
+            {{- end -}}
+            <div style="font-size:18px" class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
+                 {{.Content}}
+            </div>
+            {{ partial "nav/pagination.html" . }} -->
+
+
+
+
+
+
+       </article>
+
+
+  </div>
+  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+       <div id="nav-side-article">
+            {{- partial "social-icons/vertical" . -}}
+            {{- partial "mailchimp" . -}}
+            <br />
+            {{- partial "ads/sidebar" . -}}
+            <!-- {{- partial "ads/sidebar-custom" -}} -->
+            
+            
+       </div>
+  </aside>
+</div>

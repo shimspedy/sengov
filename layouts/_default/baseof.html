@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          {{ partial "head" . }}
+          {{ partial "js" . }}
+          {{ partial "google-analytics" . }}
+     </head>
+     <body>
+          <header>{{ partial "header" . }}</header>
+          <main class="csenator">
+               <div class="page-wrap" style="background: #fff;">
+                    <div class="page-margin" style="padding-bottom: 10px;">
+                         <aside>{{ partial "breadcrumbs" . }}</aside>
+                         {{ block "main" . }}{{ end }}
+                    </div>
+               </div>
+          </main>
+          <footer>{{ partial "footer" . }}</footer>
+          <script src="{{.Site.BaseURL}}js/map.js"></script>
+     </body>
+</html>

@@ -1,0 +1,12 @@
+{{ if isset .Params "subheader" }}
+{{ if or (.Params.subheader.greeting) (.Params.subheader.description) }}
+<div class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px;  ">
+  <div style='padding-top:10px; padding-bottom:10px;' class="page-wrap">
+    <div class="page-margin">
+      <div style="font-size:16px;">{{.Params.subheader.greeting}}</div>
+      <div style="font-size:12px;">{{.Params.subheader.description}}</div>
+    </div>
+  </div>
+</div>
+{{end}}
+{{ end }}
