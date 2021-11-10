@@ -10,17 +10,16 @@
 
                  {{ if eq .Params.imagedir "root" }}
                  <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.Params.imageurl}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
-                  <div class="senator-image"  >
-                    <img src="{{.Params.imageurl}}" alt=" senator {{.Params.Name}}" style="width: 80px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
+                    <div class="senator-image"  >
+                      <img src="{{.Params.imageurl}}" alt=" senator {{.Params.Name}}" style="width: 80px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
                     </div>
                       {{ else }}
                  <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
-                  <div class="senator-image"  >
-                    <img src="{{.URL}}{{.Params.image}}" alt=" senator {{.Params.Name}}" style="width: 80px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
+                    <div class="senator-image"  >
+                      <img src="{{.URL}}{{.Params.image}}" alt=" senator {{.Params.Name}}" style="width: 80px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
                     </div>
                     {{end}}
                  </div>
-           
                  <div class="col s12 m6 l7">
                            <div class="senator-info" itemscope itemtype="https://schema.org/Table">
                                 <h2 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact information</h2>
