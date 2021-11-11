@@ -50,6 +50,12 @@
                                           <td>Entered Office</td>
                                           <td>{{.Params.Enteredoffice}}</td>
                                         </tr>
+                                        {{ if isset .Params "terms" }}
+                                        <tr>
+                                          <td>Terms</td>
+                                          <td>{{.Params.Terms}}</td>
+                                        </tr>
+                                        {{end}}
                                         {{ if isset .Params "terms1" }}
                                         <tr>
                                           <td>Terms1</td>
@@ -72,6 +78,12 @@
                                           <td>Term expires</td>
                                           <td>{{.Params.Termexpires}}</td>
                                         </tr>
+                                        {{ if isset .Params "mailingaddress" }}
+                                        <tr>
+                                          <td>Mailing Address</td>
+                                          <td>{{.Params.Mailingaddress}} </td>
+                                        </tr>
+                                        {{end}}
                                         {{ if isset .Params "mailingaddress1" }}
                                         <tr>
                                           <td>Mailing Address</td>
@@ -82,6 +94,12 @@
                                         <tr>
                                           <td>Mailing Address 2</td>
                                           <td>{{.Params.Mailingaddress2}} </td>
+                                        </tr>
+                                        {{end}}
+                                        {{ if isset .Params "phonenumber" }}
+                                        <tr>
+                                          <td>Phone number</td>
+                                          <td><a href="tel:{{.Params.Phonenumber}}" class="" itemprop="telephone">{{.Params.Phonenumber}}</a></td>
                                         </tr>
                                         {{end}}
                                         {{ if isset .Params "phonenumber1" }}
