@@ -19,14 +19,14 @@ state:	American Samoa
 birthstate: American Samoa
 party:	Independent
 role: governor
-inoffice: current
+inoffice: former
 born:	January 1, 1949
 age: '71'
 enteredoffice:	January 3, 2013 
 terms1: January 3, 2013 - January 2, 2017
-terms2: January 3, 2017 - Current
+terms2: January 3, 2017 - January 3, 2021
 terms3: 
-termexpires:	
+termexpires:	January 3, 2021
 mailingaddress1: Executive Office Building, Third Floor, Utulei, Pago Pago, AS, 96799
 mailingaddress2:		
 phonenumber1: 684/633-4116
