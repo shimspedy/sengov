@@ -8,7 +8,11 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 <meta name="yandex-verification" content="8283adc26fd98eb2" />
-{{- if isset .Params "image" -}}<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />{{- end -}}
+{{ if eq .Params.imagedir "root" }}
+<meta property="og:image" content="{{.Params.imageurl}}" />
+{{ else }}
+<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />
+{{- end -}}
 {{- if isset .Params "video" -}}<meta property="og:video" content="https://www.youtube.com/watch?v={{.Params.video}}" />{{- end -}}
 <link rel="manifest" href="/manifest.json">
 <!-- appicons -->
