@@ -11,6 +11,37 @@ imageurl: /arizona/kyrsten-sinema/kyrsten-sinema.jpg
 imagedir: root
 video: 
 url: /arizona/kyrsten-sinema/bio
+keywords:
+- senator kyrsten sinema of arizona
+- where is kyrsten sinema
+- sinema's phoenix office
+- is kyrsten sinema married
+- contact senator sinema
+- christine sinema
+- kristen sinema senator office
+- who is senator sinema
+- kirsten sinema's email address
+- senema
+- kyrsten sinema phone
+- kristin cinema
+- contact kyrsten sinema
+- krysten semena
+- senator sinema office
+- senator sinema arizona
+- sinema kyrsten
+- kirsten cinema az
+- kyrsten sinema az
+- sinema from arizona
+- kristin sinema
+- sen sinema
+- kyrsten sinema wikipedia
+- sen. kyrsten sinema
+- senator kyrsten sinema
+- kristin sinima
+- senator sinema
+- sinema senator
+- sinema
+- kyrsten sinema
 weight: 2
 layout: course_home
 
