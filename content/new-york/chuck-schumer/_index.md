@@ -10,6 +10,10 @@ author: john shim
 image: chuck-schumer.jpg
 video:
 url: /new-york/chuck-schumer/
+tags:
+- "new york chuck schumer"
+keywords:
+- "new york chuck schumer"
 weight: 1
 layout: course_home
 

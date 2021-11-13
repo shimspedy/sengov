@@ -12,6 +12,10 @@ imageurl:  /new-york/chuck-schumer/chuck-schumer.jpg
 imagedir: root
 video:
 url: /new-york/chuck-schumer/bio
+tags:
+- "new york chuck schumer bio"
+keywords:
+- "new york chuck schumer bio"
 weight: 2
 layout: course_home
 
