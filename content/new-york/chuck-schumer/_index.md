@@ -12,8 +12,38 @@ video:
 url: /new-york/chuck-schumer/
 tags:
 - "new york chuck schumer"
+- "chuck schumer speech today live"
+- "chuck schumer press conference today"
+- "senator schumer email"
+- "chuck schumer us senate"
+- "schumer senate speech today"
+- "chuck schumer news conference today"
+- "chuck schumer statement today"
+- "contact senate majority leader schumer"
+- "contact chuck schumer"
+- "schumer chuck"
+- "this body’ dem senator"
+- "senator schumer"
+- "charles schumer"
+- "schumer"
+- "chuck schumer"
 keywords:
 - "new york chuck schumer"
+- "chuck schumer speech today live"
+- "chuck schumer press conference today"
+- "senator schumer email"
+- "chuck schumer us senate"
+- "schumer senate speech today"
+- "chuck schumer news conference today"
+- "chuck schumer statement today"
+- "contact senate majority leader schumer"
+- "contact chuck schumer"
+- "schumer chuck"
+- "this body’ dem senator"
+- "senator schumer"
+- "charles schumer"
+- "schumer"
+- "chuck schumer"
 weight: 1
 layout: course_home
 
