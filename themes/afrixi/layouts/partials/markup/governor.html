@@ -48,7 +48,7 @@
               "height": 60
             }
           },
-          "description": "{{- .Description -}}",
+          "description": "Contact information to {{- .Params.Name -}} Senator, find Senator email, website, phone number, street address.",
           "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
           "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
         }
@@ -66,7 +66,7 @@
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
-    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "description": "Contact information to {{- .Params.Name -}} Senator, find Senator email, website, phone number, street address.",
     "inLanguage" : "en-US",
     "author" : "{{ .Params.author }}",
     "creator" : "{{ .Params.author }}",
