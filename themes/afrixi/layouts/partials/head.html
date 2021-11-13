@@ -1,15 +1,12 @@
 
 <title>{{.Params.seo_title}} | sengov.com</title>
-<meta name="description" content="{{.Description}}" />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow" />
-<meta name='author' content='{{- if .Params.author -}}{{- .Params.author -}}{{- else -}}Contact US Governors{{- end -}}'>
-<meta property="og:title" content="{{.Params.seo_title}}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{.Permalink}}" />
-<meta property="og:description"content="{{.Description}}" />
-<meta property="og:site_name" content="Contact US Governors" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="description" content="{{.Description}}" />
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
 <meta name="yandex-verification" content="8283adc26fd98eb2" />
 {{- if isset .Params "image" -}}<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />{{- end -}}
 {{- if isset .Params "video" -}}<meta property="og:video" content="https://www.youtube.com/watch?v={{.Params.video}}" />{{- end -}}
