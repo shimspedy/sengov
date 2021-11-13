@@ -1,6 +1,6 @@
 ---
 date: 2021-03-22T11:48:55-05:00
-title: "Cynthia M. Lummis"
+title: "Cynthia M. Lummis bio"
 seo_title: "Know more about Senator Cynthia Lummis"
 subheader:
      greeting: Know more about Senator Cynthia Lummis(R-WY)
@@ -73,11 +73,11 @@ Senator Lummis has spent most of her entire career serving people, families, and
 But, she was criticized for supporting the inhumane slaughtering practices of horses. She also got under fire for her comments on the January 6 insurrection. Yet, none of the criticisms affected her political career.
 
 #### References
-[wyofile]({{"https://wyofile.com/lummis-eathorne-responses-to-insurrection-are-delusional/"}})
-[rtfitchauthor]({{"https://rtfitchauthor.com/2011/06/02/horse-eating-wyoming-politician-spews-more-hatred/"}})
-[youtube]({{"https://www.youtube.com/watch?v=Vay9wqlZknY"}})
-[cryptopotato]({{"https://cryptopotato.com/pro-bitcoin-senator-cynthia-lummis-is-now-on-the-senate-banking-committee/"}})
-[coindesk]({{"https://www.coindesk.com/markets/2021/03/04/senator-lummis-calls-biden-legitimate-us-president/"}})
+* [wyofile]({{"https://wyofile.com/lummis-eathorne-responses-to-insurrection-are-delusional/"}})
+* [rtfitchauthor]({{"https://rtfitchauthor.com/2011/06/02/horse-eating-wyoming-politician-spews-more-hatred/"}})
+* [youtube]({{"https://www.youtube.com/watch?v=Vay9wqlZknY"}})
+* [cryptopotato]({{"https://cryptopotato.com/pro-bitcoin-senator-cynthia-lummis-is-now-on-the-senate-banking-committee/"}})
+* [coindesk]({{"https://www.coindesk.com/markets/2021/03/04/senator-lummis-calls-biden-legitimate-us-president/"}})
 
 
 
