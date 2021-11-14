@@ -39,8 +39,7 @@ fax1:
 fax2: 
 emailaddress:	https://governor.utah.gov/
 website:	https://www.utah.gov/index.html
-powrid: 
-twitter: 
+
 ---
 
 #### Know more about Governor Spencer Cox
