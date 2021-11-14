@@ -28,7 +28,7 @@ phonenumber:	(202) 224-2854
 emailaddress:	https://www.duckworth.senate.gov/help/email-tammy
 website:	https://www.duckworth.senate.gov/
 powrid: 5f34256e_1607161983
-twitter: TammyforIL
+twitter: enDuckworth
 ---
 
 
