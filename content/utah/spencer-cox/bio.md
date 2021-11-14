@@ -1,6 +1,6 @@
 ---
 date: 2020-11-22T11:48:55-05:00
-title: "Spencer Cox"
+title: "Spencer Cox bio"
 seo_title: "Know more about Governor Spencer Cox "
 subheader:
      greeting: contact Governor Spencer Cox 

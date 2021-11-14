@@ -19,14 +19,14 @@ state:	Utah
 birthstate: Utah
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	May 7, 1947
 age: '73'
 enteredoffice:	August 11, 2009 
 terms1: August 11, 2009 - January 1, 2012
 terms2: January 2, 2012 - January 3, 2016
-terms3: January 4, 2016 - Current
-termexpires:	
+terms3: January 4, 2016 - January 4, 2021 
+termexpires:	January 4, 2021 
 mailingaddress1: Utah State Capitol Suite 200 Salt Lake City, UT 84114
 mailingaddress2:		
 phonenumber1: 801/538-1000
