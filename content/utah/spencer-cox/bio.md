@@ -11,7 +11,7 @@ image: spencer-cox.jpeg
 imageurl: /utah/spencer-cox/spencer-cox.jpeg
 imagedir: root
 video:
-url: /utah/spencer-cox/
+url: /utah/spencer-cox/bio
 weight: 2
 layout: course_home
 
