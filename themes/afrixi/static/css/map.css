@@ -5,7 +5,7 @@
 }
 #us-map{
     display:block;
-    width:80%;
+    width:60%;
     height:100%;
     margin:auto}
 #us-map .state path:hover,#us-map circle:hover{
