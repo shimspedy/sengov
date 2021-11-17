@@ -189,5 +189,13 @@ bottom: 0;
 transition: opacity .3s ease;
 }
     
-   
-   
+  #logo-container img{
+     width: 80px;
+     background: #8992b1;
+     border-radius: 50%;
+     border-right: 5px solid #0f1b547a;
+     border-left: 5px solid #563197;
+     border-top: 5px solid #414094;
+     border-bottom: 5px solid #a9007a;
+  } 
+
