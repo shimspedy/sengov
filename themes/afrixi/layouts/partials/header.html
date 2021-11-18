@@ -10,7 +10,7 @@
                                    {{ if .IsHome }}
                                     Senators & Governors
                                    {{ else }}
-                                     Contact {{.Params.Role}} {{.Params.Name}}
+                                   {{ if .Params.Name}} {{.Params.Role}} {{.Params.Name}} {{ else }} SenGov {{ end }}
                                      {{ end }}
                               </span>
                          </a>
