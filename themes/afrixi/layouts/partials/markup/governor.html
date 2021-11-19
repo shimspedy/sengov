@@ -27,7 +27,6 @@
           "headline": "{{.Params.seo_title}}",
           "image": {
             "@type": "ImageObject",
-            <!-- "url": "{{- .RelPermalink -}}{{.Params.image}}", -->
             "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
             "height": 512,
             "width": 1024
@@ -77,7 +76,6 @@
     "wordCount" : "{{ .WordCount }}",
     "image": {
         "@type": "ImageObject",
-        <!-- "url": "{{- .RelPermalink -}}{{.Params.image}}", -->
         "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
         "height": 512,
         "width": 1024
