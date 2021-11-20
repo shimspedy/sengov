@@ -72,9 +72,9 @@ He voted against creating an independent commission for the investigation of the
 * [wikipedia]({{"https://en.wikipedia.org/wiki/Roger_Wicker#Early_political_career"}})
 * [senate]({{"https://www.wicker.senate.gov/public/index.cfm/biography"}})
 * [washingtonpost]({{"https://www.washingtonpost.com/wp-dyn/content/article/2008/01/15/AR2008011503355.html"}})
-* [wtva]({{"https://www.wtva.com/content/news/Coronavirus-relief-and-stimulus-checks-Senator-Wicker-shares-with-WTVA-573453071.html "}})
+* [wtva]({{"https://www.wtva.com/content/news/Coronavirus-relief-and-stimulus-checks-Senator-Wicker-shares-with-WTVA-573453071.html"}})
 * [ttnews]({{"https://www.ttnews.com/articles/sen-roger-wicker-lead-commerce-committee-116th-congress"}})
-* [djournal]({{"https://djournal.com/opinion/senator-roger-wicker-what-congerss-can-do-to-avoid-devastating-cuts/article_1a347d8e-c7e1-5e48-957e-879a-373a2b41.html "}})
+* [djournal]({{"https://djournal.com/opinion/senator-roger-wicker-what-congerss-can-do-to-avoid-devastating-cuts/article_1a347d8e-c7e1-5e48-957e-879a-373a2b41.html"}})
 * [sportico]({{"https://www.sportico.com/law/analysis/2020/roger-wicker-name-image-likeness-1234618233/"}})
 * [youtube]({{"https://www.youtube.com/watch?v=UkBy7-TIZu0"}})
 
