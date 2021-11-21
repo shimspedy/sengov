@@ -15,6 +15,9 @@
 .sen-hero{
    position: inherit;
 }
+.title-inner{
+    color: #FFF;
+}
 @media screen and (min-device-width: 600px) and  (max-device-width: 1500px) {
     .title-inner{
         padding: 0 5rem;
