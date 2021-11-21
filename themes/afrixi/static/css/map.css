@@ -1,7 +1,24 @@
 #map{
-    border: 2px solid #2c7eac;
-    padding: 10px;
-    box-shadow: 1px 1px 1px red;
+    padding: 5px;
+    position: relative;
+}
+#map::before {
+    content: "";
+    background: linear-gradient( 130deg,#562c99,#ab007b 41.07%,#4e5786 76.05%);
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    border-radius: 12px;
+}
+.sen-hero{
+   position: inherit;
+}
+@media screen and (min-device-width: 600px) and  (max-device-width: 1500px) {
+    .title-inner{
+        padding: 0 5rem;
+    }
 }
 #us-map{
     display:block;
