@@ -21,7 +21,6 @@
 @media screen and (min-device-width: 600px) and  (max-device-width: 1500px) {
     .title-inner{
         padding: 0 5rem;
-        color: #FFF;
     }
     .title-inner h2 {
         position: relative;
@@ -31,6 +30,16 @@
         text-transform: uppercase;
         display: inline-block;
         line-height: 72px;
+        margin-bottom: 20px;
+    }
+    .title-inner p {
+        position: relative;
+        font-family: 'Playfair Display', serif;
+        font-weight: 300;
+        font-size: 30px;
+        text-transform: uppercase;
+        display: inline-block;
+        line-height: 32px;
         margin-bottom: 20px;
     }
 }
