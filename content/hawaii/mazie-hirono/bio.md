@@ -62,7 +62,7 @@ Hirono was also criticized for sending a fundraising mail about sexual assault a
 She was also known for her long-standing spite for President Trump. She had openly called him “xenophobic” and a “liar.” She was also one of the senators that voted for the conviction of President Trump.
 
 #### Senator Mazie Hirono Net Worth
-Hirono portrays a good image of American society. Despite her poor background, Hirono was able to work her way up to the top of the American political society. She has, thus, proved that hard work pays. According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/mazie-hirono/net-worth?cid=N00028139&year=2018"}}), her net worth is estimated to be $3 million. 
+Hirono portrays a good image of American society. Despite her poor background, Hirono was able to work her way up to the top of the American political society. She has, thus, proved that hard work pays. According to [OpenSecrets](https://www.opensecrets.org/personal-finances/mazie-hirono/net-worth?cid=N00028139&year=2018), her net worth is estimated to be $3 million. 
 
 #### Final Thoughts
 Hirono is one of US renowned senators. She has worked fervently for the people of Hawaii and the US in promoting security, housing, and infrastructural development. She was also known as a strong advocate of human and women’s rights. She was also popular for defending Ford, a sexual assault victim.
@@ -70,11 +70,11 @@ Hirono is one of US renowned senators. She has worked fervently for the people o
 But, Hirono was accused of covering up a sexual harassment allegation while serving as the lieutenant governor. She was also known for her disdain for the Trump administration.
 
 #### References
-* [youtube]({{"https://www.youtube.com/watch?v=IiPq7BMD1yI"}})
-* [hirono]({{"https://www.hirono.senate.gov/news/press-releases/hirono-tpp-must-be-renegotiated-to-prioritize-american-workers"}})
-* [zocalopublicsquare]({{"https://www.zocalopublicsquare.org/2020/10/07/united-states-senator-mazie-hirono-interview/personalities/in-the-green-room/"}})
-* [google]({{"https://www.google.com/amp/s/amp.cnn.com/cnn/2018/09/27/politics/mazie-hirono-brett-kavanaugh-fundraising/index.html"}})
-* [hawaiifreepress]({{"http://www.hawaiifreepress.com/Articles-Main/ID/22441/VIDEO-Mazie-Hirono-Rocked-By-Scandal-For-Covering-Up-Sexist-Harassment"}})
+* [youtube](https://www.youtube.com/watch?v=IiPq7BMD1yI)
+* [hirono](https://www.hirono.senate.gov/news/press-releases/hirono-tpp-must-be-renegotiated-to-prioritize-american-workers)
+* [zocalopublicsquare](https://www.zocalopublicsquare.org/2020/10/07/united-states-senator-mazie-hirono-interview/personalities/in-the-green-room/)
+* [google](https://www.google.com/amp/s/amp.cnn.com/cnn/2018/09/27/politics/mazie-hirono-brett-kavanaugh-fundraising/index.html)
+* [hawaiifreepress](http://www.hawaiifreepress.com/Articles-Main/ID/22441/VIDEO-Mazie-Hirono-Rocked-By-Scandal-For-Covering-Up-Sexist-Harassment)
 
 
 
