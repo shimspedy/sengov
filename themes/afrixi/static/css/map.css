@@ -16,7 +16,7 @@
    position: inherit;
 }
 .title-inner{
-    color: #FFF;
+    color: #000;
 }
 @media screen and (min-device-width: 600px) and  (max-device-width: 1500px) {
     .title-inner{
