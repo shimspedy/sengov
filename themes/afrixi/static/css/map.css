@@ -1,47 +1,11 @@
 #map{
-    padding: 5px;
-    /* position: relative; */
-}
-/* #map::before {
-    content: "";
-    background: linear-gradient( 130deg,#562c99,#ab007b 41.07%,#4e5786 76.05%);
-    position: absolute;
-    top: -5px;
-    left: -5px;
-    width: calc(100% + 10px);
-    height: calc(100% + 10px);
-    border-radius: 12px;
-} */
-.sen-hero{
-   position: inherit;
-}
-.title-inner{
-    color: #000;
-}
-@media screen and (min-device-width: 600px) and  (max-device-width: 1500px) {
-    .title-inner{
-        padding: 0 5rem;
-    }
-    .title-inner h2 {
-        position: relative;
-        font-family: 'Playfair Display', serif;
-        font-weight: 900;
-        font-size: 80px;
-        text-transform: uppercase;
-        display: inline-block;
-        line-height: 72px;
-        margin-bottom: 20px;
-    }
-    .title-inner p {
-        position: relative;
-        font-family: 'Playfair Display', serif;
-        text-transform: uppercase;
-    }
+    border: 2px solid #2c7eac;
+    padding: 10px;
+    box-shadow: 1px 1px 1px red;
 }
 #us-map{
-    display:block;
-    width:100%;
-    margin:auto}
+    display:block;width:100%;
+    height:100%;margin:auto}
 #us-map .state path:hover,#us-map circle:hover{
     stroke:#333!important;
     stroke-width:1px;
