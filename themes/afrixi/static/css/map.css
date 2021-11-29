@@ -1,8 +1,8 @@
 #map{
     padding: 5px;
-    position: relative;
+    /* position: relative; */
 }
-#map::before {
+/* #map::before {
     content: "";
     background: linear-gradient( 130deg,#562c99,#ab007b 41.07%,#4e5786 76.05%);
     position: absolute;
@@ -11,7 +11,7 @@
     width: calc(100% + 10px);
     height: calc(100% + 10px);
     border-radius: 12px;
-}
+} */
 .sen-hero{
    position: inherit;
 }
