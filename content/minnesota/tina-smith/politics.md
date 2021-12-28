@@ -59,7 +59,7 @@ Tina Smith has been an advocate for the people and communities of Minnesota sinc
 She helped make health care affordable for the people and helped the youth follow more in-demand careers.
 
 #### Senator Tina Smith Criticisms
-Tina Smith was one of the Democrats who blamed Trump for the riot at the Capitol and called for [Trump’s immediate removal]({{"https://www.smith.senate.gov/senate-floor-speech-us-senator-tina-smith-outlines-minnesotans-why-shell-vote-remove-president"}}). Republican supporters felt that was not fair. 
+Tina Smith was one of the Democrats who blamed Trump for the riot at the Capitol and called for [Trump’s immediate removal](https://www.smith.senate.gov/senate-floor-speech-us-senator-tina-smith-outlines-minnesotans-why-shell-vote-remove-president). Republican supporters felt that was not fair. 
 Some commentators criticized Tina Smith for being too liberal on tax and government spending. 
 
 Also Senator Smith’s previous work as a Vice President at Planned Parenthood may also be a source of criticism for anti-abortion thinkers. 
@@ -71,13 +71,13 @@ According to an article by MPR News, Tina smith’s estimated net worth accordin
 Sen. Smith has received much love and respect from the people of Minnesota for the efforts that she made in sectors of healthcare care and agriculture. She has been there for the people of Minnesota ever since she came into the Senate. We are to see more of her accomplishments in the future.
 
 #### Reference
-* [mprnews]({{"https://www.mprnews.org/story/2018/05/04/sen-smith-has-net-worth-of-at-least-5-million"}})
-* [wikipedia]({{"https://en.wikipedia.org/wiki/Tina_Smith"}})
-* [twincities]({{"https://www.twincities.com/2018/01/03/u-s-sen-tina-smith-on-her-first-day-i-cant-wait-to-get-to-work/ "}})
-* [smith]({{"https://www.smith.senate.gov/accomplishments"}})
-* [bemidjipioneer]({{"https://www.bemidjipioneer.com/news/government-and-politics/6976402-Sen.-Tina-Smith-visits-Rochester-food-bank-to-hear-about-relief-funding-progress"}})
-* [sctimes]({{"https://www.sctimes.com/story/news/2020/07/11/sen-tina-smith-talks-affordable-housing-more-islamic-center-st-cloud/5420952002/"}})
-* [senate]({{"https://www.smith.senate.gov/BlackHistoryMonth "}})
+* [mprnews](https://www.mprnews.org/story/2018/05/04/sen-smith-has-net-worth-of-at-least-5-million)
+* [wikipedia](https://en.wikipedia.org/wiki/Tina_Smith)
+* [twincities](https://www.twincities.com/2018/01/03/u-s-sen-tina-smith-on-her-first-day-i-cant-wait-to-get-to-work/ )
+* [smith](https://www.smith.senate.gov/accomplishments)
+* [bemidjipioneer](https://www.bemidjipioneer.com/news/government-and-politics/6976402-Sen.-Tina-Smith-visits-Rochester-food-bank-to-hear-about-relief-funding-progress)
+* [sctimes](https://www.sctimes.com/story/news/2020/07/11/sen-tina-smith-talks-affordable-housing-more-islamic-center-st-cloud/5420952002/)
+* [senate](https://www.smith.senate.gov/BlackHistoryMonth )
 
 
 

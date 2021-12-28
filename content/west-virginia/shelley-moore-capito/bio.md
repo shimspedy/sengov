@@ -72,7 +72,7 @@ Senator Capito got criticized because of matters related to her father – Gover
 Understandably some moderate voters blamed her for blocking motions to investigate the January 6 insurrection at Capitol Hill.
 
 #### Senator Shelley Moore Capito Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/shelley-capito/net-worth?cid=N00009771&year=2018"}}), Senator Shelley Moore Capito’s estimated net worth is $2.1 million.
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/shelley-capito/net-worth?cid=N00009771&year=2018), Senator Shelley Moore Capito’s estimated net worth is $2.1 million.
 
 #### Final Thoughts
 Senator Capito is a moderate politician with reputable political achievements. She has worked across both sides of the aisle to provide bipartisan solutions to her people’s challenges. She has also worked to improve security, healthcare, and the economy. 
@@ -80,8 +80,8 @@ Senator Capito is a moderate politician with reputable political achievements. S
 But, her father’s past legacies continue to haunt her political career. She also got criticized for voting against the creation of an independent commission for the January 6 insurrection.
 
 #### References
-* [rollcall]({{"https://www.rollcall.com/2014/07/09/shelley-moore-capito-campaigns-amid-fathers-complicated-legacy/"}})
-* [politico]({{"https://www.politico.com/news/2021/04/26/shelley-moore-capito-senate-484453"}})
-* [usnews]({{"https://www.usnews.com/news/politics/articles/2017-06-02/10-things-you-didnt-know-about-shelley-moore-capito"}})
-* [nationaljournal]({{"https://www.nationaljournal.com/s/665183/wednesday-q-amp-with-sen-shelley-moore-capito"}})
+* [rollcall](https://www.rollcall.com/2014/07/09/shelley-moore-capito-campaigns-amid-fathers-complicated-legacy/)
+* [politico](https://www.politico.com/news/2021/04/26/shelley-moore-capito-senate-484453)
+* [usnews](https://www.usnews.com/news/politics/articles/2017-06-02/10-things-you-didnt-know-about-shelley-moore-capito)
+* [nationaljournal](https://www.nationaljournal.com/s/665183/wednesday-q-amp-with-sen-shelley-moore-capito)
 

@@ -68,7 +68,7 @@ Scott was part of the Senators that wrote an anti-nuclear deal letter to the Ira
 
 #### Senator Tim Scott Net Worth
 
-According to [opensecrets]({{"https://www.opensecrets.org/personal-finances/tim-scott/net-worth?cid=N00031782&year=2018"}}), Senator Scott’s estimated net worth is$200,000. From his financial records, Scott was worth $1 million in 2018. But, his net worth has dropped significantly since then.
+According to [opensecrets](https://www.opensecrets.org/personal-finances/tim-scott/net-worth?cid=N00031782&year=2018), Senator Scott’s estimated net worth is$200,000. From his financial records, Scott was worth $1 million in 2018. But, his net worth has dropped significantly since then.
 
 #### Final Thoughts
 Senator Scott’s administration has positively changed the sectors and lives of his people. His passion for public service has bolstered his effort to create equal opportunity at a good life for every American. 
@@ -76,7 +76,7 @@ Senator Scott’s administration has positively changed the sectors and lives of
 But, he once got under fire for declaring that America is not a racist country. He also got backlash after signing an anti-nuclear deal letter to Iran. He was also part of the Senator ms that filibustered CIA’s drone policy.
 
 #### References
-* [thegrio]({{"https://thegrio.com/2021/04/29/black-twitter-tim-scott-america-not-racist/"}})
-* [thegrio]({{"https://thegrio.com/2021/04/29/black-twitter-tim-scott-america-not-racist/"}})
-* [votetimscott]({{"https://votetimscott.com/"}})
-* [apnews]({{"https://apnews.com/article/tim-scott-response-biden-congress-d72e6968bd07d9f20c54b4f6d0d29ac9"}})
+* [thegrio](https://thegrio.com/2021/04/29/black-twitter-tim-scott-america-not-racist/)
+* [thegrio](https://thegrio.com/2021/04/29/black-twitter-tim-scott-america-not-racist/)
+* [votetimscott](https://votetimscott.com/)
+* [apnews](https://apnews.com/article/tim-scott-response-biden-congress-d72e6968bd07d9f20c54b4f6d0d29ac9)

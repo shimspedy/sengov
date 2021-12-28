@@ -66,18 +66,18 @@ Lummis was also criticized for supporting President Trump after the January 6 in
 According to Lummis, she claimed Trump’s supporters are peaceful, happy, and patriotic people. She so denied that Trump’s supporters were responsible, adding that they are Pro-America. She also voted in opposition to the creation of an independent commission.
 
 #### Senator Cynthia Lummis Net Worth
-According to [opensecrets]({{"https://www.opensecrets.org/personal-finances/roger-marshall/net-worth?cid=N00037034&year=2018"}}), Senator Cynthia Lummis’s estimated net worth is$14.4 million.
+According to [opensecrets](https://www.opensecrets.org/personal-finances/roger-marshall/net-worth?cid=N00037034&year=2018), Senator Cynthia Lummis’s estimated net worth is$14.4 million.
 
 #### Final Thoughts
 Senator Lummis has spent most of her entire career serving people, families, and communities in Wyoming. Her public service has always focused on improving her state and her people. 
 But, she was criticized for supporting the inhumane slaughtering practices of horses. She also got under fire for her comments on the January 6 insurrection. Yet, none of the criticisms affected her political career.
 
 #### References
-* [wyofile]({{"https://wyofile.com/lummis-eathorne-responses-to-insurrection-are-delusional/"}})
-* [rtfitchauthor]({{"https://rtfitchauthor.com/2011/06/02/horse-eating-wyoming-politician-spews-more-hatred/"}})
-* [youtube]({{"https://www.youtube.com/watch?v=Vay9wqlZknY"}})
-* [cryptopotato]({{"https://cryptopotato.com/pro-bitcoin-senator-cynthia-lummis-is-now-on-the-senate-banking-committee/"}})
-* [coindesk]({{"https://www.coindesk.com/markets/2021/03/04/senator-lummis-calls-biden-legitimate-us-president/"}})
+* [wyofile](https://wyofile.com/lummis-eathorne-responses-to-insurrection-are-delusional/)
+* [rtfitchauthor](https://rtfitchauthor.com/2011/06/02/horse-eating-wyoming-politician-spews-more-hatred/)
+* [youtube](https://www.youtube.com/watch?v=Vay9wqlZknY)
+* [cryptopotato](https://cryptopotato.com/pro-bitcoin-senator-cynthia-lummis-is-now-on-the-senate-banking-committee/)
+* [coindesk](https://www.coindesk.com/markets/2021/03/04/senator-lummis-calls-biden-legitimate-us-president/)
 
 
 

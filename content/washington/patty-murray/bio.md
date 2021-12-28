@@ -71,7 +71,7 @@ Before the allegations surfaced, Senator Coborn introduced an amendment that wou
 Senator Murray was also criticized for refusing to vote on creating an independent commission to investigate the Jan 6 insurrection. But she cited a personal family issue for her abstention.
 
 #### Senator Patty Murray Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/net-worth?cid=N00007876&year=2018"}}), Senator Patty Murray’s estimated net worth is $1.7 million.
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/net-worth?cid=N00007876&year=2018), Senator Patty Murray’s estimated net worth is $1.7 million.
 
 #### Final Thoughts
 Murray is a moderate to a liberal politician who has spent more than two decades fighting for Washington State in the Senate. She has been tenacious in addressing the needs of her people. 
@@ -79,8 +79,8 @@ Murray is a moderate to a liberal politician who has spent more than two decades
 But she was criticized for voting to allow Viagra for sex offenders. She was also condemned for her abstention on creating an independent commission for the Jan 6 insurrection.
 
 #### References
-* [npr]({{"https://www.npr.org/templates/story/story.php?storyId=126293257"}})
-* [wikipedia]({{"https://en.m.wikipedia.org/wiki/Patty_Murray"}})
-* [seattletimes]({{"https://www.seattletimes.com/seattle-news/politics/sen-patty-murray-misses-vote-on-jan-6-commission-citing-personal-family-matter/"}})
-* [knkx]({{"https://www.knkx.org/environment/2021-07-27/murray-pushes-climate-as-senate-tackles-infrastructure-budget-measures"}})
+* [npr](https://www.npr.org/templates/story/story.php?storyId=126293257)
+* [wikipedia](https://en.m.wikipedia.org/wiki/Patty_Murray)
+* [seattletimes](https://www.seattletimes.com/seattle-news/politics/sen-patty-murray-misses-vote-on-jan-6-commission-citing-personal-family-matter/)
+* [knkx](https://www.knkx.org/environment/2021-07-27/murray-pushes-climate-as-senate-tackles-infrastructure-budget-measures)
 

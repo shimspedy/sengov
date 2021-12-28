@@ -66,17 +66,17 @@ On November 15, 2018, another controversial video appeared and went viral. It wa
 In August 2018, Hyde-Smith was criticized because she co-sponsored the Israel Anti-Boycott Act.
 
 #### Senator Cindy Hyde-Smith Net Worth
-According to [Political Saga]({{"https://politicalsaga.com/Cindy-Hyde-Smith"}}), Cindy Hyde-Smith has a net worth of around $8 Million as of 2021.
+According to [Political Saga](https://politicalsaga.com/Cindy-Hyde-Smith"}}), Cindy Hyde-Smith has a net worth of around $8 Million as of 2021.
 
 #### Final Thoughts
 Sen. Smith won re-election for Mississippi in 2020. She has earned a good reputation among Mississippians for her legislative work to improve their life. She was in some controversies but those did not affect her career.
 
 #### Reference
-* [wikipedia]({{{"https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"}}})
-* [politicalsaga]({{{"https://politicalsaga.com/Cindy-Hyde-Smith"}}})
-* [hydesmith]({{{"https://www.hydesmith.senate.gov/about-cindy"}}})
-* [washingtonpost]({{{"https://www.washingtonpost.com/politics/2018/11/11/senator-mississippi-joked-about-public-hanging-her-black-opponent-called-it-reprehensible/"}}})
-* [nytimes]({{{"https://www.nytimes.com/2018/12/14/us/politics/cindy-hyde-smith-mississippi-campaign.html"}}})
-* [nymag]({{{"https://nymag.com/intelligencer/2018/11/black-mississippi-deserves-better.html"}}})
-* [newyorker]({{{"https://www.newyorker.com/humor/borowitz-report/cindy-hyde-smith-says-she-never-lost-faith-in-mississippis-racists"}}})
+* [wikipedia](https://en.wikipedia.org/wiki/Cindy_Hyde-Smith)
+* [politicalsaga](https://politicalsaga.com/Cindy-Hyde-Smith)
+* [hydesmith](https://www.hydesmith.senate.gov/about-cindy)
+* [washingtonpost](https://www.washingtonpost.com/politics/2018/11/11/senator-mississippi-joked-about-public-hanging-her-black-opponent-called-it-reprehensible/)
+* [nytimes](https://www.nytimes.com/2018/12/14/us/politics/cindy-hyde-smith-mississippi-campaign.html)
+* [nymag](https://nymag.com/intelligencer/2018/11/black-mississippi-deserves-better.html)
+* [newyorker](https://www.newyorker.com/humor/borowitz-report/cindy-hyde-smith-says-she-never-lost-faith-in-mississippis-racists)
 

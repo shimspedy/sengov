@@ -80,8 +80,8 @@ Before her election to the U.S. Senate, Baldwin was committed to improving his p
 But, she was morally criticized for being a Lesbian. She was also criticized for neglecting opioid overdose reports. Critics blame her inaction for the death of many veterans. She also allegedly covered up the scandal afterward. 
 
 #### References
-* [google]({{"https://www.google.com/amp/s/amp.jsonline.com/amp/1509149002"}})
-* [politifact]({{"https://www.politifact.com/factchecks/2018/oct/03/leah-vukmir/leah-vukmir-partially-accurate-faulting-tammy-bald/"}})
-* [thenation]({{"https://www.thenation.com/article/archive/senator-tammy-baldwin-just-destroyed-scott-walker-on-twitter/"}})
-* [nbcnews]({{"https://www.nbcnews.com/feature/nbc-out/sen-tammy-baldwin-certainly-would-be-biden-s-running-mate-n1232275"}})
-* [youtube]({{"https://www.youtube.com/watch?v=AcKXsBB-yuc"}})
+* [google](https://www.google.com/amp/s/amp.jsonline.com/amp/1509149002)
+* [politifact](https://www.politifact.com/factchecks/2018/oct/03/leah-vukmir/leah-vukmir-partially-accurate-faulting-tammy-bald/)
+* [thenation](https://www.thenation.com/article/archive/senator-tammy-baldwin-just-destroyed-scott-walker-on-twitter/)
+* [nbcnews](https://www.nbcnews.com/feature/nbc-out/sen-tammy-baldwin-certainly-would-be-biden-s-running-mate-n1232275)
+* [youtube](https://www.youtube.com/watch?v=AcKXsBB-yuc)

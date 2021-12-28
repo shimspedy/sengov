@@ -74,9 +74,9 @@ Senator Ron has represented his people’s interests at the state and national l
 But, Ron has faced many political backlashes and criticism. A nonprofit watchdog accused him of mishandling government information for personal use. He also got under fire for spreading misinformation about the COVID virus. He was also accused of conflict of interest after lying about securing his riches.
 
 #### References
-* [apnews]({{"https://apnews.com/article/wi-state-wire-misinformation-health-coronavirus-pandemic-329ff19fc4611ca69062d4439223b953"}})
-* [exposedbycmd]({{"https://www.exposedbycmd.org/2020/08/13/watchdog-groups-call-for-ethics-investigation-of-senator-ron-johnsons-misuse-of-committee-to-promote-political-disinformation/"}})
-* [usinessinsider]({{"https://www.businessinsider.com/ron-johnson-capitol-riot-senate-gop-impeachment-trump-2021-2"}})
-* [politico]({{"https://www.politico.com/news/2020/12/18/ron-johnson-blocks-stimulus-checks-twice-448504"}})
+* [apnews](https://apnews.com/article/wi-state-wire-misinformation-health-coronavirus-pandemic-329ff19fc4611ca69062d4439223b953)
+* [exposedbycmd](https://www.exposedbycmd.org/2020/08/13/watchdog-groups-call-for-ethics-investigation-of-senator-ron-johnsons-misuse-of-committee-to-promote-political-disinformation/)
+* [usinessinsider](https://www.businessinsider.com/ron-johnson-capitol-riot-senate-gop-impeachment-trump-2021-2)
+* [politico](https://www.politico.com/news/2020/12/18/ron-johnson-blocks-stimulus-checks-twice-448504)
 
 

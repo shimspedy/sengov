@@ -70,17 +70,17 @@ Middle-ground voters also considered Sanders’ policies to be too far left – 
 He is also known or more like hated, for his memorable 8.5 hour-long filibusters.
 
 #### Senator Bernie Sanders Net Worth
-According to various resources on the internet like [WealthyGorilla]({{"https://wealthygorilla.com/bernie-sanders-net-worth/"}}) and [Wealthy Genius]({{"https://www.wealthygenius.com/bernie-sanders-net-worth/"}}), Bernie Sanders’s net worth is estimated to be around $3 million.
+According to various resources on the internet like [WealthyGorilla](https://wealthygorilla.com/bernie-sanders-net-worth/) and [Wealthy Genius](https://www.wealthygenius.com/bernie-sanders-net-worth/), Bernie Sanders’s net worth is estimated to be around $3 million.
 
 #### Final Thoughts
 Sen. Bernie Sanders’s 2016 presidential campaign was a moral victory, unlike his 2020 campaign. Sanders ignited a movement that pulled the party in an unimaginable direction. 
 
 #### Reference
-* [wealthygorilla]({{"https://wealthygorilla.com/bernie-sanders-net-worth/"}})
-* [middlebury]({{"https://sites.middlebury.edu/berniesanders/criticisms/"}})
-* [indystar]({{"https://www.indystar.com/story/opinion/readers/2016/02/14/bernie-sanders-failed-nations-veterans/80248386/"}})
-* [wikipedia]({{"https://en.wikipedia.org/wiki/Bernie_Sanders#Official"}})
-* [sanders]({{"https://www.sanders.senate.gov/about-bernie/"}})
-* [thedailybeast]({{"https://www.thedailybeast.com/what-bernie-sanders-really-got-done-in-his-29-years-in-congress?ref=scroll"}})
-* [aljazeera]({{"https://www.aljazeera.com/news/2021/1/27/bernie-sanders-mitten-meme-grabs-big-bucks-for-charity"}})
-* [bloomberg]({{"https://www.bloomberg.com/news/articles/2021-06-22/salt-deduction-relief-included-in-sanders-budget-proposal"}})
+* [wealthygorilla](https://wealthygorilla.com/bernie-sanders-net-worth/)
+* [middlebury](https://sites.middlebury.edu/berniesanders/criticisms/)
+* [indystar](https://www.indystar.com/story/opinion/readers/2016/02/14/bernie-sanders-failed-nations-veterans/80248386/)
+* [wikipedia](https://en.wikipedia.org/wiki/Bernie_Sanders#Official)
+* [sanders](https://www.sanders.senate.gov/about-bernie/)
+* [thedailybeast](https://www.thedailybeast.com/what-bernie-sanders-really-got-done-in-his-29-years-in-congress?ref=scroll)
+* [aljazeera](https://www.aljazeera.com/news/2021/1/27/bernie-sanders-mitten-meme-grabs-big-bucks-for-charity)
+* [bloomberg](https://www.bloomberg.com/news/articles/2021-06-22/salt-deduction-relief-included-in-sanders-budget-proposal)

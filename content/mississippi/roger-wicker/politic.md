@@ -61,7 +61,7 @@ Sen. Wicker was criticized in 2006 after securing an earmark of $6 million for a
 Sen. Wicker was among the many Senators who were criticized for co-sponsoring the Israel-Anti Boycott Act in 2017.
 
 #### Senator Roger Wicker Net Worth
-According to [opensecrets]({{"https://www.opensecrets.org/personal-finances/net-worth?cid=N00003280&year=2018"}}), Roger Wicker’s net worth is estimated to be around $1.4 Million as of 2018.
+According to [opensecrets](https://www.opensecrets.org/personal-finances/net-worth?cid=N00003280&year=2018), Roger Wicker’s net worth is estimated to be around $1.4 Million as of 2018.
 
 #### Final Thoughts
 Sen. Roger Wicker has earned a good reputation among Mississippians for his activeness in efforts to fight heart diseases, diabetes, childhood obesity and Alzheimer’s. He was recognized as a champion of polio eradication.
@@ -69,14 +69,14 @@ Sen. Roger Wicker has earned a good reputation among Mississippians for his acti
 He voted against creating an independent commission for the investigation of the 2021 U.S. Capitol attack. We are yet to see more of Roger Wicker in the Senate. 
 
 #### Reference
-* [wikipedia]({{"https://en.wikipedia.org/wiki/Roger_Wicker#Early_political_career"}})
-* [senate]({{"https://www.wicker.senate.gov/public/index.cfm/biography"}})
-* [washingtonpost]({{"https://www.washingtonpost.com/wp-dyn/content/article/2008/01/15/AR2008011503355.html"}})
-* [wtva]({{"https://www.wtva.com/content/news/Coronavirus-relief-and-stimulus-checks-Senator-Wicker-shares-with-WTVA-573453071.html"}})
-* [ttnews]({{"https://www.ttnews.com/articles/sen-roger-wicker-lead-commerce-committee-116th-congress"}})
-* [djournal]({{"https://djournal.com/opinion/senator-roger-wicker-what-congerss-can-do-to-avoid-devastating-cuts/article_1a347d8e-c7e1-5e48-957e-879a-373a2b41.html"}})
-* [sportico]({{"https://www.sportico.com/law/analysis/2020/roger-wicker-name-image-likeness-1234618233/"}})
-* [youtube]({{"https://www.youtube.com/watch?v=UkBy7-TIZu0"}})
+* [wikipedia](https://en.wikipedia.org/wiki/Roger_Wicker#Early_political_career)
+* [senate](https://www.wicker.senate.gov/public/index.cfm/biography)
+* [washingtonpost](https://www.washingtonpost.com/wp-dyn/content/article/2008/01/15/AR2008011503355.html)
+* [wtva](https://www.wtva.com/content/news/Coronavirus-relief-and-stimulus-checks-Senator-Wicker-shares-with-WTVA-573453071.html)
+* [ttnews](https://www.ttnews.com/articles/sen-roger-wicker-lead-commerce-committee-116th-congress)
+* [djournal](https://djournal.com/opinion/senator-roger-wicker-what-congerss-can-do-to-avoid-devastating-cuts/article_1a347d8e-c7e1-5e48-957e-879a-373a2b41.html)
+* [sportico](https://www.sportico.com/law/analysis/2020/roger-wicker-name-image-likeness-1234618233/)
+* [youtube](https://www.youtube.com/watch?v=UkBy7-TIZu0)
 
 
 

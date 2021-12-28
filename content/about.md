@@ -12,7 +12,7 @@ layout: single
 
 ---
 #### How to find the contact information of my senators?
-It is easy to find the contact information for your state's senators. The phone number, mailing address, and email address for all 100 current United States senators and much more are available on [sengov]({{"https://sengov.com/"}}).
+It is easy to find the contact information for your state's senators. The phone number, mailing address, and email address for all 100 current United States senators and much more are available on [sengov](https://sengov.com/).
 
 #### To find the contact information for your senators, there are many ways:
 * Go to the contact senators and governors home page and find the state you live in. Each state has two senators and one governor at any given time.

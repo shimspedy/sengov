@@ -55,7 +55,7 @@ Senator Fischer got under fire for suing her neighbor over their land. According
 Fischer was also criticized for leasing her family’s ranch below market price. She leased the land for $110,000 per year, which is less than the market rate on private lands. But, she argued that the poor quality of the land makes it inappropriate to lease out at a normal rate.
 
 #### Senator Deb Fischer Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/members-of-congress/summary?cid=N00033443"}}), Senator Fischer’s net worth is estimated to be $2.8 million.
+According to [OpenSecrets](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443), Senator Fischer’s net worth is estimated to be $2.8 million.
 
 #### Final Thoughts
 Senator Fischer is an avid politician with many legislative achievements in the service of her people. She has worked to promote common sense legislatures that will promote the lives of families and communities in Nebraska.
@@ -63,8 +63,8 @@ Senator Fischer is an avid politician with many legislative achievements in the 
 But, Fischer was criticized for leasing her family’s ranching land below market price. She also got under fire for benefitting from a federal program as a Senator.
 
 ### References
-* [wikipedia]({{"https://en.m.wikipedia.org/wiki/Deb_Fischer"}})
-* [columbustelegram]({{"https://columbustelegram.com/news/local/govt-and-politics/elections/kerry-ad-accuses-fischer-of-land-grab/article_81a0cb04-1790-11e2-980a-0019bb2963f4.html"}})
-* [nymag]({{"https://nymag.com/intelligencer/2016/10/after-three-days-senator-deb-fischer-re-endorses-trump.html"}})
-* [heritage]({{"https://www.heritage.org/defense/event/virtual-event-senator-deb-fischer-the-future-nuclear-modernization"}})
-* [fischerfornebraska]({{"https://www.fischerfornebraska.com/"}})
+* [wikipedia](https://en.m.wikipedia.org/wiki/Deb_Fischer)
+* [columbustelegram](https://columbustelegram.com/news/local/govt-and-politics/elections/kerry-ad-accuses-fischer-of-land-grab/article_81a0cb04-1790-11e2-980a-0019bb2963f4.html)
+* [nymag](https://nymag.com/intelligencer/2016/10/after-three-days-senator-deb-fischer-re-endorses-trump.html)
+* [heritage](https://www.heritage.org/defense/event/virtual-event-senator-deb-fischer-the-future-nuclear-modernization)
+* [fischerfornebraska](https://www.fischerfornebraska.com/)

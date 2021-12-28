@@ -68,7 +68,7 @@ Barrasso was condemned for opposing healthcare programs for his state on the gro
 The bill also covers climate change and child tax credit. Barrasso has voted against both bills.
 
 #### Senator John Barrasso Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/net-worth?cid=N00006236&year=2018"}}), Senator John Barrasso’s estimated net worth is $8.3 million. With this figure, he is one of the richest U.S.U.S. Senator.
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/net-worth?cid=N00006236&year=2018), Senator John Barrasso’s estimated net worth is $8.3 million. With this figure, he is one of the richest U.S.U.S. Senator.
 
 #### Final Thoughts
 Senator Barrasso is a conservative politician renowned for his legislative accomplishments. His administration has always fostered the development of Wyoming’s economy. He has also worked towards environmental, infrastructure, and energy development.
@@ -76,11 +76,11 @@ Senator Barrasso is a conservative politician renowned for his legislative accom
 But, Barrasso was condemned for campaign misconduct. He was also criticized for burying and dismissing evidence against Trump. Also, he was criticized for putting his party interest against President Biden before the interest of his constituency.
 
 #### References
-* [vox]({{"https://www.vox.com/2020/1/24/21080406/john-barrasso-impeachment-trial-evidence-trump-tape"}})
-* [pogo]({{"https://www.pogo.org/investigation/2019/01/wheeler-spins-barrasso-in-his-revolving-door/"}})
-* [k2radio.]({{"https://k2radio.com/barrasso-biden-administration-incompetent-and-dangerous/as"}})
-* [politico]({{"https://www.politico.com/news/2020/11/18/barrasso-top-gop-senate-energy-slot-437717"}})
-* [politico]({{"https://www.politico.com/news/2020/11/18/barrasso-top-gop-senate-energy-slot-437717"}})
-* [cnn]({{"https://edition.cnn.com/2017/06/21/politics/john-barrasso-health-care-bill-cnntv/index.html"}})
-* [youtube.]({{"https://www.youtube.com/watch?v=sd6yqFf6Yh4"}})
+* [vox](https://www.vox.com/2020/1/24/21080406/john-barrasso-impeachment-trial-evidence-trump-tape)
+* [pogo](https://www.pogo.org/investigation/2019/01/wheeler-spins-barrasso-in-his-revolving-door/)
+* [k2radio.](https://k2radio.com/barrasso-biden-administration-incompetent-and-dangerous/as)
+* [politico](https://www.politico.com/news/2020/11/18/barrasso-top-gop-senate-energy-slot-437717)
+* [politico](https://www.politico.com/news/2020/11/18/barrasso-top-gop-senate-energy-slot-437717)
+* [cnn](https://edition.cnn.com/2017/06/21/politics/john-barrasso-health-care-bill-cnntv/index.html)
+* [youtube.](https://www.youtube.com/watch?v=sd6yqFf6Yh4)
 

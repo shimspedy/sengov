@@ -78,8 +78,8 @@ As a Senator, Booker has employed an innovative and consensus-building approach 
 But, Booker has faced charges of financial misconduct. He was also under fire for sexually assaulting a mate at Stanford. No criminal record or legal actions have been brought forward.
 
 #### References
-* [politifact]({{"https://www.politifact.com/factchecks/2019/oct/14/roger-stone/old-roger-stone-video-about-cory-booker-has-gone-v/"}})
-* [cnbc]({{"https://www.cnbc.com/2019/07/16/roger-stone-banned-from-social-media-after-judge-rules-gag-order-breached.html"}})
-* [politico]({{"https://www.politico.com/story/2019/02/01/cory-booker-2020-announcement-1140797"}})
-* [thedailybeast]({{"https://www.thedailybeast.com/the-ugly-truth-about-cory-booker-new-jerseys-golden-boy"}})
-* [wbur]({{"https://www.wbur.org/npr/700552687/cory-booker-promises-to-bring-america-together-but-how"}})
+* [politifact](https://www.politifact.com/factchecks/2019/oct/14/roger-stone/old-roger-stone-video-about-cory-booker-has-gone-v/)
+* [cnbc](https://www.cnbc.com/2019/07/16/roger-stone-banned-from-social-media-after-judge-rules-gag-order-breached.html)
+* [politico](https://www.politico.com/story/2019/02/01/cory-booker-2020-announcement-1140797)
+* [thedailybeast](https://www.thedailybeast.com/the-ugly-truth-about-cory-booker-new-jerseys-golden-boy)
+* [wbur](https://www.wbur.org/npr/700552687/cory-booker-promises-to-bring-america-together-but-how)

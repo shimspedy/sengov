@@ -63,12 +63,12 @@ Apart from all these, Casey is an avid environmental protection advocate. He opp
 Senator Casey was part of the Senators that voted for the indictment and conviction of Trump. His decision came after Trump faced charges of an indictment of an insurrection.
 
 #### Senator Bob Casey Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/bob-casey/net-worth?cid=N00027503&year=2018"}}), Senator Casey is worth an estimated $610,000
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/bob-casey/net-worth?cid=N00027503&year=2018), Senator Casey is worth an estimated $610,000
 
 #### Final Thoughts
 Senator Casey is a strong advocate of economic development. He has fought for the improvement of the lives of his people through various legislative means. He has also worked to meet the needs of workers, children, and families. 
 
 #### Reference
-* [pittnews]({{"https://pittnews.com/article/137580/top-stories/pa-senator-bob-casey-jr-beats-lou-barletta-wins-third-term/"}})
-* [youtube]({{"https://www.youtube.com/watch?v=Gn2D_eVMTy4"}})
-* [politico]({{"https://www.politico.com/story/2018/07/02/casey-abortion-pennsylvania-midterms-689505"}})
+* [pittnews](https://pittnews.com/article/137580/top-stories/pa-senator-bob-casey-jr-beats-lou-barletta-wins-third-term/)
+* [youtube](https://www.youtube.com/watch?v=Gn2D_eVMTy4)
+* [politico](https://www.politico.com/story/2018/07/02/casey-abortion-pennsylvania-midterms-689505)

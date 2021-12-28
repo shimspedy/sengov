@@ -70,7 +70,7 @@ Portman admitted Trump’s attempt to blackmail Ukraine as inappropriate. Yet, h
 He was also part of the Senators that sent a controversial letter to Iran. The letter warned the Iranian government against signing a nuclear deal with the U.S. government without Congress’s approval. But, the letter got them under fire from the Obama administration and Congress. 
 
 #### Senator Rob Portman Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/rob-portman/net-worth?cid=N00003682&year=2018"}}), Senator Rob Portman’s estimated net worth is $10.8 million. But, a large percentage of his worth is held in bonds and mutual funds. He has real estate holdings worth $1.4 million. He also has an investment with Lebanon House Inc. in Ohio. 
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/rob-portman/net-worth?cid=N00003682&year=2018), Senator Rob Portman’s estimated net worth is $10.8 million. But, a large percentage of his worth is held in bonds and mutual funds. He has real estate holdings worth $1.4 million. He also has an investment with Lebanon House Inc. in Ohio. 
 
 #### Final Thoughts
 Portman has earned a reputation as a result-focused and community service leader. He has also authored several laws and reforms in the service of his people and the development of his state. 
@@ -78,6 +78,6 @@ Portman has earned a reputation as a result-focused and community service leader
 But, Portman was criticized for supporting Trump despite several ethical and moral issues against Trump. He also got under fire for supporting the anti-nuclear deal letter sent to the Iranian government. 
 
 ##### Reference
-[politico]({{"https://www.politico.com/news/2021/01/25/rob-portman-wont-seek-reelection-462146"}})
-[wksu]({{"https://www.wksu.org/government-politics/2021-01-25/ohio-sen-rob-portman-wont-seek-re-election-in-2022"}})
-[abc6onyourside]({{"https://abc6onyourside.com/news/local/gop-senator-rob-portman-of-ohio-wont-seek-reelection"}})
+[politico](https://www.politico.com/news/2021/01/25/rob-portman-wont-seek-reelection-462146)
+[wksu](https://www.wksu.org/government-politics/2021-01-25/ohio-sen-rob-portman-wont-seek-re-election-in-2022)
+[abc6onyourside](https://abc6onyourside.com/news/local/gop-senator-rob-portman-of-ohio-wont-seek-reelection)

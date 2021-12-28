@@ -60,15 +60,15 @@ Sen. Curz’s role in the U.S. federal government shutdown of 2013 attracted cri
 In 2015, Cruz was criticized for his statement that seemed to connect Obama to terrorism because of the nuclear agreement with Iran. Cruz’s statement was said to be way over the line and people hated it. 
 
 #### Senator Ted Cruz Net Worth
-Based on publicly available information on [opensecrets]({{"https://www.opensecrets.org/personal-finances/ted-cruz/net-worth?cid=N00033085"}}), we estimated Ted Cruz’s net worth to be around $4 million as of 2021. 
+Based on publicly available information on [opensecrets](https://www.opensecrets.org/personal-finances/ted-cruz/net-worth?cid=N00033085), we estimated Ted Cruz’s net worth to be around $4 million as of 2021. 
 
 #### Final Thoughts
 Ted Cruz has been an effective fighter for “small” on government, “big” on corporate and economic growth, and the Constitution. He had some controversies throughout his career. Most Texans seem to like him for upholding the Texas value. 
 
 
 #### Reference
-* [wikipedia]({{"https://en.wikipedia.org/wiki/Ted_Cruz"}})
-* [cruz]({{"https://www.cruz.senate.gov/?p=about_senator"}})
-* [texastribune]({{"https://www.texastribune.org/2018/11/02/ted-cruz-beto-orourke-congressional-accomplishments-texas/"}})
-* [spectrumlocalnews]({{"https://spectrumlocalnews.com/tx/austin/news/2020/07/13/sen–ted-cruz-spotted-not-wearing-mask-on-flight"}})
-* [bbc]({{"https://www.bbc.com/news/world-us-canada-48301348"}})
+* [wikipedia](https://en.wikipedia.org/wiki/Ted_Cruz)
+* [cruz](https://www.cruz.senate.gov/?p=about_senator)
+* [texastribune](https://www.texastribune.org/2018/11/02/ted-cruz-beto-orourke-congressional-accomplishments-texas/)
+* [spectrumlocalnews](https://spectrumlocalnews.com/tx/austin/news/2020/07/13/sen–ted-cruz-spotted-not-wearing-mask-on-flight)
+* [bbc](https://www.bbc.com/news/world-us-canada-48301348)

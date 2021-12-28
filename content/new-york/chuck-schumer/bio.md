@@ -96,16 +96,16 @@ In late 2018, a false report went about that Chuck Schemer’s Daughter breaks h
 
 In less than ten years that he won a seat at the senate, Chuck Schemer was accused and criticized for spending more than $8,600 on minors, restaurants, and betting. And he pled guilty. 
 #### Senator Chuck Schumer Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/net-worth?cid=N00001093&year=2018"}}), Senator Chuck Schumer’s net worth is estimated to be $1.12 million. 
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/net-worth?cid=N00001093&year=2018), Senator Chuck Schumer’s net worth is estimated to be $1.12 million. 
 
 Final Thoughts
 Schumer has dedicated his entire career to his state and his people. Boasting several legislative accomplishments, he has always been there for New Yorkers in times of need. 
 But, Schumer was condemned for allegations of sexual misconduct with a minor. Yet, he was proven innocent. He got under fire again for some minor financial issues.
 
 #### References
-* [bloomberg]({{"https://www.bloomberg.com/news/articles/2021-03-02/schumer-backs-probe-of-troubling-accusations-against-cuomo"}})
-* [google]({{"https://www.google.com/amp/s/www.axios.com/schumer-calls-cops-after-forged-sex-scandal-charge-1513388602-26bd7c9b-2cf7-42c9-99b1-b8d6afb52083.html"}})
-* [google]({{"https://www.google.com/amp/s/amp.cnn.com/cnn/2020/02/23/politics/chuck-schumer-juniors-cheesecake/index.html"}})
-* [politica]({{"https://www.politico.com/news/2021/04/07/chuck-schumer-infrastructure-bill-479426"}})
-* [businessinsider]({{"https://www.businessinsider.com/chuck-schumer-brett-kavanaugh-christine-ford-allegations-2018-10"}})
-* [vox]({{"https://www.vox.com/2018/3/13/17114616/transcript-senator-chuck-schumer-washington-dc-trump-politics-democrat-minority-leader-recode-decode"}})
+* [bloomberg](https://www.bloomberg.com/news/articles/2021-03-02/schumer-backs-probe-of-troubling-accusations-against-cuomo)
+* [google](https://www.google.com/amp/s/www.axios.com/schumer-calls-cops-after-forged-sex-scandal-charge-1513388602-26bd7c9b-2cf7-42c9-99b1-b8d6afb52083.html)
+* [google](https://www.google.com/amp/s/amp.cnn.com/cnn/2020/02/23/politics/chuck-schumer-juniors-cheesecake/index.html)
+* [politica](https://www.politico.com/news/2021/04/07/chuck-schumer-infrastructure-bill-479426)
+* [businessinsider](https://www.businessinsider.com/chuck-schumer-brett-kavanaugh-christine-ford-allegations-2018-10)
+* [vox](https://www.vox.com/2018/3/13/17114616/transcript-senator-chuck-schumer-washington-dc-trump-politics-democrat-minority-leader-recode-decode)

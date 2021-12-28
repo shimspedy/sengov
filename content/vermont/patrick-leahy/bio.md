@@ -64,7 +64,7 @@ Sen. Leahy recovered more than $2 billion by closing 1100 offices of the Departm
 In 1987, Leahy resigned from the Senate Intelligence Committee due to his sharing of an unclassified draft report on the Iran-Contra investigation to an NBC News reporter. 
 
 #### Senator Patrick Leahy Net Worth
-We have estimated Patrick Leahy’s net worth to be around $800,000 with the information presented on [open secrets]({{"https://www.opensecrets.org/personal-finances/patrick-leahy/net-worth?cid=N00009918&year=2018"}}).
+We have estimated Patrick Leahy’s net worth to be around $800,000 with the information presented on [open secrets](https://www.opensecrets.org/personal-finances/patrick-leahy/net-worth?cid=N00009918&year=2018).
 
 #### Final Thoughts
 
@@ -75,11 +75,11 @@ Despite being born mostly blind in one eye, he had accomplished many things. He 
 He was applauded for his role in the sting operation that caught Paul Lawrence, a rogue undercover police officer.
 
 ## Reference
-* []({{"https://www.glusea.com/patrick-leahy-net-worth/"}})
-* []({{"https://www.nytimes.com/1987/07/29/us/iran-contra-hearings-senator-leahy-says-he-leaked-report-of-panel.html"}})
-* []({{"https://www.leahy.senate.gov/press/durbin-leahy-senate-democrats-urge-biden-to-finally-close-guantanamo-bay-detention-facility"}})
-* []({{"https://en.wikipedia.org/wiki/Patrick_Leahy"}})
-* []({{"https://www.politico.com/news/2021/05/22/patrick-leahy-senate-run-490176"}})
-* []({{"https://spectrumlocalnews.com/nys/central-ny/news/2021/01/26/patrick-leahy-hospital-trump-impeachment-senate"}})
+* [](https://www.glusea.com/patrick-leahy-net-worth/)
+* [](https://www.nytimes.com/1987/07/29/us/iran-contra-hearings-senator-leahy-says-he-leaked-report-of-panel.html)
+* [](https://www.leahy.senate.gov/press/durbin-leahy-senate-democrats-urge-biden-to-finally-close-guantanamo-bay-detention-facility)
+* [](https://en.wikipedia.org/wiki/Patrick_Leahy)
+* [](https://www.politico.com/news/2021/05/22/patrick-leahy-senate-run-490176)
+* [](https://spectrumlocalnews.com/nys/central-ny/news/2021/01/26/patrick-leahy-hospital-trump-impeachment-senate)
 
 

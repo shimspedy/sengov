@@ -70,7 +70,7 @@ The Democrats also condemned Graham for electoral misconduct. This allegation ca
 Senator Graham was also part of the Senators that wrote a controversial letter to the Iranian government. The letter warned them against signing any nuclear deal with the U.S. government without congress’s approval. But the letter received several backlashes from the U.S. government.
 
 #### Senator Lindsey Graham Net Worth
-According to [CelebrityNetWorth]({{"https://www.celebritynetworth.com/richest-politicians/republicans/lindsey-graham-net-worth/"}}), Senator Lindsey Graham’s estimated net worth is $2 million. Apart from his political career, his fortunes stemmed from his law practice.
+According to [CelebrityNetWorth](https://www.celebritynetworth.com/richest-politicians/republicans/lindsey-graham-net-worth/), Senator Lindsey Graham’s estimated net worth is $2 million. Apart from his political career, his fortunes stemmed from his law practice.
 
 #### Final Thoughts
 Senator Graham is a renowned moderate and conservative, and problem-solving leader. He has made legislative achievements in key sectors in the state. He championed economic and infrastructural development. He also worked to improve the state’s healthcare sector.
@@ -78,7 +78,7 @@ Senator Graham is a renowned moderate and conservative, and problem-solving lead
 But, Graham got under fire after a document showed evidence of financial misconduct. He was also accused of receiving illegal campaign donations and discrediting votes. Yet, none of the criticisms affected his career.
 
 #### References
-* [washingtonpost]({{"https://www.washingtonpost.com/nation/2020/11/17/democrats-lindsey-graham-georgia-call/"}})
-* [documentcloud]({{"https://www.documentcloud.org/documents/4953225-REPORT-Evidence-Outlining-Senator-Lindsey-Graham.html"}})
-* [time]({{"https://time.com/4771426/lindsey-graham-election-interference-400-pound-hacker/"}})
-* [vanityfair]({{"https://www.vanityfair.com/news/2021/02/lindsey-graham-trump-not-guilty"}})
+* [washingtonpost](https://www.washingtonpost.com/nation/2020/11/17/democrats-lindsey-graham-georgia-call/)
+* [documentcloud](https://www.documentcloud.org/documents/4953225-REPORT-Evidence-Outlining-Senator-Lindsey-Graham.html)
+* [time](https://time.com/4771426/lindsey-graham-election-interference-400-pound-hacker/)
+* [vanityfair](https://www.vanityfair.com/news/2021/02/lindsey-graham-trump-not-guilty)

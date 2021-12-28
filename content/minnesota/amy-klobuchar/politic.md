@@ -63,22 +63,22 @@ In late 2016, Amy had passed more legislation than any other Senator. She also o
 #### Senator Amy Klobuchar Criticisms
 After the George Floyd incident in Minneapolis Police custody, Amy was criticized for her lack of prosecution of Police misconduct in her tenure, including a case against Derek Chauvin. He was a Police Officer who was found guilty of the murder of George Floyd. 
 
-Buzzfeed news wrote an [article]({{"https://www.buzzfeednews.com/article/mollyhensleyclancy/amy-klobuchar-staff-2020-election"}}) in 2019 in which interviews were done with former staffers and emails were reviewed. These interviews and reviews showed that Sen. Klobuchar frequently humiliated and abused her employees. 
+Buzzfeed news wrote an [article](https://www.buzzfeednews.com/article/mollyhensleyclancy/amy-klobuchar-staff-2020-election) in 2019 in which interviews were done with former staffers and emails were reviewed. These interviews and reviews showed that Sen. Klobuchar frequently humiliated and abused her employees. 
 
-An [article]({{"https://www.huffpost.com/entry/amy-klobuchar-abuse-staff-2020_n_5c5a1cb1e4b0871047588649"}}) published by the Huffington Post also stated that Amy had a reputation for not treating her staff correctly.
+An [article](https://www.huffpost.com/entry/amy-klobuchar-abuse-staff-2020_n_5c5a1cb1e4b0871047588649) published by the Huffington Post also stated that Amy had a reputation for not treating her staff correctly.
 
 #### Senator Amy Klobuchar Net Worth
 
-According to [Forbes]({{"https://www.forbes.com/sites/michelatindera/2019/09/12/heres-how-much-2020-presidential-candidate-amy-klobuchar-is-worth/?sh=72190b057840"}}), Amy’s net worth as of 2020 was estimated at around $2 million. Her assets include a home in Minneapolis worth $350,000, retirement accounts and mutual funds worth $850,000, and a federal pension worth $560,000.
+According to [Forbes](https://www.forbes.com/sites/michelatindera/2019/09/12/heres-how-much-2020-presidential-candidate-amy-klobuchar-is-worth/?sh=72190b057840), Amy’s net worth as of 2020 was estimated at around $2 million. Her assets include a home in Minneapolis worth $350,000, retirement accounts and mutual funds worth $850,000, and a federal pension worth $560,000.
 
 #### Final Thoughts
 Sen. Klobuchar has gained the trust of a lot of Americans due to all the Legislations she sponsored and cosponsored. She was also criticized in her career due to her behavior with employees and staff. But, it did not have a deep effect on her career.
 
 #### Reference
-* [edu]({{"https://news.morris.umn.edu/news/senator-klobuchar-commencement"}})
-* [britannica]({{"https://www.britannica.com/biography/Amy-Klobuchar"}})
-* [youtube]({{"https://www.youtube.com/watch?v=YR-6TORhHWQ"}})
-* [minnpost]({{"https://www.minnpost.com/politics-policy/2021/01/georgia-wins-have-big-ramifications-for-minnesota-democrats-in-d-c/"}})
+* [edu](https://news.morris.umn.edu/news/senator-klobuchar-commencement)
+* [britannica](https://www.britannica.com/biography/Amy-Klobuchar)
+* [youtube](https://www.youtube.com/watch?v=YR-6TORhHWQ)
+* [minnpost](https://www.minnpost.com/politics-policy/2021/01/georgia-wins-have-big-ramifications-for-minnesota-democrats-in-d-c/)
 
 
 

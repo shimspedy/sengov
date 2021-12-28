@@ -63,11 +63,11 @@ Senator Lee has fought for conservatives. He defended the power of a state vs. t
 We are yet to see what the future holds for Lee. 
 
 #### Reference
-* [leeforsenate]({{"https://leeforsenate.com/about-mike/"}})
-* [vox]({{"https://www.vox.com/policy-and-politics/21507713/mike-lee-democracy-republic-trump-2020"}})
-* [wikipedia]({{"https://en.wikipedia.org/wiki/Mike_Lee_(American_politician)#Early_life_and_education"}})
-* [idolnetworth]({{"https://www.idolnetworth.com/mike-lee-net-worth-203329"}})
-* [nytimes]({{"https://www.nytimes.com/2020/01/08/us/politics/senator-mike-lee-iran-briefing.html"}})
-* [deccanherald]({{"https://www.deccanherald.com/international/senator-mike-lee-tests-positive-for-coronavirus-896418.html"}})
-* [sltrib]({{"https://www.sltrib.com/news/politics/2020/11/17/sen-mike-lee-again-gripes/"}})
+* [leeforsenate](https://leeforsenate.com/about-mike/)
+* [vox](https://www.vox.com/policy-and-politics/21507713/mike-lee-democracy-republic-trump-2020)
+* [wikipedia](https://en.wikipedia.org/wiki/Mike_Lee_(American_politician)#Early_life_and_education)
+* [idolnetworth](https://www.idolnetworth.com/mike-lee-net-worth-203329)
+* [nytimes](https://www.nytimes.com/2020/01/08/us/politics/senator-mike-lee-iran-briefing.html)
+* [deccanherald](https://www.deccanherald.com/international/senator-mike-lee-tests-positive-for-coronavirus-896418.html)
+* [sltrib](https://www.sltrib.com/news/politics/2020/11/17/sen-mike-lee-again-gripes/)
 
