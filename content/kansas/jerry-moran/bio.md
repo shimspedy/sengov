@@ -64,17 +64,17 @@ Moran was part of the Senator that signed a warning letter to the Iranian govern
 Also, he was criticized for opposing the creation of a panel to investigate the January 6th insurrection at the U.S. Capitol.
 
 #### Senator Jerry Moran Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/jerry-moran/net-worth?cid=N00005282&year=2018"}}), Moran is worth an estimated $1.16 million. Apart from his political career, Moran also invested in insurance companies and oil and gas.
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/jerry-moran/net-worth?cid=N00005282&year=2018), Moran is worth an estimated $1.16 million. Apart from his political career, Moran also invested in insurance companies and oil and gas.
 
 Considered a conservative leader, Moran has been a leading advocate for protecting and promoting quality of life. Despite his several legislative accomplishments, Moran also made some flops that attracted criticism. He voted against investigating the post-2020 election riot. 
 
 He was part of the Senators that wrote a controversial warning letter to Iran. He also filibustered Obama’s drone policy. Yet. he continues to make huge legislative landmarks in the service of his people.
 
 ### Reference
-* [ballotpedia]({{"https://ballotpedia.org/Jerry_Moran"}})
-* [cjonline]({{"https://www.cjonline.com/story/news/politics/elections/2021/05/28/senators-roger-marshall-jerry-moran-oppose-probe-january-6-u-s-capitol-insurrection/7475590002/"}})
-* [kansasreflector]({{"https://kansasreflector.com/2020/11/24/u-s-sen-moran-trump-administation-needs-to-offer-transition-briefings-to-biden/"}})
-* [c-span]({{"https://www.c-span.org/video/?321765-1/newsmakers-sen-jerry-moran-r-ks"}})
-* [npr]({{"https://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill"}})
-* [foxnews]({{"https://www.foxnews.com/media/jerry-moran-infrastructure-bill-passage-doubtful"}})
-* [youtube]({{"https://www.youtube.com/watch?v=25w6vFqz9G0"}})
+* [ballotpedia](https://ballotpedia.org/Jerry_Moran)
+* [cjonline](https://www.cjonline.com/story/news/politics/elections/2021/05/28/senators-roger-marshall-jerry-moran-oppose-probe-january-6-u-s-capitol-insurrection/7475590002/)
+* [kansasreflector](https://kansasreflector.com/2020/11/24/u-s-sen-moran-trump-administation-needs-to-offer-transition-briefings-to-biden/)
+* [c-span](https://www.c-span.org/video/?321765-1/newsmakers-sen-jerry-moran-r-ks)
+* [npr](https://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill)
+* [foxnews](https://www.foxnews.com/media/jerry-moran-infrastructure-bill-passage-doubtful)
+* [youtube](https://www.youtube.com/watch?v=25w6vFqz9G0)

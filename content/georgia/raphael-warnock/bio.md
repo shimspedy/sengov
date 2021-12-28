@@ -63,12 +63,12 @@ Warnock was also accused of running over his wife’s foot with his car. Ndoye, 
 After the general election, Warnock was also criticized for eating pizza with a fork and for hating puppies.
 
 #### Senator Raphael Warnock Net Worth
-According to [opensecrets]({{"https://www.opensecrets.org/members-of-congress/summary?cid=N00046489&cycle=2022"}}), Senator Warnock has an estimated net worth of $800,000. Apart from his earnings as a politician, he also has a retirement account with over $500,000 asset value.
+According to [opensecrets](https://www.opensecrets.org/members-of-congress/summary?cid=N00046489&cycle=2022), Senator Warnock has an estimated net worth of $800,000. Apart from his earnings as a politician, he also has a retirement account with over $500,000 asset value.
 
 #### References
-* [wikipedia]({{"https://en.m.wikipedia.org/wiki/Raphael_Warnock"}})
-* [atlantamagazine]({{"https://www.atlantamagazine.com/news-culture-articles/11-questions-for-georgia-u-s-senate-candidate-raphael-warnock/"}})
-* [nytimes]({{"https://www.nytimes.com/2020/11/01/us/politics/raphael-warnock-ga.html"}})
-* [youtube]({{"https://www.youtube.com/watch?v=X9HQqV6_Cg8"}})
-* [npr]({{"https://www.npr.org/2021/01/06/953885835/welcome-to-the-new-georgia-warnock-on-his-win-in-georgia-runoff"}})
+* [wikipedia](https://en.m.wikipedia.org/wiki/Raphael_Warnock)
+* [atlantamagazine](https://www.atlantamagazine.com/news-culture-articles/11-questions-for-georgia-u-s-senate-candidate-raphael-warnock/)
+* [nytimes](https://www.nytimes.com/2020/11/01/us/politics/raphael-warnock-ga.html)
+* [youtube](https://www.youtube.com/watch?v=X9HQqV6_Cg8)
+* [npr](https://www.npr.org/2021/01/06/953885835/welcome-to-the-new-georgia-warnock-on-his-win-in-georgia-runoff)
 

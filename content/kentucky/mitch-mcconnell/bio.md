@@ -69,7 +69,7 @@ His foreign policy view has included sanctions on countries and severing of bila
 
 #### Senator Mitch McConnell Net Worth
 
-McConnell is one of the U.S. longest-serving Congress members. First elected to the Senate in 1984, he has an estimated net worth of$34 million, according to [OpenSecret]({{"https://www.opensecrets.org/personal-finances/net-worth?cid=N00003389&year=2018}}). McConnell also holds several assets and investments, including Vanguard 500 Index Fund.
+McConnell is one of the U.S. longest-serving Congress members. First elected to the Senate in 1984, he has an estimated net worth of$34 million, according to [OpenSecret](https://www.opensecrets.org/personal-finances/net-worth?cid=N00003389&year=2018}}). McConnell also holds several assets and investments, including Vanguard 500 Index Fund.
 
 #### Final Thoughts
 As one of the most important Republicans, McConnell’s legislative achievements are mind-blowing. He was praised for his consequential leadership qualities. He is one of the most influential people in the U.S.
@@ -77,7 +77,7 @@ As one of the most important Republicans, McConnell’s legislative achievements
 Yet, many of his legislative rulings attracted criticism. In fact, he was criticized by a co-Senator for withholding votes on important bills. He was part of the Senators that supported a controversial letter to the Iranian government. He also passed bills to sever ties with some countries, including Cuba and Russia.
 
 ### Reference
-* [political]({{"https://www.politico.com/news/2020/04/22/mitch-mcconnell-bankruptcy-route-201008"}})
-* [nbcnews]({{"https://www.nbcnews.com/news/nbcblk/mitch-mcconnell-s-complicated-history-voting-rights-act-n1234755"}})
-* [cheatsheet]({{"https://www.cheatsheet.com/entertainment/mitch-mcconnells-net-worth-how-did-he-make-his-money.html/"}})
-* [youtube]({{"https://www.youtube.com/watch?v=9UgHqJnD-jQ"}})
+* [political](https://www.politico.com/news/2020/04/22/mitch-mcconnell-bankruptcy-route-201008)
+* [nbcnews](https://www.nbcnews.com/news/nbcblk/mitch-mcconnell-s-complicated-history-voting-rights-act-n1234755)
+* [cheatsheet](https://www.cheatsheet.com/entertainment/mitch-mcconnells-net-worth-how-did-he-make-his-money.html/)
+* [youtube](https://www.youtube.com/watch?v=9UgHqJnD-jQ)

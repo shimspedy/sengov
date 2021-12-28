@@ -68,7 +68,7 @@ Marshall was also condemned for plagiarizing one of his economic plans. He copie
 Marshall also got under fire for violating the Stock Act. The Act prevents insider trading in Congress. But, after more than a year, Marshall reported and defended himself. He disclosed that his children made the trades.
 
 #### Senator Roger Marshall Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/roger-marshall/net-worth?cid=N00037034&year=2018"}}), Senator Roger Marshall’s estimated net worth is $7.3 million. This figure is considered on the high side compared with other fellow US Senators. Apart from his political career, Marshall is an established medical practitioner.
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/roger-marshall/net-worth?cid=N00037034&year=2018), Senator Roger Marshall’s estimated net worth is $7.3 million. This figure is considered on the high side compared with other fellow US Senators. Apart from his political career, Marshall is an established medical practitioner.
 
 #### Final Thoughts
 Senator Marshall has been a leading figure in the promotion of the economy and lifestyle of his people. He has made many legislative accomplishments in the service of his people. He has also worked to promote the agricultural sector of the state.
@@ -76,12 +76,12 @@ Senator Marshall has been a leading figure in the promotion of the economy and l
 But, Marshall has faced criticisms for multiple cases of reckless driving and assault. He also got under fire for plagiarizing an important economic plan. Also, he has violated the STOCK Act. He was criticized for revealing the violation a year later.
 
 #### References
-* [kansascity]({{"https://www.kansascity.com/news/politics-government/article248350395.html"}})
-* [kansas]({{"https://www.kansas.com/news/politics-government/article254745302.html#storylink=cpy"}})
-* [kwch]({{"https://www.kwch.com/content/news/Roger-Marshall-responds-to-questions-over-reckless-driving-charge-from-2008-571431311.html"}})
-* [youtube]({{"https://www.youtube.com/watch?v=0j8KiobNwo8"}})
-* [businessinsider]({{"https://www.businessinsider.com/republican-roger-marshall-overturn-presidential-election-move-on-2021-5"}})
-* [axios]({{"https://www.axios.com/kansas-republican-primary-senate-roger-marshall-bcc8a48d-6db2-4e91-9321-3162c815e6a5.html"}})
+* [kansascity](https://www.kansascity.com/news/politics-government/article248350395.html)
+* [kansas](https://www.kansas.com/news/politics-government/article254745302.html#storylink=cpy)
+* [kwch](https://www.kwch.com/content/news/Roger-Marshall-responds-to-questions-over-reckless-driving-charge-from-2008-571431311.html)
+* [youtube](https://www.youtube.com/watch?v=0j8KiobNwo8)
+* [businessinsider](https://www.businessinsider.com/republican-roger-marshall-overturn-presidential-election-move-on-2021-5)
+* [axios](https://www.axios.com/kansas-republican-primary-senate-roger-marshall-bcc8a48d-6db2-4e91-9321-3162c815e6a5.html)
 
 
 
