@@ -182,7 +182,7 @@
               (adsbygoogle = window.adsbygoogle || []).push({});
          </script>
          </div>
-
+         <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
 
                 <!-- <h1>{{.Title}}</h1>
             {{ partial "articles/article-subheader" . }}
@@ -191,8 +191,8 @@
             {{- end -}}
             <div style="font-size:18px" class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
                  {{.Content}}
-            </div>
-            {{ partial "nav/pagination.html" . }} -->
+            </div>-->
+            {{ partial "nav/pagination.html" . }} 
 
 
 
