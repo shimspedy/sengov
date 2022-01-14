@@ -2,7 +2,7 @@
 date: 2017-07-20T10:02:20-04:00
 title: "How To Contact My Senators and governor"
 seo_title: "How To Contact My Senators | sengov.com"
-description:
+description: It is easy to find the contact information for your state's senators.
 author: Contact US Senators
 image:
 video:
