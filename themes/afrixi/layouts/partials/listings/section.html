@@ -1,6 +1,6 @@
 
 {{if .Sections}}
-<h1class="flow-text">Contact {{.Title}} Governors</h2>
+<h1>class="flow-text">Contact {{.Title}} Governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
@@ -13,7 +13,7 @@
 {{end}}
 
 {{if .Sections}}
-     <h1class="flow-text">Contact {{.Title}} Senators</h2>
+     <h1>class="flow-text">Contact {{.Title}} Senators</h1>
      <div class=" row">
           {{range .Sections }}
                {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "current")  }}
@@ -29,7 +29,7 @@
 
 
 {{if .Sections}}
-<h2>Contact {{.Title}} Representatives</h2>
+<h1>Contact {{.Title}} Representatives</h1>
      <div class=" row">
           {{range .Sections }}
           {{ if  and (eq .Params.role "congress") ( eq .Params.inoffice "current")  }}
@@ -45,7 +45,7 @@
 
 
 {{if .Sections}}
-<h1class="flow-text">Former {{.Title}} governors</h2>
+<h1>class="flow-text">Former {{.Title}} governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
@@ -59,7 +59,7 @@
 
 
 {{if .Sections}}
-     <h1class="flow-text">former {{.Title}} Senators</h2>
+     <h1>class="flow-text">former {{.Title}} Senators</h1>
      <div class=" row">
           {{range .Sections }}
                {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "former")  }}
@@ -82,7 +82,7 @@
 
 
 <!-- {{if .Pages}}
-<h2>Contact {{.Title}} Senators</h2>
+<h1>Contact {{.Title}} Senators</h1>
      <div class="row">
         {{ template "recursive-article-listing" . }}
      </div>
