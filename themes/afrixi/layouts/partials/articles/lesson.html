@@ -165,6 +165,7 @@
                  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             {{end}}
+            <div id="disqus_recommendations"></div>
             <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; ">
                  {{ partial "nav/table-of-contents" . }}
                  {{.Content}}
@@ -183,6 +184,21 @@
          </script>
          </div>
          <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
+
+         <script> 
+          (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+          var d = document, s = d.createElement('script'); // IMPORTANT: Replace EXAMPLE with your forum shortname!
+          s.src = 'https://test-wninb4jp3p.disqus.com/recommendations.js'; s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
+          </script>
+          <noscript>
+          Please enable JavaScript to view the 
+          <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+          comments powered by Disqus.
+          </a>
+          </noscript>
+        
 
                 <!-- <h1>{{.Title}}</h1>
             {{ partial "articles/article-subheader" . }}
