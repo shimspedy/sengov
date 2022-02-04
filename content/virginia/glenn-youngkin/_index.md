@@ -20,7 +20,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name:	glenn youngkin
+name:	glenn youngkin hashim
 state:	Virginia
 birthstate: Virginia
 party:	Republican
