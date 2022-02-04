@@ -20,7 +20,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name:	glenn youngkin mark
+name:	glenn youngkin 
 state:	Virginia
 birthstate: Virginia
 party:	Republican
