@@ -115,9 +115,8 @@ article .contents ul:not(.browser-default) li, ul ul, ol ul {
      background-size: 30px 20px;
      background-position: right;
      border: 1px solid #888;
-     background: #fdfbf8;
      border-radius: 0;
-     box-shadow: 6px 6px 0 0 rgb(0 0 0 / 9%);
+     box-shadow: 6px 6px 0 0 rgb(0 154 232);
      margin: 20px auto;
  }
  .republican{
@@ -126,9 +125,8 @@ article .contents ul:not(.browser-default) li, ul ul, ol ul {
      background-size: 30px 20px;
      background-position: right;
      border: 1px solid #888;
-     background: #fdfbf8;
      border-radius: 0;
-     box-shadow: 6px 6px 0 0 rgb(0 0 0 / 9%);
+     box-shadow: 6px 6px 0 0 rgb(224 0 0);
      margin: 20px auto;
  }
 
