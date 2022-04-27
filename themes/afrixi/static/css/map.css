@@ -1,10 +1,9 @@
 #map{
-    border: 2px solid #2c7eac;
+    border: 2px solid #101d51;
     padding: 10px;
-    box-shadow: 1px 1px 1px red;
 }
 #us-map{
-    display:block;width:100%;
+    display:block;width:60%;
     height:100%;margin:auto}
 #us-map .state path:hover,#us-map circle:hover{
     stroke:#333!important;
