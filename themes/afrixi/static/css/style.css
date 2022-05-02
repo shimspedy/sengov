@@ -84,6 +84,7 @@ article .contents ul:not(.browser-default) li, ul ul, ol ul {
 
 
 .profile-img{
+     background-position: center;
      border-top: 10px solid #44429a;
      border-bottom: 10px solid #a9007b;
      border-left: 5px solid #562e93;
