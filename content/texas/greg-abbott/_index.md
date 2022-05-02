@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Greg Abbott 
      description: Greg Abbott is the 48th Governor of the State of Texas. Before his election in 2014, Greg Abbott was the 50th and longest-serving Attorney General of Texas, where he earned a national reputation for defending religious liberty and protecting Texas communities and children. He also previously served as a Justice on the Texas Supreme Court and as a State District Judge in Harris County. Governor Abbott was born in Wichita Falls and raised in Duncanville. After graduating from The University of Texas at Austin, he earned a law degree from Vanderbilt University Law School. Governor Abbott and his wife, Cecilia, a former teacher and principal, and the first Hispanic First Lady of Texas, were married in 1981. Their daughter, Audrey, is a recent college graduate.
 description: Contact Governor Greg Abbott of Texas. Contact information for Greg Abbott includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: greg-abbott.png
 video:
 url: /texas/greg-abbott/

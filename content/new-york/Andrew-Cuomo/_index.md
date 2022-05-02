@@ -6,7 +6,7 @@ subheader:
      greeting: former  New York  Governor Governor Andrew Cuomo 
      description: former  New York  Governor Andrew Mark Cuomo is an American lawyer and politician who served as the 56th governor of New York from 2011 to 2021. A member of the Democratic Party, he was elected to the same position that his father, Mario Cuomo, held for three terms.
 description: Contact Governor Andrew Cuomo of New York. Contact information for Andrew Cuomo includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: Andrew-Cuomo.jpg
 video:
 url: /new-york/andrew-cuomo/

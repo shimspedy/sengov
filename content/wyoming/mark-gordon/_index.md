@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Mark Gordon 
      description: Mark Gordon was elected Wyoming’s 33rd Governor, on Nov. 6, 2018. He was sworn into office on January 7, 2019. Governor Gordon served as Wyoming State Treasurer from October 2012 until January 2019 when he was sworn in as Governor. As State Treasurer, he led a transformation of the office resulting in improved returns on state investments, better protection of state savings, and increased transparency and access to state financial data for the public. Governor Gordon and his wife Jennie have four grown children, Anne, Aaron with wife Megan, Bea with husband Austen, and Spencer with wife Sarah and their son Everett.
 description: Contact Governor Mark Gordon of Wyoming. Contact information for Mark Gordon includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: mark-gordon.jpg
 video:
 url: /wyoming/mark-gordon/

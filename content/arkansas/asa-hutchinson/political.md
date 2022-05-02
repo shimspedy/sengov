@@ -5,15 +5,15 @@ seo_title: "Know more about Governor Asa Hutchinson politicals views"
 subheader:
      greeting: Know more about Governor Asa Hutchinson politicals views
      description: Asa Hutchinson is the 46th governor of the State of Arkansas. In 2018, he was re-elected with 65% of the vote, having received more votes than any other candidate for governor in the state's history.
-description: Know more about Governor Asa Hutchinson of Arkansas. Contact information for Asa Hutchinson includes his email address, phone number, and mailing address.
-author: john shim
+description: Asa Hutchinson is the 46th governor of the State of Arkansas. In 2018, he was re-elected with 65% of the vote, having received more votes than any other candidate for governor in the state's history.
+author: contact governors
 image: asa-hutchinson.jpg
 imageurl: /arkansas/asa-hutchinson/asa-hutchinson.jpg
 imagedir: root
 video:
 video:
 url: /arkansas/asa-hutchinson/politics
-weight: 3
+weight: 2
 layout: course_home
 
 ####candidate

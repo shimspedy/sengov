@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Kristi Noem 
      description: Governor Kristi Noem is a wife, a mother, and a lifelong rancher, farmer and small business owner. In 2010, after serving in the South Dakota legislature for several years, Gov. Noem was elected to serve as South Dakota’s lone member of the U.S. House of Representatives. In 2018, with the platform of protecting South Dakotans against tax increases, government growth, federal intrusion, and government secrecy, she was elected as South Dakota’s first-ever female Governor. Gov. Noem often says that her greatest accomplishment is raising her three children, Kassidy, Kennedy, and Booker, with her husband Bryon.
 description: Contact Governor Kristi Noem of South Dakota. Contact information for Kristi Noem includes her email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: kristi-noem.jpg
 video:
 url: /south-dakota/kristi-noem/

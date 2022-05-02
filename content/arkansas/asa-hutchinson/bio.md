@@ -6,7 +6,7 @@ subheader:
      greeting: Know more about Governor Asa Hutchinson 
      description: Asa Hutchinson is the 46th governor of the State of Arkansas. In 2018, he was re-elected with 65% of the vote, receiving more votes than any other candidate for governor in the state’s history. Governor Hutchinson grew up on a small farm in Gravette. He is a graduate of the University of Arkansas law school. He and his wife, Susan, have been married 47 years. They have four children and six grandchildren. President Ronald Reagan appointed Governor Hutchinson as U.S. Attorney for the Western District of Arkansas. In 1996, he won the first of three successive terms in the U.S. House of Representatives. During his third term in Congress, President George W. Bush appointed him director of the Drug Enforcement Administration and later as an undersecretary in the newly created Department of Homeland Security. His experience established him as a national resource for his expertise on trade, energy, national security, and education. The Governor is the current Vice Chair of the National Governors Association.
 description: Know more about Governor Asa Hutchinson of Arkansas. Contact information for Asa Hutchinson includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: asa-hutchinson.jpg
 imageurl: /arkansas/asa-hutchinson/asa-hutchinson.jpg
 imagedir: root
@@ -42,7 +42,7 @@ website:	https://governor.arkansas.gov/
 
 
 
-
+#### gov. William Asa Hutchinson  bio
 William Asa Hutchinson first gained national attention as the youngest district attorney in the nation in 1982. He went on to represent the Third District of Arkansas in Congress as a Republican from 1997 to 2001, resigning his post on August 6, 2001, to become the director of the Drug Enforcement Administration (DEA). Hutchinson left the DEA to become the Under Secretary for Border and Transportation Security at the Department of Homeland Security, a post he held from 2003 to 2005. In 2005, Hutchinson began actively campaigning for the governorship of Arkansas but lost the race to Mike Beebe in November 2006. However, he was elected governor eight years later in 2014 and reelected in 2018.
 
 Asa Hutchinson was born on December 3, 1950, in Bentonville (Benton County) to John Malcom Sr. and Coral Hutchinson. John Malcom Hutchinson Sr. was a grocer, farmer, and eventually mayor of Sulphur Springs (Benton County). Hutchinson was the youngest of six children. He attended grade school in Gravette (Benton County) and graduated from Springdale High School in 1968. Hutchinson attended Bob Jones University in Greenville, South Carolina, graduating with a BS in accounting in 1972. He went on to receive a JD in 1975 from the University of Arkansas School of Law in Fayetteville (Washington County). While at Bob Jones University, he met his future wife, Susan Burrell. They were married in 1973 and have four children.

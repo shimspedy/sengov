@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Kate Brown 
      description: Kate Brown, Oregon’s 38th Governor, has over 25 years of experience in standing up for working families and making government more accountable. Gov. Brown came to Oregon to attend Lewis and Clark’s Northwestern School of Law, where she received her law degree and Certificate in Environmental Law.  With her husband Dan, Brown raised Dan’s son and daughter, who are now grown, in Portland. In February of 2015, Gov. Brown and her husband moved into the official residence, Mahonia Hall. When Gov. Brown is not busy at the capitol in Salem, you will find her out enjoying nature throughout Oregon.
 description: Contact Governor Kate Brown of Alabama. Contact information for Kate Brown includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: kate-brown.jpg
 video:
 url: /oregon/kate-brown/

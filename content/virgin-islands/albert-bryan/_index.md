@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Albert Bryan 
      description: Albert Bryan Jr. is the eldest son born to Albert and Genevieve (Pilgrim) Bryan. Born on February 21, 1968 on St. Thomas, U.S. Virgin Islands, he and his four brothers, Troy, Robert, Andre, and Alrick, lived with their parents in the historic St. Thomas neighborhood of Savan. After graduating from St. Dunstan’s Episcopal High School in 1985, Governor Bryan matriculated at Wittenberg University in Ohio and earned his Bachelor of Arts degree in Economics in 1989. Governor Bryan also earned a Master of Arts degree in Business Administration (MBA) from the University of the Virgin Islands in 2003. In 2007, Governor Bryan was appointed as the Commissioner of Labor by then Governor John P. de Jongh, Jr. In what he describes as his greatest joy and accomplishment, Governor Bryan married Yolanda Cabodevilla of St. Croix in 1998 and they have two daughters, Aliyah and Sumayah.
 description: Contact Governor Albert Bryan of Virgin Islands. Contact information for Albert Bryan includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: albert-bryan.jpg
 video:
 url: /virgin-islands/albert-bryan/

@@ -6,7 +6,7 @@ subheader:
      greeting: Know more about First Lady Susan Hutchinson 
      description: Susan Hutchinson became the first lady of Arkansas when her husband, Governor Asa Hutchinson, was sworn in as governor on January 13, 2015.
 description: Know more about Governor Asa Hutchinson of Arkansas. A native of Atlanta, Georgia, Mrs. Hutchinson grew up as the second of seven children. She was valedictorian of Fulton High School and attended Bob Jones University in South Carolina, where she met her husband, Governor Asa Hutchinson. After graduation, she taught biology and algebra in Memphis.
-author: john shim
+author: contact governors
 image: susan-hutchinson.jpeg
 imageurl: /arkansas/asa-hutchinson/susan-hutchinson.jpeg
 imagedir: root
@@ -18,6 +18,7 @@ layout: course_home
 ####candidate
 name:	Susan Hutchinson
 state:	Arkansas
+role: First Lady
 birthstate: Arkansas
 party:	Republican
 born:	March 24, 1954

@@ -1,17 +1,17 @@
 ---
-date: 2020-11-22T11:48:55-05:00
-title: "Gov. Pedro Pierluisi"
+date: 2021-11-0    ss2T11:48:55-05:00
+title: " Pedro Pierluisi bio"
 seo_title: "Know more about Governor Pedro Pierluisi "
 subheader:
      greeting: Know more about Governor Pedro Pierluisi 
      description: Pedro Pierluisi is the Governor of Puerto Rico and presides over the New Progressive Party. He was elected on November 3, 2020. Pierluisi is a lawyer from San Juan with 35 years of experience in the public and private sectors.
 description: Know more about Governor Pedro Pierluisi of Puerto Rico. Contact information for Pedro Pierluisi includes her email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: pedro-pierluisi.jpeg
 imageurl: /puerto-rico/pedro-pierluisi/pedro-pierluisi.jpeg
 imagedir: root
 video:
-url: /puerto-rico/pedro-pierluisi/
+url: /puerto-rico/pedro-pierluisi/bio
 weight: 2
 layout: course_home
 

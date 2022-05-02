@@ -2,9 +2,9 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Idaho"
 ab: "ID"
-seo_title: "List of all current and former Idaho Governor"
-description: List of all current and former Idaho Governor
-author: john shim
+seo_title: "Contact Idaho Governor"
+description: Contact Idaho Governor
+author: contact governors
 url: /idaho/
 weight: 1
 ---

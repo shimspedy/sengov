@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Jay Inslee 
      description: Jay Inslee is a fifth-generation Washingtonian who has lived and worked in urban and rural communities on both sides of the state. Governor Inslee worked his way through college and graduated from the University of Washington with a degree in economics before earning his law degree at Willamette University. He and his wife, Trudi, then moved to Selah, a small town near Yakima where they raised their three sons. Jay worked as an attorney and prosecutor. Governor Inslee first became involved in public service in 1985 when he and Trudi helped lead the effort to build a new public high school in Selah. Motivated to fight against proposed funding cuts for rural schools, he went on to represent the 14th Legislative District in the state House of Representatives. Governor Inslee continued serving communities in the Yakima Valley when he was elected to Congress in 1992. The Inslees later moved back to the Puget Sound area where Governor Inslee was elected to Congress in 1998, serving until 2012 when he was elected governor. He was re-elected in 2016.
 description: Contact Governor Jay Inslee of Washington. Contact information for Jay Inslee includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: jay-inslee.jpg
 video:
 url: /washington/jay-inslee/

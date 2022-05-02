@@ -2,9 +2,9 @@
 date: 2020-09-11T11:55:00-04:00
 title: "New York"
 ab: "NY"
-seo_title: "List of all current and former New York Governor"
-description: List of all current and former New York Governor
-author: john shim
+seo_title: "Contact New York Governor"
+description: Contact New York Governor
+author: contact governors
 url: /new-york/
 weight: 1
 ---

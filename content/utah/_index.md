@@ -2,9 +2,9 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Utah"
 ab: "UT"
-seo_title: "List of all current and former Utah Governor"
-description: List of all current and former Utah Governor
-author: john shim
+seo_title: "Contact Utah Governor"
+description: Contact Utah Governor
+author: contact governors
 url: /utah/
 weight: 1
 ---

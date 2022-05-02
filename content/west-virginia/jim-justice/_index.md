@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Jim Justice 
      description: James C. Justice, II was born April 27, 1951, to James Conley Justice and Edna Ruth Justice. He attended Raleigh County public schools and graduated from Woodrow Wilson High School in 1969, attended Greenbrier Military Academy as a post graduate. Governor Justice went to Marshall University in Huntington, West Virginia, and was captain of the golf team for two years before earning his undergraduate degree and a Masters in Business Administration. In May 2015, Jim announced his campaign to seek the office of governor of West Virginia. After 19 months on the campaign trail sharing his vision for transforming West Virginia, Jim was elected the 36th governor of West Virginia. The Governor and the First Lady have two children, James (Jay) C. Justice, III and Dr. Jill Justice.
 description: Contact Governor Jim Justice of West Virginia. Contact information for Jim Justice includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: jim-justice.jpg
 video:
 url: /west-virginia/jim-justice/

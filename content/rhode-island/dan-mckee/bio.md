@@ -6,7 +6,7 @@ subheader:
      greeting: Know more about Governor Dan McKee 
      description: Dan is a lifelong Rhode Islander who graduated from Cumberland High School. He holds a bachelor’s degree in political science and education from Assumption College in Massachusetts and a master’s degree in public administration from Harvard University’s Kennedy School of Government. He has owned and operated successful small businesses in the Blackstone Valley for three decades. Dan has been a member of the board of directors of the Boys and Girls Club of Cumberland-Lincoln for 25 years and served as a youth basketball coach. Dan and his wife Susan have two grown children, Matt and Kara.
 description: Know more about Governor Dan McKee of Rhode Island. Contact information for Dan McKee includes her email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: dan-mcKee.jpeg
 imageurl: /rhode-island/dan-mcKee/dan-mcKee.jpeg
 imagedir: root

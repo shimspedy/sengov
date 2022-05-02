@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Phil Scott 
      description: Phil Scott became the 82nd Governor of Vermont in January 2017. Previously, he was elected and served three terms (2011-2017) as Vermont’s 79th Lieutenant Governor. Prior to that role, he was elected to the Vermont Senate for five terms, representing Washington County. During his 10-year service in the Senate, he was Vice Chair of the Transportation Committee and Chair of the Institutions Committee. He is a lifelong Vermonter who grew up in Barre and graduated from Spaulding High School and the University of Vermont. He lives in Berlin with his wife Diana McTeague Scott, and has two grown daughters, Erica and Rachael.
 description: Contact Governor Phil Scott of Vermont. Contact information for Phil Scott includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: phil-scott.jpg
 video:
 url: /vermont/phil-scott/

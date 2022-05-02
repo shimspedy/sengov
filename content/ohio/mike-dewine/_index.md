@@ -148,7 +148,7 @@ keywords:
 - "contact.gov dewine ohio"
 - "govenor mike dewine"
 - "governor dewine contact phone"
-author: john shim
+author: contact governors
 image: mike-dewine.jpg
 video:
 url: /ohio/mike-dewine/

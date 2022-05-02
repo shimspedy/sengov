@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor Ralph Northam 
      description: Before he was inaugurated as the 73rd Governor of the Commonwealth of Virginia, Ralph Northam served as an Army doctor, pediatric neurologist, business owner, state Senator and Lieutenant Governor. A native of Virginia’s Eastern Shore, Governor Northam was educated at the Virginia Military Institute (VMI), where he graduated with distinction. After graduation, Governor Northam was commissioned as a second lieutenant in the United States Army. He served eight years of active duty and rose to the rank of major. Governor Northam and First Lady Pamela Northam have two adult children.
 description: Contact Governor Ralph Northam of Virginia. Contact information for Ralph Northam includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: ralph-northam.jpg
 video:
 url: /virginia/ralph-northam/
@@ -19,11 +19,11 @@ state:	Virginia
 birthstate: Virginia
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	September 13, 1959
 age: '61'
 enteredoffice:	January 13, 2018 
-terms1: January 13, 2018 - Current
+terms1: January 13, 2018 - January 13, 2022
 terms2: 
 terms3: 
 termexpires:	
