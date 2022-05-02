@@ -6,7 +6,7 @@
           <a href="{{.Permalink}}" ><h5 class="grey-text text-darken-2">{{.Title}}</h5></a>
                <div class=" row">
                     {{if .Sections}}
-                    {{ if  and (eq .Params.role "senator") ( eq .Params.inoffice "current")  }}
+                    {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
                           {{range first 1 .Sections  }}
                               <div class=" row">
                                    {{ partial "listings/senate" . }}
