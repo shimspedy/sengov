@@ -8,11 +8,11 @@
                     {{if .Sections}}
                     
                           {{range first 1 .Sections  }}
-                          {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
-                              <div class=" row">
-                                   {{ partial "listings/senate" . }}
-                              </div>
-                         {{end}}
+                              {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
+                                   <div class=" row">
+                                        {{ partial "listings/senate" . }}
+                                   </div>
+                              {{end}}
                          {{end}}
 
                     {{end}}
