@@ -166,6 +166,7 @@
             </div>
             {{end}}
             <div id="disqus_recommendations"></div>
+            <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
             <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; ">
                  {{ partial "nav/table-of-contents" . }}
                  {{.Content}}
