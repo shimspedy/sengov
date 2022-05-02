@@ -7,7 +7,7 @@
                <div class=" row">
                     {{if .Sections}}
                           <!-- {{range first 1 .Sections  }} -->
-                          {{ $randomPosts := shuffle .Site.Pages | first 2 }}
+                          {{ $randomPosts := shuffle range first 2 .Sections  }}
                               <div class=" row">
                                    {{ partial "listings/senate" . }}
                               </div>
