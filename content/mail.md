@@ -1,7 +1,7 @@
 ---
 date: 2021-11-20T10:02:20-04:00
 title: "Senators Mailing Addresses"
-seo_title: "Senators Mailing Addresses | sengov.com"
+seo_title: "Senators Mailing Addresses "
 description: This is a list of mailing/postal addresses for all current US Senators.
 author: sengov
 image:

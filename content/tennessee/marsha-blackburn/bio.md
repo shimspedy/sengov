@@ -64,7 +64,7 @@ Senator Marsha Blackburn’s administration attracted criticism for alleged camp
 She also got under fire for reading and tweeting during a trial. Besides that, she also made unverified claims against a witness during the trial. Although the law disallows such an act, the Sensor denied the allegations. 
 
 #### Senator Marsha Blackburn Net Worth
-According to [OpenSecrets]({{"https://www.opensecrets.org/personal-finances/marsha-blackburn/net-worth?cid=N00003105&year=2015"}}), Senator Marsha Blackburn’s estimated net worth is $570,000 
+According to [OpenSecrets](https://www.opensecrets.org/personal-finances/marsha-blackburn/net-worth?cid=N00003105&year=2015), Senator Marsha Blackburn’s estimated net worth is $570,000 
 
 #### Final Thoughts
 Marsha has led the effort to promote the development of the lives and economy of her people. She has made several legislative achievements while serving her people. She is also a member of charitable organizations. 
@@ -72,9 +72,9 @@ Marsha has led the effort to promote the development of the lives and economy of
 But, she got under fire for financial misconduct and campaign fund mismanagement. She was also criticized for tweeting and reading during an impeachment hearing. Yet, none of these allegations affected her career. 
 
 #### References
-* [congressionalintegrity]({{"https://congressionalintegrity.org/watchdog-group-exposes-u-s-senator-marsha-blackburns-use-of-campaign-money-to-enrich-her-family/"}})
-* [wsmv]({{"https://www.wsmv.com/news/sen-marsha-blackburn-faces-scrutiny-for-reading-tweeting-during-impeachment-trial/article_4815f732-3edf-11ea-b5c0-4f38518cc0ad.html"}})
-* [cnn]({{"https://www.cnn.com/2017/10/17/politics/marsha-blackburn-tennessee-senate-drug-bill/index.html"}})
-* [thedailybeast]({{"https://www.thedailybeast.com/twitter-blocks-marsha-blackburns-senate-campaign-announcement-video"}})
-* [vox]({{"https://www.vox.com/2018/11/6/18049520/midterm-election-results-tennessee-senate-marsha-blackburn-winner"}})
+* [congressionalintegrity](https://congressionalintegrity.org/watchdog-group-exposes-u-s-senator-marsha-blackburns-use-of-campaign-money-to-enrich-her-family/)
+* [wsmv](https://www.wsmv.com/news/sen-marsha-blackburn-faces-scrutiny-for-reading-tweeting-during-impeachment-trial/article_4815f732-3edf-11ea-b5c0-4f38518cc0ad.html)
+* [cnn](https://www.cnn.com/2017/10/17/politics/marsha-blackburn-tennessee-senate-drug-bill/index.html)
+* [thedailybeast](https://www.thedailybeast.com/twitter-blocks-marsha-blackburns-senate-campaign-announcement-video)
+* [vox](https://www.vox.com/2018/11/6/18049520/midterm-election-results-tennessee-senate-marsha-blackburn-winner)
 

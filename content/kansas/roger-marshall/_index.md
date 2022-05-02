@@ -31,3 +31,8 @@ powrid: e9072f05_1607161815
 twitter: RogerMarshallMD
 ---
 
+Senator Roger Wayne Marshall (R) is an American physician and politician. He has been serving as a junior U.S. Senator from Kansas under the Republican since 2021. He was a member of the U.S. House of Representatives from 2017 to 2021.
+
+Marshall was born in El Dorado, Kansas, on August 9, 1960. He attended Butler Community College. But, he graduated from Kansas State University with a Bachelor’s degree in Biochemistry in 1982. He received his Doctor of Medicine degree from the University of Kansas in 1987. He completed his residency in obstetrics and gynecology at the Bayfront Medical Center.
+
+Senator Roger Marshall practices medicine as an obstetrician at the Great Bend Regional Hospital, Kansas. He served as the chairman of Great Bend Hospital Boards. Marshall was also the vice president of Farmers Bank and Trust. He also served in the U.S. Army Reserve for seven years. He retired with the rank of Captain

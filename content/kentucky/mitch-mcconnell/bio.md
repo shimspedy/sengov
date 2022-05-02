@@ -5,7 +5,7 @@ seo_title: "Know more about Senator Mitch McConnell"
 subheader:
      greeting: Know more about Senator Mitch McConnell
      description: Addison Mitchell McConnell Jr. is an American politician currently serving as Kentucky's senior United States senator and as Senate majority leader.
-description: Senator Addison Mitchell McConnell Jr is an American politician. He has been serving as a U.S. Senator from Kentucky under the Republicans since 1985. He is also the incumbent Senate Minority Leader. He has also served as the Minority Leader from 2007 to 2015 and Majority leader from 2015 to 2021. how to  Contact Senator Mitch McConnell
+description: Senator Addison Mitchell McConnell Jr is an American politician. He has been serving as a U.S. Senator from Kentucky under the Republicans since 1985. 
 image: mitch-mcconnell.jpg
 imageurl:  /kentucky/mitch-mcconnell/mitch-mcconnell.jpg
 imagedir: root

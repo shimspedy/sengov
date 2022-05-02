@@ -29,8 +29,8 @@ mailingaddress:	448 Russell Senate Office Building Washington DC 20510
 phonenumber:	(202) 224-3353
 emailaddress:	https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form
 website:	http://www.portman.senate.gov/
-powrid: 5f34256e_1607161983
-twitter: senrobportman
+powrid: 
+twitter: 
 ---
 
 #### Senator Rob Portman Biograph
@@ -78,6 +78,6 @@ Portman has earned a reputation as a result-focused and community service leader
 But, Portman was criticized for supporting Trump despite several ethical and moral issues against Trump. He also got under fire for supporting the anti-nuclear deal letter sent to the Iranian government. 
 
 ##### Reference
-[politico](https://www.politico.com/news/2021/01/25/rob-portman-wont-seek-reelection-462146)
-[wksu](https://www.wksu.org/government-politics/2021-01-25/ohio-sen-rob-portman-wont-seek-re-election-in-2022)
-[abc6onyourside](https://abc6onyourside.com/news/local/gop-senator-rob-portman-of-ohio-wont-seek-reelection)
+* [politico](https://www.politico.com/news/2021/01/25/rob-portman-wont-seek-reelection-462146)
+* [wksu](https://www.wksu.org/government-politics/2021-01-25/ohio-sen-rob-portman-wont-seek-re-election-in-2022)
+* [abc6onyourside](https://abc6onyourside.com/news/local/gop-senator-rob-portman-of-ohio-wont-seek-reelection)

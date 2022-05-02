@@ -13,7 +13,7 @@ imagedir: root
 video:
 url: /new-york/chuck-schumer/bio
 tags:
-- "new york chuck schumer bio"
+- "new york chuck schumer"
 - "chuck schumer speech today live"
 - "chuck schumer press conference today"
 - "senator schumer email"
@@ -30,7 +30,7 @@ tags:
 - "schumer"
 - "chuck schumer"
 keywords:
-- "new york chuck schumer bio"
+- "new york chuck schumer"
 - "chuck schumer speech today live"
 - "chuck schumer press conference today"
 - "senator schumer email"

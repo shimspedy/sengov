@@ -30,3 +30,10 @@ website:	https://www.mcconnell.senate.gov/public/
 powrid: e4326313_1607401769
 twitter: senatemajldr
 ---
+Senator Addison Mitchell McConnell Jr is an American politician. He has been serving as a U.S. Senator from Kentucky under the Republicans since 1985. He is also the incumbent Senate Minority Leader. He has also served as the Minority Leader from 2007 to 2015 and Majority leader from 2015 to 2021.
+
+Senator Mitch McConnell was born in Tuscumbia, Alabama, on February 20, 1942. During his early childhood, young McConnell had polio. Yet, he overcame the disease after months of rehabilitation. Unfortunately, his family suffered financial constraints from the treatment. Finally, they moved to Alabama.
+
+McConnell enrolled at the University of Louisville. There, he received a Bachelor’s degree in political science in 1964. After his B.A. degree, he interned with Senator John Cooper. He also graduated from the University of Louisville Law School in 1967.
+
+Shortly after graduation from law school, Senator Mitch McConnell got enlisted in the U.S. Army Reserve. But, he was diagnosed with optic neuritis and discharged after five weeks at Fort Knox.
