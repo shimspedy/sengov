@@ -6,7 +6,8 @@
           <a href="{{.Permalink}}" ><h5 class="grey-text text-darken-2">{{.Title}}</h5></a>
                <div class=" row">
                     {{if .Sections}}
-                          {{range first 1 .Sections  }}
+                          <!-- {{range first 1 .Sections  }} -->
+                          {{ $randomPosts := shuffle .Site.Pages | first 2 }}
                               <div class=" row">
                                    {{ partial "listings/senate" . }}
                               </div>
