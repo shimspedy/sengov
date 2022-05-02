@@ -7,7 +7,7 @@ $(document).ready(function() {
           offset_top:80
      });
      $("#nav-side-ad").stick_in_parent({
-      offset_top:500
+      offset_top:600
      });
      $("#nav-side-article").stick_in_parent({
           offset_top:80
