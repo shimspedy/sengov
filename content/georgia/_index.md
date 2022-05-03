@@ -1,6 +1,7 @@
 ---
 date: 2017-09-11T11:55:00-04:00
 title: "Georgia"
+ab: "GA"
 seo_title: "Contact Georgia Senators"
 description: Georgia became the fourth state to join the Union on January 2, 1788. Georgia’s first two senators, William Few and James Gunn, took office on March 4, 1789. Georgia’s longest-serving senators include Walter George (1922–1957) and Richard Russell (1933–1971). 
 author: john shim
