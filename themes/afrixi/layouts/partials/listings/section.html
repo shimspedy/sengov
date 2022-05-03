@@ -1,6 +1,6 @@
 
 {{if .Sections}}
-<h2 class="flow-text">Contact {{.Title}} Governors</h2>
+<h1 class="flow-text">Contact {{.Title}} Governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
@@ -82,7 +82,7 @@
 
 
 <!-- {{if .Pages}}
-<h2>Contact {{.Title}} Senators</h2>
+<h1>Contact {{.Title}} Senators</h1>
      <div class="row">
         {{ template "recursive-article-listing" . }}
      </div>
