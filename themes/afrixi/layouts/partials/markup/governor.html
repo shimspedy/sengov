@@ -9,7 +9,7 @@
         "streetAddress": "{{- .Params.Mailingaddress1 -}} "
       },
       "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
-      "jobTitle": "senator",
+      "jobTitle": "{{- .Params.role -}}",
       "name": "{{- .Params.name -}}",
       "telephone": "{{- .Params.Phonenumber1 -}}",
       "url": "{{- .Params.Website -}}"
@@ -49,7 +49,7 @@
           },
           "description": "Contact information to {{- .Params.Name -}} Senator, find Senator email, website, phone number, street address.",
           "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}],{{- .Params.name -}} for {{- .Params.role -}}
         }
 </script>
 
@@ -91,7 +91,7 @@
   { "@context" : "http://schema.org", 
   "@type" : "Organization", 
   "url" : "{{.Permalink}}", 
-  "name": "Office of  {{- .Params.State -}}  Governor", 
+  "name": "{{- .Params.name -}} for {{- .Params.role -}}", 
   "logo": "https://contactgovernors.com/slogo.png",
   "address": {  
     "@type": "PostalAddress",  
