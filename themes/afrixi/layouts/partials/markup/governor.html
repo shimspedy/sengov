@@ -49,7 +49,7 @@
           },
           "description": "Contact information to {{- .Params.Name -}} Senator, find Senator email, website, phone number, street address.",
           "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}],{{- .Params.name -}} for {{- .Params.role -}}
+          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}, {{- .Params.name -}} for {{- .Params.role -}}]
         }
 </script>
 
