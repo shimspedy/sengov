@@ -159,12 +159,12 @@
                  (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
             </div>
-            {{ if .Params.Twitter }}
+            <!-- {{ if .Params.Twitter }}
             <div class="twits center">
                  <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-tweet-limit="1" data-width="600" data-height="300"></a> 
                  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
-            {{end}}
+            {{end}} -->
             <div id="disqus_recommendations"></div>
             <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
             <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}" style="margin-top:20px; padding: 25px 20px 20px; border-radius: 6px; ">
