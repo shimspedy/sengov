@@ -39,23 +39,19 @@ powrid:
 twitter: GovDanMcKee
 ---
 
-#### Governor Dan McKee
-Dan McKee is a lifelong Rhode Islander who proudly serves as the Ocean State’s 76th Governor. He began his political career on the Town Council in his hometown of Cumberland. After serving for eight years, he was elected Mayor. Following 12 years as Mayor of Cumberland, he left office in 2014 when he was elected Lieutenant Governor. He ascended to the Governor’s Office in 2021.
-
-As Governor, his top priority is the COVID-19 pandemic and getting shots in arms. He also continues to focus on the same issues he has cared about his whole career – accessible government, effective fiscal management, a high-quality public education for all students, equity and justice, and economic development centered on small businesses.
-
-#### LT. GOVERNOR
-
-Elected Lieutenant Governor in 2014, he used the office to stand up for working Rhode Islanders and support small businesses. Together with 26 mayors, Dan sued Big Pharma to hold them accountable for their role in the opiate crisis. He took on the giant electric companies and lowered costs for ratepayers. When the COVID-19 pandemic hit, Dan organized a grassroots small business movement ensuring millions of dollars in federal C.A.R.E.S. Act funds were allocated to support the small business community.
-
-#### MAYOR
-
-When Dan took office, Cumberland had a “junk bond” credit rating and its finances were close to being taken over by the state. When he left office, Cumberland had a budget surplus and a AA bond rating. He also turned around two failing elementary schools and fixed a high school that was falling apart. Additionally, Dan created the state’s only Mayor’s Office for Children, Youth, and Learning, which has supported thousands of Cumberland students.
-
-#### EARLY CAREER, EDUCATION, AND FAMILY
+Dan McKee is a lifelong Rhode Islander who proudly serves as the Ocean State’s 76th Governor. 
 
 Born in Cumberland, Dan is the son of James and Helen Willa McKee. His parents taught him the importance of working hard and giving back to the community. In particular, Dan is still inspired by his father’s role in starting the local Boys & Girls Club in their town. 
 
 Dan graduated from Cumberland High School, where he played basketball and met his wife Susan. He holds a bachelor's degree in political science and education from Assumption College. He earned a master's degree in public administration from Harvard University's Kennedy School of Government. He has owned and operated successful small businesses in the Blackstone Valley for three decades. 
 
-Dan and Susan have two children, Matthew and Kara. Both children went to public school in Cumberland. For many years, Dan was a youth basketball coach, where he mentored young athletes and won two AAU state championships.
+Dan and Susan have two children, Matthew and Kara. Both children went to public school in Cumberland. For many years, Dan was a youth basketball coach, where he mentored young athletes and won two AAU state championships. 
+
+In 2000, McKee was elected Mayor of Cumberland after serving for eight years on the Town Council. He served 12 years as mayor, leaving the office in 2014 when he was elected Lieutenant Governor. 
+
+When Dan took office, Cumberland had a “junk bond” credit rating and its finances were close to being taken over by the state. When he left office, Cumberland had a budget surplus and a AA bond rating. He also turned around two failing elementary schools and fixed a high school that was falling apart. Additionally, Dan created the state’s only Mayor’s Office for Children, Youth, and Learning, which has supported thousands of Cumberland students.
+
+Elected Lieutenant Governor in 2014, McKee used the office to stand up for working Rhode Islanders and support small businesses. Together with 26 mayors, Dan sued Big Pharma to hold them accountable for their role in the opiate crisis. He took on the giant electric companies and lowered costs for ratepayers. When the COVID-19 pandemic hit, Dan organized a grassroots small business movement ensuring millions of dollars in federal C.A.R.E.S. Act funds were allocated to support the small business community.
+
+As Governor, Dan’s top priority is the COVID-19 pandemic and getting shots in arms. He also continues to focus on the same issues he has cared about his whole career — accessible government, effective fiscal management, a high quality public education for all students, equity and justice, and economic development centered on small businesses.
+

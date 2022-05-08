@@ -40,16 +40,6 @@ website:	https://www.utah.gov/index.html
 powrid: 43b470de_1609210882
 twitter: SpencerJCox
 ---
-Gov. Spencer J. Cox was born and raised in Fairview, a town of 1,247 residents located about two hours south of Salt Lake City. 
 
-He first met Abby Palmer at age 16, and the couple married after his service as a missionary for The Church of Jesus Christ of Latter-day Saints in Mexico. He graduated from Snow College, Utah State University, and Washington and Lee University School of Law.
-
-Gov. Cox launched his legal career clerking for U.S. District Judge Ted Stewart and began building a successful law practice at the Salt Lake City firm of Fabian & Clendenin. He then returned to Fairview to join the family business, CentraCom, as vice president and general counsel. 
-
-A sixth generation Utahn, Gov. Cox served as a city councilman, mayor, county commissioner, and member of the Utah House before being appointed to serve as Utah’s lieutenant governor in 2013. 
-
-Since his election as governor in November 2020, Gov. Cox has led out on some of the state’s most daunting challenges including the current coronavirus crisis, homelessness, suicide prevention, and bullying. Under his leadership, Utah has re-emerged as the best economy in the nation, with unprecedented funding for education and increased support for Utah’s rural communities. Among the first governors to welcome refugees from Afghanistan, Gov. Cox is a staunch advocate for civility in politics and is committed to improving opportunities for all Utahns.
-
-Gov. Cox and First Lady Abby Cox are proud parents of four children: Gavin, Kaleb, Adam, and Emma Kate.
 
 

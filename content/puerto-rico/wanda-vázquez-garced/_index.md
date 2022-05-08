@@ -29,8 +29,4 @@ twitter: wandavazquezg
 ---
 
 
-On August 7, 2019, Gov. Wanda Vázquez Garced was sworn in as the second female governor of the Commonwealth of Puerto Rico.
 
-In 2017, she was appointed Secretary of Justice of the Commonwealth of Puerto Rico. Prior to being elected Governor, she served as the Secretary of Justice of the Commonwealth of Puerto Rico.
-
-Gov. Vázquez Garced graduated from the University of Puerto Rico and the Inter-American University School of Law.
