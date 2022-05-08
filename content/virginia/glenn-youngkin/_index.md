@@ -6,7 +6,7 @@ subheader:
      greeting: contact Governor glenn youngkin 
      description: ‍Glenn Youngkin is a homegrown Virginian who grew up in Richmond and Virginia Beach. As his father changed jobs, Governor-Elect Youngkin learned that moving around didn’t equal moving up – nothing was handed to him.
 description: Contact Governor glenn youngkin of Virginia. Contact information for glenn youngkin includes his email address, phone number, and mailing address.
-author: john shim
+author: contact governors
 image: glenn-youngkin.jpeg
 video:
 url: /virginia/glenn-youngkin/
@@ -20,7 +20,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name:	glenn youngkin 
+name:	glenn youngkin
 state:	Virginia
 birthstate: Virginia
 party:	Republican
@@ -45,5 +45,8 @@ website:	https://www.governor.virginia.gov/
 twitter: GlennYoungkin
 ---
 
+Governor Glenn Youngkin is a homegrown Virginian who grew up in Richmond and Virginia Beach. As his father changed jobs, Governor Youngkin learned that moving around didn’t equal moving up – nothing was handed to him. From his first job washing dishes and frying eggs at a diner in Virginia Beach, he embraced hard work and responsibility to help his family when his father lost his job. His determination to succeed earned him multiple high school basketball honors in Virginia and an athletic scholarship to college.
 
+After earning an engineering degree at Rice University, and his MBA at Harvard Business School, Governor Youngkin and his wife Suzanne moved to Northern Virginia. He landed a job at The Carlyle Group, where he spent the next 25 years. Working his way to the top of the company, Governor Youngkin played a key role in building Carlyle into one of the leading investment firms in the world. His efforts have helped fund the retirements of teachers, police officers, firefighters and other frontline public servants and supported hundreds of thousands of American jobs.
 
+Married for over 27 years to his amazing wife Suzanne, Governor Youngkin is a dedicated father of four wonderful children. Their family journey has been and continues to be guided by their faith.

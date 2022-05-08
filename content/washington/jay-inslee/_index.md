@@ -39,5 +39,15 @@ powrid: 43b470de_1609210882
 twitter: GovInslee
 ---
 
+Jay Inslee is a fifth-generation Washingtonian who has lived and worked on both sides of the state. He grew up in the Seattle area where his father, Frank, was a high school teacher and coach. His mother, Adele, worked as a sales clerk at Sears & Roebuck. Jay worked his way through college and graduated from the University of Washington with a degree in economics before earning his law degree at Willamette University. He and his wife, Trudi, then moved to Selah, a small town near Yakima where they raised their three sons. Jay worked as an attorney and prosecutor.
 
+Jay and Trudi are now proud grandparents to four active little Inslees. Besides writing and illustrating books for his grandchildren and sketching scenes from around Washington, Jay is an avid cyclist and charter member of Hoopaholics, a youth basketball academy.
+
+Jay first became involved in public service in 1985 when he and Trudi helped lead the effort to build a new public high school in Selah. Motivated to fight against proposed funding cuts for rural schools, Jay went on to represent the 14th Legislative District in the state House of Representatives. He was then elected to Congress in 1992. The Inslees later moved back to Kitsap County where Jay was elected to Congress in 1998, serving until 2012 when he was elected governor.
+
+He is currently the longest serving governor in the United States.
+
+During his time in Congress, Jay became known as a forward-thinking leader, especially on issues of clean energy and climate change. He co-wrote a book, "Apollo's Fire: Igniting America's Clean-Energy Economy," about fighting climate change through clean energy innovation and job-creation. As governor, he has helped put Washington state at the forefront of climate action and is helping lead numerous subnational partnerships. Since 2013, the state has passed nation-leading policies to transition to 100% clean electricity, cap carbon pollution, electrify transportation, and more.
+
+Over the past decade, Washington has consistently been among the few states to rank as one of the best states for business and one of the best states for workers. From commercial space and sustainable maritime to advanced agriculture and forest products, the growth of Washington’s key sectors is helping attract new companies and create jobs in communities all across the state. Washington has one of the nation’s highest minimum wages, paid sick leave for all workers, a best-in-the-nation paid family leave program, and one of the highest union membership rates.
 
