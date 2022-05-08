@@ -183,3 +183,16 @@ twitter: MikeDeWine
 
 
 
+#### Governor Mike DeWine
+Mike DeWine’s story is a true Ohio story. Raised in Yellow Springs, Ohio, Mike DeWine and Fran (Struewing) met in the first grade and married while students at Miami University. They’ve been blessed with eight children and 26 grandchildren. Family is at the core of everything Mike DeWine does, and that’s why he has devoted his life to fighting for Ohio’s families. He knows when families are strong, Ohio communities are stronger, and our future is bright.
+
+#### Vision for the Future
+Mike DeWine loves Ohio and cares passionately about our state’s future. He will fight for an Ohio that works for everyone – every person and every family in every corner of our state. From world class cities to some of the best small towns in America, Mike DeWine knows that to build our state into an economic powerhouse, we must have strong schools, a great quality of life, and compassion for those who need our help.
+
+#### Ohio Values
+Mike DeWine’s family started a seed company in Yellow Springs. Working alongside his parents and grandparents, Mike learned early the value of hard work, strong leadership, and fiscal responsibility.
+
+Growing up, he loaded seed bags onto trucks and boxcars, shoveled wheat out of trucks during harvest, worked in wheat fields to help ensure the purity of the seed, and basically did whatever it took to get the job done for their customers. Inseparable to the end, his parents were married for 65 years and died within four days of each other. The values he learned from them still live within him today.
+
+#### A Lifetime of Service
+On November 6, 2018, Mike DeWine was elected to serve as the 70th Governor of the State of Ohio. The Governor has had a long and distinguished career in public service, focusing on protecting Ohio children and families. He was previously the 50th Attorney General of Ohio and has previously been elected to serve as Greene County Prosecutor, Ohio State Senator, U.S. Congressman, Ohio Lt. Governor, U.S. Senator.

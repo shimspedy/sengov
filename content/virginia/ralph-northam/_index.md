@@ -39,5 +39,7 @@ powrid: 43b470de_1609210882
 twitter: RalphNortham
 ---
 
+Before he was inaugurated as the 73rd Governor of the Commonwealth of Virginia, Ralph Northam served as an Army doctor, pediatric neurologist, business owner, state Senator and Lieutenant Governor. A native of Virginia’s Eastern Shore, Governor Northam was educated at the Virginia Military Institute (VMI), where he graduated with distinction. After graduation, Governor Northam was commissioned as a second lieutenant in the United States Army. He served eight years of active duty and rose to the rank of major.
 
+Governor Northam and First Lady Pamela Northam have two adult children.
 
