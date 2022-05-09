@@ -4,7 +4,7 @@ title: "glenn youngkin"
 seo_title: "contact Governor glenn youngkin "
 subheader:
      greeting: contact Governor glenn youngkin 
-     description: ‍Glenn Youngkin is a homegrown Virginian who grew up in Richmond and Virginia Beach. As his father changed jobs, Governor-Elect Youngkin learned that moving around didn’t equal moving up – nothing was handed to him.
+     description: ‍Glenn Youngkin will bring a new day to Virginia with fresh ideas, shared values, and innovative solutions to rebuild and reimagine Virginia's future.
 description: Contact Governor glenn youngkin of Virginia. Contact information for glenn youngkin includes his email address, phone number, and mailing address.
 author: contact governors
 image: glenn-youngkin.jpeg
@@ -16,6 +16,11 @@ tags:
 keywords:
 - contact glenn youngkin
 - youngkin for governor contact info
+- glenn youngkin contact information
+- youngkin
+- glenn youngkin email
+- contact governor youngkin
+- glenn youngkin mailing address
 weight: 1
 layout: course_home
 
@@ -44,6 +49,8 @@ emailaddress:	https://www.governor.virginia.gov/constituent-services/communicati
 website:	https://www.governor.virginia.gov/
 twitter: GlennYoungkin
 ---
+
+Glenn Youngkin will bring a new day to Virginia with fresh ideas, shared values, and innovative solutions to rebuild and reimagine Virginia's future.  
 
 Governor Glenn Youngkin is a homegrown Virginian who grew up in Richmond and Virginia Beach. As his father changed jobs, Governor Youngkin learned that moving around didn’t equal moving up – nothing was handed to him. From his first job washing dishes and frying eggs at a diner in Virginia Beach, he embraced hard work and responsibility to help his family when his father lost his job. His determination to succeed earned him multiple high school basketball honors in Virginia and an athletic scholarship to college.
 
