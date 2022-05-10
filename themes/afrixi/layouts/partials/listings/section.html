@@ -86,20 +86,12 @@
 {{end}}
 
 <!-- afrix-cards -->
-<!-- {{define "recursive-afrixcard"}}
+ {{define "recursive-afrixcard"}}
   {{if .Sections}}
     {{ partial "listings/afrixcard" . }}
   {{end}}
 {{end}}
 
-{{define "recursive-article-listing"}}
-{{range .RegularPages }}
-<div class="col">
-  {{ partial "listings/article-card" . }}
-</div>
-{{ template "recursive-article-listing" . }}
-{{end}}
-{{end}} -->
 
 
 <!-- {{if .Pages}}
