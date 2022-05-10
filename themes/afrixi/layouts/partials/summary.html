@@ -1,0 +1,27 @@
+<div class="card-stacked">
+    <div class="card-content">
+      <div class="post-title">
+        <a class="link grey-text text-darken-4" href="{{ .Permalink }}" title="{{ .Params.title }}">{{ .Title }}</a>
+      </div>
+      <header>
+        <div style="font-size: .75rem; color: #b5b5b5; ">{{ .Date.Format "Monday, 2 Jan, 2006" }} </div>
+      </header>
+      <p style="font-size: .80rem;">{{ .Summary | truncate 100 }}</p>
+    </div>
+    <div class="card-action">
+      <div class="col s6">
+        {{ .Render "author-link" }}
+      </div>
+      <footer class="col s6">
+        <a class="grey-text text-darken-1" style="font-size: 11px;" href='{{ .Permalink }}'>
+          {{ if .Site.Params.readingTime }}
+          {{ .ReadingTime }} Minutes
+          {{ end }}
+          {{ if .Site.Params.wordCount }}
+          | {{ .WordCount }} Words
+          {{ end }}
+        </a>
+      </footer>
+    </div>
+  
+  </div>

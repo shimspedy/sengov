@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ .Render "profile" }}
+<section id="posts-area" class="content-area">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m8 l9">
+        {{ .Render "articles" }}
+      </div>
+      <div class="col s12 m4 l3 sidebar-right">
+        sidebar-right
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

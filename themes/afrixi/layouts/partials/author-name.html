@@ -1,0 +1,19 @@
+
+<div class="childernIcon">
+        {{- range .Params.authors }}
+        {{ $authorPath := printf "authors/%s" (urlize .) }}
+        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
+        <img src="{{ .Params.avatar }}" alt="" class="circle" style="height: 32px; width: 32px;">
+        {{ end }}
+        {{ end }}
+        
+    </div>
+    <div class="unscribeLongLine"><span class="pattern"></span></div>
+    <h3>   
+        {{- range .Params.authors }}
+        {{ $authorPath := printf "authors/%s" (urlize .) }}
+        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
+        <span class="card-author-title">{{ .Params.name }} </span><br><span class="country">from: {{ .Params.country }}</span>
+        {{ end }}
+        {{ end }}
+  </h3>

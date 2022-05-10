@@ -1,0 +1,38 @@
+<section class="my-profile">
+    <div class="user-profile">
+      <div class="container">
+        <div class="row about">
+          <div class="col s12 m4 l3">
+            <div class="avatar">
+              {{- with .Params.avatar }}
+              <img src="{{ . }}" alt="" >
+              {{ end }}
+            </div>
+          </div>
+          <div class="col s12 m8 l9">
+            <div class="aboutme">
+              <h4>{{ .Params.name }} <span> | from: {{ .Params.country }}</span></h4>
+              {{ .Content }}
+            </div>
+            <div class="social">
+              {{ if .Params.twitter }}
+              <a href="{{ .Params.facebook }}" target="_blank" rel="noopener">
+                <img src="/images/facebook.png" width="50px" height="50px">
+              </a>
+              {{ end }}
+              {{ if .Params.twitter }}
+              <a href="{{ .Params.twitter }}" target="_blank" rel="noopener">
+                <img src="/images/twitter.png" width="50px" height="50px">
+              </a>
+              {{ end }}
+              {{ if .Params.website }}
+              <a href="{{ .Params.website }}" target="_blank" rel="noopener">
+                <img src="/images/site.png" width="50px" height="50px">
+              </a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

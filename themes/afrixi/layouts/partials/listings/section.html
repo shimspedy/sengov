@@ -78,7 +78,28 @@
 
 
 
+<!-- css-tricks -->
+{{define "recursive-sengov-carousel"}}
+{{if .Sections}}
+{{ partial "listings/sengov-carousel" . }}
+{{end}}
+{{end}}
 
+<!-- afrix-cards -->
+{{define "recursive-afrixcard"}}
+  {{if .Sections}}
+    {{ partial "listings/afrixcard" . }}
+  {{end}}
+{{end}}
+
+{{define "recursive-article-listing"}}
+{{range .RegularPages }}
+<div class="col">
+  {{ partial "listings/article-card" . }}
+</div>
+{{ template "recursive-article-listing" . }}
+{{end}}
+{{end}}
 
 
 <!-- {{if .Pages}}
@@ -88,13 +109,13 @@
      </div>
 {{end}} -->
 
-{{define "recursive-course-listing"}}
+{{define "recursive-sengov-listing"}}
      {{if .Sections}}
           {{range .Sections }}
                <div class=" row">
                     {{ partial "listings/senate" . }}
                </div>
-               {{ template "recursive-course-listing" . }}
+               {{ template "recursive-sengov-listing" . }}
           {{end}}
 
      {{end}}
