@@ -31,6 +31,33 @@ powrid: 5f34256e_1607161983
 twitter: Sen_JoeManchin
 ---
 
+#### ABOUT JOE
+U.S. Senator Joe Manchin (D-W.Va.) was sworn into the United States Senate on November 15, 2010 to fill the seat left vacant by the late Senator Robert C. Byrd. For Senator Manchin, serving as West Virginia's Senator is truly an honor and a privilege. 
+
+Born and raised in the small coal mining town of Farmington, W.Va., Sen. Manchin grew up learning the values that all West Virginians share — family, common sense, fairness and hard work. As a small businessman, he learned firsthand from his grandfather, Papa Joe, who was an Italian immigrant and the town grocer, the importance of serving the public. As a young man, his beloved grandmother, Mama Kay, inspired Senator Manchin's belief in public service through her unflagging compassion and desire to help those less fortunate. 
+
+From his days as a state legislator to his six years as Governor to his current role, Senator Manchin has always been committed to his philosophy of "retail government" — in other words, connecting with all of his constituents and making service to them his top priority. 
+
+As a Senator, Joe Manchin is committed to bringing this same spirit of bipartisanship to Washington. As he has done throughout his entire life, he remains committed to working with Republicans and Democrats to find commonsense solutions to the problems our country faces and is working hard to usher in a new bipartisan spirit in the Senate and Congress. 
+
+Legislatively, job creation is Senator Manchin's top priority and he believes that government should act as a partner, not an adversary, in helping to create the environment that produces good American jobs. Senator Manchin also firmly believes that our nation can and must do what he did in West Virginia - put our fiscal house in order. He believes we must find commonsense ways to cut spending while keeping our promises to our seniors and veterans by protecting Social Security and Medicare. 
+
+Senator Manchin is strongly committed to developing a balanced national energy plan that utilizes all of our resources and recognizes that fossil fuels will be a vital part of our energy mix for decades to come. He believes that a balanced, commonsense approach that considers the needs of our environment and the demands of our economy, can and must be developed if we are to achieve energy independence within this generation.
+
+Senator Manchin currently serves as the Chairman of the Senate Energy and Natural Resources Committee, and also serves on the Senate Committee on Appropriations, the Senate Committee on Armed Services, and the Senate Committee on Veterans' Affairs - four critical committees that tackle the important work of addressing our nation's energy needs, overseeing discretionary spending, standing up for our Veterans, and defending our nation.
+
+Senator Manchin is an avid pilot, outdoorsman, hunter, angler and motorcyclist. He has been married for more than four decades to the former Gayle Conelly of Beckley. They have three children: Heather, Joseph IV and Brooke, and are the proud grandparents of Joseph V, Sophie, Kelsey, Madeline, Chloe, Jack, Carly, Vivian, Beaux and Knox.
+
+#### Key Highlights
+Senator Manchin has served in several leadership capacities on various associations, including: Chairman of the National Governors Association, Chairman of the Southern States Energy Board, President of the Council of State Governments, Chairman of the Democratic Governors Association and Chairman of the Southern Governors’ Association.
+
+Senator Manchin served as Secretary of State from 2000 to 2004, and his office was known for excellent customer service. He was a state legislator from 1982 to 1996, where he earned a reputation for standing up for West Virginians.
+
+Senator Manchin became a successful businessman after attending West Virginia University on a football scholarship.
+
+Senator Manchin is an avid pilot, outdoorsman, hunter, angler and motorcyclist. He has been married for more than five decades to the former Gayle Conelly of Beckley. They have three children: Heather, Joseph IV and Brooke, and are the proud grandparents of Joseph V, Sophie, Kelsey, Madeline, Chloe, Jack, Carly, Vivian, Beaux and Knox.
+
+#### Biograph 
 Senator Joseph Manchin III (D) is an American politician. He has been serving as a senior U.S. Senator from West Virginia under the Democrats since 2010. He was the state’s Secretary of State from 2001 to 2005. He also served as West Virginia’s state governor from 2005 to 2010.
 
 Manchin was born in Farmington, West Virginia, on August 24, 1947. He graduated from Farmington High School. He subsequently won a football scholarship and enrolled at West Virginia University in 1965.

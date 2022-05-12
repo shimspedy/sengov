@@ -31,3 +31,20 @@ powrid: e9072f05_1607161815
 twitter: MikeLeeforUtah
 ---
 
+Elected in 2010 as Utah's 16th Senator, Mike Lee has spent his career defending the fundamental liberties of all Americans and advocating for America's founding constitutional principles.
+
+Senator Lee acquired a deep respect for the Constitution early in life while watching his father, Rex E. Lee, serve as the Solicitor General under President Ronald Reagan. He attended most of his father's arguments before the U.S. Supreme Court, giving him a unique and up-close understanding of government.
+
+Lee graduated from Brigham Young University with a degree in Political Science, and served as BYU's Student Body President in his senior year. He graduated from BYU's Law School in 1997 and went on to serve as law clerk to Judge Dee Benson of the U.S. District Court for the District of Utah, and then with future Supreme Court Justice Judge Samuel A. Alito, Jr. on the U.S. Court of Appeals for the Third Circuit.
+
+Lee spent several years as an attorney with the law firm Sidley & Austin specializing in appellate and Supreme Court litigation, and then served as an Assistant U.S. Attorney in Salt Lake City arguing cases before the U.S. Court of Appeals for the Tenth Circuit.
+
+Lee served the state of Utah as Governor Jon Huntsman's General Counsel and was later honored to reunite with Justice Alito, now on the Supreme Court, for a one-year clerkship. He returned to private practice in 2007.
+
+Throughout his career, Lee earned a reputation as an outstanding practitioner of the law based on his sound judgment, abilities in the courtroom, and thorough understanding of the Constitution.
+
+Senator Lee serves as the Ranking Republican on the Judiciary Subcommittee on Antitrust, Competition Policy, and Consumer Rights, and on the Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining.
+
+In addition, Senator Lee continues to lead Republicans on the Joint Economic Committee as the Ranking Member, after spending the last two Congresses as Vice Chairman and Chairman, respectively. He also serves on the Senate Commerce Committee and the Senate’s Special Committee on Aging.
+
+Lee and his wife Sharon live in Utah County, and have three children, John, James, and Eliza. He is a member of The Church of Jesus Christ of Latter-day Saints and served a two-year mission for the Church in the Texas Rio Grande Valley.

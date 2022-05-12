@@ -31,5 +31,15 @@ powrid: 5f34256e_1607161983
 twitter: SenatorTimScott
 ---
 
+#### About senator Tim Scott
+Growing up in a poor, single parent household in North Charleston, South Carolina, a young Tim Scott grew accustomed to moving every few years, as well as the long hours his mom worked to keep a roof over their heads. After failing four classes his freshman year of high school, Tim’s path forward was murky at best.
+
+But thankfully, he had a mom who stuck with him, and met a mentor that showed him the wisdom of conservative principles. Through their belief and his own determination, Tim got his grades back on track, graduated from Charleston Southern University, and eventually built his own successful small business.
+
+Through the lessons taught by his mentor, Tim developed his mission statement: to positively affect the lives of a billion people. That led him to public service, where he was elected to Charleston County Council, the South Carolina House of Representatives, the United States House of Representatives, and the United States Senate.
+
+Since joining the Senate in 2013, Senator Scott has been a national leader on efforts to bring opportunity to every American family. His signature legislation creating Opportunity Zones was passed as part of the 2017 tax reform package, and has the potential to bring billions of dollars of private investment into distressed communities across the country.
+
+As he continues to lead on the implementation of the Opportunity Zones initiative, Senator Scott also plays a critical role in issues regarding workforce development, education and diversity. Whether it’s tackling the skills gap, making sure children have access to the educational environment best suited for them, or working to bring everyone to the table to find solutions, Senator Scott will keep fighting for South Carolinians every single day he serves in the U.S. Senate.
 
 

@@ -31,3 +31,12 @@ powrid: e9072f05_1607161815
 twitter: barrassoforwyo
 ---
 
+Senator John Barrasso was sworn in to the United States Senate in 2007 having represented the people of Natrona County in the Wyoming State Senate from 2003-2007. In November 2018, Barrasso was reelected to the U.S. Senate with more than 67% of the vote.
+
+He is the third-ranking member in the Senate Republican leadership as Chairman of the Senate Republican Conference.
+
+He serves on committees that directly impact Wyoming’s economy, energy interests, public lands, national parks and trade. In addition to other committee assignments, Barrasso is the ranking member of the Senate Energy and Natural Resources Committee.
+
+Senator Barrasso is known by many as Wyoming’s Doctor. During his 24 years as an orthopedic surgeon, Barrasso served as President of the Wyoming Medical Society and was named Wyoming Physician of the Year.
+
+Barrasso has three children – Peter, Emma and Hadley. He and his wife Bobbi live in Casper.

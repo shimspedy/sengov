@@ -31,5 +31,13 @@ powrid: 5f34256e_1607161983
 twitter: SenatorEnzi
 ---
 
+Mike Enzi, in full Michael Bradley Enzi, (born February 1, 1944, Bremerton, Washington, U.S.—died July 26, 2021, Loveland, Colorado), American politician who was elected as a Republican to the U.S. Senate in 1996 and began representing Wyoming the following year; he left office in 2021.
 
+Enzi grew up in Thermopolis, Wyoming. An avid outdoor enthusiast, he attained Eagle Scout rank in the Boy Scouts. In 1966 he earned a bachelor’s degree in accounting from George Washington University, and the following year he enlisted in the Wyoming Air National Guard, serving until 1973. After studying retail marketing at the University of Denver (M.B.A., 1968), he moved to Gillette, Wyoming, where he opened a shoe business in 1969. That year he married Diana Buckley, and the couple later had three children.
+
+In 1974 Enzi ran for the mayorship of Gillette. He was elected and served two four-year terms. While working for an oil-drilling company, he won a seat in the Wyoming House of Representatives, serving from 1987 to 1991, when he became a member of the state Senate. While in the Wyoming legislature, he was a vocal opponent of casino gambling in the state and a strong advocate of energy development. During that time, he also worked as the executive director of an energy-holding company. In 1996 Enzi ran for and was elected to the U.S. Senate. He took office the following year.
+
+Enzi was characterized as a conservative Republican who generally voted with his party, though he occasionally broke with its leadership. Although new taxation, for example, was politically unpopular, he championed an effort to impose a uniform tax on interstate commerce conducted via the Internet. That came despite the fact that he was a signee of a pledge—created by the special-interest group Americans for Tax Reform, headed by Grover Norquist—in which politicians promised to curb taxation, especially at the federal level. Enzi continued to take a strong interest in energy issues, and he led legislative efforts to open the Arctic National Wildlife Refuge and other public lands to private-interest oil exploration, drilling, and production. On social issues, Enzi was also conservative, supporting efforts to ban abortion and opposing marriage equality.
+
+Enzi was easily reelected to the Senate three times, but in 2019 he announced that he would not seek a fifth term the following year.
 
