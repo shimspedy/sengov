@@ -24,7 +24,7 @@ born:	November 13, 1957
 age: '63'
 enteredoffice:	January 20, 2015 
 terms1: January 20, 2015 - January 7, 2019
-terms2: 
+terms2: January 7, 2019 - January 7, 2023
 terms3: 
 termexpires:	
 mailingaddress1: P.O. Box 12428 Austin, TX 78711
