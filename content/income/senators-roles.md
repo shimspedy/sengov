@@ -1,26 +1,15 @@
 ---
-authors:
-  - Afrixi
-title: Adding Tags To Your Hugo Theme In  A Simple Way.
-seo_title: >-
-  Adding Tags To Your Hugo Theme In  A Simple Way Using Taxonomies. |
-  unwrote.com
-description: "Taxonomies are used to define relationships between your content. tags is an example of a taxonomy. In fact, it is also one of the two default taxonomies that Hugo supports out-of-the-box. \U0001F4E6"
-date: '2019-03-06T18:52:00-05:00'
-tags:
-  - Netlify-CMS
-  - Hugo
-keywords:
-  - Netlify
-  - NetlifyCMS
-  - Hugo
-  - Setting up Netlify CMS on Hugo
-  - Static website generator Netlify
-  - Host static blog on Netlify
-image: /images/uploads/addtags.jpg
-draft: false
+date: 2021-07-20T10:02:20-04:00
+title: " Senator Role to the people"
+seo_title: "9 Roles You Didn’t Know Your Senator Can Do For You"
+description: the majority of individuals don’t know the role their senators play in the senate. True, we tend to assume that the congressman’s mandate is to foresee projects in the government.
+author: Csen
+image:
+video:
+url: 
+weight: 0
+layout: single
 ---
-
 the majority of individuals don’t know the role their senators play in the senate. True, we tend to assume that the congressman’s mandate is to foresee projects in the government. However, what the majority don’t know is that every one of them has employees whose work is to deliver constituent service. The service is specially designed to help people with concrete issues- usually involving a federal agency.
 
 In most cases, the senate works on sorting out issues around Internal Revenue Service problems, mortgage issues, social security problems, immigration requests, and veterans’ benefits. We have prepared a rundown of some of the many roles played by congressmen and their caseworkers, to help you get an insight on how to make the congress work for you.
