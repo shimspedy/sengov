@@ -29,7 +29,7 @@ twitter: RepChrisPappas
 powrid: 
 ---
 
-About Rep Chris Pappas 
+#### About Rep Chris Pappas 
 For Congressman Chris Pappas, public service has always been about finding ways to give back to the community that has given him so much. A lifelong resident of Manchester, New Hampshire, Chris was born into a proud Greek-American family. After graduating from Harvard, Chris returned home where he began a career in public service while helping run the 103 year-old family restaurant where he started scooping ice cream and bussing tables at age 14.
 
 In Congress, Chris focuses on the issues that matter most to Granite Staters, including improving access to health care, lowering the high cost of prescription drugs, combating the addiction epidemic, and protecting our environment and drinking water. 
