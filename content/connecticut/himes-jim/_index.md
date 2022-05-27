@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
-title: "Himes Jim"
-seo_title: "contact Congressman Himes Jim"
+title: " Jim Himes"
+seo_title: "contact Congressman  Jim Himes"
 subheader:
-     greeting: Contact Congressman Himes Jim 
+     greeting: Contact Congressman  Jim Himes 
      description: James Andrew Himes is an American businessman and politician serving as the U.S. Representative for Connecticut's 4th congressional district since 2009. A member of the Democratic Party, he chaired the New Democrat Coalition in the 115th Congress.
-description: Contact Congressman Himes Jim of Connecticut. Contact information for Himes Jim includes email address, phone number, and mailing address.
+description: Contact Congressman  Jim Himes of Connecticut. Contact information for  Jim Himes includes email address, phone number, and mailing address.
 image: himes-jim.jpeg
 video: 
 url: /connecticut/himes-jim/
@@ -14,7 +14,7 @@ layout: course_home
 
 
 ####candidate
-name:	Himes Jim
+name:	 Jim Himes
 state:	Connecticut
 district: 4th
 party:	Democratic
