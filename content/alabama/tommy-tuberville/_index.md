@@ -31,4 +31,13 @@ powrid: e9072f05_1607161815
 twitter: SenTuberville
 votespotter: 
 ---
+#### ABOUT COACH
+Senator Tommy Tuberville was elected to the U.S. Senate in 2020 and is currently serving his first term representing Alabama. However, his constituents still know him as Coach Tuberville, following his 40-year career coaching college football.
 
+He spent 40-years in higher education as a college football coach, including stints as an Assistant Coach and Defensive-Coordinator at the University of Miami and Texas A&M, before being named the Head Coach at the University of Mississippi. In 1998, Tuberville was named Head Coach at Auburn University in Auburn, Alabama, where he coached for 11 years.
+
+He led the Auburn Tigers to five western division titles and one SEC Championship, and he was named the 2004 National Coach of the Year. Tuberville also had Head Coaching stops at Texas Tech and Cincinnati. After the 2016 season, Tuberville retired as one of the top 50 most winning football coaches of all time. He joined ESPN as a full-time member of the broadcast staff, working side by side with hall of fame broadcaster Mike Patrick.
+
+Tuberville was inspired to serve in Congress by his father, a World War II veteran and recipient of five Bronze Stars and a Purple Heart, who instilled in him the values of patriotism, work ethic, and grit. Tuberville has been called the “common-sense conservative,” focusing on battling against government overreach, fighting for the unborn, and passionately supporting the nation’s law enforcement and military. He has earned the reputation of a fighter for Alabamian’s values and will be an accessible, responsive, and vocal leader in the U.S. Senate.
+
+Tuberville lives in Auburn, Alabama, with his wife Suzanne, and they have two adult sons, Tucker and Troy.

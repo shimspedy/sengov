@@ -31,3 +31,14 @@ powrid: fc4d6a71_1607238284
 twitter: SenTomCotton
 votespotter: '141439'
 ---
+#### ABOUT TOM
+Tom Cotton is a United States Senator from Arkansas. Tom’s committees include the Judiciary Committee, where he serves as the Ranking Member for the Subcommittee on Criminal Justice and Counterterrorism, the Intelligence Committee, and the Armed Services Committee, where he serves as the Ranking Member of the Air Land Power Subcommittee.
+
+Tom grew up on his family’s cattle farm in Yell County. He graduated from Dardanelle High School, Harvard, and Harvard Law School. After a clerkship with the U.S. Court of Appeals and private law practice, Tom left the law because of the September 11th attacks. Tom served nearly five years on active duty in the United States Army as an Infantry Officer.
+
+Tom served in Iraq with the 101st Airborne and in Afghanistan with a Provincial Reconstruction Team. Between his two combat tours, Tom served with The Old Guard at Arlington National Cemetery. Tom’s military decorations include the Bronze Star Medal, Combat Infantry Badge, and Ranger Tab.
+
+Between the Army and the Senate, Tom worked for McKinsey & Co. and served one term in the House of Representatives.
+
+Tom and his wife Anna have two sons, Gabriel and Daniel.
+

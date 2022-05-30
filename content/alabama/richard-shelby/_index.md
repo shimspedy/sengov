@@ -32,5 +32,11 @@ twitter: SenShelby
 votespotter: '141426'
 ---
 
+Senator Richard Shelby is the senior United States Senator from the State of Alabama.  He was first elected to the U.S. Senate in 1986 and is currently in his sixth term.
 
+Senator Shelby is the former chairman and current vice chair of the Senate Committee on Appropriations.  He formerly served as chairman of the Senate Committee on Rules and Administration and the Senate Banking, Housing, and Urban Affairs Committee, of which he is the longest serving member in history.  He remains a senior member on each of the committees.  He also serves on the Senate Committee on Environment and Public Works.
+
+Senator Shelby believes that a smaller government is more effective and has long opposed government bailouts.  He is a stalwart supporter of Second Amendment rights and has worked tirelessly to bring jobs and economic growth to Alabama.  He has introduced a flat tax in every Congress since his election to the U.S. Senate, as well as a Balanced Budget amendment to the Constitution.
+
+Prior to his election in the United States Senate, Senator Shelby served four terms in the U.S. House of Representatives and eight years in the Alabama legislature.  He is a fifth generation Alabamian and a graduate of the University of Alabama’s undergraduate and law programs.
 
