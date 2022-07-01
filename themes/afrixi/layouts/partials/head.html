@@ -1,5 +1,5 @@
 
-<title>{{.Params.seo_title}} | sengov.com</title>
+<title>{{.Params.seo_title}} | contactgovernors.com</title>
 <meta charset="utf-8">
 <meta http-equiv='content-language' content='en-gb'>
 <meta name="HandheldFriendly" content="True">
@@ -15,31 +15,11 @@
 <meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />
 {{- end -}}
 {{- if isset .Params "video" -}}<meta property="og:video" content="https://www.youtube.com/watch?v={{.Params.video}}" />{{- end -}}
-<link rel="manifest" href="/manifest.json">
-<!-- appicons -->
-<meta name="msapplication-TileColor" content="#082663" />
-<meta name="msapplication-TileImage" content="https://sengov.com/appicons/mstile-144x144.png" />
-<meta name="msapplication-square310x310logo" content="https://sengov.com/appicons/mstile-310x310.png" />
-<!-- end appicons -->
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css"> -->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <link rel="stylesheet" href="{{.Site.BaseURL}}css/style.css">
 <link rel="stylesheet" href="{{.Site.BaseURL}}css/map.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-light.min.css">
-<!-- Global site tag (gtag.js) - Google Ads: 847979382 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-847979382"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-847979382');
-</script>
-
-<!-- Event snippet for afrixi conversion page -->
-<script>
-    gtag('event', 'conversion', {'send_to': 'AW-847979382/5cljCN3Iz38Q9saslAM'});
-  </script>
-  
+<!-- <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/default.min.css"> -->
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-light.min.css"> -->
