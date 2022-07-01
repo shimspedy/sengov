@@ -34,8 +34,8 @@ image: mike-dewine.jpg
 imageurl: /ohio/mike-dewine/mike-dewine.jpg
 imagedir: root
 video:
-url: /ohio/mike-dewine/bio
-weight: 2
+url: /ohio/mike-dewine/spouse
+weight: 3
 layout: course_home
 
 ####candidate

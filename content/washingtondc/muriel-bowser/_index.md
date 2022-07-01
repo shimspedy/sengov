@@ -23,16 +23,9 @@ inoffice: current
 born:	August 2, 1972
 age: '48'
 enteredoffice:	January 2, 2015
-terms1: 
-terms2: 
-terms3: 
 termexpires:	January 2, 2023
-mailingaddress1: 
-mailingaddress2:		
-phonenumber1: 
-phonenumber2:	
-fax1: 
-fax2: 
+mailingaddress1: Building 1350 Pennsylvania Avenue, NW, Washington, DC 20004
+phonenumber1: 202 727-2643
 emailaddress:	https://dcforms.dc.gov/webform/executive-office-mayor-ask-mayor
 website:	https://dc.gov/
 powrid: 43b470de_1609210882

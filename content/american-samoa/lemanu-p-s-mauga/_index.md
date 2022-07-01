@@ -44,7 +44,7 @@ served two terms as Lieutenant Governor of American Samoa. Lemanu was elected in
 
 ​
 
-#### Spouse & Children
+#### Spouse and Children
 Governor Lemanu is married to Ella Gaea Perefoti Failautusi, daughter of Gaea Perefoti Failautusi and the late Patopae Liu Failautusi. Mrs. Ella Mauga was born and raised in her village of Vaitogi. She is currently serving in active duty in the United States Army as a Financial Management Inspector with the 1-25th Financial Management Support Unit at Schofield Barracks, Hawaii. Sergeant First Class (SFC) Ella Mauga deployed 5 times to the Middle East in support of the War on Terrorism: Operation Enduring Freedom, Operation Iraqi Freedom, and Operation Freedom’s Sentinel. Lemanu was previously married to the late Pohakalani D. Bailey Mauga. Together, Lemanu and Ella have four children.
 
 #### Education

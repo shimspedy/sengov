@@ -51,3 +51,77 @@ Serving as governor since 2019, Governor Lujan Grisham has led New Mexico throug
 Governor Lujan Grisham reimagined what New Mexican can be economically by investing in growing industries and creating completely new ones, like cannabis and outdoor recreation, resulting in the state’s best year for new job growth in 15 years. Fulfilling on her promise to New Mexico’s families and educators, Governor Lujan Grisham championed an education “moonshot,” investing nearly a billion dollars in New Mexico’s schools, reformed laws to make sure taxpayer dollars get to students that need it most, doubled spots for early childhood education, and gave educators their first significant year-over-year raises in years. Governor Lujan Grisham cut taxes for every New Mexican, including seniors, veterans, small businesses, and families. She made New Mexico a national leader in fighting climate change by setting bold standards and investing in clean energy, making sure New Mexico’s heritage -- it’s land, air, and water -- are preserved for generations to come. Sticking to her roots as an advocate for New Mexico’s working people, Governor Lujan Grisham championed paid leave for all employees in the state and raised the minimum wage for the first time in a decade.
 
 Governor Lujan Grisham has two daughters, Taylor and Erin, three grandchildren, and two dogs. Like many New Mexicans, Governor Lujan Grisham served as a caretaker for her mother, Sonja, until 2022. When she’s not governing, Governor Lujan Grisham loves to hike, bike, fish and ride horseback across New Mexico.
+
+#### Education
+JD, School of Law, University of New Mexico, 1983-1987
+
+Bachelor's, University Studies, University of New Mexico, 1977-1981
+
+#### Political Experience
+Governor, State of New Mexico, 2019-present
+
+Candidate, New Mexico State Governor, 2022
+
+Representative, United States House of Representatives, District 1, 2012-2019
+
+Commissioner, Bernalillo County, District 1, 2011-2012
+
+Candidate, United States House of Representatives, District 1, 2008
+
+#### Caucuses/Former Committees
+Former Member, Agriculture Committee, United States House of Representatives
+
+Former Member, Budget Committee, United States House of Representatives
+
+Former Member, Congressional Animal Protection Caucus
+
+Former Member, Congressional Bike Caucus
+
+Former Member, Congressional Caucus for Womens Issues
+
+Former Member, Congressional Caucus on Foster Youth
+
+Former Member, Congressional Diabetes Caucus
+
+Former Member, Congressional Financial Protection and Life Insurance Caucus
+
+Former Chair, Congressional Hispanic Caucus
+
+Former Member, Congressional Native American Caucus
+
+Former Member, Congressional Pro-Choice Caucus
+
+Former Member, Congressional Ski and Snowboard Caucus
+
+Former Member, Congressional Soils Caucus Alliance
+
+Former Member, Congressional Water Caucus
+
+Former Member, Directed Energy Caucus
+
+Former Member, Full Employment Caucus
+
+Former Member, General Aviation Caucus
+
+Former Member, House Science and National Labs Caucus
+
+Former Member, Oversight and Government Reform Committee, United States House of Representatives
+
+Former Ranking Member, Subcommittee on Biotechnology, Horticulture, and Research, United States House of Representatives
+
+Former Ranking Member, Subcommittee on Conservation and Forestry, United States House of Representatives
+
+Former Member, Subcommittee on Health Care, Benefits, and Administrative Rules, United States House of Representatives
+
+Former Member, Subcommittee on Nutrition, United States House of Representatives
+
+#### Professional Experience
+Attorney, Lawyer Referral for the Elderly Program, State Bar of New Mexico
+
+Co-Founder/Co-Owner, Delta Consulting Group, 2008-2017
+
+Secretary of Health, State of New Mexico, 2004-2007
+
+Secretary, Aging and Long Term Services, State of New Mexico, 2002-2004
+
+Director, New Mexico State Agency on Aging, 1991-2002

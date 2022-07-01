@@ -42,3 +42,67 @@ powrid: 43b470de_1609210882
 Eric Holcomb is Indiana’s 51st Governor, but you’re just as likely to find him on the basketball court (he’s made a basket in all of Indiana’s 92 counties) or at a local diner or gathering place (like the Cone Palace in Kokomo) as you are the Statehouse. Eric is laser-focused on fighting this pandemic and building One Indiana for All. That’s centered on growth, opportunity, and – as Eric says – is “people, people, people.”
 
 For Eric, it’s about getting our economy Back on Track while protecting the health of Hoosiers. It’s about helping Hoosiers build the skills they need to land a good-paying job. It’s about helping Hoosiers rid themselves of a drug dependency, so they can lift up themselves and their families. And it’s about keeping Indiana the fiscal envy of the nation and delivering great government service at a great taxpayer value.
+
+#### Education
+BA, United States History, Hanover College, 1990
+
+#### Political Experience
+Governor, State of Indiana, 2017-present
+
+Candidate, Governor, State of Indiana, 2020
+
+Lieutenant Governor, State of Indiana, 2016-2017
+
+Candidate, Indiana House of Representatives, District 64, 2000
+
+#### Professional Experience
+Author, "Leading the Revolution"
+
+State Chief of Staff, United States Senator Dan Coats, 2013-2015
+
+Campaign Manager, Mitch Daniels for Governor, 2007-2008
+
+Office Manager, Senior Staff, United States Congressman John Hostettler, 1999-2000
+
+Campaign Manager, Friends of John Hostettler, 1998
+
+Yeoman, United States Navy, North Atlantic Treaty Organization (NATO) War Headquarters, 1994-1997
+
+Yeoman, United States Navy, Squadron VS-27, 1991-1994
+
+#### Religious, Civic, and other Memberships
+Member, American Legion, Post 777, present
+
+Member, Benjamin Harrison Presidential Site Board, present
+
+Member, Indiana Farm Bureau, present
+
+Member, Indianapolis World War II Round Table, present
+
+Member, Jobs for America's Graduates Board of Directors, present
+
+Member, National Federation of Independent Business, present
+
+Policy Chair, Republican Governors Association, present
+
+Former Chair, Jobs for America's Graduates
+
+Former Member, Knox County Pachyderm Club
+
+Participant, Leadership Knox County
+
+Former Member, Library of Congress Local Legacy Project
+
+Former Member, Old Northwest Territory Corporation Board
+
+Former Member, Spirit of Vincennes Rendezvous Committee
+
+Former Member, Veterans of Foreign Wars Post 1157
+
+Former Member, Vincennes Historical & Antiquarian Society
+
+Former Member, Vincennes Kiwanis Board
+
+State Chair, Indiana Republican Party, 2011-2013
+
+Member, Friends of Terry Mooney for Mayor Campaign Committee, 1999
