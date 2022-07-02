@@ -1,6 +1,6 @@
 
 {{if .Sections}}
-<h1>Contact {{.Title}} Governors</h1>
+<h1 class="flow-text">Contact {{.Title}} Governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
@@ -14,7 +14,7 @@
 
 
 {{if .Sections}}
-<h1>Former governors</h1>
+<h1 class="flow-text">Former governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
