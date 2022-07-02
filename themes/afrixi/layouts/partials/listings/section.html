@@ -1,23 +1,9 @@
 
 {{if .Sections}}
-<h1>Contact {{.Title}} Governors</h1>
+<h1 class="flow-text">Contact {{.Title}} Governors</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "current")  }}
-               <div class="col s12 m6 l6">
-               {{ partial "listings/senate" . }}
-               </div>
-          {{end}}
-     {{end}}
-</div>
-{{end}}
-
-
-{{if .Sections}}
-<h1>Former governors</h1>
-<div class=" row">
-     {{range .Sections }}
-     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
                <div class="col s12 m6 l6">
                {{ partial "listings/senate" . }}
                </div>
@@ -43,6 +29,36 @@
 
 
 {{if .Sections}}
+<h2>Contact {{.Title}} Representatives</h2>
+     <div class=" row">
+          {{range .Sections }}
+          {{ if  and (eq .Params.role "congress") ( eq .Params.inoffice "current")  }}
+                    <!-- {{ if eq .Params.inoffice "current" }} -->
+                    <div class="col s12 m6 l6">
+                    {{ partial "listings/senate" . }}
+                    </div>
+                    <!-- {{end}} -->
+               {{end}}
+          {{end}}
+</div>
+{{end}}
+
+
+{{if .Sections}}
+<h2 class="flow-text">Former {{.Title}} governors</h2>
+<div class=" row">
+     {{range .Sections }}
+     {{ if  and (eq .Params.role "governor") ( eq .Params.inoffice "former")  }}
+               <div class="col s12 m6 l6">
+               {{ partial "listings/senate" . }}
+               </div>
+          {{end}}
+     {{end}}
+</div>
+{{end}}
+
+
+{{if .Sections}}
      <h2 class="flow-text">former {{.Title}} Senators</h2>
      <div class=" row">
           {{range .Sections }}
@@ -57,6 +73,35 @@
      </div>
 {{end}}
 
+
+
+
+
+
+<!-- css-tricks -->
+{{define "recursive-sengov-carousel"}}
+     {{if .Sections}}
+           {{ partial "listings/sengov-carousel" . }}
+     {{end}}
+{{end}}
+
+<!-- afrix-cards -->
+<!-- {{define "recursive-afrixcard"}}
+  {{if .Sections}}
+    {{ partial "listings/afrixcard" . }}
+  {{end}}
+{{end}}
+
+{{define "recursive-article-listing"}}
+{{range .RegularPages }}
+<div class="col">
+  {{ partial "listings/article-card" . }}
+</div>
+{{ template "recursive-article-listing" . }}
+{{end}}
+{{end}} -->
+
+
 <!-- {{if .Pages}}
 <h1>Contact {{.Title}} Senators</h1>
      <div class="row">
@@ -64,13 +109,13 @@
      </div>
 {{end}} -->
 
-{{define "recursive-course-listing"}}
+{{define "recursive-sengov-listing"}}
      {{if .Sections}}
           {{range .Sections }}
                <div class=" row">
                     {{ partial "listings/senate" . }}
                </div>
-               {{ template "recursive-course-listing" . }}
+               {{ template "recursive-sengov-listing" . }}
           {{end}}
 
      {{end}}
