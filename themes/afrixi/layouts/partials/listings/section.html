@@ -41,6 +41,20 @@
      </div>
 {{end}}
 
+{{if .Sections}}
+<h2 class="flow-text">Contact {{.Title}} Representatives</h2>
+     <div class=" row">
+          {{range .Sections }}
+          {{ if  and (eq .Params.role "congress") ( eq .Params.inoffice "current")  }}
+                    <!-- {{ if eq .Params.inoffice "current" }} -->
+                    <div class="col s12 m6 l6">
+                    {{ partial "listings/senate" . }}
+                    </div>
+                    <!-- {{end}} -->
+               {{end}}
+          {{end}}
+</div>
+{{end}}
 
 {{if .Sections}}
      <h2 class="flow-text">former {{.Title}} Senators</h2>
