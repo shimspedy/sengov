@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Kamala D. Harris of California. Contact information for Kamala D. Harris includes email address, phone number, and mailing address.
 image: kamala-harris.jpg
 video: 
-url: /california/kamala-harris
+url: /california/kamala-harris/
 weight: 1
 layout: course_home
 

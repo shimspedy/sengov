@@ -9,7 +9,7 @@ description: Contact senator Mark R. Warner  of Virginia. Contact information fo
 author: john shim
 image: mark-warner.jpg
 video:
-url: /virginia/mark-warner
+url: /virginia/mark-warner/
 weight: 1
 layout: course_home
 

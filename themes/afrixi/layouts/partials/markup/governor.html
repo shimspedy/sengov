@@ -8,7 +8,7 @@
         "addressLocality": "{{- .Params.State -}}",
         "streetAddress": "{{- .Params.Mailingaddress1 -}} "
       },
-      "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+      "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{- .Params.image -}}{{- end -}}",
       "jobTitle": "{{- .Params.role -}}",
       "name": "{{- .Params.name -}}",
       "telephone": "{{- .Params.Phonenumber1 -}}",
@@ -27,7 +27,7 @@
           "headline": "{{.Params.seo_title}}",
           "image": {
             "@type": "ImageObject",
-            "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+            "url": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{.Params.url}}/{{- .Params.image -}}{{- end -}}",
             "height": 512,
             "width": 1024
           },
@@ -76,7 +76,7 @@
     "wordCount" : "{{ .WordCount }}",
     "image": {
         "@type": "ImageObject",
-        "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}/{{- .Params.image -}}{{- end -}}",
+        "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{- .Params.image -}}{{- end -}}",
         "height": 512,
         "width": 1024
       },
@@ -111,7 +111,7 @@
           { "@type": "OrganizationRole",  
             "member": {  "@type": "Person",  
             "name": "{{- .Params.name -}}", 
-            "image": "{{- substr .Site.BaseURL 0 -1 -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .URL -}}{{- .Params.image -}}{{- end -}}", 
+            "image": "{{- substr .Site.BaseURL 0 -1 -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}{{- .Params.image -}}{{- end -}}", 
             "sameAs": [  "{{- substr .Site.BaseURL 0 -1 -}}",
               "{{.Permalink}}",
               "https://www.facebook.com/{{- .Params.Facebook -}}",  

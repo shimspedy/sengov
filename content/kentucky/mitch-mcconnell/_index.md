@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Mitch McConnell of Kentucky. Contact information for Mitch McConnell includes email address, phone number, and mailing address.
 image: mitch-mcconnell.jpg
 video: 
-url: /kentucky/mitch-mcconnell
+url: /kentucky/mitch-mcconnell/
 weight: 1
 layout: course_home
 

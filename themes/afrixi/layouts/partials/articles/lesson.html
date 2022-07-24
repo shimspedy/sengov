@@ -15,9 +15,9 @@
                       <img src="{{.Params.imageurl}}" alt=" senator {{.Params.Name}}" style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
                     </div>
                       {{ else }}
-                 <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.URL}}/{{.Params.image}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+                 <div class="col s12 m6 l5 profile-img" style="background-image:url('{{.Params.url}}/{{.Params.image}}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
                     <div class="senator-image"  >
-                      <img src="{{.URL}}{{.Params.image}}" alt=" senator {{.Params.Name}}" style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
+                      <img src="{{.Params.url}}{{.Params.image}}" alt=" senator {{.Params.Name}}" style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);"> 
                     </div>
                     {{end}}
                  </div>

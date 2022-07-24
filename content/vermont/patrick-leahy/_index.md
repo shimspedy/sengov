@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Patrick J. Leahy of Vermont. Contact information for Patrick J. Leahy includes  email address, phone number, and mailing address.
 image: patrick-leahy.jpg
 video: 
-url: /vermont/patrick-leahy
+url: /vermont/patrick-leahy/
 weight: 1
 layout: course_home
 

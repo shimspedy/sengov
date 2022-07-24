@@ -9,7 +9,7 @@ description: Contact senator Bernard Sanders of Vermont. Contact information for
 author: john shim
 image: bernie-sanders.jpg
 video:
-url: /vermont/bernie-sanders
+url: /vermont/bernie-sanders/
 weight: 1
 layout: course_home
 

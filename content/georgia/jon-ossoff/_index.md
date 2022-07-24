@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jon Ossoff of Georgia. Contact information for Jon Ossoff includes email address, phone number, and mailing address. 
 image: jon-ossoff.jpg
 video: 
-url: /georgia/jon-ossoff
+url: /georgia/jon-ossoff/
 weight: 1
 layout: course_home
 

@@ -128,7 +128,7 @@ keywords:
 - "kelly senator arizona"
 image: mark-kelly.jpeg
 video: 
-url: /arizona/mark-kelly
+url: /arizona/mark-kelly/
 weight: 1
 layout: course_home
 

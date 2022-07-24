@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Tim Kaine of Virginia. Contact information for Tim Kaine includes  email address, phone number, and mailing address.
 image: tim-kaine.jpg
 video: 
-url: /virginia/tim-kaine
+url: /virginia/tim-kaine/
 weight: 1
 layout: course_home
 

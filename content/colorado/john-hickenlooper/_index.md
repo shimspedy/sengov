@@ -8,7 +8,7 @@ subheader:
 description: Contact senator John W. Hickenlooper of Colorado. Contact information for John W. Hickenlooper includes email address, phone number, and mailing address.
 image: john-hickenlooper.jpeg
 video: 
-url: /colorado/john-hickenlooper
+url: /colorado/john-hickenlooper/
 weight: 1
 layout: course_home
 

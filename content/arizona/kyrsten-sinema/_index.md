@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Kyrsten Sinema of Arizona. Contact information for Kyrsten Sinema includes email address, phone number, and mailing address.
 image: kyrsten-sinema.jpg
 video: 
-url: /arizona/kyrsten-sinema
+url: /arizona/kyrsten-sinema/
 weight: 1
 layout: course_home
 

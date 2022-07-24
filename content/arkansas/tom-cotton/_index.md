@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Tom Cotton of Arkansas. Contact information for Tom Cotton includes email address, phone number, and mailing address.
 image: tom-cotton.jpg
 video: 
-url: /arkansas/tom-cotton
+url: /arkansas/tom-cotton/
 weight: 1
 layout: course_home
 
