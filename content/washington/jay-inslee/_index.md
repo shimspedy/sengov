@@ -51,3 +51,61 @@ During his time in Congress, Jay became known as a forward-thinking leader, espe
 
 Over the past decade, Washington has consistently been among the few states to rank as one of the best states for business and one of the best states for workers. From commercial space and sustainable maritime to advanced agriculture and forest products, the growth of Washington’s key sectors is helping attract new companies and create jobs in communities all across the state. Washington has one of the nation’s highest minimum wages, paid sick leave for all workers, a best-in-the-nation paid family leave program, and one of the highest union membership rates.
 
+#### Education
+JD, School of Law, Willamette University, 1976
+
+BA, Economics, University of Washington, 1973
+
+#### Political Experience
+Governor, State of Washington, 2012-present
+
+Candidate, Governor of Washington, 1996, 2020
+
+Candidate, President of the United States, 2020
+
+Representative, United States House of Representatives, District 1, 1992-1994, 1998-2012
+
+Representative, Washington State House of Representatives, District 14, 1988-1992
+
+#### Caucuses/Former Committees
+Former Member, Congressional Friends of Animals Caucus, United States House of Representatives
+
+Former Member, Congressional Internet Caucus, United States House of Representatives
+
+Former Member, Congressional Nanotechnology Caucus, United States House of Representatives
+
+Former Member, Congressional Pro-Choice Caucus,United States House of Representatives
+
+Former Member, Democratic Homeland Security Task Force
+
+Former Member, Medicare and Medicaid Fairness Caucus, United States House of Representatives
+
+Former Member, Oceans Caucus, United States House of Representatives
+
+Former Member, Renewable Energy and Energy Efficiency Caucus, United States House of Representatives
+
+Former Co-Char, Sustainable Energy and Environment Coalition, United States House of Representatives
+
+#### Professional Experience
+Former Prosecuting Attorney, Selah, Washington
+
+Regional Director, Region X, United States Department of Health and Human Services, 1997-1998
+
+Attorney, Gordon, Thomas, Honeywell, Malanca, Peterson and Daheim, 1995-1996
+
+Spokesperson, No Referendum 48 Campaign, Washington State, 1995
+
+Attorney, Peters, Fowler and Inslee, 1976-1992
+
+#### Religious, Civic, and other Memberships
+Charter Member, Hoopaholics
+
+Former Member, New Democrat Coalition
+
+Basketball Coach, Bainbridge Island Parks Department, 1996-1997
+
+Volunteer, Bainbridge Island School Bond Initiative, 1996-1997
+
+Member, Washington Conservation Voters Board of Directors, 1996-1997
+
+Member, New Valley Osteopathic Hospital Board of Directors, 1984-1988

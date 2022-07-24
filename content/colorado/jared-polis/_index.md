@@ -49,3 +49,115 @@ Most recently, Governor Polis served as the U.S. representative for Colorado’s
 
 Governor Polis is a Colorado native, born in 1975. He, his partner Marlon, and their two children are all avid Rockies fans.
 
+#### Education
+BA, Political Science, Princeton University, 1992-1996
+
+
+#### Political Experience
+Governor, State of Colorado, 2019-present
+
+Candidate, Governor of Colorado, 2022
+
+Representative, United States House of Representatives, 2009-2019
+
+Member, Colorado State Board of Education, 2000-2007
+
+Chair, Colorado State Board of Education, 2004-2005
+
+
+#### Caucuses/Former Committees
+Co-Chair, Congressional Caucus on Nepal, United States House of Representatives, present
+
+Co-Chair, Democratic Coalition Immigration Task Force, United States House of Representatives, present
+
+Member, Democratic Steering and Policy Committee, United States House of Representatives, present
+
+Chair, Equal Protection Task Force, United States House of Representatives, present
+
+Chair, Immigration Task Force, Congressional Progressive Caucus, present
+
+Vice-Chair, Sustainable Energy and Environment Coalition, United States House of Representatives, present
+
+Co-Chair, United States-Mexico Congressional Caucus, present
+
+Former Chair, Commission on Financial and Investor Literacy, National Association of State Boards of Education
+
+Member, Congressional Progressive Caucus, present
+
+Former Member, Education and the Workforce Committee, United States House of Representatives
+
+Former Member, Energy and Mineral Resources Subcommittee, United States House of Representatives
+
+Former Member, Ethics Committee, United States House of Representatives
+
+Former Member, Natural Resources Committee, United States House of Representatives
+
+Former Member, Rules Committee, United States House of Representatives
+
+Former Ranking Member, Subcommittee on Early Childhood, Elementary and Secondary Education, United States House of Representatives
+
+Former Member, Subcommittee on Federal Lands, United States House of Representatives
+
+Former Ranking Minority Member, Subcommittee on Health, Employment, Labor, and Pensions, United States House of Representatives
+
+Former Member, Subcommittee on Higher Education and Workforce Development, United States House of Representatitves
+
+Former Member, Subcommittee on Legislative and Budget Process, United States House of Representatives
+
+Former Member, Subcommittee on Oversight and Investigations (Natural Resources), United States House of Representatives
+
+
+#### Professional Experience
+Co-Founder, American Information Systems
+
+Former Sales Manager, Blue Mountain Arts
+
+Founder/Former Superintendent, New America School
+
+Co-Founder, Patriot Boot Camp
+
+Founder, Pro Flowers Website
+
+Co-Founder, TechStars
+
+
+#### Religious, Civic, and other Memberships
+Member, Board of Visitors, United States Air Force Academy, present
+
+Board Member, Colorado Anti-Defamation League, present
+
+Board Member, Colorado Conservation Voters, present
+
+Member, Colorado Consumer Health Initiative Board, present
+
+Founder, Community Computer Connection, present
+
+Founder, Jared Polis Foundation, present
+
+Board Member, Latin American Research and Service Agency, present
+
+Co-Founder, Academy of Urban Learning
+
+Former Volunteer, Al Gore Campaign
+
+Former Volunteer, Angie Paccione Campaign
+
+Former Volunteer, Bill Clinton Campaign
+
+Former Co-Chair, Colorado Commission on High School Improvement
+
+Former Volunteer, John Kerry Campaign
+
+Former Volunteer, Josie Heath Campaign
+
+Former Volunteer, Michael Dukakis Campaign
+
+Former Volunteer, Stan Matsunaka Campaign
+
+Former Chair, Study Group on Financial Literacy, National Association of State Boards of Education
+
+Former Member, Watershed School Board
+
+Member, Executive Committee, Boulder County Democrats, 2000-2007
+
+Member, Executive Committee, Colorado Democratic Party, 2000-2007
