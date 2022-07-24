@@ -9,7 +9,7 @@ description: Contact senator Bill Hagerty of Tennessee. Contact information for 
 author: john shim
 image: bill-hagerty.jpeg
 video:
-url: /tennessee/bill-hagerty
+url: /tennessee/bill-hagerty/
 weight: 1
 layout: course_home
 
