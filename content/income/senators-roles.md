@@ -18,7 +18,7 @@ Stick along as we will also include surprising advice on how early you could con
 
 #### Below are 9 roles you didn’t know your senators can perform
 
-#### 1. Mediators
+#### Mediators
 
 Although it might sound a bit unrealistic, congressmen can assume the role of a mediator.
 
@@ -27,7 +27,7 @@ The fact is, you can always contact them with issues that require the service of
 According to the World Bank Group, the US subprime mortgage crisis ranks among the most serious economic events. This is after the great depression in the 1930s.  Many mortgage issues go unsolved. For this reason, senators work hand-in-hand with the government to ensure that they get to help as many people as they can.
 
 
-#### 2. Connector to the right people  
+#### Connector to the right people  
 
 The best thing about being in power is that you get to familiarize yourself with all the right people.
 For instance, your congressman has contacts with almost anyone in government. Having that in mind, why not contact a member of congress whenever you have an issue and don’t know who to call?
@@ -37,7 +37,7 @@ Indeed, if they will not help you, they will definitely redirect you to the righ
 Note that although contacting them might prove to be a daunting task, you can find insight on some of the best ways to successfully contact congress in this article.
 
 You can find the contact of all US senators here.
-#### 3. Life Saver
+#### Life Saver
 
 What would you do when your social security suddenly stops paying out? And, what would you do if you realize your Medicare drug plan keeps changing every now and then?
 
@@ -45,14 +45,14 @@ Of course, you might end up being stranded and probably live in agony, if you do
 
 You can find the contact of all US senators here.
 
-#### 4. Expeditor
+####  Expeditor
 Every so often, people tend to think that the elected officials misuse their power by twisting the arms of the law.
 The truth is, they are empowered with the ability to make the rules work quickly- as they ought to be.
 
 After all, what is the point of being in power if you cannot help your people get the required services in the shortest time possible? Makes sense, right? When things are truly dire or even life-threatening, you can rely on your congressman for help.
 You can contact senators here.
 
-#### 5. Flag Handler 
+#### Flag Handler 
 
 If you are an American resident, you will agree with me that getting the official flag is not a walk in the park.
 You need to pass through the congressional offices to make a purchase. Congressional offices have a link on their websites where an individual can fill in a form to either purchase or have their flag flown over the capital for a small fee.
@@ -61,11 +61,11 @@ Note that if you want to fly your flag on a specific date, you will have to comm
 
 You can contact senators here.
 
-#### 6. White House Tour Approver
+####  White House Tour Approver
 
 Who wouldn’t like a visit to the white house? Of course, we would all love to see and have a taste of the white house. However, this is not one of your regular visits to the museums or monuments around the city. You will need to request a tour visit 6 months before. Besides, you are also required to confirm your visit 21 days before the requested date.
 
-#### 7. Military Academy Nominator
+#### Military Academy Nominator
 
 West Point. Image Credit: Britannica
 To be enrolled in a U.S military academy such as the Air Force, U.S Naval, or West Point, you will require a nomination.
@@ -76,13 +76,13 @@ You will be required to apply for a nomination from both senators of your state 
 
 You can contact senators here.
 
-#### 8. Tour Guide of the U.S Capitol Tours (Kind of)
+####  Tour Guide of the U.S Capitol Tours (Kind of)
 
 If you are just visiting the U.S or need a tour around the city, you will require the services of a tour guide.
 
 The U.S government provides the senate with tour guides to ensure that anyone requiring the services of a tour guide around the constituents or the capitol gets the necessary help at their offices. Besides, there are no conditions or requirements. You are only required to pay a small fee and a tour guide will be assigned to you.  
 
-#### 9. Recognizer of Honor for Companies 
+####  Recognizer of Honor for Companies 
 
 Have you ever been pleased by a certain company’s services and would like to honor them with a congratulatory letter but you don’t know how to go about it?
 
