@@ -53,7 +53,7 @@ tags:
 - "klobucar contact"
 - "minnesota senatorsamy klobucher"
 - "contact amy klobuchar 2020 senator amy klobuchar"
-- "phone # sen klobuchar"
+- "phone sen klobuchar"
 - "senator amy klobuchar washington dc office address"
 - "how to contact senator amy klobuchar"
 - "www. amy klobuchar contact"
