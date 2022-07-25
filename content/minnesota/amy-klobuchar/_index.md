@@ -56,7 +56,7 @@ tags:
 - "phone sen klobuchar"
 - "senator amy klobuchar washington dc office address"
 - "how to contact senator amy klobuchar"
-- "www. amy klobuchar contact"
+- " amy klobuchar contact"
 - "mailing address senator amy klobuchar"
 - "phone number for amy"
 - "sen amy klobuchar contact information"
