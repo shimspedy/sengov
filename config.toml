@@ -1,0 +1,35 @@
+baseURL = "https://sengov.com/"
+languageCode = "en-us"
+theme = "afrixi"
+title = "Contact United States Senators and Governors"
+author = "john"
+#taxonomies = ""
+pygmentsStyle = "dracula"
+PygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[Params.siteInfo]
+  languageName = "En"
+  weight = 1
+  languageCode = "en-us"
+  SiteName = "Afrixi"
+  Logo = "images/logo.png"
+  dateFormat = "2 January 2006"
+  copyright = " © Unwrote.com Going static since 2019 and powered by Hugo."
+
+
+[permalinks]
+#posts = "/blog/:slug/"
+uglyurls = true
+
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+[Params]
+wordCount = true
+readingTime = true

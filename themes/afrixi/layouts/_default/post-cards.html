@@ -1,0 +1,62 @@
+<section id="Programming-posts">
+    <div class="article-container">
+      <div class="card-articles">
+        <div class="post-header header-card">
+          <a href="{{.Permalink}}coding">
+            <h2 class="header-card-title">
+              Programming <br> & <br>Dev
+            </h2>
+          </a>
+          <p class="header-card-sponsor">all recent post</p>
+        </div>
+  
+        <div class="post-articles">
+          {{ range first 20 (where .Site.RegularPages "Section" "coding") }}
+          <article id="{{ range  $tags := .Params.tags }} {{ $tags| lower }}{{ end }}"
+            class="post-contents card {{ range  $tag := .Params.tags }} {{ $tag | lower }}{{ end }}"
+            itemtype="http://schema.org/Article">
+            <div class="meta">
+              <div class="date">
+                <div style="font-size: 1rem; color: #000; ">Article :
+                  <span style="font-size: .75rem; color: #b5b5b5; ">{{ .Date.Format "Monday, 2 Jan, 2006" }}
+                  </span>
+                </div>
+              </div>
+              <div class="loader">
+                <div class="circle">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <circle class="stroke" cx="11" cy="11" r="10" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <h3 clas="title">
+              <a class="link" href="{{ .Permalink }}" title="{{ .Params.title }}">{{ .Title }}</a>
+            </h3>
+            <div class="bar">
+              <div class="emptybar"></div>
+              <div class="filledbar"></div>
+            </div>
+            <div class="author-info">
+              <div class="card-action">
+                <div class="col s6">
+                  {{ .Render "author-link" }}
+                </div>
+                <footer class="col s6 time">
+                  <a class="grey-text text-darken-1" style="font-size: 11px;" href='{{ .Permalink }}'>
+                    {{ if .Site.Params.readingTime }}
+                    {{ .ReadingTime }} Minutes
+                    {{ end }}
+                  </a>
+                </footer>
+              </div>
+            </div>
+  
+  
+          </article>
+          {{ end }}
+        </div>
+  
+      </div>
+    </div>
+  </section>

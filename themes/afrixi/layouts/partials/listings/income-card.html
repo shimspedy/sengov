@@ -1,0 +1,44 @@
+
+<div class="posts"></div>
+<div class="row">
+    {{ range first 10 (where .RegularPages "Section" "coding") }}
+  <div class="col s12 m6 l3 afrixi"> 
+      <div class="card">
+      <div class="card-image waves-effect waves-block waves-light active">
+      <img class="activator" src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="{{ .Params.title }}" style="height: 300px;">
+      <div class="gradient-card">
+          <input type="hidden" value="https://www.shortstoryproject.com/story/guadeloupe/" class="item-link">
+      </div>
+      <div class="plus" style="width:22px;">
+          <span id="26593-14089" class="addToText" style="display: none;"></span>
+          <span class="chng"><i class="small material-icons">add_alert</i></span>
+      </div>
+      
+      </div>
+      <div class="card-content">
+      <div class="post-meta">
+        {{ partial "author-name" . }}
+        <h2 class="card-title activator grey-text text-darken-4">{{ .Params.title | truncate 40 }}</h2>
+        <p>{{ .Summary | truncate 100 }}</p>
+        <h5 class="card-title activator grey-text text-darken-4">{{ .Date.Format "Monday, 2 Jan, 2006" }}<i class="material-icons right">more_vert</i></h5>
+      </div>
+      <div class="readingLine"><div style="width: 6.668%;" class="muchTime left"></div></div> </div>
+      <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">{{ .Params.title }}<i class="material-icons right">close</i></span>
+      {{ .Content | truncate 500 }}
+      </div>
+  </div>
+ 
+</div>
+{{ end }}
+</div>
+
+
+
+vgijkvjhj
+
+
+
+
+
+

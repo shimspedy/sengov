@@ -71,7 +71,19 @@
      </div>
 {{end}}
 
+<!-- css-tricks -->
+{{define "recursive-course-carousel"}}
+{{if .Sections}}
+{{ partial "listings/course-carousel" . }}
+{{end}}
+{{end}}
 
+<!-- afrix-cards -->
+{{define "recursive-afrixcard"}}
+  {{if .Sections}}
+    {{ partial "listings/afrixcard" . }}
+  {{end}}
+{{end}}
 
 {{define "recursive-course-listing"}}
      {{if .Sections}}
@@ -93,3 +105,6 @@
         {{ template "recursive-article-listing" . }}
     {{end}}
 {{end}}
+
+
+

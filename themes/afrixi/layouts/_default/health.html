@@ -1,0 +1,18 @@
+{{ range first 10 (where .Site.RegularPages "Section" "health") }}
+<article id="{{ range  $tags := .Params.tags }} {{ $tags| lower }}{{ end }}"
+  class="post-contents {{ range  $tag := .Params.tags }} {{ $tag | lower }}{{ end }}"
+  itemtype="http://schema.org/Article">
+  <div class="card horizontal">
+    <a class="card-image" href="{{ .Permalink }}" title="{{ .Params.title }}">
+
+      {{ if .Params.image }}
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
+      {{ else }}
+      <div class="thumb-img" style="background-image: url({{.Site.BaseURL}}{{.Params.defaulImage }});"></div>
+      {{ end }}
+
+    </a>
+    {{- partial "summary.html" . -}}
+  </div>
+</article>
+{{ end }}

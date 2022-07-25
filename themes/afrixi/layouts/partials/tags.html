@@ -1,0 +1,16 @@
+{{- if isset .Site.Taxonomies "tags" }}
+{{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+<div class="sidebar-menu">
+  <div class="nav">
+    {{- range $name, $items := .Site.Taxonomies.tags }}
+    <div class="nav-item"><a class="tab-link  widget__link" tag="{{ $name | urlize | lower }}"
+        href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">
+        #{{ $name | title | humanize }}<span>({{ .Count }})</span></a></a></div>
+    {{- end }}
+  </div>
+</div>
+<div class="sidebar-nav-subheader">
+  <a href="/tags">View all-time top tags</a>
+</div>
+{{- end }}
+{{- end }}

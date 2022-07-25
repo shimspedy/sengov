@@ -1,0 +1,9 @@
+{{if .Sections}}
+{{range .Sections}}
+{{ if eq .Section "coding" }}
+<section id="course-section">
+  {{ template "recursive-course-carousel" . }}
+</section>
+{{end}}
+{{end}}
+{{end}}
