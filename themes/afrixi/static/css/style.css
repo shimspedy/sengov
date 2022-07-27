@@ -210,7 +210,7 @@ transition: opacity .3s ease;
 
 #governors,#map{
      border: 1px solid #888;
-     background: #fdfbf8;
+     background: #FFFFFF;
      border-radius: 0;
      box-shadow: 6px 6px 0 0 rgb(0 0 0 / 9%);
      margin: 20px auto;
