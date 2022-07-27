@@ -57,8 +57,8 @@ In Central and West Africa, avoid contact with animals that can spread monkeypox
 
 If you are sick with monkeypox:
 
-    Isolate at home
-    If you have an active rash or other symptoms, stay in a separate room or area away from people or pets you live with, when possible.
+Isolate at home
+If you have an active rash or other symptoms, stay in a separate room or area away from people or pets you live with, when possible.
 #### Vaccination
 Because monkeypox and smallpox viruses are genetically similar, vaccines developed to protect against smallpox viruses may be used to prevent monkeypox infections.
 
