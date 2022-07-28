@@ -68,7 +68,7 @@ He was also criticized for pulling donor support at a fundraiser in Indiana, whe
 {{< youtube id="pdshTTRVWOo" >}}
 
 #### Senator Mike Braun Net Worth
-Apart from his political career, Braun is an avid and wealthy businessman. He is the CEO and President of Meyer Distributing, an auto and truck distributing company. According to [WealthyPersons](https://www.wealthypersons.com/mike-braun-net-worth-2020-2021/), Mike is worth an estimated $50 million.
+Apart from his political career, Braun is an avid and wealthy businessman. He is the CEO and President of Meyer Distributing, an auto and truck distributing company. According to [WealthyPersons]{{("https://www.wealthypersons.com/mike-braun-net-worth-2020-2021/")}}, Mike is worth an estimated $50 million.
 
 #### Final Thoughts
 Regarded as a strong conservative, Braun has worked to improve the quality of life in Indiana. He has also worked toward job creation, national security, reducing debt, and helping veterans. But, he was part of the Senators that indicted insurrection at the US Capitol.

@@ -9,7 +9,7 @@ description: Contact senator Lamar Alexander of Tennessee. Contact information f
 author: john shim
 image: lamar-alexander.jpg
 video:
-url: /tennessee/lamar-alexander
+url: /tennessee/lamar-alexander/
 weight: 1
 layout: course_home
 

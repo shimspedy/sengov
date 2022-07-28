@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Christopher A. Coons of Delaware. Contact information for Christopher A. Coons includes email address, phone number, and mailing address.
 image: chris-coons.jpg
 video: 
-url: /delaware/chris-coons
+url: /delaware/chris-coons/
 weight: 1
 layout: course_home
 

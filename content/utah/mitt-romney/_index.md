@@ -9,7 +9,7 @@ description: Contact senator Mitt Romney of Utah. Contact information for Mitt R
 author: john shim
 image: mitt-romney.jpg
 video:
-url: /utah/mitt-romney
+url: /utah/mitt-romney/
 weight: 1
 layout: course_home
 

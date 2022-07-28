@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Kirsten E. Gillibrand of New York. Contact information for Kirsten E. Gillibrand includes  email address, phone number, and mailing address.
 image: kirsten-gillibrand.jpg
 video: 
-url: /new-york/kirsten-gillibrand
+url: /new-york/kirsten-gillibrand/
 weight: 1
 layout: course_home
 

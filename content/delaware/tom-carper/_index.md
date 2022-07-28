@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Thomas R. Carper of Delaware. Contact information for Thomas R. Carper includes email address, phone number, and mailing address.
 image: tom-carper.jpg
 video: 
-url: /delaware/tom-carper
+url: /delaware/tom-carper/
 weight: 1
 layout: course_home
 
