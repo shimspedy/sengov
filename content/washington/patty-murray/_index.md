@@ -9,7 +9,7 @@ description: Contact senator Patty Murray of Washington. Contact information for
 author: john shim
 image: patty-murray.jpg
 video:
-url: /washington/patty-murray/
+url: /washington/patty-murray
 weight: 1
 layout: course_home
 

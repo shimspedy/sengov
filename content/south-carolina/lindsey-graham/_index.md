@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Lindsey Graham of South Carolina. Contact information for Lindsey Graham includes  email address, phone number, and mailing address.
 image: lindsey-graham.jpg
 video: 
-url: /south-carolina/lindsey-graham/
+url: /south-carolina/lindsey-graham
 weight: 1
 layout: course_home
 

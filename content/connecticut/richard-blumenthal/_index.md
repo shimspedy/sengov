@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Richard Blumenthal of Connecticut. Contact information for Richard Blumenthal includes email address, phone number, and mailing address.
 image: richard-blumenthal.jpg
 video: 
-url: /connecticut/richard-blumenthal/
+url: /connecticut/richard-blumenthal
 weight: 1
 layout: course_home
 

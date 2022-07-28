@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Alex Padilla of California. Contact information for Alex Padilla includes email address, phone number, and mailing address.
 image: alex-padilla.jpg
 video: 
-url: /california/alex-padilla/
+url: /california/alex-padilla
 weight: 1
 layout: course_home
 
@@ -56,7 +56,7 @@ In 2006, Alex was elected to California’s State Senate, where, over the course
 In 2014, Alex was elected California Secretary of State, the first Latino in state history to serve in the office. As Secretary of State, he worked to make elections more accessible and inclusive while protecting the integrity of voting systems. Alex helped establish automatic and same-day voter registration, secured $500 million to upgrade California’s voting systems to meet higher security standards, and oversaw the implementation of the landmark Voter’s Choice Act, which expanded mail-in and in-person early voting. Under Alex’s leadership, the state reached a record high number of more than 22 million Californians registered to vote and the highest percentage of eligible citizens registered to vote in 80 years.
 
 
-#### U.S. SENATE & VALUES
+#### U.S. SENATE    AND VALUES
 In January 2021, Alex was appointed to the United States Senate to fill the vacancy created by the election of Vice President Kamala Harris. He was sworn in on January 20, 2021 and is the first Latino to represent California in the U.S. Senate.
 
 Alex’s top priority upon entering the U.S. Senate has been to address the COVID-19 pandemic and deliver equitable economic relief for working families and communities across California. Since being sworn in to office, Padilla has established himself as a champion of voting rights, climate action, and ensuring everyone has a fair shot at the American dream.

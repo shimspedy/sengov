@@ -1,12 +1,10 @@
 ---
-date: 2017-09-11T11:55:00-04:00
+date: 2020-09-11T11:55:00-04:00
 title: "Illinois"
-seo_title: "Contact Illinois Senators"
-description: Contact Illinois Senators
-author: john shim
+ab: "IL"
+seo_title: "Contact Illinois Governor"
+description: Contact Illinois Governor
+author: contact governors
 url: /illinois/
-flag: seal.png
 weight: 1
 ---
-
-Illinois became the 21st state to join the Union on December 3, 1818. Illinois’s first two senators, Ninian Edwards and Jesse Thomas, took office on that day. Illinois’s longest-serving senator is Shelby Cullom, who served from 1883 to 1913. Among those who rose to leadership positions are David Davis, who served as the Senate’s president pro tempore, Everett Dirksen and Scott Lucas, who became floor leaders, and Richard J. Durbin, who serves as the Democratic whip. Senator Barack Obama was elected president of the United States in 2008 and was reelected in 2012.

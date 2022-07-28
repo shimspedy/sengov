@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Mike Lee of Utah. Contact information for Mike Lee includes  email address, phone number, and mailing address.
 image: mike-lee.jpg
 video: 
-url: /utah/mike-lee/
+url: /utah/mike-lee
 weight: 1
 layout: course_home
 

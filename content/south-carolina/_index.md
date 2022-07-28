@@ -1,11 +1,10 @@
 ---
-date: 2017-09-11T11:55:00-04:00
+date: 2020-09-11T11:55:00-04:00
 title: "South Carolina"
-seo_title: "Contact South Carolina Senators"
-description: Contact South Carolina Senators
-author: Contact Senators
+ab: "SC"
+seo_title: "Contact South Carolina Governor"
+description: Contact South Carolina Governor
+author: contact governors
 url: /south-carolina/
-flag: seal.png
 weight: 1
 ---
-South Carolina became the eighth state to join the Union on May 23, 1788. South Carolina's first two senators, Pierce Butler and Ralph Izard, took office on March 4, 1789. South Carolina's longest-serving senator is Strom Thurmond, who at the time of his retirement in 2003 was the longest-serving senator and the first senator to reach the age of 100 while in office. Thurmond and fellow senator Ernest "Fritz" Hollings served together for a record-setting 36 years. Among those who rose to leadership positions are Thurmond, Ralph Izard, Jacob Read, and John Gaillard, all of whom served as the Senate's president pro tempore. As vice president of the United States from 1825 to 1832, John C. Calhoun served as the Senate's constitutional president or presiding officer.

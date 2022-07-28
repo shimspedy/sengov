@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Marco Rubio of Florida. Contact information for Thomas R. Carper includes email address, phone number, and mailing address.
 image: marco-rubio.jpg
 video: 
-url: /florida/marco-rubio/
+url: /florida/marco-rubio
 weight: 1
 layout: course_home
 

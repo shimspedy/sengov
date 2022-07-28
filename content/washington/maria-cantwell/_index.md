@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Maria Cantwell of Washington. Contact information for Maria Cantwell includes  email address, phone number, and mailing address.
 image: maria-cantwell.jpg
 video: 
-url: /washington/maria-cantwell/
+url: /washington/maria-cantwell
 weight: 1
 layout: course_home
 

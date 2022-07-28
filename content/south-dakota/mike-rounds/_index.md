@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Mike Rounds of South Dakota. Contact information for Mike Rounds includes  email address, phone number, and mailing address.
 image: mike-rounds.jpg
 video: 
-url: /south-dakota/mike-rounds/
+url: /south-dakota/mike-rounds
 weight: 1
 layout: course_home
 
@@ -30,8 +30,8 @@ website:	http://www.rounds.senate.gov/
 powrid: e9072f05_1607161815
 twitter: RoundsforSenate
 ---
- #### About Senator Marion Michael 
- On January 6th, 2015, Senator Marion Michael “Mike” Rounds was sworn into the United States Senate. Senator Rounds serves on five committees: Senate Armed Services; Banking, Housing and Urban Affairs; Foreign Relations; Indian Affairs; and Veterans’ Affairs.
+#### About Senator Marion Michael 
+On January 6th, 2015, Senator Marion Michael “Mike” Rounds was sworn into the United States Senate. Senator Rounds serves on five committees: Senate Armed Services; Banking, Housing and Urban Affairs; Foreign Relations; Indian Affairs; and Veterans’ Affairs.
 
 Rounds previously served as the 31st governor of South Dakota from 2003 – 2011, easily winning reelection in 2006. From 1991 to 2000, he was elected five times to the South Dakota State Senate. In 1995, his colleagues selected him to serve as Senate Majority Leader, a position that he held for six years. During his time in state government, Rounds was committed to growing the economy, keeping taxes low and strengthening South Dakota families.
 

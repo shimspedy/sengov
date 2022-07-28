@@ -8,7 +8,7 @@ subheader:
 description: Contact senator David Perdue  of Georgia. Contact information for David Perdue  includes email address, phone number, and mailing address. 
 image: david-perdue.jpg
 video: 
-url: /georgia/david-perdue/
+url: /georgia/david-perdue
 weight: 1
 layout: course_home
 
