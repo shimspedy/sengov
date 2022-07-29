@@ -9,7 +9,7 @@ description: Contact senator Ted Cruz of Texas. Contact information for Ted Cruz
 author: john shim
 image: ted-cruz.jpg
 video:
-url: /texas/ted-cruz
+url: /texas/ted-cruz/
 weight: 1
 layout: course_home
 

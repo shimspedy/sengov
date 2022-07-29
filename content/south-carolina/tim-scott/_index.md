@@ -9,7 +9,7 @@ description: Contact senator Tim Scott of South Carolina. Contact information fo
 author: john shim
 image: tim-scott.jpg
 video:
-url: /south-carolina/tim-scott
+url: /south-carolina/tim-scott/
 weight: 1
 layout: course_home
 

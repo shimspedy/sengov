@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Michael F. Bennet of Colorado. Contact information for Michael F. Bennet includes email address, phone number, and mailing address.
 image: michael-bennet.jpg
 video: 
-url: /colorado/michael-bennet
+url: /colorado/michael-bennet/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Dianne Feinstein of California. Contact information for Dianne Feinstein includes email address, phone number, and mailing address.
 image: dianne-feinstein.jpg
 video: 
-url: /california/dianne-feinstein
+url: /california/dianne-feinstein/
 weight: 1
 layout: course_home
 

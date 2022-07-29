@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Rick Scott of Florida. Contact information for Rick Scott includes email address, phone number, and mailing address.
 image: rick-scott.jpg
 video: 
-url: /florida/rick-scott
+url: /florida/rick-scott/
 weight: 1
 layout: course_home
 

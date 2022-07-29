@@ -8,7 +8,7 @@ subheader:
 description: Contact senator John Cornyn of Texas. Contact information for John Cornyn includes  email address, phone number, and mailing address.
 image: john-cornyn.jpg
 video: 
-url: /texas/john-cornyn
+url: /texas/john-cornyn/
 weight: 1
 layout: course_home
 
