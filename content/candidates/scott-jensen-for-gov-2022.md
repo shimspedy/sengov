@@ -44,7 +44,7 @@ Dr. Jensen's booming social media accounts with hundreds of thousands of followe
 
 The path has now led him to enter the race to be the Governor of Minnesota. Here Scott will continue to tell the truth. He will not be intimidated, and he will fight "Cancel Culture". There will be no more reliance on faulty models, bad data, and decisions for our children and small businesses that are politically based. The unilateral power grab by Tim Walz has hurt people and not been based in science and the truth. Dr. Scott Jensen will change that.
 
-#### Minnesota's Crime Epidemic
+#### Minnesota Crime Epidemic
 Our governor must support police and have the political courage to return safety to our streets. Kids must feel safe going to school or going to the park. Enough is enough!
 ##### Reduce Crime Now
 ###### Make Carjacking a Crime with Harsh Penalty
