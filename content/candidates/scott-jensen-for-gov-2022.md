@@ -1,8 +1,8 @@
 ---
-date: 2022-07-31T11:03:20-04:00
-title: " Tim Walz for governor 2022"
-seo_title: "Josh Shapirofor Minnesota governor"
-description: Tim’s career has been defined by public service, from serving in the National Guard for 24 years, to serving our students as a high school teacher and football coach, to serving our state as a Congressman, and now as Minnesota’s 41st Governor.
+date: 2022-07-31T11:04:20-04:00
+title: " Scott Jensen for governor 2022"
+seo_title: "Scott Jensen for Minnesota governor"
+description: He attended the University of Minnesota obtaining an undergraduate degree in physiology, magna cum laude, and then attended Luther Theological Seminary seeking answers to life‘s biggest questions.
 author: Csen
 image: scottjensen.jpeg
 video:
@@ -10,12 +10,13 @@ url:
 weight: 0
 layout: single
 ---
-### Josh Shapirofor Minnesota governor
+### Scott Jensen  for Minnesota governor
 
 #### Lifelong Minnesotan
 Born and raised in Sleepy Eye, Minnesota, Dr. Scott Jensen graduated valedictorian of his 1973 high school class. He attended the University of Minnesota obtaining an undergraduate degree in physiology, magna cum laude, and then attended Luther Theological Seminary seeking answers to life‘s biggest questions. The seminary proved to be an ideal setting for profound decision making as he made two life-changing decisions:
 
 He asked his girlfriend to be his "forever valentine" - they have now been married 43 years.
+
 He decided to attend medical school and subsequently received his medical degree from the University of Minnesota in 1981.
 He completed a family practice residency at Bethesda Hospital in Saint Paul Minnesota and was awarded the Mead Johnson outstanding resident award in 1982 – a coveted award granted annually to 15 family practice residents in the nation.
 
