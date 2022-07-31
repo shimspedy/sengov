@@ -1,22 +1,21 @@
 $(document).ready(function() {
-     // $('.button-collapse').sideNav();
-     // $('.scrollspy').scrollSpy();
-     // $(".left-col-article").css("height", $(".left-col-article").parent().height());
-     // $(".right-col-article").css("height", $(".right-col-article").parent().height());
-     // $("#nav-side-single").stick_in_parent({
-     //      offset_top:80
-     // });
-     // $("#nav-side-ad").stick_in_parent({
-     //  offset_top:600
-     // });
-     // $("#nav-side-article").stick_in_parent({
-     //      offset_top:80
-     // });
-     // $("#social-icons-horizontal").stick_in_parent({
-     //      offset_top:$(window).height() -70,
-     //      spacer: false,
-     // });
-     // hljs.initHighlightingOnLoad();
+     $('.scrollspy').scrollSpy();
+     $(".left-col-article").css("height", $(".left-col-article").parent().height());
+     $(".right-col-article").css("height", $(".right-col-article").parent().height());
+     $("#nav-side-single").stick_in_parent({
+          offset_top:80
+     });
+     $("#nav-side-ad").stick_in_parent({
+      offset_top:600
+     });
+     $("#nav-side-article").stick_in_parent({
+          offset_top:80
+     });
+     $("#social-icons-horizontal").stick_in_parent({
+          offset_top:$(window).height() -70,
+          spacer: false,
+     });
+     hljs.initHighlightingOnLoad();
 
     //  if(!window.localStorage.getItem("notified-site-change")){
     //     generateNotificationTab("Giraffe Academy is rebranding!", 
@@ -33,6 +32,21 @@ $(".option").click(function () {
   });
      
 });
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elems, options);
+    var instance = M.Sidenav.getInstance(elem);
+  });
+
+  // Initialize collapsible (uncomment the lines below if you use the dropdown variation)
+  // var collapsibleElem = document.querySelector('.collapsible');
+  // var collapsibleInstance = M.Collapsible.init(collapsibleElem, options);
+
+  // Or with jQuery
+
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
 
 function generateNotificationTab(heading, message){
 
