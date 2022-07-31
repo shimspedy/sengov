@@ -154,7 +154,7 @@ As Governor, Josh will defend our democracy, ensure access to the ballot box, an
 
 Josh knows that to grow our economy, improve our schools, and make our communities safer, we must have a stable foundation of our democracy. As Attorney General, he spoke truth to lies and went to court to protect Pennsylvanians’ rights. As Governor, he’ll continue to protect every citizen’s right to vote — and make sure every legal vote is counted. 
 
-#### WORKERS' RIGHTS
+#### WORKERS RIGHTS
 Pennsylvania workers are the backbone of our economy and they deserve a Governor who will stand up for them and not only protect the right to organize, but expand it, so that every worker has the opportunity to join a union.
 
 Josh has spent his career taking on the powerful and well-connected on behalf of working people. In his first term as Attorney General, he created the first ever Fair Labor section in the Office of the Attorney General to combat wage theft and worker misclassification.

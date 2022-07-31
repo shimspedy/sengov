@@ -1,5 +1,5 @@
 ---
-date: 2021-09-11T11:55:00-04:00
+date: 2020-09-11T11:55:00-04:00
 title: "Alabama"
 ab: "AL"
 seo_title: "Contact Alabama Senators"
@@ -16,4 +16,4 @@ The United States Senate elections of 1868 and 1869 allowed the Republicans to m
 
 Currently, U.S. senators of Alabama are Republican Richard Shelby since 1987 and Democrat Doug Jones since 2018. The state is one of the nine states to have a split U.S. Senate delegation.
 
-The State elects U.S. senators to Classes 2 and 3, and therefore, will participate in the next elections in November 2021.
+The State elects U.S. senators to Classes 2 and 3, and therefore, will participate in the next elections in November 2020.

@@ -1,5 +1,5 @@
 ---
-date: 2021-09-11T11:55:00-04:00
+date: 2020-09-11T11:55:00-04:00
 title: "Kansas"
 ab: "KS"
 seo_title: "Contact Kansas Senators"

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Martha McSally of Arizona. Contact information for Martha McSally includes email address, phone number, and mailing address.
 image: martha-mcsally.jpg
 video: 
-url: /arizona/martha-mcsally
+url: /arizona/martha-mcsally/
 weight: 1
 layout: course_home
 
