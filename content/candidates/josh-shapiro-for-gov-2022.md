@@ -37,7 +37,7 @@ Josh Shapiro knows Pennsylvanians need a Governor who will take on the biggest f
 
 Josh and Lori live in Montgomery County with their three school age sons, and their eldest daughter attends the University of Pittsburgh.
 
-#### JOSH'S VISION FOR PENNSYLVANIA
+#### JOSH  VISION FOR PENNSYLVANIA
 Rising costs. A changing economy. Unprecedented attacks on our democracy, on civil rights, and on the right to choose. And a government that too often just doesn’t work quick enough.
 
 Pennsylvanians are facing real challenges right now, and Josh knows we need a Governor we can count on to get things done. Throughout his career, Josh has taken on the status quo, brought people together, and fought to keep Pennsylvanians from getting screwed — and that’s exactly what he’ll do as Governor.
