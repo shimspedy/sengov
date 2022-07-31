@@ -1,0 +1,45 @@
+{{ define "title" }}
+<!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<section>
+  <div class="slide">
+    <div class="storyTitle"   style="background-image: url(/images/sengov.png);padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; background-size:cover; padding-top:1px;">
+      <h2 >{{ .Title }}</h2>
+      <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : {{ .Date.Format "Monday, 2 Jan, 2006" }} </h4>
+      <h3 class="author">
+        {{- range .Params.authors }}
+        {{ $authorPath := printf "authors/%s" (urlize .) }}
+        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
+        {{ partial "author-card" . }}
+        {{ end }}
+        {{ end }}
+
+      </h3>
+      <div  style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">{{ partial "articles/article-subheader" . }}</div>
+    </div>
+  </div>
+</section>
+
+<div class="row">
+  <div class="col xl8 l8 m12 s12">
+    <article class=" post-content"
+      style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+     
+      {{- if .Params.video -}}
+      {{ partial "youtube-video" . }}
+      {{- end -}}
+      <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
+        {{ partial "nav/table-of-contents" . }}
+        {{.Content}}
+      </div>
+    </article>
+  </div>
+  <aside class="col xl3 l3 hide-on-med-and-down left-col-article" style="padding-right:0px;">
+    <div id="nav-side-article">
+      {{- partial "ads/sidebar" . -}}
+    </div>
+  </aside>
+</div>
+{{ end }}
