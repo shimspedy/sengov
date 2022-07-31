@@ -1,27 +1,36 @@
 $(document).ready(function() {
-     $('.button-collapse').sideNav();
-     $('.scrollspy').scrollSpy();
-     $(".left-col-article").css("height", $(".left-col-article").parent().height());
-     $(".right-col-article").css("height", $(".right-col-article").parent().height());
-     $("#nav-side-single").stick_in_parent({
-          offset_top:80
-     });
-     $("#nav-side-ad").stick_in_parent({
-      offset_top:600
-     });
-     $("#nav-side-article").stick_in_parent({
-          offset_top:80
-     });
-     $("#social-icons-horizontal").stick_in_parent({
-          offset_top:$(window).height() -70,
-          spacer: false,
-     });
-     hljs.initHighlightingOnLoad();
+     // $('.button-collapse').sideNav();
+     // $('.scrollspy').scrollSpy();
+     // $(".left-col-article").css("height", $(".left-col-article").parent().height());
+     // $(".right-col-article").css("height", $(".right-col-article").parent().height());
+     // $("#nav-side-single").stick_in_parent({
+     //      offset_top:80
+     // });
+     // $("#nav-side-ad").stick_in_parent({
+     //  offset_top:600
+     // });
+     // $("#nav-side-article").stick_in_parent({
+     //      offset_top:80
+     // });
+     // $("#social-icons-horizontal").stick_in_parent({
+     //      offset_top:$(window).height() -70,
+     //      spacer: false,
+     // });
+     // hljs.initHighlightingOnLoad();
 
     //  if(!window.localStorage.getItem("notified-site-change")){
     //     generateNotificationTab("Giraffe Academy is rebranding!", 
     //     "Hey! It's Mike Dane, founder of Giraffe Academy. I've decided to rebrand this site along with my YouTube channel into a more personal brand centered around myself as a developer and teacher. Be sure to keep checking back for more updates!")
     //  }
+
+
+$(".dropdown-trigger").dropdown();
+
+
+$(".option").click(function () {
+     $(".option").removeClass("active");
+     $(this).addClass("active");
+  });
      
 });
 

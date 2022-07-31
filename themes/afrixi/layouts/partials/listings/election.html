@@ -1,0 +1,30 @@
+
+   
+<div class="options ">
+ 
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "candidates") }}
+ 
+    {{ range  $index, $element := $paginator.Pages }}
+ 
+     {{ if (eq $index 0 ) }}
+      {{ $.Scratch.Set "classname" "active" }}
+     {{ else }}
+         {{ $.Scratch.Set "classname" "" }}
+
+     {{ end }}
+     <div class="option {{ $.Scratch.Get "classname" | safeHTML }}" style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+         <div class="shadow"></div>
+         <div class="label">
+            <div class="icon">
+             <i class="fal fa-bell"></i>
+            </div>
+            <a  href="{{ .Permalink }}" title="{{ .Params.title }}" >
+            <div class="info">
+               <div class="main">{{ .Params.title }}</div>
+               <div class="sub">{{ .Summary | truncate 50 }}</div>
+            </div>
+            </a>
+         </div>
+        </div>
+    {{end}}
+ </div>

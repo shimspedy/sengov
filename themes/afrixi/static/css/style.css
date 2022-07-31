@@ -27,11 +27,20 @@ h3 {
 }
 
 article .contents ul:not(.browser-default) li, ul ul, ol ul {
-     list-style-type: none;
+     list-style-type: disc;
      list-style-position: inside;
      margin-left: 15px;
   }
-  
+  .post-content li::marker {
+     margin: 0 0.5rem 0 0;
+     color: #ff7a18;
+ }
+ article ul:not(.browser-default) li {
+     list-style-type: disc !important;
+ }
+ article .table-of-contents ul:not(.browser-default) li {
+     list-style-type: none !important;
+ }
 
   article .contents ul:not(.browser-default)  li:before {
      margin-left: 15px;
@@ -178,7 +187,9 @@ article .contents ul:not(.browser-default) li, ul ul, ol ul {
      position: absolute;
      left: 0;
 }
-
+.flow-text{
+     font-size: 1.4rem;
+}
 article .flow-text h1,h2,h3 {
        position: relative;
 }
