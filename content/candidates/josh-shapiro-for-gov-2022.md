@@ -162,3 +162,25 @@ Josh has spent his career taking on the powerful and well-connected on behalf of
 He held one of the Commonwealth’s largest road construction companies accountable when they broke the law and stole from Pennsylvania workers — in the largest worker misclassification criminal case in U.S. history — and successfully brought criminal charges against a mechanical contractor for underpaying its workers. In a landmark negotiation, Josh took on the two largest health care institutions in our Commonwealth to protect access to health care for 1.9 million people in Western Pennsylvania. 
 
 Josh has workers’ backs, and that’s why they’re supporting him in this campaign. As Governor, Josh will protect the right to collective bargaining, go after employers who spread anti-union propaganda and interfere with workers’ right to join a union, strengthen worker misclassification laws,  and veto any legislation that seeks to make Pennsylvania a right-to-work state. Our economy is stronger when everyone participates and as Governor, Josh will ensure that hardworking Pennsylvanians can organize, earn for their family, and live a life of dignity.
+
+#### MEET AUSTIN
+![Josh Shapiro’s endorsed candidate for Lieutenant Governor](/candidates/paaustin.jpeg)
+Growing up in the Mon Valley in western Pennsylvania – a longtime industrial center outside Pittsburgh – Austin Davis saw the struggles of working families firsthand. He watched his mom – a hairdresser in McKeesport for more than 40 years – juggle raising a family with putting food on the table, and he watched his dad work hard every day as an ATU bus driver.
+
+Austin knew from an early age he wanted to dedicate his life and career to public service. Throughout his career, he has fought for economic equality, worked to lift people out of poverty and secure fair funding for education, and has been committed to bettering the lives of people in western Pennsylvania.
+
+In high school, when he felt young people needed a voice in city government, Austin founded and served as chairman of the Mayor’s Youth Advisory Council under McKeesport Mayor Jim Brewster. Working with city leaders, Austin helped combat rising youth violence and provided the young people of McKeesport with more opportunities to get involved in civic life.
+
+Austin is a first generation college graduate in his family, and after studying political science at the University of Pittsburgh, he began pursuing a career in public service. By the age of 21, the Tribune-Review called him “a veteran at the politics of helping others.”
+
+Beginning in 2012, Austin joined Allegheny County Executive Rich Fitzgerald’s team, spearheading the office’s vision and transition teams in the early days of the administration and serving as Fitzgerald’s representative on the Jail Oversight Board; the Kane Foundation; the Minority, Women, and Disadvantaged Business Enterprise Advisory Board; and the Shuman Detention Center Advisory Board.
+
+Then in 2018, Austin successfully ran for the state House of Representatives to represent the Mon Valley and his hometown of McKeesport.
+
+Rep. Austin Davis took the oath of office to serve the people of the Mon Valley on February 5, 2018. When he was sworn in, Austin became the first African American to serve as state representative for the 35th Legislative District in Allegheny County, and he became one of only four African American lawmakers to represent a majority-white district.
+
+Currently, Austin serves as chair of the Allegheny County House Democratic Delegation and vice chair of the House Democratic Policy Committee, as well as serving on the House Appropriations Committee, House Consumer Affairs Committee, House Insurance Committee, and House Transportation Committee. Austin is also a member of the Pennsylvania Legislative Black Caucus, Climate Caucus, and PA SAFE Caucus.
+
+Austin remains committed to the Mon Valley and McKeesport, serving as a board member of the Port Authority of Allegheny County, YMCA of Greater Pittsburgh, Communities in Schools of Pittsburgh, and Auberle.
+
+Austin currently resides in McKeesport with his wife, Blayre Holmes Davis.
