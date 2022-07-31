@@ -23,13 +23,12 @@ $(document).ready(function() {
     //  }
 
 
-$(".dropdown-trigger").dropdown();
-
-
-$(".option").click(function () {
-     $(".option").removeClass("active");
-     $(this).addClass("active");
-  });
+    $(".dropdown-trigger").dropdown();
+    $(".option").click(function () {
+        $(".option").removeClass("active");
+        $(this).addClass("active");
+    });
+    $('.sidenav').sidenav();
      
 });
 document.addEventListener('DOMContentLoaded', function() {
@@ -42,11 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // var collapsibleElem = document.querySelector('.collapsible');
   // var collapsibleInstance = M.Collapsible.init(collapsibleElem, options);
 
-  // Or with jQuery
 
-  $(document).ready(function(){
-    $('.sidenav').sidenav();
-  });
 
 function generateNotificationTab(heading, message){
 
