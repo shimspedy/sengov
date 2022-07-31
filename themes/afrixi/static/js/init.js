@@ -15,27 +15,23 @@ $(document).ready(function() {
           offset_top:$(window).height() -70,
           spacer: false,
      });
-     hljs.initHighlightingOnLoad();
+     //hljs.initHighlightingOnLoad();
 
     //  if(!window.localStorage.getItem("notified-site-change")){
     //     generateNotificationTab("Giraffe Academy is rebranding!", 
     //     "Hey! It's Mike Dane, founder of Giraffe Academy. I've decided to rebrand this site along with my YouTube channel into a more personal brand centered around myself as a developer and teacher. Be sure to keep checking back for more updates!")
     //  }
-
+    $('.sidenav').sidenav();
 
     $(".dropdown-trigger").dropdown();
     $(".option").click(function () {
         $(".option").removeClass("active");
         $(this).addClass("active");
     });
-    $('.sidenav').sidenav();
+    
      
 });
-document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.sidenav');
-    var instances = M.Sidenav.init(elems, options);
-    var instance = M.Sidenav.getInstance(elem);
-  });
+
 
   // Initialize collapsible (uncomment the lines below if you use the dropdown variation)
   // var collapsibleElem = document.querySelector('.collapsible');
