@@ -211,6 +211,7 @@ body .options {
   max-width: 100%;
   width: calc(100% - 100px);
   height: 400px;
+  margin: 20px auto;
 }
 @media screen and (max-width: 718px) {
   body .options {
