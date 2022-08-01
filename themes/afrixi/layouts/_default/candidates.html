@@ -6,7 +6,7 @@
     <a class="card-image" href="{{ .Permalink }}" title="{{ .Params.title }}">
 
       {{ if .Params.image }}
-      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}candidates/{{ .Params.image }});"></div>
       {{ else }}
       <div class="thumb-img" style="background-image: url({{.Site.BaseURL}}{{.Params.defaulImage }});"></div>
       {{ end }}
