@@ -8,7 +8,7 @@
       {{ if .Params.image }}
       <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}candidates/{{ .Params.image }});"></div>
       {{ else }}
-      <div class="thumb-img" style="background-image: url({{.Site.BaseURL}}{{.Params.defaulImage }});"></div>
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});"></div>
       {{ end }}
 
     </a>
