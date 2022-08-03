@@ -11,7 +11,7 @@ image: james.jpeg
 imageurl: /new-york/kathy-hochul/james.png
 imagedir: root
 video:
-url: /new-york/kathy-hochul/james
+url: /new-york/kathy-hochul/james/
 weight: 3
 layout: course_home
 

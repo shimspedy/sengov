@@ -11,7 +11,7 @@ image: jason.jpeg
 imageurl: /virginia/glenn-youngkin/jason.jpeg
 imagedir: root
 video:
-url: /virginia/glenn-youngkin/jason
+url: /virginia/glenn-youngkin/jason/
 weight: 5
 layout: course_home
 

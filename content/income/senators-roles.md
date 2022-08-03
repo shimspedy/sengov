@@ -4,7 +4,7 @@ title: " Senator Role to the people"
 seo_title: "9 Roles You Didn’t Know Your Senator Can Do For You"
 description: the majority of individuals don’t know the role their senators play in the senate. True, we tend to assume that the congressman’s mandate is to foresee projects in the government.
 author: Csen
-image:
+image: sengpv-income.jpeg
 video:
 url: 
 weight: 0

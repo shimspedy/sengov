@@ -11,7 +11,7 @@ image: Kay-James.jpeg
 imageurl: /virginia/glenn-youngkin/Kay-James.jpeg
 imagedir: root
 video:
-url: /virginia/glenn-youngkin/james
+url: /virginia/glenn-youngkin/james/
 weight: 4
 layout: course_home
 

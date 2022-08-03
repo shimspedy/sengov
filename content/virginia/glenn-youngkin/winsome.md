@@ -11,7 +11,7 @@ image: winsome.png
 imageurl: /virginia/glenn-youngkin/winsome.png
 imagedir: root
 video:
-url: /virginia/glenn-youngkin/winsome
+url: /virginia/glenn-youngkin/winsome/
 weight: 3
 layout: course_home
 

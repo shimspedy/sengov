@@ -11,7 +11,7 @@ image: denny.jpeg
 imageurl: /virginia/glenn-youngkin/denny.jpeg
 imagedir: root
 video:
-url: /washington/jay-inslee/denny
+url: /washington/jay-inslee/denny/
 weight: 2
 layout: course_home
 

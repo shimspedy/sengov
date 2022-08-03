@@ -11,7 +11,7 @@ image: bob.jpeg
 imageurl: /virginia/glenn-youngkin/bob.jpeg
 imagedir: root
 video:
-url: /washington/jay-inslee/bob
+url: /washington/jay-inslee/bob/
 weight: 3
 layout: course_home
 

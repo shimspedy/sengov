@@ -11,7 +11,7 @@ image: robert.jpeg
 imageurl: /new-york/kathy-hochul/robert.jpeg
 imagedir: root
 video:
-url: /new-york/kathy-hochul/robert
+url: /new-york/kathy-hochul/robert/
 weight: 4
 layout: course_home
 

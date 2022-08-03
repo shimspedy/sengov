@@ -4,7 +4,7 @@ title: " IRS Stimulus Checks "
 seo_title: "Where is my Stimulus Check for 2020? | IRS Stimulus Check Status"
 description: Million of Americans received a first round of stimulus checks starting in April after the country shutdown and the economy took a hit.
 author: Csen
-image:
+image: sengpv-income.jpeg
 video:
 url: 
 weight: 0

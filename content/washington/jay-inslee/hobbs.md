@@ -11,7 +11,7 @@ image: hobbs.jpeg
 imageurl: /virginia/glenn-youngkin/hobbs.jpeg
 imagedir: root
 video:
-url: /washington/jay-inslee/hobbs
+url: /washington/jay-inslee/hobbs/
 weight: 4
 layout: course_home
 
