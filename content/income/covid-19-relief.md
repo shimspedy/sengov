@@ -4,7 +4,7 @@ title: "Coronavirus Relief"
 seo_title: "Coronavirus Relief  Government Benefits Help for COVID-19"
 description: There are a number of programs available to Americans to help assist them throughout the coronavirus (COVID-19) pandemic. 
 author: Csen
-image:
+image: sengpv-income.jpeg
 video:
 url: 
 weight: 0

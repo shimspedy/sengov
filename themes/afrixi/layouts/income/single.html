@@ -5,8 +5,8 @@
 {{ define "main" }}
 <section>
   <div class="slide">
-    <div class="storyTitle">
-      <h1>{{ .Title }}</h1>
+    <div class="storyTitle"   style="background-image: url(/income/{{ .Params.image}});padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; background-size:cover; padding-top:1px;">
+      <h2 >{{ .Title }}</h2>
       <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : {{ .Date.Format "Monday, 2 Jan, 2006" }} </h4>
       <h3 class="author">
         {{- range .Params.authors }}
@@ -15,23 +15,10 @@
         {{ partial "author-card" . }}
         {{ end }}
         {{ end }}
+
       </h3>
+      <div  style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">{{ partial "articles/article-subheader" . }}</div>
     </div>
-    {{ if .Params.image }}
-    <!-- <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
-      style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});">
-      <span id="image_credit"></span>
-      <div class="gradient"></div>
-      <img src="/images/wave.png" class="waves">
-    </div> -->
-    {{ else }}
-    <!-- <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
-      style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});">
-      <span id="image_credit"></span>
-      <div class="gradient"></div>
-      <img src="/images/wave.png" class="waves">
-    </div> -->
-    {{ end }}
   </div>
 </section>
 
@@ -39,7 +26,7 @@
   <div class="col xl8 l8 m12 s12">
     <article class=" post-content"
       style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
-      {{ partial "articles/article-subheader" . }}
+     
       {{- if .Params.video -}}
       {{ partial "youtube-video" . }}
       {{- end -}}
