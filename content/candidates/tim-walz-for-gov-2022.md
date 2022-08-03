@@ -1,7 +1,7 @@
 ---
 date: 2022-07-31T11:03:20-04:00
 title: " Tim Walz for governor 2022"
-seo_title: "Josh Shapirofor Minnesota governor"
+seo_title: "Josh Shapiro for Minnesota governor"
 description: Tim’s career has been defined by public service, from serving in the National Guard for 24 years, to serving our students as a high school teacher and football coach, to serving our state as a Congressman, and now as Minnesota’s 41st Governor.
 author: Csen
 image: tim-walz.jpeg
