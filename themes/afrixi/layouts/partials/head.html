@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 <meta name="description" content="{{.Description}}" />
-<meta name="keywords" content="contact, {{.Params.Role}}, {{.Params.Name}}, {{.Params.Name}} of {{.Params.State}}, {{.Params.state}} {{.Params.Role}},{{.Params.Name}} email state, email, address, born, term, expire, phone, party">
+<meta name="keywords" content=" {{.Params.keywords}}">
+<meta name="tags" content=" {{.Params.tags}}">
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 {{ if eq .Params.imagedir "root" }}
