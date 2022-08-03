@@ -9,6 +9,26 @@ video:
 url: 
 weight: 0
 layout: single
+tags: 
+- Beto for governor 
+- About Beto
+keywords:
+- Beto for governor 
+- About Beto
+- fund public schools
+- for High-Paying Jobs
+- for  Affordable Health Care
+- for Power Grid and Energy Bills
+- lower Property Taxes
+- on Reproductive Freedom issue
+- Border and Immigration
+- Small Business
+- Rural Investment
+- Gun Safety
+- Marijuana Legalization
+- Rural Investment
+- Serving Our Veterans
+- Disability Rights
 ---
 #### Beto O’Rourke  for governor 
 Beto O’Rourke is a fourth-generation Texan, born and raised in El Paso where he has served as a small business owner, a city council representative and a member of Congress. He founded and currently leads Powered by People, a Texas-based organization that works to expand democracy and produce Democratic victories through voter registration and direct voter engagement. Powered by People has helped register over 250,000 unregistered Texans to vote since its inception in December 2019.

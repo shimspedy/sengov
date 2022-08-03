@@ -9,6 +9,18 @@ video:
 url: 
 weight: 0
 layout: single
+tags: 
+- Bill lee for governor 
+- About bill lee
+keywords:
+-  AMERICAN EXCEPTIONALISM
+- FREEDOM
+- PUBLIC SAFETY
+- FAMILY
+- EDUCATION
+- OPPORTUNITY
+- Bill lee for governor 
+- About bill lee
 ---
 #### Bill Lee for governor
 Bill Lee is a seventh-generation Tennessean who was raised in Franklin where he still resides today with his wife Maria on his family’s farm. He’s the proud father of four adult children (Jessica, twin sons Jacob and Caleb, and Sarah Kate) and nine grandchildren.
