@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Bera Ami"
-seo_title: "contact Congressman Bera Ami"
+seo_title: "contact Representative Bera Ami"
 subheader:
-     greeting: Contact Congressman Bera Ami 
+     greeting: Contact Representative Bera Ami 
      description: Amerish Babulal "Ami" Bera is an American physician and politician serving as the U.S. Representative for California's 7th congressional district since 2013.
-description: Contact Congressman Bera Ami of California. Contact information for Bera Ami includes email address, phone number, and mailing address.
+description: Contact Representative Bera Ami of California. Contact information for Bera Ami includes email address, phone number, and mailing address.
 image: bera-ami.jpeg
 video: 
 url: /california/bera-ami/

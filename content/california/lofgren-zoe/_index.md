@@ -1,7 +1,7 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Zoe Lofgren"
-seo_title: "contact RepresentativeZoe Lofgren"
+seo_title: "contact Representative Zoe Lofgren"
 subheader:
      greeting: Contact RepresentativeZoe Lofgren 
      description: Susan Ellen "Zoe" Lofgren is an American politician serving as a U.S. Representative from California. A member of the Democratic Party, Lofgren is in her 13th term as a congresswoman, having been first elected in 1994.

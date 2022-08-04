@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Sara Jacobs"
-seo_title: "contact Congress woman Sara Jacobs"
+seo_title: "contact Representative  Sara Jacobs"
 subheader:
-     greeting: Contact Congress woman Sara Jacobs 
+     greeting: Contact Representative  Sara Jacobs 
      description: Sara Josephine Jacobs is an American politician serving as the U.S. Representative for California's 53rd congressional district. Her district includes central and eastern portions of the city of San Diego, as well as eastern suburbs such as El Cajon, La Mesa, Spring Valley, and Lemon Grove.
-description: Contact Congress woman Sara Jacobs of California. Contact information for Sara Jacobs includes email address, phone number, and mailing address.
+description: Contact Representative  Sara Jacobs of California. Contact information for Sara Jacobs includes email address, phone number, and mailing address.
 image: jacobs-sara.jpeg
 video: 
 url: /california/jacobs-sara/

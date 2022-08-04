@@ -1,9 +1,9 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Chu Judy"
-seo_title: "contact Congress woman Chu Judy"
+seo_title: "contact Representative Chu Judy"
 subheader:
-     greeting: Contact Congress woman Chu Judy 
+     greeting: Contact Representative Chu Judy 
      description: Judy May Chu is an American politician serving as the U.S. Representative for California's 27th congressional district since 2013. A member of the Democratic Party, she has held a seat in Congress since 2009, representing California's 32nd congressional district until redistricting.
 description: Contact Congress Chu Judy of California. Contact information for Chu Judy includes email address, phone number, and mailing address.
 image: chu-judy.jpeg

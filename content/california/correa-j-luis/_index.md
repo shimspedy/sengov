@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "J. Luis Correa "
-seo_title: "contact Congressman J. Luis Correa "
+seo_title: "contact Representative  J. Luis Correa "
 subheader:
-     greeting: Contact Congressman J. Luis Correa  
+     greeting: Contact Representative  J. Luis Correa  
      description: Jose Luis Correa is an American politician who is the U.S. Representative for California's 46th congressional district. A Democrat, he served as a member of the California State Senate, representing the 34th Senate district.
-description: Contact Congressman J. Luis Correa  of California. Contact information for J. Luis Correa  includes email address, phone number, and mailing address.
+description: Contact Representative  J. Luis Correa  of California. Contact information for J. Luis Correa  includes email address, phone number, and mailing address.
 image: correa-j-luis.jpeg
 video: 
 url: /california/correa-j-luis/

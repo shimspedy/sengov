@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: " Josh Harder"
-seo_title: "contact Congressman  Josh Harder"
+seo_title: "contact Representative   Josh Harder"
 subheader:
-     greeting: Contact Congressman  Josh Harder 
+     greeting: Contact Representative   Josh Harder 
      description: Joshua Keck Harder is an American politician and venture capital investor who has been serving as the U.S. Representative for California's 10th congressional district since 2019. A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election.
-description: Contact Congressman  Josh Harder of California. Contact information for  Josh Harder includes email address, phone number, and mailing address.
+description: Contact Representative   Josh Harder of California. Contact information for  Josh Harder includes email address, phone number, and mailing address.
 image: harder-josh.jpeg
 video: 
 url: /california/harder-josh/

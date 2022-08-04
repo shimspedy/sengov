@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Jim Costa "
-seo_title: "contact Congressman Jim Costa "
+seo_title: "contact Representative  Jim Costa "
 subheader:
-     greeting: Contact Congressman Jim Costa  
+     greeting: Contact Representative  Jim Costa  
      description: James Manuel Costa, is the U.S. Representative for California's 16th congressional district. Serving as a Democrat in Congress since 2013, he previously represented California's 20th congressional district from 2005 to 2013. The district includes most of Fresno.
-description: Contact Congressman Jim Costa  of California. Contact information for Jim Costa  includes email address, phone number, and mailing address.
+description: Contact Representative  Jim Costa  of California. Contact information for Jim Costa  includes email address, phone number, and mailing address.
 image: costa-jim.jpeg
 video: 
 url: /california/costa-jim/

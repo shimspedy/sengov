@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "John Garamendi"
-seo_title: "contact Congressman John Garamendi"
+seo_title: "contact Representative  John Garamendi"
 subheader:
-     greeting: Contact Congressman John Garamendi 
+     greeting: Contact Representative  John Garamendi 
      description: John Raymond Garamendi is an American businessman, politician, and member of the Democratic Party who has represented areas of Northern California between San Francisco and Sacramento, including the cities of Fairfield and Suisun City, in the United States House of Representatives since November 2009.
-description: Contact Congressman John Garamendi of California. Contact information for John Garamendi includes email address, phone number, and mailing address.
+description: Contact Representative  John Garamendi of California. Contact information for John Garamendi includes email address, phone number, and mailing address.
 image: garamendi-john.jpeg
 video: 
 url: /california/garamendi-john/

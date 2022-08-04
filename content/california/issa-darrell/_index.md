@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Darrell E. Issa"
-seo_title: "contact Congressman Darrell E. Issa"
+seo_title: "contact Representative  Darrell E. Issa"
 subheader:
-     greeting: Contact Congressman Darrell E. Issa 
+     greeting: Contact Representative  Darrell E. Issa 
      description: Darrell Edward Issa is an American businessman and politician who is the U.S. Representative for California's 50th congressional district.
-description: Contact Congressman Darrell E. Issa of California. Contact information for Darrell E. Issa includes email address, phone number, and mailing address.
+description: Contact Representative  Darrell E. Issa of California. Contact information for Darrell E. Issa includes email address, phone number, and mailing address.
 image: issa-darrell.jpeg
 video: 
 url: /california/issa-darrell/

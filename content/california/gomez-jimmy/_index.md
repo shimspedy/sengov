@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Jimmy Gomez"
-seo_title: "contact Congressman Jimmy Gomez"
+seo_title: "contact Representative  Jimmy Gomez"
 subheader:
-     greeting: Contact Congressman Jimmy Gomez 
+     greeting: Contact Representative  Jimmy Gomez 
      description: Jimmy Gomez is an American politician serving as the U.S. Representative for California's 34th congressional district since 2017. A member of the Democratic Party, he previously served in the California State Assembly from 2012 to 2017.
-description: Contact Congressman Jimmy Gomez of California. Contact information for Jimmy Gomez includes email address, phone number, and mailing address.
+description: Contact Representative  Jimmy Gomez of California. Contact information for Jimmy Gomez includes email address, phone number, and mailing address.
 image: gomez-jimmy.jpeg
 video: 
 url: /california/gomez-jimmy/

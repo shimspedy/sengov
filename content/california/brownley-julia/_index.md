@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Brownley Julia"
-seo_title: "contact Congress woman Brownley Julia"
+seo_title: "contact Representative Brownley Julia"
 subheader:
-     greeting: Contact Congress woman Brownley Julia 
+     greeting: Contact Representative Brownley Julia 
      description: Julia Andrews Brownley is an American politician who has been the United States Representative for California's 26th congressional district since 2013. Previously she served in the California State Assembly from 2006 to 2012. She is a Democrat. Before her political career, she worked in marketing and sales.
-description: Contact Congress woman Brownley Julia of California. Contact information for Brownley Julia includes email address, phone number, and mailing address.
+description: Contact Representative Brownley Julia of California. Contact information for Brownley Julia includes email address, phone number, and mailing address.
 image: brownley-julia.jpeg
 video: 
 url: /california/brownley-julia/

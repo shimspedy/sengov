@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Mark DeSaulnier "
-seo_title: "contact Congressman Mark DeSaulnier "
+seo_title: "contact Representative  Mark DeSaulnier "
 subheader:
-     greeting: Contact Congressman Mark DeSaulnier  
+     greeting: Contact Representative  Mark DeSaulnier  
      description: Mark James DeSaulnier is an American politician who has served since 2015 as the U.S. Representative for California's 11th congressional district. The district includes most of Contra Costa County, a suburban county in the East Bay.
-description: Contact Congressman Mark DeSaulnier  of California. Contact information for Mark DeSaulnier  includes email address, phone number, and mailing address.
+description: Contact Representative  Mark DeSaulnier  of California. Contact information for Mark DeSaulnier  includes email address, phone number, and mailing address.
 image: desaulnier-mark.jpeg
 video: 
 url: /california/desaulnier-mark/

@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Tony Cárdenas "
-seo_title: "contact Congress Tony Cárdenas "
+seo_title: "contact Representative Tony Cárdenas "
 subheader:
-     greeting: Contact Congress Tony Cárdenas  
+     greeting: Contact Representative Tony Cárdenas  
      description: Antonio Cárdenas is an American politician who has served as the United States Representative for California's 29th congressional district since January 2013.
-description: Contact Congress Tony Cárdenas  of California. Contact information for Tony Cárdenas  includes email address, phone number, and mailing address.
+description: Contact Representative Tony Cárdenas  of California. Contact information for Tony Cárdenas  includes email address, phone number, and mailing address.
 image: cardenas-tony.jpg
 video: 
 url: /california/cardenas-tony/

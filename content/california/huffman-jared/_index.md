@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Jared Huffman"
-seo_title: "contact Congressman Jared Huffman"
+seo_title: "contact Representative  Jared Huffman"
 subheader:
-     greeting: Contact Congressman Jared Huffman 
+     greeting: Contact Representative  Jared Huffman 
      description: Jared William Huffman is an American politician serving as the U.S. Representative for California's 2nd congressional district since 2013. He is a member of the Democratic Party. From 2006 to 2012, Huffman was a member of the California State Assembly, representing the 6th district.
-description: Contact Congressman Jared Huffman of California. Contact information for Jared Huffman includes email address, phone number, and mailing address.
+description: Contact Representative  Jared Huffman of California. Contact information for Jared Huffman includes email address, phone number, and mailing address.
 image: huffman-jared.jpeg
 video: 
 url: /california/huffman-jared/

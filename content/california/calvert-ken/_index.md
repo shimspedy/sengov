@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Calvert Ken"
-seo_title: "contact Congressman Calvert Ken"
+seo_title: "contact Representative Calvert Ken"
 subheader:
-     greeting: Contact Congressman Calvert Ken 
+     greeting: Contact Representative Calvert Ken 
      description: Kenneth Stanton Calvert is the U.S. Representative for California's 42nd congressional district, and previously the 44th and 43rd, serving since 1993. He is a member of the Republican Party. The district is part of the Inland Empire of Southern California. 
-description: Contact Congressman Calvert Ken of California. Contact information for Calvert Ken includes email address, phone number, and mailing address.
+description: Contact Representative Calvert Ken of California. Contact information for Calvert Ken includes email address, phone number, and mailing address.
 image: calvert-ken.jpeg
 video: 
 url: /california/calvert-ken/

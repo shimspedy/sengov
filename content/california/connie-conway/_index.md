@@ -1,9 +1,9 @@
 ---
 date: 2022-7-22T11:54:12-05:00
 title: "Connie Conway"
-seo_title: "contact Congress woman Connie Conway"
+seo_title: "contact Representative Connie Conway"
 subheader:
-     greeting: Contact Congress woman Connie Conway 
+     greeting: Contact Representative Connie Conway 
      description:  Rep. Conway has served as a businesswoman, healthcare worker, Tulare County Supervisor, President of the California State Association of Counties, Director of the National Association of Counties, and a Republican legislator.
 description: Contact Congress Connie Conway of California. Contact information for Connie Conway includes email address, phone number, and mailing address.
 image: connie-conway.jpeg

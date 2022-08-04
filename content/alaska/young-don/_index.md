@@ -5,7 +5,7 @@ seo_title: "contact Representative Young Don"
 subheader:
      greeting: Contact Representative Young Don 
      description: Donald Edwin Young is an American politician serving as the U.S. Representative for Alaska's at-large congressional district since 1973. He is the Republican Party's longest-serving member of the U.S. House of Representatives in history, having represented Alaska for 24 terms.
-description: Contact Congressman Young Don of Alaska. Contact information for Young Don includes email address, phone number, and mailing address.
+description: Contact Representative Young Don of Alaska. Contact information for Young Don includes email address, phone number, and mailing address.
 image: young-don.jpeg
 video: 
 url: /alaska/young-don/

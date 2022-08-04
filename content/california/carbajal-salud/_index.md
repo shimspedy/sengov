@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Carbajal Salud"
-seo_title: "contact Congressman Carbajal Salud"
+seo_title: "contact Representative Carbajal Salud"
 subheader:
-     greeting: Contact Congressman Carbajal Salud 
+     greeting: Contact Representative Carbajal Salud 
      description: Salud Ortiz Carbajal is an American politician serving as the U.S. Representative for California's 24th congressional district since 2017. He is a member of the Democratic Party, and his district covers Santa Maria, San Luis Obispo and Santa Barbara.
-description: Contact Congressman Carbajal Salud of California. Contact information for Carbajal Salud includes email address, phone number, and mailing address.
+description: Contact Representative Carbajal Salud of California. Contact information for Carbajal Salud includes email address, phone number, and mailing address.
 image: carbajal-salud.jpeg
 video: 
 url: /california/carbajal-salud/

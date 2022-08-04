@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Mike Garcia"
-seo_title: "contact Congressman Mike Garcia"
+seo_title: "contact Representative  Mike Garcia"
 subheader:
-     greeting: Contact Congressman Mike Garcia 
+     greeting: Contact Representative  Mike Garcia 
      description: Michael Garcia is an American politician and former United States Navy pilot serving as a member of the United States House of Representatives from California's 25th congressional district.
-description: Contact Congressman Mike Garcia of California. Contact information for Mike Garcia includes email address, phone number, and mailing address.
+description: Contact Representative  Mike Garcia of California. Contact information for Mike Garcia includes email address, phone number, and mailing address.
 image: garcia-mike.jpeg
 video: 
 url: /california/garcia-mike/

@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: " Anna G. Eshoo"
-seo_title: "contact Congress woman  Anna G. Eshoo"
+seo_title: "contact Representative   Anna G. Eshoo"
 subheader:
-     greeting: Contact Congress woman  Anna G. Eshoo 
+     greeting: Contact Representative   Anna G. Eshoo 
      description: Anna A. Georges Eshoo is the U.S. Representative from California's 18th congressional district, serving since 1993. She is a member of the Democratic Party.
-description: Contact Congress woman  Anna G. Eshoo of California. Contact information for  Anna G. Eshoo includes email address, phone number, and mailing address.
+description: Contact Representative   Anna G. Eshoo of California. Contact information for  Anna G. Eshoo includes email address, phone number, and mailing address.
 image: eshoo-anna-g.jpeg
 video: 
 url: /california/eshoo-anna-g/
