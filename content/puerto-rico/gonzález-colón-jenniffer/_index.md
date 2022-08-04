@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Congress woman González-Colón Jenniffer 
      description: Jenniffer Aydin González Colón is a Puerto Rican politician who currently serves as the 20th Resident Commissioner of Puerto Rico. González has served in leadership positions in the New Progressive Party of Puerto Rico and in the Republican Party of the United States.
 description: Contact Congress woman González-Colón Jenniffer of Puerto Rico. Contact information for González-Colón Jenniffer includes email address, phone number, and mailing address.
-image: gonzález-colón-jenniffer.jpg
+image: gonzalez-colon-jenniffer.jpg
 video: 
 url: /puerto-rico/gonzález-colón-jenniffer/
 weight: 1
