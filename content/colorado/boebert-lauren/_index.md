@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
-title: "Boebert Lauren"
-seo_title: "contact Congress woman Boebert Lauren"
+title: "Lauren Boebert "
+seo_title: "contact Representative Lauren Boebert "
 subheader:
-     greeting: Contact Congress woman Boebert Lauren 
+     greeting: Contact Representative Lauren Boebert  
      description: Lauren Opal Boebert is an American politician, businesswoman, and gun-rights activist serving as the U.S. Representative for Colorado's 3rd congressional district. She is the first woman to represent Colorado’s 3rd Congressional district in Congress.
-description: Contact Congress woman Boebert Lauren of Colorado. Contact information for Boebert Lauren includes email address, phone number, and mailing address.
+description: Contact Representative Lauren Boebert  of Colorado. Contact information for Lauren Boebert  includes email address, phone number, and mailing address.
 image: boebert-lauren.jpeg
 video: 
 url: /colorado/boebert-lauren/
@@ -14,7 +14,7 @@ layout: course_home
 
 
 ####candidate
-name:	Boebert Lauren
+name:	Lauren Boebert 
 state:	Colorado
 district: 3rd
 party:	Republican
@@ -29,15 +29,14 @@ twitter: RepDianaDeGette
 powrid: 
 ---
 
-Lauren became the first mom to represent Colorado’s Third District in Congress after unseating a five-term incumbent Congressman and then, despite being outspent nearly 2-1, defeated her Democrat opponent on November 3rd, 2020. Lauren’s historic victory showed that no amount of money can beat good, old-fashioned grassroots enthusiasm and hard work.
+U.S. Congresswoman Lauren Boebert is serving her first term as the Representative for Colorado’s Third Congressional District. She is on the Natural Resources and Budget Committees, is co-chair of the Congressional Second Amendment Caucus, and after only a few months, was elected to the Executive Board as the Communications Chair of the House Freedom Caucus and was also appointed to serve on the Future of American Freedoms Task Force. Rep. Boebert also serves as the Vice Chairman of the Congressional Western Caucus.
 
-#### PRO-GUN SMALL BUSINESS OWNER
-Lauren is the founder, owner, and operator of Shooters Grill, a restaurant that earned national notoriety for staff that proudly open carry as they serve their customers. She gained additional recognition in September 2019 by attending presidential candidate Beto O’Rourke’s rally to tell him directly: “Hell, no, you won’t take our guns.”
+A 35-year-old, citizen legislator from Rifle, Colorado, she never held public office prior to her 2020 victory and is the first woman, first mother, and youngest ever to represent the District. She is the owner of Shooters Grill, a Western-themed restaurant in Rifle, Colorado.
 
-#### FIGHTING TO KEEP BUSINESS OPEN
-When Colorado’s liberal Democrat Governor tried to shut down small businesses across the state, it was Lauren who stood against tyranny and kept her business open. They operated safely and took every precaution to keep her staff and her patrons healthy. Because of this, Lauren’s staff was able to continue making their hard-earned money and weren’t sent to the unemployment line. Lauren will ALWAYS fight for small businesses.
+Representative Boebert was raised in a Democrat household on welfare. Her senior year of high school, she earned an opportunity to serve as an assistant manager at her local McDonald’s. She made the difficult decision to drop out of school to help put food on her family's table, realizing she could provide better for herself than the government ever could.
 
-#### ACTIVE IN THE COMMUNITY
-A Coloradoan living on the Western Slope, Lauren is active in her church and has spent years counseling at-risk women at the local jail, encouraging them to become self-sufficient and productive members of society who do not depend on government assistance.
+Congresswoman Boebert is active in her church and spent years as a volunteer, counseling and assisting at-risk women at the local jail with reentering society and becoming contributing members in their communities.
 
-Lauren’s husband, Jayson, has worked his entire adult life in oil and gas fields, primarily in Western Colorado. They are the proud parents of four boys.
+She has worked as a natural gas product technician, GIS technician, and pipeline integrity coordinator. Congresswoman Boebert is married to a natural gas drilling foreman who has worked his entire adult life in the oil and gas fields.
+
+Representative Boebert is the mother of four boys, ages 9-17.
