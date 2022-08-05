@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Diana DeGette 
      description: Diana Louise DeGette is an American politician serving as the U.S. Representative for Colorado's 1st congressional district since 1997. A member of the Democratic Party, her district is based in Denver.
 description: Contact Representative Diana DeGette of Colorado. Contact information for Diana DeGette includes email address, phone number, and mailing address.
-: degette-diana.jpeg
+image: degette-diana.jpeg
 video: 
 url: /colorado/degette-diana/
 weight: 1
