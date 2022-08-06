@@ -1,10 +1,8 @@
 {{ define "main" }}
 {{ partial "markup/site" . }}
 {{.Content}}
-
 {{ partial "listings/map" . }}
 {{ partial "listings/election" . }}
-{{ partial "listings/sen-gov" . }}
 <div data-cdc-widget="COVIDCountyCheck" data-horizontal="true" ></div> 
 <script src="https://tools.cdc.gov/1M1B"></script>
 {{ partial "listings/sengov" . }}
