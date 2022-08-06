@@ -1,4 +1,4 @@
-<div class="options ">
+<div class="options show-on-medium hide-on-med-and-down">
  {{ range $k, $_ := where site.RegularPages "Section" "candidates" | first 10 }}
   {{ if $k }}
   <div class="option " style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
@@ -33,3 +33,41 @@
   {{ end }}
 {{ end }}
 </div>
+
+
+
+<div class="options show-on-medium hide-on-med-and-up">
+   {{ range $k, $_ := where site.RegularPages "Section" "candidates" | first 5 }}
+    {{ if $k }}
+    <div class="option " style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+      <div class="shadow"></div>
+      <div class="label">
+         <div class="icon">
+          <i class="fal fa-bell"></i>
+         </div>
+         <a  href="{{ .Permalink }}" title="{{ .Params.title }}" >
+         <div class="info">
+            <div class="main">{{ .Params.title }}</div>
+            <div class="sub">{{ .Summary | truncate 50 }}</div>
+         </div>
+         </a>
+      </div>
+     </div>
+    {{ else }}
+    <div class="option active" style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+      <div class="shadow"></div>
+      <div class="label">
+         <div class="icon">
+          <i class="fal fa-bell"></i>
+         </div>
+         <a  href="{{ .Permalink }}" title="{{ .Params.title }}" >
+         <div class="info">
+            <div class="main">{{ .Params.title }}</div>
+            <div class="sub">{{ .Summary | truncate 50 }}</div>
+         </div>
+         </a>
+      </div>
+     </div>
+    {{ end }}
+  {{ end }}
+  </div>
