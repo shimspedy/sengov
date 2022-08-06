@@ -1,0 +1,45 @@
+<div class="row">
+    {{ range first 10 (where .RegularPages "Section" "candidates") }}
+    <div class="col s12 m6 l3 sen-gov">
+
+        <div class="card">
+            <div class="card-image waves-effect waves-block waves-light active">
+                <img class="activator" src="https://materializecss.com/images/office.jpg">
+                <div class="gradient-card">
+                    <input type="hidden" value="" class="item-link">
+                </div>
+                <div class="plus" style="width: 22px;">
+                    <span id="26593-14089" class="addToText" style="display: none;"></span>
+                    <span class="chng"><i class="small material-icons">add_alert</i></span>
+                </div>
+
+            </div>
+            <div class="card-content">
+                <div class="childernIcon">
+                    <img src="https://www.johnhashim.com/wp-content/uploads/2018/09/AAEAAQAAAAAAAAxmAAAAJGRlN2MyYzQ4LWE5NDYtNDkyZC05YjRiLTQwYTBhOGVhNGMxNw.jpg"
+                        style="height: 32px; width: 32px;">
+
+                </div>
+                <div class="unscribeLongLine"><span class="pattern"></span></div>
+                <h3><span class="card-author-title"> John Shim</span><br><span class="country">from: Hebrew </span></h3>
+
+                <h2 class="card-title activator grey-text text-darken-4">{{ .Params.title }}</h2>
+                <p>{{ .Summary | truncate 50 }}</p>
+                <h5 class="card-title activator grey-text text-darken-4">{{ .Params.title }}<i
+                        class="material-icons right">more_vert</i></h5>
+                <div class="readingLine">
+                    <div style="width: 6.668%;" class="muchTime left"></div>
+                </div>
+
+            </div>
+
+            <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">{{ .Params.title }}<i
+                        class="material-icons right">close</i></span>
+                <p>{{ .Summary | truncate 100 }}</p>
+            </div>
+        </div>
+
+    </div>
+    {{ end }}
+</div>

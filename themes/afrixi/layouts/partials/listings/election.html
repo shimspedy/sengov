@@ -1,4 +1,4 @@
-<div class="options show-on-medium hide-on-med-and-down">
+<div class="options  hide-on-med-only hide-on-med-and-down">
  {{ range $k, $_ := where site.RegularPages "Section" "candidates" | first 10 }}
   {{ if $k }}
   <div class="option " style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
@@ -37,7 +37,7 @@
 
 
 <div class="options show-on-medium hide-on-med-and-up">
-   {{ range $k, $_ := where site.RegularPages "Section" "candidates" | first 5 }}
+   {{ range $k, $_ := where site.RegularPages "Section" "candidates" | first 4 }}
     {{ if $k }}
     <div class="option " style="--optionBackground:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
       <div class="shadow"></div>
@@ -71,3 +71,6 @@
     {{ end }}
   {{ end }}
   </div>
+
+
+  
