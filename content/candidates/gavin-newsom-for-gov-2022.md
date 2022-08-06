@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 #### Gavin Newsom for governor 
 Gavin Christopher Newsom (born October 10, 1967) is an American politician and businessman serving as the 40th governor of California since January 2019. A member of the Democratic Party, he served as the 49th lieutenant governor of California from 2011 to 2019 and as the 42nd mayor of San Francisco from 2004 to 2011. Newsom attended Redwood High School and graduated from Santa Clara University. After graduation, he founded the PlumpJack wine store with family friend Gordon Getty as an investor. The PlumpJack Group grew to manage 23 businesses, including wineries, restaurants, and hotels.

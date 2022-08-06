@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 #### Joe Lombardo  for governor 
 Joe is Running for Governor to Save Nevada

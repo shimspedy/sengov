@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 
 #### Nan Whaley for governor 

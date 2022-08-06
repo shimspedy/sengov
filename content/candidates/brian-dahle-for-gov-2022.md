@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 #### Brian dahlefor California governor
 

@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 #### Josh Shapiro for governor 
 Throughout his career as a public servant, Josh Shapiro has taken on the status quo, brought people together to solve tough problems, and delivered results for the people of Pennsylvania. Since 2017, he has served as the People’s Attorney General, working every day to stand up to powerful institutions and protect Pennsylvanians’ rights. Now, Josh is running to be Pennsylvania’s next Governor — to move our Commonwealth forward and tackle our biggest challenges.

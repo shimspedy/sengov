@@ -9,6 +9,8 @@ video:
 url: 
 weight: 0
 layout: single
+keywords:
+- governor 
 ---
 #### Doug Mastrianofor Pennsylvania governor
 Doug Mastriano is a combat veteran and the son of a career US Navy man.  He is an Eagle Scout and worked as a paperboy, janitor, security guard, short-order cook, pizza delivery person and dishwasher.  Doug was commissioned in the U.S. Army in 1986 and served on the Iron Curtain with the 2nd Armored Cavalry Regiment in West Germany. While serving along the East German and Czechoslovakian borders, he witnessed the end of the Cold War and thereafter deployed to Iraq for Operation Desert Storm (1991) to liberate Kuwait. His regiment led the attack against Saddam’s elite Republican Guard forces. Doug went on to serve in Washington, DC, the 3rd Infantry Division and US Army Europe.  After 9/11, Mastriano was the lead planner for the operation to invade Iraq via Turkey.  He served four years with NATO and deployed three times to Afghanistan.  Mastriano was the director of NATO’s Joint Intelligence Center in Afghanistan, leading 80 people from 18 nations.  On his own initiative, Doug led seven relief operations to help Afghan orphans.  He completed his career as a Professor of the U.S. Army War College (PAWC), Carlisle, PA, and taught Strategic Studies at the Master Degree level to the next generation of senior leaders.
