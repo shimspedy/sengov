@@ -7,7 +7,7 @@ subheader:
      description: Muriel Elizabeth Bowser is an American politician serving as the eighth mayor of the District of Columbia. A member of the Democratic Party, she previously represented Ward 4 as a member of the Council of the District of Columbia from 2007 to 2015.
 description: Contact Governor Muriel Bowser of District of Columbia. Contact information for Muriel Bowser includes his email address, phone number, and mailing address.
 author: contact governors
-image: muriel-bowser.jpg
+image: muriel-bowser.png
 video:
 url: washingtondc/muriel-bowser/
 weight: 1
