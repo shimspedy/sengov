@@ -1,5 +1,5 @@
 ---
-date: 2022-08-05T10:02:26-04:00
+date: 2022-08-05T10:06:26-04:00
 title: " Joe Lombardo  for governor 2022"
 seo_title: "nevada Governor Joe Lombardo "
 description: Joe Lombardo was born into a midwest working-class family. 
