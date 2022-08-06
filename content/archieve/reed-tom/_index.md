@@ -1,14 +1,14 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Reed Tom"
-seo_title: "contact Congress Reed Tom"
+seo_title: "contact Representative Reed Tom"
 subheader:
-     greeting: Contact Congress Reed Tom 
+     greeting: Contact Representative Reed Tom 
      description: Thomas W. Reed II is an American attorney and politician who serves as the U.S. Representative for New York's 23rd congressional district. A Republican, Reed first joined the U.S. House after winning a special election to replace Democrat Eric Massa in 2010.
-description: Contact Congress Reed Tom of New York. Contact information for Reed Tom includes email address, phone number, and mailing address.
+description: Contact Representative Reed Tom of New York. Contact information for Reed Tom includes email address, phone number, and mailing address.
 image: reed-tom.jpg
 video: 
-url: /new-york/reed-tom/
+url: /archive/reed-tom/
 weight: 1
 layout: course_home
 

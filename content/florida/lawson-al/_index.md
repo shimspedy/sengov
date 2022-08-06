@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Al Lawson, Jr. 
      description: Alfred James Lawson Jr., is an American politician who is the U.S. Representative for Florida's 5th congressional district, serving since 2017. The district stretches across most of the border with Georgia, including most of the majority-black areas between Tallahassee and Jacksonville. 
 description: Contact Representative Al Lawson, Jr. of Florida. Contact information for Al Lawson, Jr. includes email address, phone number, and mailing address.
-image: lawson-al.jpeg
+image: lawson-al.jpg
 video: 
 url: /florida/lawson-al/
 weight: 1

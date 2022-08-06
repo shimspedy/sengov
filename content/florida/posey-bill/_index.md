@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Bill Posey  
      description: William Joseph Posey is an American businessman and politician serving as the U.S. Representative for Florida's 8th congressional district, in Congress since 2009. He is a member of the Republican Party. He formerly served in the Florida Senate and the Florida House of Representatives.
 description: Contact Representative Bill Posey  of Florida. Contact information for Bill Posey  includes email address, phone number, and mailing address.
-image: posey-bill.jpeg
+image: posey-bill.jpg
 video: 
 url: /florida/posey-bill/
 weight: 1
