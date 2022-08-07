@@ -232,3 +232,23 @@ transition: opacity .3s ease;
    max-height: 60%;
 
 }
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5{
+     position: relative;
+     display: inline;
+}
+.post-content h1::after, .post-content h2::after, .post-content h3::after, .post-content h4::after, .post-content h5::after{
+     content: '';
+     position: absolute;
+     top: 12px;
+     right: -6px;
+     width: 100%;
+     height: 20px;
+     z-index: 0;
+}
+
+.post-content h1::after, .post-content h2::after, .post-content h3::after{
+     background: rgb(86 49 151 / 35%);
+}
+.post-content h4::after, .post-content h5::after{
+     background: rgb(169 0 122 / 26%);
+}
