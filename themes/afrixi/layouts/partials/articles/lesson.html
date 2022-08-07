@@ -187,17 +187,8 @@
               (adsbygoogle = window.adsbygoogle || []).push({});
          </script>
          </div>
-        
-       
-        
-
-               
-            {{ partial "nav/pagination.html" . }} 
-
-
-
-
-
+         <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
+          {{ partial "nav/pagination.html" . }} 
 
        </article>
 

@@ -33,6 +33,7 @@
       <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
         {{ partial "nav/table-of-contents" . }}
         {{.Content}}
+        <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div> 
       </div>
     </article>
   </div>
