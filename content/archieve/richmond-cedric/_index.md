@@ -24,7 +24,7 @@ emailaddress:	https://richmond.house.gov/contact-cedric
 website:	https://richmond.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRichmond
 powrid: 
 ---
