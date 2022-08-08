@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Alcee L. Hastings of Florida. Contact information for Alcee L. Hastings includes email address, phone number, and mailing address.
 image: hastings-alcee-l.jpeg
 video: 
-url: /florida/hastings-alcee-l/
+url: /archieve/hastings-alcee-l/
 weight: 1
 layout: course_home
 

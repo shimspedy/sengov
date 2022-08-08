@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Antonio Delgado of New York. Contact information for Antonio Delgado includes email address, phone number, and mailing address.
 image: delgado-antonio.jpg
 video: 
-url: /archive/delgado-antonio/
+url: /archieve/delgado-antonio/
 weight: 1
 layout: course_home
 

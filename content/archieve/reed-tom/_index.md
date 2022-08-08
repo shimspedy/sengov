@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Reed Tom of New York. Contact information for Reed Tom includes email address, phone number, and mailing address.
 image: reed-tom.jpg
 video: 
-url: /archive/reed-tom/
+url: /archieve/reed-tom/
 weight: 1
 layout: course_home
 

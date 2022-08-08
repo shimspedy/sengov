@@ -8,7 +8,7 @@ subheader:
 description: Contact Congressman Nunes Devin of California. Contact information for Nunes Devin includes email address, phone number, and mailing address.
 image: nunes-devin.jpeg
 video: 
-url: /california/nunes-devin/
+url: /archieve/nunes-devin/
 weight: 1
 layout: course_home
 

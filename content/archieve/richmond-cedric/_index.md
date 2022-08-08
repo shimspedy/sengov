@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Richmond Cedric of Louisiana. Contact information for Richmond Cedric includes email address, phone number, and mailing address.
 image: richmond-cedric.jpeg
 video: 
-url: /archive/richmond-cedric/
+url: /archieve/richmond-cedric/
 weight: 1
 layout: course_home
 
