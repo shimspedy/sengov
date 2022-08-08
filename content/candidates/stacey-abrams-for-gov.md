@@ -611,21 +611,30 @@ Too many Georgian families are experiencing homelessness because of high housing
 Create an overall plan to address homelessness 
 Prioritize veterans, disabled and formerly incarcerated individuals facing housing instability or homelessness.
 - Provide shelter, support and resources to prevent homelessness
-    -Provide more shelter beds for individuals experiencing domestic violence.
-    - Support rapid re-housing programs that provide short-term grants to help families move from homelessness into permanent housing.
-    - Foster legal aid programs to help families respond to threats of eviction and foreclosure.
-    - Support homeless, mentally ill, and disabled Georgians by increasing funding for the State Housing Trust Fund for the Homeless and the Georgia Housing Voucher Program.
-    - Divert people experiencing homelessness from going to jail by championing law enforcement programs that send them to other services. An example of this is the Atlanta Policing Alternatives & Diversion Initiative
-    - Create a permanent Emergency Rental Assistance fund to protect households suffering unexpected financial hardship.
-    - Aid local governments in the development and operation of supportive housing facilities.
-    - Create a state Earned Income Tax Credit (EITC) to help low-income, working Georgians and enable more families to afford housing.
-    
-- Distribute unspent federal and state money for emergency rental assistance 
-    elerate the distribution of more than $450 million of unspent federal emergency rental assistance. 
+
+-Provide more shelter beds for individuals experiencing domestic violence.
+
+- Support rapid re-housing programs that provide short-term grants to help families move from homelessness into permanent housing.
+
+- Foster legal aid programs to help families respond to threats of eviction and foreclosure.
+
+- Support homeless, mentally ill, and disabled Georgians by increasing funding for the State Housing Trust Fund for the Homeless and the Georgia Housing Voucher Program.
+
+- Divert people experiencing homelessness from going to jail by championing law enforcement programs that send them to other services. An example of this is the Atlanta Policing Alternatives & Diversion Initiative
+
+- Create a permanent Emergency Rental Assistance fund to protect households suffering unexpected financial hardship.
+
+- Aid local governments in the development and operation of supportive housing facilities.
+
+- Create a state Earned Income Tax Credit (EITC) to help low-income, working Georgians and enable more families to afford housing.
+
+- Distribute unspent federal and state money for emergency rental assistance elerate the distribution of more than $450 million of unspent federal emergency rental assistance. 
 - Protect Georgians from eviction and foreclosures:
     - Protect tenants from summary eviction by requiring a notice period during which tenants can cure any violations and a reasonable cause requirement for eviction.
+
 - Establish a judicial foreclosure process in Georgia.
-    - Reduce the rate of foreclosures and make Georgia a less attractive target for unscrupulous sellers of high-cost subprime mortgages.
+
+- Reduce the rate of foreclosures and make Georgia a less attractive target for unscrupulous sellers of high-cost subprime mortgages.
 
 #### Ethics and Public Integrity
 Our Ethics and Public Integrity Platform has one core message: I promise to serve you as the next governor of Georgia. My job will be to earn and keep your trust through an ethical, open, transparent, and secure state government focused on the public interest—not special interests and not my interests. As governor, I will be committed to expanding on my proven track record to build a state where every Georgian can trust that the office of the governor is serving on their behalf.
