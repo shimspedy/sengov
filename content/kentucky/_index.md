@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Kentucky "
 ab: "KY"
-seo_title: "Contact Kentucky Senators"
+seo_title: "Contact Kentucky  Governors And Senators"
 description: Contact Kentucky Senators
 author: john shim
 url: /kentucky/

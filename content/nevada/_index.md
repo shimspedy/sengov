@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Nevada"
 ab: "NV"
-seo_title: "Contact Nevada Senators"
+seo_title: "Contact Nevada  Governors And Senators"
 description: Contact Nevada Senators
 author: john shim
 url: /nevada/

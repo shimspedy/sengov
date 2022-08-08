@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "New Hampshire"
 ab: "NH"
-seo_title: "Contact New Hampshire Senators"
+seo_title: "Contact New Hampshire  Governors And Senators"
 description: Contact New Hampshire Senators
 author: john shim
 url: /new-hampshire/

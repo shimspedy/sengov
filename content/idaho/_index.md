@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Idaho"
 ab: "ID"
-seo_title: "Contact Idaho Senators"
+seo_title: "Contact Idaho  Governors And Senators"
 description: Contact Idaho Senators
 author: john shim
 url: /idaho/

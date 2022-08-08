@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "California"
 ab: "CA"
-seo_title: "Contact California Senators"
+seo_title: "Contact California  Governors And Senators"
 description: Contact California Senators
 author: cs
 url: /california/

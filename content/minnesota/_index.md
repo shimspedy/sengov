@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Minnesota"
 ab: "MN"
-seo_title: "Contact Minnesota Senators"
+seo_title: "Contact Minnesota  Governors And Senators"
 description: Contact Minnesota Senators
 author: john shim
 url: /minnesota/

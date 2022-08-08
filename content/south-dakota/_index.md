@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "South Dakota"
 ab: "SD"
-seo_title: "Contact South Dakota Senators"
+seo_title: "Contact South Dakota  Governors And Senators"
 description: Contact South Dakota Senators
 author: john shim
 url: /south-dakota/

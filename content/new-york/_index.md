@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "New York"
 ab: "NY"
-seo_title: "Contact New York Senators"
+seo_title: "Contact New York  Governors And Senators"
 description: Contact New York Senators
 author: john shim
 url: /new-york/

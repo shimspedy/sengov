@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Indiana"
 ab: "IN"
-seo_title: "Contact Indiana Senators"
+seo_title: "Contact Indiana  Governors And Senators"
 description: Indiana became the 19th state to join the Union on December 11, 1816.
 author: john shim
 url: /indiana/

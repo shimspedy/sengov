@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Massachusetts"
 ab: "MA"
-seo_title: "Contact Massachusetts Senators"
+seo_title: "Contact Massachusetts  Governors And Senators"
 description: Contact Massachusetts Senators
 author: john shim
 url: /massachusetts/

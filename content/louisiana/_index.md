@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Louisiana"
 ab: "LA"
-seo_title: "Contact Louisiana Senators"
+seo_title: "Contact Louisiana  Governors And Senators"
 description: Contact Louisiana Senators
 author: john shim
 url: /louisiana/

@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Vermont"
 ab: "VT"
-seo_title: "Contact Vermont Senators"
+seo_title: "Contact Vermont  Governors And Senators"
 description: Contact Vermont Senators
 author: john shim
 url: /vermont/

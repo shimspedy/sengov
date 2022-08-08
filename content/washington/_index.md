@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Washington"
 ab: "WA"
-seo_title: "Contact Washington Senators"
+seo_title: "Contact Washington  Governors And Senators"
 description: Contact Washington Senators
 author: john shim
 url: /washington/

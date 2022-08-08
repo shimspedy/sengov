@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Illinois"
 ab: "IL"
-seo_title: "Contact Illinois Senators"
+seo_title: "Contact Illinois  Governors And Senators"
 description: Contact Illinois Senators
 author: john shim
 url: /illinois/

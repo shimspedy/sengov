@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Kansas"
 ab: "KS"
-seo_title: "Contact Kansas Senators"
+seo_title: "Contact Kansas  Governors And Senators"
 description: Contact Kansas Senators
 author: john shim
 url: /kansas/

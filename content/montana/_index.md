@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Montana"
 ab: "MO"
-seo_title: "Contact Montana Senators"
+seo_title: "Contact Montana  Governors And Senators"
 description: Contact Montana Senators
 author: john shim
 url: /montana/

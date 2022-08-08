@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Hawaii"
 ab: "HI"
-seo_title: "Contact Hawaii Senators"
+seo_title: "Contact Hawaii  Governors And Senators"
 description: Contact Hawaii Senators
 author: john shim
 url: /hawaii/

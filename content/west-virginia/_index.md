@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "West Virginia"
 ab: "WV"
-seo_title: "Contact West Virginia Senators"
+seo_title: "Contact West Virginia  Governors And Senators"
 description: Contact West Virginia Senators
 author: john shim
 url: /west-virginia/

@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Maryland"
 ab: "MD"
-seo_title: "Contact Maryland Senators"
+seo_title: "Contact Maryland  Governors And Senators"
 description: Contact Maryland Senators
 author: john shim
 url: /maryland/

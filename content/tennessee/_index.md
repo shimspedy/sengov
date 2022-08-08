@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Tennessee"
 ab: "TN"
-seo_title: "Contact Tennessee Senators"
+seo_title: "Contact Tennessee  Governors And Senators"
 description: Contact Tennessee Senators
 author: john shim
 url: /tennessee/

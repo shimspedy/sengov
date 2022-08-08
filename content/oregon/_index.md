@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Oregon"
 ab: "OR"
-seo_title: "Contact Oregon Senators"
+seo_title: "Contact Oregon  Governors And Senators"
 description: Contact Oregon Senators
 author: john shim
 url: /oregon/

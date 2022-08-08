@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Arkansas"
 ab: "AR"
-seo_title: "Contact Arkansas Senators"
+seo_title: "Contact Arkansas  Governors And Senators"
 description: Contact Arkansas Senators
 author: cs
 url: /arkansas/

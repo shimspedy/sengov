@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Pennsylvania"
 ab: "PA"
-seo_title: "Contact Pennsylvania Senators"
+seo_title: "Contact Pennsylvania  Governors And Senators"
 description: Contact Pennsylvania Senators
 author: john shim
 url: /pennsylvania/

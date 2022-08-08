@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Wyoming"
 ab: "WY"
-seo_title: "Contact Wyoming Senators"
+seo_title: "Contact Wyoming  Governors And Senators"
 description: Contact Wyoming Senators
 author: john shim
 url: /wyoming/

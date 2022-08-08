@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Ohio"
 ab: "OH"
-seo_title: "Contact Ohio Senators"
+seo_title: "Contact Ohio  Governors And Senators"
 description: Ohio became the 17th state to join the Union on February 19, 1803.
 author: john shim
 url: /ohio/

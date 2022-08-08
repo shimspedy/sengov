@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Delaware "
 ab: "DE"
-seo_title: "Contact Delaware Senators"
+seo_title: "Contact Delaware  Governors And Senators"
 description: Contact Delaware  Senators
 author: cs
 url: /delaware /

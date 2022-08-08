@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Michigan"
 ab: "MI"
-seo_title: "Contact Michigan Senators"
+seo_title: "Contact Michigan  Governors And Senators"
 description: Contact Michigan Senators
 author: john shim
 url: /michigan/

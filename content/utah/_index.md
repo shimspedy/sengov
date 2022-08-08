@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Utah"
 ab: "UT"
-seo_title: "Contact Utah Senators"
+seo_title: "Contact Utah  Governors And Senators"
 description: Contact Utah Senators
 author: john shim
 url: /utah/

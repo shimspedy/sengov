@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Mississippi"
 ab: "MS"
-seo_title: "Contact Mississippi Senators"
+seo_title: "Contact Mississippi  Governors And Senators"
 description: Contact Mississippi Senators
 author: john shim
 url: /mississippi/
