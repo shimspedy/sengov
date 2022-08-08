@@ -74,8 +74,8 @@ The average American’s share of the national debt is around $57,000 and growin
 
  It is critical for Congress to lead the way toward a balanced budget, and I am committed to supporting policies that control federal spending and restore budget integrity.
 
- #### Tax Reform
- I believe that America’s tax system should promote family saving and investment and encourage economic growth through simplicity and fairness. Instead, the current system is laden with inherent disincentives against working and investing.
+#### Tax Reform
+I believe that America’s tax system should promote family saving and investment and encourage economic growth through simplicity and fairness. Instead, the current system is laden with inherent disincentives against working and investing.
 
 The tax code is also unnecessarily complex. In fact, studies have shown that Americans annually spend billions of dollars and hours to comply with it. In short, the current tax system stifles opportunity for American families and businesses. Simplifying the tax code would stimulate job growth and help improve the economy
 
