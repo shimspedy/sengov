@@ -41,7 +41,7 @@ ol ul {
      margin-left: 15px;
 }
 
-.post-content li::marker {
+article li::marker, .post-content li::marker {
      margin: 0 0.5rem 0 0;
      color: #ff7a18;
 }
