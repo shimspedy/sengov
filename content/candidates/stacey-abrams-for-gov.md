@@ -619,8 +619,9 @@ Prioritize veterans, disabled and formerly incarcerated individuals facing housi
     - Create a permanent Emergency Rental Assistance fund to protect households suffering unexpected financial hardship.
     - Aid local governments in the development and operation of supportive housing facilities.
     - Create a state Earned Income Tax Credit (EITC) to help low-income, working Georgians and enable more families to afford housing.
+    
 - Distribute unspent federal and state money for emergency rental assistance 
-    - Accelerate the distribution of more than $450 million of unspent federal emergency rental assistance. 
+    elerate the distribution of more than $450 million of unspent federal emergency rental assistance. 
 - Protect Georgians from eviction and foreclosures:
     - Protect tenants from summary eviction by requiring a notice period during which tenants can cure any violations and a reasonable cause requirement for eviction.
 - Establish a judicial foreclosure process in Georgia.
