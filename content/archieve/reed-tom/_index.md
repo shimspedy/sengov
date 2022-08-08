@@ -24,7 +24,7 @@ emailaddress:	https://reed.house.gov/contact/
 website:	https://reed.house.gov/
 committeeassignment: 
 role: congress
-inoffice: former
+inoffice: current
 twitter: RepTomReed
 powrid: 
 ---

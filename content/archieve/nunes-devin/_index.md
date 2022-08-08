@@ -24,7 +24,7 @@ emailaddress:	https://nunes.house.gov/contact/
 website:	https://nunes.house.gov/
 committeeassignment: Intelligence, Joint Committee on Taxation, Ways and Means
 role: congress
-inoffice: former
+inoffice: current
 twitter: RepDevinNunes
 powrid: 
 ---

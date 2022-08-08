@@ -24,7 +24,7 @@ emailaddress:	https://cawthorn.house.gov/address_authentication?form=/contact
 website:	https://cawthorn.house.gov/
 committeeassignment: 
 role: congress
-inoffice: former
+inoffice: current
 twitter: CawthornforNC
 powrid: 
 ---

@@ -20,7 +20,7 @@ district: 2nd
 party:	Republican
 committeeassignment: Appropriations Judiciary
 role: congress
-inoffice: former
+inoffice: current
 powrid: 
 ---
 

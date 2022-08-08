@@ -24,7 +24,7 @@ emailaddress:	https://alceehastings.house.gov/contact/
 website:	https://alceehastings.house.gov/
 committeeassignment: 
 role: congress
-inoffice: former
+inoffice: current
 twitter: RepHastingsFL
 powrid: 
 ---

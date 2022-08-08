@@ -24,7 +24,7 @@ emailaddress:	https://delgado.house.gov/contact
 website:	https://delgado.house.gov/
 committeeassignment: 
 role: congress
-inoffice: former
+inoffice: current
 twitter: repdelgado
 powrid: 
 ---

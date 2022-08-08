@@ -20,7 +20,7 @@ district: 1st
 party:	Republican
 committeeassignment: Armed Services Education and Labor
 role: congress
-inoffice: former
+inoffice: current
 powrid: 
 ---
 
