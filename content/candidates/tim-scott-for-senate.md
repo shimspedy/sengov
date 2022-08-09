@@ -74,3 +74,16 @@ Following the murder of George Floyd in May 2020, I led the charge to build a co
 - It also creates two commissions to study and offer solutions to a broader range of challenges facing black men and boys, and the criminal justice system as a whole
 
 While Senate Democrats have so far blocked any effort to pass reforms in the Senate, I will continue fighting.
+
+#### PROTECT LIFE
+Life has intrinsic value and we are endowed by our creator the inalienable right to life.
+Tim Scott knows that a society is judged by how it treats its weakest members, that is why it’s time to be a champion for the most defenseless person in the world: the unborn child. Tim believes that life begins at conception and he supports legislation that limits late-term abortions. He also believes that taxpayers should not be required to pay for abortions.
+
+#### SECOND AMENDMENT
+Tim Scott is devoted to defending the right of law-abiding Americans to bear arms to defend themselves, their families, and their property.
+Tim believes the Second Amendment is fundamental to ensuring freedom and democracy and it should not be infringed upon.
+
+#### PROTECTING AMERICAN WORKERS
+Tim Scott believes in the dignity of all work.
+
+Raising the minimum wage to $15 in the midst of a pandemic would crush small businesses to include restaurants that are already struggling to survive. This out-of-touch mandate could cost as many as 3.7 million hardworking Americans their jobs. Tim co-sponsored an amendment to protect these small businesses during the pandemic, however, the fight is not over. As America emerges from the pandemic, ideas that stifle growth will resurface. Tim Scott believes we should build on proposals that drive innovation, empower workers, and grow our economy.
