@@ -2,7 +2,7 @@
 date: 2022-08-08T10:02:29-04:00
 title: " Tim Scott  for senator 2022"
 seo_title: "South Carolina senator Tim Scott "
-description: Tim Scott was born into a midwest working-class family. 
+description: Tim grew up in poverty in a single-parent household in North Charleston.
 author: Csen
 image: tim-scott.jpeg
 video:
