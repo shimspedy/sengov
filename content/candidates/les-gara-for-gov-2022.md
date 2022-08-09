@@ -13,19 +13,19 @@ keywords:
 - governor 
 ---
 
-#### les gara  for governor 
+## les gara  for governor 
 Like many Alaskans, Les grew up without wealth or privilege. When he was six, a robber broke into his father’s office. He was working late and the robber killed him. Les grew up in foster homes, where he lived for twelve years until he graduated high school. While Les worked from grade school through law school, he had good public schools and the opportunity to succeed. That’s what everyone deserves: an equal right to opportunity, liberty and justice.
 
 Les has received national awards for his work supporting Alaska’s foster youth (2018 Adoption Excellence Award and 2017 Casey Excellence for Children Award) so they, too, have a much-deserved chance to prosper and succeed.
 
-#### Opportunity For All
+## Opportunity For All
 Les and his wife Kelly have had many opportunities in their 33 years in Fairbanks (1988-1989) and Anchorage. Les was fortunate to find good work, including as an Assistant Attorney General on Alaska’s civil prosecution of Exxon after the disastrous Exxon Valdez Oil Spill. Kelly has made her way as a much-loved hospital physical therapist. They came to an Alaska with great opportunity. But today, for many Alaskans, opportunities are disappearing.
 
 Governor Dunleavy has made life in Alaska, and the chance to succeed, harder for people in both large and small communities. He’s violated Alaska law by not distributing millions of dollars owed to local communities, forcing many of them to raise local property taxes to pay for state obligations. His cuts have damaged a university that’s been forced to eliminate vocational education (job training certificates) and higher education courses. His attack on the University of Alaska has taken money out of the economy, money that doesn’t get spent at small businesses. It’s damaged the ability to train Alaska workers needed by Alaska businesses. It’s damaged the opportunity to succeed.
 
 Les has worked and voted to support schools, Alaska’s university system, and job training, and helped strengthen the state’s financial aid plan so more students and employees can get needed scholarships.
 
-#### Jobs and Opportunity Matter
+## Jobs and Opportunity Matter
 Alaskans deserve a governor who’ll end Alaska’s recession and work to create good-paying jobs. Governor Dunleavy has killed more than 4,000 jobs just by ducking our fiscal crisis, emptying the state’s savings accounts, and demanding a decimated construction budget.
 
 Today Alaska has an austerity construction budget. That’s eliminated both jobs and our ability to maintain and build ports, roads, renewable energy projects, needed rural police and teacher housing, and more. State support for construction and maintenance has been slashed by roughly 65% from the pre-austerity 2006-2015 average.
@@ -39,7 +39,7 @@ Less money in Alaska’s economy, fewer workers to spend money at local business
 
  
 
-##### Better Schools & Universal Pre-K: More success, higher graduation rates
+### Better Schools & Universal Pre-K: More success, higher graduation rates
 As a legislator, Les Gara filed and sponsored legislation to lower class sizes. Students deserve individual attention to help them succeed, not overcrowded classrooms. To end the annual fight over education, Les has always proposed keeping school funding consistent with the cost of inflation. Students deserve good teachers, not battles over how many teachers they’ll lose the next year.
 
 Gara’s main opponents in this race have records cutting public education funds. In 2018 Dunleavy proposed the biggest education cuts in state history – over a quarter billion dollars. His budget attempt would have eliminated over 2,600 teacher and educator jobs, and devastated both student opportunity and the economy. In 2015 & 2016 former Governor Walker cut education funding by over $80 million, and vetoed University funding. Those were cuts Les opposed and tried to stop. 
@@ -71,7 +71,7 @@ Les Gara and Jessica Cook believe Alaska’s leadership should act to improve st
 
 Families are leaving Alaska, in part because they see no commitment to public education. Les Gara  and Jessica will help make Alaska a place in which people want to live, not leave.
 
-##### Protect Fish Runs, Not Wealthy Pebble Mine Executives
+### Protect Fish Runs, Not Wealthy Pebble Mine Executives
 Les Gara promises as governor to drop the current Governor Mike Dunleavy’s lawsuit filed on behalf of the Canadian Pebble Mine owners. As an avid fisherman who’s travelled throughout Rural and Urban Alaska, from the North Slope to Southeast Alaska, Les knows Alaska needs to protect its commercial, sport and subsistence fishing and hunting, as well as access to those resources.
 
 Fishing binds together Alaskans of all backgrounds. Governor Dunleavy has chosen to side with the Pebble Mine owners, a threat to Bristol Bay’s pristine wild salmon and trout waters.
@@ -85,10 +85,10 @@ Strong research matters, and listening to people matters, especially in communit
 It was wrong to see an emergency on the Yukon and Kuskokwim and other rivers, and take a seat behind businesses that are fortunately donating fish.  And then put false labels on the fish boxes saying they were donated by the state. That’s campaign work, not leadership. The state’s original offer of help on this effort was a paltry $75,000, or half the salary of just one of the Governor’s political appointees.
 
 
-##### Support Alaska’s Tourism Economy
+### Support Alaska’s Tourism Economy
 In 2021, Governor Dunleavy, at a time businesses could afford it least, defunded needed tourism marketing dollars. Les Gara co-sponsored legislation to help Alaska’s tourism and hospitality businesses create a vibrant tourism ad campaign. Visitors to Alaska bring $2.2 billion to the state each year, and create both seasonal and permanent jobs for residents. Les and Jessica support the development and maintenance of a vibrant, sustainable tourism and hospitality industry.
 
-##### A Woman’s Right To Choose: Government Should Never Interfere With A Woman’s Private Health Decisions
+### A Woman’s Right To Choose: Government Should Never Interfere With A Woman’s Private Health Decisions
 Les is pro-choice, and is also the only pro-choice candidate for governor. He and Jessica are the only pro-choice ticket. Now that radical Justices on the United States Supreme Court have taken away 50 years of pro-choice and reproductive health rights, states like Alaska will be the last line of defense. Les and Jessica will defend that line for you.
 
 It’s why Les and Jessica have received the pro-choice endorsements in this race, including from Planned Parenthood Alliance Advocates (PP’s endorsing arm), which noted all the other Governor’s candidate’s poor, and in most cases extremist records on choice.
@@ -118,7 +118,7 @@ Mike Dunleavy irresponsibly spent Alaska’s savings for nearly a decade, both a
 
 Les Gara and Jessica Cook will not ignore Alaska’s budget crisis. 
 
-##### A Living Minimum Wage For Alaska Workers, Dignity For Alaska Elders
+### A Living Minimum Wage For Alaska Workers, Dignity For Alaska Elders
 Les Gara and Jessica Cook believe in a living wage for Alaskans who work hard to pay rent and raise their children. Les co-sponsored legislation to require a $15/hour minimum wage as a legislator, and will work for a living wage of at least $15/hour as Governor. We can phase in a living wage while businesses recover from the pandemic. Workers deserve better than a a poverty wage of $10.34 an hour. 
 
 Gara has stood up for Alaska’s seniors, many of whom contributed their whole lives to this state. He represented Pioneer Home residents and stood with them, and helped start Alaska’s monthly Senior Benefits payments that seniors on a budget need for rent and food. Gara voted against ending the senior Longevity Bonus when it was eliminated under Governor Murkowski.
@@ -127,7 +127,7 @@ This Governor didn’t honor our elders. In his first year he eliminated Senior 
 
 We deserve a Governor who understands that workers and elders deserve better than struggle and hardship. 
 
-##### Giving Away Billions of Dollars in Oil Company Corporate Welfare Is Wrong
+### Giving Away Billions of Dollars in Oil Company Corporate Welfare Is Wrong
 Giving away money that belongs to Alaskans, for Alaska’s oil, is welfare for the wealthy, and it’s wrong.
 
 A critical element of any sustainable fiscal plan should be an end to unnecessary oil company tax credits, which corporations get even if they reduce their investments here and spend their billions in annual Alaska oil profits outside Alaska.
@@ -136,12 +136,12 @@ Whether it’s good schools, a funded PFD, construction jobs, or a university sy
 
  
 
-##### Les Has Acted On Climate Change
+### Les Has Acted On Climate Change
 In 2010, Les Gara wrote and passed amendments (with Haines Republican Bill Thomas as co-sponsor) to save money and battle climate change. Today, all state, university and school buildings must be built to cost-effective energy efficiency standards. That saves money, and reduces the emission of greenhouse gases.
 
 Les and Jessica will continue to advocate for legislation that recognizes the ongoing climate crisis and acts to reduce the effects of climate change in Alaska.
 
-##### Les Gara Will Bridge the Rural/Urban Divide
+### Les Gara Will Bridge the Rural/Urban Divide
 The late Representative Mike Kelly once called Les Gara the “rural representative from Anchorage.” Les will never pit community against community, or urban residents against rural residents. Alaskans should prosper together.
 
 As a legislator Les represented the entire state, siding with efforts to bring 21st century sanitation and water treatment to rural Alaska, and worked hard to expand police coverage in nearly 100 communities that currently have none.
@@ -150,12 +150,12 @@ Les Gara and Jessica Cook support the Alaska Marine Highway System, and its vita
 
 Additionally, Les Gara never once threatened rural Power Cost Equalization payments, unlike Governor Dunleavy, who tried to spend the $1 billion PCE fund in 2019, and again in 2021 with executive action Alaska’s courts ultimately ruled was illegal.
 
-##### Rural Jobs, Education and Public Safety
+### Rural Jobs, Education and Public Safety
 Alaska must do more to provide law enforcement in small communities, where victims sometimes wait days for physical protection from an assailant. Educators, first responders, law enforcement, utility workers,  and other professionals in contact with the public are needed in their respective regions and should be provided training. Collaborative effort builds stronger communities.
 
 The solution to our budget crisis and recession isn’t taking from one part of the state to benefit another. It’s working together so all Alaskans can live with dignity and respect.
  
-##### Equal Rights For All Alaskans
+### Equal Rights For All Alaskans
 All Alaskans deserve equal rights. Les Gara and Jessica Cook are proud to stand with Alaskans to end discrimination in housing and employment, believing all have the right to live as equal citizens.
 
 Gara and Cook’s opponents still prescribe to the outdated view that marriage should only be between a man and a woman. While Les respects former Governor Walker, he disagrees with his unsupportive views on equal rights, and strongly objected when he allowed the then-attorney general to sue against the right of same-sex couples to get married in Alaska.
@@ -163,7 +163,7 @@ Gara and Cook’s opponents still prescribe to the outdated view that marriage s
 Les Gara  and Jessica Cook will demand equality regardless of race, color or religion, and regardless of who one loves. Les has sponsored legislation supporting equal LGBTQ rights, and will always stand with Alaskans for equal treatment under the law. “Liberty and justice for all” isn’t merely a phrase to recite. It’s a call to action.
 
  
-##### A Strong PFD to Bank On – Not False, Unfunded Permanent Fund Dividend Promises
+### A Strong PFD to Bank On – Not False, Unfunded Permanent Fund Dividend Promises
 This governor has changed his promises from a “statutory PFD” promised during the campaign down to a 50%, non-statutory PFD plan, which paid $1,500 less in 2021 than the “statutory PFD” he promised Alaskans.
 
 Les Gara tried to override Governor Walker’s PFD veto in 2016. As a state senator, Governor Dunleavy voted to support that veto. When asked to vote for a the Joint House and Senate session the Alaska Constitution requires to override a veto, he voted “No” along party lines, blocked the override vote, and left the PFD veto in place.
@@ -182,7 +182,7 @@ Les Gara and Jessica Cook believe it is wrong to give away Alaska’s oil wealth
 
  
 
-##### The Governor Should Lead To End COVID In Alaska, Not Disappear.
+### The Governor Should Lead To End COVID In Alaska, Not Disappear.
 People deserve help getting their lives back to normal. Businesses need help so they can thrive again. Les is a proud husband of Kelly, a frontline hospital employee who treats too many COVID patients. Unlike Alaska’s current governor, Les and Jessica believe in accurate, timely COVID-19 information and education to protect people, and to help us protect others. 
 
 Les believes a Governor should do the hard work to get people true, accurate information about what medical experts say will prevent infections and keep people safe. 
@@ -201,7 +201,7 @@ A responsible Governor would have spent 2021-22 travelling the state, bringing e
 
 A successful battle to get life and business back to normal requires work, not politics.
 
-#### About Jessica Cook
+## About Jessica Cook
 Jessica is running because she believes in an Alaska where all students receive a quality education. An Alaska where graduates of our public schools are prepared for postsecondary or vocation-technology education and have the opportunity to use the skills and knowledge in a workforce that shows respect in the form of a living wage. An Alaska looking ahead with hope toward the future, rather than continuing business as usual, while expecting better results.
 
 A lifelong Alaskan, Jessica was born at Elmendorf Air Force Base (now part of Joint Base Elmendorf-Richardson). After her mother was killed when she was 3, Jessica was adopted into a tight-knit family in Eagle River. In fact, 5 generations of her family continue to live around our great state! Jessica learned about service to others watching her family serve Alaska in military service, both active duty and Air National Guard, law enforcement, volunteer fire service, and, of course, education. Growing up with influences from military and public service taught Jessica the importance of service to others in addition to the value of integrity and a strong work ethic.

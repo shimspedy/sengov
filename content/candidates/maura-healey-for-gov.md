@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Maura Healey for governor 
+## Maura Healey for governor 
 Maura Healey has spent her career standing up for the people of Massachusetts and pursuing justice and equality. She’s running for Governor to bring people together and expand economic opportunities for everyone in Massachusetts.
 
 Maura has deep roots in Massachusetts. Her parents both grew up in Newburyport. Her maternal grandparents met in Gloucester, where her grandfather worked on the fishing docks and her grandmother, whose ancestors settled on the Parker River in Newbury in 1636, went to nursing school. Her paternal grandparents came from Ireland and worked as a domestic worker and a janitor.
@@ -33,42 +33,42 @@ She launched her campaign for Governor to lift up Massachusetts families and inv
 
 You can still find Maura playing hoops at her local park or hanging out with her nieces and nephew. She lives in Boston.
 
-#### Maura’s Priorities
+## Maura’s Priorities
 Maura is running a campaign centered on the people of Massachusetts. Her vision is shaped by what she hears from voters on the campaign trail every day, as well as her experience as a civil rights lawyer and Attorney General. The pages that follow outline the approach she will take as Governor on some of the most pressing issues facing Massachusetts residents, providing a window into her record, her perspective, and her action plan. This platform will continue to be updated throughout the campaign.
 
-#### Child Tax Credit
+## Child Tax Credit
 Maura believes the best way to help families dealing with high costs right now is by making meaningful investments while also putting money back in people’s pockets.
 
 Too many families are struggling to keep up with the cost of living. With housing, gas, and child care costs skyrocketing, we need to give families relief. Maura believes the best way to help families dealing with high costs right now is by making meaningful investments while also putting money back in people’s pockets.
 
-##### That’s why Maura supports tax relief for families. Under Maura’s Child Tax Credit, more than 700,000 families would receive $600 per child.
+### That’s why Maura supports tax relief for families. Under Maura’s Child Tax Credit, more than 700,000 families would receive $600 per child.
 
 Her Child Tax Credit would have numerous benefits. As inflation and the cost of living continues to burden Massachusetts residents, this proposal would put more money back in their pockets. Large families would no longer be excluded from additional assistance. Further, the fully-refundable tax credit would help address the economic crisis stemming from our under-invested child care system, and families who don’t use professional child care would also see an added impact. This will be especially impactful for Black and Latino families, which are more likely to rely on informal child care. Overall, this proposal also would streamline and simplify the tax filing process for Massachusetts families.
 
-##### Here’s how it works.
+### Here’s how it works.
 
 Currently, the Household Dependent Tax Credit is for all families with dependents, but it is capped at two dependents with a $180 benefit per dependent, for a maximum benefit of $360. The Dependent Care Tax Credit is for child care-related expenses, but it is also capped at two dependents with a $240 benefit per dependent, with a maximum benefit of $480. Under current law, a tax filer may choose either tax credit but cannot choose both. A family with two dependents who previously received the Dependent Care Tax Credit would get a maximum of $480 – under Healey’s plan, that family would receive $1200 in tax relief.
 
 Maura’s Child Tax Credit would combine these two credits. She would more than double the value of the existing tax credits being offered and remove the dependent cap currently set at two dependents. Her plan would also index the credit to inflation moving forward. This would allow tax filers to simply include the number of dependents (children under age 13, individuals age 65 and over, and persons with disabilities) on their returns in order to receive the credits. This tax credit would also be permanent, giving families stability for years to come.
 
-#### Climate
+## Climate
 Maura has the experience, vision, and know-how to lead Massachusetts through the clean energy transition and to deliver on the promise of the opportunities presented. This is our chance to create good-paying jobs, protect our communities, and address environmental injustices that have existed for far too long.
 
 The climate crisis is our greatest risk and our greatest opportunity. Our choice is clear: to protect our families, communities, and the environment that sustains us, we must rapidly transition to clean energy. As Governor, Maura will make climate change a top priority. She understands the critical urgency of this issue and she knows what is at stake—especially for the Commonwealth’s most vulnerable communities. The actions we must take now to protect our families and communities from climate change also present a once in a lifetime opportunity to build a healthier, more equitable future and to position Massachusetts as a global leader in clean energy technology and innovation. She will make that vision a reality by innovating state government, working directly with communities, implementing science-based policy, partnering with clean technology businesses, and supporting clean energy research and development. 
 
 Maura is a nationally recognized leader on climate and has led successful efforts to boost clean energy, protect ratepayers from costly and unnecessary investments in fossil fuel infrastructure, fight for health protective federal action on climate and push for market reforms that level the playing field for clean energy. She has the experience, vision, and know-how to lead Massachusetts through the clean energy transition and to deliver on the promise of the opportunities presented. This is our chance to build a better future for all—let’s seize it! 
 
-#### MAURA’S RECORD
+## MAURA’S RECORD
 
 Maura knows how to get this done. As Attorney General, she led groundbreaking efforts to combat the climate crisis. In 2019, Maura sued ExxonMobil in a first-of-its-kind lawsuit that alleged the company lied to consumers and investors about the risks of climate change. Maura understands that climate change harms our most vulnerable communities first and worst—she was among the first leaders nationally to draw attention to the unequal effects of COVID-19 on low income communities and communities of color due to environmental factors. She launched several initiatives to support environmental justice communities, including taking on polluters across the state, instituting a program to combat idling vehicles, and installing air monitors in Springfield, which has one of the highest rates of asthma in the country. Maura secured nearly $100 million in mitigation funds from Volkswagen for clean transportation and electric vehicle infrastructure. Her team also led the multi-state effort to block the Trump environmental rollbacks in court and called on the Massachusetts Department of Public Utilities to investigate the future of natural gas utilities. Her settlement with Columbia Gas is sending millions of dollars back to low-income communities for climate resiliency and utility relief. As the ratepayer advocate, she worked to keep utility bills low, saving consumers $4.5 billion. Maura will make sure that equity is at the core of all state actions to reduce the threat of climate change and make our communities more resilient. 
 
 Last year, Massachusetts enacted An Act Creating a Next-Generation Roadmap for Massachusetts Climate Policy (the 2021 Climate Act). The 2021 Climate Act requires that, over the next eight years, we reduce greenhouse gas emissions by 50 percent below 1990 levels. Massachusetts’ greenhouse gas emission reduction mandates are on track with the most recent recommendations of the Intergovernmental Panel on Climate Change. The next Governor needs to be laser-focused on meeting this requirement, creating good-paying and sustainable jobs, and bringing direct economic benefits to the people most deeply impacted by the climate crisis. Maura has the strongest, proven record on climate change of any gubernatorial candidate in Massachusetts history. She is the right leader at the right time to guide Massachusetts to a clean energy future.
 
-#### GOVERNMENT MUST ACT NOW ON CLIMATE
+## GOVERNMENT MUST ACT NOW ON CLIMATE
 
 Climate change is not just an environmental issue—it is an issue of public health, economics, food security, national security, and housing. Our response to climate change must be as multifaceted as the problem itself. Now is the time to innovate in state government and work hand-in-hand with our local and regional partners. 
 
-##### The Healey Plan
+### The Healey Plan
 
 Massachusetts must take swift, decisive, and comprehensive action to mitigate the risks posed by the climate crisis. In order to do this, government must be nimble and action must be coordinated across agencies. Maura will create a cabinet-level Climate Chief who will be responsible for driving climate policy across every Massachusetts agency and ensuring that climate change is considered in all relevant decision-making. The Climate Chief will report directly to the Governor, and coordinate efforts between the Executive Offices of Energy and Environmental Affairs (EEA), Labor and Workforce Development, Housing and Economic Development, the Department of Transportation, Health and Human Services, Public Safety and Security, MBTA, MassDevelopment, and more. Maura will also establish a network of state, regional, and local partnerships to ensure every community in all parts of the Commonwealth has a say in the energy decisions that affect them and receives necessary support to build climate resilience in ways that address community priorities. 
 
@@ -76,11 +76,11 @@ The state will lead by example by achieving net-zero emissions by 2030 across st
 
 Under Maura’s leadership, environmental and energy permitting agencies will build in equity from the ground up and ensure that new and upgraded infrastructure supports, rather than undermines, our climate mitigation, adaptation, and resilience goals. All agencies and programs will use the best science and forward-looking climate data in their planning and decision-making. 
 
-#### INNOVATE AND CREATE JOBS
+## INNOVATE AND CREATE JOBS
 
 Massachusetts knows how to solve problems and build new industries. Becoming the nation’s hub for clean energy innovation will bring industry to the state and create thousands of good-paying, sustainable jobs. 
 
-##### The Healey Plan
+### The Healey Plan
 
 Maura will establish a Climate Action and Innovation Leadership Council charged with making Massachusetts the best place in the country to start, staff, and grow a firm that solves environmental and climate challenges. This council will bring together the private and public sectors, and our universities and non-profits to continue Massachusetts’ national leadership on incubating and scaling next-generation technology. This includes advanced storage, networked and deep geothermal, hydrogen, distributed energy, floating offshore wind, non-carbon industrial and building processes, smart modular reactors, and fusion. 
 
@@ -90,11 +90,11 @@ Maura will reinvigorate the Massachusetts Clean Energy Center (CEC) to spur clea
 
 In a Healey Administration, communities will be empowered to innovate and lead on climate change. Our municipalities have the will to act, but current state law stymies these efforts. Maura will support legislation that provides communities with the legal authority to innovate and demonstrate successful clean energy initiatives. She also will strengthen and expand municipal aggregations and climate partnerships addressing community priorities that create climate co-benefits and the sharing of ideas between communities. 
 
-#### CENTER OVERBURDENED COMMUNITIES
+## CENTER OVERBURDENED COMMUNITIES
 
 Over the next two decades, we will be investing billions of dollars in clean energy, clean transportation, energy efficiency, and climate adaptation. We have a once-in-a-generation opportunity to invest in our environmental justice communities, which bear the brunt of increasing temperatures, dangerous pollution, extreme weather, and rising sea levels, and ensure that all communities in Massachusetts are stronger, more resilient, and benefit from these clean energy investments. This is an opportunity for transformational change. 
 
-##### The Healey Plan
+### The Healey Plan
 
 A Healey Administration will ensure that American Rescue Plan and Infrastructure Law climate spending directly benefits our overburdened communities and advances our climate goals. They will address and reverse historical disinvestment and disempowerment, and empower community members as decision makers. Communities will drive this effort from the ground up, so that the people most deeply impacted by the climate crisis are involved at every stage. The Healey Administration will support projects like clean energy improvements in public and subsidized housing, schools, or municipal buildings, converting fleets of dirty fuel vehicles to clean electric buses, and community solar. State, regional, and local agencies in urban, suburban, and rural communities alike will work together to apply for and receive every dollar available for Massachusetts and will do so with efficiency and inclusivity. Maura will work to get rid of the unnecessary fossil fuel infrastructure that plagues so many overburdened communities and will work with these communities to repurpose the land in a way that makes sense for them. 
 
@@ -102,11 +102,11 @@ Maura also will ensure that overburdened communities have a seat at the table. A
 
 Maura will dramatically expand community-based environmental monitoring in overburdened communities across the state, including air monitoring data, using new and transparent technology, and acting on the opportunities the data present to address local air and water pollution. In a Healey Administration, DEP will be empowered to aggressively implement the 2021 Climate Act’s directives and to address cumulative impacts of air pollution and other environmental degradation. 
 
-#### ELECTRIFY EVERYTHING
+## ELECTRIFY EVERYTHING
 
 Today, fossil fuels used by our gas furnaces, oil-fired furnaces and boilers, water heaters, and gas stoves in residential and commercial buildings are responsible for 27 percent of the state’s greenhouse gas emissions. Transportation is responsible for 42 percent of greenhouse gas emissions and industrial uses emit 5 percent. In the next two decades, we need to electrify everything—including our buildings and transportation system. We can do this. Our state is home to industrious and innovative workers who can lead this swift transition. Doing so will create jobs, improve public health, and strengthen our economy. 
 
-##### THE HEALEY PLAN 
+### THE HEALEY PLAN 
 
 Clean Buildings 
 
@@ -118,7 +118,7 @@ Energy efficiency is the most cost-effective way to address emissions and lower 
 
 A Healey Administration will also install one million heat pumps by 2030 by focusing on market transformation: workforce training, customer and installer education, and lower installation costs. Maura will prioritize whole home retrofits for low-income households to help them weatherize, install heat pumps and other efficient electric appliances, and make other health and safety home improvements. And, she will work with the Legislature to establish building emission standards like the new ordinance in effect in Boston (BERDO) and establish a home energy rating system. 
 
-#### Clean Transportation 
+## Clean Transportation 
 
 Affordable, reliable transportation is a crucial backbone of the economy. Massachusetts is among the lowest ranked states when it comes to commute times, and the Greater Boston area has some of the worst traffic congestion in the country. Impoverished riders all face longer commute times, often because their communities are poorly served by public transit, or the cost of housing near transit is prohibitive. Maura understands that access to transportation is access to opportunity. And she knows that transportation is also the largest source of greenhouse gas emissions in Massachusetts, and a source of other dangerous air pollution. Fixing the state’s transportation system is a win-win-win for equity, the Commonwealth’s economy, and the environment. 
 
@@ -135,11 +135,11 @@ The last two years have demonstrated that telework is a viable alternative to th
 Recognizing that different communities and regions have different clean transportation needs, Maura will put communities in the driver’s seat by establishing a community-based transportation equity program to support planning for projects that local communities most need. 
 
 
-#### BUILD A MODERN, CONSUMER-ORIENTED CLEAN ENERGY GRID 
+## BUILD A MODERN, CONSUMER-ORIENTED CLEAN ENERGY GRID 
 
 To meet the goal of electrifying everything, Massachusetts needs to exponentially expand clean energy to power all electricity. This means deploying wind, solar, hydro, storage, and other emerging clean technologies—and to do so faster than ever before. We need to expand our electric transmission system to move power to where people are, modernize our distribution grid, and invest in energy efficiency and long-duration energy storage. Accelerating the pace of renewable development will create jobs, strengthen our economy, and enhance reliability while addressing climate change and local air pollution. 
 
-##### The Healey Plan
+### The Healey Plan
 
 Under a Healey Administration, Massachusetts will achieve 100 percent clean electricity supply by 2030. 
 
@@ -153,11 +153,11 @@ Regional transmission lines, both within New England and connecting with other r
 
 Maura will establish a new DPU division on grid modernization to remove delays and barriers to renewable resources connecting to the distribution grid and ensure that utilities plan for and build a modern grid that will support distributed resources and building and heating electrification. She will support programs that decrease electricity use during times of high demand and incentivize electricity use when demand is low. Maura will direct the EFSB, together with an advisory group, to review and make recommendations to the Governor and the Legislature on how the Commonwealth can best facilitate the siting of clean energy in appropriate places. The recommendations will prioritize energy and environmental justice and develop options for more efficient and less costly permitting processes. 
 
-#### KEEP CARBON IN THE GROUND AND PROTECT OUR FARMS & FORESTS 
+## KEEP CARBON IN THE GROUND AND PROTECT OUR FARMS & FORESTS 
 
 To meet our climate goals, we have to both reduce emissions from all sectors and remove existing carbon dioxide pollution from our atmosphere. Protecting our forests, agricultural soils, and wetlands reduces emissions, and removes carbon pollution from our atmosphere. Massachusetts’ forests are of an age and condition to draw down significant quantities of carbon from the atmosphere in the next decade, by 2050 and by 2100. These natural climate solutions offer other benefits, including making our ecosystems more resilient, providing natural cooling and shade, flood control, protecting species, promoting biodiversity, recreation, and supporting local agriculture and access to healthy food. Establishing Strategic Forest Reserves to provide these services and preserve our matured forests to draw down carbon is essential to meeting our climate goals. Providing incentives for sustainable forest and farm management practices will allow us to preserve our agricultural heritage and continue to produce forest products over the long term. 
 
-##### The Healey Plan
+### The Healey Plan
 
 There are currently about 3 million acres of forested lands in Massachusetts, and most are unprotected or lack sufficient protections. The Healey Administration will establish a Forest Protection Program that will provide enhanced incentives to willing private landowners to keep their trees growing rather than harvesting them. The program will reward private landowners who manage their forests for reducing emissions over each harvest cycle, including by increasing intervals between harvests, conserving the oldest mature trees, protecting soil carbon during harvest, and other improved harvesting and management practices. 
 
@@ -171,11 +171,11 @@ Maura will place a temporary moratorium on commercial harvesting on state-owned 
 
 Massachusetts has a vibrant farming community, including young farmers, and farmers markets and Community Supported Agriculture opportunities are popular across the state. Through the Massachusetts Department of Agricultural Resources, Maura will establish a Climate-Friendly Farming program to provide technical assistance to farmers interested in farm management practices that can reduce emissions and help drawdown carbon. And, the Healey Administration will measure and track outcomes to verify reductions and gain more knowledge about the techniques that work best for our soil types and crops. Through this voluntary program, they will also provide information and assistance to farmers seeking to reduce costs and climate-warming nitrous oxide emissions through smarter use of fertilizers—a measure that also protects our streams, wetlands, and waterbodies from polluted runoff. 
 
-#### MASSACHUSETTS STRONG BUILDING RESILIENCY 
+## MASSACHUSETTS STRONG BUILDING RESILIENCY 
 
 Climate change is already causing more extremes in temperature, precipitation, runoff and flooding, extended droughts, high winds, and storms. Faster-than-historical increases in temperature and sea-level rise cause disruptive and irreversible shifts in seasons and shorelines. The expected extremes and gradual changes will combine in unexpected ways to cause ecological, agricultural, infrastructure, human, and economic impacts sooner and larger than expected. Making the needed investments now will strengthen our communities and protect our vital resources, while addressing community priorities. 
 
-##### The Healey Plan
+### The Healey Plan
 
 The urgent need for adaptation measures is one that spans our state, and adaptation needs vary from community to community. Rural Western Massachusetts has different needs from our coastal areas, which are in turn different from the needs in the urban centers of the Boston metro region, Worcester, and Springfield. 93 percent of Massachusetts cities and towns (328 municipalities) have enrolled in the Massachusetts Vulnerability Preparedness (MVP) program. Maura will increase the budget for this successful program, allowing more communities to focus on implementation and action. She will also work to build capacity in and provide technical assistance to lower-capacity rural and urban communities so that they can take advantage of funding opportunities to improve planning for climate resilience. 
 
@@ -185,7 +185,7 @@ One of the most immediate impacts of climate change in Massachusetts will be hea
 
 Climate resilience includes creating awareness of the potential health, including mental health, impacts of climate change. Maura will partner with Massachusetts’ leading health care providers to promote awareness of climate change related health issues.
 
-#### Criminal Justice Reform
+## Criminal Justice Reform
 We have a lot more work to do to address systemic racism in our criminal justice system – and across all realms of our society. Maura will continue to advocate for criminal justice reforms.
 
 Maura’s background is as a civil rights lawyer, and her work has been and continues to be guided by a commitment to equity. It’s why she’s brought cases against predatory landlords and lenders. It’s why she’s worked to address the broken student loan system and reduce the debt burden on families of color and immigrants. It’s why her office has invested in recovery services in Black and Latino/Hispanic communities. It’s why she revealed civil rights violations in the Bristol County Sheriff’s Office, leading to the termination of its contract with the federal government. It’s why she’s taken on pollution and environmental injustices. 
@@ -200,7 +200,7 @@ Voters can count on Maura to use this same equity lens as Governor. She knows th
 - Workforce development: Maura sees workforce development opportunities as a means to support people who are re-entering society, especially if we invest in wraparound services and provide stipends for people to live off while they train. Maura will continue to advocate for removing barriers to employment because of someone’s criminal record.
 - Other reforms: Maura will also continue to advocate for passage of several reforms currently before the legislature. She supports legislation to ensure that incarcerated individuals are not charged for phone calls to their loved ones. She believes we must remove barriers to re-entry, like losing a driver’s license or being barred from good-paying jobs or affordable housing. Maura will also support investing in multidisciplinary crisis response teams to respond to certain emergency calls, including those involving behavioral health and homelessness. And she’ll continue to advocate for reforms to protect the confidentiality of crime victims.
 
-#### Economic Development
+## Economic Development
 Maura will promote economic development that creates opportunity, serving and balancing the needs of all stakeholders – our communities, workers, employers, and investors.
 
 With a visionary public-private partnership, we are poised to create the next Massachusetts Miracle, expanding our place as a world leader, engaging our resources in investment and capital, high-tech innovation, and academic creativity to build a dynamic economy that embraces climate resiliency and sustainable growth. Maura will make certain that these partnerships, first and foremost, serve the current and future needs of our residents and our environment.
@@ -220,14 +220,14 @@ Maura’s economic development agenda will include the following:
 - Enact stronger protections against wage theft so that workers are better protected.
 - Expand opportunities for employment, housing, and more for individuals leaving places of incarceration.
 
-#### Education
+## Education
 Maura comes from a family of educators. Her mom, Tracy, is a middle school nurse and her stepdad, Edward, was Maura’s basketball coach and the president of their local teacher’s union. As a middle school basketball coach herself, Maura believes strongly in the importance of a well-rounded, quality education for every child in Massachusetts.
 
 Massachusetts is home to globally-recognized public schools and educators. But this achievement masks the persistent reality that Massachusetts is also home to wide opportunity gaps that plague our students of color, English language learners, students with disabilities, and low-income students. The past two years have been especially hard on our students, educators, and parents. Our entire education system has been upended by COVID-19. Every child has had their education and development disrupted at some level and the disparities that existed before the pandemic have only widened. As we emerge from the pandemic, we need to rebuild our education system so it works better for everyone and to ensure that all children have equal access to a quality education. 
 
 As Governor, Maura would be laser-focused on closing these opportunity gaps, from early childhood, to K-12, to higher education. 
 
-##### EARLY CHILDHOOD
+### EARLY CHILDHOOD
 Our early childhood education and care system – which is essential to the basic functioning of our economy – is in desperate need of investment. We saw what happened during this pandemic to our child care system – children suffered, parents couldn’t go to work, and businesses and the economy struggled. Now, two years later, we still have 10 percent fewer child care slots than we had before the pandemic and families are struggling to afford the cost. Massachusetts ranks second in the country for infant care costs, higher than what most would pay to attend a public university. It’s not surprising that the percentage of women in the workforce has dropped significantly. And our early education and care workforce – 40 percent of whom are women of color – is depleted by burnout and low wages.
 
 Maura has been a strong advocate for greater investment in early education and care. She called on Congress to invest billions in the industry, pass federal child care legislation, and make the child tax credit permanent. 
@@ -236,7 +236,7 @@ As Governor, she will continue to advocate for federal funding for early educati
 
 Maura will also support early education and care providers. As Governor, she will partner with educational institutions to create an early education and care workforce pipeline – including expanded access to career development opportunities – and implement strategies focused on workforce retention. Maura also supports efforts in the Legislature to increase salaries of early education providers and the effective implementation of the Early Education and Care Public Private Trust Fund. 
 
-##### K-12 EDUCATION
+### K-12 EDUCATION
 Maura is a longtime advocate for equitable funding for our public schools and improved behavioral health services for our students. She supported the Student Opportunity Act, which provides more  equitable funding for our school districts. She opposed the 2016  ballot measure that would have drained millions from our public schools by expanding the number of charter schools in the state. And she’s funded groundbreaking programming across the state to prevent substance use disorder, combat sexual assault, stop gun violence and bullying, and help young people build healthy relationships in school. Her partnership with Sandy Hook Promise has helped deploy their violence prevention program in 50 school districts throughout the state.
 
 As Governor, Maura would continue her focus on closing achievement gaps and better supporting students and their families, including:
@@ -252,7 +252,7 @@ As Governor, Maura would continue her focus on closing achievement gaps and bett
 - Assess the role of standardized testing. Maura supports the efforts of the Massachusetts Consortium for Innovative Education Assessment and will work with stakeholders to determine what reforms to our assessment and accountability system would best support the goals of advancing excellence and equity, especially for students with disabilities, English learners, and those from marginalized communities. 
 - Expand early college programs. The Massachusetts Early College Initiative helps students from low-income families and communities of color earn free college credits and receive support while still in high school. Maura will expand early college programming to help make higher education more attainable and equitable.
 
-##### HIGHER EDUCATION
+### HIGHER EDUCATION
 Massachusetts’ colleges and universities are some of our greatest resources. They drive economic growth and higher wages, and foster an environment of curiosity and innovation for which our state is renowned. But underneath these achievements are persistent disparities. In 2001, our public university graduates had one of the lowest student debt in the nation. By 2016, debt levels climbed to 10th. One important driver of this change is cuts to state spending on higher education – Massachusetts spends 31 percent less on higher education per student than it did 20 years ago, and instead places that burden on our students in the form of increased tuition and fees. Higher education can be an important pathway to economic mobility, and our public university graduates are much more likely to stay in Massachusetts after graduation, starting their families, contributing to our economy, and forming the fabric of our communities. The jobs are here – a 2016 report predicted that many good-paying jobs in our thriving tech and health care industries would go unfilled. Today, that’s truer than ever.
 
 Maura knows all too well how student debt holds back our residents. She is the first and only Attorney General in the country to create a Student Loan Assistance Unit, and she’s helped thousands of borrowers navigate our broken student debt system. She sued the Department of Education and brokered huge settlements with Navient and FedLoan that will help borrowers pay down their debt and receive loan forgiveness. She led the call with Senator Elizabeth Warren and Congresswoman Ayanna Pressley for President Bident to cancel up $50,000 in federal debt per borrower. For Maura, tackling our student debt crisis is a matter of basic economics and racial justice. Too many borrowers can’t buy a home, start a family, or get ahead because of their debt. And Black and brown borrowers bear a disproportionate debt burden. As Governor, Maura would continue her focus on improving access to affordable public higher education and reducing student debt, including:
@@ -262,7 +262,7 @@ Maura knows all too well how student debt holds back our residents. She is the f
 - Increase investment  into our public colleges and universities, update school facilities, and better support students, adjunct faculty, and other staff at these critical institutions.
 - Work to improve access and affordability of higher education so more students can graduate debt-free.
 
-#### Health Care and Behavioral Health Care
+## Health Care and Behavioral Health Care
 Maura is focused on addressing the affordability crisis and promoting health equity, while maintaining the highest quality of care.
 
 Massachusetts is lucky to have the best hospitals and health care institutions in the world. The strength of our health care system has never been more apparent than during the last two years of the pandemic. In particular, we have seen the best of our health care workforce, as they have gone above and beyond to serve our communities. But Maura knows that, despite the world class care here in Massachusetts, families are still struggling to afford it, as we have some of the highest costs in the country. Racial and ethnic disparities that have existed for generations continue to prevent equitable access to care and have been exacerbated by the pandemic. 
@@ -283,7 +283,7 @@ Maura is focused on addressing the affordability crisis and promoting health equ
 - Fostering greater integration of our health care system with other public and private resources and experts to address key social determinants of health that are outlined in other sections of this page – including education, employment, housing, and the environment.
 - Working together with our health care, health sciences and information technology research leaders to maintain and grow our robust biotechnology sector, creating opportunities for young people to develop careers and contribute to scientific advancement.
 
-#### Housing
+## Housing
 Maura’s background in housing has been focused on making it easier for people to afford to stay in their homes.
 
 Maura’s background in housing has been focused on making it easier for people to afford to stay in their homes. When she was chief of the Attorney General’s Civil Rights Division, she led the office’s efforts to hold banks accountable after the mortgage crisis. She’s worked for years to stop illegal evictions, help tenants navigate the eviction process, and hold landlords accountable. She’s sued realtors for discrimination, and brokered a settlement with the Boston Housing Authority over health concerns in its facilities.  In Lynn, she’s been working to help a family after their landlord forced them to live in filth, harassed them, and then called ICE on them. As Massachusetts approached an eviction crisis due to the COVID-19 pandemic, Maura instructed her team to step up their efforts to help tenants navigate the state’s process to access rental assistance. The office purchased tables for community centers to provide people with a local place where they could fill out the application and launched an internal task force to handle evictions in multiple languages.
@@ -300,7 +300,7 @@ One of the top issues Maura hears from residents and business owners across the 
 
 Additionally, Maura believes expanding rail service will help ease the housing crunch in Boston and bring economic development to other areas of the state. Maura also knows that climate plays a significant role in our housing crisis. We can’t let our communities become vulnerable to extreme weather, nor trapped in a situation where they can’t afford mounting utility bills, like what we’re seeing right now. State funds need to go toward weatherizing and preparing existing housing for solar, targeted at low-income communities.
 
-#### Immigration
+## Immigration
 Maura has been a leading advocate for immigrant rights. As Governor, she will ensure that all Massachusetts families can thrive.
 
 One of the first steps Maura took as AG was to create an Advisory Council on New Americans to help address the needs of the state’s immigrant and refugee communities. She also instituted a language access plan and a first-of-its-kind Division of Community Engagement to lead trainings on immigrant rights, tenant rights, and more in different languages in communities across the state. 
@@ -315,7 +315,7 @@ As Governor, Maura will continue to defend our immigrant communities and work to
 - Providing health care coverage for children regardless of their or their parents’ immigration status.
 - At the federal level, providing a meaningful pathway to citizenship for undocumented immigrants.
 
-#### LGBTQ+ Rights
+## LGBTQ+ Rights
 Maura is a longtime advocate for LGBTQ+ rights. She will be a Governor who stands up for LGBTQ+ youth.
 
 Maura has proudly served as the first openly gay Attorney General in the country. She’s seen her role as a way to open doors for future LGBTQ+ leaders and show young people what’s possible for them. Now, she’s running to be the first lesbian Governor in the country at a time when politicians across the country are launching heartless attacks on LGBTQ+ youth.
@@ -331,7 +331,7 @@ As Governor, Maura will continue to stand up to efforts to infringe on LGBTQ+ ri
 - Ending the ban on LGBTQ+ blood donations.
 - Advocating for passage of the Equality Act at the federal level.
 
-#### Reproductive Freedom
+## Reproductive Freedom
 With our reproductive rights under attack like never before, Maura will ensure patients and providers are protected here in Massachusetts.
 
 Maura knows that reproductive freedom is under threat like never before. It’s a direct attack on women, people of color, and the LGBTQ+ community. With Roe v. Wade overturned, our next governor needs to continue to protect access to safe and legal abortion in Massachusetts, break down systemic barriers to these services, and expand access to comprehensive reproductive care for all.  Maura will work closely with legislative leaders, public health experts, and advocates like the Beyond ROE Coalition to ensure Massachusetts remains a beacon of hope for all who are seeking care.
@@ -362,7 +362,7 @@ Working to enact other recommendations of the Beyond ROE Coalition.
 - Providing medication abortion access on all college campuses, with appropriate support for community colleges and other higher education institutions that do not have health centers or only offer limited health services.
 - Opposing the Hyde amendment and any other efforts to restrict access to abortion care.
 
-#### Transportation
+## Transportation
 Public transportation is a key building block for economic mobility in Massachusetts. Maura will work to ensure our public transportation system is safe, reliable, and accessible throughout the state.
 
 Maura knows that if we are going to create jobs in every region of our state, if we are going to reduce costs that are crushing our families, if we are going to do something about our climate crisis – then we have to invest in our transportation system. That starts with fixing our crumbling bridges and roads. And it means dramatically investing in our public transportation – our subway, trains, and buses. We’ve just received an influx of federal funding, and the next Governor will oversee how it is spent. Maura will make sure that no region, no community is ignored. 
@@ -383,7 +383,7 @@ Here’s what Maura will focus on:
 - Increasing investments in electric vehicle infrastructure and strong incentives for their adoption, including for heavy duty vehicles, as well as pedestrian walkways, and safe, expanded bike lanes.
 - Establishing a community-based transportation equity program to support the projects that local communities most need.
 
-#### Voting Rights
+## Voting Rights
 Maura is committed to protecting and expanding access to the ballot in Massachusetts and across the country.
 
 The 2020 presidential election made clear that there are two forces in our country: those fighting to protect our democracy and those trying to undermine it. Across the country, people of color are being disenfranchised, and disinformation and violent rhetoric continue to spread across digital spaces. Protecting the integrity of our democracy and expanding access to it have been top priorities for Maura. In 2020, she convened a task force to protect voters from intimidation, led a voter education campaign that included materials for people who are incarcerated, and took multistate legal action to assist officials in other states to make sure every vote counted. 

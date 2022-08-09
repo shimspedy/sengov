@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Joe Lombardo  for governor 
+## Joe Lombardo  for governor 
 Joe is Running for Governor to Save Nevada
 
 Joe Lombardo began his service to others in the United States Army and served bravely in the Army, National Guard, and Army Reserve - protecting Americans both domestically and abroad. After his service to his country, Joe dedicated himself to protecting our communities – serving in law enforcement over the last 30 years. 
@@ -27,7 +27,7 @@ He has also served as Board Member for the LVMPD Foundation (2007-2014), After S
 
 Sheriff Lombardo holds a B.S. and a M.S. in crisis management, both from UNLV.
 
-#### What Joe Stands For
+## What Joe Stands For
 Joe Lombardo has a lot of titles.  Sheriff, officer, veteran, leader, husband, and father. Soon he’ll add another title: Governor…but you can just call him Joe.
 
 In an era of career politicians who poll-test every word and must get permission from Washington or Carson City consultants before they speak, Joe is different - he's plain-spoken and honest.
@@ -36,25 +36,25 @@ Many candidates spend their days preparing to run for office, worrying about how
  
 Joe is an Army veteran, former beat cop, and has spent the last seven years serving as Clark County Sheriff.  Joe has dedicated his life to protecting American freedoms, putting bad guys away, and keeping us safe. So whether you salute him as a veteran, appreciate his service in law enforcement, or can’t wait for him to be the next Governor of Nevada…he just prefers you call him Joe.
 
-#### Election Integrity
+## Election Integrity
 Joe will Introduce an election reform package that protects the integrity of our elections.  Reforms that eliminate ballot harvesting, end universal mail ballots, require an ID to vote, and creates a bipartisan panel to oversee the elections that are currently controlled by single-party rule.
 
-#### Guns
+## Guns
 Joe Lombardo is the only candidate in the race for Governor who has carried a gun every day for the past three decades.
 
 As a Lifetime Member of the National Rifle Association, United States Army veteran, beat cop, and now as sheriff for the past seven years, Joe knows that an important part of keeping our communities safe is protecting the Second Amendment from those who wish to erode or even outright repeal it. Joe stands with the Founding Fathers and will protect our right to own and bear arms. 
 
 Of course, any candidate can say that they support our right to bear arms, but what a candidate really means is more revealing than simply turning a phrase about the Second Amendment. 
 
-#### Eliminating The Gun Registry
+## Eliminating The Gun Registry
 Joe campaigned on a promise to eliminate Clark County’s Blue Card gun registry. Clark County was the only county in Nevada that required law-abiding gun owners to register their firearms until Joe Lombardo worked with County Commissioner Tom Collins, the State Legislature, and Governor Brian Sandoval to put an end to the gun registry in 2015.
 
 No other candidate in the race has eliminated a gun registry or prevented the government from tracking law-abiding gun owners. 
 
-#### Ghost Guns
+## Ghost Guns
 Joe supports our right to build a firearm for personal use.  Left-wing politicians are working hard to take away our right to create our own guns.  As Governor, Joe will veto any legislation that takes away that right.
 
-#### Red Flag Laws
+## Red Flag Laws
 Joe believes that every American has the right to due process and is innocent until proven guilty. The job of law enforcement officers is to protect the citizens under their jurisdiction. The original intent of Nevada’s Red Flag law is no longer its aim and actually makes it more difficult for officers to do their job. As Governor, Joe will always look for ways to streamline government and remove antiquated laws, including Nevada’s Red Flag law.
 
 High Capacity Magazines and After-market Modifications
@@ -64,13 +64,13 @@ As a law enforcement officer, Joe has seen first-hand the devastation that can o
 
 Part of protecting our right to own and bear arms is the responsibility we have to keep those weapons out of the hands of criminals who wish to do us harm.  Joe has made a career of doing just that and will continue to do so as Governor.
 
-#### Background Checks
+## Background Checks
 Joe supports the right of all law-abiding citizens to own a firearm if they so choose. Some politicians and advocates use background checks as a dog-whistle issue for political gain, but not Joe. Joe Lombardo believes that we have a responsibility as protectors of the Second Amendment and the constitutional rights it provides to enhance safety and maintain law and order. Joe believes that background checks should be efficient, inexpensive, and serve the singular purpose of keeping weapons out of the hands of criminals and those struggling with mental health illness - not as a vehicle for gun control advocates to restrict our Second Amendment rights.  As Governor, Joe will partner with national law enforcement agencies to protect our constitutional rights while lowering gun violence in Nevada.
 
-#### Education
+## Education
 Joe supports reforms like read by three that give students a better chance to succeed.  He will empower parents by expanding charter schools, school choice, and opportunity scholarships.  Joe believes Nevada needs to focus on job and career training not only for jobs of today but jobs to come.
 
-#### Immigration and Sanctuary Cities
+## Immigration and Sanctuary Cities
 How do you know when a politician has been in politics too long? When that politician benefits so much from the politics of a broken immigration system that he or she doesn’t actually know how to fix it.
 
 Joe Lombardo believes in protecting and defending America’s borders. As an Army veteran and as your Sheriff, Joe has protected our freedoms, values, and safety.  He believes that our future depends on a legal immigration system that protects Americans, promotes our values, respects our laws, and defends our borders.
@@ -83,10 +83,10 @@ While officers now must do some extra work, the number of violent criminals iden
 
 As the only candidate in this race to have put bad guys behind bars or deported violent criminals, Joe is opposed to sanctuary cities and will continue to do everything possible to keep us safe, and he isn’t afraid to take on the left-wing advocates constantly trying to make that more difficult.
 
-#### Right to Protest/2020 Riots
+## Right to Protest/2020 Riots
 Joe set a new policy when he took office as Sheriff – that our rights are as important as someone’s right to protest. Our streets were not blocked, our neighborhoods were not taken over, our businesses were not harassed because Joe Lombardo made OUR rights as law-abiding citizens his priority. While other cities were burned, blockaded, even shut down… our community was civil and safe thanks to Joe.
 
-#### Police Reform 
+## Police Reform 
 Defunding the police is a radical, left-wing effort focused on improving the lives of criminals while putting the rest of us at greater risk.  Joe will fight any effort to defund the police.
 
 In the Army, Joe took an oath to protect and defend this country and our constitution.  As a police officer…and later as Sheriff…he took another oath to protect our community and our values.  
@@ -103,8 +103,8 @@ Joe Lombardo is a staunch advocate for more officers on the street and actually 
 
 America and Nevada are at critical crossroads.  Joe won’t surrender to the left-wing liberal push to defund the police or take away law enforcement’s ability to keep Nevadans safe. Anyone who says otherwise - or wrongfully twists Joe's words for their own political benefit - lacks the honesty and integrity necessary to lead Nevada.
 
-#### Taxes
+## Taxes
 Joe will veto any new tax increase. 
 
-#### Protecting the Unborn
+## Protecting the Unborn
 Joe is pro-life. 

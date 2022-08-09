@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Mark Gordon for governor 
+## Mark Gordon for governor 
 Mark Gordon was elected Wyoming’s 33rd Governor, on Nov. 6, 2018. He was sworn into office on January 7, 2019.
 
 Mark Gordon grew up on the family ranch in Wyoming where he learned the values of hard work and integrity and the importance of working together. As Governor, he brings those values to the table, maintaining his commitment to a Wyoming where its citizens can pursue their dreams while the state retains its unique character. He is a strong believer that Wyoming must chart its own course, and a steadfast defender of its interests to do so.
@@ -25,7 +25,7 @@ Elected Governor in 2018, he has successfully led Wyoming through two of its mos
 
 Governor Gordon and his wife Jennie have four grown children – Anne; Aaron with wife Megan; Bea with husband Austen and their son Crawford; and Spencer with wife Sarah, their son Everett, and twin daughters Violet and Eloise.
 
-#### MEET JENNIE
+## MEET JENNIE
 Jennie Gordon currently serves as First Lady of Wyoming.
 
 Prior to that, she managed day-to-day operations at Merlin Ranch, the Gordon family’s cow-calf and heifer development operation located in Johnson County.
@@ -40,7 +40,7 @@ Governor Gordon and Jennie have four grown children – Anne; Aaron with wife Me
 
 In October 2019 Jennie launched the Wyoming Hunger Initiative, whose mission is to end childhood hunger in Wyoming. The initiative works to prevent food insecurity by increasing awareness and support for the work of local anti-hunger organizations statewide.
 
-#### Accomplishments
+## Accomplishments
 Because of COVID-19, Wyoming suffered through one of the toughest budget crunches in our history. Mark Gordon reduced state spending by 26% and now the state budget is the lowest in a decade. Governor Gordon created the Energy Rebound Program to protect energy jobs. He will continue to attract new industries and fight against federal and state regulations that threaten our way of life. 
 
 Mark pushed back against Washington’s efforts to shut down schools, and as a result, Wyoming schools were reported as having educated more in-person days during the pandemic than any other school system in the country. He also launched the Reimagining and Innovating the Delivery of Education (RIDE) program to work with parents, businesses and communities to better educate Wyoming’s future leaders. 
@@ -49,7 +49,7 @@ When Washington asserted authority over the Wyoming National Guard with vaccine 
 
 As the New Green Deal movement shut down large portions of our economy, Mark fought back with nearly 40 lawsuits including one lifting the Biden ban on oil and gas leasing. Mark also brokered an agreement to keep Wyoming’s Jim Bridger Power Plant operating by addressing environmental concerns while protecting Wyoming jobs and using Wyoming energy.
 
-#### I am a Republican
+## I am a Republican
 - I BELIEVE the strength of our nation lies in the individual and that each person’s dignity, freedom, ability, and responsibility must be honored.
 
 - I BELIEVE in equal rights, equal justice and equal opportunity for all, regardless of race, creed, sex, age, or disability.

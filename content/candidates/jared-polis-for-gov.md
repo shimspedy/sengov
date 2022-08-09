@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Jared Polis for governor 
+## Jared Polis for governor 
 Governor Polis is a hard-working Coloradan who has run successful businesses, delivered better education opportunities for our kids and is now serving as Colorado’s 43rd Governor. Under his leadership, Colorado is working to become one of the most family-friendly states while topping the list of strongest state economies in the country.
 
 Since taking office in 2019, Governor Polis has delivered on the top priorities he committed to tackle for Colordans – lowering the cost of childcare and getting more kids in free, full-day kindergarten, reducing the cost of healthcare, accelerating our fight against climate change and lowering taxes for hard-working families.
@@ -30,7 +30,7 @@ Governor Polis also served as the U.S. representative for Colorado’s Second Co
 
 As our Governor, Polis has kept Colorado moving forward — delivering on his commitments while leading our communities through challenges and tragedies our state has never seen before. He knows it’s more important than ever to save people money and help all families share in the amazing Colorado way of life. And he knows that Colorado’s best days are still ahead.
 
-#### MEET DIANNE
+## MEET DIANNE
 ![Lt. Governor Dianne Primavera ](/candidates/dianne.primavera.jpg)
 Lt. Governor Dianne Primavera is a lifelong Coloradan who has spent her entire career making Colorado a healthier home for all. A mother, grandmother and cancer survivor, she places great value on the health and safety of Coloradans and their families.
 

@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Josh Shapiro for governor 
+## Josh Shapiro for governor 
 Throughout his career as a public servant, Josh Shapiro has taken on the status quo, brought people together to solve tough problems, and delivered results for the people of Pennsylvania. Since 2017, he has served as the People’s Attorney General, working every day to stand up to powerful institutions and protect Pennsylvanians’ rights. Now, Josh is running to be Pennsylvania’s next Governor — to move our Commonwealth forward and tackle our biggest challenges.
 
 Josh grew up in Pennsylvania, watching his parents serve their community — his father was a pediatrician, and his mother was an educator. Their example inspired Josh to enter into public service, and from a young age, Josh recognized that standing up for others was how he wanted to spend his career.
@@ -39,14 +39,14 @@ Josh Shapiro knows Pennsylvanians need a Governor who will take on the biggest f
 
 Josh and Lori live in Montgomery County with their three school age sons, and their eldest daughter attends the University of Pittsburgh.
 
-#### JOSH  VISION FOR PENNSYLVANIA
+## JOSH  VISION FOR PENNSYLVANIA
 Rising costs. A changing economy. Unprecedented attacks on our democracy, on civil rights, and on the right to choose. And a government that too often just doesn’t work quick enough.
 
 Pennsylvanians are facing real challenges right now, and Josh knows we need a Governor we can count on to get things done. Throughout his career, Josh has taken on the status quo, brought people together, and fought to keep Pennsylvanians from getting screwed — and that’s exactly what he’ll do as Governor.
 
 As Governor, Josh will continue his work to make Pennsylvania safer, fairer, stronger, and more prosperous for all.
 
-#### ABORTION RIGHTS
+## ABORTION RIGHTS
 Abortion is health care. 
 
 As Governor, Josh will defend access to reproductive health care — and continue to defend a woman’s right to choose in Pennsylvania.
@@ -55,7 +55,7 @@ Our Democratic Governor’s veto pen is the only thing standing in the way of  H
 
 Throughout his career, Josh has never wavered in defense of reproductive rights and a woman’s right to choose. From taking on the Trump Administration in federal court to protecting access to contraception and winning an injunction against the “gag rule,” to filing an amicus brief in support of the U.S. Department of Justice’s challenge to Texas’ early-term abortion ban — Josh has always stood up for and defended the right to choose.
 
-#### BLACK ECONOMIC EQUITY
+## BLACK ECONOMIC EQUITY
 For Pennsylvania to grow and succeed, every Pennsylvanian must be able to equally participate in our economy, support their families, and access safe and affordable housing. 
 
 Unfortunately, the reality today is that too many Black Pennsylvanians face significant barriers that keep them from fully accessing our financial systems and labor markets. Intergenerational inequities mean Black people are statistically less likely to be able to find a good job, live in safe communities, access banking, start a business, own a home, or access equitable health care. 
@@ -64,14 +64,14 @@ Too many Black families lack generational wealth — the average net worth of a 
 
 Josh knows that when Black Pennsylvanians do better, our entire economy grows. As Governor, Josh will lift families out of poverty, build economic opportunities and wealth, increase housing stability and homeownership, and address health inequities in Black communities.
 
-#### CREATING GOOD JOBS AND EXPANDING JOB TRAINING
+## CREATING GOOD JOBS AND EXPANDING JOB TRAINING
 Josh knows that Pennsylvania workers are the backbone of our economy, and that access to stable, good-paying jobs is key to economic growth and financial stability for Pennsylvanians. Every Pennsylvanian should be able to find a good-paying job that allows them to take care of their family and live a life of dignity and respect. As Governor, Josh will create an economy that meets the needs of Pennsylvanians and gives every Pennsylvanian the knowledge and skills to achieve their potential and pursue their dreams. 
 
 Josh has a plan to create thousands of good-paying, union jobs across the Commonwealth by investing in infrastructure and spurring innovation, including funding projects to plug hundreds of thousands of abandoned wells across the Commonwealth, modernizing homes and businesses through energy efficiency projects, investing in sewer and stormwater projects, and repairing the Commonwealth’s structurally deficient bridges and roads. 
 
 Josh knows that while it’s important to create more good-paying jobs, it’s equally important to invest in workforce development and ensure every Pennsylvanian can achieve success if they work hard. As Governor, Josh will expand job skills training programs and vocational training to high school students and graduates, so students have access to opportunities for their career development in high school. He’ll invest in apprenticeships and on-the-job training initiatives, invest in career and technical education (CTE) and pre-apprenticeship programs that can introduce youth and young adults to non-college track opportunities and provide a clear pathway to the needed training and employment opportunities, and establish an Independent Office of Workforce Development to cut through bureaucratic red tape and have a one-stop shop for coordinating long-term workforce development strategies for the Commonwealth. 
 
-#### CRIMINAL JUSTICE AND PUBLIC SAFETY
+## CRIMINAL JUSTICE AND PUBLIC SAFETY
 Pennsylvanians deserve a criminal justice system that both keeps us safe and enforces the law fairly and impartially. Almost 180,000 Pennsylvanians are currently on probation — and our Commonwealth has the second highest incarceration rate in the country. Furthermore, Pennsylvania is the only state in the entire country that doesn’t allocate state general funds for indigent defense. 
 
 As Attorney General, Josh has worked to make communities more safe while pushing for reform. Under Josh’s watch, the Office of the Attorney General has arrested an average of four drug dealers a day and has taken thousands of illegal guns off the streets. His office has also worked to curb gun violence by collaborating across state lines to crack down on illegal gun trafficking, and led the fight to close the ghost gun loophole. Josh has supported law enforcement across Pennsylvania, calling for increased funding for training and working collaboratively with local police departments. As communities across the Commonwealth face a historic shortage of police officers, Josh is calling to immediately hire officers to fill open roles, and invest in recruitment and training to ensure you can count on law enforcement to respond in an emergency.
@@ -82,14 +82,14 @@ At the same time, Josh enacted bail reform for non-violent and low-level offense
 
 As Pennsylvania’s next Governor, Josh will continue to keep our communities safe by working with law enforcement and spearheading smart, data-driven criminal justice reform that will make our Commonwealth safer and more just. He will work to improve public safety and reduce recidivism by reforming probation and parole, funding indigent defense, and keeping guns out of the hands of dangerous individuals. He will also invest in addiction prevention programs and expand treatment options so that non-violent offenders can access the support they need.
 
-#### CUTTING COSTS
+## CUTTING COSTS
 Pennsylvanians are being crushed under a mountain of rising prices. The cost of everything from food to gas have risen, weighing on people all across the Commonwealth. Many of the drivers of those rising costs are global — but here in Pennsylvania, Josh has a three point plan to make it easier for people to pay their bills and support their families. 
 
 As Governor, Josh will issue gas tax refunds of $250 for every personal passenger vehicle registered in the Commonwealth, up to four per household (or $1,000). He’ll eliminate the state cell phone tax – specifically, the gross receipt and sales tax on cell phone service. By eliminating this 11% state tax, we can reduce Pennsylvanians’tax burden by $317 million and save folks money on their monthly cell phone bill. Lastly, Josh will lower household costs by expanding the Property Tax and Rent Rebate program, increasing the maximum rebate to $1,000 and making the program available to over 275,000 more eligible people.
 
 Josh’s cost cutting plan is fully paid for and directly addresses the struggles so many Pennsylvanians are facing right now. While Josh believes the Legislature should take up this plan immediately, if they don’t, he’ll be ready to get it done on day one as Governor.
 
-#### EDUCATION
+## EDUCATION
 Every child in Pennsylvania — regardless of race, class, or zip code — deserves access to a quality education and the opportunity to shape their own future. A strong education system is foundational to a functioning democracy — and it’s critical to moving Pennsylvania forward. Now with the limitations of the COVID-19 pandemic largely behind us, it’s time to get back to basics by investing in our schools and building opportunity for Pennsylvania’s children.
 
 As Governor, Josh will ensure every student has access to the “thorough and efficient” education Pennsylvania’s constitution promises.
@@ -98,7 +98,7 @@ He’s going to fully fund our schools —  invest in attracting and retaining q
 
 We can keep Pennsylvania’s promise to our students by fully funding and fixing up our schools, prioritizing mental health, empowering students with vocational, technical, and computer training, and ensuring parents have a real voice in their children’s education. As Governor, Josh will tackle these challenges head on and ensure we build opportunity for Pennsylvania’s children.
 
-#### ENERGY AND THE ENVIRONMENT
+## ENERGY AND THE ENVIRONMENT
 Pennsylvania is one of the most important energy-producing states in the entire country. The Commonwealth is the second largest natural gas producing state in the nation and the largest electricity exporter in the entire country. As an energy powerhouse with an incredibly diverse economy, we have everything we need to be a national and global leader on charting a path towards a low carbon future while continuing to create stable, good-paying jobs and grow our economy.
 
 Josh refuses to accept the false choice between protecting jobs or protecting our planet – we must do both. His priority is ensuring Pennsylvania has a comprehensive climate and energy policy that will move all of us forward. 
@@ -107,7 +107,7 @@ As Governor, Josh will invest in clean energy while creating thousands of good p
 
 Josh will also work with stakeholders, including those from across the aisle, to bring us all together to figure out the best way to move forward to net-zero emissions by 2050. Pennsylvania’s steps forward must ensure that we remain an energy hub while protecting vital pieces of our economy and leaving no Pennsylvanian behind, and Josh will lead us to that future.
 
-#### LGBTQ+ RIGHTS
+## LGBTQ+ RIGHTS
 Josh will continue to advocate for LGBTQ+ Pennsylvanians and fight for equality as Governor — just like he has for his entire career.
 
 Josh has stood with LGBTQ+ communities throughout his career — he defended LGBTQ+ rights from the Trump Administration’s attacks as Attorney General, helped the first LGBTQ+ couples in Pennsylvania marry as a Montgomery County Commissioner, and pushed to expand protections for our Commonwealth’s LGBTQ+ communities as a State Representative.
@@ -116,7 +116,7 @@ Pennsylvania is the only state in the Northeast without comprehensive nondiscrim
 
 As Governor, Josh will put his full capital behind the effort to finally ban discrimination against LGBTQ+ individuals in Pennsylvania so that LGBTQ+ community can work, attend school, and seek housing under the same rights as everyone else in the Commonwealth. He’ll expand our hate crime laws to cover our LGBTQ+ communities, invest in mental health resources to support LGBTQ+ youth, and finally ban conversion therapy for minors. For too long, members of the LGBTQ+ community in Pennsylvania — and all across America — have not been afforded the protections they deserve.  Josh will work tirelessly to ensure and expand the rights of the Commonwealth’s LGBTQ+ residents.
 
-#### RURAL COMMUNITIES
+## RURAL COMMUNITIES
 Throughout his career, Josh has stood up for Pennsylvanians who have been screwed over by powerful interests. In recent decades, many people living in rural Pennsylvania have been left behind, and had to live through economic downturns in their communities. As Governor, Josh will revive rural communities and ensure they have a seat at the table. 
 
 Josh has a plan to grow Pennsylvania’s rural economy, invest in needed infrastructure, and ensure better access to broadband, healthcare, and jobs. 
@@ -127,14 +127,14 @@ Josh will also invest in agricultural infrastructure and ensure that farmers hav
 
 Lastly, Josh will expand opportunities for good paying jobs in rural communities by increasing funding for rural apprenticeships, investing in workforce development initiatives, capping abandoned wells, fixing our sewer and stormwater systems, and repairing structurally deficient bridges and roads.
 
-#### SPURRING INNOVATION
+## SPURRING INNOVATION
 The innovation economy – the technology-based industries that invest and commercialize new advances and discoveries to move us forward – are vital to our future. Yet, unlike many states, Pennsylvania does not have a comprehensive strategy for fostering and supporting innovation. A recent Brookings Institute study indicates that Pennsylvania’s lack of an innovation strategy is a major reason we continue to fall behind other states. Nationally and globally, innovation economy industries are growing rapidly, pay well, and provide job opportunities that don’t necessarily require a bachelor’s degree.
 
 Josh knows that Pennsylvania needs to modernize the way it thinks about innovation and the innovation economy. Instead of creating a one-size fits all innovation plan, or treating each industry as separate from others, Josh will lead a comprehensive statewide assessment to identify the key industries and technologies that Pennsylvania should invest in to become a national leader. 
 
 As Governor, Josh’s plan will focus on identifying and developing “innovation hubs” to spur Pennsylvania’s economic growth. Josh will support and develop the Commonwealth’s unique set of strengths and assets in next generation manufacturing, life sciences, autonomous technologies, national defense technologies, and logistics since these innovation clusters already have a foothold in Pennsylvania. Josh will also direct the Department of Community and Economic Development to ensure companies have access to needed public and private R&D funding and early stage risk capital, technology transfer assistance, recruitment assistance, training and educational services, transportation and computational infrastructure, and other crucial forms of support so that each hub can grow accordingly. By updating our approach to innovation and fostering the growth of innovation clusters, we can create good jobs and make Pennsylvania a national and global leader in next-generation industries.
 
-#### SUPPORTING SMALL BUSINESSES
+## SUPPORTING SMALL BUSINESSES
 Josh understands that small businesses are the foundation of our economy — and we must give small businesses the tools they need to thrive in Pennsylvania. Josh’s plan includes attracting new businesses to the Commonwealth, supporting mom-and-pop shops to grow their profits and customer base, and investing in entrepreneurship to spur growth and innovation. 
 
 Josh knows how important it is to support Pennsylvania small businesses and his record backs up his future plans. As State Representative and Montgomery County Commissioner, Shapiro brought jobs to the region. For example, he brought millions to develop a portion of Jenkintown and streamlined the county’s economic development program to attract and retain local business.
@@ -145,7 +145,7 @@ Second, Josh will make available loan guarantees for capital investment, real es
 
 Josh will also attract new businesses to Pennsylvania by lowering the corporate net income tax and closing tax loopholes, increasing the net operating loss deduction, eliminating regulatory burdens for businesses, and investing in research and development credits to spur innovation and growth.
 
-#### VOTING RIGHTS
+## VOTING RIGHTS
 The attacks on our democracy didn’t stop after January 6th, 2021.
 
 Josh would know. Because as the Attorney General who stopped Donald Trump’s attempts to undermine and overthrow Pennsylvania’s election, Josh went to court dozens of times to defend Pennsylvanians’ right to vote and ensure every legal vote was counted — and he won.
@@ -156,7 +156,7 @@ As Governor, Josh will defend our democracy, ensure access to the ballot box, an
 
 Josh knows that to grow our economy, improve our schools, and make our communities safer, we must have a stable foundation of our democracy. As Attorney General, he spoke truth to lies and went to court to protect Pennsylvanians’ rights. As Governor, he’ll continue to protect every citizen’s right to vote — and make sure every legal vote is counted. 
 
-#### WORKERS RIGHTS
+## WORKERS RIGHTS
 Pennsylvania workers are the backbone of our economy and they deserve a Governor who will stand up for them and not only protect the right to organize, but expand it, so that every worker has the opportunity to join a union.
 
 Josh has spent his career taking on the powerful and well-connected on behalf of working people. In his first term as Attorney General, he created the first ever Fair Labor section in the Office of the Attorney General to combat wage theft and worker misclassification.
@@ -165,7 +165,7 @@ He held one of the Commonwealth’s largest road construction companies accounta
 
 Josh has workers’ backs, and that’s why they’re supporting him in this campaign. As Governor, Josh will protect the right to collective bargaining, go after employers who spread anti-union propaganda and interfere with workers’ right to join a union, strengthen worker misclassification laws,  and veto any legislation that seeks to make Pennsylvania a right-to-work state. Our economy is stronger when everyone participates and as Governor, Josh will ensure that hardworking Pennsylvanians can organize, earn for their family, and live a life of dignity.
 
-#### MEET AUSTIN
+## MEET AUSTIN
 ![Josh Shapiro’s endorsed candidate for Lieutenant Governor](/candidates/paaustin.jpeg)
 Growing up in the Mon Valley in western Pennsylvania – a longtime industrial center outside Pittsburgh – Austin Davis saw the struggles of working families firsthand. He watched his mom – a hairdresser in McKeesport for more than 40 years – juggle raising a family with putting food on the table, and he watched his dad work hard every day as an ATU bus driver.
 

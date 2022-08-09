@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Steve Sisolak  for governor 
+## Steve Sisolak  for governor 
 Steve Sisolak was born into a midwest working-class family. His parents Ed and Mary worked hard to provide for their three children and Steve inherited their blue-collar ethic, working full-time to put himself through college at the University of Wisconsin-Milwaukee. Steve then enrolled in UNLV’s Graduate Studies Program, where he received a master’s degree in 1978.
 
 Steve put down roots in Las Vegas, built his own communications business while raising his two daughters on his own as a single father. Both his daughters attended Nevada’s public schools and UNLV, where Ashley earned her law degree and Carley earned her master’s degree. In 2018, Steve married his wife Kathy Sisolak.
@@ -26,7 +26,7 @@ When Nevada became the hardest-hit state due to COVID-19, Steve rolled up his sl
 
 He understands the challenges Nevadans are facing, which is why he worked to lower costs by investing federal relief funds in expanding childcare, affordable housing, workforce development, and finding solutions to expand access to health care and lower the cost of prescription drugs. He kept his campaign promise from 2018 never to raise taxes on everyday Nevadans and he’s going to maintain that promise in a second term.
 
-#### ECONOMY AND JOBS
+## ECONOMY AND JOBS
 Steve was raised in a blue-collar family and worked to put himself through college before starting his own small business. He knows what it’s like to work hard and build a better life for your family and he’s committed to making it easier for every Nevadan to do the same.
 
 That’s why, since taking office, Steve has worked tirelessly to diversify our economy, create new jobs, and build an economy that works for every Nevadan. Thanks to his leadership, Nevada is experiencing one of the fastest recoveries in the country following COVID-19: our economy has been ranked best in the nation for two quarters in a row, Nevada’s employment growth is fastest in the nation, our unemployment rate has dropped each month since May 2020, tourism is up and – more importantly – wages are, too. 
@@ -46,7 +46,7 @@ New businesses and families help our economy grow, but Steve is also committed t
 
 Steve is laser-focused on building an economy that works for every Nevadan, not just those at the top. In a second term, he’ll build on our progress, lower costs, and keep taxes low to help every family achieve the American Dream.  
 
-#### PUBLIC SAFETY
+## PUBLIC SAFETY
 
 As governor, Steve has taken steps to improve public safety, reduce crime, and ensure law enforcement officers are well-paid and well-trained.
 
@@ -58,7 +58,7 @@ In a second term, Steve will go a step further by proposing a salary increase fo
 
 Steve knows that safe streets encourage new families and businesses to put down roots in Nevada, and he will continue taking steps to improve the criminal justice system, protect Nevadans, and improve public safety.
 
-#### AFFORDABLE HOUSING
+## AFFORDABLE HOUSING
 Buying a home is part of the American Dream, but as our communities grow and more people and businesses begin to call Nevada home, that dream is getting harder and harder to realize. That’s why increasing housing affordability and lowering costs for families is one of Steve’s top priorities.
 
 Steve is already delivering results for Nevada families: in 2021 alone, Nevada built over 2,300 new affordable apartments, and now Steve is making the largest investment in affordable housing in Nevada’s history through the Home Means Nevada program.
@@ -71,7 +71,7 @@ These investments don’t just mean more housing – they’ll create thousands 
 
 In Steve’s eyes, housing is a human right. No family should have to worry about where they lay their head at night or being priced out of their community, and under Steve’s leadership, they won’t.
 
-#### EDUCATION
+## EDUCATION
 From donating his entire salary to public schools across Nevada, giving teachers their first raise in over a decade, to funding our schools at their highest levels in state history, Steve is delivering on his promise to be the Education Governor.
 
 Steve believes that every child deserves an equal chance to succeed, no matter where they live or how much their parents make. That’s why he updated a 50-year old education funding formula, created the largest public education budget in Nevada’s history, and provided more transparency on per-pupil funding across the Silver State.
@@ -84,7 +84,7 @@ Governor Sisolak also appointed Lisa Cano Burkhead, a previous educator and prin
 
 Steve has put our students first every day since he took office, and will continue to do so in a second term. Our schools have come a long way since 2018, but there’s more work to do to ensure every Nevada student receives the best education possible.
 
-#### REPRODUCTIVE FREEDOM
+## REPRODUCTIVE FREEDOM
 With Roe v. Wade now overturned by the Supreme Court, Governors are now the last line of defense when it comes to protecting abortion. As trigger laws take effect in surrounding states, Steve vowed to continue protecting access to abortion and critical contraception in Nevada.
 
 Steve raised two daughters on his own, and knows firsthand that there are certain things young women don’t want to discuss with their dad. So when it came time for those conversations, Steve leaned on Planned Parenthood and other family planning services to make sure his daughters had the education and tools they needed to stay informed and get the care they need. 
@@ -99,7 +99,7 @@ When the Trump Administration announced restrictions on family planning services
 
 With increasing attacks at the federal level and in the states, it has never been more important for Nevadans to have a governor who will fight for their rights. With Steve as our governor, Nevada will continue to expand and champion reproductive freedom.
 
-#### HEALTH CARE
+## HEALTH CARE
 No family should have to break the bank to stay healthy – that’s why Steve’s worked to expand access to lifesaving health care services while lowering costs for families. In a second term, he will build on our progress, support our families, and continue taking steps to build a healthier Nevada and a stronger workforce and economy.
 
 During his first term, Steve increased access to affordable health care by making protections for pre-existing conditions permanent, ending surprise billing, expanding transparency around drug pricing, creating a Patient Protection Commission, and becoming the second state in the nation to create a public health insurance option to expand affordable coverage–legislation that is estimated to lower the cost of premiums by 15% in the first four years and expand coverage to 350,000 additional Nevadans. 
@@ -112,7 +112,7 @@ Additionally, while states around the country are attacking reproductive rights,
 
 Reliable access to affordable health care isn’t a luxury – it’s a necessity for our communities, workforce, and economy. Under Steve’s leadership, Nevada will continue to be a leader on lowering costs for families and expanding quality, affordable care.
 
-#### CLIMATE CHANGE
+## CLIMATE CHANGE
 Since taking office, Steve has taken a bold approach to fight climate change and create clean jobs in Nevada. Protecting our environment for the next generation and growing our economy go hand-in-hand and Steve is committed to doing both.
 
 During his first term, Steve created a climate czar position in the governor’s office for the first time in state history, prioritized wildfire prevention efforts, implemented the Clean Cars Nevada initiative and closed the “classic car” loophole to reduce air and water pollution, and conserved Nevada’s iconic sagebrush habitat and Lake Tahoe region.

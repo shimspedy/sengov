@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Kristi Noem for governor 
+## Kristi Noem for governor 
 Kristi Noem is a wife, mother, grandmother, rancher, farmer, small business owner, and New York Times bestselling author of "Not My First Rodeo: Lessons from the Heartland."
 
 Governor Kristi Noem’s political career began with her 2006 election to the South Dakota State Legislature followed by her move to the United States House of Representatives and finally a return to Pierre as the state’s first female Governor. Each new office brought an ever-evolving set of responsibilities, but the mission has remained constant – make South Dakota a better place. Every policy decision and executive strategy is undertaken with that end goal in mind.
@@ -26,7 +26,7 @@ Nothing, however, exceeds Governor Noem’s dedication to raising her three chil
 
 Under Governor Noem’s leadership, South Dakota has served as a great example to the nation of what can be accomplished when you follow the governing philosophies our founders set in place. God bestows individual liberty and people should be able to exercise their freedoms without bureaucratic interference. Government’s role is to serve the people, working for them to provide opportunities for a better future. With Governor Noem, the focus will always be on making South Dakota a better place.
 
-#### Accomplishments
+## Accomplishments
 In 2010, after serving in the South Dakota legislature for several years, Noem was elected to serve as South Dakota’s lone member of the U.S. House of Representatives. During her time in Congress, in addition to many other successes, Governor Noem helped pass the Tax Cuts and Jobs Act, which put $2,400 back in the pockets of the average South Dakota family.
 
 In 2018, with the platform of protecting South Dakotans against tax increases, government growth, federal intrusion, and government secrecy, she was elected as South Dakota’s first-ever female Governor.

@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Janet Trafton Mills  for governor 
+## Janet Trafton Mills  for governor 
 Janet Mills is Maine through and through – and no one loves this state or believes in its people more than she does. That’s why she has always fought for Maine people and always will. She wants to keep moving Maine forward.
 
 Born and raised in rural Maine, Janet is the granddaughter of potato farmers from Aroostook County and the daughter of a World War II veteran and public school teacher. She learned the value of hard work early in life, delivering newspapers early in the morning and serving meals at the local diner in the evening while growing up. She graduated from Mt. Blue High School in Farmington, the University of Massachusetts at Boston, and the University of Maine School of Law.
@@ -32,7 +32,7 @@ And she’s just getting started.
 
 As a proud grandmother to three grandsons and two granddaughters, Janet will never stop fighting for Maine’s future. In her second term, she will continue to move Maine forward by strengthening our economy, fighting for better, more affordable health care, ensuring that all our young people can get a world-class education right here in Maine, preserving our lands and waters, fighting the opioid and climate crises, and making sure that Maine is the best place to live and work in the country.
 
-#### Expanding Access to Affordable Health Care
+## Expanding Access to Affordable Health Care
 Janet understands that all Mainers need to be able to see a doctor, to receive preventive care, and to be able to afford critical prescription medications. That is why on her first day in office she issued an executive order directing the Department of Health and Human Services to implement Medicaid expansion as swiftly as possible. Today, 93,000 Mainers have access to life-saving health care coverage as a result. 
 
 Janet has always stood with consumers and patients in the fight for fair prescription drug prices. In the first year of her administration, she signed a comprehensive prescription drug reform package to allow the wholesale importation of prescription medicine, to create a prescription drug affordability board, to increase drug price transparency and to better regulate pharmacy benefit managers. She also restored the Maine Low-Cost Drugs for the Elderly and Disabled Program to cover an additional 1,800 Maine seniors.
@@ -41,7 +41,7 @@ She also led our state through one of the most challenging times in Maine histor
 
 Janet is committed to tackling the problems that remain in our health care system, including addressing the ongoing workforce shortage  and ensuring high-quality care is available in rural Maine. She won’t stop until we recover from the impacts of the COVID-19 pandemic healthier and stronger.
 
-#### Ensuring Quality Education for All Children
+## Ensuring Quality Education for All Children
 As Governor, Janet has made a historic investment in Maine children and is the first governor to fully fund the state’s obligation to K-12 public education. She believes that all children deserve equal access to the same opportunity to attend quality schools, regardless of where they live in Maine. 
 
 Under her Administration, from cradle to college, our kids are supported. From enacting a budget that puts Maine on track for universal pre-K to two years of free community college to pandemic-impacted students, she recognizes that a high-quality education is integral to our state’s success.
@@ -52,7 +52,7 @@ As the daughter of a longtime Maine public school teacher, she knows firsthand h
 
 We can count on Janet to ensure that all Maine kids are equipped with the tools to succeed and reach their highest potential.
 
-#### Preserving our Natural Environment
+## Preserving our Natural Environment
 From rising seas to warming temperatures to deadly natural disasters, Maine’s climate is changing in profound and dangerous ways. Janet understands the serious implications for our state, our economy, and our people – both present and future – and that is exactly why she took bold and decisive action in the fight against climate change.
 
 Under her leadership, Maine joined the United States Climate Alliance, a bipartisan coalition of 25 governors and states that have committed to climate action, created the Maine Climate Council, withdrew from a national offshore drilling coalition, and removed a moratorium on clean wind power development.
@@ -67,7 +67,7 @@ Janet is a life-long outdoorswoman and understands that Mainers lives and liveli
 
 There’s more to do and Mainers can count on Janet to always ensure this beautiful place we all call home remains that way for future generations. 
 
-#### Supporting a Strong Economy Across the Entire State
+## Supporting a Strong Economy Across the Entire State
 Janet knows that our state’s best assets – our people, our natural resources, our quality of life and place – are exactly what will move our economy forward. 
 
 That’s why she’s made unprecedented investments in Maine small businesses and heritage industries, job training and skills programs that help workers access good-paying careers in Maine, and supporting Maine people and communities by expanding child care, affordable housing, broadband, and other critical infrastructure. 
@@ -82,7 +82,7 @@ But Maine people are navigating new challenges and while she can’t control the
 
 Janet delivered for Maine and she’s just getting started. 
 
-#### Fighting for Full Equality for all Mainers
+## Fighting for Full Equality for all Mainers
 Janet has been a champion for the LGBTQ community throughout her career in public service and has worked tirelessly to ensure that Maine is a welcoming, inclusive, and safe place to live for all. Under her administration, there has been significant progress made to secure full equality under the law for all Mainers and that work will continue in her next term. 
 
 In 2019, Governor Mills signed legislation banning so-called “conversion therapy” for minors – a widely discredited practice that attempts to change the sexual orientation or gender identity of LGBTQ individuals. This action sent an unequivocal message to young LGBTQ people in Maine and across the country that they are seen, they are supported and that Maine will always defend their right to be who they are.  
@@ -91,7 +91,7 @@ Janet has always been an ally. As a state legislator, she  backed Maine’s land
 
 Governor Janet Mills will always support the LGBTQ+ community and has the record to prove it. 
 
-#### ACCOMPLISHMENTS
+## ACCOMPLISHMENTS
 Progress for Maine and Maine people. That’s what Janet is all about – and as Governor, she has delivered time and again, including:
 
 - Expanding health care to more than 93,000 people by following the will of Maine voters and expanding MaineCare on Day One

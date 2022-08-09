@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Albert Bryan  for governor 
+## Albert Bryan  for governor 
 Albert Bryan Jr. is the eldest son born to Albert and Genevieve (Pilgrim) Bryan. Born on February 21, 1968 on St. Thomas, U.S. Virgin Islands, he and his four brothers, Troy, Robert, Andre, and Alrick, lived with their parents in the historic St. Thomas neighborhood of Savan. When Governor Bryan was a teenager, Mr. Bryan, Sr. moved the family to St. Croix where he was offered a better career opportunity. After living in several neighborhoods including Sugar Beach and Estate Whim, the Bryan family settled in Estate Diamond. After graduating from St. Dunstan’s Episcopal High School in 1985, Governor Bryan matriculated at Wittenberg University in Ohio and earned his Bachelor of Arts degree in Economics in 1989. 
 
 Immediately after college, Governor Bryan returned home to the Virgin Islands where he began a lengthy and successful career in both the private and public sectors holding positions of responsibility at HESS Oil Corporation, the V.I. Housing Authority, and Innovative Communications. Due to his drive, work ethic, and ingenuity, he quickly climbed the ranks and earned more responsibilities and promotions at these jobs. The managerial experience gleaned at these private sector jobs and from working closely with and on behalf of a labor union would, in fact, be portentous for his future entry into public service. Not one to shy away from opportunities for education and learning enhancement, Governor Bryan earned a Master of Arts degree in Business Administration (MBA) from the University of the Virgin Islands in 2003. 

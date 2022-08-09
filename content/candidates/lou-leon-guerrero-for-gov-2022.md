@@ -13,7 +13,7 @@ keywords:
 - governor 
 ---
 
-#### Lou Leon Guerrero  for governor 
+## Lou Leon Guerrero  for governor 
 The Honorable Lourdes “Lou” Aflague Leon Guerrero is the ninth Governor of Guam. She is the first female governor of the territory and is a registered nurse, a businesswoman, a policymaker, a mother, and a grandmother.  
 
 Since taking office in January 2019, she’s nearly eliminated GovGuam’s deficit from $83 million to $1.5 million. Additionally, she increased the minimum wage, legalized cannabis, ended two federal receiverships, and paid millions  in war reparations owed to Guam’s WWII survivors with adjudicated claims.  

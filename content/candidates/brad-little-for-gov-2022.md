@@ -13,14 +13,14 @@ keywords:
 - governor 
 ---
 
-#### Brad Little for governor 
+## Brad Little for governor 
 Brad Little is Idaho’s 33rd Governor, leading the people of Idaho through the most prosperous time in state history!
 A lifelong conservative, Governor Little’s first term is marked by historic tax relief, unparalleled red tape reduction, extraordinary economic growth, and unprecedented investments in education to ensure a strong workforce for years to come.
 
 Governor Little is committed to continuing to lead Idaho with his goal for Idaho in mind – to make Idaho the place where we all can have the opportunity to thrive, where our children and grandchildren choose to stay, and for the ones who have left to choose to return.
 
 
-#### Brad Little – Rancher and Family Man
+## Brad Little – Rancher and Family Man
 
 A lifelong rancher and businessman, Brad Little is a third-generation Idahoan with a long family history of public service.
 
@@ -34,7 +34,7 @@ Brad finished his agricultural business degree at the University of Idaho in 197
 
 “It was a steep learning curve, and I made a lot of mistakes,” Little concedes, but his innate grasp of the economy – agricultural, state, national, and even global – served him well.
 
-#### Brad Little – Leading Idaho
+## Brad Little – Leading Idaho
 
 For more than three decades, Brad Little has taken on leadership roles within the state to promote better opportunities for the Idaho people. His involvements ranged from agriculture to business to education to philanthropy.
 
@@ -46,10 +46,10 @@ Then, the people of Idaho elected him their 33rd Governor, and he took office on
 
 Now Governor Little is asking for the people’s support again so he can continue to advocate for Idaho’s sovereignty, promote a strong economy, and invest in our workforce.
 
-#### ACCOMPLISHMENTS
+## ACCOMPLISHMENTS
 During his first term as Governor, Brad Little has already recorded historic achievements when it comes to saving Idahoans more of their hard-earned money, protecting our state’s financial wellbeing, and defending the values Idaho families hold dear.
 
-##### Check out Gov. Brad Little’s top 10 latest accomplishments:
+### Check out Gov. Brad Little’s top 10 latest accomplishments:
 
 1. Cutting red tape – In just three years, we cut or simplified a whopping 95-percent of Idaho regulations, easing burdens on small businesses and citizens. And we’re going to keep on cutting red tape in the years ahead!
 

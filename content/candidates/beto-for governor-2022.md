@@ -15,12 +15,12 @@ tags:
 keywords:
 - governor 
 ---
-#### Beto O’Rourke  for governor 
+## Beto O’Rourke  for governor 
 Beto O’Rourke is a fourth-generation Texan, born and raised in El Paso where he has served as a small business owner, a city council representative and a member of Congress. He founded and currently leads Powered by People, a Texas-based organization that works to expand democracy and produce Democratic victories through voter registration and direct voter engagement. Powered by People has helped register over 250,000 unregistered Texans to vote since its inception in December 2019.
 
 Beto is married to Amy O’Rourke and together they are raising Ulysses, Molly and Henry in El Paso’s historic Sunset Heights.
 
-#### About Beto O’Rourke 
+## About Beto O’Rourke 
 Robert Francis "Beto" O'Rourke (born September 26, 1972) is an American politician who served as the U.S. representative for Texas's 16th congressional district from 2013 to 2019. A member of the Democratic Party, O'Rourke was a candidate for the U.S. Senate in 2018 and for the Democratic presidential nomination in 2020, and is the Democratic nominee for the 2022 Texas gubernatorial election.
 
 O'Rourke was born into a local political family in El Paso, Texas, and is a graduate of Woodberry Forest School and Columbia University. While studying at Columbia, he began a brief music career as bass guitarist in the post-hardcore band Foss. After his college graduation, he returned to El Paso and began a business career. In 2005, he was elected to the El Paso City Council, serving until 2011; he served as mayor pro tempore during his first year in office. O'Rourke was elected to the U.S. House of Representatives in 2012 after defeating eight-term incumbent Democrat Silvestre Reyes in the primary.
@@ -31,14 +31,14 @@ On March 14, 2019, O'Rourke announced his candidacy in the 2020 United States pr
 
 O'Rourke is the 2022 Democratic gubernatorial nominee, challenging incumbent governor Greg Abbott. O'Rourke won the Democratic nomination for governor on March 1, 2022.
 
-#### Issues
+## Issues
 
-##### World-Class Schools
+### World-Class Schools
 Public education is about the future of our kids and the future of our economy—because if we want the best jobs in America to be right here in Texas, we need the best schools in America to be right here in Texas.
 
 But when I talk to teachers across the state, they tell me they lack the resources and flexibility they need to fully unlock a lifelong love of learning in the students in their classroom. Greg Abbott has underfunded Texas schools by $4,000 per student compared to the national average, and Texas’ hyper-focus on standardized testing has tied the hands of educators, forcing them to teach to a test instead of teaching to the children in front of them.
 
-###### I will fully fund public schools.
+#### I will fully fund public schools.
 
 Texas teachers are doing the most they can with the limited resources they have, but they’re burnt out, helping to explain why one-third leave the profession by their fifth year. Our teachers are underpaid by about $7,500 compared to those in other states, and educators who retired after 2004 haven’t received a single cost of living adjustment on their retirement benefits.
 
@@ -46,10 +46,10 @@ As governor, I will fully fund public schools and fully support teachers, studen
 
 We will put more money into our kids’ classrooms and reject any effort to take your public tax dollars out of your schools. We will recruit and retain the best and brightest educators by raising teacher pay, strengthening health care and retirement benefits, and treating teachers with the respect they deserve. And we will finally end this state’s over-reliance on high-stakes standardized testing so that we can focus on measures that better inform instruction, address student learning gaps, and provide appropriate feedback to educators.
 
-#### High-Paying Jobs
+## High-Paying Jobs
 Texas is the ninth largest economy in the world—we should see good jobs coming to every part of Texas. Yet over the past decade, Texas has lost 600,000 living wage jobs, while growth has been concentrated in the kinds of jobs that don’t pay enough for the average Texas family to get by. With 1 in 5 Texas children living in poverty, it’s clear that the Texas economy isn’t working for everyone.
 
-###### Over the past decade, Texas has lost 600,000 living wage jobs.
+#### Over the past decade, Texas has lost 600,000 living wage jobs.
 
 Together, we can ensure that the best jobs in America are created right here in Texas. That means raising the minimum wage to ensure every Texan is paid the full value of their work, increasing access to paid and sick leave, making Texas a right-to-organize state, and ensuring Texas leads on the big, bold innovations that can move this state forward.
 
@@ -59,18 +59,18 @@ We will take Texas from having one of the worst health care systems in the count
 
 And we’ll ensure infrastructure development projects flow to every part of the state—to urban, suburban, and rural communities alike—to build out the roads, bridges, water systems, and broadband that will encourage economic development in our communities. We’ll create not just any infrastructure jobs, but family-supporting infrastructure jobs, with good pay, good benefits, and good job training opportunities.
 
-###### Together, we can ensure the best jobs in America come right here to Texas.
+#### Together, we can ensure the best jobs in America come right here to Texas.
 
 To make sure every Texan willing to work hard and serve their community can access these types of high-paying jobs, we will dramatically expand access to apprenticeships, career and technical education programs, and other job training opportunities in Texas’ most in-demand industries. That’s the only way to ensure each of our families have the opportunity to move up and move forward.
 
-#### Affordable Health Care
+## Affordable Health Care
 All Texans deserve access to affordable health care so that they’re well enough to go to school, pursue a career, and live to their full potential. But with 1 in 5 Texans uninsured, Texas leads the nation in the number of people who can’t afford to see a doctor or fill a prescription—and we rank dead last in the nation when it comes to mental health care access.
 
 While expanding Medicaid is our best shot at turning things around, Greg Abbott has refused to take action, keeping $100 billion of our own federal tax dollars from coming back to Texas to insure more people.
 
 But it’s more than that: This means that when an uninsured Texan goes to the emergency room, all of us foot the bill in the form of higher insurance premiums and higher taxes to our local hospital districts—which helps to explain why Texas has some of the highest property taxes and health care costs in the entire country.
 
-###### The failure to expand Medicaid is driving up our property taxes and insurance premiums.
+#### The failure to expand Medicaid is driving up our property taxes and insurance premiums.
 
 Since taking office, Governor Abbott has also slashed funding for programs designed to recruit and retain medical professionals by nearly half, which helps to explain why our hospitals are 20,000 nurses short, and why over half of Texas counties lack a medical specialist or mental health provider of any kind.
 
@@ -80,10 +80,10 @@ In addition to my Nursing Jobs Plan—which will create a state-sponsored schola
 
 We’ll take Texas from having the worst health care system in the country to having one of the best.
 
-#### Small Business
+## Small Business
 As a former business owner in my hometown of El Paso, I met a payroll every month for 15 years and created dozens of high-skill, high-wage jobs that one might not expect to see in a border community.  As governor, I will have the backs of all those Texans with a dream looking to create great jobs in their communities.
 
-##### I will have the backs of all those Texans with a dream.
+### I will have the backs of all those Texans with a dream.
 
 I’ll ensure Texas multiplies partnerships with private lenders and community banks to expand access to capital, credit, and training—especially in low-income and rural areas where it’s traditionally hard to come by. 
 
@@ -93,7 +93,7 @@ I’ll also set a strong example by directing state agencies to use Texas’ pur
 
 Together, we’ll ensure Texas is the number one state for innovators and hard workers to start and grow their small businesses.
 
-#### Power Grid and Energy Bills
+## Power Grid and Energy Bills
 In the ninth largest economy in the world, we shouldn’t have to worry that the people in power can’t keep the power on for the people of Texas.
 
 Yet the power grid failed last February, killing over 700 people, causing over $300 billion in economic damages, and leaving millions of our fellow Texans in the dark and cold for days. And in the months since, Texans across the state continue to lose power when the weather gets too hot or too cold for the grid to support.
@@ -111,7 +111,7 @@ And what does that mean for the rest of us? Just look at your next energy bill: 
 
 The corruption ends when I’m governor. We’re going to redesign the power grid to prioritize Texas families, not wealthy energy corporations. We’re going to fully weatherize the power grid to withstand extreme weather and connect Texas to the national grid so that we can draw down power when we need it most. We’re going to prevent energy corporations from price gouging Texans in the future and dramatically reduce Texans’ energy bills going forward.
 
-#### Property Taxes
+## Property Taxes
 In the seven years that Abbott has been governor, property taxes have skyrocketed $20 BILLION. Why? It’s simple:
 
 First, Abbott isn’t looking out for Texas families—he’s looking out for his wealthy corporate donors. Year after year, he allows corporations to manipulate the appraisal process and shift billions upon billions of dollars of their tax burden onto the rest of us. As governor, I will ensure wealthy corporations pay what they truly owe, dramatically reducing property taxes for families and small businesses.
@@ -126,7 +126,7 @@ Property taxes are up $20 billion since Abbott took office.
 
 Bottom line: We can provide true property tax relief, uphold Texas’ proud tradition of being a No Income Tax state, and hold the line on sales taxes if we just get smarter about managing the state budget, even the playing field between Texas families and wealthy corporations, and bring in new forms of state revenue by doing commonsense things like expanding Medicaid and legalizing marijuana.
 
-#### Border and Immigration
+## Border and Immigration
 As a fourth generation border resident who is raising my three children in El Paso, guaranteeing safety and security at our border is at the top of my priorities. Texas should be THE leader in building a safe, legal, orderly immigration system that meets the needs of our state and country. No state has more to gain or lose.
 
 To get this right, we must lead with bipartisan solutions, not counterproductive political stunts. For decades, Republicans and Democrats alike have treated the border like a political football, opting for photo ops and bumper sticker campaign slogans instead of real reform. As a result, human smugglers and criminal networks are able to exploit and profit off of our dangerously outdated laws.
@@ -143,7 +143,7 @@ To do any of this, we must first listen to border communities — those who have
 
 That’s how we begin to finally establish a safe, legal, orderly immigration system for Texas and this country.
 
-#### Reproductive Freedom
+## Reproductive Freedom
 All Texans deserve the freedom to make their own decisions about their own bodies, their own health care, and their own future. We deserve the freedom to decide if, when, and with whom to start a family.
 
 But Greg Abbott believes that the government has the right to upend these freedoms, control women’s bodies, and strip women of their personal autonomy. At the same time that he starves the Texas foster care system, maternal health care, and social safety net programs, he has led the most extreme attack on reproductive health care in the entire nation. It couldn’t be more clear that this isn’t about life; it’s about controlling women.
@@ -157,7 +157,7 @@ This ends when I’m governor. I will trust Texas women to make their own health
 
 In addition to restoring women’s freedom to choose, we will fully fund family planning services and launch an aggressive initiative to combat this state’s maternal mortality crisis, including by expanding Medicaid eligibility to help more women see a doctor and by increasing Medicaid coverage for pregnant women to at least one year postpartum.
 
-#### LGBTQ+ Rights
+## LGBTQ+ Rights
 Texas is big enough for all of us—no matter who we are or who we love.
 
 But instead of delivering for all of us, Greg Abbott uses his power to demonize us, divide us, and pit us against each other for his own political benefit. 
@@ -172,7 +172,7 @@ We’ll use our power to pass this state’s first comprehensive nondiscriminati
 
 That’s how we ensure that every person in this state can finally live freely as themselves and free from discrimination.
 
-#### Rural Investment
+## Rural Investment
 I want every part of Texas to share in this state’s wealth.
 
 But right now, when great jobs come to Texas, they’re not coming to rural communities. That’s not because they’re not full of hardworking people; it’s because state leaders have failed to partner with rural communities to invest in education, health care, and broadband, making it harder and harder to recruit and retain talent and encourage economic investment.
@@ -185,7 +185,7 @@ I want every part of Texas to share in this state’s wealth.
 
 I will expand Medicaid to help keep rural hospitals open and ensure no Texan has to drive hundreds of miles just to see a doctor. I will create incentive allotment programs for rural teachers and physicians to ensure rural communities can recruit and retain the very best talent. And I will expand access to affordable broadband to ensure that students can do homework online, businesses can succeed, and families can connect with each other.
 
-#### Freedom to Vote
+## Freedom to Vote
 Every citizen in this state should be able to vote. Generations of Texans have fought and died to defend that right and protect our democracy.
 
 Yet in a cynical ploy to maintain power and shield himself from the will of the people, Greg Abbott has made Texas the hardest state in which to register to vote and cast a ballot.
@@ -197,7 +197,7 @@ As governor, I will ensure every eligible voter can access the ballot box and ha
 
 We will pass online and same-day voter registration, expand eligible forms of voter ID, reduce obstacles to voting by mail, expand access to polling sites, and establish nonpartisan redistricting commissions to ensure that Texas voters have the power to pick their leaders, not the other way around.
 
-#### Energy and Environment
+## Energy and Environment
 As governor, I will work tirelessly to ensure Texas remains the global energy leader for generations to come. I’ll ensure that we fix our failing power grid, expand the energy jobs we create in Texas, bring down Texans’ energy bills, and help lead the fight against climate change.
 
 I will add to our hundreds of thousands of oil and gas jobs by pursuing the Texas labor movement’s aggressive clean energy jobs plan, which aims to create 1.1 million high-paying jobs over the next 25 years by investing in geothermal power generation, hydrogen-fueled energy, offshore wind, solar generation, energy efficiency, and more.
@@ -208,7 +208,7 @@ And as energy consumers around the world increasingly demand cleaner energy, it�
 
 Pursuing these solutions now promises to bring billions of dollars into the Texas economy—but if we don’t act soon, other states and countries will pass us by.
 
-#### Gun Safety
+## Gun Safety
 
 I’m proud of Texas’ long tradition of responsible gun ownership. Like millions of Texans, my family taught me how to safely and responsibly use firearms—and I passed those teachings onto my own children.
 
@@ -230,7 +230,7 @@ Preventing tragedies like these will require making progress on commonsense solu
 
 As Texans, we can move forward on these reforms. We can protect the Second Amendment while also protecting our friends, family members, and neighbors from gun violence. Our lives depend on it.
 
-#### Marijuana Legalization
+## Marijuana Legalization
 We shouldn’t be locking Texans up for a substance that is legal in much of the rest of the country.
 
 Marijuana arrests have created vast racial disparities in our criminal justice system, generated an unnecessary burden on Texas taxpayers, and diverted law enforcement officers’ time and attention away from violent crime.
@@ -239,7 +239,7 @@ When I’m governor, we will legalize marijuana and expunge the records of those
 
 It’s the right thing to do.
 
-#### Disability Rights
+## Disability Rights
 Texans with disabilities of all ages deserve equal opportunity to live and age in place and to achieve economic self-sufficiency in the community.
 
 Yet under Greg Abbott’s leadership, Texas ranks 49th in the nation when it comes to access to services for people with disabilities, employers are allowed to pay disabled Texans subminimum wages, our public education system continues to make headlines for discriminating against students with special needs, and new, discriminatory voting laws have made it even harder for Texans with disabilities to participate in our elections.
@@ -260,7 +260,7 @@ As governor, I will work in partnership with the disability community to ensure 
 
 6. Voting Rights: We will guarantee accessible voting methods so that every eligible Texan can participate in our democracy, including by reducing barriers to mail-in voting, repealing voting restrictions designed to intimidate personal attendants, restoring access to drive-through voting, and more.
 
-#### Public Safety and Criminal Justice
+## Public Safety and Criminal Justice
 As governor, my number one job will be to keep the people of Texas safe. 
 
 I agree with police chiefs from across the state, who tell me Texas will be safest and most secure when we start funding programs like mental health care, addiction treatment, housing support, and youth services that prevent crime before it happens and give families the tools to lead good lives and give back to our communities.
@@ -275,13 +275,13 @@ And finally, it’s critical that we equip people leaving jail and prison with t
 
 That’s how we’ll strengthen the safety of our families, our communities, and our state.
 
-#### Serving Our Veterans
+## Serving Our Veterans
 My top priority while serving in Congress was delivering for Texas veterans. Serving on both the Veterans Affairs and Armed Services committees in the U.S. House of Representatives, I worked with Republicans and Democrats alike to lift up the heroes who have put their lives on the line for our country.
 
 My VA health care reform plan added two new VA clinics in my hometown of El Paso, nearly doubled the number of mental health providers at the local VA, and ultimately brought wait times down from an average of 71 days to an average of 5 days.
 
 In addition, I authored and passed legislation that expanded access to VA mental health care to veterans with other-than-honorable discharges, granted every separating service member access to a mental health screening, improved and customized transition assistance for service members leaving the military—and more.
 
-##### Texas can and must do more to serve our veterans.
+### Texas can and must do more to serve our veterans.
 
 Texas can and must do more to serve our veterans. As governor, I will prioritize efforts to end veteran homelessness in Texas by the end of my first year in office, cut property taxes for disabled and low-income veterans, dramatically expand the state’s veterans health care case management system, strengthen services for veterans suffering from toxic exposure, expand access to medical marijuana and other alternatives to harmful opioids, and strengthen access to the education and employment benefits that our veterans have earned.

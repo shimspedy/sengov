@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Kay Ivey  for governor 
+## Kay Ivey  for governor 
 When Kay Ivey was first sworn-in as the 54th Governor of the State of Alabama in April 2017, she got right to work cleaning up Montgomery and restoring the people’s trust in government. That’s because Kay is a conservative fighter, whose life has prepared her to lead our state towards prosperity and opportunity for every Alabamian.
 
 She grew up working on the family farm in Wilcox County. That’s where Kay learned to put in a hard day’s work, to live within her means, to have faith, and to support family and community.
@@ -39,7 +39,7 @@ But that’s what her lifetime of work has prepared for.
 
 She’s our conservative fighter—and she’s going to continue winning for Alabama.
 
-#### They’re what make us great
+## They’re what make us great
 - I believe in God, and I believe we need to look to Him for the answers.
 
 - I believe every life is precious. As a pro-life governor, I will always fight to protect the unborn.
@@ -60,7 +60,7 @@ She’s our conservative fighter—and she’s going to continue winning for Ala
 
 - I believe we must continue to root out corruption in Montgomery. Together, we’ve made great progress, but there is still work to be done.
 
-#### ACCOMPLISHMENTS
+## ACCOMPLISHMENTS
 Alabama is working again.
 - Delivered the lowest unemployment in Alabama history.
 - Created 65,000 new jobs. Built the best business climate in all fifty states.

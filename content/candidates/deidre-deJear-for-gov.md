@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-#### Deidre DeJear for governor 
+## Deidre DeJear for governor 
 
 Iowans want someone to get to work for them. Deidre has dedicated her life to serving her community and that is what she will do as Governor starting on Day One.
 
@@ -32,35 +32,35 @@ Our children are worth fighting for the best education system possible; we can p
 
 Deidre knows firsthand that what Iowans want is for our government to focus on our common needs, not the small differences that divide us. But government only works well if it’s led well. That is not what we are seeing in Iowa today, where our Governor foments partisanship and pits Democrats and Republicans against one another for political gain.
 
-#### About Lt. Governor Eric Van Lancker
+## About Lt. Governor Eric Van Lancker
 Eric Van Lancker has served as Clinton County Auditor and Commissioner of Elections for 12 years and is currently in his fourth term. Eric served as President of the Iowa State Association of County Auditors (ISACA) in 2014 and has served several years as the President of ISACA District 6. Eric has also served several years as the State Election Administration Training (SEAT) Curriculum Chairman as well as taught several SEAT sessions.
 
 Eric was born and raised in Cedar Rapids. He graduated from the University of Northern Iowa with a degree in Communications — Radio/TV Broadcasting. Eric worked as a journalist for more than a decade. He also did development and marketing for a non-profit agency that provided services to people with disabilities in Clinton County. Eric also worked for the City of Clinton as Assistant Superintendent of Collections Systems (sewer maintenance and solid waste collection) before being elected as Clinton County Auditor in 2008.
 
 Eric and Tanya have been married for 28 years and have lived in Clinton since marriage. They have two grown children, Caitlyn and Jackson.
 
-#### ISSUES
+## ISSUES
 Iowa is my home, and as your Governor,  I will work hard for you because I know that Iowa is worth the work. I am committed to ensuring that our state and its people are supported and our communities are strengthened. There is something special about this state. and as I am traveling county by county, I’m not the only one who believes that. I’ve met Iowans who take great pride in this state, however imperfect it may be, they see the good in their communities and the potential for our future. 
 
 Iowa has built small businesses, Iowa has built national education models, we built the first computer, Iowa has built a thriving agricultural system, Iowa has built good hard working people, Iowa has built fields of opportunity. We aren’t done building. We’ve got work to do, because Iowa is worth the work.
 
-#### ECONOMIC DEVELOPMENT
+## ECONOMIC DEVELOPMENT
 In Iowa we have a skills gap, a worker shortage and continue to see a loss of jobs in our rural and urban communities. We must implement a true, comprehensive economic plan that will keep jobs here, attract new manufacturing and technology jobs, strengthen small businesses, welcome unions and their support of workers rights, ensure a sustainable wage for all Iowa families, and close the skills gap through training and education to Iowa’s untapped talent.  
 
-#### VOTING
+## VOTING
 Voting is our most basic, democratic right and must be protected. It is time to strengthen our voting system, making it safe and accessible so ALL Iowans have equal access to the ballot box and can rightfully participate in our democracy. Iowa has always positioned itself as a leader, now is the time to lead by example and ensure the protection of all Iowans’ voting rights.
 
-#### EDUCATION
+## EDUCATION
 Every Iowan deserves a first class education that prepares them for a career and/or higher education. It is time to fully fund our education system at every level, including universal Pre-K and child care, affordable colleges and trade programs, and prioritizing equitable pay and benefits for Iowa educators. 
 
-#### TECHNOLOGY
+## TECHNOLOGY
 Iowa is 45th in the nation in broadband speed. Our state must live up to its potential and finally become a competitive technological hub by expanding broadband, increasing speeds, and welcoming the technologically driven jobs of the future. 
 
-#### ACCESSIBLE AFFORDABLE HEALTHCARE
+## ACCESSIBLE AFFORDABLE HEALTHCARE
 Access to quality affordable healthcare and mental health services is imperative. Unfortunately it is out of reach for too many, including our rural communities. The COVID-19 Pandemic has unveiled the inadequacies in Iowa’s healthcare systems; now more than ever we must make sure our healthcare system meets the needs of Iowans today and improves the future of health and wellness for every Iowan and healthcare practitioner.
 
-#### CLEAN WATER / ENVIRONMENTAL JUSTICE
+## CLEAN WATER / ENVIRONMENTAL JUSTICE
 Iowa has always been a place of fruitful soil and fields of opportunity. With the very pressing threat of climate change affecting our world, Iowa must move forward as a leader with an environmental justice plan that centers on protecting our rural communities, communities of color, communities with disabilities, our children and the sick. Protecting our waterways while creating good paying renewable energy jobs will enhance our lives and further strengthen our economy. 
 
-#### RURAL DEVELOPMENT
+## RURAL DEVELOPMENT
 Our rural communities are integral to the success of our state. We must invest in our rural areas so that people can live in the communities they love; from sustainable farms to thriving town squares with small business development, jobs, technological upgrades, quality education and accessible health care. Neglecting the needs of rural Iowans only moves this state farther back rather than forward.
