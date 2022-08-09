@@ -31,7 +31,7 @@ If elected, I won’t take office until January of 2023; in the meantime, I enco
 
 My policy as governor would be to educate the people of Arizona on any public health risks and then allow them to make the best choices to protect themselves, their families and their businesses, while focusing our resources on protecting and supporting those individuals who – due to age or illness – are truly at the most risk. 
 
-#### Don't California our Arizona
+#### Dont California our Arizona
 I want to see Arizona remain a great symbol of the American West. We don't want to be some homogenized, unrecognizable state, a second California. California is the "Progressive Dream" realized in full after decades of one-Party Democrat control. And what does that dream look like? It's a deliberate, unmoving traffic jam next to a homeless encampment where people are using the sidewalk as a toilet and shooting up in front of a cop who isn't allowed to do anything about it.
 
 The list of progressive policies that have failed is comprehensive. They've used "Vision Zero" to deliberately tie traffic in knots in an attempt to make driving so inconvenient people are forced onto buses. They've used "Justice Reform" to turn criminals loose on the population to commit crime without consequence. Their version of "Housing Equity" has made it so costly and impossible to build new housing that they've created an artificial housing crisis and tens of thousands of newly homeless people. The list goes on. Their homelessness policies are a complete failure and actively enable long-term street homelessness, vagrancy, and drug use. Their taxes, regulations, and wasteful spending are driving businesses away at a record pace and preventing new ones from getting off the ground. People are fleeing in droves. 
@@ -150,7 +150,7 @@ I will work with our representatives in Washington to ensure the continuation of
 
 This is an essential expansion of the Guard facilities to make it possible for them to service the next generation of aerial refueling tankers, which are too large to fit in their current hangers. Failing to do so puts current squadron deployments at Luke and DM at significant risk of being relocated to other bases. We cannot allow that to happen. As Governor, I will push hard to get this done, and do everything I can to support the men and women of our armed services here in Arizona.
 
-#### Cancel Culture & Censorship
+#### Cancel Culture and Censorship
 We’ve allowed a handful of perpetually-aggrieved emotional infants to hijack our language and culture while trying to dictate the words we speak and the thoughts we are allowed to hold. We used to call these people what they are: mentally unbalanced. We humored them, but we ignored them. Then along came Twitter, and suddenly tech companies, media, schools, and governments decided it was better to give the unbalanced what they wanted than ignore a bunch of unhinged tweets. In turn, these self-appointed high-priests of cancellation are making everyone else’s lives miserable. Why are we allowing this? The vast majority of Arizonans, and Americans generally, abhor political correctness and cancel culture.
 
 This isn’t a game anymore. This is about your freedom. Freedom from censorship. Freedom from oppression. Freedom from thought-control. Freedom to not be afraid that a slip of the tongue today, or twenty years ago, will be used to take your job, your life away. The unholy alliance between cancel culture, big tech, higher education, and government must be broken.
