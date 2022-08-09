@@ -1,5 +1,5 @@
 ---
-date: 2022-08-08T10:02:29-04:00
+date: 2022-08-06T10:02:29-04:00
 title: " Tim Scott  for senator 2022"
 seo_title: "South Carolina senator Tim Scott "
 description: Tim grew up in poverty in a single-parent household in North Charleston.
