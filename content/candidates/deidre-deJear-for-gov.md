@@ -1,5 +1,5 @@
 ---
-date: 2022-08-05T11:07:28-04:00
+date: 2022-08-07T11:07:28-04:00
 title: " Deidre DeJear  for governor 2022"
 seo_title: "Iowa Governor Deidre DeJear "
 description: Deidre was born in Jackson, Mississippi, and as a child moved with her family to Oklahoma
