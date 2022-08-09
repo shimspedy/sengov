@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative A. Drew Ferguson IV  
      description: Anderson Drew Ferguson IV is an American politician who is the U.S. Representative for Georgia's 3rd congressional district. The district stretches from the southern suburbs of Atlanta to the northern suburbs of Columbus.
 description: Contact Representative A. Drew Ferguson IV  of Georgia. Contact information for A. Drew Ferguson IV  includes email address, phone number, and mailing address.
-image: ferguson-a-drew.jpeg
+image: ferguson-a-drew.jpg
 video: 
 url: /georgia/ferguson-a-drew/
 weight: 1

@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Raphael Warnock of Georgia. Contact information for Raphael Warnock includes email address, phone number, and mailing address. 
 image: raphael-warnock.jpg
 video: 
-url: /georgia/raphael-warnock
+url: /georgia/raphael-warnock/
 weight: 1
 layout: course_home
 
