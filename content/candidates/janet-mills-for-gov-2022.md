@@ -90,3 +90,28 @@ In 2019, Governor Mills signed legislation banning so-called “conversion thera
 Janet has always been an ally. As a state legislator, she  backed Maine’s landmark law to prohibit discrimination on the basis of sexual orientation and gender identity. And as the Attorney General, she testified in favor of the historic marriage equality bill and joined other attorneys general across the country in federal lawsuits aimed at stopping discrimination against LGBTQ individuals in the Armed Forces and elsewhere.
 
 Governor Janet Mills will always support the LGBTQ+ community and has the record to prove it. 
+
+#### ACCOMPLISHMENTS
+Progress for Maine and Maine people. That’s what Janet is all about – and as Governor, she has delivered time and again, including:
+
+- Expanding health care to more than 93,000 people by following the will of Maine voters and expanding MaineCare on Day One
+
+- Helping Maine businesses and their employees afford health care through her Maine Jobs and Recovery Plan
+
+- Making historic investments in Maine schools, fully funding – for the first time in Maine history – Maine’s public school systems
+
+- Expanding Pre-K programs across Maine and funding new equipment for Maine Career and Technical Education (CTE) Centers
+
+- Leading Maine through the COVID-19 pandemic with nation-leading results, including one of the highest vaccination rates and lowest COVID-19 death rates in the nation
+
+- Protecting Maine’s cherished lands and waters – including working waterfronts, forests and farmlands – by reinvigorating the Land for Maine’s Future Program
+
+- Fighting the climate crisis by establishing the Maine Climate Council and working with communities to make Maine more energy-efficient and embrace clean, renewable power
+
+- Dedicating unprecedented funding to fix Maine’s roads and bridges
+
+- Providing direct inflation relief to Mainers in the form of $850 checks, that will provide economic assistance to more than 850,000 Mainers
+
+With Maine’s economy making a strong comeback, and more people moving to Maine, she is laser-focused on strengthening and making sure Maine is the best state in the nation to live, work, and raise a family. That’s why she has passed unprecedented investments in the things Maine people need to be successful, like child care, housing, broadband and why she gave back half of Maine’s surplus to Maine people to help them fight inflation.
+
+Despite the pandemic, Maine has made significant progress under Janet in just three and a half years, and she wants to keep Maine moving forward.
