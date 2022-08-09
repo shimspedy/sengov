@@ -51,7 +51,7 @@ This year alone, Governor Stitt has increased wages for public safety profession
 
 -Signed into law pay increases for correctional officers, highway patrol and other State employees. 
 
-####SMART ON CRIME
+#### SMART ON CRIME
 
 - Reformed the funding of District Attorneys so that they are not perversely incentivized to use fines and fees to fund their budgets. 
 - Called for and signed into law the nation’s largest commutation of low-level drug offenders from prison, of which the recidivism rates has held around 5%, well below the State’s average of 29% and the national average of 35%. 
