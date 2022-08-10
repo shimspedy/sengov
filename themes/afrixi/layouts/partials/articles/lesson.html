@@ -50,16 +50,20 @@
                     <td>Party</td>
                     <td>{{.Params.Party}}</td>
                   </tr>
+                  {{ if isset .Params "born" }}
                   <tr>
                     <td>Born</td>
                     <td>
                       {{.Params.Born}}
                     </td>
                   </tr>
+                  {{end}}
+                  {{ if isset .Params "enteredoffice" }}
                   <tr>
                     <td>Entered Office</td>
                     <td>{{.Params.Enteredoffice}}</td>
                   </tr>
+                  {{end}}
                   {{ if isset .Params "terms" }}
                   <tr>
                     <td>Terms</td>
@@ -84,10 +88,12 @@
                     <td>{{.Params.Terms3}}</td>
                   </tr>
                   {{end}}
+                  {{ if isset .Params "termexpires" }}
                   <tr>
                     <td>Term expires</td>
                     <td>{{.Params.Termexpires}}</td>
                   </tr>
+                  {{end}}
                   {{ if isset .Params "Officeroom" }}
                   <tr>
                     <td>Office Room</td>
