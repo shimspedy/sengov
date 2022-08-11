@@ -1,7 +1,27 @@
 #map{
-    border: 2px solid #101d51;
-    padding: 10px;
+    -webkit-box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+    box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+    background: #4f5885;
 }
+#governors{
+    background: silver;
+    color: #000;
+    border-color: #fff;
+    -webkit-box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+    box-shadow: 0 0 0 3px silver,1em 1em 3px 0 rgb(0 0 0 / 9%);
+}
+#governors,
+#map {
+    cursor: default;
+    margin: 2em auto;
+    border: 6px double #fff;
+    padding: 1em;
+}
+#governors h5 {
+    font-family: System,monospace;
+    font-size: 13pt;
+}
+
 #us-map{
     display:block;width:60%;
     height:100%;margin:auto}

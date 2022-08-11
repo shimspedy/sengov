@@ -118,13 +118,19 @@ article .contents ul:not(.browser-default) li:before {
 }
 
 .senator-info {
-     border-right: 5px solid #0f1b547a;
+     /* border-right: 5px solid #0f1b547a;
      border-left: 5px solid #563197;
      border-top: 5px solid #414094;
      border-bottom: 5px solid #a9007a;
      border-radius: 20px;
      padding: 5px;
+     background: #8fa8d542; */
+     padding: 5px;
      background: #8fa8d542;
+     cursor: default;
+     border: 6px double #fff;
+     -webkit-box-shadow: 0 0 0 3px #3465a4, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+     box-shadow: 0 0 0 3px #3465a4, 1em 1em 3px 0 rgb(0 0 0 / 9%);
 }
 
 td,
@@ -135,7 +141,14 @@ th {
 }
 
 .bio {
-     background-color: #8299dd63 !important;
+     margin-left: 10px;
+     border-radius: 0;
+     background: #8fa8d542;
+     cursor: default;
+     border: 6px double #fff;
+     -webkit-box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+     box-shadow: 0 0 0 3px silver,1em 1em 3px 0 rgb(0 0 0 / 9%);
+     
 }
 
 .democratic {
@@ -174,16 +187,13 @@ article ul:not(.browser-default) #table-of-contents li {
 }
 
 #table-of-contents {
-     border-width: 2px 2px 4px;
-     border-style: solid;
-     border-color: rgba(237, 217, 159, 0.25) rgba(245, 218, 142, 0.2) rgb(237, 217, 159);
-     border-image: initial;
-     border-bottom: 4px solid rgb(237, 217, 158);
-     border-radius: 10px;
      padding: 25px 10px 20px;
      margin: 40px 0;
-     -webkit-box-shadow: 0 2px 3px rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .1);
-     box-shadow: 0 2px 3px rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .1);
+     background: #8fa8d542;
+     cursor: default;
+     border: 6px double #fff;
+     -webkit-box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+     box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);
 }
 
 #table-of-contents ul {
@@ -249,14 +259,6 @@ article .flow-text h3:hover::before {
      border-bottom: 5px solid #a9007a;
 }
 
-#governors,
-#map {
-     border: 1px solid #888;
-     background: #FFFFFF;
-     border-radius: 0;
-     box-shadow: 6px 6px 0 0 rgb(0 0 0 / 9%);
-     margin: 20px auto;
-}
 
 .post-content img {
      max-width: 100%;
