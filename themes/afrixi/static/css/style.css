@@ -106,7 +106,11 @@ article .contents ul:not(.browser-default) li:before {
      background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #FFA726 100%);
 }
 
-
+nav{
+     -webkit-box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%); 
+    box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+    background: #4f5885 !important;
+}
 
 
 
