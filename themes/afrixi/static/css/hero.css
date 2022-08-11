@@ -356,8 +356,14 @@ body .options .option .label .icon {
   max-width: 40px;
   height: 40px;
   border-radius: 100%;
-  background-color: white;
+  background-color: #413f9487;
   color: var(--defaultBackground);
+  cursor: pointer;
+  transition: .5s cubic-bezier(.05,.61,.41,.95);
+  border: 6px double #fff;
+  -webkit-box-shadow: 0 0 0 3px #3465a4, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+  box-shadow: 0 0 0 3px #563197, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+
 }
 body .options .option .label .info {
   display: flex;
