@@ -20,8 +20,8 @@ district: 1st
 party:	Democratic
 officeroom:	1016 LHOB
 phonenumber:	(202) 225-2406
-emailaddress:	https:- - bush.house.gov- contact
-website:	https:- - bush.house.gov- 
+emailaddress:	https://bush.house.gov- contact
+website:	https://bush.house.gov- 
 committeeassignment: 
 role: congress
 inoffice: current
