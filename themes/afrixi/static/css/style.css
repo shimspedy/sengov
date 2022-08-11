@@ -109,6 +109,7 @@ article .contents ul:not(.browser-default) li:before {
 nav{
      -webkit-box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%); 
     box-shadow: 0 0 0 3px #4f5885, 1em 1em 3px 0 rgb(0 0 0 / 9%);
+    background-color: #4f5885 !important;
     background: #4f5885 !important;
 }
 
@@ -317,4 +318,9 @@ article h5::after,
 .post-content h4::after,
 .post-content h5::after {
      background: rgb(169 0 122 / 26%);
+}
+.sengo-footer{
+     box-shadow: rgb(50 137 180) 0px 0px 0px 3px, rgb(0 0 0 / 9%) 1em 1em 3px 0px;
+     background: rgb(48 126 169);
+     border: 6px double #fff;
 }
