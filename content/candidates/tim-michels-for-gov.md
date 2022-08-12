@@ -177,7 +177,7 @@ Researchers at St. Norbert College estimate the parcel could produce $138.5 mill
 ## TO RESTORE ELECTION INTEGRITY
 Our plan is simple, we need to make it easier to vote, and harder to cheat. Politicians in Madison have made a mess of our elections, and I won’t let that continue. This is a Wisconsin Voter Protection Plan, plain and simple. I’m pledging that as governor, addressing the election mess will be among the first things I do on my very first day in office.
 
-## THE PLAN
+#### THE PLAN
 
 - Repeal of all previous WEC election guidance and freezing the issuance of new guidance.
 
@@ -205,7 +205,7 @@ Our plan is simple, we need to make it easier to vote, and harder to cheat. Poli
 
 - Pass first consideration of the Voter Uniformity Amendment to the Wisconsin Constitution, empowering voters to enforce their civil and constitutional rights and fight back if ever again subjected to such unfairness.
 
-## BACKGROUND
+#### BACKGROUND
 - In April of 2020, on the day before the Spring Election, Governor Tony Evers tried to call it off. Source
 
 -Only a last-minute decision by the Wisconsin Supreme Court allowed the election to take place as planned. Source
