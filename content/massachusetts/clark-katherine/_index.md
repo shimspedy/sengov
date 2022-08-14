@@ -41,7 +41,7 @@ It was that spirit that prompted Katherine to first run for School Committee in 
 
 Katherine has carried that vision through every position she’s held. She is a consensus builder among her constituents and colleagues, who elected her Assistant Speaker of the House in 2020. Now, Katherine uses her position in leadership to help advocate for families nationwide – recognizing that when families are successful,  America is successful.
 
-## CLIMATE CHANGE, ENERGY & THE ENVIRONMENT
+## CLIMATE CHANGE, ENERGY AND THE ENVIRONMENT
 We have a fundamental responsibility to future generations to protect our planet, invest in clean energy, and center environmental justice in all of our policies.
 
 Katherine Clark has:
@@ -60,13 +60,13 @@ When you, a friend, or a loved one are sick, the last thing you want to think ab
 Katherine Clark is:
 - An original co-sponsor of Medicare for all; Expanded access to affordable care through the American Rescue Plan.
 
-## JOBS & THE ECONOMY
+## JOBS AND THE ECONOMY
 Our economy should work for all Americans– not just the ultra wealthy. We believe every worker should be paid a living wage, be provided essential benefits like paid family leave, and have the right to join a union.
 
 Katherine Clark has:
 - Helped secure the passage of legislation to protect collective bargaining rights, extend paid leave to every worker, and guarantee equal work for equal pay through the U.S. House.
 
-## JUSTICE & EQUITY
+## JUSTICE AND EQUITY
 The founding principles of our democracy are freedom, justice, and equality for all – and those need to be the throughline in all of our policy actions.
 
 Katherine Clark has:
@@ -80,7 +80,7 @@ Katherine Clark has:
 - Partnered with civil rights icon John Lewis to lead the historic sit-in on the House floor calling on the then Republic-led body to allow for a vote on commonsense gun reform.
 - Voted to close background check loopholes and to ban assault weapons.
 
-## VOTING RIGHTS & PRESERVING OUR DEMOCRACY
+## VOTING RIGHTS AND PRESERVING OUR DEMOCRACY
 The right to vote is the most sacred tools of our democracy. That right is under attack in the face of Republican voter suppression laws in legislatures around the country. It’s critical that we reinforce our commitment to ensuring everyone’s voice is heard at the ballot box.
 
 Katherine Clark has:

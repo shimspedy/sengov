@@ -145,7 +145,7 @@ Stephen also believes that Medicare and Medicaid are critical to affordable and 
 As your Congressman, Stephen will continue to fight to protect and improve the ACA to ensure accessible, affordable and high-quality care for the people of the 8th District. 
 
 ## Protecting Our Environment
-Stephen Lynch has a long history of advocating for cleaner air & water. His work dates back to the 1980’s when he successfully fought alongside his neighbors to prevent South Boston’s Edison plant from returning to coal burning. His work extended to requiring environmental health studies surrounding a cluster of residents with lupus and scleroderma; studies on airplane noise and emissions and their health effects on communities, and mandating clean-up of ground contaminants. As a state senator, he led the way in successfully blocking the siting of an asphalt plant on the border of South Boston, Roxbury and the South End of Boston.
+Stephen Lynch has a long history of advocating for cleaner air AND water. His work dates back to the 1980’s when he successfully fought alongside his neighbors to prevent South Boston’s Edison plant from returning to coal burning. His work extended to requiring environmental health studies surrounding a cluster of residents with lupus and scleroderma; studies on airplane noise and emissions and their health effects on communities, and mandating clean-up of ground contaminants. As a state senator, he led the way in successfully blocking the siting of an asphalt plant on the border of South Boston, Roxbury and the South End of Boston.
 
 He joined with his constituents in the West Roxbury neighborhood to fight the siting of the West Roxbury Lateral pipeline next to an active quarry blasting zone. Most recently, he has stood with his constituents in Weymouth and the South Shore where Enbridge (formerly Spectra Energy) is constructing a dangerous natural gas compressor station in a densely populated area. The station would be near thousands of homes and tens of thousands of school children. He has worked relentlessly with his constituents, as well as colleagues in the federal, state and local government to urge reconsideration of the ill-planned project.
 
@@ -160,7 +160,7 @@ Some in Congress have been feeding us a false choice between creating jobs, figh
 
 As your Congressman, Stephen will continue to fight for climate change solutions.
 
-## Jobs & Economic Opportunity
+## Jobs AND Economic Opportunity
 From his very first days in Congress, Stephen has focused on ensuring that residents from the 8th have access to good paying jobs and he’s working every day to create and expand opportunities for all to succeed.
 
 Stephen knows that our working families face great challenges. Wages are stagnant, there are constant attacks on collective bargaining, efforts to weaken retirement security and a system that favors corporations over the working people that ensure their success. Stephen believes that our economy should strengthen our country for every American, not just those at the top.
@@ -192,7 +192,7 @@ Stephen has co-sponsored the Extreme Risk Protection Order Act. This legislation
 
 As your Congressman, Stephen will continue to help find responsible solutions to America’s gun violence crisis.
 
-## Advancing Equality & Opportunity
+## Advancing Equality AND Opportunity
 While our country is based on the values of liberty and justice for all, the fact is systemic racism, discrimination and injustice remain a part of our reality. Stephen believes that every American is entitled to the fundamental rights of equality and that we must fight to eliminate discrimination in every form.   
 
 As a Member of the Committee on Oversight Reform, Stephen is working to reform our criminal justice system and address racial disparities across government services like healthcare, housing, education, employment, and other areas. 
@@ -254,7 +254,7 @@ Ensuring that those who are currently serving our country have the ability to vo
 
 As your Congressman, Stephen will continue to ensure that our veterans have the resources, support and care they have earned.
 
-## Infrastructure & Transportation
+## Infrastructure AND Transportation
 While frequently overlooked, transportation and infrastructure issues are major factors in both our economy and quality of life.  Stephen knows that in order to strengthen our economy and help working families these issues must be addressed. 
 
 As the senior New England member of the Transportation Committee, Stephen has continuously pushed for funding to repair our crumbling roads and bridges to bring them up to date and safe for travel.  Beyond our roads and bridges, Stephen knows that many people rely on a public transportation system that is outdated and inadequate.  In Congress, he is working to invest in updates and modernizing our public transportation infrastructure to create a more reliable, environmentally friendly option people can count on.   

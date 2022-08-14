@@ -121,7 +121,7 @@ The Congressman strongly believes that the U.S. embargo against Cuba and the tra
 
 Congressman McGovern supports the Middle East peace process and believes that a “two-state” solution provides the best hope for long-term peace in the region. Jim has been a long-time and steadfast supporter of Israel’s right to exist and defend itself, and he believes that both the people of Israel and of the Palestinian territories have a right to a peaceful and prosperous existence.
 
-## HEALTH & HEALTHCARE
+## HEALTH AND HEALTHCARE
 Congressman McGovern has been a strong proponent of increasing access to affordable health care for our families and small businesses. Jim voted to prohibit insurance companies from denying coverage based on pre-existing conditions or raising their premiums when someone gets sick. He supported improving Medicare benefits by closing the “donut hole” in the prescription drug benefit; allowing young people to stay on their parents’ insurance until the age of 26; and extending coverage to the uninsured. Congressman McGovern will continue to work hard to make health care more affordable for all by cutting costs for small businesses and investing in new technologies.
 
 Jim McGovern has helped spur investments in cutting-edge medical technologies in Massachusetts, including genetic disease research at UMass Memorial, “untethered” health care at Worcester Polytechnic Institute, battlefield chemical detections devices for our soldiers, and state-of-the-art prosthetics for wounded veterans.

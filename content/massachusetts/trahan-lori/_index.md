@@ -79,7 +79,7 @@ Investing in early education is a priority and in Congress, Lori will:
 
 - Promote affordable and accessible early childhood care and pre-K services. Congress needs to take action on helping families afford these services. No family should have to break the bank so that their child can receive a high-quality pre-K education.
 
-## Jobs & the Economy
+## Jobs AND the Economy
 Lori believes that we need an economy that works for everyone and addresses the economic anxiety that plays out in the homes of working families each day. Lori understands that a strong economy and access to good education create economic opportunity for working-class families across the nation.
 
 We need to restore basic fairness to our economy and get it working for everyone, not just those at the top.
@@ -103,7 +103,7 @@ Healthcare is a right, not a privilege.
 
 - Reduce the cost of prescription drugs. Today, Americans pay more than double than what other countries pay for prescription drugs and Lori is committed to rectifying this. Lori believes we need to demand lower drug costs for working families and seniors.
 
-## Women’s Rights & Opportunity
+## Women’s Rights AND Opportunity
 As the mother of two daughters and the founder of a women-owned business, Lori is committed to standing up for the hard-fought rights, economic independence, and health and safety of all women. Lori understands that even today, women face unnecessary barriers to advancing in the workforce and making decisions regarding their own bodies.
 
 When women succeed, the world is simply a better place.

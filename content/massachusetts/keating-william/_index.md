@@ -72,7 +72,7 @@ Further, Bill believes that, in order to protect wildlife, such as rhinoceroses,
 
 Bill is also an original cosponsor of two important pieces of legislation to combat global poaching: the CECIL Act and the Global Anti-Poaching Act. The CECIL Act (Conserving Ecosystems by Ceasing the Importation of Large Animal Trophies Act) would curb the sport killing of species that are proposed to be listed as threatened or endangered under the Endangered Species Act. The Global Anti-Poaching Act would support anti-poaching efforts around the world by strengthening the capacity of partner countries to counter wildlife trafficking, and identifying those that have failed to prevent this devastating crime.
 
-## ECONOMY & JOBS
+## ECONOMY AND JOBS
 From our historic agricultural traditions of fishing and cranberries to the region’s role as a hub of emerging industries, such as clean energy initiatives and bio-tech, Southeast Massachusetts has great opportunity for economic growth. Bill believes that the most effective and efficient way to create jobs and grow our local workforce while stimulating long-term economic growth is to invest directly in these industries, businesses, and public sector opportunities that support our regional economy.
 
 Bill supported passage of the Workforce Innovation and Opportunity Act, which was signed into law in 2014. This law includes key provisions of the Workforce Investment Act, which would improve the nation’s workforce investment infrastructure, focusing on finding workers jobs and careers through strategic partnerships with in-demand sector employers, community colleges, labor organizations, and non-profits.
@@ -145,7 +145,7 @@ Locally, Bill is closely monitoring the future decommissioning of Pilgrim Nuclea
 
 Following Entergy’s decommissioning announcement, Bill united a bipartisan group of Members in similarly affected districts to advocate for local communities and ensure that they play a front-and-center role in engaging directly with both Entergy and the federal Nuclear Regulatory Commission.
 
-Bill is an active member of the Sustainable Energy & Environment Caucus and House Renewable Energy Caucus.
+Bill is an active member of the Sustainable Energy AND Environment Caucus and House Renewable Energy Caucus.
 
 ## ENVIRONMENT
 Bill has long been a champion for environmental conservation. In the face of a changing climate, he believes is critical to invest in both conservation and coastal restoration initiatives.
@@ -158,7 +158,7 @@ In order to address these challenges, Bill helped establish a new initiative, th
 
 He is also a staunch supporter of the federal Clean Water and Drinking Water State Revolving Funds, which help finance much-needed improvements to wastewater treatment systems, combat stormwater runoff, and improving drinking water. In 2015, Massachusetts received over $47 million and $16 million in Clean Water and Drinking Water State Revolving Funds, respectively. Annually, the Commonwealth leverages this funding up to $400 million in water quality improvements state-wide.
 
-The Ninth Congressional District is one of the largest coastal districts in the United States. It is vital that we protect our coastlines and the Cape Cod National Seashore from both environmental and manmade disasters, like the Deepwater Horizon oil spill. As a member of the Sustainable Energy & Environment Caucus and House Oceans Caucus, Bill opposes offshore drilling and supports legislative initiatives that ensure both government and private industry preparedness in the face of a future environmental disaster.  He also supports raising the liability cap on oil companies so that if disaster were to strike again, the federal taxpayer wouldn’t be left holding the bag.
+The Ninth Congressional District is one of the largest coastal districts in the United States. It is vital that we protect our coastlines and the Cape Cod National Seashore from both environmental and manmade disasters, like the Deepwater Horizon oil spill. As a member of the Sustainable Energy AND Environment Caucus and House Oceans Caucus, Bill opposes offshore drilling and supports legislative initiatives that ensure both government and private industry preparedness in the face of a future environmental disaster.  He also supports raising the liability cap on oil companies so that if disaster were to strike again, the federal taxpayer wouldn’t be left holding the bag.
 
 Bill has successfully secured millions of federal financing to preserve coastal wetlands on Cape Cod, the South Shore, and South Coast, and to restore waterways in the district.  Each year, he leads the fight to preserve funding for critical federal conservation programs to protect coastal and marine habitats through locally-drive projects, as well as to preserve coastal wetland buffer zones, which keep communities resilient and benefit fish and wildlife. Because of his leadership on coastal restoration efforts and support for the federal conservation programs, Bill received a leadership award from Restore America’s Estuaries.
 
@@ -230,7 +230,7 @@ Of specific health care concern to our district, in particular on Cape Cod, is t
 
 Other healthcare related Caucuses of which Bill is a member include the Congressional Task Force on Alzheimer's Disease, the Arthritis Caucus, the Assisted Caregiving Caucus, the Crohn’s and Colitis Caucus, the Cystic Fibrosis Caucus, the Deadliest Cancers Caucus, the Diabetes Caucus, the Fragile X Caucus, the Kidney Caucus, and the Rare Diseases Caucus.
 
-## JUDICIARY & CIVIL RIGHTS
+## JUDICIARY AND CIVIL RIGHTS
 As a strong advocate for equal rights, Bill has always worked to oppose discrimination of all forms. He has co-sponsored the Respect for Marriage Act, which would repeal the Defense of Marriage Act, passed by Congress in 1996.   Repealing DOMA would prevent legally recognized gay and lesbian domestic partners from being denied federal protections, such as Social Security survivors’ benefits and family and medical leave. 
 
 ## LABOR
@@ -350,7 +350,7 @@ Further, a critical issue facing small business owners in our district is the ch
 
 Bill is balanced in his support for comprehensive healthcare coverage and his understanding of the need for small businesses to adjust to the transition from the Massachusetts system to the federal system. He worked to grant small businesses in Massachusetts a much-needed grace period to comply with the insurance market rating rules under the Patient Protection and Affordable Care Act (ACA). This one year extension allowed for a concise and accurate evaluation of rating factors affecting small business insurance rates. This example is only one of many where Bill crossed the aisle to help clarify or tighten provisions within the ACA for small business owners.  He voted for the successful repeal of onerous 1099 forms for small businesses on all purchases of goods and services over $600 annually, and he has consistently voted to repeal the medical device tax while offering alternatives, like closing loopholes for Big Oil, to help pay for the much-needed health care services provided in the ACA.
 
-## VETERANS & MILITARY FAMILIES
+## VETERANS AND MILITARY FAMILIES
 The service and sacrifice of our veterans and their families must not be overlooked.  As President Lincoln said in his second Inaugural address, “…to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.”  Bill believes this is our obligation to all those who have bravely served our country.
 
 As the grandson of a Gold Star Mother and the son of a veterans agent, Bill learned at an early age that the best way to honor our veterans is to fight for them at home. He saw firsthand on a daily basis just how vital our many veterans’ services are to the men and women who have risked everything to ensure our freedom.
