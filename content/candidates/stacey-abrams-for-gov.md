@@ -18,7 +18,7 @@ Stacey Abrams grew up in Gulfport, Mississippi, one of six children whose parent
 Stacey’s parents became United Methodist ministers after pursuing graduate studies in Divinity at Emory University. Stacey and her younger siblings attended DeKalb County public schools. She is a graduate of Avondale High School with degrees from Spelman College, the LBJ School of Public Affairs at the University of Texas, and Yale Law School.
 
 
-### A Relentless Changemaker Regardless of Title
+##### A Relentless Changemaker Regardless of Title
 Stacey did not win her groundbreaking 2018 campaign for governor, but she did not quit. She got right back to work because she understood that she didn’t need the title of governor to make a difference in the lives of Georgians. In between her two campaigns for governor, Stacey:
 
 - Helped small businesses get the financing they needed to stay afloat
@@ -42,7 +42,7 @@ Stacey did not win her groundbreaking 2018 campaign for governor, but she did no
 - Re-watched episodes from the entire Star Trek franchise and Buffy the Vampire Slayer
 - Authored several new works of fiction and non-fiction
 
-### Working for Georgians Every Day
+##### Working for Georgians Every Day
 
 Through multiple leadership positions in the small business, nonprofit and government sectors, Stacey has opened the gates of opportunity to others across Georgia. Her organizations have lent a hand in rural Georgia by installing wireless internet stations in more than 100 public locations across the state, connecting Georgians to services, virtual school and potential employers. She and staff traveled to neglected communities to expand access to Covid vaccines and tests.
 
@@ -52,14 +52,14 @@ As a legislator, Stacey understood that progress for Georgians in need required 
 
 Stacey is a New York Times bestselling fiction and nonfiction author, and she leads a Georgia-based production company with several projects produced or in development. The company’s first film, All In: The Fight for Democracy, made the 2020 Oscar shortlist for best documentary. She serves as a mentor for young Georgia creatives and is a staunch advocate for the workers in Georgia’s vibrant film and television industry. 
 
-### A Bipartisan Consensus Builder
+##### A Bipartisan Consensus Builder
 Stacey defines success in public service by delivering results for people regardless of their geography, ideology or background. Unwavering in her support for working people, Stacey worked with anti-union corporations to stop discrimination against Georgia’s LGBTQ+ community. She’s unapologetically pro-choice, but was able to coordinate with anti-choice legislators to pass criminal justice reform.
 
 As the top Democrat in the Georgia House of Representatives, she brokered compromises for progress on transportation and infrastructure. Her bipartisan efforts were instrumental in saving the HOPE Scholarship and universal pre-K as these programs faced potential elimination during the Great Recession. She passed legislation and increased budget allocations to improve the welfare of grandparents and other family members raising children who would otherwise be placed in foster care.
 
 Former Governor Nathan Deal, a Republican, said of Stacey, “she demonstrated the kind of leadership that you hope people would do regardless of party labels.” She has received recognition from numerous nonpartisan organizations, including the Georgia Municipal Association, the Association of County Commissioners of Georgia, the Georgia Alliance of Community Hospitals, the Georgia Hispanic Chamber of Commerce, Asian Americans Advancing Justice (Georgia), the NAACP, the National Urban League and Planned Parenthood. And she won Grand Champion in the Legislative Livestock Roundup for showing a 4-H sponsored heifer named Bessie.
 
-### An Executive Ready to Lead
+##### An Executive Ready to Lead
 Stacey is a Yale-trained tax attorney, entrepreneur, writer and small business owner. She co-founded NOW Account, a financial services firm that helps Georgia small businesses access capital, grow their operations and create jobs. She is also the CEO of Sage Works Productions, a production company in Georgia with several projects under development, including with CBS Studios and NBC/Universal. In her various leadership roles, Stacey has hired and employed Georgians in every region of the state, including hundreds of young people beginning their careers. 
 
 Her executive experience includes founding and implementing strategic plans for New Georgia Project, focused on voter registration; Fair Fight Action and Fair Fight PAC, focused on protecting voting rights; and Fair Count, dedicated to meaningful participation in the Census and civic engagement. Each of these organizations is thriving today and making progress on behalf of the people of Georgia. She also founded and served as executive director of the Southern Economic Advancement Project, which develops and promotes policy solutions to challenges in Georgia and neighboring Southern states. 
@@ -143,7 +143,7 @@ Children in Georgia currently lag behind on a variety of metrics, including acce
 
 We are ready to imagine more for our children than simply an adequate education and we are ready to elect leaders committed to making excellence a reality.
 
-### Support Teachers and Build Georgia’s Teacher Pipeline
+##### Support Teachers and Build Georgia’s Teacher Pipeline
 Across the state, we are letting our children down by not fully support public education and our educators. Educators are feeling the pressures of growing workloads, insufficient support and inadequate compensation. School administrators and teachers grapple with increasing teacher vacancies in teaching positions with no end in sight.
 
 When educators are highly valued and fairly compensated for their commitment to education, academic outcomes improve, our children are better served. Retaining educators increases student engagement and builds parental trust and positive rapport between students and teachers. We must better serve students by prioritizing their education and investing in educators, administrators, students and support staff, and we can do it all without raising taxes.
@@ -164,7 +164,7 @@ Georgia has a teacher recruitment crisis. The number of college students choosin
     - Scaling “grow your own” models that help interested paraprofessionals pursue teaching. By elevating alternative certification programs like the Relay Graduate School of Education and GaTAPP, we can help people gain their teaching certification while they work. Some of these programs are free or low-cost when combining AmeriCorps awards and the federal TEACH grant.
     - Developing new teacher preparation programs to expand access to teaching. Support innovative approaches to teacher preparation in coordination with our state universities and technical colleges and HBCUs and HSIs, including teaching apprenticeships, that will allow districts to develop and retain their own educators.
 
-### Birth to 4 – Childcare and Pre-K
+##### Birth to 4 – Childcare and Pre-K
 Our commitment to education should begin with a focus on birth to three, the early stages of childcare and pre-kindergarten. Providing high-quality, affordable child care to all families is one of the most important investments we can make to enable parents to fulfill their potential and to prepare all children to be skilled, well-rounded and civic-minded citizens in the future. According to the Georgia Early Education Alliance for Ready Students, the average annual cost of infant care in Georgia is $7,644, an amount that leaves many parents feeling as if affordable child care is out of reach. Without affordable child care, many parents will not be able to enter or remain in the workforce. Likewise, universal pre-k aids children with the skills and tools they need to begin school ready to learn, acclimate and succeed.
 
 - Bold Start Scholarship Program: Invest in statewide access to childcare, especially in low-income communities to ensure that all families can access quality and affordable child care. A Bold Start Scholarship Program will pay all child care costs that exceed 10 percent of a family’s income.
@@ -175,7 +175,7 @@ Our commitment to education should begin with a focus on birth to three, the ear
 
 - Universal Georgia Pre-K: Fully fund Georgia Pre-K, a highly sought after and effective program, to make it truly universal and accessible to all families that want to participate. 
 
-### K-12 Public Education
+##### K-12 Public Education
 Stacey Abrams understands that when educators are highly valued and fairly compensated for their commitment to education, academic outcomes improve. Building One Georgia requires that we prioritize and invest in every generation – and that begins with public education. 
 
 As Governor, as part of a robust public education plan to support children from cradle to career, Stacey will invest in our teachers, paraprofessionals and support staff at unprecedented levels. Specifically, she will:
@@ -206,7 +206,7 @@ Education is one of the strongest predictors of economic success – both for in
 
 - Increase Funding and Supports for Disadvantaged and Marginalized Students: Provide solutions that meet individual needs, including supports for ESL learners, students of color, disabled children and low-income students. 
 
-### Post-Secondary and Higher Education
+##### Post-Secondary and Higher Education
 In Georgia, higher education investment must expand to create pathways to every level of post-secondary education, and we must provide access to aid for all students. Georgia must do more to increase educational opportunities beyond high school and help students graduate from any public program of their choice without debt.
 
 - Fully Fund the College Need-Based Aid Program: Georgia is one of two states with no funding for need-based aid, despite having an existing mechanism that the current governor has refused to fund. This funding will ensure that our students – regardless of the educational path they choose or the financial challenges they face – will have the opportunity to pursue their dreams and graduate without debt. 
@@ -321,7 +321,7 @@ As governor, I will work every day to directly address our state’s health outc
 Georgia is one of only 12 states that has refused to expand Medicaid. More than 1.5 million Georgians lack health insurance coverage and our uninsured rate is the second-highest in the nation. When we expand Medicaid, more than 500,000 additional Georgians will have access and be able to see a health care provider without fear of medical debt, more than 60,000 new jobs will be generated in our local economies and more rural hospitals will be able to keep their doors open.
 
 
-### Address the Cost of Insulin and Health Care Access for People with Diabetes
+##### Address the Cost of Insulin and Health Care Access for People with Diabetes
 Addressing the skyrocketing cost of insulin and health care access for Georgians living with diabetes is a critical tenet of Stacey’s plan to expand access to quality, affordable health care. Supporting all Georgians’ physical and mental well-being and financial security is essential to her efforts to build One Georgia and help every Georgian thrive. As Governor, Stacey will ensure that Georgians living with diabetes have access to the health care services and medications they need. Specifically, she will:
 
 - Expand Medicaid so eligible Georgians living with diabetes who are uninsured and cannot afford the costs of diabetes treatment gain affordable access to the services and medications they need to stay healthy and help them control their diabetes care, beginning with affordable insulin.
@@ -331,76 +331,76 @@ Addressing the skyrocketing cost of insulin and health care access for Georgians
 - Demand federal action while serving as a partner with leaders in Washington. Passage of Reverend Warnock’s Affordable Insulin Now Act would cap the patient cost of insulin at $35 a month. If the federal government has not taken meaningful action or could be doing more, Stacey will use the full influence of the governor’s office to be an advocate for Georgians living with diabetes.
 
 
-### Establish Georgia’s Health Equity Action Team
+##### Establish Georgia’s Health Equity Action Team
 Georgians face a maze of state agencies, private providers and insurance regulations when they simply want to get well. Our action team will cut through the red tape to improve the health and well-being of all Georgians. I will also require the health plans doing business with the state to identify and address health care disparities in access and outcomes within the populations they serve.
 
 
-### Increase Health Care Worker Development and Retention
+##### Increase Health Care Worker Development and Retention
 Health care workers are experiencing burnout, depression and anxiety. Since February 2020, the health care industry is down 306,000 jobs nationwide. More than half of acute and critical care nurses are thinking about leaving the profession, exacerbating existing nursing shortages. We must address chronic and new health care worker staffing shortages as well as burnout in the health care profession and recruit and retain health care providers in our rural communities. I will also re-invest in our state’s public health infrastructure and grow our network of community health workers, doulas, home-visiting service providers and peer support specialists to help Georgians get connected to and use the health care, behavioral health and social services they need to be healthy and productive.
 
 
-### Create Covid Outreach Protocol
+##### Create Covid Outreach Protocol
 Ensure that treatment is accessible and affordable for the thousands of families with loved ones in nursing homes or otherwise in treatment for Long Covid. Also work with the state’s attorney general to ensure federal anti-discrimination laws are enforced in cases when Long Covid becomes a disability.
 
 
-### Create Covid Long-term Recovery Plan
+##### Create Covid Long-term Recovery Plan
 Produce and regularly update a science-based, real-world-informed, transparent plan for how we address the long-term transition from pandemic to endemic Covid in our schools, businesses and public entities. The pandemic has touched every aspect of our lives: we have experienced profound loss, trauma and disruptions to our health care system, workplaces, financial circumstances, schools and communities. These effects will not disappear by declaring Covid over. We must monitor and respond to the known and unforeseen consequences of a once-a-century health crisis.
 
-### Military Families and Veterans Support
+##### Military Families and Veterans Support
 Georgia is home to thirteen military installations, nearly two million military family members, and one of America’s most robust veteran populations. Georgia must keep our nation’s promises to them, and we must ensure that their skills and experiences are properly valued as a vital part of our state and our economy.
 
-### Improve Transitions from Service to School and Career
+##### Improve Transitions from Service to School and Career
 Many service members finish their service and need added resources to transition to civilian life; the “A Promise Kept” initiative was an important first step, but more must be done to support these transitions.
 
-### Georgia Veterans Work Opportunity Tax Credit
+##### Georgia Veterans Work Opportunity Tax Credit
 Incentivize employers to hire veterans and count experience gained while in the military towards pay scale and position. 
 
-### Georgia Veterans Higher Ed Initiative
+##### Georgia Veterans Higher Ed Initiative
 Continue to decrease barriers for veterans to pursue higher education by providing dedicated veteran support staff at every college and university, more credit transfer opportunities and additional financial support.
 
-### End Veteran Homelessness
+##### End Veteran Homelessness
 End veteran homelessness in Georgia through a federal, state and nonprofit joint venture to quickly identify veterans without homes, veterans on housing waiting lists and at-risk veterans to connect them to permanent, affordable housing and supportive services.
 
-### Protect Our Defenders Act
+##### Protect Our Defenders Act
 Secure comprehensive legislation to support our veterans on issues ranging from predatory lending, suicide prevention, inadequate healthcare, and post-deployment poverty.
 
-### Create the Office of Military Inclusion
+##### Create the Office of Military Inclusion
 Tackle challenges facing veterans of color, women veterans and LGBTQ+ veterans by coordinating specialized outreach efforts and addressing the health, housing, education, employment and legal challenges of these communities.
 
-### Environmental Action
+##### Environmental Action
 We must build and preserve an environment in our state that recognizes how vital clean air and water are to our lives and our economy, that anticipates the increase in extreme weather events and its effect on Georgia families, and that leads in the transition to renewable energy while creating jobs and new industries. My environmental action plan will generate significant job growth through advanced energy generation, innovative technologies and energy efficiency efforts. We will train and retrain workers for good-paying jobs in advanced energy sectors, and we will coordinate state and local action and develop public-private partnerships for greater impact across the state to implement advanced energy solutions.
 
-### Create New Jobs from Manufacturing to Coding
+##### Create New Jobs from Manufacturing to Coding
 Advanced energy creates career pathways from the entry-level to high-skilled across fields and sectors, including initial estimates of 25,000-40,000 jobs. Georgia will expand access to well-paying careers in manufacturing, system design, project development, construction, installation and operations – all critical to an advanced energy economy. The manufacturing-intensive advanced energy industry promotes work for engineers, machinists, coders and installers, but also administrators, accountants, truck drivers, sales force and a range of other occupations.
 
-### Develop a Environmental Tech Workforce
+##### Develop a Environmental Tech Workforce
 Workforce training, apprenticeships and partnerships with labor and educational institutions will ensure opportunities exist for all workers, and Georgia will follow best practices to ensure women and under-represented groups participate.
 
-### Ensure Equitable Regional Investment
+##### Ensure Equitable Regional Investment
 Advanced energy jobs can be developed across the state of Georgia. Already, places like Mitchell County and Tybee Island have leveraged advanced energy to create new jobs and opportunities through solar, and Georgia’s successful timber industry has created a sustainable market for biomass. Hydro, wind, solar and biomass energy have economic impact across the state, and with collaboration and focus, these energy sources can become engines of prosperity for more Georgians.
 
-### Eliminate Fees and Lower Utility Costs
+##### Eliminate Fees and Lower Utility Costs
 Georgia will increase ease of adoption of solar and clean energy sources, which can lower the cost of utilities for the average user. By state law, Georgia allows financing for property owners who may use loans for energy efficiency improvements and make payments on the loan through property tax assessments, but implementation has lagged. Georgia will work with local governments to increase the energy efficiency opportunities for Georgians.
 
-### Green Savings Plan for Taxpayers
+##### Green Savings Plan for Taxpayers
 Georgia will adopt green government initiatives that foster energy efficiency and reduce waste, which will not only create jobs but also save taxpayer dollars. Simple actions like updating building codes, examining power grids and shifting to purchasing clean energy vehicles can amount to savings for taxpayers. We will also increase energy efficiency throughout Georgia by offering financial incentives for meeting high public construction energy standards.
 
-### Conduct Georgia Green-Mapping Project for Investors
+##### Conduct Georgia Green-Mapping Project for Investors
 From wind and hydro opportunities in North Georgia, to biomass in South Georgia and solar capacity across the state, advanced energy innovation uses natural resources in a sustainable manner. Farmers and timberland owners have already begun to use existing landholdings for access to solar farms, and with the right partnerships, Georgia can more effectively utilize our varied topography.
 
-### Establish the Georgia Green Development Bank
+##### Establish the Georgia Green Development Bank
 Seed private investment, set attainable renewable energy targets for our electric utilities, target tax credits towards advanced energy generation and work with all interested local communities to streamline the adoption of solar and advanced energy power projects to create 25,000 jobs.
 
-### Expand Georgia’s Carbon Sequestration Registry
+##### Expand Georgia’s Carbon Sequestration Registry
 Systematically enroll all appropriate state properties in concert with private market investors. The public share of its financial proceeds will be applied to meeting green development goals statewide.
 
-### Activate Georgia’s Youth Conservation Corps
+##### Activate Georgia’s Youth Conservation Corps
 Invest in and leverage this program for training and employment in residential energy efficiency implementation and working with our state’s utilities to explore opportunities to modernize our electric power grid.
 
-### Protect Our Water Supply
+##### Protect Our Water Supply
 Pursue legislative and regulatory solutions to toxic coal ash waste by requiring safe storage of coal ash, engage in continuous monitoring of all such toxic storage sites for leaks, and immediately provide alternative water supplies and groundwater remediation when leaks occur.
 
-### Protect Our People Initiative
+##### Protect Our People Initiative
 Direct Georgia’s Environmental Protection Division to take action to protect Georgians from dangerous toxins in our environment, to define a protocol to address “forever chemicals” dumped in North Georgia and in the Ogeechee River and set a firm timetable for final remediation of the state’s inventory of hazardous sites. Also budget for state agencies to address commercial, industrial and agricultural waste.
 
 ## Public Safety and Criminal Justice Reform
@@ -421,7 +421,7 @@ Brian Kemp’s predecessor, Governor Nathan Deal, a Republican, understood the c
 Stacey Abrams is the only candidate for governor with a comprehensive plan to address violent crime and reform our criminal justice system in Georgia.
 
 
-### Combat the fundamental causes of violence and decriminalize poverty
+##### Combat the fundamental causes of violence and decriminalize poverty
 - Expand Medicaid to broaden access to mental health and substance abuse treatment and reduce the role of law enforcement in crisis intervention.
 
 - Support wraparound services for high-risk communities to decrease incident rates, including targeting challenged schools/neighborhoods that produce a disproportionate number of youth offenders.
@@ -431,7 +431,7 @@ Stacey Abrams is the only candidate for governor with a comprehensive plan to ad
 - Expand employment training and opportunities, including apprenticeships, for high-risk youth.
 
 
-### Reduce gun violence
+##### Reduce gun violence
 - Coordinate with and secure financial incentives for local governments, law enforcement agencies, and community organizations to design and implement violence intervention programs.
 - Reduce guns on the streets by repealing bills that needlessly endanger Georgians — including criminal carry, campus carry, and the 2014 “Guns Everywhere” law.
 - Close the background check loophole for private transfers and gun show sales.
@@ -439,7 +439,7 @@ Stacey Abrams is the only candidate for governor with a comprehensive plan to ad
 - Adopt red flag legislation to prevent those who pose a danger to themselves or others to purchase a weapon or to be reported for protective actions.
 
 
-### Reduce recidivism and support reentry
+##### Reduce recidivism and support reentry
 - Establish a new Public Safety and Criminal Justice Reform Task Force that builds on Governor Nathan Deal’s legacy by reconvening stakeholders — including law enforcement, prosecutors, criminal defense attorneys, judges, advocates, and formerly incarcerated Georgians — to collaborate on evidence-based solutions to our public safety challenges.
 
 - Restore and expand proven interventions like eliminating private probation, expanding diversion programs and funding accountability courts such as veterans’ courts and drug courts
@@ -450,7 +450,7 @@ Stacey Abrams is the only candidate for governor with a comprehensive plan to ad
 - Enact Clean Slate legislation that offers automatic clearing of criminal records once someone remains crime-free for a set period of time.
 
 
-### Support and Invest in Law Enforcement
+##### Support and Invest in Law Enforcement
 - Raise base salary for state patrol, correctional officers (adult and juvenile), and community supervision officers to approximately $50,000/year and offer proportionate increases based on experience, which will improve recruitment and retention efforts to address severe staffing shortages, at a two-year cost of $91M per year. 
 
 - Provide $25M in state grants to local agencies for salary raises to support living wages and incentivize local housing options, rather than deferring support to the public through problematic tax credit programs that have proven uneven or insufficient in other sectors.
@@ -460,7 +460,7 @@ Stacey Abrams is the only candidate for governor with a comprehensive plan to ad
 - Invest in expanded training and collaborative supports, like crisis officers who specialize in mental health and social service.
 
 
-### Build community trust and accountability in public safety
+##### Build community trust and accountability in public safety
 - Develop and enforce guidelines for key police department policies that govern community relations and transparency.
 
 - Partner with Georgia Peace Officers Standards and Training Program (GA POST) to fortify training standards that address use of force, de-escalation, and crisis intervention and tie increased state funding to local department adoption of best practices.
@@ -469,45 +469,45 @@ Stacey Abrams is the only candidate for governor with a comprehensive plan to ad
 Provide and maintain a statewide database of law enforcement officers dismissed for violation of standards to help other law enforcement agencies make informed hiring decisions.
 
 
-### Reproductive Freedom
+##### Reproductive Freedom
 As the next Governor of Georgia, Stacey Abrams will defend the right to an abortion, fight for women’s access to full reproductive health care and support healthy pregnancies. Specifically, she will:
 
 
 
-### Defend Reproductive Rights and Privacy
+##### Defend Reproductive Rights and Privacy
 Protect and expand the rights of women and families to make healthcare decisions and defend the ability of doctors to provide medical care. Veto legislation that would further restrict abortion rights and work to repeal the 6-week abortion ban.
 
 
 
-### Support Safe Pregnancies
+##### Support Safe Pregnancies
 Promote prenatal healthcare for women and their families, including full-range access to care in the event of miscarriage or other complications. Protect doctors who serve families during pregnancy loss.
 
 
-### Promote Equity in Access to Family Planning
+##### Promote Equity in Access to Family Planning
 Ensure all Georgians have access to the health care they need, including reproductive health care. Work to increase safe and affordable access to contraceptives and achieve reproductive justice for women and families.
 
 
-### Recruit and Retain Physicians Statewide
+##### Recruit and Retain Physicians Statewide
 Work with medical schools to replicate programs like Mercer’s Nathan Deal Scholarship program, which provides tuition funds for students who commit to serving at least four years post-graduation in medically-underserved rural Georgia.
 
 
-### Increase availability of Plan B and Emergency Contraception
+##### Increase availability of Plan B and Emergency Contraception
 Ensure that clinics and healthcare providers can provide emergency contraception that is affordable and accessible to all in need.
 
 
-### Cut funding for “crisis pregnancy centers”
+##### Cut funding for “crisis pregnancy centers”
 End state funding of so-called “crisis pregnancy centers,” which lack oversight, do not use medically sound standards, and do not provide medically accurate information to women who are pregnant.
 
 
-### Invest in Critical Maternal Healthcare
+##### Invest in Critical Maternal Healthcare
 Fund rural hospitals through immediate Medicaid expansion. Leverage state and federal programs to incentivize more doctors and medical personnel to locate in under-served areas and reduce our maternal and infant mortality rates. 
 
 
-### Protect Those in Need of Services
+##### Protect Those in Need of Services
 Expand protections for clinic escorts to ensure that patients in need of reproductive healthcare are safe. Prosecute those who harm patients outside of reproductive healthcare providers.
 
 
-### Deprioritize Abortion-Related Prosecutions
+##### Deprioritize Abortion-Related Prosecutions
 While the 6-week ban is effect, urge all state law enforcement and prosecutors to resist the criminalization of abortion by deprioritizing abortion-related arrests and subsequent prosecution.
 
 ## Gun Safety
@@ -518,42 +518,42 @@ The current governor has consistently deflected responsibility for the rise of v
 To improve gun safety, Stacey will: 
 
 
-### Repeal Criminal Carry
+##### Repeal Criminal Carry
 The current governor championed legislation that makes it easier for criminals to carry concealed weapons without a permit. In 2020, 5,300 people who applied for permits to carry hidden weapons were rejected. Kemp’s plan arms these individuals and sends them on the street, into our churches, into our schools. It also creates a loophole for domestic abusers and the mentally ill to avoid detection and secure lethal weapons.
 
 
-### Repeal Campus Carry, ‘Guns Everywhere’, and Gun Return Laws
+##### Repeal Campus Carry, ‘Guns Everywhere’, and Gun Return Laws
 These anti-safety laws have been opposed by Georgia university administrators, educators, pastors and parishioners, and a majority of Georgians. I would also reform the “Gun Return” law, described as “the most egregious gun law in Georgia” and opposed by law enforcement because it requires that guns used to commit crime be put back onto the street.
 
 
-### Close the Domestic Violence Loophole
+##### Close the Domestic Violence Loophole
 We must pass legislation to stop perpetrators of domestic violence, sexual assault and stalking from accessing guns, which may include prohibiting possession and requiring the surrender of firearms or ammunition by domestic abusers. Laws in other states to address this “relinquishment gap” have lowered firearm related intimate partner homicides by 14%.
 
 
-### Close the Gun Show Loophole
+##### Close the Gun Show Loophole
 Georgia law explicitly blocks any local government from regulating gun shows in any manner. There are no regulations that require people who purchase guns from private sellers to undergo background checks, as required when purchasing from a licensed dealer.
 
 
-### Protect People Experiencing Mental Illness and Their Families
+##### Protect People Experiencing Mental Illness and Their Families
 Georgia must follow other states with legislation to allow families to petition for extreme risk protection orders. When a loved one has mental health challenges that put them at risk of endangering themselves or others, families and law enforcement should have a path to petition a court to temporarily restrict firearms access.
 
 ## Voting Rights
 As founder of multiple organizations promoting and protecting the right to vote, I have demonstrated a commitment to a strong democracy in Georgia and beyond. Every eligible Georgian should have the ability to register to vote, to cast a ballot and to have that ballot properly recorded – without systematic barriers. As governor, I will prioritize voting rights as essential to democracy and effective government. I will leverage both administrative authority and advocate for legislation to accomplish the following:
 
 
-### Improved Voter Registration Practices and Proper Safeguards
+##### Improved Voter Registration Practices and Proper Safeguards
 Georgians who are eligible to vote but who did not have an opportunity to register should be able to register and vote on Election Day with proper safeguards. We will ensure conventional paper voter registration applications are processed within 20 days of receipt. We will prioritize top-level security investment for all voting infrastructure, including voter registration systems
 
 
-### Support Counties and Ensure Voting is Convenient
+##### Support Counties and Ensure Voting is Convenient
 We will make sure counties have the training, resources and flexibility needed to serve their voters and work with the Secretary of State to provide consistency for voters across 159 counties. Voting in Georgia must be made more accessible by mandating fair allocation of polling places and polling place resources during early voting and on Election Day. Polling locations must be stable, convenient and equitable to voters. We will invest in mobile voting precincts to assist seniors, disabled Georgians and Georgians voting in areas with long wait times. Postage for mail ballots should be free.
 
 
-### End Arbitrary Rejection of Ballots
+##### End Arbitrary Rejection of Ballots
 Votes must count if they are cast in a voter’s county – just as is the practice during early voting periods. Mail ballots must count if they are postmarked up to and including Election Day.
 
 
-### Stop Gerrymandering at State and Local Level
+##### Stop Gerrymandering at State and Local Level
 I will veto maps with gerrymandered districts, whether state legislative or Congressional. Moreover, we must end the practice of state interference and restore local control in local elections.
 
 ## Housing Affordability
@@ -562,7 +562,7 @@ Georgia’s affordable housing crisis means many families cannot find homes to b
 I am the only candidate with a comprehensive plan to address the four central housing challenges  Georgians face in urban, suburban and rural communities every day. My plan will:
 
 
-### Increase Affordability
+##### Increase Affordability
 Georgia’s working families frequently cannot find affordable homes to buy or rent. To ensure families of all income levels can live in decent housing, I will:
 
 - Support First-Time Homeowners and expand the GA DREAM Program 
@@ -575,7 +575,7 @@ Georgia’s working families frequently cannot find affordable homes to buy or r
 - Empower local governments to protect homeowners and tenants 
     - Permit localities to take steps to protect homeowners and tenants, including local fair housing ordinances or protecting tenants by requiring inspections of single-family rental homes.
 
-### Expand Inventory and Habitability
+##### Expand Inventory and Habitability
 A major driver of Georgia’s affordable housing crisis is limited inventory of reasonably priced, safe, and habitable homes and rentals. To increase the supply of all types of housing — not just new luxury apartment buildings — I will introduce and champion legislation that will:
 
 - Empower localities to create a separate property tax class 
@@ -646,7 +646,7 @@ My Ethics and Public Integrity Platform rewrites the rules to work in favor of a
 We can build a better Georgia for everyone, renew integrity in governance, and earn confidence from the people of our state. If we do right by our people, we can get more done for our future, moving Georgia to its next and greatest chapter. My plan for strong ethical leadership as governor of Georgia will ensure that voters know I am always on their side ready to serve.
 
 
-### Set High Ethical Standards
+##### Set High Ethical Standards
 As public servants, we must protect fair and equal access to government services and put public interests over personal interests. As governor, I will:
 
 - Lead by Example. I will make responsible decisions with regard to my personal finances and professional affiliations, including walling myself off from financial decisions that may create a conflict of interest. I will step down from public boards and I will refuse all compensation for my service. I will meet all ethical obligations, written and assumed, to ensure I am not subject to undue influence. 
@@ -660,7 +660,7 @@ As public servants, we must protect fair and equal access to government services
 - Publish an Annual Tax Expenditure Report. As governor, I will require an annual report analyzing and grading the impact of tax credits, exemptions, and deductions on the state budget and actual economic development. 
 
 
-### Listen to Georgians and Be Transparent About Our Work
+##### Listen to Georgians and Be Transparent About Our Work
 Georgians face complex challenges across our state. They deserve a leader who will show up, listen, stand up for their issues, and then report back on the work being done. As governor, I will:
 
 - Provide Access for Constituents. In recent years, failures in the Executive Branch have been blamed on various constitutional officers, but the governor cannot ignore the needs of the people. I will appoint a Director of Constituent Services to link citizen concerns and requests with my administration and act as liaison with other constitutional offices.
@@ -669,14 +669,14 @@ Georgians face complex challenges across our state. They deserve a leader who wi
 
 - Transparency in State Government. I will launch a Georgia Performance Dashboard so Georgians can easily see where we stand on important measures in education, health, transportation, financial management, and more. Georgia has performance measures for state agencies, but we need to improve the accessibility of these features for all Georgians.
 
-###  Protect Workers from Harassment
+#####  Protect Workers from Harassment
 All workers—including public workers—deserve to feel safe and free from harassment. As governor, I will:
 
 - Strong Protections and Practices. As governor, I will ensure practices and protections against harassment within the executive branch are strong, comprehensive, and just. Collaborate with legislators to define the rules of conduct, construct clear pathways for complaints, require sexual harassment prevention programs and training, and ensure appropriate penalties.
 
 - Georgia Commission on Human Rights. In light of the attacks on our civil and human rights, I will reform the Georgia Commission on Equal Opportunity as the Georgia Commission on Human Rights. This restructured commission will have the ability to set clear pathways for harassment complaints, facilitate equal opportunity complaints, serve as a referral point for Georgia workers, and oversee mediation or investigations into harassment for those workers who do not fall under federal purview.
 
-### Protect Your Data and Services
+##### Protect Your Data and Services
 Governments hold some of the most sensitive information about our citizens—court records, tax returns, and medical histories, among others. Cyber-attacks can cause havoc on our vital services like public safety and water systems and put our citizens and businesses at risk. We must be vigilant in protecting our citizens and their public services in the face of ongoing attacks. 
 
 - Partner with Georgia Technology Authority. I will work with the Cybersecurity Board to continue to identify and address data security gaps impacting our state, invest in technology infrastructure to mitigate security risks, and train employees to be aware and responsive.
