@@ -82,14 +82,14 @@ Unfortunately, our leaders are not working in the best interests of Arizonans. R
 
 We will lower costs for families with children by: establishing a state-level child tax credit, which has been shown to reduce poverty, that will go towards affording the essentials needed to raise a child.
 
-    - We will also exempt diapers and baby formula from sales taxes, and implement a sales tax holiday on school supplies, so these essential goods can be affordable.
+- We will also exempt diapers and baby formula from sales taxes, and implement a sales tax holiday on school supplies, so these essential goods can be affordable.
 
 We will help Arizonans get back to work in good-paying jobs by:
 
-    - Creating a refundable tax credit for career and technical education opportunities, and by permanently expanding child care assistance, we can reduce some of the barriers to work.
+- Creating a refundable tax credit for career and technical education opportunities, and by permanently expanding child care assistance, we can reduce some of the barriers to work.
 
 Finally, we will protect the health and well-being of Arizona families by:
 
-   -  Exempting over-the-counter medicines and feminine hygiene products from sales taxes, so that Arizonans of all ages and genders can better take care of their health.
+-  Exempting over-the-counter medicines and feminine hygiene products from sales taxes, so that Arizonans of all ages and genders can better take care of their health.
 
 By providing much-needed relief to Arizona families, we can also grow our economy and set our state up for long-term prosperity. When more Arizonans are able to afford school supplies, medications, and get the training they need for a good-paying job, they become part of a healthier and more dependable workforce. And when more businesses are able to grow, they make our state more competitive and attractive to workers.
