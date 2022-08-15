@@ -2,7 +2,7 @@
 date: 2022-08-14T13:02:41-04:00
 title: " Laura Kelly for governor 2022"
 seo_title: "Kansas Governor Laura Kelly"
-description: Governor Laura Kelly is a wife, a mother, and a lifelong rancher, farmer and small business owner. 
+description: Governor Laura Kelly has brought Democrats and Republicans together to balance the budget, fully fund our schools, and fight for a tax cut for all Kansans. Laura will always put what’s best for Kansas ahead of party politics.
 author: Csen
 image: laura-kelly.jpeg
 video:
@@ -31,11 +31,6 @@ Under Laura’s leadership, CNBC named Kansas the “Comeback State of 2019,” 
 Previously, Laura was executive director of the Kansas Recreation & Park Association and served in the Kansas Senate, where she built a reputation as a no-nonsense leader who worked with both Republicans and Democrats to build common ground and get things done.
 
 Laura lives with her husband, Ted Daughety. They raised their two daughters, Molly and Kathleen, in Topeka, where they both attended public schools.
-
-
-
-
-
 
 
 #### Meet  Lieutenant Governor David Toland
