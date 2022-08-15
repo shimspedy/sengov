@@ -2,7 +2,7 @@
 date: 2022-08-14T12:04:20-04:00
 title: " Nellie Gorbea for governor 2022"
 seo_title: "Nellie Gorbea for  Rhode Island governor"
-description: Nellie Gorbea is a proven leader, a dedicated public servant, and a groundbreaker running for the open governorship.
+description: Rhode Island Secretary of State Nellie M. Gorbea was re-elected in 2018 to serve Rhode Island for a second term and continue making government work for people.
 author: Csen
 image: nellie-gorbea.jpeg
 video:
