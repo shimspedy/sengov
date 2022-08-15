@@ -73,8 +73,6 @@ The building and rebuilding of homes in our state gives us the opportunity to up
 A child who moves more than twice in a school year or who is homeless will have a much harder time keeping up in school. Keeping families in affordable homes is key to making sure our children can take advantage of what is offered in their schools.
 
 ## Education
-
-##### Improving the Education of Our People
 As a mother of three children, I experienced firsthand how the COVID-19 pandemic changed the way families and educators look at education. I understand that the goal is not to return to the way things were, but to reshape what we do. We can transform education in Rhode Island by working together – teachers, parents, students, labor leaders, education professionals and elected officials. New federal funding gives us a unique opportunity to not only address post-pandemic learning, but to invest in our teachers, our educational infrastructure and implement ideas that previously died in the funding conversation.
 
 My education plan begins by providing quality, early care and education for our youngest children. It continues by offering all students a challenging journey that prepares and supports them from kindergarten through high school graduation. After graduation, Rhode Islanders should be able to find affordable educational opportunities that prepare them to be a part of our economy – whether at our colleges and universities or at our career and technical training programs. Finally, we will provide adult Rhode Islanders with educational opportunities that help them adapt to changes in our society and economy.
@@ -116,7 +114,6 @@ Rhode Island can be a world leader in the envrinronmental economy by preparing i
 
 ## Climate Change
 
-##### Opportunities and Challenges with Climate Change
 Because of Rhode Island’s size and geography, our economic future will always be tied to the environment and our climate. Climate change provides both opportunities in the area of renewable energy and challenges brought about by the receding shoreline and other climate impacts. I will make sure Rhode Island maximizes the advantages we have because of where we are located while also becoming a national leader in resilience to climate change.
 
 As Governor, I look forward to enacting policies that support the “Act on Climate”, staying focused on the goal of net zero emissions by 2050. I will also work with our world-leading experts in academia as well as our cities and towns to ensure Rhode Island and Rhode Islanders are ready for what is to come. As Governor, I will make sure Rhode Island’s economy is prepared for climate change and benefits from and protects our environment.
