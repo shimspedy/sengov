@@ -1,11 +1,11 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Hagedorn Jim"
-seo_title: "contact Congress Hagedorn Jim"
+seo_title: "Former Congress Hagedorn Jim"
 subheader:
-     greeting: Contact Congress Hagedorn Jim 
-     description: James Lee Hagedorn is an American politician from the state of Minnesota. A Republican, he is a member of the United States House of Representatives from Minnesota's 1st congressional district. The district covers much of the southern third of the state and includes Rochester, Austin and Mankato.
-description: Contact Congress Hagedorn Jim of Minnesota. Contact information for Hagedorn Jim includes email address, phone number, and mailing address.
+     greeting: Former Congress Hagedorn Jim 
+     description: James Lee Hagedorn was an American politician from Minnesota. A Republican, he was the U.S. Representative for Minnesota's 1st congressional district from 2019 until his death. The district stretches across southern Minnesota along the border with Iowa and includes Rochester, Austin, and Mankato.
+description: James Lee Hagedorn was an American politician from Minnesota. A Republican, he was the U.S. Representative for Minnesota's 1st congressional district from 2019 until his death. The district stretches across southern Minnesota along the border with Iowa and includes Rochester, Austin, and Mankato.
 image: hagedorn-jim.jpg
 video: 
 url: /archieve/hagedorn-jim/
@@ -18,13 +18,13 @@ name:	Hagedorn Jim
 state:	Minnesota
 district: 1st
 party:	Republican
-officeroom:	1433 LHOB
-phonenumber:	(202) 225-2472
-emailaddress:	https://hagedorn.house.gov/contact
-website:	https://hagedorn.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepHagedorn
 powrid: 
 ---
