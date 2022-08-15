@@ -12,7 +12,7 @@ layout: single
 keywords:
 - governor 
 ---
-## Michelle Lujan Grisham for governor 
+## Michelle Lujan Grisham for New Mexico governor 
 Michelle Lujan Grisham is the 32nd Governor of New Mexico and was the first Democratic Hispanic woman to serve as Governor of a U.S. state. As a 12th-generation New Mexican, she has dedicated her life to serving her community while fighting for families and building an economy that works for all New Mexicans.
 
 After graduating from the University of New Mexico’s law school, Governor Lujan Grisham worked to provide free legal services for seniors with the state bar’s lawyer referral program for the elderly. She served as director of the state agency on aging for more than a decade, pioneering innovative practices now used nationwide. In 2004, Governor Lujan Grisham was appointed Secretary of the Department of Health, where she expanded the number of school-based health centers and instituted programs to better serve New Mexico’s children and their families. She was elected to the Bernalillo County Commission in 2010, serving for two years before being elected to New Mexico’s First Congressional District in 2012.
