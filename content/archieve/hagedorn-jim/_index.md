@@ -8,7 +8,7 @@ subheader:
 description: Contact Congress Hagedorn Jim of Minnesota. Contact information for Hagedorn Jim includes email address, phone number, and mailing address.
 image: hagedorn-jim.jpg
 video: 
-url: /minnesota/hagedorn-jim/
+url: /archieve/hagedorn-jim/
 weight: 1
 layout: course_home
 
