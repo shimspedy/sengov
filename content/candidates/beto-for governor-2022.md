@@ -33,12 +33,12 @@ O'Rourke is the 2022 Democratic gubernatorial nominee, challenging incumbent gov
 
 ## Issues
 
-### World-Class Schools
+#####  World-Class Schools
 Public education is about the future of our kids and the future of our economy—because if we want the best jobs in America to be right here in Texas, we need the best schools in America to be right here in Texas.
 
 But when I talk to teachers across the state, they tell me they lack the resources and flexibility they need to fully unlock a lifelong love of learning in the students in their classroom. Greg Abbott has underfunded Texas schools by $4,000 per student compared to the national average, and Texas’ hyper-focus on standardized testing has tied the hands of educators, forcing them to teach to a test instead of teaching to the children in front of them.
 
-#### I will fully fund public schools.
+######  I will fully fund public schools.
 
 Texas teachers are doing the most they can with the limited resources they have, but they’re burnt out, helping to explain why one-third leave the profession by their fifth year. Our teachers are underpaid by about $7,500 compared to those in other states, and educators who retired after 2004 haven’t received a single cost of living adjustment on their retirement benefits.
 
@@ -49,7 +49,7 @@ We will put more money into our kids’ classrooms and reject any effort to take
 ## High-Paying Jobs
 Texas is the ninth largest economy in the world—we should see good jobs coming to every part of Texas. Yet over the past decade, Texas has lost 600,000 living wage jobs, while growth has been concentrated in the kinds of jobs that don’t pay enough for the average Texas family to get by. With 1 in 5 Texas children living in poverty, it’s clear that the Texas economy isn’t working for everyone.
 
-#### Over the past decade, Texas has lost 600,000 living wage jobs.
+######  Over the past decade, Texas has lost 600,000 living wage jobs.
 
 Together, we can ensure that the best jobs in America are created right here in Texas. That means raising the minimum wage to ensure every Texan is paid the full value of their work, increasing access to paid and sick leave, making Texas a right-to-organize state, and ensuring Texas leads on the big, bold innovations that can move this state forward.
 
@@ -59,7 +59,7 @@ We will take Texas from having one of the worst health care systems in the count
 
 And we’ll ensure infrastructure development projects flow to every part of the state—to urban, suburban, and rural communities alike—to build out the roads, bridges, water systems, and broadband that will encourage economic development in our communities. We’ll create not just any infrastructure jobs, but family-supporting infrastructure jobs, with good pay, good benefits, and good job training opportunities.
 
-#### Together, we can ensure the best jobs in America come right here to Texas.
+######  Together, we can ensure the best jobs in America come right here to Texas.
 
 To make sure every Texan willing to work hard and serve their community can access these types of high-paying jobs, we will dramatically expand access to apprenticeships, career and technical education programs, and other job training opportunities in Texas’ most in-demand industries. That’s the only way to ensure each of our families have the opportunity to move up and move forward.
 
@@ -70,7 +70,7 @@ While expanding Medicaid is our best shot at turning things around, Greg Abbott 
 
 But it’s more than that: This means that when an uninsured Texan goes to the emergency room, all of us foot the bill in the form of higher insurance premiums and higher taxes to our local hospital districts—which helps to explain why Texas has some of the highest property taxes and health care costs in the entire country.
 
-#### The failure to expand Medicaid is driving up our property taxes and insurance premiums.
+######  The failure to expand Medicaid is driving up our property taxes and insurance premiums.
 
 Since taking office, Governor Abbott has also slashed funding for programs designed to recruit and retain medical professionals by nearly half, which helps to explain why our hospitals are 20,000 nurses short, and why over half of Texas counties lack a medical specialist or mental health provider of any kind.
 
@@ -83,7 +83,7 @@ We’ll take Texas from having the worst health care system in the country to ha
 ## Small Business
 As a former business owner in my hometown of El Paso, I met a payroll every month for 15 years and created dozens of high-skill, high-wage jobs that one might not expect to see in a border community.  As governor, I will have the backs of all those Texans with a dream looking to create great jobs in their communities.
 
-### I will have the backs of all those Texans with a dream.
+#####  I will have the backs of all those Texans with a dream.
 
 I’ll ensure Texas multiplies partnerships with private lenders and community banks to expand access to capital, credit, and training—especially in low-income and rural areas where it’s traditionally hard to come by. 
 
@@ -282,6 +282,6 @@ My VA health care reform plan added two new VA clinics in my hometown of El Paso
 
 In addition, I authored and passed legislation that expanded access to VA mental health care to veterans with other-than-honorable discharges, granted every separating service member access to a mental health screening, improved and customized transition assistance for service members leaving the military—and more.
 
-### Texas can and must do more to serve our veterans.
+#####  Texas can and must do more to serve our veterans.
 
 Texas can and must do more to serve our veterans. As governor, I will prioritize efforts to end veteran homelessness in Texas by the end of my first year in office, cut property taxes for disabled and low-income veterans, dramatically expand the state’s veterans health care case management system, strengthen services for veterans suffering from toxic exposure, expand access to medical marijuana and other alternatives to harmful opioids, and strengthen access to the education and employment benefits that our veterans have earned.
