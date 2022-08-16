@@ -21,7 +21,7 @@ The Promise of Arkansas is the Faith that together we can address our challenges
 
 ## Education
 
-#######   The Promise for Preschool for All
+#####   The Promise for Preschool for All
 All children in Arkansas should have access to a high quality preschool in their own community— where they can get the foundation they need to start school.
 
 #####  The Promise for Achieving Grade-level Reading
