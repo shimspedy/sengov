@@ -282,7 +282,7 @@ article h5,
 .post-content h4,
 .post-content h5 {
      position: relative;
-     display: inline;
+     display: table;
 }
 
 article h1::after,
