@@ -1,14 +1,14 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Fortenberry Jeff"
-seo_title: "contact Congress Fortenberry Jeff"
+seo_title: "contact Representative Fortenberry Jeff"
 subheader:
-     greeting: Contact Congress Fortenberry Jeff 
+     greeting: Contact Representative Fortenberry Jeff 
      description: Jeffrey Lane Fortenberry is an American politician serving as the U.S. Representative for Nebraska's 1st congressional district since 2005. A member of the Republican Party, his district is based in Lincoln and includes most of the eastern third of the state outside the immediate Omaha area.
-description: Contact Congress Fortenberry Jeff of Nebraska. Contact information for Fortenberry Jeff includes email address, phone number, and mailing address.
+description: Contact Representative Fortenberry Jeff of Nebraska. Contact information for Fortenberry Jeff includes email address, phone number, and mailing address.
 image: fortenberry-jeff.jpg
 video: 
-url: /nebraska/fortenberry-jeff/
+url: /archieve/fortenberry-jeff/
 weight: 1
 layout: course_home
 
