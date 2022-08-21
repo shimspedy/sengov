@@ -44,9 +44,18 @@ ol ul {
 ul:not(.browser-default) {
      padding-left: 20px;
  }
-article li::marker, .post-content li::marker {
+article li::marker {
      margin: 0 0.5rem 0 0;
      color: #ff7a18;
+}
+
+.post-content li::before{
+     content: "\21E2";
+    font-size: 34px;
+    color: #ffbd3d;
+    vertical-align: top;
+    float: left;
+    margin-left: -50px;
 }
 
 article ul:not(.browser-default) li {
