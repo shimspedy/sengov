@@ -34,6 +34,3 @@ uglyurls = true
 [Params]
 wordCount = true
 readingTime = true
-
-[outputs]
-    home = ["HTML", "RSS", "JSON"]
