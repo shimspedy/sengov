@@ -1,4 +1,4 @@
-baseURL = "https://sengov.com/"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 theme = "afrixi"
 title = "Contact United States Senators and Governors"
@@ -21,7 +21,7 @@ disqusShortname = "test-wninb4jp3p"
 
 
 [permalinks]
-#posts = "/blog/:slug/"
+#posts = "/blog/ =slug/"
 uglyurls = true
 
 
@@ -34,3 +34,6 @@ uglyurls = true
 [Params]
 wordCount = true
 readingTime = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

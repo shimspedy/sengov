@@ -3,4 +3,13 @@ if(e.clientX-(infoBox.offsetWidth)/2<0){leftx=0}
 if(e.clientX+(infoBox.offsetWidth)/2>document.documentElement.clientWidth){leftx=document.documentElement.clientWidth-(infoBox.offsetWidth)}
 infoBox.style.top=topy+"px";infoBox.style.left=leftx+"px";customCursor.style.top=(e.pageY-10)+"px";customCursor.style.left=(e.pageX-10)+"px";});var ios=/iPad|iPhone|iPod/.test(navigator.userAgent)&&!window.MSStream;if(ios){$('a').on('click touchend',function(){var link=$(this).attr('href');window.open(link,'_blank');return false;});}
 
-
+//homepage cards
+$(document).ready(function() {
+   
+   $(".option").click(function () {
+       $(".option").removeClass("active");
+       $(this).addClass("active");
+   });
+   
+    
+});
