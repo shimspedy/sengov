@@ -14,7 +14,7 @@
                          <ul class='right hide-on-med-and-down'>
                               <li><a href='https://forum.sengov.com/'class="waves-effect waves-light indigo darken-4 btn-large"><i class="material-icons left">cloud</i>forum</a></li>
                               <li class="{{if eq .Site.BaseURL `/salary/` }}active{{end}}"><a href='{{.Site.BaseURL}}salary'>salary<i class='material-icons left'>attach_money</i></a></li>
-                              <li class="{{if eq .Site.BaseURL `/contact/` }}active{{end}}"><a href='{{.Site.BaseURL}}contact'>contact<i class='material-icons left'>send</i></a></li>
+                              <!-- <li class="{{if eq .Site.BaseURL `/contact/` }}active{{end}}"><a href='{{.Site.BaseURL}}contact'>contact<i class='material-icons left'>send</i></a></li> -->
                               <li class="{{if eq .Site.BaseURL `/candidates/` }}active{{end}}"><a href='{{.Site.BaseURL}}candidates'>candidates<i class='material-icons left'>info_outline</i></a></li>
                               <li class="{{if eq .Site.BaseURL `/about/` }}active{{end}}"><a href='{{.Site.BaseURL}}power'>Gov's Role<i class='material-icons left'>info_outline</i></a></li>
                          </ul>
@@ -27,7 +27,7 @@
           <li><a href='{{.Site.BaseURL}}#governors'>governors</a></li>
           <li><a href='{{.Site.BaseURL}}about'>About<i class='material-icons left'>info_outline</i></a></li>
           <li><a href='{{.Site.BaseURL}}salary'>salary<i class='material-icons left'>attach_money</i></a></li>
-          <li><a href='{{.Site.BaseURL}}contact'>contact<i class='material-icons left'>send</i></a></li>
+          <!-- <li><a href='{{.Site.BaseURL}}contact'>contact<i class='material-icons left'>send</i></a></li> -->
           <hr>
           {{ partial "nav/drawer-course-list" . }}
      </ul>
