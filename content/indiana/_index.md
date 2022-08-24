@@ -8,6 +8,17 @@ author: john shim
 url: /indiana/
 flag: seal.png
 weight: 1
+
+
+
+
+stateweb: "https://www.in.gov/core/"
+govweb: "https://www.in.gov/gov/index.html"
+gov: "Eric Holcomb"
+Address: "State House Room 206 Indianapolis, IN 46204-2797"
+phonenumber: 317-232-4567
+
+
 ---
  Indiana became the 19th state to join the Union
  

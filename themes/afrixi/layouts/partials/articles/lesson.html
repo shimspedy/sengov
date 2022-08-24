@@ -32,28 +32,28 @@
                 information</h1>
               <p class="flow-text" style="font-size: 12px;">Here you will find contact information for {{.Params.Role}}
                 {{.Params.Name}}, including email address, phone number, and mailing address.</p>
-              <table>
+              <table  class="h-card" >
                 <tbody>
                   <tr>
                     <td>Name</td>
-                    <td>{{.Params.Name}}</td>
+                    <td class="p-name">{{.Params.Name}}</td>
                   </tr>
                   <tr>
                     <td>Position</td>
-                    <td>{{.Params.Role}}</td>
+                    <td class="p-role">{{.Params.Role}}</td>
                   </tr>
                   <tr>
                     <td>State</td>
-                    <td><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
+                    <td class="p-region"><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
                   </tr>
                   <tr>
                     <td>Party</td>
-                    <td>{{.Params.Party}}</td>
+                    <td class="p-org">{{.Params.Party}}</td>
                   </tr>
                   {{ if isset .Params "born" }}
                   <tr>
                     <td>Born</td>
-                    <td>
+                    <td class="dt-bday">
                       {{.Params.Born}}
                     </td>
                   </tr>
@@ -97,45 +97,45 @@
                   {{ if isset .Params "officeroom" }}
                   <tr>
                     <td>Office Room</td>
-                    <td>{{.Params.Officeroom}}</td>
+                    <td class="p-extended-address">{{.Params.Officeroom}}</td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "mailingaddress" }}
                   <tr>
                     <td>Mailing Address</td>
-                    <td>{{.Params.Mailingaddress}} </td>
+                    <td class="p-street-address">{{.Params.Mailingaddress}} </td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "mailingaddress1" }}
                   <tr>
                     <td>Mailing Address</td>
-                    <td>{{.Params.Mailingaddress1}} </td>
+                    <td class="p-street-address">{{.Params.Mailingaddress1}} </td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "mailingaddress2" }}
                   <tr>
                     <td>Mailing Address 2</td>
-                    <td>{{.Params.Mailingaddress2}} </td>
+                    <td class="p-street-address"> {{.Params.Mailingaddress2}} </td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "phonenumber" }}
                   <tr>
                     <td>Phone number</td>
-                    <td><a href="tel:{{.Params.Phonenumber}}" class="" itemprop="telephone">{{.Params.Phonenumber}}</a>
+                    <td><a href="tel:{{.Params.Phonenumber}}" class="p-tel" itemprop="telephone">{{.Params.Phonenumber}}</a>
                     </td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "phonenumber1" }}
                   <tr>
                     <td>Phone number</td>
-                    <td><a href="tel:{{.Params.Phonenumber1}}" class=""
+                    <td><a href="tel:{{.Params.Phonenumber1}}" class="p-tel"
                         itemprop="telephone">{{.Params.Phonenumber1}}</a></td>
                   </tr>
                   {{end}}
                   {{ if isset .Params "phonenumber2" }}
                   <tr>
                     <td>Phone number</td>
-                    <td><a href="tel:{{.Params.Phonenumber2}}" class=""
+                    <td><a href="tel:{{.Params.Phonenumber2}}" class="p-tel"
                         itemprop="telephone">{{.Params.Phonenumber2}}</a></td>
                   </tr>
                   {{end}}
@@ -153,11 +153,11 @@
                   {{end}}
                   <tr>
                     <td>email</td>
-                    <td><a href="{{.Params.Emailaddress}}" class="" target="_blank"> Email Form</a></td>
+                    <td><a href="{{.Params.Emailaddress}}" class="u-url" target="_blank"> Email Form</a></td>
                   </tr>
                   <tr>
                     <td>Website</td>
-                    <td><a href="{{.Params.Website}}" class="" target="_blank" itemprop="url">Official Website</a></td>
+                    <td><a href="{{.Params.Website}}" class="u-url" target="_blank" itemprop="url">Official Website</a></td>
                   </tr>
 
                 </tbody>
@@ -187,12 +187,14 @@
                  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             {{end}}
-        <div id="disqus_recommendations"></div>
+
         <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
-        <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+        <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
           style=" padding: 25px 20px 20px; border-radius: 6px; ">
           {{ partial "nav/table-of-contents" . }}
+          <div class="e-content">
           {{.Content}}
+          </div>
         </div>
         <div class="adsgoogle">
 

@@ -8,6 +8,16 @@ author: cs
 flag: alabama.png
 url: /alabama/
 weight: 1
+
+
+stateweb: "https://www.alabama.gov/"
+govweb: "https://governor.alabama.gov/"
+gov: "Kay Ivey"
+Address: "600 Dexter Avenue, Montgomery, AL 36130-2751"
+phonenumber: 1-334-242-7100
+
+
+
 ---
 
 Alabama is Located in the southern United States, aboriginals were the first to occupy the region that became Alabama. Europeans reached this area in the 16th century. Alabama was the 22nd state to join the Union on December 14, 1819. At that time, cotton and slave labor was central to Alabama’s economy. In January 1861, the state was one of the six first states to declare its secession from the Union, and in February, it joined the Confederate States of America. The state role was essential in the American Civil War; its capital, Montgomery, was the first Confederacy’s capital. During this time, from March 1861 to July 1868, its United States Senate seats were declared vacant.

@@ -8,6 +8,17 @@ author: john shim
 url: /hawaii/
 flag: seal.png
 weight: 1
+
+
+
+
+stateweb: "https://portal.ehawaii.gov/"
+govweb: "https://governor.hawaii.gov/"
+gov: "David Ige"
+Address: "State Capitol, Honolulu, HI 96813"
+phonenumber: 808-586-0034
+
+
 ---
 
 Hawaii became the 50th state in the Union on August 21, 1959. The state's first two senators, Hiram Fong and Oren Long, were sworn into office on August 24, 1959. Hiram Fong was the first Asian Pacific American elected to the Senate. Hawaii's longest-serving senator, and the second longest-serving senator in Senate history, is Daniel Inouye (1963-2012). Inouye served as the Senate president pro tempore from 2010 to 2012 and as his party's conference secretary from 1977 to 1989. 

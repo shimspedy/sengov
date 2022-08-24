@@ -1,9 +1,61 @@
 {{ define "main" }}
-     {{if and (.Layout) (eq .Layout "course_home")}}
-          {{ partial "markup/course" . }}
-          {{ partial "articles/lesson" . }}
-     {{else}}
-     {{ partial "listings/section" . }}
-         {{.Content}} 
-     {{end}}
+{{if and (.Layout) (eq .Layout "course_home")}}
+{{ partial "markup/course" . }}
+{{ partial "articles/lesson" . }}
+{{else}}
+
+<div class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  ">
+     <div class="row">
+
+          <div class="col s12 m6 l3 h-entry">
+               <div class="senator-image h-card">
+
+                    <img class="u-photo" src="{{.Site.BaseURL}}{{.Params.url}}{{.Params.flag}}" alt="{{.Title}}" style="    max-width: 300px;">
+               </div>
+          </div>
+
+          <div class="col s12 m6 l9">
+               <div class="h-entry">
+                    <header>
+                         <h2 class="p-name" id="state-government"> {{.Title}} State Government</h2>
+                    </header>
+                    <div class="p-summary">Contact information for the {{.Params.Title}} governor.</div>
+               </div>
+               <table class="h-card">
+                    <tbody>
+                         <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
+                              <td itemprop="name">Official Name:</td>
+                              <td class="p-name"><a href="{{.Params.stateweb}}">{{.Params.Title}}</a></td>
+                         </tr>
+                         <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
+                              <td itemprop="name">Governor:</td>
+                              <td class="p-role"> {{.Params.gov}}</td>
+                         </tr>
+                         <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
+                              <td itemprop="name">Contact:</td>
+                              <td class="p-region"><a href="{{.Params.govweb}}">Contact the governor</a>
+                              </td>
+                         </tr>
+                         <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
+                              <td itemprop="name">Main Address:</td>
+                              <td class="p-region">{{.Params.Address}}</td>
+                         </tr>
+                         <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
+                              <td itemprop="name">Phone Number:</td>
+                              <td class=" tel">{{.Params.phonenumber}}</td>
+                         </tr>
+
+                    </tbody>
+               </table>
+
+          </div>
+     </div>
+     <div class="h-entry">
+          {{.Content}} 
+     </div>
+</div>
+
+
+{{ partial "listings/section" . }}
+{{end}}
 {{ end }}

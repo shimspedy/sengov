@@ -8,6 +8,15 @@ author: john shim
 url: /iowa/
 flag: seal.png
 weight: 1
+
+
+stateweb: "https://www.iowa.gov/"
+govweb: "https://governor.iowa.gov/"
+gov: "Kim Reynolds"
+Address: "State Capitol Des Moines, IA 50319-0001"
+phonenumber: 515-281-5211
+
+
 ---
 
 

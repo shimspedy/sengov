@@ -8,6 +8,15 @@ author: john shim
 url: /maryland/
 flag: seal.png
 weight: 1
+
+
+stateweb: "https://www.maryland.gov/Pages/default.aspx"
+govweb: "https://governor.maryland.gov/"
+gov: "Larry Hogan"
+Address: "100 State Circle Annapolis, MD 21401"
+phonenumber: 410-974-3901
+
+
 ---
 
 Maryland became the seventh state to join the Union on April 28, 1788. Maryland’s first two senators, Charles Carroll and John Henry, took office on March 4, 1789. Maryland’s longest-serving senators include Millard Tydings (1927-1951), Paul Sarbanes (1977-2007), and Barbara Mikulski (1987-2021). In 2011 Barbara Mikulski became the longest-serving female senator to date. Mukulski was also the first Democratic woman to serve in a leadership position, as Democratic Conference secretary. John Howard and Samuel Smith both served as the Senate’s president pro tempore. As vice president, Spiro Agnew was the Senate’s constitutional president or presiding officer.
