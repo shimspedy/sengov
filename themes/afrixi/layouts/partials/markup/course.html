@@ -1,12 +1,12 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Contacts",
-  "name": "{{- .Params.seo_title -}}",
+  "@type": "person",
+  "name": "{{- .Params.role -}} {{- .Params.name -}}",
   "description": "{{- .Description -}}",
   "provider": {
     "@type": "Organization",
-    "name": "Contact US Governors",
+    "name": "{{- .Params.role -}} of {{- .Params.state -}}",
     "url": "{{- .Site.BaseURL -}}"
   }
 }
