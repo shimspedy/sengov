@@ -2,7 +2,7 @@
 date: 2020-09-11T11:55:00-04:00
 title: "Iowa"
 ab: "IA"
-seo_title: "Contact Indiana  Governors And Senators"
+seo_title: "Contact Iowa  Governors And Senators"
 description: Contact Iowa Senators
 author: john shim
 url: /iowa/
