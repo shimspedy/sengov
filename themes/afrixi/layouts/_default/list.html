@@ -24,25 +24,25 @@
                <table class="h-card">
                     <tbody>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td itemprop="name">Official Name:</td>
-                              <td class="p-name"><a target="_blank" rel="noopener noreferrer" href="{{.Params.stateweb}}">{{.Params.Title}}</a></td>
+                              <td >Official Name:</td>
+                              <td class="p-name" itemprop="addressRegion"><a target="_blank" rel="noopener noreferrer" href="{{.Params.stateweb}}">{{.Params.Title}}</a></td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td itemprop="name">Governor:</td>
-                              <td class="p-role"> {{.Params.gov}}</td>
+                              <td >Governor:</td>
+                              <td class="p-role" itemprop="name"> {{.Params.gov}}</td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td itemprop="name">Contact:</td>
+                              <td>Contact:</td>
                               <td class="p-region"><a target="_blank" rel="noopener noreferrer" href="{{.Params.govweb}}">Contact the governor</a>
                               </td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
                               <td itemprop="name">Main Address:</td>
-                              <td class="p-region">{{.Params.Address}}</td>
+                              <td class="p-region" itemprop="address">{{.Params.Address}}</td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td itemprop="name">Phone Number:</td>
-                              <td class=" tel">{{.Params.phonenumber}}</td>
+                              <td >Phone Number:</td>
+                              <td class=" tel" itemprop="telephone">{{.Params.phonenumber}}</td>
                          </tr>
 
                     </tbody>
