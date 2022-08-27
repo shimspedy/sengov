@@ -7,4 +7,11 @@ author: cs
 flag: 
 url: /archieve/
 weight: 1
+
+stateweb: "https://sengov.com/"
+govweb: "https://sengov.com/"
+gov: "Senators and Governors"
+Address: ""
+phonenumber: 
+ 
 ---
