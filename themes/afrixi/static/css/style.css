@@ -349,3 +349,6 @@ article h5::after,
 
 
 
+.ui-accordion .ui-accordion-header {
+     display: none !important;
+ }
