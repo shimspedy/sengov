@@ -4,9 +4,9 @@
                <h1>{{.Title}}</h1>
                
                {{ partial "articles/article-subheader" . }}
-               {{- if .Params.video -}}
+               <!-- {{- if .Params.video -}}
                     {{ partial "youtube-video" . }}
-               {{- end -}}
+               {{- end -}} -->
                <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
                     {{ partial "nav/table-of-contents" . }}
                     {{.Content}}
