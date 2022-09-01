@@ -3,7 +3,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "{{- .Params.role -}} {{- .Params.name -}}",
+      "name": "{{- .Params.role -}}{{"  "}}{{- .Params.name -}}",
       "description": "{{- .Description -}}",
       "address": {
         "@type": "PostalAddress",
@@ -12,7 +12,6 @@
       },
       "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{- .Params.image -}}{{- end -}}",
       "jobTitle": "{{- .Params.role -}}",
-      "name": "{{- .Params.name -}}",
       "telephone": "{{- .Params.Phonenumber1 -}}",
       "url": "{{- .Params.Website -}}"
     }
