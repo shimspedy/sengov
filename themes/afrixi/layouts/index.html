@@ -9,8 +9,10 @@
         {{ partial "listings/sengov" . }}
     </div>
 </div>
+<div class="center" style="margin: auto;">
+    {{- partial "ads/sidebar" . -}}
+</div>
 
-{{- partial "ads/sidebar" . -}}
 {{ partial "listings/election" . }}
 <div data-cdc-widget="COVIDCountyCheck" data-horizontal="true" ></div> 
 <script src="https://tools.cdc.gov/1M1B"></script>
