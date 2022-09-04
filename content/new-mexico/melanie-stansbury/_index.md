@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Melanie Stansbury of New Mexico. Contact information for Melanie Stansbury includes email address, phone number, and mailing address.
 image: melanie-stansbury.jpeg
 video: 
-url: /archieve/melanie-stansbury/
+url:  /new-mexico/melanie-stansbury/
 weight: 1
 layout: course_home
 
