@@ -8,7 +8,7 @@ subheader:
 description: Contact Congress Haaland Debra of New Mexico. Contact information for Haaland Debra includes email address, phone number, and mailing address.
 image: haaland-debra.jpg
 video: 
-url: /new-mexico/haaland-debra/
+url: /archieve/haaland-debra/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact Congressman Stivers Steve of Ohio. Contact information for Stivers Steve includes email address, phone number, and mailing address.
 image: stivers-steve.jpg
 video: 
-url: /ohio/stivers-steve/
+url: /archieve/stivers-steve/
 weight: 1
 layout: course_home
 
