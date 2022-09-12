@@ -118,3 +118,41 @@ Under his leadership, Tennessee has strengthened career and technical training, 
 Additionally, Tennessee was named the number one best fiscally managed state in the country, the best business climate in the U.S., number one in the nation for advanced industry job growth, and the best state for small business growth. Tennesseans also enjoy the lowest state and local tax burden per capita in the country. Since Governor Lee took office, the state has garnered 272 project commitments to create almost 40,000 jobs and $12.9 billion in capital investments, with Ford Motor Company and SK Innovation, Amazon, Oracle, FedEx-Logistics, General Motors, Mitsubishi, and dozens of other companies choosing to invest in Tennessee’s business-friendly environment.
 
 The governor and first lady are people of strong faith. They are active in numerous faith-based ministries, which have taken them all over the world to serve people in need, including to Africa, Haiti, Central America, and the Middle East.
+
+## FREEDOM
+- Cut taxes for small businesses and paused grocery taxes during record inflation
+- Issued a 90-day freeze on new government regulations
+- Signed the Adoption and Religious Freedom Act to ensure private agencies are protected
+
+## PUBLIC SAFETY
+- Expanded Tennessean’s 2nd Amendment rights with Constitutional Carry
+- Expanded treatment and rehabilitation to ensure incarcerated individuals do not re-commit crimes
+- Reduced law enforcement shortages with aggressive out-of-state recruiting
+- Established a $100 million violent crime intervention program
+- Strengthened penalties against drug traffickers, human traffickers, and criminals who commit gun crimes
+- Deployed Tennessee National Guard to the Southwest Border to stop illegal crossings and drug trafficking
+
+## FAMILY
+- Passed the strongest pro-life laws in the country, including the Heartbeat Bill
+- Expanded maternal health and postpartum coverage for TennCare recipients
+- Launched TN Fosters Hope to secure permanent homes for kids in foster care
+- Reformed Temporary Assistance for Needy Families
+
+## EDUCATION
+- Reformed a 30-year-old funding approach to fund students, not bureaucracies
+- Expanded access to career and technical training for middle and high school students
+- Established the Future Workforce Initiative to ensure students have access to STEM educational opportunities
+- Banned CommonCore from all Tennessee schools
+- Put phonics back in the classroom
+
+## OPPORTUNITY
+- Tennessee unemployment is at the lowest rate in Tennessee history
+- Nearly 70,000 jobs added to Tennessee’s economy since 2019
+- Raised teacher pay to the highest level and closed bureaucratic loopholes to ensure a teacher raise is a teacher raise
+- Secured Ford Motor Company on the Megasite of West Tennessee, marking the largest private sector investment in Tennessee history
+- Doubled investments and expanded private sector partnerships to bring high-speed broadband to underserved areas
+
+## AMERICAN EXCEPTIONALISM
+- Established high-quality civics education in public schools, including a required civics exam in high school
+- Established the University of Tennessee Institute of American Civics
+- Shut down the Chinese Communist Party’s Confucius Institutes at public universities
