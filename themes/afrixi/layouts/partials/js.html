@@ -5,29 +5,25 @@
 <script async src="{{.Site.BaseURL}}js/sticky-kit.min.js"></script>
 <script async  src="{{.Site.BaseURL}}js/init.min.js"></script>
 
+<script src="https://unpkg.com/web-vitals@3/dist/web-vitals.iife.js"></script>   
 <script>
-    (function() {
-      var script = document.createElement('script');
-      script.src = 'https://unpkg.com/web-vitals@3/dist/web-vitals.attribution.iife.js';
-      script.onload = function() {
-        // When loading `web-vitals` using a classic script, all the public
-        // methods can be found on the `webVitals` global namespace.
-        webVitals.onCLS(console.log);
-        webVitals.onFID(console.log);
-        webVitals.onLCP(console.log);
+        function sendToGTM(name, delta, value, id) {
+            ononline = dataLayer.push({
+                event: 'web-vitals',
+                event_category: 'Performance',
+                event_action: name.name,
+                event_value: Math.round(name.name === 'CLS' ? name.delta * 1000 : name.delta),
+                event_label: name.id
+            });
+        }
+        webVitals.getCLS(sendToGTM);
+        webVitals.getFID(sendToGTM);
+        webVitals.getLCP(sendToGTM);
+        webVitals.getFCP(sendToGTM);
+        webVitals.getTTFB(sendToGTM);
 
 
-
-
-
-
-
-
-
-
-
-
-function sendToGoogleAnalytics({name, delta, value, id}) {
+  function sendToGoogleAnalytics({name, delta, value, id}) {
   // Assumes the global `gtag()` function exists, see:
   // https://developers.google.com/analytics/devguides/collection/ga4
   gtag('event', name, {
@@ -49,21 +45,4 @@ function sendToGoogleAnalytics({name, delta, value, id}) {
 webVitals.onCLS(sendToGoogleAnalytics);
 webVitals.onFID(sendToGoogleAnalytics);
 webVitals.onLCP(sendToGoogleAnalytics);
-
-
-
-
-
-
-
-
-
-
-      }
-
-
-
-      
-      document.head.appendChild(script);
-    }())
-    </script>
+</script>
