@@ -2,55 +2,85 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.3/dat.gui.min.js"></script>
 </head>
 <script>
-const query = `
-query { 
-    joke {
-      joke
-      permalink
-          }
-       }
-  `;
+    const query = `
+    query { 
+        joke {
+        joke
+        permalink
+            }
+        }
+    `;
 
-(function () {
-  getJoke();
-  setInterval(function () {
-    getJoke();
-  }, 9000);
-})();
+    (function(){   
+    getJoke();  
+    setInterval(function(){getJoke()  } ,9000)
+    })()
 
+
+// getJoke() function definition
 function getJoke() {
-  fetch(`https://icanhazdadjoke.com/graphql?query=${query}`)
-    .then((response) => response.json())
-    .then((data) => {
-      const { joke, permalink } = data.data.joke;
-      if (joke.length < 120) {
-        window.joke.innerHTML = `${joke}`;
-        displayLaugh();
-      } else {
-        getJoke();
-      }
-    });
-}
-
-function displayLaugh() {
-  var elements = document.querySelectorAll(".laugh a");
-  var txt = ["HA!", "HA!", "HA!", "?", "..."];
-  var disTxt = txt[Math.floor(Math.random() * txt.length)];
-  elements.forEach((el) => {
-    el.innerHTML = disTxt;
-    if (Math.floor(Math.random() * 3) + 1 == 1) {
-      setTimeout(function () {
-        el.classList.toggle("display");
-        setTimeout(function () {
-          el.classList.toggle("display");
-        }, 1000);
-      }, Math.random() * (3000 - 100) + 100);
+  // make an API request to https://icanhazdadjoke.com/'
+  fetch('https://icanhazdadjoke.com/', {
+    headers: {
+      'Accept': 'application/json'
     }
+  }).then(function(response) {
+    /* convert Stringified JSON response to Javascript Object */
+    return response.json();
+  }).then(function(data) {
+    /* replace innerText of .joke-text with data.joke */
+    // extract the joke text
+    const joke = data.joke;
+    // do the replacement
+
+    if(joke.length < 120){  
+        window.joke.innerHTML = joke;
+        displayLaugh();
+
+        }else{
+        getJoke();
+        }
+
+  }).catch(function(error) {
+    // if some error occured
+    jokeText.innerText = 'Oops! Some error happened :(';
+    // removes the old href from .tweet-btn if found any
+    tweetBtn.removeAttribute('href');
+    // console log the error
+    console.log(error);
   });
 }
 
+    function displayLaugh(){
+    var elements = document.querySelectorAll('.laugh a');  
+    var txt =['HA!','HA!','HA!','?','...'];
+    var disTxt = txt[Math.floor(Math.random() * txt.length)];
+    elements.forEach(el =>{ 
+        el.innerHTML = disTxt;
+        if((Math.floor(Math.random() * 3) + 1) == 1){
+        setTimeout(function(){
+            el.classList.toggle("display");
+            setTimeout(function(){
+            el.classList.toggle("display");
+            },1000) 
+        }, Math.random() * (3000 - 100) + 100);
+        }
+    });
+    }
+
+
+
+
+
+
+
+
+
+
+
     
-    </script>
+    
+</script>
     
     <style>
     @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
@@ -720,7 +750,8 @@ body {
     <body>
     <div class="scene">
         <div class="shadow"></div>
-        <div class="speechBubble" id="joke"></div>
+        <div class="speechBubble" id="joke">
+        </div>
         <div class="dad"> 
           <div class="hair"></div>
           <div class="head"> 
