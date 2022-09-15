@@ -479,9 +479,7 @@ article h5::after,
 		z-index: 3;
 	}
 
-	.slide #postImage,
-    .slide #postVideo {
-		background: url(https://www.shortstoryproject.com/wp-content/uploads/2017/07/stry283_bg-1-150x150.jpg);
+	.slide #postImage{
 		position: absolute;
 		float: right;
 		width: 665px;
