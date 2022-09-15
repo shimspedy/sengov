@@ -18,7 +18,10 @@
         {{ end }}
         {{ end }}
       </h3> -->
-      {{- partial "ads/sidebar" . -}}
+      <div class="max-ads" style="max-width: 50%;">
+        {{- partial "ads/sidebar" . -}}
+      </div>
+     
     </div>
     {{ if .Params.image }}
     <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
