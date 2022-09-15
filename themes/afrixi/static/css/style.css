@@ -352,3 +352,11 @@ article h5::after,
 .ui-accordion .ui-accordion-header {
      display: none !important;
  }
+
+ .card-image .thumb-img{
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 260px;
+     height: 174px;
+ }
