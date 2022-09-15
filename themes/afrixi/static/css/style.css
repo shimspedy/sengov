@@ -360,3 +360,166 @@ article h5::after,
      width: 260px;
      height: 174px;
  }
+
+
+
+
+
+ 
+
+
+
+ @media (orientation: portrait) {
+	.slide {
+		margin-top: 0px;
+		width: 100%;
+		margin: 0 auto;
+		height: auto;
+		overflow: hidden;
+		position: relative;
+	}
+
+	.slide .storyTitle {
+		padding: 31px;
+		background-color: #ffffff;
+		padding-top: 20px !important;
+		padding-right: 31px !important;
+		width: auto !important;
+		height: auto !important;
+		left: 20px;
+		right: 20px;
+	}
+
+	.slide #postImage,
+    .slide #postVideo {
+		left: auto;
+		top: 40px;
+		overflow: hidden;
+		box-shadow: 0px 7px 23px -5px rgba(0, 0, 0, 0.63);
+		height: 98vw !important;
+		width: 94% !important;
+		margin: auto;
+		float: none !important;
+		margin-top: -58px;
+		position: relative !important;
+		right: 0 !important;
+		z-index: 0;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: top center;
+	}
+
+	.slide #postImage #image_credit,
+      .slide #postVideo #image_credit {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 13px;
+		position: absolute;
+		left: 10px;
+		bottom: 10px;
+		color: white;
+	}
+
+	.slide #postImage .waves,
+      .slide #postVideo .waves {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: auto;
+		opacity: 0.6;
+	}
+
+	.slide #postImage img,
+      .slide #postVideo img {
+		display: inline-block;
+	}
+}
+
+@media (orientation: landscape) {
+	.slide {
+		width: 1300px;
+		margin: 0 auto;
+		margin-top: 54px;
+		height: auto;
+		overflow: hidden;
+		position: relative;
+	}
+
+	.slide .storyTitle {
+		width: 800px;
+		height: 786px;
+		padding: 31px;
+		padding-top: 35px;
+		background-color: #ffffff;
+		padding-right: 95px;
+		border-radius: 5px;
+		border: 1px solid #749b85;
+	}
+
+	.slide .storyTitle h1 {
+		overflow: hidden;
+		position: relative;
+		z-index: 3;
+	}
+
+	.slide .storyTitle h4 {
+		margin-top: 20px;
+		font: 16px 'Open Sans', sans-serif;
+		line-height: 1.75;
+		border-top: 1px solid;
+		padding-top: 17px;
+		max-width: 430px;
+		position: relative;
+		z-index: 3;
+	}
+
+	.slide .storyTitle h3 {
+		margin-top: 27px;
+		letter-spacing: 1px;
+		position: relative;
+		z-index: 3;
+	}
+
+	.slide #postImage,
+    .slide #postVideo {
+		background: url(https://www.shortstoryproject.com/wp-content/uploads/2017/07/stry283_bg-1-150x150.jpg);
+		position: absolute;
+		float: right;
+		width: 665px;
+		height: 700px;
+		right: 11px;
+		left: auto;
+		top: 40px;
+		overflow: hidden;
+		box-shadow: 0px 7px 23px -5px rgba(0, 0, 0, 0.63);
+		z-index: 0;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: top center;
+	}
+
+	.slide #postImage #image_credit,
+      .slide #postImage #image_credit,
+      .slide #postVideo #image_credit,
+      .slide #postVideo #image_credit {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 13px;
+		position: absolute;
+		left: 10px;
+		bottom: 10px;
+		color: white;
+	}
+
+	.slide #postImage .waves,
+      .slide #postVideo .waves {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: auto;
+		opacity: 0.6;
+	}
+
+	.slide #postImage img,
+      .slide #postVideo img {
+		display: inline-block;
+	}
+}

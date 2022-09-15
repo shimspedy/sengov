@@ -3,24 +3,50 @@
 {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
+
+
 <section>
-  <div class="slide hentry">
-    <div class="storyTitle"   style="background-image: url(/images/sengov.png);padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; background-size:cover; padding-top:1px;">
-      <h2 class="entry-title">{{ .Title }}</h2>
-      <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : <time class="published" datetime="2013-06-13 12:00:00">{{ .Date.Format "Monday, 2 Jan, 2006" }}</time> </h4>
-      <h3 class="author">
+  <div class="slide">
+    <div class="storyTitle">
+      <h1>{{ .Title }}</h1>
+      <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : {{ .Date.Format "Monday, 2 Jan, 2006" }} </h4>
+      <!-- <h3 class="author">
         {{- range .Params.authors }}
         {{ $authorPath := printf "authors/%s" (urlize .) }}
         {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
         {{ partial "author-card" . }}
         {{ end }}
         {{ end }}
-
-      </h3>
-      <div  style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">{{ partial "articles/article-subheader" . }}</div>
+      </h3> -->
+      {{- partial "ads/sidebar" . -}}
     </div>
+    {{ if .Params.image }}
+    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
+      style="background-image: url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+      <span id="image_credit"></span>
+      <div class="gradient"></div>
+      <img src="/images/wave.png" class="waves">
+    </div>
+    {{ else }}
+    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
+      style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});">
+      <span id="image_credit"></span>
+      <div class="gradient"></div>
+      <img src="/images/wave.png" class="waves">
+    </div>
+    {{ end }}
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
 
 <div class="row">
   <div class="col xl8 l8 m12 s12">
