@@ -1,27 +1,47 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/search.json',
-    '/manifest.json',
-    '/seal.png',
+    '/css/style.css',
+    '/css/exam.css',
+    '/css/hero.css',
+    '/css/map.css',
+    '/css/sen-gov.css',
+    '/js/map.js',
+    '/js/script.js',
+    '/js/init.js',
+    '/js/sticky-kit.js',
+    '/js/manifest.json',
+    '/favicon.png',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/offline/index.html',
+    '/css/style.css',
+    '/css/exam.css',
+    '/css/hero.css',
+    '/css/map.css',
+    '/css/sen-gov.css',
+    '/js/map.js',
+    '/js/script.js',
+    '/js/init.js',
+    '/js/sticky-kit.js',
+    '/index.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/404.html',
+    '/css/style.css',
+    '/css/exam.css',
+    '/css/hero.css',
+    '/css/map.css',
+    '/css/sen-gov.css',
+    '/js/map.js',
+    '/js/script.js',
+    '/js/init.js',
+    '/js/sticky-kit.js',
+    '/index.html',
 ];
 
-const OFFLINE_PAGE = '/offline/index.html';
-const NOT_FOUND_PAGE = '/404.html';
+const OFFLINE_PAGE = '/index.html';
+const NOT_FOUND_PAGE = '/index.html';
 
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,
