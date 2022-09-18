@@ -16,6 +16,7 @@
 {{ else }}
 <meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />
 {{- end -}}
+
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
  <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <link  rel="stylesheet"  href="{{.Site.BaseURL}}css/style.min.css">
@@ -26,7 +27,7 @@
 
 
 <!-- sw -->
-<link rel="manifest" href="js/manifest.json">
+<link rel="manifest" href="{{.Site.BaseURL}}manifest.json">
 
 <!-- exams css -->
 <link  rel="stylesheet"  href="{{.Site.BaseURL}}css/exam.css">
