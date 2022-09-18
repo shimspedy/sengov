@@ -2,8 +2,11 @@
 {{if and (.Layout) (eq .Layout "course_home")}}
 {{ partial "markup/course" . }}
 {{ partial "articles/lesson" . }}
+{{else if and (.Layout) (eq .Layout "exam")}}
+{{ partial "articles/exam" . }}
 {{else}}
 
+{{ if not (in .Section "exams") }}
 <div class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  ">
      <div class="row">
 
@@ -54,7 +57,7 @@
           {{.Content}} 
      </div>
 </div>
-
+{{end}}
 
 {{ partial "listings/section" . }}
 {{end}}

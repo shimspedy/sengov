@@ -1,0 +1,46 @@
+<script src='{{.Site.BaseURL}}usmc/leading-marines/test1.js'></script>
+<script src='{{.Site.BaseURL}}js/exam.js'></script>
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+  <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+    {{ partial "nav/course-list" . }}
+  </aside>
+  <div class="col xl7 l7 m12 s12">
+
+    <div class="white z-depth-1" style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+      <div class="content">
+        {{.Content}}
+        <div id="result" class="quiz-body" style="  padding: 30px;">
+          <form name="quizForm" onSubmit="">
+            <fieldset class="form-group">
+              <h4><span id="qid">1.</span> <span id="question"></span></h4>
+
+              <div class="option-block-container" id="question-options">
+
+              </div>
+            </fieldset>
+            <div class="center" style="padding:15px;">
+              <button name="previous" id="previous" class="btn waves-effect waves-light">Previous</button>
+              &nbsp;
+              <button name="next" id="next" class="btn waves-effect waves-light">Next</button>
+            </div>
+
+          </form>
+        </div>
+      </div>
+
+      {{ partial "nav/pagination.html" . }}
+
+    </div>
+
+
+
+  </div>
+  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+    <div id="nav-side-ad">
+
+      {{- partial "ads/sidebar-custom" . -}}
+      {{- partial "social-icons/vertical" . -}}
+    </div>
+  </aside>
+</div>

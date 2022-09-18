@@ -29,4 +29,33 @@
 webVitals.onCLS(sendToGoogleAnalytics);
 webVitals.onFID(sendToGoogleAnalytics);
 webVitals.onLCP(sendToGoogleAnalytics);
+
+
+
+
+
+
+
+
+
+
+if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/js/sw.js', { scope: '/' })
+          .then(function(registration) {
+              console.log('Service Worker Registered');
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+            console.log('Service Worker Ready');
+          });
+  }
+
+
+
+
+
+
 </script>

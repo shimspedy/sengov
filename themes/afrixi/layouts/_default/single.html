@@ -2,8 +2,11 @@
      {{if and (.Layout) (eq .Layout "single")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/single" . }}
-     {{else}}
+     {{else if and (.Layout) (eq .Layout "exam")}}
           {{ partial "markup/article" . }}
-          {{ partial "articles/lesson" . }}
+          {{ partial "articles/exam" . }}
+     {{else}}
+     {{ partial "markup/article" . }}
+     {{ partial "articles/lesson" . }}
      {{end}}
 {{ end }}
