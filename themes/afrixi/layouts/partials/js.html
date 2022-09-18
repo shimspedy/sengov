@@ -41,7 +41,7 @@ webVitals.onLCP(sendToGoogleAnalytics);
 
 if('serviceWorker' in navigator) {
       navigator.serviceWorker
-          .register('/js/sw.js', { scope: '/' })
+          .register('/js/sw.js', { scope: '/js/' })
           .then(function(registration) {
               console.log('Service Worker Registered');
           });
