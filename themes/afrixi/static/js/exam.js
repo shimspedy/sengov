@@ -6,7 +6,7 @@ window.onload=function(){
         this.score = 0;		
         this.qno = 1;
         this.currentque = 0;
-        var totalque = quiz.JS.length;
+        var totalque = quiz.EXAM.length;
     
         
         this.displayQuiz = function(cque) {
@@ -15,19 +15,19 @@ window.onload=function(){
                 $("#tque").html(totalque);
                 $("#previous").attr("disabled", false);
                 $("#next").attr("disabled", false);
-                $("#qid").html(quiz.JS[this.currentque].id + '.');
+                $("#qid").html(quiz.EXAM[this.currentque].id + '.');
         
                 
-                $("#question").html(quiz.JS[this.currentque].question);	
+                $("#question").html(quiz.EXAM[this.currentque].question);	
                  $("#question-options").html("");
-                for (var key in quiz.JS[this.currentque].options[0]) {
-                  if (quiz.JS[this.currentque].options[0].hasOwnProperty(key)) {
+                for (var key in quiz.EXAM[this.currentque].options[0]) {
+                  if (quiz.EXAM[this.currentque].options[0].hasOwnProperty(key)) {
     
                     $("#question-options").append(
                         "<div class='form-check option-block'>" +
                         "<label class='form-check-label'>" +
-                                  "<input type='radio' class='form-check-input with-gap' name='option'   id='q"+key+"' value='" + quiz.JS[this.currentque].options[0][key] + "'><span id='optionval'>" +
-                                      quiz.JS[this.currentque].options[0][key] +
+                                  "<input type='radio' class='form-check-input with-gap' name='option'   id='q"+key+"' value='" + quiz.EXAM[this.currentque].options[0][key] + "'><span id='optionval'>" +
+                                      quiz.EXAM[this.currentque].options[0][key] +
                                  "</span></label>"
                     );
     
@@ -49,7 +49,7 @@ window.onload=function(){
             if(this.currentque >= totalque) {
                     $('#next').attr('disabled', true);
                     for(var i = 0; i < totalque; i++) {
-                        this.score = this.score + quiz.JS[i].score;
+                        this.score = this.score + quiz.EXAM[i].score;
                     }
                 return this.showResult(this.score);	
             }
@@ -60,14 +60,14 @@ window.onload=function(){
             $("#result").html("<h1 class='res-header'>Total Score: &nbsp;" + scr  + '/' + totalque + "</h1>");
             for(var j = 0; j < totalque; j++) {
                 var res;
-                if(quiz.JS[j].score == 0) {
-                        res = '<span class="wrong">' + quiz.JS[j].score + '</span> <i class="red-text text-darken-4 material-icons">close</i>';
+                if(quiz.EXAM[j].score == 0) {
+                        res = '<span class="wrong">' + quiz.EXAM[j].score + '</span> <i class="red-text text-darken-4 material-icons">close</i>';
                 } else {
-                    res = '<span class="correct">' + quiz.JS[j].score + '</span> <i class="teal-text text-lighten-2 material-icons">done</i>';
+                    res = '<span class="correct">' + quiz.EXAM[j].score + '</span> <i class="teal-text text-lighten-2 material-icons">done</i>';
                 }
                 $("#result").append(
-                '<div class="result-question"><span class="flow-text light-blue darken-4">Q ' + quiz.JS[j].id + '</span> &nbsp;' + quiz.JS[j].question + '</div>' +
-                '<div><b>Correct answer:</b> &nbsp;' + quiz.JS[j].answer + '</div>' +
+                '<div class="result-question"><span class="flow-text light-blue darken-4">Q ' + quiz.EXAM[j].id + '</span> &nbsp;' + quiz.EXAM[j].question + '</div>' +
+                '<div><b>Correct answer:</b> &nbsp;' + quiz.EXAM[j].answer + '</div>' +
                 '<div class="last-row"><b>Score:</b> &nbsp;' + res +
                 
                 '</div>' 
@@ -78,18 +78,18 @@ window.onload=function(){
         }
         
         this.checkAnswer = function(option) {
-            var answer = quiz.JS[this.currentque].answer;
+            var answer = quiz.EXAM[this.currentque].answer;
             option = option.replace(/\</g,"&lt;")   //for <
             option = option.replace(/\>/g,"&gt;")   //for >
             option = option.replace(/"/g, "&quot;")
     
-            if(option ==  quiz.JS[this.currentque].answer) {
-                if(quiz.JS[this.currentque].score == "") {
-                    quiz.JS[this.currentque].score = 1;
-                    quiz.JS[this.currentque].status = "correct";
+            if(option ==  quiz.EXAM[this.currentque].answer) {
+                if(quiz.EXAM[this.currentque].score == "") {
+                    quiz.EXAM[this.currentque].score = 1;
+                    quiz.EXAM[this.currentque].status = "correct";
             }
             } else {
-                quiz.JS[this.currentque].status = "wrong";
+                quiz.EXAM[this.currentque].status = "wrong";
             }
             
         }	
