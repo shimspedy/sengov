@@ -23,14 +23,27 @@ $(document).ready(function() {
     //homepage cards
 
    
-     $(".option").click(function () {
-         $(".option").removeClass("active");
-         $(this).addClass("active");
-     });
+     // $(".option").click(function () {
+     //     $(".option").removeClass("active");
+     //     $(this).addClass("active");
+     // });
      
-      
-
+   
      
 });
 
 
+   
+const panels = document.querySelectorAll(".option");
+panels.forEach((panel) => {
+  panel.addEventListener("click", () => {
+    removeActiveclasses();
+    panel.classList.add("active");
+  });
+});
+
+function removeActiveclasses() {
+  panels.forEach((panel) => {
+    panel.classList.remove("active");
+  });
+}
