@@ -7,7 +7,7 @@ subheader:
      description: Leading Marines WARFIGHTING
 description: USMC Leading Marines WARFIGHTING Questions and answers
 image: leading.png
-examq: usmc/leading-marines/warfighting
+examq: exams/leading-marines/warfighting
 url: /exams/leading-marines/
 weight: 1
 layout: exam
