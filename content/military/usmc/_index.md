@@ -8,7 +8,9 @@ subheader:
 description: Private is the entry-level rank in the Marine Corps.
 image: 1.png
 video: 
-url: /military/usmc/
+imageurl: /military/usmc/1.png
+imagedir: root
+url: /military/usmc/private/
 weight: 1
 layout: military
 
