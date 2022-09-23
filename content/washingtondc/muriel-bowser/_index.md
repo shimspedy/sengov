@@ -9,7 +9,7 @@ description: Contact Governor Muriel Bowser of District of Columbia. Contact inf
 author: contact governors
 image: muriel-bowser.png
 video:
-url: washingtondc/muriel-bowser
+url: washingtondc/muriel-bowser/
 weight: 1
 layout: course_home
 
