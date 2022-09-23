@@ -1,0 +1,99 @@
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+  <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+    {{ partial "nav/course-list" . }}
+  </aside>
+  <div class="col xl7 l7 m12 s12">
+
+    <article class="white z-depth-1"
+      style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+
+      <div itemscope itemtype="https://schema.org/Person" class="row">
+
+      
+          <div class="col s12 m6 l5 profile-img"
+            style="background-image:url('{{.Params.url}}/{{.Params.image}}');background-repeat: no-repeat;background-size: auto; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+            <div class="senator-image">
+              <img src="{{.Params.url}}{{.Params.image}}" alt=" senator {{.Params.Name}}"
+                style=" float: right;width: 50px;">
+            </div>
+          </div>
+          <div class="col s12 m6 l7">
+            <div class="senator-info" itemscope itemtype="https://schema.org/Table">
+              <h1 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.branch}} {{.Params.title}}</h1>
+             
+              <table  class="h-card" >
+                <tbody>
+                  <tr>
+                    <td>Title</td>
+                    <td class="p-role">{{.Params.title}}</td>
+                  </tr>
+                  <tr>
+                    <td>Abbr</td>
+                    <td class="p-role">{{.Params.abbr}}</td>
+                  </tr>
+                  <tr>
+                    <td>paygrade</td>
+                    <td class="p-role">{{.Params.paygrade}}</td>
+                  </tr>
+                  <tr>
+                    <td>Basic pay</td>
+                    <td class="p-role">{{.Params.basicpay}}</td>
+                  </tr>
+
+                </tbody>
+              </table>
+
+            </div>
+
+          </div>
+
+        </div>
+        {{ partial "subheader" . }}
+        <div class="adsgoogle">
+
+          <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+            crossorigin="anonymous"></script>
+          <!-- afrixside -->
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
+            data-ad-slot="5494845660" data-ad-format="auto"></ins>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+       
+
+        <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+          style=" padding: 25px 20px 20px; border-radius: 6px; ">
+          {{ partial "nav/table-of-contents" . }}
+          <div class="e-content">
+          {{.Content}}
+          </div>
+        </div>
+        <div class="adsgoogle">
+
+          <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+            crossorigin="anonymous"></script>
+          <!-- afrixside -->
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
+            data-ad-slot="5494845660" data-ad-format="auto"></ins>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+        {{ partial "nav/pagination.html" . }}
+
+    </article>
+
+
+  </div>
+  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+    <div id="nav-side-ad">
+
+      {{- partial "ads/sidebar-custom" . -}}
+      {{- partial "social-icons/vertical" . -}}
+    </div>
+  </aside>
+</div>

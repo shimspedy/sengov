@@ -5,6 +5,9 @@
      {{else if and (.Layout) (eq .Layout "exam")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/exam" . }}
+    {{else if and (.Layout) (eq .Layout "military")}}
+          {{ partial "markup/article" . }}
+          {{ partial "articles/military" . }}
      {{else}}
      {{ partial "markup/article" . }}
      {{ partial "articles/lesson" . }}
