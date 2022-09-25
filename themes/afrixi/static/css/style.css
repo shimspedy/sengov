@@ -301,9 +301,8 @@ article h5::after,
 .post-content h5::after {
      content: '';
      position: absolute;
-   
-     right: -8px;
-     width: 100%;
+     left: 4px;
+     width: 50%;
      height: 5px;
      z-index: 0;
 }
