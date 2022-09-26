@@ -31,7 +31,7 @@ Because their uniforms have a plain black area instead of a rank insignia, priva
 
 Private is the 1st rank in the United States Marine Corps . A private is a Junior Enlisted at DoD paygrade E-1, with a starting monthly pay of $1,833.
 
-### What are a Private's Responsibilities?
+### What are a Private Responsibilities?
 Private is the lowest among Enlisted ranks in the USMC. Privates are universally known as "boots" for having recently graduated "Boot Camp" and still knowing nothing about the Fleet.
 
 After Recruit Training, all Privates attend a School of Infantry (SOI) and learn how to be a Rifleman. Marines with Infantry MOSs go to an Infantry Training Battalion, and all others go to Marine Combat Training and then another school for their MOS. After that, the Private will finally report to their first unit.
