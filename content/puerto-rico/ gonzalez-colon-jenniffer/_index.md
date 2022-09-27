@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Jenniffer González-Colón  of Puerto Rico. Contact information for Jenniffer González-Colón  includes email address, phone number, and mailing address.
 image: gonzalez-colon-jenniffer.jpg
 video: 
-url: /puerto-rico/gonzalez-colon-jenniffer
+url: /puerto-rico/gonzalez-colon-jenniffer/
 weight: 1
 layout: course_home
 
