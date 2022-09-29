@@ -4,11 +4,11 @@ title: "Jackie Walorski"
 seo_title: "contact Representative Jackie Walorski"
 subheader:
      greeting: Contact Representative Jackie Walorski 
-     description: Jacqueline R. Walorski is an American politician who has been the U.S. Representative for Indiana's 2nd congressional district since 2013. She is a member of the Republican Party, and she was a member of the Indiana House of Representatives, representing Indiana's 21st district, from 2005 to 2010.
+     description: Jacqueline Renae Walorski was an American politician who served as the U.S. representative for Indiana's 2nd congressional district from 2013 until her death in 2022. She was a member of the Republican Party.
 description: Contact Representative Jackie Walorski of Indiana. Contact information for Jackie Walorski includes email address, phone number, and mailing address.
 image: walorski-jackie.jpeg
 video: 
-url: /indiana/walorski-jackie/
+url: /archieve/walorski-jackie/
 weight: 1
 layout: course_home
 
@@ -18,13 +18,13 @@ name:	Jackie Walorski
 state:	Indiana
 district: 2nd
 party:	Republican
-officeroom:	466 CHOB
-phonenumber:	(202) 225-3915
-emailaddress:	https://walorski.house.gov/contact/
-website:	https://walorski.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	https://sengov.com
+website:	https://sengov.com
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepWalorski
 powrid: 
 ---
