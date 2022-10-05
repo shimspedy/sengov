@@ -127,13 +127,6 @@ nav{
 }
 
 .senator-info {
-     /* border-right: 5px solid #0f1b547a;
-     border-left: 5px solid #563197;
-     border-top: 5px solid #414094;
-     border-bottom: 5px solid #a9007a;
-     border-radius: 20px;
-     padding: 5px;
-     background: #8fa8d542; */
      padding: 5px;
      background: #8fa8d542;
      cursor: default;
@@ -152,7 +145,7 @@ th {
 .bio {
      margin-left: 10px;
      border-radius: 0;
-     background: #8fa8d542;
+     background: #8fa8d542 !important;
      cursor: default;
      border: 6px double #fff;
      -webkit-box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);

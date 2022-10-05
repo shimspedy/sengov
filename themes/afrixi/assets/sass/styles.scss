@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+// Color
+@import "components/color-variables";
+@import "components/color-classes";
+
+// Variables;
+@import "components/variables";
+
+// Reset
+@import "components/normalize";
+
+// components
+@import "components/global";
+@import "components/badges";
+@import "components/icons-material-design";
+@import "components/grid";
+@import "components/navbar";
+@import "components/typography";
+@import "components/transitions";
+@import "components/cards";
+@import "components/toast";
+@import "components/tabs";
+@import "components/tooltip";
+@import "components/buttons";
+@import "components/dropdown";
+@import "components/waves";
+@import "components/modal";
+@import "components/collapsible";
+@import "components/chips";
+@import "components/materialbox";
+@import "components/forms/forms";
+@import "components/table_of_contents";
+@import "components/sidenav";
+@import "components/preloader";
+@import "components/slider";
+@import "components/carousel";
+@import "components/tapTarget";
+@import "components/pulse";
+@import "components/datepicker";
+@import "components/timepicker";
+
+
+//templates styles
+@import "templates/homepage";
+@import "templates/sidebar";
+@import "templates/profile";
+@import "templates/single";
+@import "templates/random";
+@import "templates/gridcolum";
+
+
+/* title start */
+.logotext {
+	display: inline-block;
+    margin: 0px 0.75em 0 0;
+    font-weight: normal;
+    color: #ffffff;
+    font-size: 1.5em;
+    padding: 4px 0.625em 0 0;
+    background: linear-gradient(90deg, #fff0 calc(100% - 1px), #fff2 100%);
+    height: 1.5em;
+}
+
+.logotext a {
+    color: #fff;
+}
+
+.logotext a:hover {
+    color: #ffc000;
+}
+
+.logotext span {
+   top: left;
+    text-transform: uppercase;
+    position: relative;
+}
+.logotext span:nth-child(1) {
+    font-size: 1.5em;
+    line-height: 0.725em;
+}
+.logotext span:nth-child(2) {
+    font-size: 0.475em;
+    position: absolute;
+    top: -9px;
+    margin-top: -3px;
+    color: #ccc;
+}
+.logotext span:nth-child(3) {
+    margin-left: -1px;
+    margin-top: -7px;
+    font-size: 1.05em;
+    top: 5px;
+    left: -9px;
+}
+.logotext span:nth-child(4) {
+    font-size: 0.425em;
+    margin-left: 0px;
+    top: 5pxpx;
+    left: -14px;
+    color: #999;
+}
+.logotext span:nth-child(5) {
+    font-size: 0.62em;
+    font-weight: bold;
+    top: 16px;
+    left: -34px;
+}
+.logotext span:nth-child(6) {
+    margin-left: -3.75em;
+    font-size: 0.365em;
+    margin-top: 17px;
+    color:  #777777;
+}

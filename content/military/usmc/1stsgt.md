@@ -18,7 +18,7 @@ layout: military
 ####candidate
 branch: Marine Corps
 class:	Senior Enlisted Advisor
-abbr:	1stSg
+abbr:	1stSgt
 title: First Sergeant
 paygrade: E-8
 nato: OR-8

@@ -4,7 +4,7 @@
 <article class="hentry" id="{{ range  $tags := .Params.tags }} {{ $tags| lower }}{{ end }}"
   class="post-contents {{ range  $tag := .Params.tags }} {{ $tag | lower }}{{ end }}"
   itemtype="http://schema.org/Article">
-  <div class="card horizontal">
+  <div class="card horizontal sen-elect">
     <a class="card-image entry-title" href="{{ .Permalink }}" title="{{ .Params.title }}">
 
       {{ if .Params.image }}

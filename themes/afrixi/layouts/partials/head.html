@@ -18,13 +18,14 @@
 {{- end -}}
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
- <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <link  rel="stylesheet"  href="{{.Site.BaseURL}}css/style.css">
 <link  rel="stylesheet"   href="{{.Site.BaseURL}}css/map.css">
 <link  rel="stylesheet"  href="{{.Site.BaseURL}}css/hero.css">
 <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 
+{{ $style := resources.Get "sass/styles.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
 
 <!-- sw -->
 <link rel="manifest" href="{{.Site.BaseURL}}manifest.json">
