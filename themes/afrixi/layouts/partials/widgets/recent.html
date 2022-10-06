@@ -6,9 +6,9 @@
 <div class="widget-random widget">
 		<h4 class="widget-title">Trending Posts</h4>
 	  <div class="widget-content popular-posts">
-		<ul>
+		<ul class="collection">
 			{{- range first $recent_num (shuffle $recent) }}
-		  	<li>
+		  	<li class="collection-item avatar">
 				<div class="item-thumbnail">
 					<a href="{{ .RelPermalink }}">
 						<img alt="{{ .Title }}" class="circle" src="{{ .Site.BaseURL }}candidates/{{ .Params.image }}" border="0" height="72" width="72">
