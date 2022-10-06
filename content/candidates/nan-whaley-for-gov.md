@@ -3,7 +3,10 @@ date: 2022-08-05T10:03:42-04:00
 title: " Nan Whaley  for governor 2022"
 seo_title: "Ohio Governor Kristi Noem"
 description: Nan grew up in a small town in Indiana. She learned the values of hard work, strength, and resilience from her dad, a union autoworker who lost his job but never lost his dignity, and her mom, who went to work at the laundromat behind their house to help make ends meet.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: nan-whaley.jpeg
 video:
 url: 

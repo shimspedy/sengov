@@ -9,6 +9,13 @@ PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 disqusShortname = "test-wninb4jp3p"
 
+canonifyurls = true
+disableKinds = ["taxonomyTerm"]
+
+
+[outputs]
+    home = ["HTML", "RSS"]
+    page = ["HTML", "RSS"]
 
 [Params.siteInfo]
   languageName = "En"
@@ -21,9 +28,9 @@ disqusShortname = "test-wninb4jp3p"
 
 
 [permalinks]
-#posts = "/blog/ =slug/"
+#candidates = "/blog/ =slug/"
 uglyurls = true
-
+categories =  "/:section/:slug"
 
 
 [taxonomies]
@@ -34,3 +41,41 @@ uglyurls = true
 [Params]
 wordCount = true
 readingTime = true
+
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent"]
+
+[Params.widgets]
+  recent_num = 4 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+
+
+# navigation
+    [Languages.en.menu]
+    
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "salary"
+        url = "/salary/"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "contact"
+        url = "/contact"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "candidates"
+        url = "/candidates"
+
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "about"
+        url = "/about"
+

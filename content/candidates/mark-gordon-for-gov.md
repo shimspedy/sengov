@@ -3,7 +3,10 @@ date: 2022-08-05T11:06:26-04:00
 title: " Mark Gordon for governor 2022"
 seo_title: "Wyoming Governor Mark Gordon"
 description: Mark Gordon was elected Wyoming’s 33rd Governor, on Nov. 6, 2018. He was sworn into office on January 7, 2019. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: mark-gordon.jpeg
 video:
 url: 

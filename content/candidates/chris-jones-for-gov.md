@@ -3,7 +3,10 @@ date: 2022-08-07T11:07:29-04:00
 title: " Chris Jones  for governor 2022"
 seo_title: "Arkansas Governor Chris Jones "
 description: Growing up in Pine Bluff, I saw my parents make sacrifices to build a better life for our family and how they cared for our neighbors, friends and church.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: chris-jones.jpeg
 video:
 url: 

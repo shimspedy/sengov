@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:41-04:00
 title: " Kristi Noem for governor 2022"
 seo_title: "South Dakota Governor Kristi Noem"
 description: Governor Kristi Noem is a wife, a mother, and a lifelong rancher, farmer and small business owner. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: kristi-noem.jpeg
 video:
 url: 

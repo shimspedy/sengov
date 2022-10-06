@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:25-04:00
 title: " Steve Sisolak  for governor 2022"
 seo_title: "nevada Governor Steve Sisolak "
 description: Steve Sisolak was born into a midwest working-class family. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: steve-sisolak.jpeg
 video:
 url: 

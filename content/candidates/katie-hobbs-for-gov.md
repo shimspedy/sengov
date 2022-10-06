@@ -3,7 +3,10 @@ date: 2022-08-08T11:08:28-04:00
 title: " Katie Hobbs  for governor 2022"
 seo_title: "Arizona Governor Katie Hobbs "
 description: Born and raised in the Grand Canyon State, Katie Hobbs has dedicated her life to listening to her community and helping solve difficult challenges for the people of Arizona.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: katie-hobbs.jpeg
 video:
 url: 

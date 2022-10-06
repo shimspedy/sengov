@@ -3,7 +3,10 @@ date: 2022-07-27T10:02:20-04:00
 title: " Greg Abbott  for governor 2022"
 seo_title: "Texas Governor Greg Abbott"
 description: Named “Best Governor in the Nation” in 2020, Governor Greg Abbott continues to build on his record as a strong conservative leader who fights to preserve Texas values
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: Greg-abbott.png
 video:
 url: 

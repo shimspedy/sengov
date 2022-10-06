@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:34-04:00
 title: " Lou Leon Guerrero  for governor 2022"
 seo_title: "Guam Governor Lou Leon Guerrero "
 description: The Honorable Lourdes “Lou” Aflague Leon Guerrero is the ninth Governor of Guam. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: lou-leon-guerrero.png
 video:
 url: 

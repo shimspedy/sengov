@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:36-04:00
 title: " Gretchen Whitmer for governor 2022"
 seo_title: "Michigan Governor Gretchen Whitmer"
 description: Governor Gretchen Whitmer was inaugurated as the 49th governor of Michigan on January 1, 2019. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: gretchen-whitmer.png
 video:
 url: 

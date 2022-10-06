@@ -1,8 +1,8 @@
 
 {{ $paginator := .Paginate (where .Site.RegularPages "Section" "candidates") }}
 {{ range $paginator.Pages }}
-<article class="hentry" id="{{ range  $tags := .Params.tags }} {{ $tags| lower }}{{ end }}"
-  class="post-contents {{ range  $tag := .Params.tags }} {{ $tag | lower }}{{ end }}"
+<article id="{{ range  $categories := .Params.categories }} {{ $categories| lower }}{{ end }}"
+  class="hentry post-contents {{ range  $categories := .Params.categories }} {{ $categories | lower }}{{ end }}"
   itemtype="http://schema.org/Article">
   <div class="card horizontal sen-elect">
     <a class="card-image entry-title" href="{{ .Permalink }}" title="{{ .Params.title }}">

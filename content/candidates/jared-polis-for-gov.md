@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:37-04:00
 title: " Jared Polis for governor 2022"
 seo_title: "Colorado Governor Jared Polis"
 description: Gov. Jared Polis was sworn in as Colorado’s governor on January 8, 2019. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: jared-polis.jpeg
 video:
 url: 

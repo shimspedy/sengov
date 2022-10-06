@@ -1,0 +1,30 @@
+<!-- <div id="aside-about" class="aside-single">
+    {{- with .Params.avatar }}
+      <img src="{{ . }}" alt="author avatar" width="300px" height="160px" >
+    {{ end }}
+    <div class="aside-title">
+        <h3><a href="{{ .RelPermalink  }}"> {{ .Params.name }}</a></h3>
+        {{ .Content }}
+    </div>
+</div> -->
+
+<div class="about-dev">
+  <header class="profile-card_header">
+    <div class="profile-card_header-container">
+      <div class="profile-card_header-imgbox">
+        {{- with .Params.avatar }}
+        <img src="{{ . }}" alt="author avatar" width="300px" height="160px" >
+      {{ end }}
+      </div>
+
+      <h1>{{ .Params.name }}<span>Author</span></h1>
+    </div>
+  </header>
+  <div class="profile-card_about">
+    <h2>All About {{ .Params.name }}</h2>
+    <p>{{ .Content }}</p>
+    <footer class="profile-card_footer">
+      <p><a class="back-to-profile" href="{{ .RelPermalink  }}">Full Adoption Profile</a></p>
+    </footer>
+  </div>
+</div>

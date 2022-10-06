@@ -345,13 +345,13 @@ article h5::after,
      display: none !important;
  }
 
- .card-image .thumb-img{
+ /* .card-image .thumb-img{
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
      width: 260px;
      height: 174px;
- }
+ } */
 
 
 

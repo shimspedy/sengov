@@ -3,7 +3,10 @@ date: 2022-08-11T11:08:28-04:00
 title: " Bob Stefanowski  for governor 2022"
 seo_title: "Connecticut Governor Bob Stefanowski "
 description: I’m Bob Stefanowski, and I am running for Governor to make Connecticut safer and more affordable, and to ensure that state government works for you – the people – not the political insiders.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: bob-stefanowski.jpeg
 video:
 url: 

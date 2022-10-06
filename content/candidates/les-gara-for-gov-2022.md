@@ -3,7 +3,10 @@ date: 2022-08-05T10:02:30-04:00
 title: " les gara  for governor 2022"
 seo_title: "Alaska Governor les gara "
 description: les gara was born into a midwest working-class family. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: les-gara.webp
 video:
 url: 

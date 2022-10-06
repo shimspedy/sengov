@@ -3,7 +3,10 @@ date: 2022-07-30T11:03:20-04:00
 title: " Doug Mastriano for governor 2022"
 seo_title: "Doug Mastriano for Pennsylvania governor"
 description: Josh grew up in Pennsylvania, watching his parents serve their community
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: dougmastrian.jpeg
 video:
 url: 

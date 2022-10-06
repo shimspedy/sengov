@@ -3,7 +3,10 @@ date: 2022-08-05T11:07:28-04:00
 title: " Stacey Abrams  for governor 2022"
 seo_title: "Georgia Governor Stacey Abrams "
 description: When Stacey Abrams was first sworn-in as the 54th Governor of the State of Georgia in April 2017, she got right to work cleaning up Montgomery and restoring the people’s trust in government.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: stacey-abrams.jpeg
 video:
 url: 

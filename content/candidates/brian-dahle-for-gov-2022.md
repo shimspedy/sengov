@@ -3,7 +3,10 @@ date: 2022-07-31T11:07:20-04:00
 title: " Brian dahle for governor 2022"
 seo_title: "Brian dahle for California governor"
 description: Senator Brian Dahle is a voice for public safety, lowering taxes, and reducing homelessness.  
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: brian-dahle.jpeg
 video:
 url: 

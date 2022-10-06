@@ -1,38 +1,26 @@
 <section class="my-profile">
-    <div class="user-profile">
-      <div class="container">
-        <div class="row about">
+  <div class="user-profile">
+    <div class="container">
+      <div class="row about">
           <div class="col s12 m4 l3">
-            <div class="avatar">
-              {{- with .Params.avatar }}
-              <img src="{{ . }}" alt="" >
-              {{ end }}
+            <div  class="avatar">
+            {{- with .Params.avatar }}
+              <img src="{{ . }}" alt="">
+            {{ end }}
             </div>
           </div>
           <div class="col s12 m8 l9">
             <div class="aboutme">
-              <h4>{{ .Params.name }} <span> | from: {{ .Params.country }}</span></h4>
+            <h4>{{ .Params.name }}</h4>
               {{ .Content }}
             </div>
             <div class="social">
-              {{ if .Params.twitter }}
-              <a href="{{ .Params.facebook }}" target="_blank" rel="noopener">
-                <img src="/images/facebook.png" width="50px" height="50px">
-              </a>
-              {{ end }}
-              {{ if .Params.twitter }}
-              <a href="{{ .Params.twitter }}" target="_blank" rel="noopener">
-                <img src="/images/twitter.png" width="50px" height="50px">
-              </a>
-              {{ end }}
-              {{ if .Params.website }}
-              <a href="{{ .Params.website }}" target="_blank" rel="noopener">
-                <img src="/images/site.png" width="50px" height="50px">
-              </a>
-              {{ end }}
+              <!-- <a href="{{ .Params.facebook }}" target="_blank" rel="noopener"><span><i class="fab fa-facebook-f"></i></span></a>
+              <a href="{{ .Params.twitter }}" target="_blank" rel="noopener"><span><i class="fab fa-twitter"></i></span></a> -->
+              <a href="{{ .Params.website }}" target="_blank" rel="noopener"><span><i class="fas fa-blog"></i></span></a>
             </div>
           </div>
-        </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>

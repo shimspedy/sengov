@@ -3,7 +3,10 @@ date: 2022-07-28T10:02:20-04:00
 title: " Bill Lee for governor 2022"
 seo_title: "Bill Lee for Tennessean  governor"
 description: I’m not a politician. I’m a cattle farmer, a businessman, a father and grandfather, and a seventh generation Tennessean.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: bill-lee.jpeg
 video:
 url: 

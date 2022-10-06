@@ -3,7 +3,12 @@ date: 2022-08-05T10:02:29-04:00
 title: " Albert Bryan  for governor 2022"
 seo_title: "Virgin Islands Governor Albert Bryan "
 description: Albert Bryan was born into a midwest working-class family. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
+categories:
+  - governors
 image: albert-bryan.png
 video:
 url: 

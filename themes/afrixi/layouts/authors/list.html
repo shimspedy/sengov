@@ -1,15 +1,29 @@
 {{ define "main" }}
-{{ .Render "profile" }}
+
+
+ {{ .Render "profile" }}
 <section id="posts-area" class="content-area">
-  <div class="container">
-    <div class="row">
+      <div class="row">
       <div class="col s12 m8 l9">
-        {{ .Render "articles" }}
-      </div>
-      <div class="col s12 m4 l3 sidebar-right">
-        sidebar-right
-      </div>
-    </div>
+
+          <div class="container content-archive">
+                <div class="row">
+                <div class="col s12 m4 l3">
+                    <!-- Grey navigation panel -->
+                    {{ partial "categories.html" . }}
+                </div>
+                <div class="col s12 m8 l9">
+                    {{ .Render "candidates" }}
+                  </div>
+                </div>
+          </div>
+
+        </div>
+        <div class="col s12 m4 l3 sidebar-right">
+          {{- partial "ads/sidebar" . -}}
+          {{ partial "sidebar.html" . }}
+          {{- partial "ads/sidebar" . -}}
+          </div>
   </div>
 </section>
 {{ end }}

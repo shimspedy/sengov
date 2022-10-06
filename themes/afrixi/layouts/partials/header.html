@@ -11,12 +11,40 @@
                                    SenGov
                               </span>
                          </a>
-                         <ul class='right hide-on-med-and-down'>
+                         <ul class="right hide-on-med-and-down">
+                              {{ $currentPage := . }}
+                              {{ range .Site.Menus.main }}
+                              {{ if .HasChildren }}
+                              <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                                  <a class="dropdown-trigger" href="#!" data-target="dropdown">
+                                      {{ .Pre }}
+                                      <span>{{ .Name }}</span><i class="material-icons right">arrow_drop_down</i>
+                                  </a>
+                              </li>
+                              <ul id="dropdown" class="dropdown-content">
+                                  {{ range .Children }}
+                                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                      <a href="/{{ .Name }}">{{ .Name }}</a>
+                                  </li>
+                                  {{ end }}
+                              </ul>
+                              {{ else }}
+                              <li>
+                                  <a href="/{{ .Name }}">
+                                      {{ .Pre }}
+                                      <span>{{ .Name }}</span>
+                                  </a>
+                              </li>
+                              {{ end }}
+                              {{ end }}
+                              <!-- Dropdown Trigger -->
+                          </ul>
+                         <!-- <ul class='right hide-on-med-and-down'>
                               <li class="{{if eq .Site.BaseURL `/salary/` }}active{{end}}"><a href='{{.Site.BaseURL}}salary'>salary<i class='material-icons left'>attach_money</i></a></li>
                               <li class="{{if eq .Site.BaseURL `/contact/` }}active{{end}}"><a href='{{.Site.BaseURL}}contact'>contact<i class='material-icons left'>send</i></a></li>
                               <li class="{{if eq .Site.BaseURL `/candidates/` }}active{{end}}"><a href='{{.Site.BaseURL}}candidates'>candidates<i class='material-icons left'>info_outline</i></a></li>
                               <li class="{{if eq .Site.BaseURL `/about/` }}active{{end}}"><a href='{{.Site.BaseURL}}power'>Gov's Role<i class='material-icons left'>info_outline</i></a></li>
-                         </ul>
+                         </ul> -->
                     </div>
                </div>
           </nav>

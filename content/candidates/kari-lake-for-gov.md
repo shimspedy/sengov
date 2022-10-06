@@ -3,7 +3,10 @@ date: 2022-08-08T11:08:28-04:00
 title: " Kari Lake  for governor 2022"
 seo_title: "Arizona Governor Kari Lake "
 description: Kari Lake, the former anchor for Fox 10 News in Phoenix, became a symbol of truth in journalism when she walked away from the mainstream media despite being number one in the ratings for more than two decades.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: kari-lake.jpeg
 video:
 url: 

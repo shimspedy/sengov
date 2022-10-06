@@ -3,7 +3,14 @@ date: 2022-08-14T13:02:41-04:00
 title: " Laura Kelly for governor 2022"
 seo_title: "Kansas Governor Laura Kelly"
 description: Governor Laura Kelly has brought Democrats and Republicans together to balance the budget, fully fund our schools, and fight for a tax cut for all Kansans. Laura will always put what’s best for Kansas ahead of party politics.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
+categories:
+  - governors
+tags: 
+  - governors
 image: laura-kelly.jpeg
 video:
 url: 

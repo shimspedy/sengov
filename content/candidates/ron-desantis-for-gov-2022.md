@@ -3,7 +3,10 @@ date: 2022-07-31T10:05:20-04:00
 title: " Ron DeSantis for governor 2022"
 seo_title: "Ron DeSantis for florida governor"
 description: A native Floridian with blue-collar roots, Ron attended Dunedin High School and worked his way through Yale University, where he graduated with honors and was the captain of the varsity baseball team.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: ron-desantis.png
 video:
 url: 

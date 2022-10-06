@@ -3,7 +3,10 @@ date: 2022-08-04T10:02:20-04:00
 title: " Janet Trafton Mills for governor 2022"
 seo_title: "Maine Governor Janet Trafton Mills "
 description: Janet Trafton Mills was sworn in as the 75th Governor of Maine on Wednesday, January 2, 2019.
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: janet-mills.jpeg
 video:
 url: 

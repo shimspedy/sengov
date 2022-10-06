@@ -3,7 +3,10 @@ date: 2022-07-31T12:06:20-04:00
 title: " Gavin Newsom for governor 2022"
 seo_title: "Gavin Newsom for California governor"
 description: Governor Gavin Newsom is boldly leading California through an unprecedented series of crises and building a better future for all our kids. 
-author: Csen
+authors:
+  - john shim
+categories:
+  - governors
 image: gavin-newsom.jpeg
 video:
 url: 
