@@ -13,3 +13,10 @@ panels.forEach((panel) => {
     panel.classList.add("active");
   });
 });
+
+ 
+function removeActiveclasses() {
+    panels.forEach((panel) => {
+      panel.classList.remove("active");
+    });
+  }
