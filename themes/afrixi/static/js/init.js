@@ -34,16 +34,3 @@ $(document).ready(function() {
 
 
    
-const panels = document.querySelectorAll(".option");
-panels.forEach((panel) => {
-  panel.addEventListener("click", () => {
-    removeActiveclasses();
-    panel.classList.add("active");
-  });
-});
-
-function removeActiveclasses() {
-  panels.forEach((panel) => {
-    panel.classList.remove("active");
-  });
-}
