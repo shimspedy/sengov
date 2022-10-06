@@ -7,7 +7,7 @@ subheader:
      description: Governor Roy Cooper has spent nearly three decades in public service protecting families, keeping communities safe, and working to create jobs and improve schools. The son of a school teacher, he knows that education creates opportunity and he has worked throughout his career to strengthen our schools and create a sound foundation for our state’s children. In the NC House and Senate, Gov. Cooper fought to increase teacher pay and reduce class sizes. He wrote North Carolina’s first children’s health insurance initiative. During his service in the legislature, Gov. Cooper worked with members of both parties to get balanced budgets that raised teacher pay to the national average, grow the economy and cut taxes for middle class families. In 2000, the people of North Carolina elected Gov. Cooper as Attorney General, where he continued to fight for families during his four terms. Born and raised in Nash County, he attended public schools and worked summers on the family farm before attending UNC-Chapel Hill on a Morehead Scholarship. His mother, Beverly Cooper, worked as a school teacher, and his father, Roy Cooper Jr., farmed and practiced law. After earning a law degree from UNC, Roy Cooper returned home to Nash County to practice law and, with his wife Kristin, raise three daughters – Hilary, Natalie, and Claire.
 description: Contact Governor Roy Cooper of North Carolina. Contact information for Roy Cooper includes his email address, phone number, and mailing address.
 author: contact governors
-image: roy-cooper.jpg
+image: roy-cooper.jpeg
 video:
 url: /north-carolina/roy-cooper/
 weight: 1
