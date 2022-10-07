@@ -8,7 +8,7 @@ subheader:
 description: Contact Congressman Vela Filemon of Texas. Contact information for Vela Filemon includes email address, phone number, and mailing address.
 image: vela-filemon.jpg
 video: 
-url: /texas/vela-filemon/
+url: /archieve/vela-filemon/
 weight: 1
 layout: course_home
 
@@ -18,10 +18,10 @@ name:	Vela Filemon
 state:	Texas
 district: 34th
 party:	Democratic
-officeroom:	307 CHOB
-phonenumber:	(202) 225-9901
-emailaddress:	https://vela.house.gov/contact
-website:	https://vela.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
 inoffice: current

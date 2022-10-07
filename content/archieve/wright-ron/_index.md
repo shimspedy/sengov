@@ -8,7 +8,7 @@ subheader:
 description: Contact Congressman Wright Ron of Texas. Contact information for Wright Ron includes email address, phone number, and mailing address.
 image: wright-ron.jpg
 video: 
-url: /texas/wright-ron/
+url: /archieve/wright-ron/
 weight: 1
 layout: course_home
 
@@ -18,10 +18,10 @@ name:	Wright Ron
 state:	Texas
 district: 6th
 party:	Republican
-officeroom:	1725 LHOB
-phonenumber:	(202) 225-2002
-emailaddress:	https://wright.house.gov/contact
-website:	https://wright.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
 inoffice: current
