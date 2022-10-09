@@ -6,7 +6,9 @@ description: Tim’s career has been defined by public service, from serving in 
 authors:
   - john shim
 categories:
-  - governors
+  - Minnesota
+tags:
+ - governors
 image: tim-walz.jpeg
 video:
 url: 

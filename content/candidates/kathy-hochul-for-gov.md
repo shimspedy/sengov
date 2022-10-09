@@ -6,7 +6,9 @@ description: Kathy Hochul is the 57th Governor of New York.
 authors:
   - john shim
 categories:
-  - governors
+  - New York
+tags:
+ - governors
 image: kathy-hochul.png
 video:
 url: 

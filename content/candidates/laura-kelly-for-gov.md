@@ -8,7 +8,9 @@ authors:
 categories:
   - governors
 categories:
-  - governors
+  - Kansas
+tags:
+ - governors
 tags: 
   - governors
 image: laura-kelly.jpeg

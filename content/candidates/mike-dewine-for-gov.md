@@ -6,7 +6,9 @@ description: Mike DeWine’s story is a true Ohio story. Growing up in Yellow Sp
 authors:
   - john shim
 categories:
-  - governors
+  - Ohio
+tags:
+ - governors
 image: mike-dewine.webp
 video:
 url: 

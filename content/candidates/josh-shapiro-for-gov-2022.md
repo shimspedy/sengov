@@ -6,7 +6,9 @@ description: Josh grew up in Pennsylvania, watching his parents serve their comm
 authors:
   - john shim
 categories:
-  - governors
+  - Pennsylvania
+tags:
+ - governors
 image: josh-shapiro.jpeg
 video:
 url: 

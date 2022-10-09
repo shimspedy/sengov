@@ -6,7 +6,9 @@ description: Steve Sisolak was born into a midwest working-class family.
 authors:
   - john shim
 categories:
-  - governors
+  - nevada 
+tags:
+ - governors
 image: steve-sisolak.jpeg
 video:
 url: 

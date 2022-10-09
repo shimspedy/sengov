@@ -6,7 +6,9 @@ description: Born and raised in Brownsville, Tim Michels, endorsed by President 
 authors:
   - john shim
 categories:
-  - governors
+  - Wisconsin
+tags:
+ - governors
 image: tim-michels.png
 video:
 url: 

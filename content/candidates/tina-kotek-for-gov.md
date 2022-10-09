@@ -6,7 +6,9 @@ description: Tina Kotek is a proven leader, a dedicated public servant, and a gr
 authors:
   - john shim
 categories:
-  - governors
+  - Oregon
+role:
+ - governors
 image: tina-kotek.jpeg
 video:
 url: 

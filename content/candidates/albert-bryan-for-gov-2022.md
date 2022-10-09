@@ -6,9 +6,9 @@ description: Albert Bryan was born into a midwest working-class family.
 authors:
   - john shim
 categories:
-  - governors
-categories:
-  - governors
+  - Virgin Islands
+role:
+ - governors
 image: albert-bryan.png
 video:
 url: 

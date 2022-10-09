@@ -6,7 +6,9 @@ description: I'm not a career politician, but I know enough about right and wron
 authors:
   - john shim
 categories:
-  - governors
+  - idaho
+tags:
+ - governors
 image: stephen-heidt.jpeg
 video:
 url: 

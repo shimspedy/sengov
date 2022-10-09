@@ -6,7 +6,9 @@ description: Gov. Jared Polis was sworn in as Colorado’s governor on January 8
 authors:
   - john shim
 categories:
-  - governors
+  - Colorado
+tags:
+ - governors
 image: jared-polis.jpeg
 video:
 url: 

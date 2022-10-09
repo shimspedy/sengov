@@ -6,7 +6,9 @@ description: I’m not a politician. I’m a cattle farmer, a businessman, a fat
 authors:
   - john shim
 categories:
-  - governors
+  - Tennessee
+tags:
+ - governors
 image: bill-lee.jpeg
 video:
 url: 

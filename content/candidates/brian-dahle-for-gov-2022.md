@@ -6,7 +6,9 @@ description: Senator Brian Dahle is a voice for public safety, lowering taxes, a
 authors:
   - john shim
 categories:
-  - governors
+  - California
+tags:
+ - governors
 image: brian-dahle.jpeg
 video:
 url: 

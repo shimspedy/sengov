@@ -6,7 +6,9 @@ description: He attended the University of Minnesota obtaining an undergraduate 
 authors:
   - john shim
 categories:
-  - governors
+  - Minnesota
+tags:
+ - governors
 image: scottjensen.jpeg
 video:
 url: 

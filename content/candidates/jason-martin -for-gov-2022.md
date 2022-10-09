@@ -6,7 +6,9 @@ description: Coming from outside the political establishment, Doctor Jason Marti
 authors:
   - john shim
 categories:
-  - governors
+  - Tennessee
+tags:
+ - governors
 image: jason-martin.png
 video:
 url: 

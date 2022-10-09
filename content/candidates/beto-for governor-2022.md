@@ -6,7 +6,9 @@ description: Beto O’Rourke is a fourth-generation Texan, born and raised in El
 authors:
   - john shim
 categories:
-  - governors
+  - texas
+tags:
+ - governors
 image: betoforgov.avif
 video:
 url: 

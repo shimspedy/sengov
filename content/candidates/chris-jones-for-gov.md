@@ -6,7 +6,9 @@ description: Growing up in Pine Bluff, I saw my parents make sacrifices to build
 authors:
   - john shim
 categories:
-  - governors
+  - Arkansas
+tags:
+ - governors
 image: chris-jones.jpeg
 video:
 url: 

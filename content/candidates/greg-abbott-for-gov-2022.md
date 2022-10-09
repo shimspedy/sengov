@@ -6,7 +6,9 @@ description: Named “Best Governor in the Nation” in 2020, Governor Greg Abbo
 authors:
   - john shim
 categories:
-  - governors
+  - Texas
+tags:
+ - governors
 image: Greg-abbott.png
 video:
 url: 

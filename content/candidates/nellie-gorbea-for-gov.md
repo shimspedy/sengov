@@ -6,7 +6,9 @@ description: Rhode Island Secretary of State Nellie M. Gorbea was re-elected in 
 authors:
   - john shim
 categories:
-  - governors
+  - Rhode Island
+tags:
+ - governors
 categories:
   - governors
 image: nellie-gorbea.webp

@@ -6,7 +6,9 @@ description: When Kay Ivey was first sworn-in as the 54th Governor of the State 
 authors:
   - john shim
 categories:
-  - governors
+  - Alabama
+tags:
+ - governors
 image: kay-ivey.png
 video:
 url: 

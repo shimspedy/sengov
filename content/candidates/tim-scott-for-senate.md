@@ -6,7 +6,9 @@ description: Tim grew up in poverty in a single-parent household in North Charle
 authors:
   - john shim
 categories:
-  - senators
+  - South Carolina
+tags:
+ - senators
 image: tim-scott.jpeg
 video:
 url: 

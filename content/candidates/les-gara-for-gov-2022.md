@@ -6,7 +6,9 @@ description: les gara was born into a midwest working-class family.
 authors:
   - john shim
 categories:
-  - governors
+  - Alaska
+tags:
+ - governors
 image: les-gara.webp
 video:
 url: 

@@ -6,7 +6,9 @@ description: Governor Kevin Stitt is leading Oklahoma with a vision to become To
 authors:
   - john shim
 categories:
-  - governors
+  - Oklahoma
+tags:
+ - governors
 image: kevin-stitt.webp
 video:
 url: 

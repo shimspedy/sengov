@@ -6,7 +6,9 @@ description: Mark Gordon was elected Wyoming’s 33rd Governor, on Nov. 6, 2018.
 authors:
   - john shim
 categories:
-  - governors
+  - Wyoming
+tags:
+ - governors
 image: mark-gordon.jpeg
 video:
 url: 

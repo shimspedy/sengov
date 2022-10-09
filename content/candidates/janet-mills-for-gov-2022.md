@@ -6,7 +6,9 @@ description: Janet Trafton Mills was sworn in as the 75th Governor of Maine on W
 authors:
   - john shim
 categories:
-  - governors
+  - Maine
+tags:
+ - governors
 image: janet-mills.jpeg
 video:
 url: 

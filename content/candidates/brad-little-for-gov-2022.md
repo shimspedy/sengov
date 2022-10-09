@@ -6,7 +6,9 @@ description: Brad Little is Idaho’s 33rd Governor, leading the people of Idaho
 authors:
   - john shim
 categories:
-  - governors
+  - idaho
+tags:
+ - governors
 image: brad-little.jpeg
 video:
 url: 

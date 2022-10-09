@@ -6,7 +6,9 @@ description: Nan grew up in a small town in Indiana. She learned the values of h
 authors:
   - john shim
 categories:
-  - governors
+  - Ohio
+tags:
+ - governors
 image: nan-whaley.jpeg
 video:
 url: 

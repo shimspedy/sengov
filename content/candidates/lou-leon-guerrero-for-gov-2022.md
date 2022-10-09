@@ -6,7 +6,9 @@ description: The Honorable Lourdes “Lou” Aflague Leon Guerrero is the ninth 
 authors:
   - john shim
 categories:
-  - governors
+  - Guam
+tags:
+ - governors
 image: lou-leon-guerrero.png
 video:
 url: 

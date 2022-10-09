@@ -6,7 +6,9 @@ description: When Stacey Abrams was first sworn-in as the 54th Governor of the S
 authors:
   - john shim
 categories:
-  - governors
+  - Georgia
+tags:
+ - governors
 image: stacey-abrams.jpeg
 video:
 url: 

@@ -6,7 +6,9 @@ description: Born and raised in the Grand Canyon State, Katie Hobbs has dedicate
 authors:
   - john shim
 categories:
-  - governors
+  - Arizona
+tags:
+ - governors
 image: katie-hobbs.jpeg
 video:
 url: 

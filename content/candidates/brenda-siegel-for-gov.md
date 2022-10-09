@@ -6,7 +6,9 @@ description: Brenda Siegel is a small business owner and built a project to reco
 authors:
   - john shim
 categories:
-  - governors
+  - Vermont
+tags:
+ - governors
 image: branda-siegel.jpeg
 video:
 url: 

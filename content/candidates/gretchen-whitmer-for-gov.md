@@ -6,7 +6,9 @@ description: Governor Gretchen Whitmer was inaugurated as the 49th governor of M
 authors:
   - john shim
 categories:
-  - governors
+  - Michigan
+tags:
+ - governors
 image: gretchen-whitmer.png
 video:
 url: 

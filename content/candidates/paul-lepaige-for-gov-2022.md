@@ -6,7 +6,9 @@ description: Paul was born and raised in Lewiston, Maine.
 authors:
   - john shim
 categories:
-  - governors
+  - Maine
+tags:
+ - governors
 image:  paul-lapaige.jpeg
 video:
 url: 

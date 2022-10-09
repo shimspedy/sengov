@@ -6,7 +6,9 @@ description: Jamie serves as Minority Leader in the South Dakota House of Repres
 authors:
   - john shim
 categories:
-  - governors
+  - South Dakota
+tags:
+ - governors
 image: jamie-smith.jpeg
 video:
 url: 

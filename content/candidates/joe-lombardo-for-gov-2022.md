@@ -6,7 +6,9 @@ description: Joe Lombardo was born into a midwest working-class family.
 authors:
   - john shim
 categories:
-  - governors
+  - nevada
+tags:
+ - governors
 image: joe-lombardo.jpeg
 video:
 url: 

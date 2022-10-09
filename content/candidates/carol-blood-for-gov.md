@@ -6,7 +6,9 @@ description: My name is Carol Blood. I’m a Nebraskan, born and raised. I was b
 authors:
   - john shim
 categories:
-  - governors
+  - Nebraska
+tags:
+ - governors
 image: carol-blood.webp
 video:
 url: 

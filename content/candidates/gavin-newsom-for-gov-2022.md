@@ -6,7 +6,9 @@ description: Governor Gavin Newsom is boldly leading California through an unpre
 authors:
   - john shim
 categories:
-  - governors
+  - California
+tags:
+ - governors
 image: gavin-newsom.jpeg
 video:
 url: 

@@ -6,7 +6,9 @@ description: Deidre was born in Jackson, Mississippi, and as a child moved with 
 authors:
   - john shim
 categories:
-  - governors
+  - Iowa
+tags:
+ - governors
 image: deidre-deJear.jpeg
 video:
 url: 

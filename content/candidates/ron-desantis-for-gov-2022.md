@@ -6,7 +6,9 @@ description: A native Floridian with blue-collar roots, Ron attended Dunedin Hig
 authors:
   - john shim
 categories:
-  - governors
+  - florida
+tags:
+ - governors
 image: ron-desantis.png
 video:
 url: 

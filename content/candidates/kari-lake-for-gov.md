@@ -6,7 +6,9 @@ description: Kari Lake, the former anchor for Fox 10 News in Phoenix, became a s
 authors:
   - john shim
 categories:
-  - governors
+  - Arizona
+tags:
+ - governors
 image: kari-lake.jpeg
 video:
 url: 

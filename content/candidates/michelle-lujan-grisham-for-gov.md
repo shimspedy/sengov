@@ -6,7 +6,9 @@ description: Michelle Lujan Grisham is the 32nd Governor of New Mexico and was t
 authors:
   - john shim
 categories:
-  - governors
+  - New Mexico
+tags:
+ - governors
 image: michelle-lujan-grisham.png
 video:
 url: 

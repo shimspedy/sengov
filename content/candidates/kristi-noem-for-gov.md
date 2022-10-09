@@ -6,7 +6,9 @@ description: Governor Kristi Noem is a wife, a mother, and a lifelong rancher, f
 authors:
   - john shim
 categories:
-  - governors
+  - South Dakota
+tags:
+ - governors
 image: kristi-noem.jpeg
 video:
 url: 

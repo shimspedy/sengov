@@ -6,7 +6,9 @@ description: I’m Bob Stefanowski, and I am running for Governor to make Connec
 authors:
   - john shim
 categories:
-  - governors
+  - Connecticut
+tags:
+ - governors
 image: bob-stefanowski.jpeg
 video:
 url: 
