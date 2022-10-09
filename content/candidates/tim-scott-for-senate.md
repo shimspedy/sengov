@@ -7,6 +7,7 @@ authors:
   - john shim
 categories:
   - South Carolina
+  - senators
 tags:
  - senators
 image: tim-scott.jpeg
