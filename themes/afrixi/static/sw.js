@@ -28,16 +28,6 @@ const OFFLINE_CACHE_FILES = [
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/css/style.css',
-    '/css/exam.css',
-    '/css/hero.css',
-    '/css/map.css',
-    '/css/sen-gov.css',
-    '/js/map.js',
-    '/js/script.js',
-    '/js/init.js',
-    '/js/sticky-kit.js',
-    '/index.html',
 ];
 
 const OFFLINE_PAGE = '/index.html';
