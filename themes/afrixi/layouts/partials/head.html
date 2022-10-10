@@ -12,11 +12,14 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 {{ if eq .Params.imagedir "root" }}
-<meta property="og:image" content="{{.Params.imageurl}}" />
-<meta property="twitter:image" content="{{.Params.imageurl}}" />
+<meta property="og:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
+<meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
+{{ else if eq .Section "candidates" }}
+<meta property="og:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
+<meta property="twitter:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
 {{ else }}
-<meta property="og:image" content="{{.Params.url}}{{.Params.image}}" />
-<meta property="twitter:image" content="{{.Params.url}}{{.Params.image}}" />
+<meta property="og:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
+<meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
 {{- end -}}
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
