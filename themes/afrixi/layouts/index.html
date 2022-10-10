@@ -1,5 +1,5 @@
 {{ define "main" }}
-<script src="{{.Site.BaseURL}}js/map.js"></script>
+
 {{ partial "markup/site" . }}
 {{.Content}}
 <div class=" row">
@@ -11,5 +11,6 @@
     </div>
 </div>
 {{ partial "listings/parallax" . }}
+<script src="{{.Site.BaseURL}}js/map.js"></script>
 {{ end }}
 
