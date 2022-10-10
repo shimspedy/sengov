@@ -1,5 +1,6 @@
 ---
 date: 2022-08-07T11:07:28-04:00
+name: Kevin Stitt
 title: " Kevin Stitt for governor 2022"
 seo_title: "Oklahoma Governor Kevin Stitt"
 description: Governor Kevin Stitt is leading Oklahoma with a vision to become Top Ten in job growth, infrastructure, education and more.

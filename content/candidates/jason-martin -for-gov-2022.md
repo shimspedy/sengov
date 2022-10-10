@@ -1,5 +1,6 @@
 ---
 date: 2022-07-28T11:02:20-04:00
+name: Jason Martin
 title: " Jason Martin  for governor 2022"
 seo_title: "Jason Martin for Tennessean governor"
 description: Coming from outside the political establishment, Doctor Jason Martin has not spent his career in back rooms with out-of-touch lawmakers.

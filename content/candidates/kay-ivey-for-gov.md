@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T11:06:28-04:00
+name: Kay Ivey
 title: " Kay Ivey  for governor 2022"
 seo_title: "Alabama Governor Kay Ivey "
 description: When Kay Ivey was first sworn-in as the 54th Governor of the State of Alabama in April 2017, she got right to work cleaning up Montgomery and restoring the people’s trust in government.

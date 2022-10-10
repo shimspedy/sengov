@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T10:02:21-04:00
+name: Brad Little
 title: " Brad Little for governor 2022"
 seo_title: "idaho Governor Brad Little"
 description: Brad Little is Idaho’s 33rd Governor, leading the people of Idaho through the most prosperous time in state history!

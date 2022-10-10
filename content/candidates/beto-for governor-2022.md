@@ -1,5 +1,6 @@
 ---
 date: 2022-07-27T10:02:20-04:00
+name: Beto O’Rourke 
 title: " Beto O’Rourke  for governor 2022"
 seo_title: "Beto O’Rourke  for texas governor"
 description: Beto O’Rourke is a fourth-generation Texan, born and raised in El Paso where he has served as a small business owner, a city council representative and a member of Congress.

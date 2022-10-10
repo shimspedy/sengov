@@ -1,5 +1,6 @@
 ---
 date: 2022-08-11T11:08:28-04:00
+name: Tim Michels 
 title: " Tim Michels  for governor 2022"
 seo_title: "Wisconsin Governor Tim Michels "
 description: Born and raised in Brownsville, Tim Michels, endorsed by President Trump, is a conservative outsider who has a plan to put Wisconsin on the right track.

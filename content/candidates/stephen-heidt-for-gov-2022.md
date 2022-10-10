@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T10:02:24-04:00
+name: stephen heidt
 title: " stephen heidt for governor 2022"
 seo_title: "idaho Governor stephen heidt"
 description: I'm not a career politician, but I know enough about right and wrong to make a difference in our great state. 

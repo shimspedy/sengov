@@ -1,5 +1,6 @@
 ---
 date: 2022-08-11T11:09:28-04:00
+name: Brenda Siegel 
 title: " Brenda Siegel  for governor 2022"
 seo_title: "Vermont Governor Brenda Siegel "
 description: Brenda Siegel is a small business owner and built a project to recover her local economy in response to Tropical Storm Irene in which she and her son lost all of their belongings.

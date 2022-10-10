@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T11:06:27-04:00
+name: Kathy Hochul
 title: " Kathy Hochul for governor 2022"
 seo_title: "New York Governor Kathy Hochul"
 description: Kathy Hochul is the 57th Governor of New York.

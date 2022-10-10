@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T10:03:46-04:00
+name: Mike DeWine 
 title: " Mike DeWine  for governor 2022"
 seo_title: "Ohio Governor Mike DeWine"
 description: Mike DeWine’s story is a true Ohio story. Growing up in Yellow Springs, Mike and Fran (Struewing) met in the first grade and married while students at Miami University. 

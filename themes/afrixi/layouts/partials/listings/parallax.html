@@ -1,0 +1,19 @@
+<!-- Random post widget -->
+{{- $recent := where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "candidates")) }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 4) }}
+
+{{- if $recent }}
+<div class="mainx row">
+
+    {{- range first $recent_num (shuffle $recent) }}
+    <div class="wrapx wrap--3 col s12 m4 l3">
+        <a  href="{{ .Permalink }}" title="{{ .Params.title }}" >
+      <div class="containerx containerx--1" style="background-image:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+        <p> {{ .Params.name }}</p>
+      </div>
+        </a>
+    </div>
+    {{- end }}
+    
+</div>
+{{- end }}

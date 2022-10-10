@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T11:06:28-04:00
+name: Maura Healey
 title: " Maura Healey for governor 2022"
 seo_title: "Massachusett Governor Maura Healey"
 description: Growing up the eldest of five kids raised by her mom, Maura learned the value of teamwork, sacrifice, and hard work.

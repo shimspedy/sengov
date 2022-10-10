@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T10:03:41-04:00
+name: Jamie Smith
 title: " Jamie Smith for governor 2022"
 seo_title: "South Dakota Governor Kristi Noem"
 description: Jamie serves as Minority Leader in the South Dakota House of Representatives, where he has delivered bipartisan solutions for the people of South Dakota.

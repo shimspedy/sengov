@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T10:02:20-04:00
+name: Paul LePage
 title: " Paul LePage for governor 2022"
 seo_title: "Maine Governor Paul LePage"
 description: Paul was born and raised in Lewiston, Maine.

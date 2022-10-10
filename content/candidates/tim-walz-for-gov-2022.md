@@ -1,5 +1,6 @@
 ---
 date: 2022-07-31T11:03:20-04:00
+name: Tim Walz
 title: " Tim Walz for governor 2022"
 seo_title: "Tim Walzfor Minnesota governor"
 description: Tim’s career has been defined by public service, from serving in the National Guard for 24 years, to serving our students as a high school teacher and football coach, to serving our state as a Congressman, and now as Minnesota’s 41st Governor.

@@ -1,5 +1,6 @@
 ---
 date: 2022-08-14T12:03:20-04:00
+name: Tina Kotek
 title: " Tina Kotek for governor 2022"
 seo_title: "Tina Kotek for  Oregon governor"
 description: Tina Kotek is a proven leader, a dedicated public servant, and a groundbreaker running for the open governorship.

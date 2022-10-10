@@ -1,5 +1,6 @@
 ---
 date: 2022-07-31T11:04:20-04:00
+name: Scott Jensen
 title: " Scott Jensen for governor 2022"
 seo_title: "Scott Jensen for Minnesota governor"
 description: He attended the University of Minnesota obtaining an undergraduate degree in physiology, magna cum laude, and then attended Luther Theological Seminary seeking answers to life‘s biggest questions.

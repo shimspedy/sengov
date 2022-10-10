@@ -1,5 +1,6 @@
 ---
 date: 2022-08-05T11:06:27-04:00
+name: Carol Blood 
 title: " Carol Blood for governor 2022"
 seo_title: "Nebraska Governor Carol Blood"
 description: My name is Carol Blood. I’m a Nebraskan, born and raised. I was born in McCook, Nebraska, raised in rural Adams County, Nebraska and raised my family in Sarpy County, Nebraska.

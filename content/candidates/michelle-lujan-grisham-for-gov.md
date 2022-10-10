@@ -1,5 +1,6 @@
 ---
 date: 2022-08-14T11:06:28-04:00
+name: Lujan Grisham
 title: " Michelle Lujan Grisham for governor 2022"
 seo_title: "New Mexico Governor Michelle Lujan Grisham"
 description: Michelle Lujan Grisham is the 32nd Governor of New Mexico and was the first Democratic Hispanic woman to serve as Governor of a U.S. state.

@@ -8,9 +8,10 @@
 
 {{ $uijs := resources.Get "js/materialize.min.js" | minify }}
 {{ $mainjs := resources.Get "js/main.js" | minify }}
+{{ $parallaxjs := resources.Get "js/parallax.js" | minify }}
 <script src="{{ $uijs.RelPermalink }}"></script>
 <script src="{{ $mainjs.RelPermalink }}"></script>
-
+<script src="{{ $parallaxjs.RelPermalink }}"></script>
 
 <script>
 
@@ -27,6 +28,15 @@ if('serviceWorker' in navigator) {
           //console.log('Service Worker Ready');
         });
 }
+
+
+
+
+
+
+
+
+
 
 
 
