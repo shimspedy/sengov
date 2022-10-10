@@ -14,7 +14,7 @@
 {{ if eq .Params.imagedir "root" }}
 <meta property="og:image" content="{{.Params.imageurl}}" />
 {{ else }}
-<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{- .RelPermalink -}}{{.Params.image}}" />
+<meta property="og:image" content="{{- substr .Site.BaseURL 0 -1 -}}{{.Params.image}}" />
 {{- end -}}
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
