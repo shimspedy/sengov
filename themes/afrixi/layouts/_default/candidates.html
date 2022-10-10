@@ -1,5 +1,5 @@
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "candidates") 50}}
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "candidates") 50 }}
 {{ range $paginator.Pages }}
 <article id="{{ range  $categories := .Params.categories }} {{ $categories| lower }}{{ end }}"
   class="hentry post-contents {{ range  $categories := .Params.categories }} {{ $categories | lower }}{{ end }}"
