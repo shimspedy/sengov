@@ -1,6 +1,5 @@
-window.onload=function(){
 $(document).ready(function() {
-    // $('.scrollspy').scrollSpy();
+     $('.scrollspy').scrollSpy();
      $(".left-col-article").css("height", $(".left-col-article").parent().height());
      $(".right-col-article").css("height", $(".right-col-article").parent().height());
      $("#nav-side-single").stick_in_parent({
@@ -23,9 +22,14 @@ $(document).ready(function() {
     
     //homepage cards
 
-
+   
+     // $(".option").click(function () {
+     //     $(".option").removeClass("active");
+     //     $(this).addClass("active");
+     // });
+     
    
      
 });
-}
+
 
