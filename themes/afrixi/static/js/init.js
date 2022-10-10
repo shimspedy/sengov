@@ -1,3 +1,4 @@
+window.onload=function(){
 $(document).ready(function() {
      $('.scrollspy').scrollSpy();
      $(".left-col-article").css("height", $(".left-col-article").parent().height());
@@ -22,14 +23,9 @@ $(document).ready(function() {
     
     //homepage cards
 
-   
-     // $(".option").click(function () {
-     //     $(".option").removeClass("active");
-     //     $(this).addClass("active");
-     // });
-     
+
    
      
 });
-
+}
 
