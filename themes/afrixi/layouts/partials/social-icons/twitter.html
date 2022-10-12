@@ -6,7 +6,7 @@
 </a>
 <script>
     function shareOntwitter(){
-    var url = 'https://twitter.com/intent/tweet?url={{.Permalink}}&text={{ .Summary | truncate 100 }}';
+    var url = 'https://twitter.com/intent/tweet?url={{.Permalink}}&text={{ .Summary | truncate 200 }}';
     TwitterWindow = window.open(url, 'TwitterWindow',width=600,height=300);
     return false;
  } 
