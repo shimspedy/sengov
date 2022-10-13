@@ -11,6 +11,7 @@
 <meta name="tags" content=" {{.Params.tags}}">
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/schema.html" . }}
 {{ if eq .Params.imagedir "root" }}
 <meta property="og:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
