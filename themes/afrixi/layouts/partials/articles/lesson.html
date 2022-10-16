@@ -168,6 +168,7 @@
           </div>
 
         </div>
+        {{ partial "textspeech" . }}
         {{ partial "subheader" . }}
         <div class="adsgoogle">
 
@@ -192,7 +193,7 @@
         <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
           style=" padding: 25px 20px 20px; border-radius: 6px; ">
           {{ partial "nav/table-of-contents" . }}
-          <div class="e-content">
+          <div class="e-content" id="manifestation">
           {{.Content}}
           </div>
         </div>
