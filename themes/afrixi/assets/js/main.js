@@ -56,36 +56,10 @@ document.addEventListener( 'click', function( e ) {
 //sound
 
 
-let speech = new SpeechSynthesisUtterance();
-speech.lang = "en";
-
-let voices = [];
-window.speechSynthesis.onvoiceschanged = () => {
-  voices = window.speechSynthesis.getVoices();
-  speech.voice = voices[0];
-  let voiceSelect = document.querySelector("#voices");
-  voices.forEach((voice, i) => (voiceSelect.options[i] = new Option(voice.name, i)));
-};
-
-
-
-  document.querySelector("#voices").addEventListener("change", () => {
-    speech.voice = voices[document.querySelector("#voices").value];
-  });
-  
-  document.querySelector("#play").addEventListener("click", () => {
-    speech.text = document.getElementById('manifestation').value;
-    window.speechSynthesis.speak(speech);
-  });
-  
-  document.querySelector("#pause").addEventListener("click", () => {
-    window.speechSynthesis.pause();
-  });
-  
-  document.querySelector("#resume").addEventListener("click", () => {
-    window.speechSynthesis.resume();
-  });
-  
-  document.querySelector("#stop").addEventListener("click", () => {
-    window.speechSynthesis.cancel();
-  });
+playbutton.onclick = function() {
+    responsiveVoice.cancel();
+    responsiveVoice.speak(document.getElementById('text').value, document.getElementById('voiceselection').value);
+  };
+  stopbutton.onclick = function() {
+    responsiveVoice.cancel();
+  };
