@@ -120,6 +120,7 @@ document.addEventListener( 'click', function( e ) {
 
 // }
 
+onload = function() {
 playbutton.onclick = function() {
     responsiveVoice.cancel();
     responsiveVoice.speak(document.getElementById('manifestation').value, document.getElementById('voiceselection').value);
@@ -127,3 +128,4 @@ playbutton.onclick = function() {
   stopbutton.onclick = function() {
     responsiveVoice.cancel();
   };
+}
