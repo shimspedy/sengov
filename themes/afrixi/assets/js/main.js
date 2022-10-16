@@ -71,7 +71,7 @@ onload = function() {
         function onClickPlay() {
             if(!flag){
                 flag = true;
-                utterance = new SpeechSynthesisUtterance(document.querySelector('article').textContent);
+                utterance = new SpeechSynthesisUtterance(document.getElementById('manifestation').textContent);
                 utterance.voice = getVoices()[0];
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
