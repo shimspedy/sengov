@@ -15,7 +15,7 @@ layout: course_home
 
 ####candidate
 name:	Muriel Bowser
-state:	District of Columbia
+state:	washingtondc
 birthstate: District of Columbia
 party:	Republican
 role: governor
