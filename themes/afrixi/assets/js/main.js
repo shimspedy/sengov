@@ -78,7 +78,7 @@ onload = function() {
                 };
                 playEle.className = 'played';
                 stopEle.className = '';
-                speak(utterance);
+                synth.speak(utterance);
             }
              if (paused) { /* unpause/resume narration */
                 playEle.className = 'played';
