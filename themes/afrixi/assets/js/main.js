@@ -54,68 +54,38 @@ document.addEventListener( 'click', function( e ) {
 
 
 //sound
-onload = function() {
-    if ('speechSynthesis' in window) with(speechSynthesis) {
 
 
-        var playEle = document.querySelector('#play');
-        var pauseEle = document.querySelector('#pause');
-        var stopEle = document.querySelector('#stop');
-        var flag = false;
+let speech = new SpeechSynthesisUtterance();
+speech.lang = "en";
+
+let voices = [];
+window.speechSynthesis.onvoiceschanged = () => {
+  voices = window.speechSynthesis.getVoices();
+  speech.voice = voices[0];
+  let voiceSelect = document.querySelector("#voices");
+  voices.forEach((voice, i) => (voiceSelect.options[i] = new Option(voice.name, i)));
+};
 
 
-        playEle.addEventListener('click', onClickPlay);
-        pauseEle.addEventListener('click', onClickPause);
-        stopEle.addEventListener('click', onClickStop);
 
-        function onClickPlay() {
-            if(!flag){
-                flag = true;
-                utterance = new SpeechSynthesisUtterance(document.getElementById('manifestation').textContent);
-                utterance.voice = getVoices()[0];
-                utterance.onend = function(){
-                    flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
-                };
-                playEle.className = 'played';
-                stopEle.className = '';
-                speak(utterance);
-            }
-             if (paused) { /* unpause/resume narration */
-                playEle.className = 'played';
-                pauseEle.className = '';
-                resume();
-            } 
-        }
-
-        function onClickPause() {
-            if(speaking && !paused){ /* pause narration */
-                pauseEle.className = 'paused';
-                playEle.className = '';
-                pause();
-            }
-        }
-
-        function onClickStop() {
-            if(speaking){ /* stop narration */
-                /* for safari */
-                stopEle.className = 'stopped';
-                playEle.className = pauseEle.className = '';
-                flag = false;
-                cancel();
-
-            }
-        }
-
-    }
-
-    else { /* speech synthesis not supported */
-        msg = document.createElement('h5');
-        msg.textContent = "Detected no support for Speech Synthesis";
-        msg.style.textAlign = 'center';
-        msg.style.backgroundColor = 'red';
-        msg.style.color = 'white';
-        msg.style.marginTop = msg.style.marginBottom = 0;
-        document.body.insertBefore(msg, document.querySelector('div'));
-    }
-
-}
+  document.querySelector("#voices").addEventListener("change", () => {
+    speech.voice = voices[document.querySelector("#voices").value];
+  });
+  
+  document.querySelector("#play").addEventListener("click", () => {
+    speech.text = document.getElementById('manifestation').value;
+    window.speechSynthesis.speak(speech);
+  });
+  
+  document.querySelector("#pause").addEventListener("click", () => {
+    window.speechSynthesis.pause();
+  });
+  
+  document.querySelector("#resume").addEventListener("click", () => {
+    window.speechSynthesis.resume();
+  });
+  
+  document.querySelector("#stop").addEventListener("click", () => {
+    window.speechSynthesis.cancel();
+  });
