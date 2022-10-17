@@ -517,7 +517,7 @@ article h5::after,
 
 
 /* hhhhh */
-.speechbutton {
+button.speechbutton {
      background: none;
      border: none;
      cursor: pointer;
