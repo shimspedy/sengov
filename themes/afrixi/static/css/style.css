@@ -517,7 +517,7 @@ article h5::after,
 
 
 /* hhhhh */
-button {
+.speechbutton {
      background: none;
      border: none;
      cursor: pointer;
@@ -528,20 +528,20 @@ button {
  }
 
 #play {
-	background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/play.svg);
+	background-image: url(/speech/play.svg);
 }
 #play.played {
-	background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/play1.svg);
+	background-image: url(/speech/play1.svg);
 }
 #pause {
-	background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/pause.svg);
+	background-image: url(/speech/pause.svg);
 }
 #pause.paused {
-	background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/pause1.svg);
+	background-image: url(/speech/pause1.svg);
 }
 #stop {
-    background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/stop.svg);
+    background-image: url(/speech/stop.svg);
 }
 #stop.stopped {
-    background-image: url(https://rpsthecoder.github.io/js-speech-synthesis/stop1.svg);
+    background-image: url(/speech/stop1.svg);
 }
