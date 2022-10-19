@@ -55,3 +55,18 @@ Doug is proud of his administration’s work to reduce/eliminate the backlog of 
 
 He and his wife, Angela, live in Paradise Valley with their three sons, Jack, Joe and Sam.
 
+## Educational Excellence
+A great economy requires great public schools. Arizona is already doing a lot of things well, with three of the top 10 public high schools in the country and nationally renowned teachers and principals. During his first year in office, the Governor worked with the legislature to pass a historic $3.5 billion dollar funding plan for Arizona public schools. He remains committed to ensuring kids and teachers get the resources they have been asking for while realizing that spending is not the measure of success. He will continue to work with lawmakers and education leaders on reforms that improve educational results and help kids reach their full potential.
+
+
+## 21st Century Economy
+As our economy advances, our government and our laws need to modernize too -- and that means ensuring government regulations don’t prohibit or delay hardworking Arizonans from making a living. Governor Ducey has already taken significant action to help small businesses and start-ups thrive, and will continue to embrace innovation and support 21st century companies that employ Arizonans, advance the way we do business and improve the way we live.
+
+## Protecting our Communities
+Government’s number one responsibility is keeping its citizens and homeland safe. Governor Ducey has made public safety a top priority, with significant new investments in child safety, an enhanced partnership with local and federal law enforcement, and initiatives to combat human trafficking, drug smuggling, and the scourge of drug addiction.
+
+## Fiscal Responsibility
+When Governor Ducey took office, he inherited a $1 billion dollar budget deficit. To bring Arizona back into the black and put the state on sustainable path forward, government needed to stop spending money it didn’t have. The Governor and the legislature worked together to pass a budget that put Arizona on a path to structural balance for the first time since 2007. Governor Ducey is committed to being responsible with our budget, investing in the future, and allowing the people to keep more of the dollars they earn.
+
+## Happy & Healthy Citizens
+Governor Ducey’s vision for Arizona depends on a strong, innovative economy supported by healthy citizens living in clean, safe communities. Whether you’re a city dweller or live far from the hustle and bustle, a healthy Arizona delivers peace and prosperity for all, including our most vulnerable, with a rich, sustainable natural environment of clear skies, clean water and lands to safely roam, work and play.
