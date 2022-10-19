@@ -1,7 +1,7 @@
 ---
 date: 2022-10-16T10:06:26-04:00
 name: John Kennedy
-title: " John Kennedy  for governor 2022"
+title: " John Kennedy  for senator 2022"
 seo_title: "nevada Governor John Kennedy "
 description: John Kennedy was elected to the U.S. Senate in 2016. Sen. Kennedy serves on the Appropriations, Banking, Housing and Urban Affairs, Budget, Judiciary and Small Business and Entrepreneurship committees in the U.S. Senate.
 authors:
