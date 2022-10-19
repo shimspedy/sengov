@@ -68,5 +68,5 @@ Government’s number one responsibility is keeping its citizens and homeland sa
 ## Fiscal Responsibility
 When Governor Ducey took office, he inherited a $1 billion dollar budget deficit. To bring Arizona back into the black and put the state on sustainable path forward, government needed to stop spending money it didn’t have. The Governor and the legislature worked together to pass a budget that put Arizona on a path to structural balance for the first time since 2007. Governor Ducey is committed to being responsible with our budget, investing in the future, and allowing the people to keep more of the dollars they earn.
 
-## Happy & Healthy Citizens
+## Happy  Healthy Citizens
 Governor Ducey’s vision for Arizona depends on a strong, innovative economy supported by healthy citizens living in clean, safe communities. Whether you’re a city dweller or live far from the hustle and bustle, a healthy Arizona delivers peace and prosperity for all, including our most vulnerable, with a rich, sustainable natural environment of clear skies, clean water and lands to safely roam, work and play.
