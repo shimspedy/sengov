@@ -10,23 +10,34 @@
         {{ partial "listings/sengov" . }}
     </div>
 </div>
-<link rel="stylesheet" type="text/css" href="https://votinginfotool.org/css/compiled/vit.css"/>
-<script src="https://votinginfotool.org/js/compiled/app.js"></script>
-<div id="_vit" style="min-width: 360px; max-width: 640px; height: 480px;"></div>
-<script>
-  var config = {
-    "logo": {"type":"default"},
-    "official-only": true
-  };
-  var loadVIT = function () {
-    if (typeof vit !== 'undefined'){
-      vit.core.init("_vit", config);
-    } else {
-      setTimeout(loadVIT, 500);
-    };
-  };
-  loadVIT();
-</script>
+<div class=" row">
+  <div class="col s12 m7 l6">
+      {{- partial "ads/sidebar" . -}}
+  </div>
+  <div class="col s12 m5 l6">
+      <link rel="stylesheet" type="text/css" href="https://votinginfotool.org/css/compiled/vit.css"/>
+      <script src="https://votinginfotool.org/js/compiled/app.js"></script>
+      <div id="_vit" style="min-width: 360px; max-width: 640px; height: 480px;"></div>
+      <script>
+        var config = {
+          "logo": {"type":"default"},
+          "official-only": true
+        };
+        var loadVIT = function () {
+          if (typeof vit !== 'undefined'){
+            vit.core.init("_vit", config);
+          } else {
+            setTimeout(loadVIT, 500);
+          };
+        };
+        loadVIT();
+      </script>
+  
+  </div>
+</div>
+
+
+
 {{ partial "listings/parallax" . }}
 <script src="{{.Site.BaseURL}}js/map.js"></script>
 {{ end }}
