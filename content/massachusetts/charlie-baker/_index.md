@@ -19,23 +19,15 @@ state:	Massachusetts
 birthstate: New York
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	November 13, 1956
 age: '76'
 enteredoffice:	January 8, 2015  
 terms1: January 8, 2015 - January 2, 2019
-terms2: January 3, 2019 - Current
+terms2: January 3, 2019 - 
 terms3: 
 termexpires:	
-mailingaddress1: State House Office of the Governor, Room 360 Boston, MA 02133
-mailingaddress2:		
-phonenumber1: 617/725-4005
-phonenumber2:	
-fax1: 617/727-9725
 fax2: 
-emailaddress:	https://www.mass.gov/forms/email-the-governors-office
-website:	https://www.mass.gov/orgs/office-of-the-governor
-powrid: 43b470de_1609210882
 twitter: CharlieBakerMA
 ---
 Governor Charlie Baker was sworn in for a second term as the 72nd Governor of the Commonwealth of Massachusetts on January 3, 2019, after a first term focused on moving Massachusetts forward through bipartisan, results-driven leadership.

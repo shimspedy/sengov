@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Andy Harris of Maryland. Contact information for Andy Harris includes email address, phone number, and mailing address.
 image: harris-andy.jpg
 video: 
-url: /Maryland/harris-andy/
+url: /maryland/harris-andy/
 weight: 1
 layout: course_home
 

@@ -19,14 +19,13 @@ state:	Pennsylvania
 birthstate: Pennsylvania
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	November 17, 1948
 age: '72'
 enteredoffice:	January 20, 2015 - January 14, 2019
 terms1: January 20, 2015 - January 14, 2019
-terms2: January 15, 2019 - Current
-terms3: 
-termexpires:	
+terms2: January 15, 2019 
+termexpires:	january 15 2023
 mailingaddress1: Room 225 Main Capitol Building Harrisburg, PA 17120
 mailingaddress2:		
 phonenumber1: 717/787-2500

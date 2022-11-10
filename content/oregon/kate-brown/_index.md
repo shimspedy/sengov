@@ -24,18 +24,11 @@ born:	June 21, 1960
 age: '60'
 enteredoffice:	February 18, 2015 
 terms1: February 18, 2015 - January 13, 2019
-terms2: January 14, 2019 - Current
+terms2: January 14, 2019 - January 14, 2023
 terms3: 
 termexpires:	
 mailingaddress1: State Capitol, Room 160 900 Court St. N. Salem, OR 97301
 mailingaddress2:		
-phonenumber1: 503/378-4582
-phonenumber2:	
-fax1: 503/378-8970
-fax2: 
-emailaddress:	https://www.oregon.gov/gov/Pages/contact.aspx
-website:	http://www.oregon.gov/gov/pages/index.aspx
-powrid: 43b470de_1609210882
 twitter: OregonGovBrown
 ---
 

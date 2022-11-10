@@ -18,7 +18,7 @@ state:	Hawaii
 birthstate: Hawaii
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	January 15, 1957
 age: '63'
 enteredoffice:	April 19, 2017 
@@ -32,9 +32,8 @@ phonenumber1: 808/586-0034
 phonenumber2:	
 fax1: 808/586-0006
 fax2: 
-emailaddress:	https://governor.hawaii.gov/contact-us/
-website:	https://governor.hawaii.gov/
-powrid: 43b470de_1609210882
+emailaddress:	
+website:
 twitter: GovHawaii
 ---
 

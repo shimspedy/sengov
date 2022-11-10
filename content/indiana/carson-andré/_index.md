@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Andre Carson 
      description: André D. Carson is an American politician serving as the U.S. Representative for Indiana's 7th congressional district since 2008. A member of the Democratic Party, his district includes the southern four-fifths of Indianapolis, including Downtown Indianapolis.
 description: Contact Representative Andre Carson of Indiana. Contact information for Andre Carson includes email address, phone number, and mailing address.
-image: carson-andré.jpeg
+image: carson-andre.jpeg
 video: 
 url: /indiana/carson-andré/
 weight: 1

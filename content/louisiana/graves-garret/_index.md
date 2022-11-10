@@ -72,7 +72,7 @@ In Louisiana fifty percent of all Brigade Combat Teams train at Fort Polk before
 #### Spending Cuts and Debt
 The average American’s share of the national debt is around $57,000 and growing. The more than  $18 trillion debt concerns me more and more each day.  National security, transportation and infrastructure and all the national priorities most important to Americans are compromised as long as the federal budget is unbalanced.
 
- It is critical for Congress to lead the way toward a balanced budget, and I am committed to supporting policies that control federal spending and restore budget integrity.
+It is critical for Congress to lead the way toward a balanced budget, and I am committed to supporting policies that control federal spending and restore budget integrity.
 
 #### Tax Reform
 I believe that America’s tax system should promote family saving and investment and encourage economic growth through simplicity and fairness. Instead, the current system is laden with inherent disincentives against working and investing.

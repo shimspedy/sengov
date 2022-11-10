@@ -33,7 +33,6 @@ powrid:
 twitter: 
 votespotter: '141423'
 ---
-
 ## senator Dan Sullivan biograph
 Lisa Murkowski, Alaska’s senior U.S. Senator, is a third generation Alaskan proudly serving as the first Alaskan born senator. Murkowski was born in Ketchikan and raised in towns across the state, including Wrangell, Juneau, Fairbanks, and Anchorage. She is married to Verne Martell and they have two grown sons. Lisa loves spending time in the Alaska outdoors. She’s an avid skier, has hiked on glaciers, enjoys fall duck hunts, and has a pretty impressive King Salmon mounted on her office wall.
 

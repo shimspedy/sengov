@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative  Cori Bush of Missouri. Contact information for Cori Bush includes email address, phone number, and mailing address.
 image: bush-cori.jpg
 video: 
-url:  /missouri/bush-cori/
+url: /missouri/bush-cori/
 weight: 1
 layout: course_home
 
@@ -139,7 +139,7 @@ Now, in statehouses across the country, the attack on our democracy is being wag
 
 At a time when dark money is already devastating our democracy, we need to act swiftly to make sure everyone’s voices are heard at the ballot box. 
 
-##### As your Congresswoman, I have
+##### As your Congresswoman, I have: 
 
 - Used my perch on the House Judiciary Committee to hold high-profile hearings on protecting the right to vote against Republican attacks.
 
