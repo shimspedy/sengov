@@ -5,7 +5,8 @@
 {{- if $recent }}
 <div class="mainx row">
 
-    {{- range first $recent_num (shuffle $recent) }}
+
+    {{- range first $recent_num ( $recent) }}
     <div class="wrapx wrap--3 col s12 m4 l3">
         <a  href="{{ .Permalink }}" title="{{ .Params.title }}" >
       <div class="containerx containerx--1" style="background-image:url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
@@ -17,3 +18,5 @@
     
 </div>
 {{- end }}
+
+    <!-- {{- range first $recent_num (shuffle $recent) }} {{end}}-->
