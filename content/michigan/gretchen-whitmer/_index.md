@@ -16,8 +16,8 @@ layout: course_home
 ####candidate
 name:	Gretchen Whitmer
 state:	Michigan
-birthstate: Democratic
-party:	Republican
+birthstate: michigan
+party:	Democratic
 role: governor
 inoffice: current
 born:	August 23, 1971
