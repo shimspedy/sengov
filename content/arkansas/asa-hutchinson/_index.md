@@ -19,7 +19,7 @@ state:	Arkansas
 birthstate: Arkansas
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	December 3, 1950
 age: '70'
 enteredoffice:	January 13, 2015 

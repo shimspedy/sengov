@@ -19,7 +19,7 @@ state:	Maryland
 birthstate: Washington, D.C.
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	May 25, 1956
 age: '64'
 enteredoffice:	January 21, 2015  

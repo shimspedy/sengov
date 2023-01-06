@@ -19,11 +19,11 @@ state:	Nevada
 birthstate: Wisconsin
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	December 26, 1953
 age: '66'
-enteredoffice:	January 7, 2019 - Current
-terms1: January 7, 2019 - Current
+enteredoffice:	January 7, 2019 
+terms1: January 7, 2019 - January 7, 2023
 terms2: 
 terms3: 
 termexpires:	
