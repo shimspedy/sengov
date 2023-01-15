@@ -18,7 +18,7 @@ name:	Roy Blunt
 state:	Missouri
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	January 10, 1950
 age: '70'
 enteredoffice:	January 3, 2011

@@ -18,7 +18,7 @@ name:	Patrick J. Leahy
 state:	Vermont
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	March 31, 1940 
 age: '80'
 enteredoffice:	January 3, 1975

@@ -18,7 +18,7 @@ name:	Richard Burr
 state:	North Carolina
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	November 30, 1955 
 age: '65'
 enteredoffice:	January 3, 2005

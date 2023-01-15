@@ -18,7 +18,7 @@ name:	Rob Portman
 state:	Ohio
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	December 19, 1955
 age: '65'
 enteredoffice:	January 3, 2011

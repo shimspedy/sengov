@@ -18,7 +18,7 @@ name:	Patrick J. Toomey
 state:	Pennsylvania
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	November 17, 1961
 age: '59'
 enteredoffice:	January 3, 2011

@@ -18,7 +18,7 @@ name:	James M. Inhofe
 state:	Oklahoma
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	November 17, 1934 
 age: '86'
 enteredoffice:	November 17, 1994

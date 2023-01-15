@@ -18,7 +18,7 @@ name:	Richard Shelby
 state:	Alabama
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	May 6, 1934
 age: '86'
 enteredoffice:	January 3, 1987

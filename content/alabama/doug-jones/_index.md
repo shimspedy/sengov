@@ -14,7 +14,7 @@ keywords:
 - "Who is replacing Doug Jones"
 image: doug-jones.jpg
 video: 
-url: /alabama/doug-jones
+url: /alabama/doug-jones/
 weight: 1
 layout: course_home
 
