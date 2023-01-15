@@ -27,7 +27,6 @@ mailingaddress:	437 Russell Senate Office Building Washington DC 20510
 phonenumber:	(202) 224-4242
 emailaddress:	https://www.leahy.senate.gov/contact/
 website:	http://www.leahy.senate.gov/
-powrid: e9072f05_1607161815
 twitter: SenatorLeahy
 ---
 

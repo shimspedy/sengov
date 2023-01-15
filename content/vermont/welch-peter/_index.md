@@ -23,8 +23,8 @@ phonenumber:	(202) 225-4115
 emailaddress:	https://welch.house.gov/contact
 website:	https://welch.house.gov/
 committeeassignment: 
-role: senator
-inoffice: current
+role: congress
+inoffice: former
 twitter: PeterWelch
 powrid: 
 ---
