@@ -19,7 +19,7 @@ state:	Nebraska
 birthstate: Nebraska
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	August 19, 1964
 age: '56'
 enteredoffice:	January 8, 2015  
