@@ -17,7 +17,7 @@ layout: course_home
 name:	Maura Healey
 state:	Massachusetts
 birthstate: New York
-party:	Republican
+party:	Democratic
 role: governor
 inoffice: current
 born:	November 13, 1956
