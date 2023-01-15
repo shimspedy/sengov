@@ -14,7 +14,7 @@ weight: 1
 
 stateweb: "https://www.nebraska.gov/"
 govweb: "https://governor.nebraska.gov/"
-gov: "Pete Ricketts"
+gov: "Jim Pillen"
 Address: "P.O. Box 94848 Lincoln, NE 68509-4848"
 phonenumber: 402-471-2244
 

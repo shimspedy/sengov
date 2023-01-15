@@ -13,7 +13,7 @@ weight: 1
 
 stateweb: "https://www.mass.gov/"
 govweb: "https://www.mass.gov/orgs/office-of-the-governor"
-gov: "Charlie Baker"
+gov: "Maura Healey"
 Address: "State House Office of the Governor, Room 360 Boston, MA 02133"
 phonenumber: 617-725-4005
 
