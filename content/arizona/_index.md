@@ -11,7 +11,7 @@ weight: 1
 
 stateweb: "https://az.gov/"
 govweb: "https://azgovernor.gov/"
-gov: "Doug Ducey"
+gov: "Katie Hobbs"
 Address: "State Capitol, 1700 West Washington, Phoenix, AZ, 85007"
 phonenumber: 602-542-4331
 

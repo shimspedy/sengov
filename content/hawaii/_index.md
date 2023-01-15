@@ -14,7 +14,7 @@ weight: 1
 
 stateweb: "https://portal.ehawaii.gov/"
 govweb: "https://governor.hawaii.gov/"
-gov: "David Ige"
+gov: "Josh Green "
 Address: "State Capitol, Honolulu, HI 96813"
 phonenumber: 808-586-0034
 

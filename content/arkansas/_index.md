@@ -12,7 +12,7 @@ weight: 1
 
 stateweb: "https://portal.arkansas.gov/"
 govweb: "https://governor.arkansas.gov/"
-gov: "Asa Hutchinson"
+gov: "Sarah Huckabee Sanders"
 Address: "State of Arkansas, 400 North Capitol Street – Suite 365 ,Washington, DC, 20001"
 phonenumber: 202-220-1340
 

@@ -12,7 +12,7 @@ weight: 1
 
 stateweb: "https://www.maryland.gov/Pages/default.aspx"
 govweb: "https://governor.maryland.gov/"
-gov: "Larry Hogan"
+gov: "Wes Moore"
 Address: "100 State Circle Annapolis, MD 21401"
 phonenumber: 410-974-3901
 
