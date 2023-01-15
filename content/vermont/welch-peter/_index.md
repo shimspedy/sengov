@@ -16,7 +16,6 @@ layout: course_home
 ####candidate
 name:	Peter Welch 
 state:	Vermont
-district: At Large
 party:	Democratic
 officeroom:	2187 RHOB
 phonenumber:	(202) 225-4115
@@ -26,7 +25,6 @@ committeeassignment:
 role: congress
 inoffice: former
 twitter: PeterWelch
-powrid: 
 ---
 
 Peter Welch has represented Vermonters in Congress since 2007. In an era of partisanship and division, he is widely recognized as a progressive leader and a skillful legislator who chooses governing over gridlock.
