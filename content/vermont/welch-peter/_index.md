@@ -23,7 +23,7 @@ emailaddress:	https://welch.house.gov/contact
 website:	https://welch.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: PeterWelch
 ---
 
