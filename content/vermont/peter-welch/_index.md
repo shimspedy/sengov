@@ -1,10 +1,10 @@
 ---
 date: 2022-11-22T11:54:12-05:00
-title: "Patrick Leahy"
-seo_title: "contact senator Patrick Leahy"
+title: "Peter Welch"
+seo_title: "contact senator Peter Welch"
 subheader:
-     greeting: Contact Senator Patrick Leahy (D-VT)
-     description: Patrick Joseph Leahy is an American politician serving as the senior United States Senator from Vermont. To date Leahy is the first and only member of the Democratic Party to serve as a U.S. senator for Vermont.
+     greeting: Contact Senator Peter Welch 
+     description: Peter Welch has been a champion for working Vermonters throughout his career. Since his election to the House of Representatives in 2006, he has been widely recognized as a thoughtful and effective legislator who chooses governing over gridlock.
 description: Contact senator Peter Welch of Vermont. Contact information for Peter Welch includes  email address, phone number, and mailing address.
 image: peter-welch.jpeg
 video: 
