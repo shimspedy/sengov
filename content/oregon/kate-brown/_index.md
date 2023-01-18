@@ -19,7 +19,7 @@ state:	Alabama
 birthstate: Alabama
 party:	Democratic
 role: governor
-inoffice: current
+inoffice: former
 born:	June 21, 1960
 age: '60'
 enteredoffice:	February 18, 2015 
