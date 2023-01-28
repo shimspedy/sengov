@@ -26,7 +26,7 @@ enteredoffice:	January 20, 2023
 terms1: January 20, 2023
 termexpires:	
 mailingaddress1: Room 225 Main Capitol Building Harrisburg, PA 17120
-mailingaddress2:		
+mailingaddress2:	508 Main Capitol Building Harrisburg, PA 17120	
 phonenumber1: 717/787-2500
 phonenumber2:	
 fax1: 717/772-8284
