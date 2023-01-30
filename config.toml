@@ -61,8 +61,8 @@ readingTime = true
     
       [[Languages.en.menu.main]]
         weight = 2
-        name = "salary"
-        url = "/salary/"
+        name = "donate"
+        url = "/donate"
         
       [[Languages.en.menu.main]]
         weight = 2
