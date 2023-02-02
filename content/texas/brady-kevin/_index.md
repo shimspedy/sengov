@@ -24,7 +24,7 @@ emailaddress:	https://kevinbrady.house.gov/contact/
 website:	https://kevinbrady.house.gov/
 committeeassignment: Ways and Means
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepKevinBrady
 powrid: 
 ---

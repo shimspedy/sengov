@@ -24,7 +24,7 @@ emailaddress:	https://luria.house.gov/contact
 website:	https://luria.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepElaineLuria
 powrid: 
 ---

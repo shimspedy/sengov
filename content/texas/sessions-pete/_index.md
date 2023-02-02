@@ -24,7 +24,7 @@ emailaddress:	https://sessions.house.gov/contact
 website:	https://sessions.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: PeteSessions
 powrid: 
 ---

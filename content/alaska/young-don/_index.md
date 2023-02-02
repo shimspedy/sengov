@@ -24,7 +24,7 @@ emailaddress:	https://donyoung.house.gov/contact/
 website:	https://donyoung.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepDonYoung
 powrid: 
 ---

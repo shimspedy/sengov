@@ -14,7 +14,7 @@ layout: course_home
 
 
 ####candidate
-name:	Al Green 
+name:	Gene Green
 state:	Texas
 district: 9th
 party:	Democratic
@@ -24,7 +24,7 @@ emailaddress:	https://algreen.house.gov/contact-me/email-me
 website:	https://algreen.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepAlGreen
 powrid: 
 ---

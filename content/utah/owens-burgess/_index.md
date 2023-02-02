@@ -89,4 +89,3 @@ From manufacturing to the restaurant industry and everything in between, Utah ru
 To continue this upward trajectory, we must get the government out of the way. My top priority is to ensure that Utah’s economy continues to recover and flourish following the COVID-19 pandemic. Small business is the heart and soul of our state, and as the Fourth District heads back to work, Team Owens has your back at home and in the halls of Congress.
 
 In addition to visiting small businesses in every corner of Utah’s Fourth, my team and I have worked hard to amplify their voices in Washington. 
-

@@ -24,7 +24,7 @@ emailaddress:	https://vantaylor.house.gov/contact/
 website:	https://vantaylor.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepVanTaylor
 powrid: 
 ---

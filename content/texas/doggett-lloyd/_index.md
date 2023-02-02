@@ -24,7 +24,7 @@ emailaddress:	https://doggett.house.gov/contact
 website:	https://doggett.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepLloydDoggett
 powrid: 
 ---

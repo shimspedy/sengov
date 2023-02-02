@@ -16,6 +16,7 @@ layout: course_home
 ####candidate
 name:	Peter Welch 
 state:	Vermont
+district: At Large
 party:	Democratic
 officeroom:	2187 RHOB
 phonenumber:	(202) 225-4115
@@ -25,6 +26,7 @@ committeeassignment:
 role: congress
 inoffice: former
 twitter: PeterWelch
+powrid: 
 ---
 
 Peter Welch has represented Vermonters in Congress since 2007. In an era of partisanship and division, he is widely recognized as a progressive leader and a skillful legislator who chooses governing over gridlock.
@@ -158,8 +160,7 @@ Cosponsored the Student Loan Forgiveness for Frontline Health Workers Act, which
 
 Cosponsored the Dr. Lorna Breen Health Care Provider Protection Act, which would provide grants to improve mental and behavioral health and prevent burnout among health care providers.
 
-#### Voting Rights
-
+#### Voting Rights
 Peter was in the Capitol when the violent mob attacked the heart of our democracy on January 6th – and living through that experience and its aftermath has fueled a deeper sense of urgency to protect our democracy.  With Republicans in state legislatures across the country working to enact laws that will suppress Americans’ right to vote and dark money pouring into campaigns in an attempt to undermine free and fair elections, Peter has been a champion of voting rights and campaign finance and election reforms that will put power back in the hands of the people. 
 
 - Making it easier to vote

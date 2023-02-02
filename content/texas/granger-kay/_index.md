@@ -24,7 +24,7 @@ emailaddress:	https://kaygranger.house.gov/contact
 website:	https://kaygranger.house.gov/
 committeeassignment: Appropriations
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepKayGranger
 powrid: 
 ---

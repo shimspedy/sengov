@@ -24,7 +24,7 @@ emailaddress:	https://gohmert.house.gov/contact/
 website:	https://gohmert.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: replouiegohmert
 powrid: 
 ---

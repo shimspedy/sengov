@@ -79,3 +79,6 @@ In 2011, the problem of gun violence hit especially close to home for me when my
 
 ## Energy & Environment
 I am committed to conserving our natural resources for future generations. Protecting our environment is a priority of mine – and I support legislative efforts that work towards that end. The recent changes in our capacity to access domestic resources have changed the energy and economic landscape in the United States. While I understand the many potential short term upsides that these developments present, we must look to long term environmental realities that we face as a nation, and as a world.
+
+## Education
+It is critical that we set realistic goals to hold schools accountable for providing the education students deserve while taking into consideration the unique challenges that must be overcome in the classroom. Our education system must support and revitalize our public schools instead of labeling them as failing when they are not.

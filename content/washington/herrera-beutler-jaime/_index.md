@@ -24,7 +24,7 @@ emailaddress:	https://jhb.house.gov/contact/
 website:	https://jhb.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: HerreraBeutler
 powrid: 
 ---

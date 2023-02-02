@@ -24,7 +24,7 @@ emailaddress:	https://kind.house.gov/contact
 website:	https://kind.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRonKind
 powrid: 
 ---

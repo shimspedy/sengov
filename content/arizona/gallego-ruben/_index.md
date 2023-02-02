@@ -24,7 +24,7 @@ emailaddress:	https://rubengallego.house.gov/contact
 website:	https://rubengallego.house.gov/
 committeeassignment: Armed Services, Natural Resources
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRubenGallego
 powrid: 
 ---

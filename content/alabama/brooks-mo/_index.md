@@ -24,7 +24,7 @@ emailaddress:	https://brooks.house.gov/contact-me
 website:	https://brooks.house.gov/
 committeeassignment: Armed Services Science, Space, and Technology
 role: congress
-inoffice: current
+inoffice: former
 powrid: 
 ---
 

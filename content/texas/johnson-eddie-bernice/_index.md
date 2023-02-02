@@ -24,7 +24,7 @@ emailaddress:	https://ebjohnson.house.gov/contact-us
 website:	https://ebjohnson.house.gov/
 committeeassignment: Science, Space, and Technology
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepEBJ
 powrid: 
 ---

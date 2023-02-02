@@ -24,7 +24,7 @@ emailaddress:	https://kirkpatrick.house.gov/contact/
 website:	https://kirkpatrick.house.gov/
 committeeassignment: Agriculture, Appropriations
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepKirkpatrick
 powrid: 
 ---
