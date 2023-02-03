@@ -77,18 +77,6 @@
                     <td>{{.Params.Terms1}}</td>
                   </tr>
                   {{end}}
-                  {{ if isset .Params "terms2" }}
-                  <tr>
-                    <td>Terms 2</td>
-                    <td>{{.Params.Terms2}}</td>
-                  </tr>
-                  {{end}}
-                  {{ if isset .Params "terms3" }}
-                  <tr>
-                    <td>Terms 3</td>
-                    <td>{{.Params.Terms3}}</td>
-                  </tr>
-                  {{end}}
                   {{ if isset .Params "termexpires" }}
                   <tr>
                     <td>Term expires</td>
@@ -113,12 +101,6 @@
                     <td class="p-street-address">{{.Params.Mailingaddress1}} </td>
                   </tr>
                   {{end}}
-                  {{ if isset .Params "mailingaddress2" }}
-                  <tr>
-                    <td>Mailing Address 2</td>
-                    <td class="p-street-address"> {{.Params.Mailingaddress2}} </td>
-                  </tr>
-                  {{end}}
                   {{ if isset .Params "phonenumber" }}
                   <tr>
                     <td>Phone number</td>
@@ -133,23 +115,10 @@
                         itemprop="telephone">{{.Params.Phonenumber1}}</a></td>
                   </tr>
                   {{end}}
-                  {{ if isset .Params "phonenumber2" }}
-                  <tr>
-                    <td>Phone number</td>
-                    <td><a href="tel:{{.Params.Phonenumber2}}" class="p-tel"
-                        itemprop="telephone">{{.Params.Phonenumber2}}</a></td>
-                  </tr>
-                  {{end}}
                   {{ if isset .Params "fax1" }}
                   <tr>
                     <td>fax 1</td>
                     <td>{{.Params.Fax1}}</a></td>
-                  </tr>
-                  {{end}}
-                  {{ if isset .Params "fax2" }}
-                  <tr>
-                    <td>fax 2</td>
-                    <td>{{.Params.Fax2}}</td>
                   </tr>
                   {{end}}
                   <tr>
