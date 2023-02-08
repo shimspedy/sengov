@@ -1,0 +1,71 @@
+{{ define "title" }}
+<!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+
+
+<section>
+  <div class="slide">
+    <div class="storyTitle">
+      <h1>{{ .Title }}</h1>
+      <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : {{ .Date.Format "Monday, 2 Jan, 2006" }} </h4>
+      <h3 class="author">
+        {{- range .Params.authors }}
+        {{ $authorPath := printf "authors/%s" (urlize .) }}
+        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
+        {{ partial "author-card" . }}
+        {{ end }}
+        {{ end }}
+      </h3>
+      <div class="max-ads hide-on-med-and-down" style="max-width: 50%;">
+        {{ partial "textspeech" . }}
+      </div>
+     
+    </div>
+    {{ if .Params.image }}
+    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
+      style="background-image: url({{.Site.BaseURL }}bills/{{ .Params.image }});">
+      <span id="image_credit"></span>
+      <div class="gradient"></div>
+      <img src="/images/wave.png" class="waves">
+    </div>
+    {{ else }}
+    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
+      style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});">
+      <span id="image_credit"></span>
+      <div class="gradient"></div>
+      <img src="/images/wave.png" class="waves">
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+
+
+<div class="row">
+  <div class="col xl8 l8 m12 s12">
+    <article class=" post-content h-entry hentry"
+      style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+     
+      <!-- {{- if .Params.video -}}
+      {{ partial "youtube-video" . }}
+      {{- end -}} -->
+      <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
+        {{ partial "nav/table-of-contents" . }}
+        <div class="e-content entry-content" id="manifestation">{{.Content}}</div>
+        {{- partial "social-icons/vertical" . -}}
+        <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div>  -->
+      </div>
+    </article>
+  </div>
+  <aside class="col xl3 l3 hide-on-med-and-down left-col-article" style="padding-right:0px;">
+    <div id="nav-side-ad">
+      {{- partial "ads/sponsor" . -}}
+      {{- partial "ads/sidebar" . -}}
+      {{ partial "sidebar.html" . }}
+      {{- partial "ads/sidebar" . -}}
+    </div>
+  </aside>
+</div>
+{{ end }}
