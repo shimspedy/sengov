@@ -20,13 +20,7 @@ $(document).ready(function() {
 
     $(".dropdown-trigger").dropdown();
     
-    //homepage cards
-
    
-     // $(".option").click(function () {
-     //     $(".option").removeClass("active");
-     //     $(this).addClass("active");
-     // });
      
    
      
