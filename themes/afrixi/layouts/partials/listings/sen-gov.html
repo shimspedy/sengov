@@ -1,5 +1,9 @@
+{{- $recent := where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "candidates")) }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 4) }}
+
+{{- if $recent }}
 <div class="row">
-    {{ range first 10 (where .RegularPages "Section" "candidates") }}
+    {{- range first $recent_num ( $recent) }}
     <div class="col s12 m6 l3 sen-gov">
 
         <div class="card">
@@ -43,3 +47,4 @@
     </div>
     {{ end }}
 </div>
+{{- end }}

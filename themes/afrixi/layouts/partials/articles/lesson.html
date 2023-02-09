@@ -151,12 +151,12 @@
             (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
         </div>
-        {{ if .Params.Twitter }}
+        <!-- {{ if .Params.Twitter }}
             <div class="twits center">
                  <a class="twitter-timeline" href="https://twitter.com/{{.Params.Twitter}}" data-tweet-limit="1" data-width="100%" data-height="400"></a> 
                  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
-            {{end}}
+            {{end}} -->
 
         <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
         <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
@@ -181,7 +181,7 @@
         </div>
 
 
-      <div class="mpscomments">
+      <!-- <div class="mpscomments">
         <script>
           var idcomments_acct = 'f3b59ad84dd73ec9622fc32632161586';
           var idcomments_post_id;
@@ -189,7 +189,7 @@
           </script>
           <span id="IDCommentsPostTitle" style="display:none"></span>
           <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
-        </div>
+        </div> -->
         {{ partial "nav/pagination.html" . }}
 
     </article>
