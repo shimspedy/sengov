@@ -15,1408 +15,329 @@
         <br />
 
         <div class="md-drag md-table-wrapper" style="max-width: 100%;">
-            <table>
-                <caption>
-                    United States Senate, 117th Congress<br>
-                    Party totals: Democrats (D) 48; Republicans (R) 50; Independents (I) 2
-                </caption>
+
+            <form>
+                <div class="input-field">
+                  <input type="search" id="search" required placeholder="Search by state, Name">
+                  <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+                  <i class="material-icons">close</i>
+                </div>
+              </form>
+
+
+
+            <table width="100%" id="listOfSenators" class="display compact nowrap dataTable no-footer dtr-inline" cellspacing="0" role="grid" aria-describedby="listOfSenators_info" style="width: 100%;">
                 <thead>
-                    <tr>
-                        <th scope="col">
-                            state
-                        </th>
-                        <th scope="col">
-                            senator (party)
-                        </th>
-                        <th scope="col">
-                            service began
-                        </th>
-                        <th scope="col">
-                            term ends
-                        </th>
-                    </tr>
+                <tr align="left" role="row"><th style="color: rgb(75, 75, 75); width: 179px;" align="left" class="sorting_asc" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" aria-label="Senator's Name: activate to sort column descending" aria-sort="ascending">Senator's Name</th><th style="color: rgb(75, 75, 75); width: 106px;" align="left" class="sorting" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" aria-label="State: activate to sort column ascending">State</th><th style="color: rgb(75, 75, 75); width: 92px;" align="left" class="sorting" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" aria-label="Party: activate to sort column ascending">Party</th><th style="color: rgb(75, 75, 75); width: 50px;" align="left" class="sorting" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" aria-label="Class: activate to sort column ascending">Class</th><th style="color: rgb(75, 75, 75); width: 117px;" align="left" class="sorting" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" aria-label="Office Room*: activate to sort column ascending">Office Room*</th><th class="sorting" tabindex="0" aria-controls="listOfSenators" rowspan="1" colspan="1" style="width: 61px;" aria-label="Phone: activate to sort column ascending">Phone</th></tr>
                 </thead>
-                <tfoot>
-                    <tr>
-                        <td colspan="4">
-                            <sup>1</sup>Martha McSally was appointed in December 2018 and took office the following
-                            month to fill the vacancy caused by the resignation of Jon Kyl, who had been appointed in
-                            September 2018 to fill the vacancy caused by the death of John McCain. Mark Kelly won a
-                            special election in November 2020 and took office in December.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>2</sup>Dianne Feinstein was elected in November 1992 to complete the term of Pete
-                            Wilson, who resigned in 1991 to become California's governor.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>3</sup>Alex Padilla was appointed in December 2020 and took office in January 2021 to
-                            complete the term of Kamala Harris, who resigned to become vice president.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>4</sup>Michael F. Bennet was appointed in January 2009 to complete the term of Ken
-                            Salazar, who resigned to become secretary of the interior.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>5</sup>Ted Kaufman was appointed in January 2009 to replace Joe Biden, who resigned to
-                            become vice president. In 2010 Christopher A. Coons won a special election to complete the
-                            term.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>6</sup>Kelly Loeffler was appointed in December 2019 and took office in January 2020 to
-                            fill the vacancy caused by the resignation of Johnny Isakson. Raphael G. Warnock won a
-                            special election in November 2020 and took office in January 2021.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>7</sup>Brian Schatz was appointed in December 2012 to fill the vacancy caused by the
-                            death of Daniel Inouye.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>8</sup>William Cowan was appointed in January 2013 and took office in February to
-                            replace John Kerry, who resigned to become secretary of state. In July 2013 Ed Markey won a
-                            special election to complete the term.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>9</sup>Tina Smith was appointed in December 2017 and took office in January 2018 to
-                            fill the vacancy caused by the resignation of Al Franken.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>10</sup>Roger Wicker was appointed in December 2007 to fill the vacancy caused by the
-                            resignation of Trent Lott.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>11</sup>Cindy Hyde-Smith was appointed in March 2018 and took office in April to fill
-                            the vacancy caused by the resignation of Thad Cochran.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>12</sup>Robert Menendez was appointed in January 2006 to fill the vacancy caused by the
-                            resignation of Jon S. Corzine.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>13</sup>Jeff Chiesa was appointed in June 2013 to fill the vacancy caused by the death
-                            of Frank R. Lautenberg. In October 2013 Cory A. Booker won a special election to complete
-                            the term.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>14</sup>Kirsten Gillibrand was appointed in January 2009 to replace Hillary Rodham
-                            Clinton, who resigned to become secretary of state.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>15</sup>James M. Inhofe was elected in November 1994 to complete the term of David
-                            Boren, who resigned to become president of the University of Oklahoma.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>16</sup>Ron Wyden was elected in January 1996 to complete the term of Bob Packwood, who
-                            resigned in 1995.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>17</sup>Tim Scott was appointed in December 2012 and took office in January 2013 to
-                            fill the vacancy caused by the retirement of Jim DeMint.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>18</sup>Joseph Manchin III won a special election in 2010 to fill the vacancy caused by
-                            the death of Robert C. Byrd.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                            <sup>19</sup>John Barrasso was appointed in June 2007 to fill the vacancy caused by the
-                            death of Craig Thomas.
-                        </td>
-                    </tr>
-                </tfoot>
                 <tbody>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Alabama
-                        </td>
-                        <td>
-                            Richard C. Shelby (R)
-                        </td>
-                        <td>
-                            1987
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tommy Tuberville (R)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Alaska
-                        </td>
-                        <td>
-                            Lisa Murkowski (R)
-                        </td>
-                        <td>
-                            2002
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Dan Sullivan (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Arizona
-                        </td>
-                        <td>
-                            Kyrsten Sinema (D)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Mark Kelly (D)
-                        </td>
-                        <td>
-                            2020<sup>1</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Arkansas
-                        </td>
-                        <td>
-                            John Boozman (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tom Cotton (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            California
-                        </td>
-                        <td>
-                            Dianne Feinstein (D)
-                        </td>
-                        <td>
-                            1992<sup>2</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Alex Padilla (D)
-                        </td>
-                        <td>
-                            2021<sup>3</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Colorado
-                        </td>
-                        <td>
-                            Michael F. Bennet (D)
-                        </td>
-                        <td>
-                            2009<sup>4</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            John W. Hickenlooper (D)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Connecticut
-                        </td>
-                        <td>
-                            Richard Blumenthal (D)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Christopher Murphy (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Delaware
-                        </td>
-                        <td>
-                            Thomas R. Carper (D)
-                        </td>
-                        <td>
-                            2001
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Christopher A. Coons (D)
-                        </td>
-                        <td>
-                            2010<sup>5</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Florida
-                        </td>
-                        <td>
-                            Marco Rubio (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Rick Scott (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Georgia
-                        </td>
-                        <td>
-                            Jon Ossoff (D)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Raphael G. Warnock (D)
-                        </td>
-                        <td>
-                            2021<sup>6</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Hawaii
-                        </td>
-                        <td>
-                            Mazie K. Hirono (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Brian Schatz (D)
-                        </td>
-                        <td>
-                            2012<sup>7</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Idaho
-                        </td>
-                        <td>
-                            Mike Crapo (R)
-                        </td>
-                        <td>
-                            1999
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            James E. Risch (R)
-                        </td>
-                        <td>
-                            2009
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Illinois
-                        </td>
-                        <td>
-                            Dick Durbin (D)
-                        </td>
-                        <td>
-                            1997
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tammy Duckworth (D)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Indiana
-                        </td>
-                        <td>
-                            Todd Young (R)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Mike Braun (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Iowa
-                        </td>
-                        <td>
-                            Chuck Grassley (R)
-                        </td>
-                        <td>
-                            1981
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Joni Ernst (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Kansas
-                        </td>
-                        <td>
-                            Jerry Moran (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Roger Marshall (R)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Kentucky
-                        </td>
-                        <td>
-                            Mitch McConnell (R)
-                        </td>
-                        <td>
-                            1985
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Rand Paul (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Louisiana
-                        </td>
-                        <td>
-                            Bill Cassidy (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            John Kennedy (R)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Maine
-                        </td>
-                        <td>
-                            Susan Collins (R)
-                        </td>
-                        <td>
-                            1997
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Angus King (I)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Maryland
-                        </td>
-                        <td>
-                            Benjamin L. Cardin (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Chris Van Hollen (D)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Massachusetts
-                        </td>
-                        <td>
-                            Elizabeth Warren (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Edward J. Markey (D)
-                        </td>
-                        <td>
-                            2013<sup>8</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Michigan
-                        </td>
-                        <td>
-                            Debbie Stabenow (D)
-                        </td>
-                        <td>
-                            2001
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Gary Peters (D)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Minnesota
-                        </td>
-                        <td>
-                            Amy Klobuchar (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tina Smith (D)
-                        </td>
-                        <td>
-                            2018<sup>9</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Mississippi
-                        </td>
-                        <td>
-                            Roger F. Wicker (R)
-                        </td>
-                        <td>
-                            2007<sup>10</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Cindy Hyde-Smith (R)
-                        </td>
-                        <td>
-                            2018<sup>11</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Missouri
-                        </td>
-                        <td>
-                            Roy Blunt (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Josh Hawley (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Montana
-                        </td>
-                        <td>
-                            Jon Tester (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Steve Daines (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Nebraska
-                        </td>
-                        <td>
-                            Deb Fischer (R)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Ben Sasse (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Nevada
-                        </td>
-                        <td>
-                            Catherine Cortez Masto (D)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Jacky Rosen (D)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            New Hampshire
-                        </td>
-                        <td>
-                            Jeanne Shaheen (D)
-                        </td>
-                        <td>
-                            2009
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Margaret Wood Hassan (D)
-                        </td>
-                        <td>
-                            2017
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            New Jersey
-                        </td>
-                        <td>
-                            Robert Menendez (D)
-                        </td>
-                        <td>
-                            2006<sup>12</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Cory A. Booker (D)
-                        </td>
-                        <td>
-                            2013<sup>13</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            New Mexico
-                        </td>
-                        <td>
-                            Martin Heinrich (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Ben Ray Luján (D)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            New York
-                        </td>
-                        <td>
-                            Charles E. Schumer (D)
-                        </td>
-                        <td>
-                            1999
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Kirsten E. Gillibrand (D)
-                        </td>
-                        <td>
-                            2009<sup>14</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            North Carolina
-                        </td>
-                        <td>
-                            Richard Burr (R)
-                        </td>
-                        <td>
-                            2005
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Thom Tillis (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            North Dakota
-                        </td>
-                        <td>
-                            John Hoeven (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Kevin Cramer (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Ohio
-                        </td>
-                        <td>
-                            Sherrod Brown (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Rob Portman (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Oklahoma
-                        </td>
-                        <td>
-                            James M. Inhofe (R)
-                        </td>
-                        <td>
-                            1994<sup>15</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            James Lankford (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Oregon
-                        </td>
-                        <td>
-                            Ron Wyden (D)
-                        </td>
-                        <td>
-                            1996<sup>16</sup>
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Jeff Merkley (D)
-                        </td>
-                        <td>
-                            2009
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Pennsylvania
-                        </td>
-                        <td>
-                            Robert P. Casey, Jr. (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Patrick J. Toomey (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Rhode Island
-                        </td>
-                        <td>
-                            Jack Reed (D)
-                        </td>
-                        <td>
-                            1997
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Sheldon Whitehouse (D)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            South Carolina
-                        </td>
-                        <td>
-                            Lindsey Graham (R)
-                        </td>
-                        <td>
-                            2003
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tim Scott (R)
-                        </td>
-                        <td>
-                            2013<sup>17</sup>
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            South Dakota
-                        </td>
-                        <td>
-                            John Thune (R)
-                        </td>
-                        <td>
-                            2005
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Mike Rounds (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Tennessee
-                        </td>
-                        <td>
-                            Marsha Blackburn (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Bill Hagerty (R)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Texas
-                        </td>
-                        <td>
-                            John Cornyn (R)
-                        </td>
-                        <td>
-                            2002
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Ted Cruz (R)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Utah
-                        </td>
-                        <td>
-                            Mike Lee (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Mitt Romney (R)
-                        </td>
-                        <td>
-                            2019
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Vermont
-                        </td>
-                        <td>
-                            Patrick J. Leahy (D)
-                        </td>
-                        <td>
-                            1975
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Bernard Sanders (I)
-                        </td>
-                        <td>
-                            2007
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Virginia
-                        </td>
-                        <td>
-                            Mark R. Warner (D)
-                        </td>
-                        <td>
-                            2009
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tim Kaine (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Washington
-                        </td>
-                        <td>
-                            Patty Murray (D)
-                        </td>
-                        <td>
-                            1993
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Maria Cantwell (D)
-                        </td>
-                        <td>
-                            2001
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            West Virginia
-                        </td>
-                        <td>
-                            Joseph Manchin III (D)
-                        </td>
-                        <td>
-                            2010<sup>18</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Shelley Moore Capito (R)
-                        </td>
-                        <td>
-                            2015
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Wisconsin
-                        </td>
-                        <td>
-                            Ron Johnson (R)
-                        </td>
-                        <td>
-                            2011
-                        </td>
-                        <td>
-                            2023
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Tammy Baldwin (D)
-                        </td>
-                        <td>
-                            2013
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr class="has-rs">
-                        <td rowspan="2" scope="row">
-                            Wyoming
-                        </td>
-                        <td>
-                            John Barrasso (R)
-                        </td>
-                        <td>
-                            2007<sup>19</sup>
-                        </td>
-                        <td>
-                            2025
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Cynthia M. Lummis (R)
-                        </td>
-                        <td>
-                            2021
-                        </td>
-                        <td>
-                            2027
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+                <tr role="row" class="odd">
+                <td tabindex="0" class="sorting_1"><a href="https://www.baldwin.senate.gov/">Baldwin, Tammy</a></td><td>Wisconsin</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-709 </td><td>4-5653</td>
+                </tr><tr role="row" class="even">
+                <td tabindex="0" class="sorting_1"><a href="https://www.barrasso.senate.gov">Barrasso, John</a></td><td>Wyoming</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SD-307 </td><td>4-6441</td>
+                </tr><tr role="row" class="odd">
+                <td tabindex="0" class="sorting_1"><a href="https://www.bennet.senate.gov">Bennet, Michael F.</a></td><td>Colorado</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SR-261 </td><td>4-5852</td>
+                </tr><tr role="row" class="even">
+                <td tabindex="0" class="sorting_1"><a href="https://www.blackburn.senate.gov">Blackburn, Marsha</a></td><td>Tennessee</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SD-357 </td><td>4-3344</td>
+                </tr><tr role="row" class="odd">
+                <td tabindex="0" class="sorting_1"><a href="https://www.blumenthal.senate.gov">Blumenthal, Richard</a></td><td>Connecticut</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-706 </td><td>4-2823</td>
+                </tr><tr role="row" class="even">
+                <td tabindex="0" class="sorting_1"><a href="https://www.booker.senate.gov">Booker, Cory A.</a></td><td>New Jersey</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-717 </td><td>4-3224</td>
+                </tr><tr role="row" class="odd">
+                <td tabindex="0" class="sorting_1"><a href="https://www.boozman.senate.gov/">Boozman, John</a></td><td>Arkansas</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-141 </td><td>4-4843</td>
+                </tr><tr role="row" class="even">
+                <td tabindex="0" class="sorting_1"><a href="https://www.braun.senate.gov">Braun, Mike</a></td><td>Indiana</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-404 </td><td>4-4814</td>
+                </tr><tr role="row" class="odd">
+                <td tabindex="0" class="sorting_1"><a href="https://www.britt.senate.gov/">Britt, Katie Boyd</a></td><td>Alabama</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-B40A </td><td>4-5744</td>
+                </tr><tr role="row" class="even">
+                <td tabindex="0" class="sorting_1"><a href="https://www.brown.senate.gov/">Brown, Sherrod</a></td><td>Ohio</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-503 </td><td>4-2315</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.budd.senate.gov/">Budd, Ted</a></td><td>North Carolina</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-B85 </td><td>4-3154</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cantwell.senate.gov">Cantwell, Maria</a></td><td>Washington</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-511 </td><td>4-3441</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.capito.senate.gov">Capito, Shelley Moore</a></td><td>West Virginia</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-172 </td><td>4-6472</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cardin.senate.gov/">Cardin, Benjamin L.</a></td><td>Maryland</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-509 </td><td>4-4524</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.carper.senate.gov">Carper, Thomas R.</a></td><td>Delaware</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-513 </td><td>4-2441</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.casey.senate.gov/">Casey, Robert P., Jr.</a></td><td>Pennsylvania</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SR-393 </td><td>4-6324</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cassidy.senate.gov">Cassidy, Bill</a></td><td>Louisiana</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SD-455 </td><td>4-5824</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.collins.senate.gov">Collins, Susan M.</a></td><td>Maine</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SD-413 </td><td>4-2523</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.coons.senate.gov/">Coons, Christopher A.</a></td><td>Delaware</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SR-218 </td><td>4-5042</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cornyn.senate.gov/">Cornyn, John</a></td><td>Texas</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-517 </td><td>4-2934</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cortezmasto.senate.gov">Cortez Masto, Catherine</a></td><td>Nevada</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-313 </td><td>4-3542</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cotton.senate.gov">Cotton, Tom</a></td><td>Arkansas</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-326 </td><td>4-2353</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cramer.senate.gov">Cramer, Kevin</a></td><td>North Dakota</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SH-330 </td><td>4-2043</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.crapo.senate.gov">Crapo, Mike</a></td><td>Idaho</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-239 </td><td>4-6142</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.cruz.senate.gov">Cruz, Ted</a></td><td>Texas</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-127A </td><td>4-5922</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.daines.senate.gov">Daines, Steve</a></td><td>Montana</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-320 </td><td>4-2651</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.duckworth.senate.gov">Duckworth, Tammy</a></td><td>Illinois</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-524 </td><td>4-2854</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.durbin.senate.gov">Durbin, Richard J.</a></td><td>Illinois</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-711 </td><td>4-2152</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.ernst.senate.gov">Ernst, Joni</a></td><td>Iowa</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-730 </td><td>4-3254</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.feinstein.senate.gov">Feinstein, Dianne</a></td><td>California</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-331 </td><td>4-3841</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.fetterman.senate.gov/">Fetterman, John</a></td><td>Pennsylvania</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SD-B40B </td><td>4-4254</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.fischer.senate.gov">Fischer, Deb</a></td><td>Nebraska</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-454 </td><td>4-6551</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.gillibrand.senate.gov">Gillibrand, Kirsten E.</a></td><td>New York</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SR-478 </td><td>4-4451</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.lgraham.senate.gov/">Graham, Lindsey</a></td><td>South Carolina</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-290 </td><td>4-5972</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.grassley.senate.gov">Grassley, Chuck</a></td><td>Iowa</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-135 </td><td>4-3744</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hagerty.senate.gov">Hagerty, Bill</a></td><td>Tennessee</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-248 </td><td>4-4944</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hassan.senate.gov">Hassan, Margaret Wood</a></td><td>New Hampshire</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-324 </td><td>4-3324</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hawley.senate.gov">Hawley, Josh</a></td><td>Missouri</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-115 </td><td>4-6154</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.heinrich.senate.gov/">Heinrich, Martin</a></td><td>New Mexico</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-303 </td><td>4-5521</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hickenlooper.senate.gov">Hickenlooper, John W.</a></td><td>Colorado</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SR-374 </td><td>4-5941</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hirono.senate.gov/">Hirono, Mazie K.</a></td><td>Hawaii</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-109 </td><td>4-6361</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hoeven.senate.gov">Hoeven, John</a></td><td>North Dakota</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-338 </td><td>4-2551</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.hydesmith.senate.gov/">Hyde-Smith, Cindy</a></td><td>Mississippi</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-702 </td><td>4-5054</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.ronjohnson.senate.gov/">Johnson, Ron</a></td><td>Wisconsin</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-328 </td><td>4-5323</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.kaine.senate.gov/">Kaine, Tim</a></td><td>Virginia</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SR-231 </td><td>4-4024</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.kelly.senate.gov">Kelly, Mark</a></td><td>Arizona</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-516 </td><td>4-2235</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.kennedy.senate.gov">Kennedy, John</a></td><td>Louisiana</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-416 </td><td>4-4623</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.king.senate.gov/">King, Angus S., Jr.</a></td><td>Maine</td><td>Independent</td><td><span style="display: none;">1</span>I</td><td>SH-133 </td><td>4-5344</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.klobuchar.senate.gov/">Klobuchar, Amy</a></td><td>Minnesota</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SD-425 </td><td>4-3244</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.lankford.senate.gov">Lankford, James</a></td><td>Oklahoma</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-316 </td><td>4-5754</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.lee.senate.gov/">Lee, Mike</a></td><td>Utah</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-363 </td><td>4-5444</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.lujan.senate.gov">Luján, Ben Ray</a></td><td>New Mexico</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SR-498 </td><td>4-6621</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.lummis.senate.gov">Lummis, Cynthia M.</a></td><td>Wyoming</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-124 </td><td>4-3424</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.manchin.senate.gov/">Manchin, Joe, III</a></td><td>West Virginia</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-306 </td><td>4-3954</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.markey.senate.gov">Markey, Edward J.</a></td><td>Massachusetts</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SD-255 </td><td>4-2742</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.marshall.senate.gov">Marshall, Roger</a></td><td>Kansas</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-479A </td><td>4-4774</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.mcconnell.senate.gov/">McConnell, Mitch</a></td><td>Kentucky</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-317 </td><td>4-2541</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.menendez.senate.gov/">Menendez, Robert</a></td><td>New Jersey</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-528 </td><td>4-4744</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.merkley.senate.gov">Merkley, Jeff</a></td><td>Oregon</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-531 </td><td>4-3753</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.moran.senate.gov">Moran, Jerry</a></td><td>Kansas</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-521 </td><td>4-6521</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.mullin.senate.gov/">Mullin, Markwayne</a></td><td>Oklahoma</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-B33 </td><td>4-4721</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.murkowski.senate.gov/">Murkowski, Lisa</a></td><td>Alaska</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-522 </td><td>4-6665</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.murphy.senate.gov/">Murphy, Christopher</a></td><td>Connecticut</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-136 </td><td>4-4041</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.murray.senate.gov/">Murray, Patty</a></td><td>Washington</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SR-154 </td><td>4-2621</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.ossoff.senate.gov">Ossoff, Jon</a></td><td>Georgia</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SR-455 </td><td>4-3521</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.padilla.senate.gov">Padilla, Alex</a></td><td>California</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-112 </td><td>4-3553</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.paul.senate.gov">Paul, Rand</a></td><td>Kentucky</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-167 </td><td>4-4343</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.peters.senate.gov">Peters, Gary C.</a></td><td>Michigan</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-724 </td><td>4-6221</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.reed.senate.gov/">Reed, Jack</a></td><td>Rhode Island</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-728 </td><td>4-4642</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.ricketts.senate.gov">Ricketts, Pete</a></td><td>Nebraska</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SD-40D </td><td>4-4224</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.risch.senate.gov">Risch, James E.</a></td><td>Idaho</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-483 </td><td>4-2752</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.romney.senate.gov">Romney, Mitt</a></td><td>Utah</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-354 </td><td>4-5251</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.rosen.senate.gov">Rosen, Jacky</a></td><td>Nevada</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-713 </td><td>4-6244</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.rounds.senate.gov">Rounds, Mike</a></td><td>South Dakota</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-716 </td><td>4-5842</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.rubio.senate.gov">Rubio, Marco</a></td><td>Florida</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-284 </td><td>4-3041</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.sanders.senate.gov/">Sanders, Bernard</a></td><td>Vermont</td><td>Independent</td><td><span style="display: none;">1</span>I</td><td>SD-332 </td><td>4-5141</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.schatz.senate.gov">Schatz, Brian</a></td><td>Hawaii</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-722 </td><td>4-3934</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.schmitt.senate.gov/">Schmitt, Eric</a></td><td>Missouri</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SR-B11 </td><td>4-5721</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.schumer.senate.gov/">Schumer, Charles E.</a></td><td>New York</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-322 </td><td>4-6542</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.rickscott.senate.gov/">Scott, Rick</a></td><td>Florida</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SH-502 </td><td>4-5274</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.scott.senate.gov/">Scott, Tim</a></td><td>South Carolina</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SH-104 </td><td>4-6121</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.shaheen.senate.gov">Shaheen, Jeanne</a></td><td>New Hampshire</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-506 </td><td>4-2841</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.sinema.senate.gov">Sinema, Kyrsten</a></td><td>Arizona</td><td>Independent</td><td><span style="display: none;">1</span>I</td><td>SH-317 </td><td>4-4521</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.smith.senate.gov">Smith, Tina</a></td><td>Minnesota</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-720 </td><td>4-5641</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.stabenow.senate.gov/">Stabenow, Debbie</a></td><td>Michigan</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-731 </td><td>4-4822</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.sullivan.senate.gov">Sullivan, Dan</a></td><td>Alaska</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SH-302 </td><td>4-3004</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.tester.senate.gov/">Tester, Jon</a></td><td>Montana</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-311 </td><td>4-2644</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.thune.senate.gov/">Thune, John</a></td><td>South Dakota</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-511 </td><td>4-2321</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.tillis.senate.gov">Tillis, Thom</a></td><td>North Carolina</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SD-113 </td><td>4-6342</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.tuberville.senate.gov">Tuberville, Tommy</a></td><td>Alabama</td><td>Republican</td><td><span style="display: none;">2</span>II</td><td>SR-142 </td><td>4-4124</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.vanhollen.senate.gov">Van Hollen, Chris</a></td><td>Maryland</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SH-110 </td><td>4-4654</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.vance.senate.gov/">Vance, J.D.</a></td><td>Ohio</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-B40C </td><td>4-3353</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.warner.senate.gov">Warner, Mark R.</a></td><td>Virginia</td><td>Democratic</td><td><span style="display: none;">2</span>II</td><td>SH-703 </td><td>4-2023</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.warnock.senate.gov">Warnock, Raphael G.</a></td><td>Georgia</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SR-388 </td><td>4-3643</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.warren.senate.gov">Warren, Elizabeth</a></td><td>Massachusetts</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-309 </td><td>4-4543</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.welch.senate.gov/">Welch, Peter</a></td><td>Vermont</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SR-G12 </td><td>4-4242</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.whitehouse.senate.gov/">Whitehouse, Sheldon</a></td><td>Rhode Island</td><td>Democratic</td><td><span style="display: none;">1</span>I</td><td>SH-530 </td><td>4-2921</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.wicker.senate.gov">Wicker, Roger F.</a></td><td>Mississippi</td><td>Republican</td><td><span style="display: none;">1</span>I</td><td>SR-425 </td><td>4-6253</td>
+                </tr><tr role="row" class="odd">
+                <td class="sorting_1" tabindex="0"><a href="https://www.wyden.senate.gov/">Wyden, Ron</a></td><td>Oregon</td><td>Democratic</td><td><span style="display: none;">3</span>III</td><td>SD-221 </td><td>4-5244</td>
+                </tr><tr role="row" class="even">
+                <td class="sorting_1" tabindex="0"><a href="https://www.young.senate.gov">Young, Todd</a></td><td>Indiana</td><td>Republican</td><td><span style="display: none;">3</span>III</td><td>SD-185 </td><td>4-5623</td>
+                </tr></tbody>
+                </table>
         </div>
 
         {{.Content}}
+
+        <script>
+            const searchBox = document.querySelector("#search");
+            const table = document.querySelector("#listOfSenators");
+            
+            searchBox.addEventListener("input", function() {
+              const filter = searchBox.value.toLowerCase();
+              const rows = table.querySelectorAll("tr");
+            
+              for (const row of rows) {
+                let isMatch = false;
+                const columns = row.querySelectorAll("td");
+            
+                for (const column of columns) {
+                  if (column.textContent.toLowerCase().indexOf(filter) !== -1) {
+                    isMatch = true;
+                    break;
+                  }
+                }
+            
+                if (isMatch) {
+                  row.style.display = "";
+                } else {
+                  row.style.display = "none";
+                }
+              }
+            });
+            </script>
+
+            <style>
+
+#listOfSenators {
+  margin: 1em 0;
+  width: 100%;
+  overflow: hidden;
+  background: #FFF;
+  color: #024457;
+  border-radius: 10px;
+  border: 1px solid #167F92;
+}
+#listOfSenators tr {
+  border: 1px solid #D9E4E6;
+}
+#listOfSenators tr:nth-child(odd) {
+  background-color: #EAF3F3;
+}
+#listOfSenators th {
+  display: none;
+  border: 1px solid #FFF;
+  background-color: #167F92;
+  color: #FFF;
+  padding: 1em;
+}
+#listOfSenators th:first-child {
+  display: table-cell;
+}
+#listOfSenators th:nth-child(2) {
+  display: table-cell;
+}
+#listOfSenators th:nth-child(2) span {
+  display: none;
+}
+#listOfSenators th:nth-child(2):after {
+  content: attr(data-th);
+}
+@media (min-width: 480px) {
+  #listOfSenators th:nth-child(2) span {
+    display: block;
+  }
+  #listOfSenators th:nth-child(2):after {
+    display: none;
+  }
+}
+#listOfSenators td {
+  display: block;
+  word-wrap: break-word;
+  max-width: 7em;
+}
+
+#listOfSenators td:first-child {
+  display: table-cell;
+  border-right: 1px solid #D9E4E6;
+}
+@media (min-width: 480px) {
+  #listOfSenators td {
+    border: 1px solid #D9E4E6;
+  }
+}
+#listOfSenators th, #listOfSenators td {
+  text-align: left;
+  margin: .5em 1em;
+}
+@media (min-width: 480px) {
+  #listOfSenators th, #listOfSenators td {
+    display: table-cell;
+    padding: 1em;
+  }
+}
+
+
+ </style>
+            
 
     </div>
 

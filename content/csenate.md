@@ -1,8 +1,8 @@
 ---
 date: 2022-04-20T10:02:20-04:00
-title: "list of current U.S. senators"
-seo_title: "list of current U.S. senators"
-description: United States Senate, 117th Congress Party totals - Democrats (D) 48; Republicans (R) 50; Independents (I) 2
+title: "current U.S. senators"
+seo_title: "current U.S. senators"
+description: current U.S. senators 118th Congress
 author: sengov
 image:
 video:
@@ -12,3 +12,7 @@ type: "page"
 layout: csenate
 
 ---
+
+- SH: Hart Senate Office Building
+- SD: Dirksen Senate Office Building
+- SR: Russell Senate Office Building
