@@ -10,7 +10,7 @@ categories:
   - bills
 role:
  - bill
-image: bills.jpeg
+image: bill4.jpeg
 video:
 url: 
 weight: 0
