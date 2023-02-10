@@ -29,5 +29,5 @@ The Resolution resolves to condemn the PRC’s violation of US sovereignty, deno
 
 The briefings should include all known infiltrations of the US national airspace by the PRC over the past several years, past incidents of PRC’s use of surveillance balloons worldwide, a timeline of events for the most recent infiltration, an assessment of surveillance data the PRC was potentially able to collect, measures taken to mitigate the threat posed by the balloon, diplomatic communications between the US and the PRC regarding this incident, and plans to deter and defeat intelligence collection activities by the PRC or other foreign adversaries in the US national airspace system.
 
-
+- Reference
 [H.Res.104 ](https://www.congress.gov/Resolution/118th-congress/house-resolution/104?q=%7B%22search%22%3A%5B%22H.Res.104%22%5D%7D&s=2&r=1)
