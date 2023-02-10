@@ -7,7 +7,7 @@ description: This bill concerns a high-altitude surveillance balloon belonging t
 authors:
   - john shim
 categories:
-  - bills
+  - RESOLUTION
 role:
  - bill
 image: bill4.jpeg
@@ -16,7 +16,7 @@ url:
 weight: 0
 layout: single
 keywords:
-- bills
+- RESOLUTION
 ---
 
 This bill concerns a high-altitude surveillance balloon belonging to the People’s Republic of China (PRC) that was tracked by the Department of Defense over United States territory on February 2, 2023. It was later revealed that the balloon was first tracked by North American Aerospace Defense Command (NORAD) on January 28, 2023. The Secretary of Defense has stated that the balloon was being used by the PRC for surveillance of strategic sites in the US. The balloon traveled near sensitive US national security facilities, including the Malmstrom Air Force Base in Montana, and was eventually shot down by a US Air Force aircraft on February 4, 2023 off the coast of South Carolina.
@@ -28,3 +28,6 @@ The bill cites Article I of the Convention on International Civil Aviation, also
 The bill resolves to condemn the PRC’s violation of US sovereignty, denounce the CCP’s deceptive efforts, determine it should be US policy to prevent foreign aerial surveillance platforms from violating US sovereignty, and calls on the Biden administration to provide comprehensive briefings on the incident.
 
 The briefings should include all known infiltrations of the US national airspace by the PRC over the past several years, past incidents of PRC’s use of surveillance balloons worldwide, a timeline of events for the most recent infiltration, an assessment of surveillance data the PRC was potentially able to collect, measures taken to mitigate the threat posed by the balloon, diplomatic communications between the US and the PRC regarding this incident, and plans to deter and defeat intelligence collection activities by the PRC or other foreign adversaries in the US national airspace system.
+
+
+[H.Res.104 ](https://www.congress.gov/bill/118th-congress/house-resolution/104?q=%7B%22search%22%3A%5B%22H.Res.104%22%5D%7D&s=2&r=1)
