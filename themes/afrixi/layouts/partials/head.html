@@ -1,5 +1,9 @@
 
+{{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
+<title>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
+{{ else }}
 <title>{{.Params.seo_title}} | sengov.com</title>
+{{- end -}}
 <meta charset="utf-8">
 <meta name="theme-color" content="#317EFB"/>
 <meta http-equiv='content-language' content='en-gb'>
