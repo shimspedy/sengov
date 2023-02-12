@@ -8,14 +8,14 @@ subheader:
 description: Contact Delegate  Eleanor Holmes Norton of Alabama. Contact information for Eleanor Holmes Norton includes email address, phone number, and mailing address.
 image: norton-eleanor-holmes.jpeg
 video: 
-url: /district-of-columbia/norton-eleanor-holmes/
+url: /washingtondc/norton-eleanor-holmes/
 weight: 1
 layout: course_home
 
 
 ####candidate
 name:	Eleanor Holmes Norton
-state:	District of Columbia
+state:	washingtondc
 district: Delegate
 party:	Republican
 officeroom:	2136 RHOB
