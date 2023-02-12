@@ -7,8 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 <meta name="description" content="{{.Description}}" />
-<meta name="keywords" content="contact, {{.Params.Role}}, {{.Params.Name}}, {{.Params.Name}} of {{.Params.State}}, {{.Params.state}} {{.Params.Role}},{{.Params.Name}} email state, email, address, born, term, expire, phone, party">
-<meta name="tags" content=" contact, {{.Params.Role}}, {{.Params.Name}}, {{.Params.Name}} of {{.Params.State}}, {{.Params.state}} {{.Params.Role}},{{.Params.Name}} email state, email, address, born, term, expire, phone, party">
+{{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
+<meta name="keywords" content="contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}},{{.Params.Party}} {{.Params.Role}} {{.Params.Name}},{{.Params.Role}} {{.Params.Name}} Contact Information ">
+{{ else }}
+<meta name="keywords" content="{{.Keywords}}">
+{{- end -}}
+
 <meta name="fo-verify" content="f79749e8-2863-4c0a-96d8-39176c1ff0a8">
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}

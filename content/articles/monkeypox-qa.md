@@ -15,7 +15,7 @@ keywords:
 - how do you get monkeypox,
 - Monkeypox, 
 - Poxvirus
-image:
+image: health.jpeg
 video:
 url: 
 weight: 0

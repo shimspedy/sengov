@@ -4,7 +4,7 @@ title: " Monkeypox Facts for People Who are Sexually Active"
 seo_title: "Monkeypox Facts for People Who are Sexually Active"
 description: Monkeypox is a rare disease caused by infection with the monkeypox virus.
 author: Csen
-image:
+image: health.jpeg
 video:
 url: 
 weight: 0

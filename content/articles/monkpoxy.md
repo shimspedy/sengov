@@ -4,7 +4,7 @@ title: " About Monkeypox"
 seo_title: "2022 U.S. Monkeypox Outbreak"
 description: Monkeypox is a rare disease caused by infection with the monkeypox virus.
 author: Csen
-image:
+image: health.jpeg
 video:
 url: 
 weight: 0
