@@ -1,0 +1,24 @@
+
+
+<a href="{{.Permalink}}">
+  {{ if eq .Params.party "Democratic" }}
+  <div class="card horizontal democratic">
+    {{else if eq .Params.party "Republican"}}
+    <div class="card horizontal republican">
+    {{else}}
+    <div class="card horizontal">
+    {{ end }}
+     <div class="card-image">
+       <img  style="max-height: 70px;" src="{{.Params.url}}{{.Params.image}}" alt="{{.Title}}">
+     </div>
+     <div class="card-stacked">
+       <div class="card-content">
+         <p class="grey-text text-darken-2">{{.Title}}</p>
+         <p class="grey-text text-darken-2">{{.Params.Role}}</p>
+       </div>
+     </div>
+ </div>
+</a>
+
+
+
