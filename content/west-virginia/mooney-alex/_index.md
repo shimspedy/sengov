@@ -26,7 +26,7 @@ committeeassignment:
 role: congress
 inoffice: current
 twitter: RepAlexMooney
-powrid: 
+
 ---
 
 The son of a Cuban refugee and Vietnam veteran, Alex grew up with a deep sense of appreciation for the American ideals of individual freedom and personal responsibility.
