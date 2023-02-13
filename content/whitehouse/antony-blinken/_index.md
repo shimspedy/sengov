@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Secretary Of State  Antony Blinken
      description: Antony John Blinken (born April 16, 1962) is an American government official and diplomat serving as the 71st United States secretary of state since January 26, 2021.
 description: Here you will find contact information for Secretary Of State  Antony Blinken, including the email address, phone number, and mailing address.
-image: kamala-harris.jpeg
+image: antony-blinken.jpeg
 video: 
-url: /whitehouse/kamala-harris/
+url: /whitehouse/antony-blinken/
 weight: 1
 layout: course_home
 
