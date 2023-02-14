@@ -24,7 +24,7 @@ emailaddress:	https://gibbs.house.gov/contact
 website:	https://gibbs.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepBobGibbs
 powrid: 
 ---

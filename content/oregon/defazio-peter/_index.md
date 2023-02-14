@@ -24,7 +24,7 @@ emailaddress:	https://defazio.house.gov/contact/contact-peter
 website:	https://defazio.house.gov/
 committeeassignment: Transportation and Infrastructure
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepPeterDeFazio
 powrid: 
 ---

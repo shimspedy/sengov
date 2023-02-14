@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2023-01-22T11:48:55-05:00
 title: "Kay Ivey"
 seo_title: "contact Governor Kay Ivey "
 subheader:
@@ -58,3 +58,26 @@ On April 10, 2017, Kay was sworn in as the 54th Governor of the state of Alabama
 On January 14, 2019, Governor Ivey was officially sworn in for her full term by Associate Justice Will Sellers. Governor Ivey will continue to bring conservative leadership with effective results to make this generation more productive and the next generation more prosperous.
 
 She is a member of the First Baptist Church of Montgomery, the Montgomery Rotary Club, and the Board of Directors of the Montgomery YMCA. Governor Ivey is also the first Girls State alumnus to be elected to an Alabama Constitutional Office.
+
+#### ISSUES
+We hold dear our conservative Alabama values.
+- I believe in God, and I believe we need to look to Him for the answers.
+
+- I believe every life is precious. As a pro-life governor, I will always fight to protect the unborn.
+
+- I believe the Second Amendment is clear and it ought to be protected. I will always defend our right as law-abiding citizens to keep and bear arms.
+
+- I believe my job is make sure you have a job. As Governor, I have fought every day to get Alabama working again. Over 44,000 new jobs and counting…
+
+- I believe our children deserve a quality education and the opportunity to succeed. As a former teacher, I’ll always make sure our children come first and have the resources they need for a strong start in life.
+
+
+- I believe our veterans deserve better. I want to make Alabama the best state in America for our heroes.
+
+- I believe our farmers need a fighter and a leader who has their back. I’ll continue to be that fighter for our farmers, so that we can get government out of the way and let them farm.
+
+- I believe our police officers and our first responders should be honored for the hard work they do for all of us. I will always support those who defend us.
+
+- I believe in standing up for the little guy, and fighting for the forgotten. It’s what I’ve done all my life, and that’s not changing now.
+
+- I believe we must continue to root out corruption in Montgomery. Together, we’ve made great progress, but there is still work to be done.

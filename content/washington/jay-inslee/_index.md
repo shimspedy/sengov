@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2023-01-22T11:48:55-05:00
 title: "Jay Inslee"
 seo_title: "contact Governor Jay Inslee "
 subheader:
@@ -51,61 +51,63 @@ During his time in Congress, Jay became known as a forward-thinking leader, espe
 
 Over the past decade, Washington has consistently been among the few states to rank as one of the best states for business and one of the best states for workers. From commercial space and sustainable maritime to advanced agriculture and forest products, the growth of Washington’s key sectors is helping attract new companies and create jobs in communities all across the state. Washington has one of the nation’s highest minimum wages, paid sick leave for all workers, a best-in-the-nation paid family leave program, and one of the highest union membership rates.
 
+#### Economic Recovery
+Under Jay’s direction, Washington state has put working families first. 
+
+The COVID-19 crisis has been a difficult time for Washingtonians and their families, and Jay has used every avenue at his disposal as governor to ensure protections for workers out of work and those on the front lines. Additional unemployment and sick leave protections, eviction bans and rent freezes, and other measures have assisted families during this difficult time. As businesses across our economy were impacted, Jay offered grants to small businesses to help prevent closures.
+
+As Washington starts our economic recovery by reopening safely in phases, we must come together again to lift each other up — not simply to restore the economy of our past, but renew and strengthen Washington for decades to come. 
+
+During Jay’s tenure, Washington has made historic steps to improve the lives of Washingtonians. In his first term, Jay led Washington out of the Great Recession. By his second term, he brought Washington together to create what CNBC rated the top state for businesses and Oxfam declared the best state for workers.
+
+Jay believes no one should have to choose a paycheck over their own health or taking care of loved ones. To ease this burden on working families, Washington voters passed mandated paid sick leave and Jay signed into law the best-paid family and medical leave plan in the nation. 
+
+ Washington has become a model for the rest of the nation at providing families the security they need to take care of their aging loved ones, creating the-first-in-the nation long-term care benefit program for seniors. This is a monumental achievement that allows families to afford assistance and other care benefits so their loved ones can age with dignity.  
+
+ Jay knows workers deserve the right to earn a living wage. Under his leadership, Washington has raised the minimum wage for working Washingtonians and seen wages rise faster than nearly every other state in the country. 
+
+Because of Jay’s progressive, forward-looking priorities for working families and his steady, thoughtful leadership to protect them during the COVID-19 crisis, Washington families are better protected and prepared to rebuild our great state for a brighter future.
+
+#### Health Care
+Jay believes every family in Washington should have affordable, accessible health care. Under his leadership, Washington has become a national leader in health care access and affordability. 
+
+Jay has protected and expanded access to health care under the Affordable Care Act (ACA) to nearly 800,000 additional Washingtonians, driving uninsured rates to record lows. And when the Trump administration and Republicans worked to overturn the ACA, Jay defended Washingtonians, signing legislation to set in stone that no person in Washington state could be denied health coverage because of a pre-existing medical condition. But he didn’t stop there, signing a first-in-the-nation public option to lower costs for Washington families. 
+
+To make sure working families can provide the necessary health and care for their aging loved ones, Jay signed a first of its kind public long-term care benefit program so that seniors in our state can age with dignity and receive the care they deserve.
+
+Everyone, everywhere deserves reproductive freedom and Jay has made Washington state a leader in reproductive health care. He helped to pass and sign the Reproductive Parity Act, which requires health plans that include maternity care services to also cover abortion services and for all health plans to cover over the counter contraceptives without a prescription.
+
+We must change how we take care of people who suffer from mental illness in Washington state. That’s why Jay championed and signed legislation to integrate physical services and behavioral health services by significantly transforming the state’s mental health system and reshaping how and where patients receive care. 
+
+Health care is a fundamental right and Jay will never stop fighting to make sure every Washingtonian has access to affordable health care coverage.
+
 #### Education
-JD, School of Law, Willamette University, 1976
+Jay is the son of a biology teacher and started his life in public service fighting to build a new school in Selah, Washington. He knows that when we invest in education, we invest in a better future for all of us. Under his leadership, Washington met its funding obligations for education for the first time in 30 years and invested billions in our education system.
 
-BA, Economics, University of Washington, 1973
+These important investments have resulted in increased access to early learning, including all-day kindergarten so that children can start building a foundation at an early age for success. For children with the most need, he pushed to secure $130 million for direct special education services and expand Breakfast After the Bell program to ensure Washington’s kids are focused on learning, not hunger. 
 
-#### Political Experience
-Governor, State of Washington, 2012-present
+Jay values our teachers and he’s worked to increase educator pay more than any other state and to lower class sizes so our educators can focus on giving our children the best possible education. He has also made a commitment to recruit and retain more diverse educators in our schools.
 
-Candidate, Governor of Washington, 1996, 2020
+For too many, the cost of higher education is too high a burden. Jay partnered with large Washington employers such as Microsoft and Amazon to pass and fund the historic Workforce Education Investment Act, which ensures full and partial college tuition scholarships are available to working and middle-class Washingtonians.  Everyone in our state benefits from a skilled, well-prepared workforce and every child should be able to access further education and training beyond high school. 
 
-Candidate, President of the United States, 2020
+And because college is not the only path to success, Jay launched Career Connect Washington. This program connects 100,000 Washington students with career-ready education like apprenticeships and technical education to receive the skills to earn good-paying jobs.
 
-Representative, United States House of Representatives, District 1, 1992-1994, 1998-2012
+#### Climate and Clean Energy
+Jay is a national leader on climate change and clean energy. Known as the “greenest governor in the country,” he has made Washington state a leader in both the fight against climate change and growing clean energy jobs — something he knows will be vital to our economic comeback post-COVID.
 
-Representative, Washington State House of Representatives, District 14, 1988-1992
+Under his forward-thinking administration, Jay set the state on a pathway to a carbon neutral electrical grid by 2030 and to be powered by 100 percent clean electricity by 2045. We have built the cleanest energy grid in the nation and a $6 billion wind energy industry, while also increasing the use of solar energy and electric vehicles.
 
-#### Caucuses/Former Committees
-Former Member, Congressional Friends of Animals Caucus, United States House of Representatives
+Jay has been dedicated to protecting the national resources our state holds dear, enacting crucial orca and salmon recovery bills to protect the safety and livelihood of Washington’s most iconic wildlife. He has committed his administration to improving outdoor recreation for all Washingtonians by putting an end to the cuts in the state parks’ budget and securing additional funding to maintain our facilities.
 
-Former Member, Congressional Internet Caucus, United States House of Representatives
+Jay knows that Washington’s clean energy economy and jobs are the future of our state and our economic recovery. Just as he has through his first two terms, Jay is dedicated to investing in infrastructure to create jobs across our state. He led the passage of the greenest transportation package in our state’s history to create an estimated 200,000 jobs. These smart investments in clean infrastructure will create long-lasting, future-proof jobs.
 
-Former Member, Congressional Nanotechnology Caucus, United States House of Representatives
+#### Justice and Safety
+Amid calls for justice over the deaths of Black people by police, Jay recognizes the need for reform. He established a new task force with community leaders committed to providing recommendations for completely independent, thorough, and fair investigations and prosecutions into police use of deadly force. Jay wants to rethink public safety and eradicate systemic racism not just in law enforcement, but in education, healthcare, housing, and other areas of inequality. 
 
-Former Member, Congressional Pro-Choice Caucus,United States House of Representatives
+Jay has committed his administration to making our criminal justice system more equitable. He issued a moratorium on the death penalty because equal justice was not being served. He has offered pardons to individuals with misdemeanor marijuana convictions and is working to diversify the cannabis industry to heal the harm of prohibition on specific communities. Working with community groups, law enforcement, and a bipartisan group of legislators, Jay helped pass bipartisan de-escalation and deadly force standards to ensure there is accountability for police violence.
 
-Former Member, Democratic Homeland Security Task Force
+Jay knows that survivors of rape and sexual assault deserve justice and he is working to eliminate Washington’s rape kit backlog. 
 
-Former Member, Medicare and Medicaid Fairness Caucus, United States House of Representatives
+He has fought to stop the scourge of gun violence, banning dangerous mass-killing tools like bump stocks, made sure guns are kept out of the hands of high-risk individuals, and supported the passage of voter-approved universal background checks.
 
-Former Member, Oceans Caucus, United States House of Representatives
 
-Former Member, Renewable Energy and Energy Efficiency Caucus, United States House of Representatives
-
-Former Co-Char, Sustainable Energy and Environment Coalition, United States House of Representatives
-
-#### Professional Experience
-Former Prosecuting Attorney, Selah, Washington
-
-Regional Director, Region X, United States Department of Health and Human Services, 1997-1998
-
-Attorney, Gordon, Thomas, Honeywell, Malanca, Peterson and Daheim, 1995-1996
-
-Spokesperson, No Referendum 48 Campaign, Washington State, 1995
-
-Attorney, Peters, Fowler and Inslee, 1976-1992
-
-#### Religious, Civic, and other Memberships
-Charter Member, Hoopaholics
-
-Former Member, New Democrat Coalition
-
-Basketball Coach, Bainbridge Island Parks Department, 1996-1997
-
-Volunteer, Bainbridge Island School Bond Initiative, 1996-1997
-
-Member, Washington Conservation Voters Board of Directors, 1996-1997
-
-Member, New Valley Osteopathic Hospital Board of Directors, 1984-1988

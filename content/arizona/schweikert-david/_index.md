@@ -24,7 +24,7 @@ emailaddress:	https://schweikert.house.gov/contact
 website:	https://schweikert.house.gov/
 committeeassignment: Ways and Means
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepDavid
 powrid: 
 ---

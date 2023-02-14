@@ -24,7 +24,7 @@ emailaddress:	https://sempolinski.house.gov/address_authentication?form=/contact
 website:	https://sempolinski.house.gov/
 committeeassignment: Homeland Security
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepSempolinski
 ---
 

@@ -24,7 +24,7 @@ emailaddress:	https://rice.house.gov/contact
 website:	https://rice.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepTomRice
 powrid: 
 ---

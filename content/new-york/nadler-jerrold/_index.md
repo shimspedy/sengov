@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2022-11-22T11:54:12-05:00
 title: "Jerrold Nadler"
 seo_title: "contact Representative Jerrold Nadler"
 subheader:
@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Jerrold Nadler
 state:	New York
-district: 3rd
+district: 12rd
 party:	Democratic
 officeroom:	2132 RHOB
 phonenumber:	(202) 225-5635

@@ -24,7 +24,7 @@ emailaddress:	https://keller.house.gov/contact
 website:	https://keller.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepFredKeller
 powrid: 
 ---

@@ -24,7 +24,7 @@ emailaddress:	https://mullin.house.gov/contact/
 website:	https://mullin.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepMullin
 powrid: 
 ---

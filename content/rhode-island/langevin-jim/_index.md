@@ -24,7 +24,7 @@ emailaddress:	https://langevin.house.gov/contact-me
 website:	https://langevin.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: JimLangevin
 powrid: 
 ---

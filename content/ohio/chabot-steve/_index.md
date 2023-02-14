@@ -24,7 +24,7 @@ emailaddress:	https://chabot.house.gov/contact/
 website:	https://chabot.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepSteveChabot
 powrid: 
 ---

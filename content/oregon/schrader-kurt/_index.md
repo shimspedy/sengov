@@ -24,7 +24,7 @@ emailaddress:	https://schrader.house.gov/contact/
 website:	https://schrader.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepSchrader
 powrid: 
 ---

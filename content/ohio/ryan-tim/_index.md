@@ -24,7 +24,7 @@ emailaddress:	https://timryan.house.gov/contact
 website:	https://timryan.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepTimRyan
 powrid: 
 ---

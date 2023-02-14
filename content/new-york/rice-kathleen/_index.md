@@ -24,7 +24,7 @@ emailaddress:	https://kathleenrice.house.gov/contact/
 website:	https://kathleenrice.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepKathleenRice
 powrid: 
 ---

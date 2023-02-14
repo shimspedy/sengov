@@ -24,7 +24,7 @@ emailaddress:	https://maloney.house.gov/contact-carolyn
 website:	https://maloney.house.gov/
 committeeassignment: Oversight and Reform
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepMaloney
 powrid: 
 ---

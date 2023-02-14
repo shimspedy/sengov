@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2022-11-22T11:48:55-05:00
 title: "Brian Kemp"
 seo_title: "contact Governor Brian Kemp "
 subheader:
      greeting: contact Governor Brian Kemp 
-     description: On November 6, 2018, Governor Brian Kemp was elected as Georgia’s 83rd Governor. Governor Kemp built his first business – Kemp Development and Construction Company – with a pick-up truck and a shovel. Over thirty years later, he is a successful entrepreneur with businesses and investments in banking, farming, timber, manufacturing, and real estate. Kemp served on the Board of Suncrest Stone in Tifton as a Founding Director of First Madison Bank and St. Mary’s Hospital Board in Athens.
+     description: Brian Kemp started his first business with a pickup truck and a shovel more than 35 years ago. 
 description: Contact Governor Brian Kemp of Georgia. Contact information for Brian Kemp includes his email address, phone number, and mailing address.
 author: contact governors
 image: brian-kemp.jpg
@@ -38,24 +38,51 @@ website:	https://gov.georgia.gov/
 powrid: 43b470de_1609210882
 twitter: BrianKempGA
 ---
-Brian P. Kemp is a husband, father, businessman, and public servant. On November 6, 2018, he was elected as Georgia’s 83rd Governor, earning more votes than any gubernatorial candidate in state history.
+#### About Governor Kemp 
+On November 8, 2022, Governor Brian P. Kemp was re-elected to serve a second term as Georgia's 83rd governor. Governor Kemp ran on a record of success in the Peach State and a plan to help Georgia families fight through 40-year-high inflation, strengthen public safety, and ensure Georgia's children can overcome learning loss due to the pandemic and succeed in the classroom. 
 
-Governor Kemp built his first business – Kemp Development and Construction Company – with a pick-up truck and a shovel. Over thirty years later, he is a successful entrepreneur with companies and investments in banking, farming, timber, manufacturing, and real estate.
+On November 8, 2022, Governor Brian P. Kemp was re-elected to serve a second term as Georgia's 83rd governor. Governor Kemp ran on a record of success in the Peach State and a plan to help Georgia families fight through 40-year-high inflation, strengthen public safety, and ensure Georgia's children can overcome learning loss due to the pandemic and succeed in the classroom. 
 
-Brian Kemp ran for Governor on a bold, conservative plan to spur economic growth, reform state government, strengthen rural communities, lower healthcare costs, and protect Georgia families from violence. Since his inauguration on January 14, 2019, he’s worked tirelessly to turn those campaign promises into reality and build a safer, stronger Georgia for all who call the Peach State home.
+A native of Athens, Georgia, Brian Kemp started his first small business over 35 years ago with a pickup truck and a shovel. His experience as a small business owner has drive his mission to put hardworking Georgians first since taking office as Georgia's governor, and his leadership yielded historic results.
 
-Under Governor Kemp, Georgia has remained the top state for business and led the nation in economic recovery as our state emerges from a global pandemic. Because Kemp prioritized both the lives and livelihoods of hardworking Georgians and kept the Peach State open, unemployment rates are at all-time lows, job creation and investment numbers are through the roof, and businesses of all sizes are thriving.
+Throughout Governor Kemp's first term, Georgia has consistently broken economic records with jobs and investment coming to every corner of the state in communities large and small. Thanks to his decision to reopen first during the COVID-19 pandemic, Georgia's unemployment rate is at its lowest point in state history, there are more Georgians working than ever before, and Georgia has been named the Top State for Business for an unprecedented nine consecutive years. 
 
-The Governor, alongside First Lady Marty Kemp, their daughters, and the GRACE Commission, proposed bipartisan legislation to combat human trafficking, while also cracking down on gangs and violent crime across our state.
+Governor Kemp has also championed legislation to crack down on violent crimes and street gangs, end human trafficking and support the victims of that evil industry, enact historic tax cuts for working families, give teachers a historic pay raise, and ensure Georgia's K-12 education system puts parents and students at the forefront.
 
-Kemp championed the largest teacher pay raise in state history, invested record funds in our schools, and strongly supported legislation to keep partisan politics out of the classroom and off the ball field. 
+Governor Kemp, First Lady Marty Kemp, and their three daughters live on their family farm in Athens and are committed to building a safer, stronger Georgia for all who call the Peach State "home."
 
-Like he promised on the campaign trail, Governor Kemp also signed the strongest pro-life bill in the country, pushed reforms to our adoption and foster care systems, and led the effort to strengthen law-abiding Georgians’ constitutional right to defend themselves and their families.
+#### GET TO KNOW
+Brian Kemp started his first business with a pickup truck and a shovel more than 35 years ago. Since taking office as Georgia’s governor in 2019, he has fought tirelessly to put Georgians and their families first.
 
-And when the woke mob came after our state, Governor Kemp stood up and signed the top-rated election integrity legislation in the country to restore voter confidence at the ballot box. 
+Throughout his first term, Governor Kemp has championed legislation to crack down on crime, bring an end to human trafficking, reform foster care and adoption, cut taxes for working families, support students and educators, and secure Georgia’s elections.
 
-Brian Kemp is running for re-election to continue putting hardworking Georgians first, and ensure Georgia remains the best state to live, work, and raise a family. 
+As the first state in the country to reopen during the COVID-19 pandemic, Kemp ensured that Georgia protected both lives and livelihoods against the impacts of the virus, and the state has seen historic economic success as a result of that decision. The Kemp Administration continues to lead the way to strengthen Georgia’s business-friendly environment and create opportunities in every corner of the state.
 
-Brian is married to the former Marty Argo of Athens. They are the proud parents of three daughters – Jarrett, Lucy, and Amy Porter – and members of Emmanuel Episcopal Church. 
+Governor Kemp, First Lady Marty Kemp, and their three daughters are proud natives of Athens, Georgia, and remain committed to ensuring Georgia’s best days are ahead.
 
+#### Make Georgia #1 for Small Business
 
+- Cut obsolete, unnecessarily burdensome, and bureaucratic hurdles for small business
+- Maintain Georgia’s competitive tax environment
+- Develop a skilled workforce to meet current and future needs across the industry spectrum
+- Expand Georgia’s role as a world-renowned hub for global commerce
+- Ensure taxpayers can easily navigate and find necessary information through government interfaces
+#### Reform State Government
+
+- Maintain Georgia’s AAA bond rating
+- Maximize taxpayer value with conservative budgeting
+- Expand public-private partnerships and leverage technology to best utilize limited state resources
+- Improve agency call centers and similar constituent services to be courteous and helpful
+#### Strengthen Rural Georgia
+
+- Increase rural broadband access for economic growth, educational opportunity, and healthcare access
+- Deploy regional strike teams to areas with economic challenges or lessening populations to collaborate with local leaders and seek opportunities for growth
+- Address Georgia’s teacher shortage by removing barriers to professional entry and increasing pay
+- Dismantle Common Core and reduce high-stakes testing for a more student-centric approach to learning
+- Improve literacy rates for students in third through twelfth grades
+#### Put Georgians First
+
+- Crack down on gang activity and human trafficking affecting every community across Georgia
+- Lower costs, improve quality, and increase access to quality healthcare in every region
+- Continue efforts to keep students, teachers, and personnel safe on campus
+- Expand access to mental health resources in schools for children and young adults

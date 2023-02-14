@@ -261,3 +261,38 @@ In the 117th Congress, I am supporting Social Security by:
 - Cosponsoring legislation to repeal the Windfall Elimination Provision (WEP) and Government Pension Offset (GPO) to make sure that people get the full amount due to them,
 
 I will continue to advocate for the future of Social Security, ensuring that this vital program continues to be there to support all Americans.
+
+## TELECOMMUNICATIONS AND THE INTERNET
+As the Chairman of the Subcommittee on Communications and Technology, I am very active on issues involving Internet, radio, television, cable, and other telecommunications-related topics. Throughout my time in Congress, I have been especially interested in ensuring that federal policies in this sector truly promote competition and innovation in telecommunications services – and that those polices provide the greatest possible benefit to consumers through newer and better services and lower prices.
+
+I am pleased that my legislation to provide consumers with the resources they need to avoid robocalls was included in S. 151, the TRACED Act, which was signed into law on December 30, 2019.
+
+As I continue to advocate for consumer protections in the 117th Congress, I am calling for changes to our telecommunication policy such as:
+
+- Restoring Net Neutrality by passing my bill, the Save the Internet Act, which would prevent Internet Service Providers (ISPs) from blocking, throttling, or charging more for internet access,
+- Providing consumers with the resources they need to avoid robocalls by passing my bill, the Stopping Bad Robocalls Act,
+- Promoting more efficient sharing of the radio-magnetic spectrum assigned for federal use by passing my bill, the Studying How to Harness Airwave Resources Efficiently (SHARE) Act.
+- Detecting cybersecurity supply chain vulnerabilities by passing my bill, the Network Security Information Sharing Act,
+- Promoting the deployment of broadband for consumers and businesses in rural, suburban, and urban areas,
+- Protecting consumer privacy online.
+
+I am deeply committed to maintaining the Internet as an open platform for competition and innovation. I will continue to lead on these issues.
+
+## VETERANS
+We can never adequately express our gratitude to our nation’s veterans, but the least we can do is fulfill the commitments we made to them to provide health care and other services they need – and which they earned with their sacrifices for our country. 
+
+Just as it is the duty of every member of our armed forces to protect the freedoms and ideals of our country, it is our duty to uphold the promises that we made to our veterans.
+
+I learned first-hand about veterans and their post-service needs from my father – who came back from World War II with a 100 percent service-connected disability. Consequently, since I was elected to Congress, I have worked to do right by our nation’s veterans.
+
+In the 117th Congress, I am working to support our veterans by:
+
+- Strengthening the Department of Veterans Affairs (VA) to provide prompt and effective health care services to all our veterans at its facilities, through telehealth, and in local communities;
+- Ensuring that veterans with service-connected injuries receive their full benefits by supporting legislation to change current law which prevents veterans from receiving their full disability pay and retirement pay at the same time;
+- Increasing job opportunities for veterans with on-the-job training;
+- Providing incentives for small businesses to hire unemployed veterans;
+- ensuring fairness for veteran-owned small businesses in federal contracts;
+- Expanding relief, homeownership opportunities, and refinancing options for veterans;
+- Providing overdue disability benefits to more than 150,000 veterans and survivors for exposure to Agent Orange and other harmful herbicides.
+
+Brave men and women have placed themselves in the face of danger to protect our freedoms and liberties. I believe our government must ensure our veterans have access to the healthcare, disability, housing, and other services they deserve.

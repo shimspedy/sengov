@@ -24,7 +24,7 @@ emailaddress:	https://lamb.house.gov/contact/offices
 website:	https://lamb.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepConorLamb
 powrid: 
 ---

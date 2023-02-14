@@ -24,7 +24,7 @@ emailaddress:	https://zeldin.house.gov/zip-code-lookup?form=/contact/email-me
 website:	https://zeldin.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepLeeZeldin
 powrid: 
 ---
