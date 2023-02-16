@@ -9,7 +9,7 @@ video:
 url:
 weight: 0
 type: "page"
-layout: csenate
+layout: senate
 
 ---
 
