@@ -1,18 +1,6 @@
 {{ define "main" }}
 <div class="row" itemscope itemtype="https://schema.org/Person">
     <div class="col xl9 l9 m12 s12">
-        <div class="adsgoogle">
-
-            <script async
-                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-                crossorigin="anonymous"></script>
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-                data-ad-slot="5256849542" data-ad-format="auto"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-        </div>
-        <br />
 
         <div class="md-drag md-table-wrapper" style="max-width: 100%;">
 
@@ -343,7 +331,10 @@
 
     <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
         <div id="nav-side-ad">
-            {{- partial "ads/sidebar" . -}}
+          {{- partial "ads/sidebar" . -}}
+          {{- partial "ads/sponsor" . -}}
+          {{- partial "ads/sidebar" . -}}
+          {{- partial "social-icons/vertical" . -}}
           </div>
     </aside>
 </div>
