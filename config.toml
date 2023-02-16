@@ -60,12 +60,12 @@ readingTime = true
     [Languages.en.menu]
     
       [[Languages.en.menu.main]]
-        weight = 9
-        name = "donate"
-        url = "/donate"
+        weight = 5
+        name = "senate"
+        url = "/csenate"
         
       [[Languages.en.menu.main]]
-        weight = 4
+        weight = 9
         name = "contact"
         url = "/contact"
         
