@@ -4,7 +4,7 @@
       <img src="{{ . }}" alt="author avatar" width="300px" height="160px">
       {{ end }}
       <address class="p-author author h-card vcard">
-        <a href="https://chandra.example.com/" class="u-url url p-name fn" rel="author">{{ .Params.name }}</a>
+        <a href="{{ .RelPermalink }}" class="u-url url p-name fn" rel="author">{{ .Params.name }}</a>
       </address>
     </h2>
     <p>{{ .Content | truncate 100 }}</p>
