@@ -35,10 +35,11 @@
 
 
         {{ partial "head" . }}
+        {{ partial "js" . }}
         {{ partial "google-analytics" . }}
     </head>
     <body>
-        <header>{{ partial "header" . }}</header>
+       
         <!-- PERCENT LOADER START-->
     	<div id="mainLoader"><img src="assets/loader.png" /><br><span>0</span></div>
         <!-- PERCENT LOADER END-->
@@ -71,6 +72,14 @@
             
         </div>
         <!-- CONTENT END-->
+
+
+
+
+
+
+        {{ partial "floatbtn" . }}
+
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery.min.js"><\/script>')</script>
