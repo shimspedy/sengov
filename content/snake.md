@@ -6,7 +6,7 @@ description: snake
 author: sengov
 image:
 video:
-url:
+url: games/snake
 weight: 0
 type: "games"
 layout: snake
