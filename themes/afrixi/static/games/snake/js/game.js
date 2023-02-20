@@ -437,8 +437,6 @@ function goPage(page){
 		case 'game':
 			targetContainer = gameContainer;
 			startGame();
-			//show ad before game start, replace this with startGame() function;
-			toggleGameAds('play', "startGame");
 		break;
 		
 		case 'result':
@@ -470,8 +468,6 @@ function goPage(page){
 			}
 
 			saveGame(playerData.win);
-			//show ad at the result page
-			toggleGameAds('play');
 
 		break;
 	}
