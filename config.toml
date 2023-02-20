@@ -61,8 +61,8 @@ readingTime = true
     
       [[Languages.en.menu.main]]
         weight = 5
-        name = "senate"
-        url = "/senate"
+        name = "games"
+        url = "/games"
         
       [[Languages.en.menu.main]]
         weight = 9
