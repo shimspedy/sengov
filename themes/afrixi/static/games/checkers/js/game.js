@@ -58,7 +58,7 @@ var textDisplay = {
 					vs:'VS',
 					player1:'PLAYER 1',
 					player2:'PLAYER 2',
-					computer:'COMPUTER',
+					computer:'SENGOV',
 					userTurn:'YOUR TURN',
 					playerTurn:'[NAME] TURN',
 					computerTurn:'THINKING...',
