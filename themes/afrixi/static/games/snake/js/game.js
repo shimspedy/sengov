@@ -397,8 +397,6 @@ function goPage(page){
 		case 'main':
 			targetContainer = mainContainer;
 			toggleMainButton('start');
-			//show ad at the landing page
-			toggleGameAds('play');
 		break;
 
 		case 'name':
