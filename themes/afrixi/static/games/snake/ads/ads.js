@@ -90,10 +90,11 @@ function resizeAds(){
 function initAds(){
 	//ad close button
 	$('#adTakeoverClose').off().on('click', function(e) {
-		toggleGameAds('stop');
+		 toggleGameAds('stop');
+		// toggleGameAds('play');
 	});	
 	
 	//place your ad events
-
+	
 	
 }
