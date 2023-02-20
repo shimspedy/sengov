@@ -4,7 +4,7 @@ title: "connect four"
 seo_title: "connect four"
 description: connect four
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/connect
 weight: 0

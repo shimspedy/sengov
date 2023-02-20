@@ -4,7 +4,7 @@ title: "Tic Tac"
 seo_title: "Tic Tac"
 description: Tic Tac
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/tictac
 weight: 0

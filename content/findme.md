@@ -4,7 +4,7 @@ title: "find me"
 seo_title: "find me"
 description: find me
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/findme
 weight: 0

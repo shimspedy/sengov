@@ -4,7 +4,7 @@ title: "checkers"
 seo_title: "checkers"
 description: checkers
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/checkers
 weight: 0

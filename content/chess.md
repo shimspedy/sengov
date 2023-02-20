@@ -4,7 +4,7 @@ title: "chess"
 seo_title: "chess"
 description: chess
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/chess
 weight: 0

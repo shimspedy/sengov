@@ -4,7 +4,7 @@ title: "reversi"
 seo_title: "reversi"
 description: reversi
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/reversi
 weight: 0

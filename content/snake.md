@@ -4,7 +4,7 @@ title: "snake"
 seo_title: "snake"
 description: snake
 author: sengov
-image:
+image: share.jpg
 video:
 url: games/snake
 weight: 0
