@@ -79,7 +79,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Play Reversi is [SCORE] tiles';//social share score title
-var shareMessage = '[SCORE] tiles is mine new highscore on Play Reversi game! Try it now!'; //social share score message
+var shareMessage = '[SCORE] tiles is my new highscore on Play Reversi game! Try it now!'; //social share score message
 
 /*!
  *

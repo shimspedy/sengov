@@ -80,7 +80,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Connect Four is [SCORE]pts';//social share score title
-var shareMessage = '[SCORE]pts is mine new highscore on Connect Four game! Try it now!'; //social share score message
+var shareMessage = '[SCORE]pts is my new highscore on Connect Four game! Try it now!'; //social share score message
 
 /*!
  *

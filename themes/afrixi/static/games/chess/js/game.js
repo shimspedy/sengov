@@ -184,7 +184,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Chess is [SCORE]PTS';//social share score title
-var shareMessage = '[SCORE]PTS is mine new highscore on Chess game! Try it now!'; //social share score message
+var shareMessage = '[SCORE]PTS is my new highscore on Chess game! Try it now!'; //social share score message
 
 /*!
  *

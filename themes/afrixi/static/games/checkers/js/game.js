@@ -79,7 +79,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Plaay Checkers is [SCORE]';//social share score title
-var shareMessage = '[SCORE] is mine new highscore on Play Checkers game! Try it now!'; //social share score message
+var shareMessage = '[SCORE] is my new highscore on Play Checkers game! Try it now!'; //social share score message
 
 /*!
  *
