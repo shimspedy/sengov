@@ -142,3 +142,9 @@ function isEven(value) {
 	else
 		return false;
 }
+
+function getDirection(x1, y1, x2, y2) {
+    var radiance = 180/Math.PI;
+    var rotation = -(Math.atan2(x2-x1, y2-y1))*radiance;
+    return Math.round(rotation+180);
+}

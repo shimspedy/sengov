@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////
-// GAME v1.1
+// GAME v1.2
 ////////////////////////////////////////////////////////////
 
 /*!
@@ -14,6 +14,10 @@ var player_arr = [
 	{src:"assets/focusplayer1.png", regX:30, regY:95},
 	{src:"assets/focusplayer2.png", regX:30, regY:95},
 	{src:"assets/focusplayer3.png", regX:30, regY:95},
+	{src:"assets/focusplayer4.png", regX:30, regY:95},
+	{src:"assets/focusplayer5.png", regX:30, regY:95},
+	{src:"assets/focusplayer6.png", regX:30, regY:95},
+	{src:"assets/focusplayer7.png", regX:30, regY:95},
 ]
 
 //crowd player
@@ -168,7 +172,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Find Me is [SCORE]PTS';//social share score title
-var shareMessage = '[SCORE]PTS is my new highscore on Find Me Game game! Try it now!'; //social share score message
+var shareMessage = '[SCORE]PTS is mine new highscore on Find Me Game game! Try it now!'; //social share score message
 
 /*!
  *
@@ -616,7 +620,6 @@ function showMultiPlayers(){
 
 	for(var n=0; n<gameData.totalPlayers; n++){
 		var newPlayer = getSpriteSheet("player", n);
-		newPlayer.gotoAndPlay("stand");
 		playersContainer.addChild(newPlayer);
 
 		newPlayer.x = pos.x;
@@ -624,6 +627,7 @@ function showMultiPlayers(){
 		newPlayer.data = pos;
 		newPlayer.frame = "";
 		newPlayer.focus = true;
+		getPlayerFrame(newPlayer, "stand");
 		
 		if(isEven(n)){
 			newPlayer.y -= 50;
@@ -695,7 +699,6 @@ function buildStage(){
 
 	for(var n=0; n<gameData.stage.total; n++){
 		var newPlayer = getSpriteSheet("player", n);
-		newPlayer.gotoAndPlay("stand");
 		playersContainer.addChild(newPlayer);
 
 		var pos = getPlayerPos();
@@ -707,6 +710,7 @@ function buildStage(){
 		newPlayer.focus = false;
 		newPlayer.moveX = pos.x;
 		newPlayer.moveY = pos.y;
+		getPlayerFrame(newPlayer, "stand");
 
 		var movePlayer = false;
 		if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
@@ -903,7 +907,7 @@ function checkFocusPlayer(player){
 		if(socketData.gameIndex == gameData.multi.round && !gameData.complete && curPage == "game"){
 			if(player.index != socketData.gameIndex && player.focus){
 				player.focus = false;
-				player.gotoAndPlay("wave");
+				getPlayerFrame(player, "wave");
 				$.players[player.index].visible = true;
 				postSocketUpdate('caughtplayer', player.index);
 			}
@@ -950,19 +954,19 @@ function allPlayersPointToPlayer(){
 			}
 
 			if(isFocusPlayer){
-				thisPlayer.gotoAndPlay("wave");
+				getPlayerFrame(thisPlayer, "wave");
 				animateBounce(thisPlayer);
 				focusPlayer.push(thisPlayer);
 				$.players[n].visible = true;
 			}else{
-				thisPlayer.gotoAndPlay("stand");
+				getPlayerFrame(thisPlayer, "stand");
 
 				var randomFocusPlayer = Math.floor(Math.random() * focusPlayer.length);
 				pointToPlayer(thisPlayer, focusPlayer[randomFocusPlayer]);
 			}
 		}else{
 			if(n != 0){
-				thisPlayer.gotoAndPlay("stand");
+				getPlayerFrame(thisPlayer, "stand");
 				var checkDistance = getDistance(focusPlayer[0].x, focusPlayer[0].y, thisPlayer.x, thisPlayer.y)
 				if(checkDistance <= 150){
 					moveAwayPlayer(thisPlayer, focusPlayer[0], false);
@@ -970,7 +974,7 @@ function allPlayersPointToPlayer(){
 					pointToPlayer(thisPlayer, focusPlayer[0]);
 				}
 			}else{
-				thisPlayer.gotoAndPlay("wave");
+				getPlayerFrame(thisPlayer, "wave");
 				animateBounce(thisPlayer);
 				focusPlayer.push(thisPlayer);
 			}
@@ -983,12 +987,26 @@ function pointToPlayer(player, focusPlayer){
 		return;
 	}
 
+	var direction = getDirection(player.x, player.y, focusPlayer.x, focusPlayer.y);
+	
 	var tweenSpeed = randomIntFromInterval(1,8) * 0.1;
 	TweenMax.to(player, tweenSpeed, {onComplete:function(){
 		if(player.x < focusPlayer.x){
-			player.gotoAndPlay("pointright");
+			if(direction < 45 ){
+				player.gotoAndPlay("pointrightup");
+			}else if(direction > 94 ){
+				player.gotoAndPlay("pointrightdown");
+			}else{
+				player.gotoAndPlay("pointright");
+			}
 		}else{
-			player.gotoAndPlay("pointleft");
+			if(direction >315 ){
+				player.gotoAndPlay("pointleftup");
+			}else if(direction < 225 ){
+				player.gotoAndPlay("pointleftdown");
+			}else{
+				player.gotoAndPlay("pointleft");
+			}
 		}
 	}});
 }
@@ -1011,7 +1029,7 @@ function getSpriteSheet(type, index){
 	var _frameH = 100;
 	var _regX = _frameW/2;
 	var _regY = _frameH/2;
-	var _count = 24;
+	var _count = 44;
 	var _animations = {};
 	var _source = "";
 	var _frame = "";
@@ -1049,14 +1067,22 @@ function getSpriteSheet(type, index){
 			_source = 'player'+randomPlayer;
 		}
 		_animations = {
-			stand:{frames: [0], speed:_speed},
-			pointright:{frames: [1,2,3], speed:_speed, next:"pointrightstill"},
-			pointrightstill:{frames: [3,3,3,4], speed:_speed},
+			stand:{frames: [10], speed:_speed},
+			runleft:{frames: [0,1,2,3,4,3,2,1], speed:_speed},
 			runright:{frames: [5,6,7,8,9,8,7,6], speed:_speed},
 			pointleft:{frames: [11,12,13], speed:_speed, next:"pointleftstill"},
 			pointleftstill:{frames: [13,13,13,14], speed:_speed,},
-			runleft:{frames: [15,16,17,18,19,18,17,16], speed:_speed},
-			wave:{frames: [20,21,22,23,22,21], speed:_speed},
+			pointleftup:{frames: [21,22,23], speed:_speed, next:"pointleftupstill"},
+			pointleftupstill:{frames: [23,23,23,24], speed:_speed,},
+			pointleftdown:{frames: [31,32,33], speed:_speed, next:"pointleftdownstill"},
+			pointleftdownstill:{frames: [33,33,33,34], speed:_speed,},
+			pointright:{frames: [16,17,18], speed:_speed, next:"pointrightstill"},
+			pointrightstill:{frames: [18,18,18,19], speed:_speed},
+			pointrightup:{frames: [26,27,28], speed:_speed, next:"pointrightupstill"},
+			pointrightupstill:{frames: [28,28,28,29], speed:_speed},
+			pointrightdown:{frames: [36,37,38], speed:_speed, next:"pointrightdownstill"},
+			pointrightdownstill:{frames: [38,38,38,39], speed:_speed},
+			wave:{frames: [40,41,42,43,42,41], speed:_speed},
 		};
 		_frame = "stand";
 	}
@@ -1219,7 +1245,13 @@ function loopPlayerAnimation(){
 		for(var n=0; n<gameData.players.length; n++){
 			var thisPlayer = gameData.players[n];
 
-			//if(!gameData.complete){
+
+			var updateFrame = true;
+			if(gameData.complete && thisPlayer == focusPlayer){
+				updateFrame = false;
+			}
+
+			if(updateFrame){
 				if(thisPlayer.x == thisPlayer.data.x && thisPlayer.y == thisPlayer.data.y){
 					getPlayerFrame(thisPlayer, "stand");
 				}else{
@@ -1229,10 +1261,10 @@ function loopPlayerAnimation(){
 					}
 					getPlayerFrame(thisPlayer, "run"+direction);
 				}
-		
-				thisPlayer.data.x = thisPlayer.x;
-				thisPlayer.data.y = thisPlayer.y;
-			//}
+			}
+	
+			thisPlayer.data.x = thisPlayer.x;
+			thisPlayer.data.y = thisPlayer.y;
 			
 			//shadow
 			var thisShadow = gameData.shadow[n];
