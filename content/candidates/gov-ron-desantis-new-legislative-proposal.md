@@ -10,7 +10,7 @@ categories:
   - florida
 tags:
  - governors
-image: ron-desantis.png
+image: ron-desantis.jpeg
 video:
 url: 
 weight: 0
