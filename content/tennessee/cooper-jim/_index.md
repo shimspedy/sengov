@@ -24,7 +24,7 @@ emailaddress:	https://cooper.house.gov/contact
 website:	https://cooper.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: repjimcooper
 powrid: 
 ---
