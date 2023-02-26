@@ -24,7 +24,7 @@ emailaddress:	https://long.house.gov/contact/
 website:	https://long.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: USRepLong
 powrid: 
 ---

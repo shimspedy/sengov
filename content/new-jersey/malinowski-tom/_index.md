@@ -24,7 +24,7 @@ emailaddress:	https://malinowski.house.gov/contact
 website:	https://malinowski.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepMalinowski
 powrid: 
 ---

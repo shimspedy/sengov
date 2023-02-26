@@ -24,7 +24,7 @@ emailaddress:	https://sires.house.gov/contact
 website:	https://sires.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepSires
 powrid: 
 ---

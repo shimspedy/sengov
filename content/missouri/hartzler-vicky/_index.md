@@ -24,7 +24,7 @@ emailaddress:	https://hartzler.house.gov/contact-me
 website:	https://hartzler.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepHartzler
 powrid: 
 ---
