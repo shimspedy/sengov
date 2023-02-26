@@ -515,7 +515,9 @@ article h5::after,
 	}
 }
 
-
+.e-content img{
+     max-width: 100%;
+}
 
 
 .mpscomments{
