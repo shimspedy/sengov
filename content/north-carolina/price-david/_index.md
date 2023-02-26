@@ -24,7 +24,7 @@ emailaddress:	https://priceforms.house.gov/contact/
 website:	https://price.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepDavidEPrice
 powrid: 
 ---

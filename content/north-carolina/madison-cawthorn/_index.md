@@ -24,7 +24,7 @@ emailaddress:	https://cawthorn.house.gov/contact
 website:	https://cawthorn.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRichHudson
 powrid: 
 ---
