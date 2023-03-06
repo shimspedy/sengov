@@ -24,7 +24,7 @@ emailaddress:	https://kahele.house.gov/address_authentication?form=/contact
 website:	https://kahele.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: kaikahele
 powrid: 
 ---

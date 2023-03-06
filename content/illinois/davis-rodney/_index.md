@@ -24,7 +24,7 @@ emailaddress:	https://rodneydavis.house.gov/contact/
 website:	https://rodneydavis.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RodneyDavis
 ---
 

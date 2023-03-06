@@ -24,7 +24,7 @@ emailaddress:	https://mcbath.house.gov/email-me
 website:	https://mcbath.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepLucyMcBath
 powrid: 
 ---

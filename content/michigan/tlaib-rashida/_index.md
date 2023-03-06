@@ -24,7 +24,7 @@ emailaddress:	https://tlaib.house.gov/contact
 website:	https://tlaib.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRashida
 powrid: 
 ---

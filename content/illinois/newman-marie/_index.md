@@ -24,7 +24,7 @@ emailaddress:	https://newman.house.gov/address_authentication?form=/contact
 website:	https://newman.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: Marie4Congress
 powrid: 
 ---

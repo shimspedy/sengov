@@ -24,7 +24,7 @@ emailaddress:	https://yarmuth.house.gov/contact-john
 website:	https://yarmuth.house.gov/
 committeeassignment: Budget
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepJohnYarmuth
 powrid: 
 ---

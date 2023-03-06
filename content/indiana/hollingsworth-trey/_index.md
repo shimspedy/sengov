@@ -24,7 +24,7 @@ emailaddress:	https://hollingsworth.house.gov/contact/
 website:	https://hollingsworth.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepTrey
 powrid: 
 ---

@@ -24,7 +24,7 @@ emailaddress:	https://anthonybrown.house.gov/contact/
 website:	https://anthonybrown.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepAnthonyBrown
 powrid: 
 ---

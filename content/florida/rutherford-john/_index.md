@@ -24,7 +24,7 @@ emailaddress:	https://rutherford.house.gov/contact
 website:	https://rutherford.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepRutherfordFL
 powrid: 
 ---

@@ -24,7 +24,7 @@ emailaddress:	https://hice.house.gov/contact/
 website:	https://hice.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: CongressmanHice
 powrid: 
 ---

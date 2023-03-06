@@ -24,7 +24,7 @@ emailaddress:	https://bustos.house.gov/contact/
 website:	https://bustos.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepCheri
 powrid: 
 ---

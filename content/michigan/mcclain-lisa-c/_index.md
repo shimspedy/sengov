@@ -24,7 +24,7 @@ emailaddress:	https://mcclain.house.gov/address_authentication?form=/contact
 website:	https://mcclain.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: LisaForCongress
 powrid: 
 ---

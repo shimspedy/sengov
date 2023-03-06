@@ -24,7 +24,7 @@ emailaddress:	https://rush.house.gov/contact
 website:	https://rush.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepBobbyRush
 ---
 

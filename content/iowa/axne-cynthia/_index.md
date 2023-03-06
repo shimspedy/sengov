@@ -24,7 +24,7 @@ emailaddress:	https://axne.house.gov/contact
 website:	https://axne.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepCindyAxne
 powrid: 
 ---

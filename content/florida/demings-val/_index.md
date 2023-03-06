@@ -24,7 +24,7 @@ emailaddress:	https://demingsforms.house.gov/contact/
 website:	https://demings.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepValDemings
 powrid: 
 ---

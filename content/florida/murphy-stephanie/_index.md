@@ -24,7 +24,7 @@ emailaddress:	https://murphy.house.gov/contact/
 website:	https://murphy.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepStephMurphy
 powrid: 
 ---

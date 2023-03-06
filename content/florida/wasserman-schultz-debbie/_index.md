@@ -24,7 +24,7 @@ emailaddress:	https://wassermanschultz.house.gov/contact/
 website:	https://wassermanschultz.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepDWStweets
 powrid: 
 ---

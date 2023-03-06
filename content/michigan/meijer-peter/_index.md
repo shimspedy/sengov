@@ -24,7 +24,7 @@ emailaddress:	https://meijer.house.gov/address_authentication?form=/contact
 website:	https://meijer.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepMeijer
 powrid: 
 ---
