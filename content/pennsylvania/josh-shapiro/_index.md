@@ -14,7 +14,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name:	Josh Shapiro
+name:	Josh Shapiro 7
 state:	Pennsylvania
 birthstate: Pennsylvania
 party:	Democratic
