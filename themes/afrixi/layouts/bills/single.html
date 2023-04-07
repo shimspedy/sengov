@@ -51,15 +51,7 @@
       <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
         {{ partial "nav/table-of-contents" . }}
         <div class="e-content entry-content" id="manifestation">{{.Content}}</div>
-        <div class="mpscomments">
-          <script>
-            var idcomments_acct = 'f3b59ad84dd73ec9622fc32632161586';
-            var idcomments_post_id;
-            var idcomments_post_url;
-            </script>
-            <span id="IDCommentsPostTitle" style="display:none"></span>
-            <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
-          </div>
+        
         <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div>  -->
         
       </div>
