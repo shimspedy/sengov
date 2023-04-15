@@ -8,7 +8,7 @@ author: john shim
 url: /nebraska/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

@@ -8,6 +8,9 @@ author: john shim
 url: /west-virginia/
 flag: seal.png
 weight: 1
+state: "yes"
+
+
 
 stateweb: "https://www.wv.gov/Pages/default.aspx"
 govweb: "https://governor.wv.gov/Pages/default.aspx"

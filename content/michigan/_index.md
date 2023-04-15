@@ -8,7 +8,7 @@ author: john shim
 url: /michigan/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 stateweb: "https://www.michigan.gov/som"

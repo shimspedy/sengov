@@ -8,6 +8,7 @@ author: john shim
 url: /maryland/
 flag: seal.png
 weight: 1
+state: "yes"
 
 
 stateweb: "https://www.maryland.gov/Pages/default.aspx"

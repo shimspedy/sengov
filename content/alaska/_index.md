@@ -8,6 +8,7 @@ author: john
 url: /alaska/
 flag: seal.png
 weight: 1
+state: "yes"
 
 stateweb: "https://alaska.gov/"
 govweb: "https://gov.alaska.gov/"

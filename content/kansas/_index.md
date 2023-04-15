@@ -8,6 +8,7 @@ author: john shim
 url: /kansas/
 flag: seal.png
 weight: 1
+state: "yes"
 
 
 

@@ -7,7 +7,7 @@ description: Contact Virgin Islands Governor
 author: contact governors
 url: /virgin-islands/
 weight: 1
-
+state: "yes"
 
 
 

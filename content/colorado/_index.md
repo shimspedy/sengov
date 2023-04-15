@@ -8,7 +8,7 @@ author: cs
 url: /colorado/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

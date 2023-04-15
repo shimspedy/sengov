@@ -8,7 +8,7 @@ author: contact governors
 url: /guam/
 weight: 1
 flag: seal.png
-
+state: "yes"
 
 
 

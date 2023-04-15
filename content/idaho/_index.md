@@ -8,7 +8,7 @@ author: john shim
 url: /idaho/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 stateweb: "http://www.state.id.us/"

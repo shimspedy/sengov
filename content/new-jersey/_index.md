@@ -8,7 +8,7 @@ author: john shim
 url: /new-jersey/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 stateweb: "https://www.state.nj.us/"

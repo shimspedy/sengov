@@ -8,7 +8,7 @@ author: contact governors
 url: /northern-mariana-islands/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

@@ -8,6 +8,7 @@ author: john shim
 url: /wisconsin/
 flag: seal.png
 weight: 1
+state: "yes"
 
 
 stateweb: "https://wi.gov/"

@@ -8,7 +8,7 @@ author: john shim
 url: /missouri/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 stateweb: "https://www.mo.gov/"

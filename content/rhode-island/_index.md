@@ -8,7 +8,7 @@ author: john shim
 url: /rhode-island/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

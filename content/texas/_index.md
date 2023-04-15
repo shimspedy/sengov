@@ -8,7 +8,7 @@ author: john shim
 url: /texas/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

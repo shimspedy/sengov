@@ -8,6 +8,8 @@ author: john shim
 url: /whitehouse/
 flag: 
 weight: 1
+state: "yes"
+
 
 stateweb: ""
 govweb: ""

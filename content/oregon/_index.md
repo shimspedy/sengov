@@ -8,7 +8,7 @@ author: john shim
 url: /oregon/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

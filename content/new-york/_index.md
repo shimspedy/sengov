@@ -8,7 +8,7 @@ author: john shim
 url: /new-york/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

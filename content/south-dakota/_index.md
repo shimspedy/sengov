@@ -8,7 +8,7 @@ author: john shim
 url: /south-dakota/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 stateweb: "https://governor.sd.gov/"

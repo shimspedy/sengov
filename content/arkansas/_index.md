@@ -8,7 +8,7 @@ author: cs
 url: /arkansas/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 stateweb: "https://portal.arkansas.gov/"
 govweb: "https://governor.arkansas.gov/"

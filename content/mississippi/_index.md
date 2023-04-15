@@ -8,7 +8,7 @@ author: john shim
 url: /mississippi/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 

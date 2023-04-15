@@ -8,6 +8,7 @@ author: john shim
 url: /wyoming/
 flag: seal.png
 weight: 1
+state: "yes"
 
 
 stateweb: "https://wyoming.gov/"

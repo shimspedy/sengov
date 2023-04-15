@@ -8,6 +8,7 @@ author: cs
 flag: alabama.png
 url: /alabama/
 weight: 1
+state: "yes"
 
 
 stateweb: "https://www.alabama.gov/"

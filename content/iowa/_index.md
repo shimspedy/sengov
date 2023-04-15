@@ -8,6 +8,7 @@ author: john shim
 url: /iowa/
 flag: seal.png
 weight: 1
+state: "yes"
 
 
 stateweb: "https://www.iowa.gov/"

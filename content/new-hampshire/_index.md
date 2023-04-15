@@ -8,7 +8,7 @@ author: john shim
 url: /new-hampshire/
 flag: seal.png
 weight: 1
-
+state: "yes"
 
 
 
