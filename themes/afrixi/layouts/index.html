@@ -10,12 +10,17 @@
         {{ partial "listings/sengov" . }}
     </div>
 </div>
-<div class="center" style="margin: auto;">
+
+
+{{ partial "listings/homesen" . }}
+    
+
+<!-- <div class="center" style="margin: auto;">
     {{- partial "ads/sidebar" . -}}
             
     </div>
 {{ partial "listings/bills" . }}
-{{ partial "listings/parallax" . }}
+{{ partial "listings/parallax" . }} -->
 <script src="{{.Site.BaseURL}}js/map.js"></script>
 {{ end }}
 

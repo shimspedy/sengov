@@ -17,6 +17,10 @@
     border: 6px double #fff;
     padding: 1em;
 }
+#homesen{
+    border: 6px double #9e9e9e;
+
+}
 #governors h5 {
     font-family: System,monospace;
     font-size: 13pt;
