@@ -59,10 +59,10 @@ readingTime = true
 # navigation
     [Languages.en.menu]
     
-      [[Languages.en.menu.main]]
-        weight = 5
-        name = "games"
-        url = "/games"
+      # [[Languages.en.menu.main]]
+      #   weight = 5
+      #   name = "games"
+      #   url = "/games"
         
       [[Languages.en.menu.main]]
         weight = 9
