@@ -24,7 +24,7 @@ emailaddress:	https://bass.house.gov/contact
 website:	https://bass.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepKarenBass
 powrid: 
 ---

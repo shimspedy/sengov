@@ -24,7 +24,7 @@ emailaddress:	https://garamendi.house.gov/contact
 website:	https://garamendi.house.gov/
 committeeassignment: Armed Services, Transportation and Infrastructure
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepGaramendi
 powrid: 
 ---

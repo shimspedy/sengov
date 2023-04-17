@@ -24,7 +24,7 @@ emailaddress:	https://crow.house.gov/contact
 website:	https://crow.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepJasonCrow
 powrid: 
 ---

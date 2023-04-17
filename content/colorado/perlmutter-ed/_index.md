@@ -24,7 +24,7 @@ emailaddress:	https://perlmutter.house.gov/forms/writeyourrep/
 website:	https://perlmutter.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepPerlmutter
 powrid: 
 ---

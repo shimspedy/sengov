@@ -24,7 +24,7 @@ emailaddress:	https://lee.house.gov/contact
 website:	https://lee.house.gov/
 committeeassignment: Appropriations, Budget
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepBarbaraLee
 powrid: 
 ---

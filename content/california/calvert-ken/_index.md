@@ -24,7 +24,7 @@ emailaddress:	https://calvert.house.gov/contact
 website:	https://calvert.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: KenCalvert
 powrid: 
 ---

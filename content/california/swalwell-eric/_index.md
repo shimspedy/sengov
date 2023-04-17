@@ -24,7 +24,7 @@ emailaddress:	https://swalwell.house.gov/contact
 website:	https://swalwell.house.gov/
 committeeassignment: Intelligence, Judiciary
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepSwalwell
 powrid: 
 ---
