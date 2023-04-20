@@ -194,7 +194,7 @@
           This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}} {{.Params.Name}}'s </a> Website.
           Consider visiting your representative's official website for the latest updates.
         </div>
-
+        {{- partial "social-icons/vertical" . -}}
 
         {{ partial "nav/pagination.html" . }}
 
@@ -208,7 +208,7 @@
       {{- partial "ads/sidebar" . -}}  
       {{- partial "ads/sponsor" . -}}
       {{- partial "ads/sidebar-custom" . -}} 
-      {{- partial "social-icons/vertical" . -}}
+     
     </div>
   </aside>
 </div>
