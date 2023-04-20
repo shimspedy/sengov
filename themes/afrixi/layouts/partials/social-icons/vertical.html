@@ -1,5 +1,5 @@
 <h5>Share This Page</h5>
-<ul>
+<ul class="ssocial">
      <div class="row" style="text-align: center; font-size: 12px;">
           <li class="col xl4 l12" style="list-style: none;">{{ partial "social-icons/facebook" .}}</li>
           <li class="col xl4 l12" style="list-style: none;">{{ partial "social-icons/twitter" .}}</li>
@@ -11,3 +11,9 @@
 <li class="col xl4 l12"><a href='https://www.paypal.com/donate/?hosted_button_id=YYBFKHT4YR32S' class=" waves-effect waves-light btn-large red ">DONATE</a></li>
 </div>
 </ul> -->
+
+<style>
+     .ssocial ul li::before{
+          content: none;
+     }
+</style>
