@@ -64,3 +64,23 @@ In a ceremony at the White House, President Obama awarded Biden the Presidential
 After leaving the White House, the Bidens continued their efforts to expand opportunity for every American with the creation of the Biden Foundation, the Biden Cancer Initiative, the Penn Biden Center for Diplomacy and Global Engagement, and the Biden Institute at the University of Delaware.
 
 On April 25, 2019, Biden announced his candidacy for President of the United States. Biden’s candidacy was built from the beginning around 3 pillars: the battle for the soul of our nation, the need to rebuild our middle class — the backbone of our country, and a call for unity, to act as One America. It was a message that would only gain more resonance in 2020 as we confront a pandemic, an economic crisis, urgent calls for racial justice, and the existential threat of climate change.
+
+
+#### Climate
+President Biden will take swift action to tackle the climate crisis. To meet the demands of science, the President is mobilizing a whole-of-government effort to reduce climate pollution in every sector of the economy and increase resilience to climate impacts. The Biden Administration will create good-paying, union jobs to build a modern and sustainable infrastructure, deliver an equitable clean energy future, and put the United States on a path to achieve net-zero emissions, economy-wide, by no later than 2050.
+
+#### Racial Equity
+The promise of our nation is that every American has an equal chance to get ahead, yet persistent systemic racism and barriers to opportunity have denied this promise for so many. President Biden is putting equity at the center of the agenda with a whole of government approach to embed racial justice across Federal agencies, policies, and programs. And President Biden will take bold action to advance a comprehensive equity agenda to deliver criminal justice reform, end disparities in healthcare access and education, strengthen fair housing, and restore Federal respect for Tribal sovereignty, among other actions, so that everyone across America has the opportunity to fulfill their potential.
+
+#### Economy 
+President Biden will take bold steps to address the inequities in our economy and provide relief to those who are struggling during the COVID-19 pandemic. The President will also work with Congress to pass the American Rescue Plan to change the course of the pandemic, build a bridge towards economic recovery, and invest in racial justice. And, he will build our economy back better from the pandemic and create millions of jobs by strengthening small businesses and investing in the jobs of the future. 
+
+#### Health Care
+President Biden will make a renewed commitment to protect and expand Americans’ access to quality, affordable health care. He will build on the Affordable Care Act to meet the health care needs created by the pandemic, reduce health care costs, and make our health care system less complex to navigate.
+
+#### Immigration
+President Biden will reform our long-broken and chaotic immigration system. President Biden’s strategy is centered on the basic premise that our country is safer, stronger, and more prosperous with a fair and orderly immigration system that welcomes immigrants, keeps families together, and allows people across the country—both newly arrived immigrants and people who have lived here for generations—to more fully contribute to our country. 
+
+#### Restoring America’s Global Standing
+President Biden will take steps to restore America’s standing in the world, strengthening the U.S. national security workforce, rebuilding democratic alliances across the globe, championing America’s values and human rights, and equipping the American middle class to succeed in a global economy.
+
