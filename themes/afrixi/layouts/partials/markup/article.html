@@ -17,11 +17,11 @@
   "dateModified": "{{.Lastmod}}",
   "author": {
     "@type": "Person",
-    "name": "{{- if .Params.author -}}{{- .Params.author -}}{{- else -}}Contact US Governors{{- end -}}"
+    "name": "{{- if .Params.author -}}{{- .Params.author -}}{{- else -}}Contact US {{- .Params.Role -}}{{- end -}}"
   },
    "publisher": {
     "@type": "Organization",
-    "name": "Contact US Governors",
+    "name": "Contact US {{- .Params.Role -}}",
     "logo": {
       "@type": "ImageObject",
       "url": "{{- .Site.BaseURL -}}slogo.svg",
