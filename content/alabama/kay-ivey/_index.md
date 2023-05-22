@@ -42,7 +42,6 @@ twitter: kayiveyforgov
 
 #### About Governor Ivey
 
-Download Full Size Photo
 Growing up in the small town of Camden in Wilcox County, Alabama, and working on her father’s farm taught Kay Ivey to value hard work and living within one’s means. Her parents instilled values of faith, family, and community.
 
 After graduating from Auburn University in 1967, Kay worked as a high school teacher and a bank officer. She served as Reading Clerk of the Alabama House of Representatives under Speaker Joseph C. McCorquodale and was Assistant Director of the Alabama Development Office, where she worked to spur job creation and economic development across the state.
