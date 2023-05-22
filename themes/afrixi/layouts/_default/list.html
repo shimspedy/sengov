@@ -4,8 +4,8 @@
 {{ partial "articles/lesson" . }}
 {{else if and (.Layout) (eq .Layout "military")}}
 {{ partial "articles/military" . }}
-{{else if and (.Layout) (eq .Layout "vote")}}
-{{ partial "articles/voting" . }}
+{{else if and (.Layout) (eq .Layout "voting")}}
+{{ partial "articles/vote" . }}
 {{else}}
 
 {{ if and (not (in .Section "voting")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
