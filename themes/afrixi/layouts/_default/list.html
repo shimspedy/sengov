@@ -4,7 +4,7 @@
 {{ partial "articles/lesson" . }}
 {{else if and (.Layout) (eq .Layout "military")}}
 {{ partial "articles/military" . }}
-{{else if and (.Layout) (eq .Layout "military")}}
+{{else if and (.Layout) (eq .Layout "vote")}}
 {{ partial "articles/vote" . }}
 {{else}}
 
@@ -61,6 +61,5 @@
 </div>
 {{end}}
 
-{{ partial "listings/section" . }}
 {{end}}
 {{ end }}
