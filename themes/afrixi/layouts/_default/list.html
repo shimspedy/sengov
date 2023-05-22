@@ -8,7 +8,7 @@
 {{ partial "articles/vote" . }}
 {{else}}
 
-{{ if and (not (in .Section "exams")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
+{{ if and (not (in .Section "vote")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
 <div class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  ">
      <div class="row">
 
