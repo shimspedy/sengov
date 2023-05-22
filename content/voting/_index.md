@@ -1,5 +1,5 @@
 ---
-date: 2023-09-11T11:55:00-04:00
+date: 2023-05-11T11:55:00-04:00
 title: "Voting"
 seo_title: "the process of confirming your eligibility to register to vote"
 description: How to Vote is your guide to everything you need to know to register and vote in your state.

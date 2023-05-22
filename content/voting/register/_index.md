@@ -1,5 +1,5 @@
 ---
-date: 2023-09-11T11:55:00-04:00
+date: 2023-05-11T11:55:00-04:00
 title: " Voter Registration"
 seo_title: "A Complete Guide to Voter Registration"
 description: Discover if you meet the requirements to register to vote in your state.
