@@ -5,9 +5,8 @@ seo_title: "Your Ultimate Voting Guide"
 description: Discover if you meet the requirements to register to vote in your state.
 author: john shim
 url: /voting/vote/
-flag: 
 weight: 1
-
+layout: vote
 ---
 #### Democracy at Your Fingertips: Your Ultimate Voting Guide
 

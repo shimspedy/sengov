@@ -1,0 +1,39 @@
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+      {{ partial "nav/course-list" . }}
+    </aside>
+    <div class="col xl7 l7 m12 s12">
+  
+      <article class="white z-depth-1"
+        style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+  
+        <div itemscope itemtype="https://schema.org/Person" class="row">
+  
+        
+          {{ partial "subheader" . }}
+         
+  
+          <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+            style=" padding: 25px 20px 20px; border-radius: 6px; ">
+            {{ partial "nav/table-of-contents" . }}
+            <div class="e-content">
+            {{.Content}}
+            </div>
+          </div>
+          
+          {{ partial "nav/pagination.html" . }}
+  
+      </article>
+  
+  
+    </div>
+    <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+      <div id="nav-side-ad">
+  
+        {{- partial "ads/sidebar-custom" . -}}
+        {{- partial "ads/sponsor" . -}}
+        {{- partial "social-icons/vertical" . -}}
+      </div>
+    </aside>
+  </div>

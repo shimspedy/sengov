@@ -5,8 +5,8 @@ seo_title: "A Complete Guide to Voter Registration"
 description: Discover if you meet the requirements to register to vote in your state.
 author: john shim
 url: /voting/register
-flag: 
 weight: 1
+layout: vote
 
 ---
 
