@@ -6,7 +6,7 @@ description: Discover if you meet the requirements to register to vote in your s
 author: john shim
 url: /voting/register
 weight: 1
-layout: vote
+layout: voting
 
 ---
 
