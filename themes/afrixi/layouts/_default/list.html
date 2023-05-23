@@ -15,7 +15,8 @@
           <div class="col s12 m6 l3 h-entry">
                <div class="senator-image h-card">
 
-                    <img class="u-photo" src="{{.Site.BaseURL}}{{.Params.url}}{{.Params.flag}}" alt="{{.Title}}" style="    max-width: 300px;">
+                    <img class="u-photo" src="{{.Site.BaseURL}}{{.Params.url}}{{.Params.flag}}" alt="{{.Title}}"
+                         style="    max-width: 300px;">
                </div>
           </div>
 
@@ -29,24 +30,26 @@
                <table class="h-card">
                     <tbody>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td >Official Name:</td>
-                              <td class="p-name" itemprop="addressRegion"><a target="_blank" rel="noopener noreferrer" href="{{.Params.stateweb}}">{{.Params.Title}}</a></td>
+                              <td>Official Name:</td>
+                              <td class="p-name" itemprop="addressRegion"><a target="_blank" rel="noopener noreferrer"
+                                        href="{{.Params.stateweb}}">{{.Params.Title}}</a></td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td >Governor:</td>
+                              <td>Governor:</td>
                               <td class="p-role" itemprop="name"> {{.Params.gov}}</td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
                               <td>Contact:</td>
-                              <td class="p-region"><a target="_blank" rel="noopener noreferrer" href="{{.Params.govweb}}">Contact the governor</a>
+                              <td class="p-region"><a target="_blank" rel="noopener noreferrer"
+                                        href="{{.Params.govweb}}">Contact the governor</a>
                               </td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td >Main Address:</td>
+                              <td>Main Address:</td>
                               <td class="p-region" itemprop="address">{{.Params.Address}}</td>
                          </tr>
                          <tr itemscope="" itemtype="http://microformats.org/wiki/hCard">
-                              <td >Phone Number:</td>
+                              <td>Phone Number:</td>
                               <td class=" tel" itemprop="telephone">{{.Params.phonenumber}}</td>
                          </tr>
 
@@ -56,7 +59,7 @@
           </div>
      </div>
      <div class="h-entry">
-          {{.Content}} 
+          {{.Content}}
      </div>
 </div>
 {{end}}
@@ -64,12 +67,16 @@
 {{ if eq .Section "voting" }}
 
 <div class="h-entry">
-     {{.Content}} 
+     {{.Content}}
 </div>
 {{end}}
 
+{{ if and (not (in .Section "voting")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
+{{ partial "listings/section" . }}
+
 {{end}}
 
 
- 
+{{end}}
+
 {{ end }}
