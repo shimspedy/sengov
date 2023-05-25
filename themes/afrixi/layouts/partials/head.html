@@ -31,6 +31,9 @@
 <meta property="og:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
 {{- end -}}
+<link rel="canonical" href="{{ .Permalink }}" />
+
+
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
 <link  rel="stylesheet"  href="{{.Site.BaseURL}}css/style.css">
