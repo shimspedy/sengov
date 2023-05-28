@@ -18,6 +18,26 @@ layout: single
 keywords:
 - election
 ---
+#### Meet Ron DeSantis
+
+Ron DeSantis, a native Floridian with blue-collar roots, grew up in Dunedin under the care of his nurse mother and cable box installer father. He attended Dunedin High School before earning his way through Yale University, where he served as captain of the varsity baseball team. Ron's dedication to education continued as he graduated with honors from Harvard Law School and earned a commission as a JAG officer in the U.S. Navy.
+
+During his active-duty service, Ron deployed to Iraq, supporting SEAL missions in Fallujah, Ramadi, and Al Anbar province. He received military honors, including the Bronze Star Medal for Meritorious Service and the Iraq Campaign Medal. Ron's commitment to justice led him to serve as a prosecutor in Florida, where he successfully put child predators behind bars.
+
+In 2012, Ron was elected to Congress, focusing on government accountability, advocating for term limits, and a balanced budget amendment. During his time in Congress, he fought against the weaponization of the IRS and exposed the falsehoods behind the "Russia collusion" conspiracy theory. As a veteran himself, Ron became a strong advocate for fellow servicemen and women, pushing for reforms in the VA and expanded support for mental health.
+
+In 2018, Ron DeSantis became the 46th Governor of Florida, fighting for the rights of the people he represents and fearlessly standing up for freedom. Throughout the challenging times of 2020, when the establishment, bureaucracy, and corporate media pushed for lockdowns and mandates, Governor DeSantis unwaveringly defended liberty.
+
+Grounded in America's founding principles, Governor DeSantis transformed Florida into a model for the nation's revival. He achieved numerous conservative victories, including saving jobs from job-killing lockdowns and vaccine mandates, protecting citizens from the negative effects of the border crisis, defending parental rights, and eliminating critical race theory. Governor DeSantis took action against woke power grabs, championed medical freedom, ensured election integrity, protected the unborn, and supported the Second Amendment rights of Floridians. His administration also focused on education freedom, accountable governance, affordable prescription drugs, and supporting law enforcement and veterans.
+
+Governor DeSantis's leadership and conservative policy achievements led to a resounding victory in the 2022 election, earning him a second term by the largest raw vote margin in Florida's history. His success extended beyond expectations, flipping traditionally Democratic counties like Miami-Dade and Palm Beach. He gained significant support from Independents, Hispanics, and women compared to his first election.
+
+Governor DeSantis's relentless pursuit of common sense and unwavering commitment to freedom have made Florida a haven for families. Under his leadership, Floridians enjoy low taxes, quality education, and protection against federal overreach and ideological coercion. His vision has resulted in historic conservative policy wins, including tax relief, ESG prohibitions, measures countering the influence of the CCP, strong medical freedom protections, transparent medication pricing, higher education reforms, infrastructure improvements, tough-on-crime measures, and border crisis safeguards.
+
+Governor DeSantis's remarkable accomplishments for Florida have propelled him to share his bold vision with the nation, leading the movement for the Great American Comeback. He is married to Casey DeSantis, an Emmy Award-winning television anchor, and they have three children together—Madison, Mamie, and Mason.
+
+
+#### presidentail Announcement
 
 I am running for President of the United States because I want to lead Our Great American Comeback.
 
@@ -29,9 +49,9 @@ Our country is going in the wrong direction.  We see it with our eyes and we fee
 
 * Our federal government is making it harder for the average family to make ends meet and to attain and maintain a middle class lifestyle
 
-* Our president lacks vigor, flounders in the face of our nation's challenges, and takes his cues from the woke mob 
+* Our president lacks vigor, flounders in the face of our nation's challenges, and takes his cues from the woke mob
 
-But it doesn't have to be this way. 
+But it doesn't have to be this way.
 
 American decline is not inevitable -- it is a choice.  We should choose a new direction -- a path that will lead to American revitalization.
 
@@ -67,7 +87,7 @@ We held the line when freedom hung in the balance.
 
 Florida is now thriving as a result -- the fastest growing state, #1 in net in-migration, #1 in new business formations, #1 in education, 50 year low crime rate, and one of the lowest tax and debt per capita rates in America.
 
-Governing is not entertainment.  Its not about building a brand or virtue signaling on social media.  It is about results.  Our results in Florida have been second to none. 
+Governing is not entertainment.  Its not about building a brand or virtue signaling on social media.  It is about results.  Our results in Florida have been second to none.
 
 We can and we must deliver big results for America.
 
@@ -77,7 +97,7 @@ I pledge to be an energetic executive that will take on the important issues hea
 
 * Biden has opened the southern border and allowed massive amounts of drugs to pour into the country; we will shut down the border, construct a border wall, and hold the drug cartels accountable.
 
-* Biden has embraced medical authoritarianism, such as unconstitutional covid vax mandates; we will ensure that those violations of liberty can never happen again. 
+* Biden has embraced medical authoritarianism, such as unconstitutional covid vax mandates; we will ensure that those violations of liberty can never happen again.
 
 * Biden has allowed woke ideology to drive his agenda.  We will never surrender to the woke mob and we will leave woke ideology in the dustbin of history.
 
