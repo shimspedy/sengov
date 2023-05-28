@@ -11,7 +11,7 @@ categories:
 tags:
  - president
  - governors
-image: ron-desantis.png
+image: ron-p.jpeg
 video:
 url: 
 weight: 0
