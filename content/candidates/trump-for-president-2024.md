@@ -1,5 +1,5 @@
 ---
-date: 2023-01-24T12:03:20-04:00
+date: 2023-04-24T12:03:20-04:00
 name: Donald Trump
 title: " Donald Trump for President 2024"
 seo_title: "Donald Trump's Presidential Campaign Policies"
