@@ -2,7 +2,7 @@
 date: 2023-05-28T10:05:20-04:00
 name: Ron DeSantis 
 title: " Ron DeSantis for President of the United States"
-seo_title: "Ron DeSantis for florida governor"
+seo_title: "Ron DeSantis for President"
 description: I am running for President of the United States because I want to lead Our Great American Comeback.
 authors:
   - john shim
@@ -10,6 +10,7 @@ categories:
   - florida
 tags:
  - president
+ - governors
 image: ron-desantis.png
 video:
 url: 
