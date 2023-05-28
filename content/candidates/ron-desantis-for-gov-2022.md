@@ -1,5 +1,5 @@
 ---
-date: 2022-07-31T10:05:20-04:00
+date: 2022-07-22T10:05:20-04:00
 name: Ron DeSantis 
 title: " Ron DeSantis for governor 2022"
 seo_title: "Ron DeSantis for florida governor"
