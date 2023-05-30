@@ -78,4 +78,7 @@ readingTime = true
         weight = 3
         name = "bills"
         url = "/bills"
-
+  [[Languages.en.menu.main]]
+        weight = 4
+        name = "state"
+        url = "/state"
