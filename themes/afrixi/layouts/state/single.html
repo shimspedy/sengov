@@ -5,66 +5,154 @@
 {{ define "main" }}
 
 
-<section>
-  <div class="slide">
-    <div class="storyTitle">
-      <h1>{{ .Title }}</h1>
-      <h4 style="font-size: .75rem; color: #b5b5b5; ">posted on : {{ .Date.Format "Monday, 2 Jan, 2006" }} </h4>
-      <h3 class="author">
-        {{- range .Params.authors }}
-        {{ $authorPath := printf "authors/%s" (urlize .) }}
-        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
-        {{ partial "author-card" . }}
-        {{ end }}
-        {{ end }}
-      </h3>
-     
-    </div>
-    {{ if .Params.image }}
-    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
-      style="background-image: url({{.Site.BaseURL }}bills/{{ .Params.image }});">
-      <span id="image_credit"></span>
-      <div class="gradient"></div>
-      <img src="/images/wave.png" class="waves">
-    </div>
-    {{ else }}
-    <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
-      style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});">
-      <span id="image_credit"></span>
-      <div class="gradient"></div>
-      <img src="/images/wave.png" class="waves">
-    </div>
-    {{ end }}
-  </div>
-</section>
 
 
 
-<div class="row">
-  <div class="col xl8 l8 m12 s12">
-    <article class=" post-content h-entry hentry"
-      style=" padding-left: 30px; padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
-     
-      <!-- {{- if .Params.video -}}
-      {{ partial "youtube-video" . }}
-      {{- end -}} -->
-      <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}">
-        {{ partial "nav/table-of-contents" . }}
-        <div class="e-content entry-content" id="manifestation">{{.Content}}</div>
-        
-        <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div>  -->
-        
-      </div>
+{{ partial "markup/governor" . }}
+<div class="row" itemscope itemtype="https://schema.org/Person">
+ 
+  <div class="col xl9 l9 m12 s12">
+
+    <article class="white z-depth-1"
+      style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
+
+      <div itemscope itemtype="https://schema.org/Person" class="row">
+
+        <div class="col s12 m6 l5 profile-img"
+          style="background-image:url('{{.Site.BaseURL }}state/{{ .Params.image }}');background-repeat: no-repeat;background-size: cover; height: 400px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+          <div class="senator-image">
+            <img src="{{.Site.BaseURL }}state/{{ .Params.image }}" alt=" senator {{.Params.Name}}"
+              style=" float: right;width: 50px; clip-path: polygon(15% 0, 100% 0, 75% 100%, -11% 100%);">
+          </div>
+          </div>
+          <div class="col s12 m6 l7">
+            <div class="senator-info" itemscope itemtype="https://schema.org/Table">
+              <h1 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact
+                information</h1>
+              <p class="flow-text" style="font-size: 12px;">Here you will find contact information for {{.Params.Role}}
+                {{.Params.Name}}, including email address, phone number, and mailing address.</p>
+              <table  class="h-card" >
+                <tbody>
+                  <tr>
+                    <td>Name</td>
+                    <td class="p-name">{{.Params.Name}}</td>
+                  </tr>
+                  <tr>
+                    <td>Position</td>
+                    <td class="p-role">{{.Params.Role}}</td>
+                  </tr>
+                  <tr>
+                    <td>State</td>
+                    <td class="p-region"><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
+                  </tr>
+                  <tr>
+                    <td>Party</td>
+                    <td class="p-org">{{.Params.Party}}</td>
+                  </tr>
+                  {{ if isset .Params "District" }}
+                  <tr>
+                    <td>District</td>
+                    <td class="dt-bday">
+                      {{.Params.District}}
+                    </td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "enteredoffice" }}
+                  <tr>
+                    <td>Entered Office</td>
+                    <td>{{.Params.Enteredoffice}}</td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "officeroom" }}
+                  <tr>
+                    <td>Office Room</td>
+                    <td class="p-extended-address">{{.Params.Officeroom}}</td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "mailingaddress" }}
+                  <tr>
+                    <td>Mailing Address</td>
+                    <td class="p-street-address">{{.Params.Mailingaddress}} </td>
+                  </tr>
+                  {{end}}
+                  {{ if isset .Params "phonenumber" }}
+                  <tr>
+                    <td>Phone number</td>
+                    <td><a href="tel:{{.Params.Phonenumber}}" class="p-tel" itemprop="telephone">{{.Params.Phonenumber}}</a>
+                    </td>
+                  </tr>
+                  {{end}}
+                  <tr>
+                    <td>email</td>
+                    <td><a href="{{.Params.Emailaddress}}" class="u-url" target="_blank"> Email Form</a></td>
+                  </tr>
+                  <tr>
+                    <td>Website</td>
+                    <td><a href="{{.Params.Website}}" class="u-url" target="_blank" itemprop="url">Official Website</a></td>
+                  </tr>
+
+                </tbody>
+              </table>
+
+            </div>
+
+          </div>
+
+        </div>
+      
+        {{ partial "subheader" . }}
+        <div class="adsgoogle">
+
+          <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+            crossorigin="anonymous"></script>
+          <!-- afrixside -->
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
+            data-ad-slot="5494845660" data-ad-format="auto"></ins>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+
+        <h2>  {{.Params.state}} state {{.Params.Role}} {{.Params.Name}}</h2>
+        <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+          style=" padding: 25px 20px 20px; border-radius: 6px; ">
+         
+          <div class="e-content" id="manifestation">
+          {{.Content}}
+          </div>
+        </div>
+        <div class="adsgoogle">
+
+          <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
+            crossorigin="anonymous"></script>
+          <!-- afrixside -->
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
+            data-ad-slot="5494845660" data-ad-format="auto"></ins>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+
+        {{ partial "nav/pagination.html" . }}
+
     </article>
+
+
   </div>
-  <aside class="col xl3 l3 hide-on-med-and-down left-col-article" style="padding-right:0px;">
+  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
     <div id="nav-side-ad">
-      {{- partial "ads/sidebar-custom" . -}}
+
+      {{- partial "ads/sidebar" . -}}  
+      {{ partial "nav/table-of-contents" . }}
       {{- partial "ads/sponsor" . -}}
-      <!-- {{ partial "sidebar.html" . }} -->
-      {{- partial "ads/sidebar" . -}}
+      {{- partial "ads/sidebar-custom" . -}} 
       {{- partial "social-icons/vertical" . -}}
     </div>
   </aside>
 </div>
+
+
 {{ end }}
+

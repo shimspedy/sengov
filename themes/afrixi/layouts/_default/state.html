@@ -1,5 +1,5 @@
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "bills") 50 }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "state") 50 }}
 {{ range $paginator.Pages }}
 <article id="{{ range  $categories := .Params.categories }} {{ $categories| lower }}{{ end }}"
   class="hentry post-contents {{ range  $categories := .Params.categories }} {{ $categories | lower }}{{ end }}"
@@ -8,7 +8,7 @@
     <a class="card-image entry-title" href="{{ .Permalink }}" title="{{ .Params.title }}">
 
       {{ if .Params.image }}
-      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}bills/{{ .Params.image }});"></div>
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}state/{{ .Params.image }});"></div>
       {{ else }}
       <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});"></div>
       {{ end }}
