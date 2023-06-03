@@ -19,7 +19,7 @@ state:	Texas
 district: 38th
 party:	Republican
 officeroom:	1520 Longworth House Office Building
-phonenumber:	(202) 225-4865
+phonenumber:	(202) 225-5646
 emailaddress:	https://hunt.house.gov/address_authentication?form=/contact
 website:	https://hunt.house.gov/
 committeeassignment: 
