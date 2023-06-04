@@ -180,10 +180,7 @@
         </div>
 
 
-        <div class="commentbox"></div>
-        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-        <script>commentBox('5749811340902400-proj')</script>
-
+      
 
         <div class="card-content card blue lighten-4 bio " style="margin: 0px 20px;"> 
           This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}} {{.Params.Name}}'s </a> Website.
@@ -192,6 +189,12 @@
         {{- partial "social-icons/vertical" . -}}
 
         {{ partial "nav/pagination.html" . }}
+
+
+        <div class="commentbox"></div>
+        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+        <script>commentBox('5749811340902400-proj')</script>
+
 
     </article>
 
