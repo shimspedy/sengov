@@ -52,7 +52,11 @@
         {{ partial "nav/table-of-contents" . }}
         <div class="e-content entry-content" id="manifestation">{{.Content}}</div>
         
-        <!-- <div class="mpscomments">{{ template "_internal/disqus.html" . }}</div>  -->
+        <div class="commentbox"></div>
+        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+        <script>commentBox('5749811340902400-proj')</script>
+
+
         
       </div>
     </article>
