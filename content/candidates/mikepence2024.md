@@ -3,7 +3,7 @@ date: 2023-06-04T12:03:20-04:00
 name: Mike Pence
 title: " Mike Pence for President 2024"
 seo_title: "Mike Pence's Presidential Campaign Policies"
-description: A concise examination of the policies put forth by Mike Pence during his presidential campaign.
+description: Discover how we can revive the American Dream and secure a prosperous future under new leadership of  Mike Pence's presidential campaign.
 authors:
   - john shim
 categories:
