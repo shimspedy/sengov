@@ -66,8 +66,8 @@ readingTime = true
         
       [[Languages.en.menu.main]]
         weight = 9
-        name = "contact"
-        url = "/contact"
+        name = "community"
+        url = "https://forum.sengov.com/"
         
       [[Languages.en.menu.main]]
         weight = 1
