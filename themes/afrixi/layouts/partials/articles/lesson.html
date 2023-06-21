@@ -137,26 +137,9 @@
           </div>
 
         </div>
-        
-
-        <div id='discourse-comments'></div>
-        <meta name='discourse-username' content='johnny'>
-        
-        <script type="text/javascript">
-          DiscourseEmbed = {
-            discourseUrl: 'https://forum.sengov.com/',
-            discourseEmbedUrl: '{{ .Permalink }}',
-            // className: 'CLASS_NAME',
-          };
-        
-          (function() {
-            var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-            d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-          })();
-        </script>
 
 
+      
       
         {{ partial "subheader" . }}
         <div class="adsgoogle">
@@ -188,18 +171,36 @@
         </div>
         <div class="adsgoogle">
 
-          <script async
+          <!-- <script async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-            crossorigin="anonymous"></script>
+            crossorigin="anonymous"></script> -->
           <!-- afrixside -->
-          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
+          <!-- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
             data-ad-slot="5494845660" data-ad-format="auto"></ins>
           <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
         </div>
+ -->
 
 
+
+ <div id='discourse-comments'></div>
+ <meta name='discourse-username' content='johnny'>
+ 
+ <script type="text/javascript">
+   DiscourseEmbed = {
+     discourseUrl: 'https://forum.sengov.com/',
+     discourseEmbedUrl: '{{ .Permalink }}',
+     // className: 'CLASS_NAME',
+   };
+ 
+   (function() {
+     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+     d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+   })();
+ </script>
 
 
       
@@ -208,10 +209,11 @@
 
       
 
-        <div class="card-content card blue lighten-4 bio " style="margin: 0px 20px;"> 
+        <!-- <div class="card-content card blue lighten-4 bio " style="margin: 0px 20px;"> 
           This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}} {{.Params.Name}}'s </a> Website.
           Consider visiting your representative's official website for the latest updates.
-        </div>
+        </div> -->
+
         {{- partial "social-icons/vertical" . -}}
 
         {{ partial "nav/pagination.html" . }}
