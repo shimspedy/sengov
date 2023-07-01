@@ -122,20 +122,22 @@
           {{.Content}}
           </div>
         </div>
-        <div class="adsgoogle">
-
-          <script async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-            crossorigin="anonymous"></script>
-          <!-- afrixside -->
-          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-            data-ad-slot="5494845660" data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-        </div>
-
-        {{ partial "nav/pagination.html" . }}
+        <div id='discourse-comments'></div>
+        <meta name='discourse-username' content='johnny'>
+        
+        <script type="text/javascript">
+          DiscourseEmbed = {
+            discourseUrl: 'https://forum.sengov.com/',
+            discourseEmbedUrl: '{{ .Permalink }}',
+            // className: 'CLASS_NAME',
+          };
+        
+          (function() {
+            var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+            d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+          })();
+        </script>
 
     </article>
 

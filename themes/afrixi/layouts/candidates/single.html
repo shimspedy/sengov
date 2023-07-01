@@ -54,11 +54,22 @@
         <div class="e-content entry-content" id="manifestation">{{.Content}}</div>
        
         
-        <div class="commentbox"></div>
-        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-        <script>commentBox('5749811340902400-proj')</script>
-
-
+        <div id='discourse-comments'></div>
+        <meta name='discourse-username' content='johnny'>
+        
+        <script type="text/javascript">
+          DiscourseEmbed = {
+            discourseUrl: 'https://forum.sengov.com/',
+            discourseEmbedUrl: '{{ .Permalink }}',
+            // className: 'CLASS_NAME',
+          };
+        
+          (function() {
+            var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+            d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+          })();
+        </script>
         
       </div>
     </article>
