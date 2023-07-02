@@ -10,6 +10,7 @@ pygmentsCodefencesGuessSyntax = true
 disqusShortname = "test-wninb4jp3p"
 
 canonifyurls = true
+uglyURLs = true
 disableKinds = ["taxonomyTerm"]
 
 
