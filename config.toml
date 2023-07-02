@@ -9,8 +9,7 @@ PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 disqusShortname = "test-wninb4jp3p"
 
-canonifyurls = true
-uglyURLs = true
+canonifyURLs = true
 disableKinds = ["taxonomyTerm"]
 
 
@@ -30,7 +29,7 @@ disableKinds = ["taxonomyTerm"]
 
 [permalinks]
 #candidates = "/blog/ =slug/"
-uglyurls = true
+# uglyurls = true
 categories =  "/:section/:slug"
 
 
