@@ -9,6 +9,8 @@ url: /whitehouse/
 flag: 
 weight: 1
 
+state: "yes"
+
 stateweb: ""
 govweb: ""
 gov: "Joe Biden"
@@ -16,4 +18,3 @@ Address: ""
 phonenumber: ""
 
 ---
-

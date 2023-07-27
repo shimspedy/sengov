@@ -3,6 +3,7 @@
 <div class="sidebar-menu">
 	<ul class="nav">
 		{{- range $name, $items := .Site.Taxonomies.categories }}
+		
 		<li class="nav-item"><a class="tab-link  widget__link" category="{{ $name | urlize | lower }}" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
 		{{- end }}
 	</ul>

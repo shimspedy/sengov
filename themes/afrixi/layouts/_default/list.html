@@ -71,7 +71,7 @@
 </div>
 {{end}}
 
-{{ if and (not (in .Section "voting")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
+{{ if and (not (in .Section "voting")) (not (in .Section "military"))}}
 {{ partial "listings/section" . }}
 
 {{end}}

@@ -67,18 +67,7 @@
 
 
 
- {{ if eq .Section "exams" }}
-     {{if .Sections}}
-     <h1 class="flow-text">{{.Title}} </h1>
-     <div class=" row">
-          {{range .Sections }}
-                    <div class="col s12 m6 l6">
-                    {{ partial "listings/exam" . }}
-                    </div>
-          {{end}}
-     </div>
-     {{end}}
-{{end}} 
+
 
 
 {{ if eq .Section "military" }}
