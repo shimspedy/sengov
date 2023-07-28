@@ -49,7 +49,7 @@ layout: course_home
 ####candidate
 name:	Kyrsten Sinema
 state:	Arizona
-party:	Democratic
+party:	Independent
 role: senator
 inoffice: current
 born:	July 12, 1976 
