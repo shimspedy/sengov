@@ -1,0 +1,89 @@
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+      {{ partial "nav/course-list" . }}
+    </aside>
+    <div class="col xl7 l7 m12 s12">
+
+    <table class="highlight" id="data-table">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+    <table class="highlight" id="data-table2">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+    <table class="highlight" id="data-table3">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+    <table class="highlight" id="data-table4">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+    <script>
+      xml_to_json(
+        "{{.Params.xml1}}",
+        "#data-table"
+      );
+      xml_to_json(
+        "{{.Params.xml2}}",
+        "#data-table2"
+      );
+      xml_to_json(
+        "{{.Params.xml3}}",
+        "#data-table3"
+      );
+      xml_to_json(
+        "{{.Params.xml4}}",
+        "#data-table4"
+      );
+      function xml_to_json(url, table_id) {
+        // Get a reference to the table body
+        const table = document.querySelector(table_id);
+
+        // API URL
+        const apiUrl = url;
+
+        // Fetch the XML data from the API
+        fetch(apiUrl)
+          .then((response) => response.text())
+          .then((xmlString) => {
+            // Parse the XML data using DOMParser
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+            const items = xmlDoc.getElementsByTagName("Grade"); // Adjust to your XML structure
+            let th_count =
+              items[0].getElementsByTagName("Steps")[0].childElementCount;
+            let th_html = "<tr><th>GS Grade</th>";
+            for (let i = 1; i <= th_count; i++) {
+              th_html += `<th>Step ${i}</th>`;
+            }
+            th_html += "</tr>";
+            table.children[0].innerHTML = th_html;
+
+            let tr = "";
+            for (let i = 0; i <= items.length - 1; i++) {
+              let step = items[i].getElementsByTagName("Step");
+              tr += `<tr><th>GS-${i+1}</th>`;
+              for (let j = 0; j <= step.length - 1; j++) {
+                let stepTxt = "$" + step[j].querySelector("Annual").innerHTML;
+                tr += `<td>${stepTxt}</td>`;
+              }
+              tr += "</tr>";
+            }
+            table.children[1].innerHTML = tr;
+          })
+          .catch((error) => {
+            console.error("Error fetching or parsing data:", error);
+          });
+      }
+    </script>
+ </div>
+ <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
+   <div id="nav-side-ad">
+
+     {{- partial "ads/sidebar-custom" . -}}
+   </div>
+ </aside>
+</div>

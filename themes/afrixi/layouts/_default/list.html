@@ -4,11 +4,13 @@
 {{ partial "articles/lesson" . }}
 {{else if and (.Layout) (eq .Layout "military")}}
 {{ partial "articles/military" . }}
+{{else if and (.Layout) (eq .Layout "pay")}}
+{{ partial "articles/pay" . }}
 {{else if and (.Layout) (eq .Layout "voting")}}
 {{ partial "articles/voting" . }}
 {{else}}
 
-{{ if and (not (in .Section "voting")) (not (in .Section "military")) (not (in .Section "whitehouse"))}}
+{{ if and (not (in .Section "voting")) (not (in .Section "pay"))  (not (in .Section "military")) (not (in .Section "whitehouse"))}}
 <div class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  ">
      <div class="row">
 
@@ -71,7 +73,7 @@
 </div>
 {{end}}
 
-{{ if and (not (in .Section "voting")) (not (in .Section "military"))}}
+{{ if and  (not (in .Section "voting")) }}
 {{ partial "listings/section" . }}
 
 {{end}}
