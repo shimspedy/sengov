@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22T11:54:12-05:00
-title: "GS Salaries in New Hampshire"
+title: "New Hampshire"
 seo_title: " New Hampshire General schedule Salaries & Wages"
 subheader:
      greeting: GS Salaries in New Hampshire

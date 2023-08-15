@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22T11:54:12-05:00
-title: "GS Salaries in Arkansas"
+title: "Arkansas"
 seo_title: "General schedule Salaries & Wages in Arkansas"
 subheader:
      greeting: GS Salaries in Arkansas

@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22T11:54:12-05:00
-title: "GS Salaries in Oregon"
+title: "Oregon"
 seo_title: " Oregon General schedule Salaries & Wages"
 subheader:
      greeting: GS Salaries in Oregon

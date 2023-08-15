@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22T11:54:12-05:00
-title: "GS Salaries in Alaska"
+title: "Alaska"
 seo_title: "General schedule Salaries & Wages in Alaska"
 subheader:
      greeting: GS Salaries in Alaska

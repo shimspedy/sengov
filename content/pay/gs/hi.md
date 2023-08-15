@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22T11:54:12-05:00
-title: "GS Salaries in Hawaii"
+title: "Hawaii"
 seo_title: " Hawaii General schedule Salaries & Wages"
 subheader:
      greeting: GS Salaries in Hawaii
