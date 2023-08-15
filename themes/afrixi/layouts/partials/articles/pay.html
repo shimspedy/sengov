@@ -4,41 +4,76 @@
       {{ partial "nav/course-list" . }}
     </aside>
     <div class="col xl7 l7 m12 s12">
-
-    <table class="highlight" id="data-table">
-      <thead></thead>
-      <tbody></tbody>
-    </table>
-    <table class="highlight" id="data-table2">
-      <thead></thead>
-      <tbody></tbody>
-    </table>
-    <table class="highlight" id="data-table3">
-      <thead></thead>
-      <tbody></tbody>
-    </table>
-    <table class="highlight" id="data-table4">
-      <thead></thead>
-      <tbody></tbody>
-    </table>
+      {{ if isset .Params "xml1" }}
+      <div class="table ">
+        <p id="description1" class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  "></p>
+        <table id="data-table" class="responsive-table highlight z-depth-1">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+        <div id="notes1"></div>
+      </div>
+      {{ end }}
+      {{ if isset .Params "xml2" }}
+      <div class="table">
+        <p id="description2" class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  "></p>
+        <table id="data-table2" class="responsive-table highlight z-depth-1">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+        <div id="notes2"></div>
+      </div>
+      {{ end }}
+      {{ if isset .Params "xml3" }}
+      <div class="table">
+        <p id="description3" class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  "></p>
+        <table id="data-table3" class="responsive-table highlight z-depth-1">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+        <div id="notes3"></div>
+      </div>
+      {{ end }}
+      {{ if isset .Params "xml4" }}
+      <div class="table">
+        <p id="description4" class="card  blue-grey-text text-darken-1 bio" style="margin-top:20px; padding: 25px 20px 20px;  "></p>
+        <table id="data-table4" class="responsive-table highlight z-depth-1">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+        <div id="notes4"></div>
+      </div>
+      {{ end }}
     <script>
       xml_to_json(
         "{{.Params.xml1}}",
-        "#data-table"
+        "#data-table",
+        "#description1",
+        "#notes1"
       );
       xml_to_json(
         "{{.Params.xml2}}",
-        "#data-table2"
+        "#data-table2",
+        "#description2",
+        "#notes2"
       );
       xml_to_json(
         "{{.Params.xml3}}",
-        "#data-table3"
+        "#data-table3",
+        "#description3",
+        "#notes3"
       );
       xml_to_json(
         "{{.Params.xml4}}",
-        "#data-table4"
+        "#data-table4",
+        "#description4",
+        "#notes4"
       );
-      function xml_to_json(url, table_id) {
+
+
+
+
+      function xml_to_json(url, table_id, descriptionid, notesid) {
         // Get a reference to the table body
         const table = document.querySelector(table_id);
 
@@ -53,6 +88,15 @@
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(xmlString, "text/xml");
             const items = xmlDoc.getElementsByTagName("Grade"); // Adjust to your XML structure
+            const des = xmlDoc
+              .querySelector("Description")
+              .textContent.replace(/\n/g, ""); // Adjust to your XML structure
+            const notes = xmlDoc
+              .querySelector("Notes")
+              .textContent.replace(/\n/g, ""); // Adjust to your XML structure
+            document.querySelector(descriptionid).innerText = des;
+            document.querySelector(notesid).innerText = notes;
+
             let th_count =
               items[0].getElementsByTagName("Steps")[0].childElementCount;
             let th_html = "<tr><th>GS Grade</th>";
@@ -65,7 +109,7 @@
             let tr = "";
             for (let i = 0; i <= items.length - 1; i++) {
               let step = items[i].getElementsByTagName("Step");
-              tr += `<tr><th>GS-${i+1}</th>`;
+              tr += `<tr><th>GS-${i + 1}</th>`;
               for (let j = 0; j <= step.length - 1; j++) {
                 let stepTxt = "$" + step[j].querySelector("Annual").innerHTML;
                 tr += `<td>${stepTxt}</td>`;
@@ -78,6 +122,21 @@
             console.error("Error fetching or parsing data:", error);
           });
       }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </script>
  </div>
  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
