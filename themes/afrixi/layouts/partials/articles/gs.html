@@ -1,7 +1,12 @@
 
-    <div class=" ">
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+      {{ partial "nav/course-list" . }}
+    </aside>
+    <div class="col xl10 l10 m12 s12">
+
+    <div class="senpay">
       <div id="info-box"></div>
-      <?xml version="1.0" encoding="utf-8"?>
       <svg
         xmlns:cc="http://creativecommons.org/ns#"
         xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -375,8 +380,8 @@
       </svg>
     </div>
 
-    <div class="container" id="table"></div>
-    <div class="container" id="table_rus"></div>
+    <div class="senpay" id="table"></div>
+    <div class="senpay" id="table_rus"></div>
     <div id="loader">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -412,17 +417,26 @@
         </circle>
       </svg>
     </div>
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+{{ if eq .Params.data "gs" }}
     <script type="text/javascript">
-      const file_type = "SG";
+      const file_type = "GS";
       const leo_url = "";
       const default_url = "GS";
     </script>
-    <script type="text/javascript" src="js/table.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+{{ end }}
+{{ if eq .Params.data "leo" }}
+   <script type="text/javascript">
+    const file_type = "Leo";
+    const leo_url = " (LEO)";
+    const default_url = "GL";
+  </script>
+{{ end }}
+
     <script type="text/javascript">
       let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/${default_url}.xml`;
       let tableid = "table1";
       xml_to_json_tables(url, tableid, "table");
     </script>
 
+ </div>
+</div>
