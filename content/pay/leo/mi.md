@@ -4,8 +4,8 @@ title: "Michigan"
 seo_title: " Michigan General schedule Salaries & Wages"
 subheader:
      greeting: GS Salaries in Michigan
-     description: This table shows the base pay amounts for all General Schedule employees based on the 2023 GS Pay Scale, as published by the Office of Personnel Management.
-description: This table shows the base pay amounts for all General Schedule employees based on the 2023 GS Pay Scale, as published by the Office of Personnel Management.
+     description: This table shows the base pay amounts for all  Law Enforcement Officer employees based on the 2023 GS Pay Scale, as published by the Office of Personnel Management.
+description: This table shows the base pay amounts for all  Law Enforcement Officer employees based on the 2023 GS Pay Scale, as published by the Office of Personnel Management.
 image: 1.png
 url: /pay/leo/mi/
 weight: 3
