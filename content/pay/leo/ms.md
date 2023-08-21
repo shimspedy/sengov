@@ -1,7 +1,7 @@
 ---
 date: 2023-07-22T11:54:12-05:00
 title: "Mississippi "
-seo_title: " Mississippi  General schedule Salaries & Wages"
+seo_title: " Mississippi   Law Enforcement Officer Salaries & Wages"
 subheader:
      greeting: GS Salaries in Mississippi 
      description: This table shows the base pay amounts for all  Law Enforcement Officer employees based on the 2023 GS Pay Scale, as published by the Office of Personnel Management.
