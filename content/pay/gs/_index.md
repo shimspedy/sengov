@@ -14,6 +14,7 @@ url: /pay/gs/
 weight: 1
 layout: gs
 data: gs
+data2: index
 xml: 
 
 ---

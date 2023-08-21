@@ -14,6 +14,7 @@ url: /pay/leo/
 weight: 1
 layout: gs
 data: leo
+data2: index
 xml: 
 
 ---
