@@ -10,10 +10,6 @@ image: 1.png
 url: /pay/gs/tx/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/AU.xml
-xml2: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/COL.xml
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/HOU.xml
-xml4: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/LR.xml
-xml5: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/SO.xml
-xml6: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: TX
+data: gs
 ---

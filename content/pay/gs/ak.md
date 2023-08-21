@@ -10,5 +10,6 @@ image: 1.png
 url: /pay/gs/ak/
 weight: 2
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/AK.xml
+xml: AK
+data: gs
 ---

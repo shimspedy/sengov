@@ -10,7 +10,6 @@ image: 1.png
 url: /pay/gs/ct/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/HAR.xml
-xml2: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/NY.xml
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: CT
+data: gs
 ---

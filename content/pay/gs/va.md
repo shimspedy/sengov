@@ -10,6 +10,6 @@ image: 1.png
 url: /pay/gs/va/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RCH.xml
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: VA
+data: gs
 ---

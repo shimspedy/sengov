@@ -10,5 +10,6 @@ image: 1.png
 url: /pay/gs/vi/
 weight: 3
 layout: pay
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: VI
+data: gs
 ---

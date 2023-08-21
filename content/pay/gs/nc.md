@@ -10,8 +10,6 @@ image: 1.png
 url: /pay/gs/nc/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/CT.xml
-xml2: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RA.xml
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/VB.xml
-xml4: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: NC
+data: gs
 ---

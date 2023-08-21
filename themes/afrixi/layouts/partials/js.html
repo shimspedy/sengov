@@ -13,6 +13,24 @@
 <script src="{{ $mainjs.RelPermalink }}"></script>
 <script src="{{ $parallaxjs.RelPermalink }}"></script>
 
+
+
+
+{{ $leojs := resources.Get "js/leo.js" | minify }}
+{{ $gsjs := resources.Get "js/gs.js" | minify }}
+{{ $tablejs := resources.Get "js/table.js" | minify }}
+
+
+{{ if eq .Params.data "leo" }}
+<script src="{{ $leojs.RelPermalink }}"></script>
+{{ end }}
+
+{{ if eq .Params.data "gs" }}
+<script src="{{ $gsjs.RelPermalink }}"></script>
+{{ end }}
+
+<script src="{{ $tablejs.RelPermalink }}"></script>
+
 <script>
 
 if('serviceWorker' in navigator) {

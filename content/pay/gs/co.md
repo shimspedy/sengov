@@ -10,7 +10,6 @@ image: 1.png
 url: /pay/gs/co/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/CS.xml
-xml2: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/DEN.xml
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: CO
+data: gs
 ---

@@ -48,3 +48,7 @@
 
 <!-- sw -->
 <link rel="manifest" href="{{.Site.BaseURL}}manifest.json">
+
+{{ if eq .Section "pay" }}
+<link  rel="stylesheet"   href="{{.Site.BaseURL}}css/pay.css">
+{{end }}

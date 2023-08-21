@@ -10,5 +10,6 @@ image: 1.png
 url: /pay/gs/dc/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/DCB.xml
+xml: DC
+data: gs
 ---

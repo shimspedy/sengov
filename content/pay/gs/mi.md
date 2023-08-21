@@ -10,6 +10,6 @@ image: 1.png
 url: /pay/gs/mi/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/DET.xml
-xml4: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: MI
+data: gs
 ---

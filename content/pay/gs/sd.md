@@ -10,5 +10,6 @@ image: 1.png
 url: /pay/gs/sd/
 weight: 3
 layout: pay
-xml3: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS.xml
+xml: SD
+data: gs
 ---

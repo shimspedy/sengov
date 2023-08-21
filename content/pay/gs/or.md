@@ -10,5 +10,6 @@ image: 1.png
 url: /pay/gs/or/
 weight: 3
 layout: pay
-xml1: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/POR.xml
+xml: OR
+data: gs
 ---
