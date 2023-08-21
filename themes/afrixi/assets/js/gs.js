@@ -34,11 +34,11 @@ function xml_to_json_tables(url, tableid, tablediv) {
         let class_annual = "annual-" + tableid;
         let hourly_annual = "hourly-" + tableid;
         let overtme_annual = "overtime-" + tableid;
-        let tabs = `
-    <div class="tabs">
-    <label class="tab active" id="${class_annual}" href="${class_annual}">Annual</label>
-    <label class="tab" id="${hourly_annual}" href= "${hourly_annual}">Hourly</label>
-    <label class="tab" id="${overtme_annual}" href= "${overtme_annual}" >Overtime</label>
+        let tabsx = `
+    <div class="tabsx">
+    <label class="tabx active" id="${class_annual}">Annual</label>
+    <label class="tabx" id="${hourly_annual}">Hourly</label>
+    <label class="tabx" id="${overtme_annual}">Overtime</label>
       </div>`;
         let th_count =
           items[0].getElementsByTagName("Steps")[0].childElementCount;
@@ -53,7 +53,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
         tbody(items, "Annual", table, class_annual);
         tbody(items, "Hourly", table, hourly_annual);
         tbody(items, "Overtime", table, overtme_annual);
-        h2.innerHTML = des + tabs;
+        h2.innerHTML = des + tabsx;
         h2.classList.add('bio');
         p.innerHTML = notes;
         div.appendChild(h2);
@@ -124,7 +124,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
       $("#info-box").css("display", "none");
     });
   
-    $(document).on("click", ".tab", function () {
+    $(document).on("click", ".tabx", function () {
       let class_name = $(this).attr("id");
       $(this).siblings().removeClass("active");
       $(this).addClass("active");
