@@ -54,8 +54,8 @@
   const leo_url = "";
   const default_url = "GS";
 </script>
-{{ else }}
-
+{{ end }}
+{{ if eq .Params.data "leo" }}
 <script type="text/javascript">
       const file_type = "Leo";
       const leo_url = " (LEO)";

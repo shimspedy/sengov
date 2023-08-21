@@ -8,7 +8,7 @@ subheader:
 description: This table shows the base pay amounts for all  Law Enforcement Officer  employees based on the 2023 LEO Pay Scale, as published by the Office of Personnel Management.
 image: 1.png
 video: 
-imageurl: /pay/1.png
+imageurl: /pay/leo.png
 imagedir: root
 url: /pay/leo/
 weight: 1
