@@ -28,7 +28,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
         let p = document.createElement("p");
         let table = document.createElement("table");
         table.id = tableid;
-        table.classList.add('responsive-table'); 
+        table.classList.add('centered'); 
   
         let thead = document.createElement("thead");
         let class_annual = "annual-" + tableid;
