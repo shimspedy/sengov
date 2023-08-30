@@ -386,43 +386,7 @@
 
     <div class="senpay" id="table_rus"></div>
 
-    <script>
-      function myFunction1() {
-        var x = document.getElementsByClassName("bio");
-        var mod = 1;
-        for (var i = 0; i < x.length; i += mod) {
-          if (i === 0) {
-            continue;
-          }
-          console.log(i);
-      
-          // Create a new script element
-          var script = document.createElement("script");
-          script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176";
-          script.setAttribute("async", true);
-          script.setAttribute("crossorigin", "anonymous");
-          
-          // Create a new ins element for the ad
-          var ins = document.createElement("ins");
-          ins.className = "adsbygoogle";
-          ins.style.display = "block";
-          ins.setAttribute("data-ad-client", "ca-pub-7616051391644176");
-          ins.setAttribute("data-ad-slot", "9654111001");
-          ins.setAttribute("data-ad-format", "auto");
-          ins.setAttribute("data-full-width-responsive", "true");
-      
-          // Append the script and ins elements to the DOM
-          x[i].insertBefore(script, x[i].firstChild); // Insert script before existing content
-          x[i].insertBefore(ins, x[i].firstChild); // Insert ins before existing content
-      
-          // Initialize the ad
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        }
-      }
-      
-      window.onload = myFunction1;
-      
-      </script>
+  
 
 
     <div id="loader">
