@@ -91,6 +91,9 @@ function xml_to_json_tables(url, tableid, tablediv) {
       i++;
     });
   }
+
+
+  
   $(document).ready(function () {
     $("path, circle").click(function (e) {
       $("path, circle").css("fill", "rgb(211, 211, 211)");
@@ -149,5 +152,6 @@ function xml_to_json_tables(url, tableid, tablediv) {
         return false;
       });
     }
+    
   });
   
