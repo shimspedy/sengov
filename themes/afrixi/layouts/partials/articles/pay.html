@@ -33,17 +33,6 @@
 
 
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-      var bioTables = document.querySelectorAll(".bio");
-      for (var i = 0; i < bioTables.length; i++) {
-          var adContainer = document.createElement("div");
-          adContainer.className = "ad-container";
-          adContainer.appendChild(document.querySelector(".adsbygoogle").cloneNode(true));
-          bioTables[i].parentNode.insertBefore(adContainer, bioTables[i]);
-      }
-  });
-  </script>
 
 
 
@@ -70,6 +59,20 @@
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      var bioTables = document.querySelectorAll(".bio");
+      for (var i = 0; i < bioTables.length; i++) {
+          var adContainer = document.createElement("div");
+          adContainer.className = "ad-container";
+          adContainer.appendChild(document.querySelector(".adsbygoogle").cloneNode(true));
+          bioTables[i].parentNode.insertBefore(adContainer, bioTables[i]);
+      }
+  });
+  </script>
 </div>
 
 
