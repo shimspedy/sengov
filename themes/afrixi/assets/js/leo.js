@@ -140,7 +140,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
 
     $(document).ready(function()
 {
-    $(".senpay").each(function () {
+    $(".bio").each(function () {
         $(this).append('<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176" data-ad-slot="9654111001" data-ad-format="auto"></ins>');
         (adsbygoogle = window.adsbygoogle || []).push({});
     }); 
