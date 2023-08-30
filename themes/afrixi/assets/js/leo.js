@@ -138,6 +138,30 @@ function xml_to_json_tables(url, tableid, tablediv) {
     });
 
 
+
+
+    function myFunction1() {
+      var x = document.getElementsByClassName("bio");
+      var mod = 3;
+      for (var i = 0; i < x.length; i += mod) {
+        if (i === 0) {
+          continue;
+        }
+        console.log(i);
+        x[i].insertAdjacentHTML('beforebegin', '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176" data-ad-slot="9654111001" data-ad-format="auto"></ins>');
+      }
+    }
+    window.onload = myFunction1;
+    
+
+
+
+
+
+
+
+
+
     $(document).ready(function()
 {
     $(".bio").each(function () {
