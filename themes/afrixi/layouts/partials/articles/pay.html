@@ -29,27 +29,30 @@
 <div class="senpay" id="table"></div>
 
 
-<script>
-  function myFunction1() {
-    var x = document.getElementsByClassName("bio"),
-     var adCode = ' <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176" crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-  style="display:block"
-  data-ad-client="ca-pub-7616051391644176"
-  data-ad-slot="9654111001"
-  data-ad-format="auto"
-  data-full-width-responsive="true"></ins>
-<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>';
-      mod = 1;
-    for(var i=0; i<x.length; i=(i+mod)) {
-      if(i == 0) { continue; }
-      console.log(i);
-        x[i].insertAdjacentHTML('beforebegin', adCode);
-    }
-  }
-  window.onload=myFunction1
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      var bioTables = document.querySelectorAll(".bio");
+      for (var i = 0; i < bioTables.length; i++) {
+          var adContainer = document.createElement("div");
+          adContainer.className = "ad-container";
+          adContainer.appendChild(document.querySelector(".adsbygoogle").cloneNode(true));
+          bioTables[i].parentNode.insertBefore(adContainer, bioTables[i]);
+      }
+  });
   </script>
+
+
+
+
+
+
+
+
+
 
 
 
