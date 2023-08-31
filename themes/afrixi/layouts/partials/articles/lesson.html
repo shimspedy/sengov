@@ -163,20 +163,6 @@
           {{.Content}}
           </div>
         </div>
-        <div class="adsgoogle">
-
-          <!-- <script async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-            crossorigin="anonymous"></script> -->
-          <!-- afrixside -->
-          <!-- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-            data-ad-slot="5494845660" data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-        </div>
- -->
-
 
 
  <div id='discourse-comments'></div>
@@ -203,10 +189,7 @@
 
       
 
-        <!-- <div class="card-content card blue lighten-4 bio " style="margin: 0px 20px;"> 
-          This page is sourced primarily from official <a href="{{.Params.Website}}"> {{.Params.Role}} {{.Params.Name}}'s </a> Website.
-          Consider visiting your representative's official website for the latest updates.
-        </div> -->
+        
 
         {{- partial "social-icons/vertical" . -}}
 
@@ -226,13 +209,13 @@
 
 
   </div>
-  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0px;">
-    <!-- <div id="nav-side-ad">
+  <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0;position: sticky;top: 0;">
+    <div id="nav-side-ad">
 
       {{- partial "ads/sidebar" . -}}  
-      {{- partial "ads/sponsor" . -}} -->
+      {{- partial "ads/sponsor" . -}}
       {{- partial "ads/sidebar-custom" . -}} 
      
-    <!-- </div> -->
+    </div>
   </aside>
 </div>
