@@ -32,14 +32,18 @@ twitter: SenatorTimScott
 ---
 
 #### About senator Tim Scott
-Growing up in a poor, single parent household in North Charleston, South Carolina, a young Tim Scott grew accustomed to moving every few years, as well as the long hours his mom worked to keep a roof over their heads. After failing four classes his freshman year of high school, Tim’s path forward was murky at best.
 
-But thankfully, he had a mom who stuck with him, and met a mentor that showed him the wisdom of conservative principles. Through their belief and his own determination, Tim got his grades back on track, graduated from Charleston Southern University, and eventually built his own successful small business.
+As a leader on tax reform, education and job training, and innovative ideas to reinvestin our nation’s distressed communities, United States Senator Tim Scott brings aunique perspective to the United States Senate. Growing up mired in poverty in a single parent household, Tim says that he is living his mother’s American Dream, and through his Opportunity Agenda works every single day to ensure every American family has the opportunity to succeed.
 
-Through the lessons taught by his mentor, Tim developed his mission statement: to positively affect the lives of a billion people. That led him to public service, where he was elected to Charleston County Council, the South Carolina House of Representatives, the United States House of Representatives, and the United States Senate.
+Senator Scott has served the great state of South Carolina in the U.S. Senate since 2013, and brings with him a mission to positively affect the lives of a billion people with the message of hope and opportunity. Growing up poor in a single-parent household in North Charleston, South Carolina, Tim watched his single mother work 16-hour days as a nurse’s assistant to keep him and his brother afloat.
 
-Since joining the Senate in 2013, Senator Scott has been a national leader on efforts to bring opportunity to every American family. His signature legislation creating Opportunity Zones was passed as part of the 2017 tax reform package, and has the potential to bring billions of dollars of private investment into distressed communities across the country.
+As a freshman in high school, Tim nearly failed out, flunking four classes. However, the next year, he met his mentor named John Moniz who shared life changing ideas and the basic principles of business with Tim. Through hard work,education, innovation, and with the discipline his mother gave him, he began the process of turning his life around.
 
-As he continues to lead on the implementation of the Opportunity Zones initiative, Senator Scott also plays a critical role in issues regarding workforce development, education and diversity. Whether it’s tackling the skills gap, making sure children have access to the educational environment best suited for them, or working to bring everyone to the table to find solutions, Senator Scott will keep fighting for South Carolinians every single day he serves in the U.S. Senate.
+The lessons gleaned from his mentor still guide Tim today: you can think your wayout of poverty, and financial independence is a stepping-stone for success. Having a job is a good thing, but creating jobs is a great thing.
 
+An unbridled optimist, Tim believes that despite our current challenges, ournation’s brightest days are ahead of us. During his time in office, he has been atireless advocate for creating more opportunities for families living paycheck-topaycheck and helping children who are mired in poverty have access to quality education. He launched his Opportunity Agenda, a legislative package aimed atachieving these goals, as well as the Senate Opportunity Coalition, a group of Senators committed to helping those in need.
+
+Tim also knows that in order for our nation to prosper, we must get our spendingand national debt under control. He has sponsored balanced budget amendments throughout his time in Congress, and will continue working to restore fiscal sanity in Washington.
+
+Prior to public service, Tim built a successful small business of his own. He was first elected to Charleston County Council, to the South Carolina State House, andthe U.S. House of Representatives. In January 2013, Tim was sworn in as a United States Senator from South Carolina, and was re-elected in January 2017.
 
