@@ -2,7 +2,7 @@
 date: 2023-09-28T12:03:20-04:00
 name: Cornel West 
 title: " Cornel West  for President 2024"
-seo_title: "Cornel West 's Presidential Campaign Policies"
+seo_title: "Cornel West Presidential Campaign Policies"
 description: A concise examination of the policies put forth by Cornel West  during his presidential campaign.
 authors:
   - john shim
