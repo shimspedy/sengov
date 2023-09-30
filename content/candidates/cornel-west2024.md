@@ -1,5 +1,5 @@
 ---
-date: 2023-09-27T12:03:20-04:00
+date: 2023-09-28T12:03:20-04:00
 name: Cornel West 
 title: " Cornel West  for President 2024"
 seo_title: "Cornel West 's Presidential Campaign Policies"
