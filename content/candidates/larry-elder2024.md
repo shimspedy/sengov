@@ -29,3 +29,33 @@ Larry was born and raised in South Central Los Angeles, and his family’s story
 
 After running for Governor of California in 2021 and securing millions of votes, Larry is now ready for the next step in his journey: running for President of the United States. We’ve got a country to save!
 
+
+ Larry Elder, a prominent American right-wing political commentator and conservative talk radio host who had previously run for governor of California in 2021, officially declared his candidacy for the office of President of the United States.
+
+**Background:**
+Larry Elder entered the political arena by announcing his candidacy in July 2021 to replace Governor Gavin Newsom in the California gubernatorial recall election of 2021. Despite Newsom surviving the recall, Elder emerged victorious in the second question of the election, which would have led to his replacement of Newsom if the recall had succeeded. On election night, Elder encouraged his supporters to be gracious in defeat, pledging to continue his political efforts.
+
+**Presidential Interest:**
+Approximately a year after the recall election, Larry Elder began exploring the possibility of running for the presidency. If successful, he would become the first African American presidential nominee of the Republican Party and the second African American president after Barack Obama. However, his financial disclosures raised some questions, as they did not provide precise income figures, contrary to guidelines from the Office of Government Ethics.
+
+**First Debate:**
+Despite believing he met the qualifications to participate in the first presidential debate in Wisconsin, Elder was excluded from the list of candidates officially announced by the Republican National Committee (RNC). In response, he criticized the selection process as corrupt and vowed legal action to secure a place on the debate stage. Elder's campaign fell short of the required 40,000 donors, which was a contributing factor to his exclusion.
+
+**Political Positions:**
+
+**Economic Issues:**
+Larry Elder has proposed a series of economic reforms, including abolishing the Internal Revenue Service, implementing a national sales tax, reducing government size by 80%, ending welfare and entitlement programs, abolishing the minimum wage, and eliminating corporate taxes. He opposes minimum wage laws, supports reducing government spending to 10 percent of the U.S. gross domestic product (GDP), and favors preventing the sitting president and members of Congress from seeking re-election in the next cycle if the spending cap is exceeded.
+
+**Social Issues:**
+Elder is firmly opposed to abortion, referring to it as "murder," and has called for the overturning of Roe v. Wade. He believes that abortion laws should be determined at the state level. He has faced criticism for his comments regarding transgender individuals, using male pronouns when referring to transgender women.
+
+**Criminal Justice:**
+Larry Elder is critical of what he perceives as a "soft-on-crime" ethos in California and opposes certain police reforms, such as banning specific chokeholds. He has expressed a desire to repeal Proposition 47, which reclassified certain lower-level crimes as misdemeanors.
+
+**Science, Environment, and COVID-19:**
+During his media career, Elder has been associated with the dissemination of misinformation on scientific topics, including secondhand tobacco smoke, climate change, and COVID-19 treatments. He has downplayed the health risks of secondhand smoke and expressed skepticism about the human contribution to climate change. Additionally, he has criticized COVID-19 vaccine mandates and promoted COVID-19 misinformation on his radio show.
+
+**Race Relations:**
+Larry Elder does not acknowledge systemic racism and has been critical of the Black Lives Matter movement, attributing rising crime rates to its influence. He has made controversial statements about the impact of welfare on Black families and has proposed school choice as a solution for the academic performance of Black children.
+
+Please note that this information is based on Larry Elder's political positions and statements as of the date provided and may be subject to change. For the most up-to-date information on his presidential campaign and positions, it is recommended to refer to official campaign sources and news outlets.
