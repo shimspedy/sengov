@@ -1,5 +1,5 @@
 ---
-date: 2023-09-24T12:03:20-04:00
+date: 2023-09-26T12:03:20-04:00
 name: Chris Christie
 title: " Chris Christie for President 2024"
 seo_title: "Chris Christie's Presidential Campaign Policies"
