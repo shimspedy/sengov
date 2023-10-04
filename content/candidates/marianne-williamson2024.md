@@ -3,7 +3,7 @@ date: 2023-09-30T12:03:20-04:00
 name: Marianne Williamson 
 title: " Marianne Williamson  for President 2024"
 seo_title: "Marianne Williamson Presidential Campaign Policies"
-description: Gov Marianne Williamson presidential campaign.
+description: Marianne Williamson presidential campaign.
 authors:
   - john shim
 categories:
