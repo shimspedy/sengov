@@ -62,7 +62,7 @@ New Mexico’s farmers, dairy producers, and ranchers help drive the state’s e
 
 I am strong proponent and cosponsor of the Senate’s bipartisan farm bill, which helps provide certainty for rural New Mexico and boosts our state’s dynamic agriculture economy. The farm bill includes federal funding for important programs in New Mexico including soil and water conservation, rural economic development, drought and disaster assistance, renewable energy, and food and nutrition programs.
 
-#### JUSTICE & CIVIL LIBERTIES
+#### JUSTICE and CIVIL LIBERTIES
 Our civil rights and liberties are only real if every American benefits from them equally. 
 
 From fighting for LGBTQ+ equality and increasing transparency and accountability in government, to reforming our broken immigration system, protecting your right to privacy, closing the gender wage gap, and reducing sexual and domestic violence, I will work to safeguard the rights of all New Mexicans. 
@@ -78,7 +78,7 @@ Outdoor traditions on our public lands are not only at the core of New Mexico’
 
 To ensure our public lands remain an economic engine, we must continue to protect our air from pollution, conserve our precious water resources, and work to mitigate the devastating effects of climate change. I am committed to protecting our public lands, watersheds, and wildlife for our children and all future generations to enjoy.
 
-#### ECONOMY & JOBS
+#### ECONOMY and JOBS
 Too many people in Washington, D.C. think that if the stock market is going up, the economy is in good shape. But that’s not the reality for working families. The way we should measure the success of the economy is if parents can afford to send their kids to college, entrepreneurs can start new businesses, and workers are able to retire with peace of mind.
 
 As a member of the Joint Economic Committee, I am focused on building an economy that works for everyone—not just a select few. My number one priority is not only continuing to grow our economy, but also ensuring that we create good jobs that pay workers a fair and livable wage.
@@ -105,7 +105,7 @@ I was proud to lead a bipartisan group of lawmakers that passed an energy agreem
 
 Transitioning to clean energy sources and making America energy independent not only creates jobs. It also helps reduce our dependence on foreign oil and strengthens our national security. With forward-looking energy policies, I’m confident we can meet our climate goals and create thousands of good paying jobs in the process.
 
-#### HEALTH CARE & WELLNESS
+#### HEALTH CARE and WELLNESS
 Health care is a fundamental right and our goal must be to ensure that every American has access to quality, affordable care, no matter their means or where they’re from.
 
 New Mexico faces significant health challenges, including access to care in rural and tribal communities, limited mental health services, and an opioid addiction epidemic. Our state can’t afford to see the impacts of reckless repeal of the Affordable Care Act or efforts to dismantle our nation’s health care system and gut Medicare and Medicaid.
@@ -132,7 +132,7 @@ As one of my first actions in the Senate, I proudly cosponsored the reauthorizat
 
 I have also worked with New Mexico’s tribes and pueblos to introduce the Safeguard Tribal Objects of Patrimony Act to prohibit the exporting of sacred Native American items and increase penalties for stealing and illegally trafficking tribal cultural patrimony. I remain committed to helping repatriate stolen culturally significant items to their rightful owners.
 
-#### INNOVATION & TECHNOLOGY
+#### INNOVATION and TECHNOLOGY
 I believe that innovation is what America does best. I also believe that technology and science-driven policies are how we can best meet many of our 21st century challenges.
 
 New Mexico has long been home to leading innovators and researchers. Our national laboratories, research universities, and military installations have an extensive history of breakthroughs that have changed the way we power our electric grid, protect our national security, and connect the world.
@@ -145,7 +145,7 @@ The clean energy industry is one area where New Mexico stands to gain thousands 
 
 We owe it to our children and our economy to make smart investments in education and target areas where we have the potential to create jobs and major new industries. By preparing our students and retraining our labor force for a lucrative high-tech job market, we can build pathways toward a more diverse future generation of innovators and entrepreneurs, and create a sustainable and prosperous future for our state.
 
-#### MILITARY & NATIONAL SECURITY
+#### MILITARY and NATIONAL SECURITY
 Our women and men in uniform make up the strongest, best-trained, most well-equipped military in the world. New Mexicans have long answered the call of duty to serve. This tradition runs deep in our state’s history, and at times New Mexico has had the highest rate of military volunteerism of any state in the country.
 
 With military bases at Cannon, Holloman, Kirtland, and White Sands Missile Range, and two national laboratories, New Mexico plays a pivotal role in our national security and defense. Our state is also at the forefront of research and development that contribute to our country’s safety. I am proud to have championed initiatives to expand the roles of our labs and bases—from directed energy and small satellites to new flying missions.  Today, New Mexico is the nation’s Center of Excellence for researching, developing, and testing high energy laser and high powered microwave systems as well as researching and developing rapid space capabilities. I will continue fighting to ensure our state remains a leader in developing these next generation systems as well as transformative technologies like Artificial Intelligence. In the Senate, I founded a bipartisan Artificial Intelligence Caucus so that lawmakers can strike a careful balance between mitigating the risks of new technologies like AI and fostering its tremendous economic and national security benefits.
@@ -165,7 +165,7 @@ As an engineer, I bring a problem solver’s perspective to the U.S. Senate in a
 
 Our labs will continue to have a vital role in addressing the nation’s most pressing challenges. Additionally, the completion of the environmental cleanup of legacy waste from the work at Los Alamos and Sandia is an important commitment that Congress and the Department of Energy have made to New Mexico communities that should remain a top funding priority.
 
-#### TRANSPORTATION & INFRASTRUCTURE
+#### TRANSPORTATION and INFRASTRUCTURE
 A safe, efficient transportation system and strong basic infrastructure helps move New Mexico forward and supports our local economy.
 
 Investments not only in public transit, passenger rail, and paved roads, but broadband infrastructure, drinking water and sewer lines, and modern wastewater treatment facilities provide the groundwork for economic development and job creation. I am committed to ensuring New Mexico has these resources. We must also continue to develop plans to modernize our electrical transmission infrastructure so we can accelerate development of distributed and renewable energy resources.
