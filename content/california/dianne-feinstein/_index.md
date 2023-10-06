@@ -18,7 +18,7 @@ name:	Dianne Feinstein
 state:	California
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	June 22, 1933
 age: '87'
 enteredoffice:	November 10, 1992
@@ -32,29 +32,16 @@ twitter: SenFeinstein
 votespotter: '141451'
 ---
 
-Senator Dianne Goldman Berman Feinstein is an American politician. She has been serving as a member of the U.S. Senate under the Democrats since 1992. She was also the Mayor of San Francisco from 1978 to 1988.
 
-Dianne was born in San Francisco on June 22, 1933. She graduated from Covenant of the Sacred Heart High School in 1951. She proceeded to earn her B.A. in History at Stanford University in 1955.
+Dianne Goldman Berman Feinstein (/ˈfaɪnstaɪn/; born Dianne Emiel Goldman; June 22, 1933 – September 29, 2023) was a prominent American political figure who held the position of United States Senator from California from 1992 until her passing in 2023. She was a stalwart member of the Democratic Party and previously served as the Mayor of San Francisco from 1978 to 1988.
 
-As California’s senior Senator, Dianne Feinstein has built a reputation as an independent voice, working hard to find commonsense solutions to problems facing California and the nation. 
+A native of San Francisco, Feinstein graduated from Stanford University in 1955. Her political journey commenced with her election to the San Francisco Board of Supervisors in 1969, where she swiftly assumed the role of the board's first female president in 1970. Notably, in 1978, while serving as president of the board for the third time, Feinstein found herself in the spotlight following the tragic assassinations of Mayor George Moscone and City Supervisor Harvey Milk. She stepped into the role of mayor, marking the first time a woman had held the position in San Francisco's history. During her tenure, she spearheaded the revitalization of the city's iconic cable car system and managed the 1984 Democratic National Convention. Despite a recall attempt in 1983, Feinstein remained a beloved mayor and was acclaimed as the most effective mayor in the nation by City & State in 1987.
 
-Since her election to the Senate in 1992, Senator Feinstein has built a significant record of legislative achievements across a wide range of issues. 
+Following an unsuccessful gubernatorial bid in 1990, Feinstein secured election to the U.S. Senate in a special election in 1992. In November of that year, she became California's first female U.S. senator, and shortly thereafter, she ascended to the position of the state's senior senator when Alan Cranston retired in January 1993. Feinstein's popularity was evident through her reelection five times, with her receiving a record 7.86 million votes in the 2012 election, the highest number ever garnered by a U.S. Senate candidate.
 
-Senator Feinstein led a bipartisan group of senators in passing legislation to drastically increase the fuel efficiency of cars. She was a leading voice in the effort to legalize gay marriage and ensure rights for LGBT Americans. She’s a champion for the preservation of the Mojave Desert, Lake Tahoe and California’s forests. She helped create the nationwide AMBER Alert network, passed bills to criminalize border drug tunnels and has long focused on improving California’s water infrastructure and reducing the threat of wildfires. She also continues to advocate for commonsense gun laws. 
+Feinstein's legislative accomplishments included authoring the 1994 Federal Assault Weapons Ban and breaking gender barriers as the first woman to chair both the Senate Rules Committee and the Senate Intelligence Committee. She also made history as the first woman to preside over a U.S. presidential inauguration. Feinstein chaired the Senate Intelligence Committee from 2009 to 2015 and served as the ranking member of the Senate Judiciary Committee from 2017 to 2021.
 
-Among her most notable achievements are the enactment of the federal Assault Weapons Ban in 1994, a law that prohibited the sale, manufacture and import of military-style assault weapons that expired in 2014 and the six-year review of the CIA’s detention and interrogation program that culminated in the 2014 release of the report’s executive summary and passage of legislation ensuring that post-9/11 interrogation methods are never used again. 
-
-Senator Feinstein authored the first major cybersecurity bill to be signed into law in years. She’s an aggressive opponent of sex trafficking and authored legislation to help prevent sex abuse of amateur athletes. She’s an advocate for consumers, authoring bills to review chemicals in personal care products, ban chemicals in toys, crack down on rogue pharmacies and strengthen food safety. 
-
-In 2017, the senator became the top Democrat on the Senate Judiciary Committee – the first woman to assume that role – where she helped shape policy on criminal law, national security, immigration, civil rights and the courts. She stepped down from that position in January 2021. 
-
-Senator Feinstein was the first woman to chair the Senate Select Committee on Intelligence, a position she held for six years beginning in 2009. During her tenure as chairman, Senator Feinstein oversaw the passage of six intelligence authorization bills – after five years without a single bill – and the release of a key bipartisan report on the Benghazi attacks. She remains a senior member of the committee. 
-
-Senator Feinstein is a senior member of the Appropriations Committee where she serves as ranking member on the Subcommittee on Energy and Water Development. She has secured billions of dollars for California communities, including critical transportation, water supply and federal building projects. She has worked with members of both parties to secure and safeguard spent nuclear waste and has used her seniority to oppose the development of new nuclear weapons and hold down the rapidly increasing costs of the U.S. nuclear arsenal. 
-
-Her fourth committee assignment is on the Senate Rules and Administration Committee, which she chaired during the 110th Congress. In that capacity, Senator Feinstein was the first woman to chair the Joint Congressional Committee on Inaugural Ceremonies and presided over the inauguration of President Barack Obama in 2009. 
-
-In addition to her committee assignments, Senator Feinstein is co-chairman of the National Security Working Group, co-chairman of the Senate Cancer Coalition and co-chairman of the Senate Women’s Caucus on Burma. Senator Feinstein also served as co-Chairman of the Senate Caucus on International Narcotics Control until 2021. She is also a member of the Anti-Meth Caucus, the Congressional Dairy Caucus and the Congressional Former Mayors Caucus. She has served as a member of the Aspen Strategy Group since 1997. 
+During her later years in office, concerns about her mental fitness to serve arose as her health declined with age. In February 2023, Feinstein announced her decision not to seek reelection in 2024. Sadly, she passed away in office on September 29, 2023, at the age of 90. At the time of her passing, Feinstein held several distinctions, including being the oldest sitting U.S. senator and member of Congress. She also held the record as the longest-serving U.S. senator from California and the longest-serving female senator in U.S. history.
 
 Among Senator Feinstein’s many legislative accomplishments: 
 
