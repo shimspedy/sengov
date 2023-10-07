@@ -13,7 +13,7 @@
       <h3 class="author">
         {{- range .Params.authors }}
         {{ $authorPath := printf "authors/%s" (urlize .) }}
-        {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
+        {{- with $.Site.GetPage "taxonomy" $authorPath }}
         {{ partial "author-card" . }}
         {{ end }}
         {{ end }}
