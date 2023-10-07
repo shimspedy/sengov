@@ -1,5 +1,7 @@
 ---
 name: john shim
+title: john Hashim
+seo_title: "john Hashim"
 photo_url: '/authors/shim.jpeg'
 avatar: '/authors/shim.jpeg'
 facebook: 
