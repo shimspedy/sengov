@@ -269,9 +269,13 @@
             cursor: pointer;
             color: white !important;
           }
+
+          .hide{
+            opacity:0;
+            }
         </style>
         
-        <div class="floating-banner hide-on-med-and-down">
+        <div class="floating-banner hide-on-med-and-down" id="trmp">
           <div class="hp1">
             <h6>What do you think of Trump’s Indictment?</h6>
             <p>If Trump is found guilty in the case related to retaining sensitive documents, what should the punishment be?</p>
@@ -285,6 +289,21 @@
         <script>
           const closeBtn = document.querySelector('.close-button');
           const floatingBanner = document.querySelector('.floating-banner');
+
+          
+          var elementToHide = document.getElementById("trmp");
+          elementToHide.style.opacity = 0;
+          var intervalId = setInterval(function(){
+            if(elementToHide.style.opacity >= 1)
+            {
+              clearInterval(intervalId);
+            }else{
+              elementToHide.style.opacity = parseFloat(elementToHide.style.opacity) + 0.5;
+            }
+          },2000);
+        
+
+
         
           closeBtn.addEventListener('click', function () {
             floatingBanner.style.display = 'none';
