@@ -27,7 +27,7 @@ role: congress
 inoffice: current
 twitter: EliCraneAZ
 ---
-#### Congresswoman Elijah Crane
+#### Congressman Elijah Crane
 Eli Crane is a combat veteran, small-business owner, husband, father and native Arizonan.
 
 Eli went on five war time deployments, three of them to the Middle East with SEAL Team 3 and served our country for 13 years – protecting and defending America’s freedom, way of life, and Constitution.

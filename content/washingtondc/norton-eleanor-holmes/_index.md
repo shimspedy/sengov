@@ -1,9 +1,9 @@
 ---
 date: 2020-11-22T11:54:12-05:00
 title: "Eleanor Holmes Norton"
-seo_title: "contact Delegate  Eleanor Holmes Norton"
+seo_title: "contact congresswoman  Eleanor Holmes Norton"
 subheader:
-     greeting: Contact Delegate  Eleanor Holmes Norton 
+     greeting: Contact congresswoman  Eleanor Holmes Norton 
      description: Eleanor Holmes Norton is an American politician serving as a non-voting Delegate to the United States House of Representatives, representing the District of Columbia.
 description: Contact Delegate  Eleanor Holmes Norton of Alabama. Contact information for Eleanor Holmes Norton includes email address, phone number, and mailing address.
 image: norton-eleanor-holmes.jpeg
