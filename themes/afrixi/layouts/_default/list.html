@@ -8,6 +8,8 @@
 {{ partial "articles/pay" . }}
 {{else if and (.Layout) (eq .Layout "gs")}}
 {{ partial "articles/gs" . }}
+{{else if and (.Layout) (eq .Layout "executive")}}
+{{ partial "articles/executive" . }}
 {{else if and (.Layout) (eq .Layout "voting")}}
 {{ partial "articles/voting" . }}
 {{else}}

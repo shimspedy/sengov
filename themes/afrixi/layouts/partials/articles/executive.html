@@ -1,0 +1,63 @@
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="white z-depth-1 col xl4 l4 m12 s12 right-col-article" i style="padding:0;position:sticky;top:100px">
+      {{ partial "nav/course-list" . }}
+      {{- partial "ads/sidebar-custom" . -}} 
+      
+    </aside>
+    <div class="col xl8 l8 m12 s12">
+
+
+
+
+
+{{ if isset .Params "paytable" }}
+{{- partial "ads/sidebar-custom" . -}} 
+<div id="{{ .Params.paytable }}"></div>
+{{ else }}
+<div id="paytable1"></div>
+<div id="paytable2"></div>
+{{- partial "ads/sidebar-custom" . -}} 
+<div id="paytable3"></div>
+<div id="paytable4"></div>
+<div id="paytable5"></div>
+{{- partial "ads/sidebar-custom" . -}} 
+<div id="paytable6"></div>
+<div id="paytable7"></div>
+<div id="paytable8"></div>
+{{- partial "ads/sidebar-custom" . -}} 
+<div id="paytable9"></div>
+<!-- Add more div elements with unique IDs for additional tables if needed -->
+{{ end }}
+
+
+
+
+</div>
+</div>
+<style>
+    .table-of-contents li {
+    padding: 2px 0;
+    background-color: #f0f0f0;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=$lightColor,endColorstr=$darkColor);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F0F0F0),to(#DBDBDB));
+    border-bottom: 1px solid #bdbdbd;
+    border-top: 1px solid #fff;
+    height: 42px;
+    line-height: 42px;
+    font-size: 15px !important;
+}
+</style>
+<script>
+    // Call the function for each XML source and target element
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/EX.xml', 'paytable1');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/ES.xml', 'paytable2');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/SLST.xml', 'paytable3');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/ALJ.xml', 'paytable4');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/AAJ.xml', 'paytable5');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/BCA.xml', 'paytable6');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/ALJ_LOC.xml', 'paytable7');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/AAJ_LOC.xml', 'paytable8');
+fetchAndDisplayXMLData('https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/BCA_LOC.xml', 'paytable9');
+// Add more URLs and target elements as needed
+</script>

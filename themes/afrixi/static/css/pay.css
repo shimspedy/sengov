@@ -69,9 +69,7 @@
   tbody {
     display: table-row-group;
   }
-  tbody:nth-last-child(-n + 2) {
-    display: none;
-  }
+
   /* Apply styles to even rows */
   tr:nth-child(even) {
     background-color: #f2f2f2;

@@ -15,11 +15,17 @@
 
 
 
-
+{{ $executivejs := resources.Get "js/executive.js" | minify }}
 {{ $leojs := resources.Get "js/leo.js" | minify }}
 {{ $gsjs := resources.Get "js/gs.js" | minify }}
 {{ $tablejs := resources.Get "js/table.js" | minify }}
 {{ $indextablejs := resources.Get "js/indextable.js" | minify }}
+
+
+
+{{ if eq .Params.data "executive" }}
+<script src="{{ $executivejs.RelPermalink }}"></script>
+{{ end }}
 
 
 {{ if eq .Params.data "leo" }}

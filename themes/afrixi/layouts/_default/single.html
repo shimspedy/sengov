@@ -8,6 +8,9 @@
      {{else if and (.Layout) (eq .Layout "gs")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/gs" . }}
+     {{else if and (.Layout) (eq .Layout "executive")}}
+          {{ partial "markup/article" . }}
+          {{ partial "articles/executive" . }}
     {{else if and (.Layout) (eq .Layout "military")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/military" . }}
