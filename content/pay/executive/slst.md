@@ -11,7 +11,7 @@ video:
 imageurl: /pay/se.png
 imagedir: root
 url: /pay/executive/slst/
-weight: 10
+weight: 6
 layout: executive
 data: executive
 paytable: paytable3

@@ -11,7 +11,7 @@ video:
 imageurl: /pay/se.png
 imagedir: root
 url: /pay/executive/lalj/
-weight: 8
+weight: 9
 layout: executive
 data: executive
 paytable: paytable7
