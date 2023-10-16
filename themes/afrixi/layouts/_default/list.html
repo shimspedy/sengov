@@ -2,6 +2,10 @@
 {{if and (.Layout) (eq .Layout "course_home")}}
 {{ partial "markup/course" . }}
 {{ partial "articles/lesson" . }}
+{{else if and (.Layout) (eq .Layout "statehome")}}
+{{ partial "listings/statehome" . }}
+{{else if and (.Layout) (eq .Layout "states")}}
+{{ partial "listings/states" . }}
 {{else if and (.Layout) (eq .Layout "military")}}
 {{ partial "articles/military" . }}
 {{else if and (.Layout) (eq .Layout "pay")}}
@@ -79,9 +83,7 @@
 
 {{ if and  (not (in .Section "voting")) }}
 {{ partial "listings/section" . }}
-
 {{end}}
-
 
 {{end}}
 
