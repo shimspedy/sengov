@@ -8,7 +8,7 @@ author: john shim
 url: /states/illinois/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 

@@ -8,7 +8,7 @@ author: john shim
 url: /states/massachusetts/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 stateweb: "https://www.mass.gov/"

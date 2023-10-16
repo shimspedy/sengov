@@ -8,7 +8,7 @@ author: john shim
 url: /states/indiana/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 

@@ -8,7 +8,7 @@ author: john shim
 url: /states/new-mexico/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 stateweb: "https://www.governor.state.nm.us/"

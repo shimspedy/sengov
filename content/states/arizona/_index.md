@@ -8,7 +8,7 @@ author: cs
 url: /states/arizona/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 stateweb: "https://az.gov/"
 govweb: "https://azgovernor.gov/"

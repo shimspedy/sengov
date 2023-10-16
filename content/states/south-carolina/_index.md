@@ -8,7 +8,7 @@ author: Contact Senators
 url: /states/south-carolina/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 stateweb: "https://www.sc.gov/"

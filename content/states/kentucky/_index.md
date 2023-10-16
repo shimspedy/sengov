@@ -8,7 +8,7 @@ author: john shim
 url: /states/kentucky/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 

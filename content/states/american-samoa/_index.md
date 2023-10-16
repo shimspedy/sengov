@@ -8,7 +8,7 @@ author: contact governors
 url: /states/american-samoa/
 flag: seal.webp
 weight: 1
-state: "yes"
+layout: states
 
 stateweb: "https://www.americansamoa.gov/"
 govweb: "https://www.americansamoa.gov/"

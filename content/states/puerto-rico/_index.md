@@ -8,7 +8,7 @@ author: contact governors
 url: /states/puerto-rico/
 weight: 1
 flag: seal.png
-state: "yes"
+layout: states
 
 
 

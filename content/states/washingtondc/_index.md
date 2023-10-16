@@ -7,5 +7,5 @@ description: Contact Washington D.C Governor
 author: contact governors
 url: /states/washingtondc/
 weight: 1
-state: "yes"
+layout: states
 ---

@@ -8,7 +8,7 @@ author: john shim
 url: /states/maine/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 stateweb: "https://www.maine.gov/portal/index.html"

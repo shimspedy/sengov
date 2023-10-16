@@ -8,7 +8,7 @@ author: john shim
 url: /states/north-dakota/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 stateweb: "https://www.nd.gov/"

@@ -8,7 +8,7 @@ author: john shim
 url: /states/minnesota/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 

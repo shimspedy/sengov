@@ -8,7 +8,7 @@ author: cs
 url: /states/delaware/
 flag: seal.png
 weight: 1
-state: "yes"
+layout: states
 
 
 
