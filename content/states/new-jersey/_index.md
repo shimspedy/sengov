@@ -5,7 +5,7 @@ ab: "NJ"
 seo_title: "Contact New Jersey  Governors And Senators"
 description: Contact New Jersey Senators
 author: john shim
-url: /new-jersey/
+url: /states/new-jersey/
 flag: seal.png
 weight: 1
 state: "yes"

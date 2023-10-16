@@ -5,7 +5,7 @@ ab: "VI"
 seo_title: "Contact Virgin Islands Governor"
 description: Contact Virgin Islands Governor
 author: contact governors
-url: /virgin-islands/
+url: /states/virgin-islands/
 weight: 1
 state: "yes"
 

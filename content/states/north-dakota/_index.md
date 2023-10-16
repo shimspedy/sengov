@@ -5,7 +5,7 @@ ab: "ND"
 seo_title: "Contact North Dakota  Governors And Senators"
 description: Contact North Dakota Senators
 author: john shim
-url: /north-dakota/
+url: /states/north-dakota/
 flag: seal.png
 weight: 1
 state: "yes"

@@ -5,7 +5,7 @@ ab: "MS"
 seo_title: "Contact Mississippi  Governors And Senators"
 description: Contact Mississippi Senators
 author: john shim
-url: /mississippi/
+url: /states/mississippi/
 flag: seal.png
 weight: 1
 state: "yes"

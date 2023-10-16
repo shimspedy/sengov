@@ -5,7 +5,7 @@ ab: "NE"
 seo_title: "Contact Nebraska  Governors And Senators"
 description: Contact Nebraska Senators
 author: john shim
-url: /nebraska/
+url: /states/nebraska/
 flag: seal.png
 weight: 1
 state: "yes"

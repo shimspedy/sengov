@@ -5,7 +5,7 @@ ab: "MO"
 seo_title: "Contact Montana  Governors And Senators"
 description: Contact Montana Senators
 author: john shim
-url: /montana/
+url: /states/montana/
 flag: seal.png
 weight: 1
 state: "yes"

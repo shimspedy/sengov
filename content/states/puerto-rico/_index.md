@@ -5,7 +5,7 @@ ab: "PR"
 seo_title: "Contact Puerto Rico Governor"
 description: Contact Puerto Rico Governor
 author: contact governors
-url: /puerto-rico/
+url: /states/puerto-rico/
 weight: 1
 flag: seal.png
 state: "yes"

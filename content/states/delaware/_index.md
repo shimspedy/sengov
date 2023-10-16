@@ -5,7 +5,7 @@ ab: "DE"
 seo_title: "Contact Delaware  Governors And Senators"
 description: Contact Delaware  Senators
 author: cs
-url: /delaware/
+url: /states/delaware/
 flag: seal.png
 weight: 1
 state: "yes"

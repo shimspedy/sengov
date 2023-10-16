@@ -5,7 +5,7 @@ ab: "IA"
 seo_title: "Contact Iowa  Governors And Senators"
 description: Contact Iowa Senators
 author: john shim
-url: /iowa/
+url: /states/iowa/
 flag: seal.png
 weight: 1
 state: "yes"

@@ -5,7 +5,7 @@ ab: "NV"
 seo_title: "Contact Nevada  Governors And Senators"
 description: Contact Nevada Senators
 author: john shim
-url: /nevada/
+url: /states/nevada/
 flag: seal.png
 weight: 1
 state: "yes"

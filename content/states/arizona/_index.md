@@ -5,7 +5,7 @@ ab: "AZ"
 seo_title: "Contact Arizona  Governors And Senators"
 description: Arizona became the 48th state in the Union on February 14, 1912. 
 author: cs
-url: /arizona/
+url: /states/arizona/
 flag: seal.png
 weight: 1
 state: "yes"

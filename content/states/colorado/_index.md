@@ -5,7 +5,7 @@ ab: "CO"
 seo_title: "Contact Colorado  Governors And Senators"
 description: Contact Colorado Senators
 author: cs
-url: /colorado/
+url: /states/colorado/
 flag: seal.png
 weight: 1
 state: "yes"

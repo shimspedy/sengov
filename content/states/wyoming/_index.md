@@ -5,7 +5,7 @@ ab: "WY"
 seo_title: "Contact Wyoming  Governors And Senators"
 description: Contact Wyoming Senators
 author: john shim
-url: /wyoming/
+url: /states/wyoming/
 flag: seal.png
 weight: 1
 state: "yes"

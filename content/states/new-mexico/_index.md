@@ -5,7 +5,7 @@ ab: "NM"
 seo_title: "Contact New Mexico Senators"
 description: Contact New Mexico Senators
 author: john shim
-url: /new-mexico/
+url: /states/new-mexico/
 flag: seal.png
 weight: 1
 state: "yes"

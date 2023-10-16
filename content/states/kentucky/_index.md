@@ -5,7 +5,7 @@ ab: "KY"
 seo_title: "Contact Kentucky  Governors And Senators"
 description: Contact Kentucky Senators
 author: john shim
-url: /kentucky/
+url: /states/kentucky/
 flag: seal.png
 weight: 1
 state: "yes"

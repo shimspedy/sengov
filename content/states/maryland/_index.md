@@ -5,7 +5,7 @@ ab: "MD"
 seo_title: "Contact Maryland  Governors And Senators"
 description: Contact Maryland Senators
 author: john shim
-url: /maryland/
+url: /states/maryland/
 flag: seal.png
 weight: 1
 state: "yes"

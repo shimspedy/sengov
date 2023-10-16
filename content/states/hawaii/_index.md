@@ -5,7 +5,7 @@ ab: "HI"
 seo_title: "Contact Hawaii  Governors And Senators"
 description: Contact Hawaii Senators
 author: john shim
-url: /hawaii/
+url: /states/hawaii/
 flag: seal.png
 weight: 1
 state: "yes"

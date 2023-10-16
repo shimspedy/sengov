@@ -5,7 +5,7 @@ ab: "MO"
 seo_title: "Contact Missouri  Governors And Senators"
 description: Contact Missouri Senators
 author: john shim
-url: /missouri/
+url: /states/missouri/
 flag: seal.png
 weight: 1
 state: "yes"

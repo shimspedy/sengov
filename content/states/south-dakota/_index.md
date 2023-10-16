@@ -5,7 +5,7 @@ ab: "SD"
 seo_title: "Contact South Dakota  Governors And Senators"
 description: Contact South Dakota Senators
 author: john shim
-url: /south-dakota/
+url: /states/south-dakota/
 flag: seal.png
 weight: 1
 state: "yes"

@@ -5,7 +5,7 @@ ab: "OR"
 seo_title: "Contact Oregon  Governors And Senators"
 description: Contact Oregon Senators
 author: john shim
-url: /oregon/
+url: /states/oregon/
 flag: seal.png
 weight: 1
 state: "yes"

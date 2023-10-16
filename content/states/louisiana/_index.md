@@ -5,7 +5,7 @@ ab: "LA"
 seo_title: "Contact Louisiana  Governors And Senators"
 description: Contact Louisiana Senators
 author: john shim
-url: /louisiana/
+url: /states/louisiana/
 flag: seal.png
 weight: 1
 state: "yes"

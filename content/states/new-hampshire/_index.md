@@ -5,7 +5,7 @@ ab: "NH"
 seo_title: "Contact New Hampshire  Governors And Senators"
 description: Contact New Hampshire Senators
 author: john shim
-url: /new-hampshire/
+url: /states/new-hampshire/
 flag: seal.png
 weight: 1
 state: "yes"

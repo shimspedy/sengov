@@ -5,7 +5,7 @@ ab: "AR"
 seo_title: "Contact Arkansas  Governors And Senators"
 description: Contact Arkansas Senators
 author: cs
-url: /arkansas/
+url: /states/arkansas/
 flag: seal.png
 weight: 1
 state: "yes"

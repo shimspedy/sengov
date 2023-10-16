@@ -5,7 +5,7 @@ ab: "KS"
 seo_title: "Contact Kansas  Governors And Senators"
 description: Contact Kansas Senators
 author: john shim
-url: /kansas/
+url: /states/kansas/
 flag: seal.png
 weight: 1
 state: "yes"

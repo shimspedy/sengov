@@ -5,7 +5,7 @@ ab: "WI"
 seo_title: "Contact Wisconsin  Governors And Senators"
 description: Contact Wisconsin Senators
 author: john shim
-url: /wisconsin/
+url: /states/wisconsin/
 flag: seal.png
 weight: 1
 state: "yes"

@@ -5,7 +5,7 @@ ab: "OK"
 seo_title: "Contact Oklahoma  Governors And Senators"
 description: Contact Oklahoma Senators
 author: john shim
-url: /oklahoma/
+url: /states/oklahoma/
 flag: seal.png
 weight: 1
 state: "yes"

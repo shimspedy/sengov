@@ -5,7 +5,7 @@ ab: "MI"
 seo_title: "Contact Michigan  Governors And Senators"
 description: Contact Michigan Senators
 author: john shim
-url: /michigan/
+url: /states/michigan/
 flag: seal.png
 weight: 1
 state: "yes"

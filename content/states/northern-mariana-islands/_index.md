@@ -5,7 +5,7 @@ ab: "MP"
 seo_title: " Contact Northern Mariana Islands Governor"
 description: Contact Northern Mariana Islands Governor
 author: contact governors
-url: /northern-mariana-islands/
+url: /states/northern-mariana-islands/
 flag: seal.png
 weight: 1
 state: "yes"

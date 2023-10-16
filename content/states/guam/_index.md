@@ -5,7 +5,7 @@ ab: "GU"
 seo_title: "Contact Guam Governor"
 description: Contact Guam Governor
 author: contact governors
-url: /guam/
+url: /states/guam/
 weight: 1
 flag: seal.png
 state: "yes"

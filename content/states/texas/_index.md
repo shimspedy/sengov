@@ -5,7 +5,7 @@ ab: "TX"
 seo_title: "Contact Texas  Governors And Senators"
 description: Texas became the 28th state to join the Union on December 29, 1845.
 author: john shim
-url: /texas/
+url: /states/texas/
 flag: seal.png
 weight: 1
 state: "yes"

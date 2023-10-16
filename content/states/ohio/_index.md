@@ -5,7 +5,7 @@ ab: "OH"
 seo_title: "Contact Ohio  Governors And Senators"
 description: Ohio became the 17th state to join the Union on February 19, 1803.
 author: john shim
-url: /ohio/
+url: /states/ohio/
 flag: seal.png
 weight: 1
 state: "yes"

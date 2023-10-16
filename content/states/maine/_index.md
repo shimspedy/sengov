@@ -5,7 +5,7 @@ ab: "ME"
 seo_title: "Contact Maine  Governors And Senators"
 description: Contact Maine Senators
 author: john shim
-url: /maine/
+url: /states/maine/
 flag: seal.png
 weight: 1
 state: "yes"

@@ -5,7 +5,7 @@ ab: "TN"
 seo_title: "Contact Tennessee  Governors And Senators"
 description: Contact Tennessee Senators
 author: john shim
-url: /tennessee/
+url: /states/tennessee/
 flag: seal.png
 weight: 1
 state: "yes"

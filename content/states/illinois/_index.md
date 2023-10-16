@@ -5,7 +5,7 @@ ab: "IL"
 seo_title: "Contact Illinois  Governors And Senators"
 description: Contact Illinois Senators
 author: john shim
-url: /illinois/
+url: /states/illinois/
 flag: seal.png
 weight: 1
 state: "yes"

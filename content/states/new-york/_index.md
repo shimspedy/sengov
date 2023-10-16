@@ -5,7 +5,7 @@ ab: "NY"
 seo_title: "Contact New York  Governors And Senators"
 description: Contact New York Senators
 author: john shim
-url: /new-york/
+url: /states/new-york/
 flag: seal.png
 weight: 1
 state: "yes"

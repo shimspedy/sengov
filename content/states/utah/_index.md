@@ -5,7 +5,7 @@ ab: "UT"
 seo_title: "Contact Utah  Governors And Senators"
 description: Contact Utah Senators
 author: john shim
-url: /utah/
+url: /states/utah/
 flag: seal.png
 weight: 1
 state: "yes"

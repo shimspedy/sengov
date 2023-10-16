@@ -5,7 +5,7 @@ ab: "MA"
 seo_title: "Contact Massachusetts  Governors And Senators"
 description: Contact Massachusetts Senators
 author: john shim
-url: /massachusetts/
+url: /states/massachusetts/
 flag: seal.png
 weight: 1
 state: "yes"

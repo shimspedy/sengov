@@ -5,7 +5,7 @@ ab: "FL"
 seo_title: "Contact Florida  Governors And Senators"
 description: Contact Florida Senators
 author: john shim
-url: /florida/
+url: /states/florida/
 flag: seal.png
 weight: 1
 state: "yes"

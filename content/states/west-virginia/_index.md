@@ -5,7 +5,7 @@ ab: "WV"
 seo_title: "Contact West Virginia  Governors And Senators"
 description: Contact West Virginia Senators
 author: john shim
-url: /west-virginia/
+url: /states/west-virginia/
 flag: seal.png
 weight: 1
 state: "yes"

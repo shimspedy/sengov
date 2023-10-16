@@ -5,7 +5,7 @@ ab: "VT"
 seo_title: "Contact Vermont  Governors And Senators"
 description: Contact Vermont Senators
 author: john shim
-url: /vermont/
+url: /states/vermont/
 flag: seal.png
 weight: 1
 state: "yes"

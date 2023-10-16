@@ -5,7 +5,7 @@ ab: "WA"
 seo_title: "Contact Washington  Governors And Senators"
 description: Contact Washington Senators
 author: john shim
-url: /washington/
+url: /states/washington/
 flag: seal.png
 weight: 1
 state: "yes"

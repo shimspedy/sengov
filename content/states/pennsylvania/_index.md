@@ -5,7 +5,7 @@ ab: "PA"
 seo_title: "Contact Pennsylvania  Governors And Senators"
 description: Contact Pennsylvania Senators
 author: john shim
-url: /pennsylvania/
+url: /states/pennsylvania/
 flag: seal.png
 weight: 1
 state: "yes"

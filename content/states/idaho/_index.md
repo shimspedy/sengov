@@ -5,7 +5,7 @@ ab: "ID"
 seo_title: "Contact Idaho  Governors And Senators"
 description: Contact Idaho Senators
 author: john shim
-url: /idaho/
+url: /states/idaho/
 flag: seal.png
 weight: 1
 state: "yes"

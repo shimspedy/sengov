@@ -5,7 +5,7 @@ ab: "MN"
 seo_title: "Contact Minnesota  Governors And Senators"
 description: Contact Minnesota Senators
 author: john shim
-url: /minnesota/
+url: /states/minnesota/
 flag: seal.png
 weight: 1
 state: "yes"

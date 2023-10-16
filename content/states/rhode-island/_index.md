@@ -5,7 +5,7 @@ ab: "RI"
 seo_title: "Contact Rhode Island  Governors And Senators"
 description: Contact Rhode Island Senators
 author: john shim
-url: /rhode-island/
+url: /states/rhode-island/
 flag: seal.png
 weight: 1
 state: "yes"

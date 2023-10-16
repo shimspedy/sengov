@@ -5,7 +5,7 @@ ab: "SC"
 seo_title: "Contact South Carolina  Governors And Senators"
 description: Contact South Carolina Senators
 author: Contact Senators
-url: /south-carolina/
+url: /states/south-carolina/
 flag: seal.png
 weight: 1
 state: "yes"

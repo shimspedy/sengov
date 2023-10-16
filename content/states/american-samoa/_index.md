@@ -5,7 +5,7 @@ ab: "AS"
 seo_title: "Contact American Samoa Governor"
 description: Contact American Samoa Governor
 author: contact governors
-url: /american-samoa/
+url: /states/american-samoa/
 flag: seal.webp
 weight: 1
 state: "yes"

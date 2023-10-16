@@ -5,7 +5,7 @@ ab: "DC"
 seo_title: "Contact Washington D.C  Governor"
 description: Contact Washington D.C Governor
 author: contact governors
-url: /washingtondc/
+url: /states/washingtondc/
 weight: 1
 state: "yes"
 ---
