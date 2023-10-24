@@ -12,6 +12,4 @@ state: "yes"
 
 layout: states
 
-
-
 ---
