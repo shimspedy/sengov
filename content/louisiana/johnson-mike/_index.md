@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2023-10-26T11:54:12-05:00
 title: "Mike Johnson"
 seo_title: "contact Representative Mike Johnson"
 subheader:
@@ -28,6 +28,10 @@ inoffice: current
 twitter: RepMikeJohnson
 powrid: 
 ---
+
+"It is the honor of a lifetime to have been elected the 56th Speaker of the House.
+As Speaker, I will ensure the House delivers results and inspires change for the American people. We will restore trust in this body. We will advance a comprehensive conservative policy agenda, combat the harmful policies of the Biden Administration, and support our allies abroad. And we will restore sanity to a government desperately in need of it."
+
 
 Congressman Mike Johnson is a Republican member of Congress proudly serving Louisiana’s Fourth District. He represents the nearly 760,000 residents of 15 parishes in the northwest and western regions of the state. Mike was first elected to the U.S. House of Representatives on December 10, 2016, by the largest margin of victory in his region in more than 50 years and is currently serving his third term in Congress.
 
