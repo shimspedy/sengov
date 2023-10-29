@@ -395,3 +395,18 @@ body .options .option .label .info .sub {
 
 
 
+.pagefind-ui__search-input.svelte-1d60ae3 {
+  height: calc(64px * var(--pagefind-ui-scale)) !important;
+  padding: 0 calc(70px * var(--pagefind-ui-scale)) 0 calc(54px * var(--pagefind-ui-scale)) !important;
+  background-color: var(--pagefind-ui-background) !important;
+  border: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border) !important;
+  border-radius: var(--pagefind-ui-border-radius) !important;
+  font-size: calc(21px * var(--pagefind-ui-scale)) !important;
+  position: relative !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  display: flex !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  font-weight: 700 !important;
+}
