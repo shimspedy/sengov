@@ -12,8 +12,23 @@
         {{ partial "listings/sengov" . }}
     </div>
 </div>
-<script async src="https://cse.google.com/cse.js?cx=afc8eedaf9ec7eb88"></script>
-<div class="gcse-search"></div>
+<!-- <script async src="https://cse.google.com/cse.js?cx=afc8eedaf9ec7eb88"></script>
+<div class="gcse-search"></div> -->
+
+
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+
+
+
+
 {{ partial "listings/parallax" . }} 
 
 {{ partial "listings/homesen" . }}
