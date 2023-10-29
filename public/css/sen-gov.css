@@ -1,0 +1,140 @@
+.sen-gov {
+    position: relative;
+    margin-top: 13px;
+    top: 0;
+    margin: 0 auto;
+  }
+  .col:hover {
+    transition-duration: 0.2s;
+  }
+  .col:hover .active {
+    top: -14px;
+  }
+  .sen-gov .card {
+    background: transparent;
+    box-shadow: none;
+    z-index: 3;
+  }
+  .sen-gov .card-image {
+    z-index: 1;
+  }
+  .sen-gov .card-image .gradient-card {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to bottom, rgba(239, 197, 202, 0) 0%, rgba(135, 115, 128, 0) 0%, rgba(45, 44, 64, 0.97) 58%, #2d2c40 100%, rgba(220, 132, 144, 0) 20%, rgba(241, 142, 153, 0) 50%);
+  }
+  .sen-gov .card-image .plus {
+    position: absolute;
+    top: 14px;
+    right: 16px;
+    cursor: pointer;
+    width: 22px;
+    font: 12px Montserrat;
+    z-index: 2;
+  }
+  .sen-gov .card-image .plus span:first-child {
+    display: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+    width: 100% !important;
+    text-align: right;
+    padding-right: 37px;
+  }
+  .sen-gov .card-image .plus span:last-child {
+    height: 30px;
+    width: 30px;
+    line-height: 0.75;
+    float: right;
+    background: #fff;
+    border-radius: 11px;
+    text-align: center;
+    /* padding-top: 5px; */
+    padding-top: 2px;
+    font-size: 20px;
+    color: black;
+    overflow: hidden;
+  }
+  .sen-gov .card-content {
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 2;
+    background-color: #fff;
+    transition: box-shadow 0.25s, -webkit-box-shadow 0.25s;
+    border-radius: 2px;
+    position: relative;
+    margin: auto;
+    margin-top: -74px;
+    bottom: auto;
+    box-shadow: -7px 7px 23px -5px rgba(0, 0, 0, 0.63);
+  }
+  .sen-gov .card-content .childernIcon {
+    width: 46px;
+    height: 45px;
+    top: -27px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 2;
+    text-align: center;
+    background: #FFEE34;
+    padding-top: 6px;
+    background: #eaebee;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  .sen-gov .card-content .unscribeLongLine {
+    top: -4px;
+    position: absolute;
+    right: 0;
+    max-width: 100%;
+  }
+  .sen-gov .card-content .unscribeLongLine span {
+    display: block;
+    max-width: 94%;
+    width: 340px;
+    height: 4px;
+  }
+  .sen-gov .card-content .unscribeLongLine .pattern {
+  
+    background-position: top left;
+  }
+  .sen-gov .card-content h3 {
+    font-size: 12px;
+    margin: 8px 0 10px;
+    text-transform: uppercase;
+    font: 12px Montserrat;
+  }
+  .sen-gov .card-content h3 .card-author-title {
+    font-size: 24px;
+  }
+  .sen-gov .card-content h2 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    padding-bottom: 13px;
+  }
+  .sen-gov .card-content .readingLine {
+    height: 5px;
+    background: #FFEE34;
+  }
+  .sen-gov .card-content .readingLine .muchTime {
+    background: #83E6DE;
+    height: 100%;
+  }
+  .sen-gov .card-content .readingLine .left {
+    float: left;
+    width: 6.668%;
+  }
+  .sen-gov .card-content h5 {
+    font-size: 12px;
+    padding: 27px 0 7px;
+    color: #000;
+  }
