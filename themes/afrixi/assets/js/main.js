@@ -5,6 +5,10 @@ document.addEventListener( 'DOMContentLoaded', function() {
     var dropdowns = document.querySelectorAll( '.dropdown-trigger' );
     var instances = M.Dropdown.init( dropdowns, {} );
 
+    //modal 
+    var openmodal = document.querySelectorAll('.modal');
+    var instances = M.Modal.init( openmodal, {});
+
     //mobile menu
     var mobilenav = document.querySelectorAll( '.sidenav' );
     var instances = M.Sidenav.init( mobilenav, {} );

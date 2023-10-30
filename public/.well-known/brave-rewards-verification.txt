@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: sengov.com
+Token: e8e3c2d816350a3a330953cc8c573db4e2d0611a89a5eb0df291c6ac2a62f4cf

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+
+
+
+ <html class="no-js"> 
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Play Chess</title>
+        
+        <meta name="Title" content="Play Chess" />
+        <meta name="description" content="Play Chess is a HTML5 game where two-player board game using a chessboard and sixteen pieces of six types for each player. Play against computer or against a friend and enjoy different up to 6 themes">
+		<meta name="keywords" content="chess, strategic, capture, skills, king, queen, strategy, opponent, piece, board, traditional, classic">
+        
+        
+
+<title data-pagefind-body>chess | sengov.com</title><meta charset="utf-8">
+<meta name="theme-color" content="#317EFB"/>
+<meta http-equiv='content-language' content='en-gb'>
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="description" content="chess" />
+
+<meta name="keywords" content="[]"><meta name="fo-verify" content="f79749e8-2863-4c0a-96d8-39176c1ff0a8">
+<meta property="og:title" content="chess" />
+<meta property="og:description" content="chess" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sengov.com/games/chess/" /><meta property="article:section" content="" />
+<meta property="article:published_time" content="2022-04-20T10:02:20-04:00" />
+<meta property="article:modified_time" content="2022-04-20T10:02:20-04:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="chess"/>
+<meta name="twitter:description" content="chess"/>
+
+<meta itemprop="name" content="chess">
+<meta itemprop="description" content="chess"><meta itemprop="datePublished" content="2022-04-20T10:02:20-04:00" />
+<meta itemprop="dateModified" content="2022-04-20T10:02:20-04:00" />
+<meta itemprop="wordCount" content="0">
+<meta itemprop="keywords" content="" />
+
+<meta property="og:image" content="https://sengov.com/games/chessshare.jpg" />
+<meta property="twitter:image" content="https://sengov.com/games/chessshare.jpg" /><meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://sengov.com/games/chess/" />
+
+
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"  rel="stylesheet" >
+<link  rel="stylesheet"  href="https://sengov.com/css/style.css">
+<link  rel="stylesheet"   href="https://sengov.com/css/map.css">
+<link  rel="stylesheet"  href="https://sengov.com/css/hero.css">
+<link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+
+
+<link rel="stylesheet" href="https://sengov.com/sass/styles.min.ac50dab33d935998981e844d488cd626a2cdf546b739a235264babee3390b7d1.css">
+
+
+<link rel="manifest" href="https://sengov.com/manifest.json">
+
+
+        <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+<script  src="https://sengov.com/js/sticky-kit.js"></script>
+<script  src="https://sengov.com/js/init.js"></script>  
+
+
+
+
+
+
+<script src="https://sengov.com/js/materialize.min.min.js"></script>
+<script src="https://sengov.com/js/main.min.js"></script>
+<script src="https://sengov.com/js/parallax.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://sengov.com/js/table.min.js"></script>
+
+<script>
+
+if('serviceWorker' in navigator) {
+    navigator.serviceWorker
+        .register('/sw.js', { scope: '/' })
+        .then(function(registration) {
+            
+        });
+
+    navigator.serviceWorker
+        .ready
+        .then(function(registration) {
+          
+        });
+}
+
+
+
+
+
+
+
+
+
+
+
+</script>
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BDCK88GE7C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115090544-15');
+
+  gtag('config', 'G-BDCK88GE7C');
+</script>
+
+
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<script>
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    "@-ms-viewport{width:device-width}"
+                )
+            );
+            document.getElementsByTagName("head")[0].
+                appendChild(msViewportStyle);
+        }
+        </script>
+
+        <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        
+    	<div id="mainLoader"><img src="assets/loader.png" /><br/><span>0</span></div>
+        
+        
+        
+        <div id="mainHolder">
+        
+        	
+        	<div id="notSupportHolder">
+                <div class="notSupport">Your browser isn’t supported.<br/>Please update your browser in order to run the game.</div>
+            </div>
+            
+            
+            
+            <div id="canvasHolder">
+                <canvas id="gameCanvas" width="1280" height="768"></canvas>
+            </div>
+            
+            
+            <div id="board" style="display: none;"></div>
+        </div>
+        
+        <div class="fixed-action-btn" style="z-index: 99999999999;">
+    <a class="btn-floating btn-large red">
+        <i class="material-icons">menu</i>
+    </a>
+    <ul>
+      <li><a href="https://sengov.com/" class="btn-floating red"><i class="material-icons">transfer_within_a_station</i></a></li>
+      <li><a href="https://sengov.com/candidates" class="btn-floating yellow darken-1"><i class="material-icons">directions_run</i></a></li>
+      <li><a href="https://sengov.com/bills" class="btn-floating green"><i class="material-icons">account_balance</i></a></li>
+      <li><a href="https://sengov.com/games" class="btn-floating blue"><i class="material-icons">games</i></a></li>
+    </ul>
+  </div>
+
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+var elems = document.querySelectorAll('.fixed-action-btn');
+var instances = M.FloatingActionButton.init(elems, {
+direction: 'left',
+hoverEnabled: false
+});
+});
+</script>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('\x3Cscript src="js/vendor/jquery.min.js"><\/script>')</script>
+        
+        <script src="js/vendor/detectmobilebrowser.js"></script>
+        <script src="js/vendor/createjs.min.js"></script>
+		<script src="js/vendor/chess.js"></script>
+		<script src="js/vendor/chessboard-1.0.0.min.js"></script>
+        <script src="js/vendor/TweenMax.min.js"></script>
+		
+        <script src="js/plugins.js"></script>
+        <script src="js/sound.js"></script>
+        <script src="js/canvas.js"></script>
+        <script src="js/game.js"></script>
+        <script src="js/mobile.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/loader.js"></script>
+        <script src="js/init.js"></script>
+    </body>
+    
+
+</html>
