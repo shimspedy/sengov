@@ -7,7 +7,7 @@ author = "john"
 pygmentsStyle = "dracula"
 PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-disqusShortname = "test-wninb4jp3p"
+disqusShortname = ""
 
 canonifyURLs = true
 disableKinds = ["taxonomy"]
@@ -68,7 +68,7 @@ readingTime = true
         weight = 3
         name = "bills"
         url = "/bills"
-  [[Languages.en.menu.main]]
-        weight = 4
-        name = "states"
-        url = "/states"
+  # [[Languages.en.menu.main]]
+  #       weight = 4
+  #       name = "states"
+  #       url = "/states"
