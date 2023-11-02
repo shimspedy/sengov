@@ -16,7 +16,7 @@ layout: course_home
 name: Darrin Camilleri
 state: Michigan
 party: Democratic
-role: Senator
+role: senator
 inoffice: current
 elected: 2019
 mailing1: Room S-2 Capitol Bldg, PO Box 30036, Lansing, MI 48909-7536

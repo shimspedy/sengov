@@ -2,7 +2,7 @@
 {{if .Sections}}
 <div class=" row">
      {{range .Sections }}
-     {{ if and (eq .Params.role "senator") ( eq .Params.inoffice "current") }}
+     {{ if and (eq (lower .Params.role) "senator") ( eq .Params.inoffice "current") }}
      <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}
      </div>
@@ -18,7 +18,7 @@
 {{if .Sections}}
 <div class=" row">
      {{range .Sections }}
-     {{ if and (eq .Params.role "Representative") ( eq .Params.inoffice "current") }}
+     {{ if and (eq (lower .Params.role) "representative") ( eq .Params.inoffice "current") }}
 
      <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}
@@ -32,7 +32,7 @@
 {{if .Sections}}
 <div class=" row">
      {{range .Sections }}
-     {{ if and (eq .Params.role "congress") ( eq .Params.inoffice "current") }}
+     {{ if and (eq (lower .Params.role) "congress") ( eq .Params.inoffice "current") }}
 
      <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}

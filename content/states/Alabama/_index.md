@@ -10,6 +10,6 @@ url: /states/alabama/
 weight: 1
 state: "yes"
 
-layout: states
+layout: statehome
 
 ---
