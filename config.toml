@@ -17,19 +17,9 @@ disableKinds = ["taxonomy"]
     home = ["HTML", "RSS"]
     page = ["HTML", "RSS"]
 
-[Params.siteInfo]
-  languageName = "En"
-  weight = 1
-  languageCode = "en-us"
-  SiteName = "Afrixi"
-  Logo = "images/logo.png"
-  dateFormat = "2 January 2006"
-  copyright = " © Unwrote.com Going static since 2019 and powered by Hugo."
 
 
 [permalinks]
-#candidates = "/blog/ =slug/"
-# uglyurls = true
 categories =  "/:section/:slug"
 
 
