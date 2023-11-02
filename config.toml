@@ -1,7 +1,7 @@
 baseURL = "https://sengov.com/"
 languageCode = "en-us"
 theme = "afrixi"
-title = "Contact United States Senators and Governors"
+title = "Contact United statess Senators and Governors"
 author = "john"
 #taxonomies = ""
 pygmentsStyle = "dracula"
@@ -80,5 +80,5 @@ readingTime = true
         url = "/bills"
   [[Languages.en.menu.main]]
         weight = 4
-        name = "state"
-        url = "/state"
+        name = "states"
+        url = "/states"
