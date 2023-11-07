@@ -4,11 +4,11 @@ title: "Stephanie Changa"
 seo_title: "contact senator Stephanie Changa"
 subheader:
      greeting: Contact senator Stephanie Changa
-     description: She is currently serving her second term in the Michigan Senate and is the Senate Democratic Policy and Steering Chair.
+     description: Opportunity, access, equity, justice and service are the core values driving Senator Stephanie Chang, the first Asian American woman elected to the Michigan legislature. She worked as a community organizer in Detroit for nearly a decade before serving two terms in the Michigan House of Representatives and then as the Democratic Floor Leader for her first term in the Senate. She is currently serving her second term in the Michigan Senate and is the Senate Democratic Policy and Steering Chair.
 description: Contact senator Stephanie Changa of Michigan. Contact information for Stephanie Changa includes email address, phone number, and mailing address.
 image: stephanie-chang.jpeg
 video:
-url: /states/michigan/stephanie-chang/
+url:  /states/michigan/stephanie-chang/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-7346
 website: https://senatedems.com/chang/
 email : https://senatedems.com/chang/contact/
 twitter: stephanielily
-facebook: stephaniechangmi
 ---
 
 Opportunity, access, equity, justice and service are the core values driving Senator Stephanie Chang, the first Asian American woman elected to the Michigan legislature. She worked as a community organizer in Detroit for nearly a decade before serving two terms in the Michigan House of Representatives and then as the Democratic Floor Leader for her first term in the Senate. She is currently serving her second term in the Michigan Senate and is the Senate Democratic Policy and Steering Chair.

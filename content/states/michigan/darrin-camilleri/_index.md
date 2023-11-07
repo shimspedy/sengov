@@ -4,11 +4,11 @@ title: "Darrin Camilleri"
 seo_title: "contact senator Darrin Camilleri"
 subheader:
      greeting: Contact senator Darrin Camilleri
-     description: State Senator Darrin Quiroz Camilleri is currently in his first term serving Senate District 4 following three successful terms in the State House of Representatives.
+     description: Darrin Quiroz Camilleri, born on January 28, 1992, is an American politician from Michigan, currently serving as the representative for the 4th district in the Michigan Senate since 2023. He is an active member of the Democratic Party.
 description: Contact senator Darrin Camilleri of Michigan. Contact information for Darrin Camilleri includes email address, phone number, and mailing address.
 image: darrin-camilleri.jpeg
 video:
-url: /states/michigan/darrin-camilleri/
+url:  /states/michigan/darrin-camilleri/
 weight: 1
 layout: course_home
 
@@ -16,7 +16,7 @@ layout: course_home
 name: Darrin Camilleri
 state: Michigan
 party: Democratic
-role: senator
+role: Senator
 inoffice: current
 elected: 2019
 mailing1: Room S-2 Capitol Bldg, PO Box 30036, Lansing, MI 48909-7536
@@ -24,7 +24,6 @@ phone1:	517-373-7918
 website: https://senatedems.com/camilleri/
 email : https://senatedems.com/camilleri/contact/
 twitter: darrincamilleri
-facebook: darrincamilleri
 ---
 
 State Senator Darrin Quiroz Camilleri is currently in his first term serving Senate District 4 following three successful terms in the State House of Representatives. He is also the Assistant Majority Leader, Chairman of the PreK-12 School Aid Budget, and serves on committees that encompass Elections, Energy, Transportation, Labor and more. His district spans seventeen communities across Downriver and Western Wayne County, including his hometown of Brownstown Township as well as the City of Trenton, where he currently lives.

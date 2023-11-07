@@ -4,11 +4,11 @@ title: "Dayna Polehanki"
 seo_title: "contact senator Dayna Polehanki"
 subheader:
      greeting: Contact senator Dayna Polehanki
-     description: She serves as the Majority Caucus Chair for the Michigan Senate Democrats and is in her second term.
+     description: Senator Dayna Polehanki is as big of a champion of public schools, teachers, and students as you will find. She is a two-time Teacher of the Year award winner and has nearly 20 years of experience in the classroom. She serves as the Majority Caucus Chair for the Michigan Senate Democrats and is in her second term.
 description: Contact senator Dayna Polehanki of Michigan. Contact information for Dayna Polehanki includes email address, phone number, and mailing address.
 image: dayna-polehanki.jpeg
 video:
-url: /states/michigan/dayna-polehanki/
+url:  /states/michigan/dayna-polehanki/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-7350
 website: https://senatedems.com/polehanki/
 email : https://senatedems.com/polehanki/contact/
 twitter: senpolehanki
-facebook: sendaynapolehanki
 ---
 
 Senator Dayna Polehanki is as big of a champion of public schools, teachers, and students as you will find. She is a two-time Teacher of the Year award winner and has nearly 20 years of experience in the classroom. She serves as the Majority Caucus Chair for the Michigan Senate Democrats and is in her second term.

@@ -4,11 +4,11 @@ title: "Jeremy Moss"
 seo_title: "contact senator Jeremy Moss"
 subheader:
      greeting: Contact senator Jeremy Moss
-     description: He is the President Pro Tempore of the Michigan Senate, where he is also serving his second term.
+     description: Senator Jeremy Moss prioritizes policies supporting local government and local communities, as well as increasing transparency in state government. He is the President Pro Tempore of the Michigan Senate, where he is also serving his second term.
 description: Contact senator Jeremy Moss of Michigan. Contact information for Jeremy Moss includes email address, phone number, and mailing address.
 image: jeremy-moss.jpeg
 video:
-url: /states/michigan/jeremy-moss/
+url:  /states/michigan/jeremy-moss/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-7888
 website: https://senatedems.com/moss/
 email : https://senatedems.com/moss/contact/
 twitter: jeremyallenmoss
-facebook: jeremymosspage
 ---
 
 Senator Jeremy Moss prioritizes policies supporting local government and local communities, as well as increasing transparency in state government. He is the President Pro Tempore of the Michigan Senate, where he is also serving his second term.

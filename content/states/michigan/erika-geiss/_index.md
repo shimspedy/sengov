@@ -4,11 +4,11 @@ title: "Erika Geiss"
 seo_title: "contact senator Erika Geiss"
 subheader:
      greeting: Contact senator Erika Geiss
-     description: She is the Assistant President Pro Tempore of the Michigan Senate, where she is also serving her second term.
+     description: Senator Erika Geiss is not afraid to fight for Michigan families and underrepresented communities. She is a fervent supporter of policies promoting social change, especially when it comes to uplifting communities of color and low-income families. She is the Assistant President Pro Tempore of the Michigan Senate, where she is also serving her second term.
 description: Contact senator Erika Geiss of Michigan. Contact information for Erika Geiss includes email address, phone number, and mailing address.
 image: erika-geiss.jpeg
 video:
-url: /states/michigan/erika-geiss/
+url:  /states/michigan/erika-geiss/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-7800
 website: https://senatedems.com/geiss/
 email : https://senatedems.com/geiss/contact/
 twitter: senerikageiss
-facebook: StateSenatorErikaGeiss
 ---
 
 Senator Erika Geiss is not afraid to fight for Michigan families and underrepresented communities. She is a fervent supporter of policies promoting social change, especially when it comes to uplifting communities of color and low-income families. She is the Assistant President Pro Tempore of the Michigan Senate, where she is also serving her second term.

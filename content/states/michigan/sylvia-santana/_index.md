@@ -4,11 +4,11 @@ title: "Sylvia Santana"
 seo_title: "contact senator Sylvia Santana"
 subheader:
      greeting: Contact senator Sylvia Santana
-     description: She is serving her second term in the Michigan Senate.
+     description: Senator Sylvia Santana is a dedicated wife, mother and public servant who has successfully helped reform the state’s justice system for adults and juveniles alike. She has also championed improvements to local government funding, increased funding to Michigan’s public schools so students are well-prepared for their future and continues to work on policies that reduce racial disparities in health outcomes. She is serving her second term in the Michigan Senate.
 description: Contact senator Sylvia Santana of Michigan. Contact information for Sylvia Santana includes email address, phone number, and mailing address.
 image: sylvia-santana.jpeg
 video:
-url: /states/michigan/sylvia-santana/
+url:  /states/michigan/sylvia-santana/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-0990
 website: https://senatedems.com/santana/
 email : https://senatedems.com/santana/contact/
 twitter: senatorsantana
-facebook: sensylviasantana
 ---
 
 Senator Sylvia Santana is a dedicated wife, mother and public servant who has successfully helped reform the state’s justice system for adults and juveniles alike. She has also championed improvements to local government funding, increased funding to Michigan’s public schools so students are well-prepared for their future and continues to work on policies that reduce racial disparities in health outcomes. She is serving her second term in the Michigan Senate.

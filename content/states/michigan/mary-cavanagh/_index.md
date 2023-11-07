@@ -4,11 +4,11 @@ title: "Mary Cavanagh"
 seo_title: "contact senator Mary Cavanagh"
 subheader:
      greeting: Contact senator Mary Cavanagh
-     description: She is serving her first term in the Michigan Senate.
+     description: With more than 20 years of civic engagement and public servant experience, Senator Mary Cavanagh has a natural flair for building relationships and a long track record of bringing about positive change. She is serving her first term in the Michigan Senate.
 description: Contact senator Mary Cavanagh of Michigan. Contact information for Mary Cavanagh includes email address, phone number, and mailing address.
 image: mary-cavanagh.jpeg
 video:
-url: /states/michigan/mary-cavanagh/
+url:  /states/michigan/mary-cavanagh/
 weight: 1
 layout: course_home
 
@@ -24,7 +24,6 @@ phone1:	517-373-7748
 website: https://senatedems.com/cavanagh/
 email : https://senatedems.com/cavanagh/contact/
 twitter: repcavanagh10
-facebook: repmarycavanagh
 ---
 
 With more than 20 years of civic engagement and public servant experience, Senator Mary Cavanagh has a natural flair for building relationships and a long track record of bringing about positive change. She is serving her first term in the Michigan Senate.
