@@ -1,11 +1,9 @@
-
+<!-- 
 {{if .Sections}}
 <div class="row" id="homesen">
      {{range .Sections }}
      {{ if  (eq .Params.state "yes")  }}
            <div class="col s12 m6 l3">
-          <!-- <a href="{{.Permalink}}" ><h5 class="grey-text text-darken-2">{{.Title}}</h5></a> -->
-               
                     {{if .Sections}}
                           {{range first 1 .Sections  }}
                                    {{ partial "listings/inpower" . }}
@@ -14,6 +12,25 @@
                     {{end}}
                
           </div>
+          {{end}}
+     {{end}}
+</div>
+{{end}} -->
+
+
+{{if .Sections}}
+<div class="row" id="homesen">
+     {{range .Sections }}
+     {{ if  (eq .Params.ab "CA")  }}
+                    {{if .Sections}}
+                          {{range  .Sections  }}
+                          <div class="col s12 m6 l3">
+                                   {{ partial "listings/inpower" . }}
+                         </div>
+                         {{end}}
+
+                    {{end}}
+               
           {{end}}
      {{end}}
 </div>
