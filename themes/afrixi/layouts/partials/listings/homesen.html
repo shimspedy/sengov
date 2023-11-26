@@ -24,9 +24,11 @@
      {{ if  (eq .Params.ab "NY")  }}
                     {{if .Sections}}
                           {{range  .Sections  }}
+                          {{ if   eq .Params.inoffice "current"  }}
                           <div class="col s12 m6 l3">
                                    {{ partial "listings/inpower" . }}
                          </div>
+                         {{ end }}
                          {{end}}
 
                     {{end}}
