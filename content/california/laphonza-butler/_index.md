@@ -1,12 +1,12 @@
 ---
-date: 2023-10-05T11:54:12-05:00
+date: 2023-11-24T11:54:12-05:00
 title: "Laphonza R. Butler"
 seo_title: "contact senator Laphonza R. Butler"
 subheader:
      greeting: Contact Senator Laphonza R. Butler (D-CA)
-     description: Laphonza Romanique Butler is an American politician currently serving as the junior United States senator from California since 2023.
+     description: Senator Laphonza Butler is a trailblazer fighting for the American worker, the fundamental freedoms of all people, and the future that our next generations deserve.
 description: Contact senator Laphonza R. Butler of California. Contact information for Laphonza R. Butler includes email address, phone number, and mailing address.
-image: laphonza-butler.jpeg
+image: laphonza-butler.png
 video: 
 url: /california/laphonza-butler/
 weight: 1
@@ -30,32 +30,32 @@ website:	https://www.butler.senate.gov/
 twitter: LaphonzaB
 ---
 
-Laphonza Romanique Butler is an American politician currently serving as the junior United States senator from California since 2023. Her career took root as a union organizer, and she held the position of president of the California SEIU State Council from 2013 to 2018. A dedicated member of the Democratic Party, Butler assumed the role of president at EMILY's List from 2021 to 2023 and also served as a regent of the University of California from 2018 to 2021.
+Senator Laphonza Butler is a trailblazer fighting for the American worker, the fundamental freedoms of all people, and the future that our next generations deserve.
 
-On October 1, 2023, California Governor Gavin Newsom selected Butler to fill the U.S. Senate seat left vacant by the passing of Laphonza R. Butler.
+She was sworn in as the Democratic junior U.S. Senator from the State of California on October 3rd, 2023. Senator Butler is the first former labor leader to serve in the U.S. Senate in nearly 60 years. She is also the first openly LGBTQ black female U.S. Senator in
+American history.
 
-#### Early Life and Education
+#### Meet Laphonza
+Senator Butler was raised in the town of Magnolia, Mississippi to working class parents who believed their most important responsibilities were family
+and service to others. Though her father died while she was just a teenager, her parents showed Laphonza and her two brothers that hard work and education would be their strongest tools to break out of poverty. As her mom became the family’s primary wage earner, she found herself working multiple jobs, often all in the same day, to make sure her children had the opportunity for better choices and chances. From caregiver to CNA, from classroom assistant to security guard, Sarah showed her children that no matter the job you have, you must “work hard, do your best, and never give up.”
 
-Butler was born on May 11, 1979, in Magnolia, Mississippi, as the youngest of three siblings. Tragically, her father succumbed to heart disease when she was just 16 years old. In 1997, she graduated as the salutatorian of South Pike High School. Butler went on to attain a bachelor's degree in political science from Jackson State University.
+Senator Butler is a proud graduate of the historic HBCU, Jackson State University.
 
-#### Career
+#### Career Highlights
+Senator Butler has spent her career championing fairness and justice. She took her mother’s guidance and forged a path focused on doing everything she could to support the empowerment of working families and the men, women and young people who often felt powerless to make change.
 
-Butler embarked on her career as a union organizer, advocating for nurses in Baltimore and Milwaukee, janitors in Philadelphia, and hospital workers in New Haven, Connecticut. In 2009, she relocated to California, where she organized in-home caregivers and nurses, ultimately becoming the president of SEIU United Long Term Care Workers, SEIU Local 2015. Butler's leadership extended to her election as president of the California SEIU State Council in 2013. She actively campaigned for an increased minimum wage in California and advocated for higher income taxes on the state's wealthiest citizens. During the 2016 Democratic presidential primary, while leading SEIU Local 2015, Butler endorsed Hillary Clinton.
+For nearly two decades she was an organizer and leader in the labor movement. At just 30 years old Senator Butler was elected President of California’s largest homecare and nursing home workers union SEIU local 2015. She helped to orchestrate raising California’s minimum wage to $15 an hour and secure paid sick days for the state’s home care workers.
 
-In 2018, California Governor Jerry Brown appointed Butler to a 12-year term as a regent of the University of California. She resigned from her role as regent in 2021.
+As President she united the power of home care workers statewide, growing the union’s membership to more than 325,000 and making SEIU 2015 the largest homecare worker union in America. As President of the SEIU CA State Council, Butler is known to also be a coalition builder–working on issues beyond the workplace to make California more fair and just. From working to expand retirement security by passing CA Secure Choice Retirement Savings program to efforts to improve health outcomes by passing legislation to protect children from cigarette marketing, Butler has been able to work across traditional lines of difference in order to make progress on issues that matter.
 
-Butler became a partner at SCRB Strategies, a California-based political-consulting firm, in 2018. While at SCRB, she played a pivotal role in Kamala Harris's 2020 presidential campaign and maintained a longstanding political alliance with Harris, dating back to Harris's initial run for California Attorney General in 2010, where she helped negotiate a shared SEIU endorsement for Harris. Additionally, Butler provided counsel to Uber in labor-related matters during her tenure at SCRB. In 2020, Butler transitioned to a role as the director of public policy and campaigns in North America for Airbnb, leaving SCRB.
+Prior to her appointment to the Senate, Senator Butler was president of EMILYs list, which is dedicated to electing Democratic pro-choice women. During her tenure, EMILYs list recruited and supported over 600 women to run for elected office. Prior to leading EMILYs list, Senator Butler served as a strategist to organizations, companies and candidates including playing a key role in Holly Mitchell’s campaign for LA Supervisor.
 
-In 2021, Butler was appointed as the third president of EMILY's List, becoming the first black woman and first mother to lead the organization. In February 2022, she joined the board of directors of Vision to Learn.
+#### As YOUR Senator
+As Senator, Laphonza Butler is determined to lead with the same advice that her mother gave her so many years ago. She will work hard, do her best, and never give up on a vision for fairness and justice.
 
-#### U.S. Senate
+Today, only 16% of Californians can afford to buy a home and California has the largest homeless population of any state because the country’s economy isn’t working for everyone. As a member of the Senate Committee on Banking, Housing and Urban Affairs, Senator Butler will work to provide comprehensive aid for the unhoused and help create more affordable housing, economic prosperity and jobs for all. Since the reversal of Roe v. Wade, 25 million women lost their right to make their own healthcare decisions including abortion and over 15 states enacted laws restricting the right of people to vote. As a member of the Senate Judiciary Committee, she advocates for equal rights, including reproductive rights for women and all people who can have children. She pushes for broader national voting rights and greater voter access.
 
-Butler took her oath of office in the Senate on October 3, 2023, administered by Vice President Kamala Harris. Fellow California Senator Alex Padilla and Majority Leader Chuck Schumer were present for the ceremony.
-
-On October 1, 2023, California Governor Gavin Newsom chose Butler to fill the U.S. Senate seat left vacant by the passing of Laphonza R. Butler, fulfilling his commitment to appoint a black woman to the position. Butler was selected despite not being a resident of California, as she had relocated to Maryland in 2021. The United States Constitution requires only that senators be "inhabitants" of the state they represent, and Newsom's office confirmed that Butler would re-register to vote in California before assuming her senatorial duties.
-
-Upon taking office on October 3, 2023, Butler made history as the first openly LGBT member of the U.S. Senate from California and the first black lesbian to serve in the Senate.
+As your Senator, Laphonza Butler’s priorities are fighting for the American worker, the fundamental freedoms of all people, and the future that our next generations deserve. She champions a labor movement that unites all workers. She stands with the majority of Californians to achieve common sense gun reform laws in our country. She strongly opposes state sponsored discrimination and advocates for a national law prohibiting book bans. She is committed to protecting the planet and California’s environment for future generations.
 
 #### Personal Life
-
-Butler is openly lesbian, and she and her spouse, Neneki Lee, are parents to a daughter. They made their move to Silver Spring, Maryland, in 2021 when Butler assumed the presidency of EMILY's List, while also maintaining ownership of a residence in View Park, California, in Los Angeles County. When Newsom appointed her to the Senate in October 2023, she officially re-established residency in that California home and re-registered to vote in the state.
+Senator Butler has served on the boards of the University of California and the Children’s Defense Fund. Senator Butler is 44 years old and is a devoted mother to her daughter Nylah with her wife Neneki Lee.
