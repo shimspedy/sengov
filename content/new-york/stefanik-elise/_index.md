@@ -17,7 +17,7 @@ layout: course_home
 name:	Elise M. Stefanik
 state:	New York
 district: 21st
-party:	Democratic
+party:	Republican
 officeroom:	2211 RHOB
 phonenumber:	(202) 225-4611
 emailaddress:	https://stefanik.house.gov/contact
