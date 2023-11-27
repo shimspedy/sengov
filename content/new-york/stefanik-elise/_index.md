@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2023-11-22T11:54:12-05:00
 title: "Elise M. Stefanik"
 seo_title: "contact Representative Elise M. Stefanik"
 subheader:
      greeting: Contact Representative Elise M. Stefanik 
-     description: Elise Marie Stefanik is an American politician serving as the U.S. Representative for New York's 21st congressional district since 2015. The district, the fifth-largest by land area east of the Mississippi River, covers most of the North Country, as well as most of the Adirondacks.
+     description: Congresswoman Elise Stefanik is a rising star in the Republican Party and a staunch supporter of former President Donald Trump.
 description: Contact Representative Elise M. Stefanik of New York. Contact information for Elise M. Stefanik includes email address, phone number, and mailing address.
 image: stefanik-elise.jpg
 video: 
@@ -29,56 +29,15 @@ twitter: RepStefanik
 powrid: 
 ---
 
-Congresswoman Elise Stefanik proudly represents New York's 21st District in the House of Representatives in her fourth term in office.
+Congresswoman Elise Stefanik is a rising star in the Republican Party and a staunch supporter of former President Donald Trump. She represents New York's 21st Congressional District, which covers a large area of northern New York, including the Adirondack Mountains and parts of the Capital Region.
 
-In May 2021, Congresswoman Stefanik was elected by her colleagues to serve in House Leadership as Chair of the House Republican Conference.
+Stefanik was born in Albany, New York, on July 2, 1984, to a family of small business owners. She graduated from Harvard University with honors in 2006, and then worked in the White House under President George W. Bush. She also served as the director of vice-presidential debate preparation for Paul Ryan in 2012, and as the director of communications for the Foreign Policy Initiative, a conservative think tank.
 
-The Center for Effective Lawmaking ranked her in the top 10 most effective Republican members, and the #1 most effective for commerce policy impacting small businesses and workers.
+Stefanik first ran for Congress in 2014, when she was 30 years old. She defeated the Democratic incumbent, Bill Owens, and became the youngest woman ever elected to Congress at the time. She was re-elected in 2016, 2018, and 2020, winning by wide margins each time. She is a senior member of the House Armed Services Committee, the House Education and Labor Committee, and the House Intelligence Committee. She also chairs the House Republican Conference, the fourth-highest position in the House Republican leadership, since May 2021.
 
-She is a member of the House Armed Services Committee, the Committee on Education and Labor, and the House Permanent Select Committee on Intelligence. On the Armed Services Committee, Congresswoman Stefanik serves on the new Subcommittee on Cyber, Innovative Technologies, and Information Systems, and as a member of the subcommittee on Strategic Forces. On the Committee on Education and Labor, she serves on the Higher Education and Workforce Investment, and Workforce Protections Subcommittees.
+Stefanik has been a vocal advocate for the military, especially for Fort Drum, which is located in her district. She has also championed issues such as rural broadband, health care, education, and agriculture. She has been rated as one of the most effective lawmakers in Congress by the Center for Effective Lawmaking.
 
-Congresswoman Stefanik was born and raised in Upstate New York. Prior to serving in Congress, she worked at her family’s small business. Her upbringing taught her the hard work and perseverance necessary to build, operate and grow small businesses in the North Country. Congresswoman Stefanik graduated with Honors from Harvard University, as the first member of her immediate family to receive a college degree. 
+Stefanik has also been a loyal ally of Trump, defending him during his first impeachment trial in 2019 and challenging the results of the 2020 presidential election in his favor. She was one of the 147 Republicans who voted to object to the certification of Joe Biden's victory on January 6, 2021, even after a mob of Trump supporters stormed the Capitol. She has also endorsed controversial candidates such as George Santos, who has been accused of tax fraud and domestic violence.
 
-From 2006 - 2009, Congresswoman Stefanik served in the West Wing of the White House on President George W. Bush's Domestic Policy Council Staff and in the Office of the Chief of Staff, where she assisted in overseeing the policy development process on all economic and domestic policy issues. Congresswoman Stefanik served as the Director of Vice-Presidential Debate Prep to Paul Ryan, and as the Director of Communications for the Foreign Policy Initiative. 
+Stefanik lives in Schuylerville, New York, with her husband, Matt Manda, and their son, Sam. She is the first woman to lead the House Republican Conference, and the youngest person ever to do so. She is widely seen as a potential future leader of the Republican Party and a possible candidate for higher office..
 
-Elise’s family has owned a home on Lake Champlain in Essex County for over 30 years. Elise lives in Schuylerville with her husband Matt and their newborn son Sam.
-
-#### CONGRESSWOMAN STEFANIK’S PRIORITIES
-- Creating jobs and economic opportunities 
-- Expanding workforce development and training programs for North Country workers
-- Reducing the excessive, burdensome tax and regulatory burdens facing small businesses
-- Supporting Fort Drum and advocating for veterans and military families
-- Protecting our Second Amendment rights 
-- Expanding access to rural broadband throughout the district
-- Supporting Upstate farmers and agricultural producers
-- Strengthening North Country healthcare by lowering costs, improving quality, increasing accessibility, and - bringing transparency
-- Fighting to deliver solutions to lower the cost of prescription drugs
-- Delivering funding for rural hospitals, communtiy health centers, and clinics in the North Country
-- Protecting Social Security, Medicare, and other critical programs for North Country seniors and future generations
-- Promoting and strengthening U.S.-Canadian trade relations
-- Combatting the national security and economic threats posed by the Chinese Communist Government
-- Pursuing all-of-the-above energy policies that help North Country and improve American energy independence
-- Finding solutions for higher quality and more affordable education
-- Strengthening America’s immigration system and border security
-- Supporting North Country law enforcement officers and US-Canada Border Patrol
-- Combating the opioid epidemic and mental health issues
-
-#### CONGRESSWOMAN STEFANIK’S RESULTS
-- Helped pass five comprehensive COVID-19 federal relief packages, delivering much needed funding to North Country small businesses, families, and workers
-- Delivered millions of dollars to North Country hospitals, Federally Qualified Community Health Centers, and other healthcare providers during the COVID-19 pandemic
-- Successfully wrote a formula for HHS to ensure the disbursement of federally appropriated funds went directly to rural hospitals
-- Secured an increase in funding for the Essential Air Service program that provides critical funding for rural airports and allows smaller communities like those in the North Country to access the national air transportation system
-- Successfully led the New York State delegation in saving Fort Drum up to 16,000 military personnel cuts due to sequestration
-- Secured Fort Drum as the preferred East Coast Missile Defense Site
-- Recovered $2.6 million in Social Security Benefits for North Country seniors
-- Recovered more than $4 million in benefits for North Country veterans
-- Helped pass the Clay Hunt Suicide Prevention for American Veterans Act
-- Helped pass the United States Mexico Trade Agreement (USMCA), expanding market access for our North Country farmers and manufacturers
-- Worked directly with the FCC Chairman to ensure 46,000 unserved internet locations in New York State were included in their latest rural broadband funding package
-- Reauthorized the School-Based Health Centers program through 2024 to provide federal funding for students to receive affordable healthcare
-- Authored and helped pass the Be Open Act – a massive fix to Obamacare that repealed the auto-enrollment mandate
-- Authored and helped pass the Flexible Pell Grant for 21st Century Students Act -- bipartisan legislation developed to help North Country students complete a postsecondary education quickly and at a lower cost
-- Co-authored and helped pass the US/Canada pre-clearance legislation to help grow North Country commerce, tourism and border security
-- Helped pass the 21st Century Cures Act -- critical, bipartisan legislation designed to help accelerate the discovery, development, and delivery of promising new treatments and cures for patients with diseases ranging from Alzheimer’s to Lyme
-- Authored and passed the Women’s Commemorative Coin Act
-- Returned billions of tax dollars back to the district in the form of federal grants
