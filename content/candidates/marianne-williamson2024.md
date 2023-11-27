@@ -19,92 +19,34 @@ keywords:
 - president
 ---
 
-Marianne Williamson is a renowned bestselling author, dedicated political activist, and influential spiritual thought leader.
+Marianne Williamson is a visionary leader, a bestselling author, and a spiritual teacher who is running for president in 2024 as an independent candidate. She believes that America needs a radical transformation that goes beyond politics and addresses the spiritual and moral dimensions of our national crisis.
 
-For more than three decades, she has played a pivotal role in progressive spiritual and religious circles. She boasts an impressive literary portfolio, with 15 published books, four of which have achieved the esteemed status of #1 New York Times bestsellers.
+Marianne was born and raised in Houston, Texas, in a Jewish family. She graduated from Pomona College in California, and then moved to New York City, where she discovered A Course in Miracles, a self-study program of spiritual psychology. She started teaching the course in 1983, and soon became a popular and influential speaker. She also founded Project Angel Food, a nonprofit organization that delivers meals to people with life-threatening illnesses.
 
-In 1989, Williamson established Project Angel Food, a non-profit organization with a remarkable track record of delivering over 16 million meals to homebound patients battling serious illnesses. This initiative was born out of a genuine desire to aid those suffering from the devastating effects of HIV/AIDS.
+Marianne has written 14 books, including four that reached #1 on the New York Times bestseller list. Her most famous book, A Return to Love, was published in 1992 and sold over 3 million copies. She has also appeared on numerous television shows, such as The Oprah Winfrey Show, Good Morning America, and The View. She has been called “one of the most influential spiritual leaders of our time” by Time magazine.
 
-Throughout her career, Marianne Williamson has tirelessly championed causes related to poverty alleviation, combating hunger, and fostering racial reconciliation. Her advocacy efforts extend to co-founding The Peace Alliance in 2004, an organization committed to advancing the concept of a U.S. Department of Peace.
+Marianne first entered politics in 2014, when she ran for Congress in California’s 33rd district. She finished fourth in the primary, with 13% of the vote. She then launched her presidential campaign in 2019, with the slogan “Join the Evolution”. She advocated for a “politics of love” that would address the root causes of the problems facing the nation and the world. She proposed policies such as creating a Department of Peace, establishing a universal basic income, canceling student debt, and reparations for slavery.
 
-In the realm of politics, Marianne Williamson pursued the Democratic nomination for the presidency in 2020, reflecting her unwavering commitment to effecting positive change.
+Marianne qualified for the first two Democratic debates in 2019, where she attracted attention for her unconventional and charismatic style. She also gained a loyal fan base, especially among young people and celebrities. However, she failed to meet the criteria for the subsequent debates, and dropped out of the race in January 2020. She endorsed Bernie Sanders for the nomination, but later expressed disappointment with the Democratic Party and the media for their treatment of her and other progressive candidates.
 
-Marianne Williamson possesses a profound understanding of the systemic shortcomings plaguing our nation today. With a career spanning four decades dedicated to personal and systemic transformation, she has inspired countless individuals to triumph in the face of adversity.
+Marianne announced her second presidential bid in 2023, saying that she felt “a moral obligation” to run again. She said that she wanted to offer a “radical alternative” to the status quo, and to inspire a “spiritual awakening” in the country. She said that she would run as an independent, and that she would not accept any donations from corporations or PACs. She also said that she would focus on grassroots organizing and social media, and that she would rely on her supporters to spread her message.
 
-Marianne's vision is rooted in a profound desire for an America that embraces both its triumphs and its mistakes—a nation poised for a new chapter, America 2.0. In these unprecedented times, she firmly believes that the status quo in politics has proven inadequate. The call of the hour is for transformative leadership, and Marianne asserts that a woman is the best choice to lead us through these challenging times.
+Marianne Williamson has a bold and visionary platform that aims to transform America from a politics of fear to a politics of love. She believes that we need to address not only the symptoms, but also the underlying causes of our national and global challenges. She proposes solutions that are rooted in a holistic and integrative perspective, that honor the dignity and potential of every human being, and that respect the interdependence and balance of all life.
 
-**Why I'm Seeking Office**
+Marianne's platform covers a wide range of issues, such as:
 
-Four decades ago, I embarked on a journey, delivering lectures in Los Angeles on a profound set of teachings known as "A Course in Miracles." This course, not a religion but a program of spiritual self-exploration grounded in universal truths, captivated me. I was overjoyed to share insights from it with fellow seekers.
+- **Peace**: Marianne wants to create a Department of Peace, a cabinet-level agency that would coordinate and support peace-building efforts at home and abroad. She also wants to reduce military spending, end endless wars, and promote diplomacy and cooperation. She supports a nuclear-free world, a ban on weapons sales to human rights violators, and a global commitment to nonviolence.
 
-However, a somber turn of events occurred shortly after. The AIDS crisis erupted into a catastrophic epidemic, especially impacting cities like Los Angeles. The medical community raced against time to find solutions, but the outlook was grim. Many who contracted HIV faced the grim prospect of death. Young, vibrant, talented individuals were abruptly cut down in vast numbers, and an atmosphere of despair permeated society. Moreover, pervasive homophobia compounded the suffering, forcing some young men into silence about their true selves even as they faced mortality.
+- **Justice**: Marianne wants to heal the wounds of the past and the present, and to create a more just and equitable society for all. She supports reparations for slavery, a truth and reconciliation commission for Native Americans, and a comprehensive immigration reform. She also supports criminal justice reform, voting rights protection, LGBTQ+ rights, and disability rights.
 
-**How My Path Unfolded**
+- **Democracy**: Marianne wants to restore the power of the people and the integrity of our democracy. She supports overturning Citizens United, ending gerrymandering, abolishing the Electoral College, and expanding public financing of elections. She also supports statehood for Washington, D.C. and Puerto Rico, and a constitutional amendment to lower the voting age to 16.
 
-During this tumultuous period, individuals from the LGBTQ+ community in Los Angeles and later in New York started attending my lectures. They encountered a vision of a loving and accepting God, discovering the transformative power of forgiveness. My lectures became sanctuaries where a grieving and traumatized population could seek comfort, community, and solace through prayer.
+- **Economy**: Marianne wants to create a more inclusive and sustainable economy that works for everyone, not just the wealthy and powerful. She supports a universal basic income, a federal jobs guarantee, a living wage, and a wealth tax. She also supports canceling student debt, expanding Social Security, and strengthening antitrust laws.
 
-As my lectures expanded, we introduced support groups for the ailing during the week. I initiated non-profit organizations in Los Angeles and New York that offered vital non-medical assistance to those confronting life-threatening illnesses. Our mission was simple: while we couldn't control their illnesses, we could ensure they were never alone and always felt loved. Project Angel Food, born from this ethos, has now delivered over 14 million meals to homebound patients battling critical illnesses in the Los Angeles area.
+- **Health**: Marianne wants to ensure that everyone has access to quality, affordable, and comprehensive health care. She supports Medicare for All, a single-payer system that would cover all essential services, including mental health, dental health, and vision care. She also supports a holistic approach to health, that includes prevention, wellness, and alternative therapies.
 
-During this period, I also delved into writing. In 1992, my debut book, "A RETURN TO LOVE: Reflections on the Principles of A Course in Miracles," took flight and became an instant bestseller, ultimately ranking as the fifth highest-selling book in America that year. Since then, I've authored 14 additional books.
+- **Education**: Marianne wants to provide every child with the opportunity to learn and grow in a nurturing and stimulating environment. She supports universal pre-K, free public college, and student loan forgiveness. She also supports investing in STEM education, arts education, and bilingual education. She also supports ending high-stakes testing, increasing teacher pay, and reducing class sizes.
 
-**My Identity and Experiences**
+- **Environment**: Marianne wants to address the climate crisis and protect the environment for future generations. She supports the Green New Deal, a bold and comprehensive plan to transition the U.S. to a clean energy economy and create millions of green jobs. She also supports rejoining the Paris Climate Agreement, banning fracking, and phasing out fossil fuels.
 
-My journey has taken me far and wide. I've conducted classes and lectures across America and around the world. Although most of my writings revolve around universal spiritual themes, two of my books, "Healing the Soul of America" and "A Politics of Love," extend my spiritual exploration into the realm of politics. Simultaneously, my non-profit endeavors have continued to champion crucial causes such as AIDS care, peace, hunger relief, and racial reconciliation.
-
-Through extensive travel and interactions with thousands of people, I've borne witness to many facets of life. I've stood beside people during their most trying moments, from grappling with grave diagnoses to facing addiction crises, sudden marital separations, and abrupt career setbacks. My aim has always been to provide solace, inspiration, and the tools for personal growth.
-
-**A Changing America**
-
-Around two decades ago, I began to discern a disheartening trend—an increasing prevalence of misery among individuals. Although I was accustomed to confronting life's tragedies even among those who appeared happy and privileged, I encountered far too many who seemed to suffer needlessly. Hardworking individuals striving for meaningful and productive lives found themselves ensnared by societal and economic conditions beyond their control. In many cases, their troubles were the result of systemic injustices, not of their own making.
-
-Something fundamental had shifted in America.
-
-In the 1970s, a typical American worker could afford a home, a car, an annual vacation, and the opportunity to send their children to college. One parent could even choose to stay at home with the kids. Economic anxiety was not the pervasive norm as it is today.
-
-So, why has this changed? The answer lies in a rigged system.
-
-According to the Rand Corporation, over the past 48 years, more than $50 trillion has been funneled from the bottom 90 percent of Americans to the top one percent. Average American workers now earn less, in real terms, for the same work, while CEOs and shareholders amass immense wealth in an exploitative system that harms both people and the planet. Trickle-down economics, touted as a solution, has failed to uplift all, leaving many to struggle without a lifeline. An aberration in American history, where neoliberal economic philosophy prioritizes short-term corporate profits over democracy, has led our nation into a period of social, political, and economic decline.
-
-From tax breaks for the wealthy to extensive corporate subsidies, from rampant privatization to union dismantling and excessive deregulation, the average American worker has been stripped of economic opportunities. Throughout my travels, I witnessed firsthand how chronic economic anxiety has given rise to despair among what once constituted America's middle class.
-
-Medical debt affecting 500,000 people annually, 68,000 deaths annually due to lack of medical care, 85 million Americans underinsured or uninsured, 18 million unable to afford prescribed medications, 64 percent living paycheck to paycheck, 60 percent unable to handle a sudden $400 expense, $88 billion in credit card debt, and 600,000 homeless individuals—these statistics aren't mere numbers. They represent lives mired in despair.
-
-
-
-🌟 Vision 🌟
-
-Join us on an inspiring journey toward a brighter, more compassionate America! Marianne Williamson's 2024 presidential campaign is centered on visionary principles that prioritize unity, love, and genuine progress. Our vision is simple yet profound: to build an America where everyone has the opportunity to thrive and live with dignity.
-
-🌍 Unity and Healing 🌍
-
-At the heart of our campaign is a commitment to healing the divisions that have plagued our nation. Marianne believes that love, understanding, and unity can bridge even the deepest divides. Our goal is to unite Americans from all walks of life, creating a nation where differences are celebrated rather than feared.
-
-🤝 Social Justice and Equality 🤝
-
-Marianne Williamson has a long history of advocating for social justice. Her 2024 campaign is committed to addressing systemic issues like racial disparities, economic inequality, and environmental justice. Together, we will create policies that ensure everyone's rights and dignity are protected.
-
-🏥 Healthcare for All 🏥
-
-Healthcare is a fundamental human right, not a privilege. Our campaign will work tirelessly to ensure every American has access to quality healthcare. We will build a healthcare system that focuses on prevention and wellness, leaving no one behind.
-
-🌱 Environmental Stewardship 🌱
-
-The climate crisis is real, and we are committed to addressing it head-on. We will invest in renewable energy, protect our natural resources, and create green jobs that will not only save the planet but also boost our economy.
-
-📚 Education and Opportunity 📚
-
-Our children deserve the best education possible. We will revamp the education system to make it accessible and equitable, from preschool to college. Education is the foundation for a prosperous future.
-
-🏡 Housing and Economic Security 🏡
-
-Affordable housing is essential for stable communities. We will work to ensure that every American has access to safe and affordable housing. Additionally, we will implement economic policies that prioritize job growth and financial security for all.
-
-🗳️ Grassroots Democracy 🗳️
-
-Our campaign is powered by the people, not corporate interests. We believe in the strength of grassroots democracy and the power of everyday citizens to bring about change. Join us, and let's build a government that truly represents the people.
-
-🇺🇸 Join the Movement 🇺🇸
-
-Marianne Williamson's 2024 presidential campaign is more than a political movement; it's a call to transform our nation and bring forth a brighter future. Join us in making history. Together, we will create an America that lives up to its highest ideals.
-
-Visit [Marianne2024.com](https://marianne2024.com/) to get involved, donate, and be part of the change America needs. Together, we can build a brighter America for all! 🌟🇺🇸 #Marianne2024 #BrighterAmerica
+- **Spirituality**: Marianne wants to inspire a spiritual awakening in the country and the world, that would foster a deeper sense of connection, compassion, and purpose. She supports the separation of church and state, but also the integration of spirituality and politics. She believes that we need to cultivate a moral and ethical framework that guides our actions and decisions, and that reflects our highest values and ideals.
