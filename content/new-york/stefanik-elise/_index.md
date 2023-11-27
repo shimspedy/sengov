@@ -40,3 +40,26 @@ Elise was born and raised in Upstate New York. Prior to serving in Congress, she
 It is the highest and most humbling honor of Elise’s life to represent Upstate New York and the North Country in Congress.  She is proud to work tirelessly every day to bring a new generation of leadership to Washington on behalf of her district’s hardworking families, small businesses, farmers, students, seniors, service members, military families, law enforcement officers, and veterans. She is unapologetic about fighting every day to give her constituents a seat at the absolute highest levels of government.
 
 Elise lives in Schuylerville with her husband Matt and their young son Sam. They are proud to call Upstate New York – the cradle of the American Revolution – home.
+
+
+Stefanik has a website where she outlines her positions on various issues, such as:
+
+Jobs and the economy: Stefanik supports reducing taxes and regulations for small businesses, expanding workforce development and training programs, investing in rural broadband and infrastructure, and promoting trade and tourism in the North Country.
+
+National security and defense: Stefanik supports strengthening the military and veterans’ services, modernizing the nuclear triad, confronting China and Russia, and protecting the U.S. from cyberattacks and terrorism.
+
+Health care: Stefanik supports repealing and replacing the Affordable Care Act, lowering the cost of prescription drugs, expanding access to rural health care, and bringing transparency and accountability to the health care system.
+
+Education: Stefanik supports expanding school choice and charter schools, increasing funding for STEM education, reforming student loans and debt, and supporting teachers and students during the COVID-19 pandemic.
+
+Agriculture: Stefanik supports protecting and expanding the Farm Bill, promoting dairy and specialty crops, securing trade deals for farmers, and addressing labor shortages and environmental challenges in the agricultural sector.
+
+Environment: Stefanik supports combating climate change, preserving the Adirondack Park, investing in clean energy and green jobs, and opposing the Green New Deal.
+
+Second Amendment: Stefanik supports defending the right to bear arms, opposing gun control legislation, and promoting responsible gun ownership and safety.
+
+Social issues: Stefanik supports protecting life, religious freedom, and the Constitution, opposing abortion and taxpayer funding of Planned Parenthood, and promoting adoption and foster care.
+
+Stefanik has been a loyal supporter of former President Donald Trump and his policies, especially his efforts to overturn the 2020 presidential election results. She strongly opposed his first impeachment in 2019 and his second impeachment in 2021, and blamed Speaker Nancy Pelosi for the January 6 attack on the Capitol by Trump supporters14. She also replaced Liz Cheney as the chair of the House Republican Conference after Cheney was ousted for criticizing Trump and his role in the insurrection1 .
+
+Stefanik has also faced criticism for her support of controversial figures such as George Santos, a Republican congressional candidate from New York who was indicted for tax fraud and drug possession. Stefanik endorsed Santos and donated to his campaign, despite his legal troubles and his inflammatory remarks on social media1 .
