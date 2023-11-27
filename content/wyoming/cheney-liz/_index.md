@@ -1,11 +1,11 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2023-11-22T11:54:12-05:00
 title: "Liz Cheney"
-seo_title: "contact Representative  Liz Cheney"
+seo_title: " Liz Cheney"
 subheader:
-     greeting: Contact Representative  Liz Cheney 
+     greeting:   Liz Cheney 
      description: Elizabeth Lynne Cheney is an American attorney and politician serving as the U.S. Representative for Wyoming's at-large congressional district since 2017. Cheney is the House Republican Conference Chair, the third-highest position in the House Republican leadership.
-description: Contact Representative  Liz Cheney of Wyoming. Contact information for Liz Cheney includes email address, phone number, and mailing address.
+description:   Liz Cheney of Wyoming. Contact information for Liz Cheney includes email address, phone number, and mailing address.
 image: cheney-liz.jpg
 video: 
 url: /wyoming/cheney-liz/
@@ -29,12 +29,4 @@ twitter: RepLizCheney
 powrid: 
 ---
 
-
-Liz Cheney serves as Wyoming’s lone member of Congress in the U.S. House of Representatives. She was first elected in 2016 on a platform of restoring America’s strength and power in the world, and pursuing conservative solutions to create jobs, cut taxes and regulation, and expand America’s energy, mining and agriculture industries. Cheney sits on the House Armed Services Committee and also serves as the Vice Chair for the House Select Committee to Investigate the January 6th Attack on the United States Capitol.
-
-From 2019 to 2021, Cheney served as the Chair of the House Republican Conference, the third-ranking Republican in the House of Representatives.
-
-Prior to her election to Congress, Cheney served at the State Department as a Deputy Assistant Secretary of State and Principal Deputy Assistant Secretary of State for the Middle East. She also practiced law at White & Case and at the International Finance Corporation. A specialist in national security and foreign policy, she was also a Fox News analyst, and is the co-author – along with her father, former Vice President Dick Cheney – of “Exceptional: Why The World Needs a Powerful America.”  She is a member of the International Board of Advisors at the University of Wyoming.
-
-Liz and her husband Phil Perry have five children and live in Wilson, Wyoming.
-
+Liz Cheney is an American lawyer and politician who served as a U.S. Representative from Wyoming from 2017 to 2023. She is the eldest daughter of former Vice President Dick Cheney and former Second Lady Lynne Cheney. She worked in the U.S. State Department during the George W. Bush administration and was involved in promoting regime change in Iran and other Middle Eastern countries. She also co-founded a nonprofit organization called Keep America Safe that advocated for a strong national security policy. She ran for the U.S. Senate in Wyoming in 2014 but withdrew from the race. She was elected to the House of Representatives in 2016 and became the chair of the House Republican Conference in 2019. She was known for her conservative views on economic, social, and foreign policy issues. She was also one of the few Republicans who openly criticized former President Donald Trump and his role in the 2021 storming of the U.S. Capitol. She supported Trump’s second impeachment and was appointed as the vice chair of the House January 6th Committee that investigated the riot. As a result, she faced backlash from Trump and his allies and was removed from her leadership position in the House Republican Conference in 2021. She did not run for reelection in 2022 and became a professor of practice at the University of Virginia Center for Politics in 2023.
