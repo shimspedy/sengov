@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2023-11-22T11:54:12-05:00
 title: "Jamaal Bowman"
 seo_title: "contact Representative Jamaal Bowman"
 subheader:
      greeting: Contact Representative Jamaal Bowman 
-     description: Jamaal Bowman is an American politician and educator serving as the U.S. representative for New York's 16th congressional district since 2021. The district covers much of the north Bronx, as well as the southern half of Westchester County including Mount Vernon, New Rochelle and Bowman's hometown of Yonkers.
+     description: Congressman Jamaal Bowman represents New York's 16th Congressional District, which covers parts of the Bronx and Westchester County.
 description: Contact Representative Jamaal Bowman of New York. Contact information for Jamaal Bowman includes email address, phone number, and mailing address.
 image: bowman-jamaal.jpg
 video: 
@@ -29,26 +29,11 @@ twitter: JamaalBowmanNY
 powrid: 
 ---
 
-#### Congressman Jamaal Bowman, Ed.D.
-Congressman Jamaal Bowman, Ed.D., represents New York’s 16th District, which includes the Northern Bronx and parts of Westchester County, including Yonkers, New Rochelle, and Mount Vernon. Rep. Bowman was born and raised in New York City, spending his early years in public housing and rent-controlled apartments. He was raised by his mother, who supported them with her post office worker’s salary. After graduating from the University of New Haven, Rep. Bowman began his career as a crisis intervention teacher in a Bronx public school and went on to earn a master’s degree in guidance counseling from Mercy College and a doctorate in education from Manhattanville College. In 2009, he went on to found Cornerstone Academy for Social Action (CASA), a Bronx middle school focused on unlocking the natural brilliance of all children through a holistic curriculum, where he served as principal for a decade. Bowman lives in Yonkers, New York, with his wife and three beautiful children.
 
-#### First Term Accomplishments
-- Brought over $200 million in aid to NY-16, including over $20 million going directly to local groups, nonprofits and governments committed to helping our seniors, improving infrastructure, and providing better access to healthcare services and enrichment activities for our youth
+Congressman Jamaal Bowman represents New York's 16th Congressional District, which covers parts of the Bronx and Westchester County. He is a former educator and community leader who has dedicated his life to fighting for justice and equity for all people.
 
-- Introduced nine bills to invest in our schools, tell the truth, make the rich pay their fair share, end corporate greed, and assist regular people in America. Most notably, Bowman's bill Green New Deal for Public Schools would invest $10 trillion over 10 years into our public schools.
+Congressman Bowman serves on the House Committees on Education and Labor, Science, Space, and Technology, and Oversight and Reform. He is also a member of the Congressional Progressive Caucus, the Congressional Black Caucus, and the Medicare for All Caucus.
 
+As a public school teacher and principal for over 20 years, Congressman Bowman knows firsthand the challenges and opportunities facing our education system. He is a strong advocate for public education, universal pre-K, tuition-free college, and student debt cancellation. He also supports investing in green infrastructure, renewable energy, and environmental justice to combat the climate crisis and create millions of good-paying jobs.
 
-- Been on the frontlines to protect our communities against COVID-19 by opening vaccine centers and distributing PPE and testing kits
-
-- Stood alongside communities devastated by climate change and Hurricane Ida by delivering relief to families, individuals, and small business owners
-
-- Fought for regular, working people by advocating for universal child care, disability rights, affordable prescription drugs, affordable housing, and more
-
-
-- Delivered resources to our communities to improve and expand mental health resources and prevent violence
-
-- Advocated for homeowners
-
-- Been arrested for fighting for voting rights
-
-- Joined millions around the world in support of human rights
+Congressman Bowman is a proud father of three and a lifelong New Yorker. He grew up in public housing and experienced poverty, violence, and homelessness as a child. He overcame these hardships with the help of his family, mentors, and community. He is committed to uplifting the voices of the people and building a more inclusive and democratic society..
