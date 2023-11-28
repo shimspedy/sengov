@@ -7,7 +7,7 @@ description: Kellen Curry is a leader who has served his country, his community,
 authors:
   - john shim
 categories:
-  - new york
+  - New york
 tags:
  - congress
 image: kellencurry.webp
