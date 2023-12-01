@@ -24,7 +24,7 @@ phonenumber:	(202) 456-1111
 emailaddress:	comments@whitehouse.gov
 website:	https://www.whitehouse.gov/
 committeeassignment: 
-role: Sec Of Housing And Urban Development  
+role: Secretary Of Housing And Urban Development  
 inoffice: current
 twitter: 
 
