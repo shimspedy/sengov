@@ -10,7 +10,7 @@ categories:
   - New york
 tags:
  - congress
-image: greghach.jpeg
+image: greghach.webp
 video:
 url: 
 weight: 0
