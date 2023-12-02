@@ -1,11 +1,11 @@
 ---
 date: 2022-11-22T11:54:12-05:00
 title: "George Santos"
-seo_title: "contact Representative George Santos"
+seo_title: "contact Former Representative George Santos"
 subheader:
-     greeting: Contact Representative George Santos 
+     greeting: Contact Former Representative George Santos 
      description: George Santos is the son of immigrants, who was born and raised in Jackson Heights, Queens. Both his mother and father are immigrants to the United States from Brazil. They came to the US in search of the American dream. Today George lives that dream based on the foundations of life, liberty, and the pursuit of happiness. 
-description: Contact Representative George Santos of New York. Contact information for George Santos includes email address, phone number, and mailing address.
+description: Contact Former Representative George Santos of New York. Contact information for George Santos includes email address, phone number, and mailing address.
 image: george-santos.jpeg
 video: 
 url: /new-york/george-santos/
@@ -37,7 +37,7 @@ As the son of immigrants, George understands the strength that comes with NY03's
 
 George perused a long path to success, starting in import & export sales, customer service, corporate Hospitality to building an extensive capital markets career covering real estate, bio-tech, M&A, capital introduction for Private Equity firms and managing General Partner and Limited Partner relations. He has experience delivering results in the business world and now he will take that same drive to Washington to deliver results for New York’s Third Congressional District.
 
-As a Member of the Congressional class whose victories will change the direction of the House of Representatives, George is determined to deliver real results for his constituents. 
+As a Member of the Congressional class whose victories will change the direction of the House of  Representatives, George is determined to deliver real results for his constituents. 
 
 For far too long politicians have been elected only to let down their constituents by caving to political pressures. George is committed to standing strong and fighting every single day to improve the quality of life for everyone in New York’s Third Congressional District and beyond.
 
