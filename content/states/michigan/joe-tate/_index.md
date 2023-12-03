@@ -6,9 +6,9 @@ subheader:
      greeting: Contact senator Joe Tate
      description: Speaker Joe Tate is serving his third term and now represents the 10th House District. Tate is Michigan’s first Black Speaker of the House, now holding the gavel and setting House priorities in a legislative term in which Democrats have the majority for the first time in over a decade.
 description: Contact senator Joe Tate of Michigan. Contact information for Joe Tate includes email address, phone number, and mailing address.
-image: joe-tate.jpeg
+image: joe-tate.jpg
 video:
-url:  /states/michigan/joe-tate
+url:  /states/michigan/joe-tate/
 weight: 1
 layout: course_home
 

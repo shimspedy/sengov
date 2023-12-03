@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Matt Koleszar of Michigan. Contact information for Matt Koleszar includes email address, phone number, and mailing address.
 image: matt-koleszar.jpeg
 video:
-url:  /states/michigan/matt-koleszar
+url:  /states/michigan/matt-koleszar/
 weight: 1
 layout: course_home
 

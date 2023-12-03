@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Janie Lopez
      description: On November 2022, Janie Lopez made history by becoming the first Republican Hispanic elected as State Representative to represent House District 37, an area in south Texas that includes both Willacy and Cameron Counties.
 description: Contact representative Janie Lopez of Texas. Contact information for Janie Lopez includes email address, phone number, and mailing address.
-image: justin-holland.jpeg
+image: janie-lopez.jpeg
 video:
 url:  /states/texas/janie-lopez/
 weight: 1

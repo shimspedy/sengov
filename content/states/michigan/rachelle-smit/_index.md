@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Rachelle Smit State Rep. Rachelle Smit was first elected to serve the 35th District in the Michigan House of Representatives in November 2020.Rep. Rachelle Smit represents the 34th House District, which covers most of Lenawee County.
      description: Rep. Rachelle Smit was born and raised in West Michigan and was elected to the Michigan House of Representatives in 2022 to represent the residents of Michigan’s 43rd House District.
 description: Contact senator Rachelle Smit of Michigan. Contact information for Rachelle Smit includes email address, phone number, and mailing address.
-image: rachelle-smit.jpeg
+image: rachelle-smit.jpg
 video:
 url:  /states/michigan/rachelle-smit/
 weight: 1

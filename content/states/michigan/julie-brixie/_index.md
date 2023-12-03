@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Julie Brixie
      description: After earning a Master’s degree in crop and soil sciences with a specialization in environmental toxicology, Julie Brixie ran a mobile laboratory, conducting investigations and cleanups of contaminated sites all over Michigan.
 description: Contact senator Julie Brixie of Michigan. Contact information for Julie Brixie includes email address, phone number, and mailing address.
-image: julie-brixie.jpeg
+image: julie-brixie.jpg
 video:
 url:  /states/michigan/julie-brixie/
 weight: 1

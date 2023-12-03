@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Mark Tisdel State Rep. Mark Tisdel was first elected to serve the 35th District in the Michigan House of Representatives in November 2020.Rep. Mark Tisdel represents the 34th House District, which covers most of Lenawee County.
      description: Representative Mark Tisdel has been a dedicated advocate for Greater Rochester in the Michigan House of Representatives since 2021. He proudly represents the 55th House District, which encompasses the cities of Rochester and Rochester Hills, as well as a portion of Oakland Township.
 description: Contact senator Mark Tisdel of Michigan. Contact information for Mark Tisdel includes email address, phone number, and mailing address.
-image: mark-tisdel.jpeg
+image: mark-tisdel.jpg
 video:
 url:  /states/michigan/mark-tisdel/
 weight: 1

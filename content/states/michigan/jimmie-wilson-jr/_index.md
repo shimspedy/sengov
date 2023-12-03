@@ -6,9 +6,9 @@ subheader:
      greeting: Contact senator Jimmie Wilson
      description: State Rep. Jimmie Wilson Jr. is serving his first term in the House representing the 32nd District, which comprises Ypsilanti and Ypsilanti Township.
 description: Contact senator Jimmie Wilson of Michigan. Contact information for Jimmie Wilson includes email address, phone number, and mailing address.
-image: jimmie-wilson-jr.jpeg
+image: jimmie-wilson-jr.jpg
 video:
-url:  /states/michigan/jimmie-wilson-jr
+url:  /states/michigan/jimmie-wilson-jr/
 weight: 1
 layout: course_home
 

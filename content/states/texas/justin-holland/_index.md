@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Justin Holland of Texas. Contact information for Justin Holland includes email address, phone number, and mailing address.
 image: justin-holland.jpeg
 video:
-url:  /states/texas/justin-hollander/
+url:  /states/texas/justin-holland/
 weight: 1
 layout: course_home
 

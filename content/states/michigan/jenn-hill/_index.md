@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Jenn Hill
      description: State Rep. Jenn Hill is serving her first term representing the 109th House District. Before Rep. Hill took office, she was an infrastructure advocate and nonprofit leader focused on building a more resilient Michigan
 description: Contact representative Jenn Hill of Michigan. Contact information for Jenn Hill includes email address, phone number, and mailing address.
-image: bjenn-hill.jpeg
+image: jenn-hill.jpeg
 video:
 url:  /states/michigan/jenn-hill/
 weight: 1

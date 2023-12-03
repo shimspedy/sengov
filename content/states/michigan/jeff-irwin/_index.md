@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jeff Irwin of Michigan. Contact information for Jeff Irwin includes email address, phone number, and mailing address.
 image: jeff-irwin.jpeg
 video:
-url:  /states/michigan/jeff-irwink/
+url:  /states/michigan/jeff-irwin/
 weight: 1
 layout: course_home
 

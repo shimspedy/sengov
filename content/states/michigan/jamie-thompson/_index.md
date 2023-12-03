@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Jamie Thompson of Michigan. Contact information for Jamie Thompson includes email address, phone number, and mailing address.
 image: jamie-thompson.jpeg
 video:
-url:  /states/michigan/jamie-thompson
+url:  /states/michigan/jamie-thompson/
 weight: 1
 layout: course_home
 

@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Christine Morse
      description: State Rep. Christine Morse is serving her second term representing the redistricted 40th House District, which comprises parts of the city of Portage and Kalamazoo and parts of the Townships of Oshtemo and Texas. Rep. Morse is a former Kalamazoo County commissioner, attorney, cancer survivor and mom of three.
 description: Contact senator Christine Morse of Michigan. Contact information for Christine Morse includes email address, phone number, and mailing address.
-image: christine-morses.jpeg
+image: christine-morse.jpeg
 video:
 url:  /states/michigan/christine-morse/
 weight: 1

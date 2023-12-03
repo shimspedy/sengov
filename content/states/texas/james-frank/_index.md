@@ -8,7 +8,7 @@ subheader:
 description: Contact representative James Frank of Texas. Contact information for James Frank includes email address, phone number, and mailing address.
 image: james-frank.jpeg
 video:
-url:  /states/texas/james-frankr/
+url:  /states/texas/james-frank/
 weight: 1
 layout: course_home
 
