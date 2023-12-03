@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2023-11-11T11:55:00-04:00
 title: "Texas"
 ab: "TX"
 seo_title: "Contact Texas  Governors And Senators"

@@ -1,5 +1,5 @@
 ---
-date: 2023-10-23T11:55:00-04:00
+date: 2023-11-23T11:55:00-04:00
 title: "Michigan"
 ab: "MI"
 seo_title: "Contact Michigan  Governors And Senators"
