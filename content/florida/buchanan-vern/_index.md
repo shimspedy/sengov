@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2023-11-22T11:54:12-05:00
 title: "Vern Buchanan"
 seo_title: "contact Representatives Vern Buchanan"
 subheader:
