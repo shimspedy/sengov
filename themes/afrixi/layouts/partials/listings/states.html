@@ -4,7 +4,7 @@
      <h1 class="flow-text"> {{.Title}} senate members</h1>
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "senator") ( eq .Params.inoffice "current") }}
-     <div class="col s12 m6 l3">
+     <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}
      </div>
 
@@ -22,7 +22,7 @@
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "representative") ( eq .Params.inoffice "current") }}
 
-     <div class="col s12 m6 l3">
+     <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}
      </div>
      {{end}}
