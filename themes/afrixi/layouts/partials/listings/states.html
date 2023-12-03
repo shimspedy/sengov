@@ -1,9 +1,10 @@
 
 {{if .Sections}}
 <div class=" row">
+     <h1 class="flow-text"> {{.Title}} senate members</h1>
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "senator") ( eq .Params.inoffice "current") }}
-     <div class="col s12 m6 l6">
+     <div class="col s12 m6 l3">
           {{ partial "listings/senate" . }}
      </div>
 
@@ -16,11 +17,12 @@
 
 
 {{if .Sections}}
+<h1 class="flow-text"> {{.Title}} congressional representatives</h1>
 <div class=" row">
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "representative") ( eq .Params.inoffice "current") }}
 
-     <div class="col s12 m6 l6">
+     <div class="col s12 m6 l3">
           {{ partial "listings/senate" . }}
      </div>
      {{end}}
@@ -34,7 +36,7 @@
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "congress") ( eq .Params.inoffice "current") }}
 
-     <div class="col s12 m6 l6">
+     <div class="col s12 m6 l4">
           {{ partial "listings/senate" . }}
      </div>
      {{end}}
