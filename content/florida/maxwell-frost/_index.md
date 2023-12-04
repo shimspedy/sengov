@@ -50,7 +50,7 @@ The greatest challenge facing our country and the world is the climate crisis. T
 #### REIMAGINING JUSTICE
 The billions of dollars in federal grants which flow from Washington DC to state prisons and police forces exacerbate the policing and prison crisis, encouraging more arrests, more aggressive prosecution, and unnecessary incarceration. The United States has less than 5% of the world’s population, but nearly 25% of its prisoners. Beyond the cruelty of our penal systems, mass incarceration contributes significantly to the American poverty rate, destroys the futures of its victims, and accelerates the cycles of violence it’s supposed to prevent. 
 
-#### HOUSING & TRANSIT
+#### HOUSING TRANSIT
 One of the most intimate parts of your life is where you live and how you move around. For too long, our elected leaders have not paid enough attention to how their actions – or lack of action – have affected these aspects of your life. And, importantly, these things are very closely related. If we are going to build strong communities with abundant, affordable housing, then we have to build a fair, sustainable transportation system to move people around. And if we are going to invest in smart transportation like buses, rail, and safe streets for all ages to enjoy, then we have to have a sufficient level of housing to support those forms of transportation.
 
 If we continue to think about housing and transportation separately, we will continue down our path of long commutes, environmental degradation, and unaffordability. It’s time for a smarter vision of how we build our cities, our towns, and our neighborhoods.
