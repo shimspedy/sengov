@@ -9,7 +9,11 @@
     <div class="card horizontal">
     {{ end }}
      <div class="card-image">
+      {{ if eq .Params.imagedir "root" }}
+       <img  style="max-height: 70px;" src="{{ .Params.imageurl }}" alt="{{.Title}}">
+       {{ else }}
        <img  style="max-height: 70px;" src="{{.Params.url}}{{.Params.image}}" alt="{{.Title}}">
+       {{ end }}
      </div>
      <div class="card-stacked">
        <div class="card-content">
