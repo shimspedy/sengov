@@ -46,7 +46,7 @@ Dr. and Mrs. Babin are members of the First Baptist Church of Woodville, where h
 #### Securing Our Borders
 Securing our nation’s borders remains my top priority when it comes to immigration.  I strongly support President Trump’s border wall and voted to provide over $1.6 billion to begin its construction.  I swore an oath to protect and defend the American people and an unsecure border undermines that promise and their safety.  That’s why I have led the effort in Congress to ensure refugees from terrorist hotbeds are fully vetted, deport criminal aliens, and cut off taxpayer funding for “sanctuary cities” that threaten our nation’s immigration laws.  To remain a sovereign nation, we must secure and control our borders.  I will continue to fight to get this vital need accomplished.
 
-‍#### Restoring Health Care Freedom
+#### Restoring Health Care Freedom
 It has been more than a year since the Senate failed to keep its promise and repeal Obamacare.  While this disappointment still weighs on me, I will continue to fight for legislation to repeal and replace Obamacare with policies that restore health care freedom in America.  I will not stop working to rescue the American people from this disastrous law.  As a health care provider, I know firsthand how Obamacare is destroying the doctor-patient relationship.  This one-size-fits-all approach is driving up costs and forcing Americans to buy health care plans that they simply do not want and cannot afford.
 
 #### ‍Restoring Public Education
