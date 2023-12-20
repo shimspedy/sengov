@@ -19,10 +19,10 @@
                    <ul>
                {{end}}
                {{ $base := ($.Page.File.LogicalName) }}
-               {{ $anchorId := ($header | plainify | htmlEscape | urlize) }}
+               {{ $anchorId := ($header | plainify | safeHTML | urlize) }}
                {{ $href := delimit (slice $base $anchorId) "#" | string }}
                <a href="{{ $.RelPermalink }}#{{$anchorId}}">
-                   <li>{{ $header | plainify | htmlEscape }}</li>
+                   <li>{{ $header | plainify | safeHTML }}</li>
                </a>
                <!-- close list -->
                {{ range seq $next_heading }}
