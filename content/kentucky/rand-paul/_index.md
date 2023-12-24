@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Rand Paul of Kentucky. Contact information for Rand Paul includes email address, phone number, and mailing address.
 image: rand-paul.jpg
 video: 
-url: /kentucky/rand-paul
+url: /kentucky/rand-paul/
 weight: 1
 layout: course_home
 
