@@ -1,14 +1,16 @@
-{{ range first 10 (where .Site.RegularPages "Section" "income") }}
-<article id="{{ range  $tags := .Params.tags }} {{ $tags| lower }}{{ end }}"
-  class="post-contents {{ range  $tag := .Params.tags }} {{ $tag | lower }}{{ end }}"
+
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "income") 50 }}
+{{ range $paginator.Pages }}
+<article id="{{ range  $categories := .Params.categories }} {{ $categories| lower }}{{ end }}"
+  class="hentry post-contents {{ range  $categories := .Params.categories }} {{ $categories | lower }}{{ end }}"
   itemtype="http://schema.org/Article">
-  <div class="card horizontal">
-    <a class="card-image" href="{{ .Permalink }}" title="{{ .Params.title }}">
+  <div class="card horizontal sen-elect">
+    <a class="card-image entry-title" href="{{ .Permalink }}" title="{{ .Params.title }}">
 
       {{ if .Params.image }}
-      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}income/{{ .Params.image }});"></div>
       {{ else }}
-      <div class="thumb-img" style="background-image: url({{.Site.BaseURL}}{{.Params.defaulImage }});"></div>
+      <div class="thumb-img" style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});"></div>
       {{ end }}
 
     </a>
@@ -16,3 +18,12 @@
   </div>
 </article>
 {{ end }}
+
+<ul class="pagination center">
+{{ if .Paginator.HasPrev }}
+    <li class="waves-effect "><a href="{{ .Paginator.Prev.URL }}" class=" waves-light btn white-text light-blue darken-4"><i class="material-icons left">chevron_left</i>PREV</a></li>
+{{ end }}
+{{ if .Paginator.HasNext }}
+    <li class="waves-effect "><a href="{{ .Paginator.Next.URL }}" class=" waves-light btn white-text light-blue darken-4"><i class="material-icons right">chevron_right</i>NEXT</a></li>
+{{ end }}
+</ul>
