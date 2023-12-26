@@ -21,7 +21,7 @@ inoffice: current
 elected: 2017
 mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website:https://www.leg.mt.gov/legislator-information/roster/individual/7522/
+website: https://www.leg.mt.gov/legislator-information/roster/individual/7522/
 email : https://www.leg.mt.gov/legislator-information/roster/individual/7522/
 twitter: gundersonmthd1
 ---
