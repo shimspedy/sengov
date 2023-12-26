@@ -1,7 +1,7 @@
 ---
 date: 2023-12-25T10:02:29-04:00
 name: Katie Porter 
-title: " Katie Porter  for senator 2024"
+title: " Katie Porter running for senator 2024"
 seo_title: "California senator Katie Porter "
 description: Katie Porter stands out as a fearless advocate for California families, renowned for her unwavering commitment to consumer and taxpayer protection.
 authors:
