@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative David Robertson
      description: David Allen Robertson is a member of the Democratic Party and represents the 19th Middlesex District in the Massachusetts House of Representatives. He has been serving since 2019. Robertson is a lifelong resident of Tewksbury, Massachusetts, one of the townships he represents in the state legislature.
 description: Contact representative David Robertson of Massachusetts. Contact information for David Robertson includes email address, phone number, and mailing address.
-image: david-robertson.jpeg
+image: david-robertson.jpg
 video:
 url:  /states/massachusetts/david-robertson/
 weight: 1

@@ -6,9 +6,9 @@ subheader:
      greeting: Contact representative Peter Capano
      description: Peter Capano is a member of the Democratic Party and serves as a State Representative for the 11th Essex District in the Massachusetts House of Representatives. He represents the towns of Lynn and Nahant.
 description: Contact representative Peter Capano of Massachusetts. Contact information for Peter Capano includes email address, phone number, and mailing address.
-image: pete-capano.jpeg
+image: peter-capano.jpeg
 video:
-url:  /states/massachusetts/pete-capano/
+url:  /states/massachusetts/peter-capano/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative William Driscoll of Massachusetts. Contact information for William Driscoll includes email address, phone number, and mailing address.
 image: william-driscoll.jpeg
 video:
-url:  /states/massachusetts/william-driscolln/
+url:  /states/massachusetts/william-driscoll/
 weight: 1
 layout: course_home
 
