@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Alan Morrison
      description: State Rep. Alan Morrison was elected to the Indiana House of Representatives in 2012 serving District 42, which includes all of Parke and Vermillion counties, and portions of Clay, Fountain and Vigo counties.
 description: Contact representative Alan Morrison of Indiana. Contact information for Alan Morrison includes email address, phone number, and mailing address.
-image: alan-morrison.jpeg
+image: alan-morrison.jpg
 video:
 url:  /states/indiana/alan-morrison/
 weight: 1
