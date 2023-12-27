@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Dan Dernulc
      description: State Sen. Dan Dernulc has represented Senate District 1 since his election to the General Assembly in 2022. Senate District 1 encompasses a portion of Lake County in northwest Indiana.
 description: Contact senator Dan Dernulc of Indiana. Contact information for Dan Dernulc includes email address, phone number, and mailing address.
-image: dan-dernulce.jpeg
+image: dan-dernulc.jpeg
 video:
 url:  /states/indiana/dan-dernulc/
 weight: 1
