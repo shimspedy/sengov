@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Dave Heine
      description: Dave Heine, also known as David Heine, is a member of the Republican Party and has been serving in the Indiana House of Representatives, representing District 85, since November 9, 2016. His current term is set to end on November 6, 2024.
 description: Contact representative Dave Heine of Indiana. Contact information for Dave Heine includes email address, phone number, and mailing address.
-image: dave-heines.jpeg
+image: dave-heine.jpeg
 video:
 url:  /states/indiana/dave-heine/
 weight: 1
