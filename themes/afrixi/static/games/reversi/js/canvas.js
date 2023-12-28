@@ -625,27 +625,48 @@ function resizeCanvas(){
 		buttonSettings.y = offset.y + 45;
 		
 		var distanceNum = 65;
+		var nextCount = 0;
 		if(curPage != 'game'){
 			buttonExit.visible = false;
 			buttonSoundOn.x = buttonSoundOff.x = buttonSettings.x;
 			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+distanceNum;
 			buttonSoundOn.x = buttonSoundOff.x;
-			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+(distanceNum);
+			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+distanceNum;
+
+			if (typeof buttonMusicOn != "undefined") {
+				buttonMusicOn.x = buttonMusicOff.x = buttonSettings.x;
+				buttonMusicOn.y = buttonMusicOff.y = buttonSettings.y+(distanceNum*2);
+				buttonMusicOn.x = buttonMusicOff.x;
+				buttonMusicOn.y = buttonMusicOff.y = buttonSettings.y+(distanceNum*2);
+				nextCount = 2;
+			}else{
+				nextCount = 1;
+			}
 			
 			buttonFullscreen.x = buttonSettings.x;
-			buttonFullscreen.y = buttonSettings.y+(distanceNum*2);
+			buttonFullscreen.y = buttonSettings.y+(distanceNum*(nextCount+1));
 		}else{
 			buttonExit.visible = true;
 			buttonSoundOn.x = buttonSoundOff.x = buttonSettings.x;
 			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+distanceNum;
 			buttonSoundOn.x = buttonSoundOff.x;
-			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+(distanceNum);
+			buttonSoundOn.y = buttonSoundOff.y = buttonSettings.y+distanceNum;
+
+			if (typeof buttonMusicOn != "undefined") {
+				buttonMusicOn.x = buttonMusicOff.x = buttonSettings.x;
+				buttonMusicOn.y = buttonMusicOff.y = buttonSettings.y+(distanceNum*2);
+				buttonMusicOn.x = buttonMusicOff.x;
+				buttonMusicOn.y = buttonMusicOff.y = buttonSettings.y+(distanceNum*2);
+				nextCount = 2;
+			}else{
+				nextCount = 1;
+			}
 			
 			buttonFullscreen.x = buttonSettings.x;
-			buttonFullscreen.y = buttonSettings.y+(distanceNum*2);
+			buttonFullscreen.y = buttonSettings.y+(distanceNum*(nextCount+1));
 			
 			buttonExit.x = buttonSettings.x;
-			buttonExit.y = buttonSettings.y+(distanceNum*3);
+			buttonExit.y = buttonSettings.y+(distanceNum*(nextCount+2));
 		}
 
 		resizeSocketLog()

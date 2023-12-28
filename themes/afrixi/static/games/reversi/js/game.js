@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////
-// GAME v1.2
+// GAME v1.6
 ////////////////////////////////////////////////////////////
 
 /*!
@@ -10,12 +10,12 @@
 
 //icons array
 var iconsArr = [
-	{white:'assets/icon_white_1.png', black:'assets/icon_black_1.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'},
-	{white:'assets/icon_white_2.png', black:'assets/icon_black_2.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'},
-	{white:'assets/icon_white_3.png', black:'assets/icon_black_3.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'},
-	{white:'assets/icon_white_4.png', black:'assets/icon_black_4.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'},
-	{white:'assets/icon_white_5.png', black:'assets/icon_black_5.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'},
-	{white:'assets/icon_white_6.png', black:'assets/icon_black_6.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png'}
+	{white:'assets/icon_white_1.png', black:'assets/icon_black_1.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}},
+	{white:'assets/icon_white_2.png', black:'assets/icon_black_2.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}},
+	{white:'assets/icon_white_3.png', black:'assets/icon_black_3.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}},
+	{white:'assets/icon_white_4.png', black:'assets/icon_black_4.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}},
+	{white:'assets/icon_white_5.png', black:'assets/icon_black_5.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}},
+	{white:'assets/icon_white_6.png', black:'assets/icon_black_6.png', shadow:'assets/icon_shadow_1.png', whiteH:'assets/icon_whiteh_1.png', blackH:'assets/icon_blackh_1.png', board:{color:['#068646','#046233'], borderColor:'#000'}}
 ]
 
 //classic settings
@@ -42,9 +42,6 @@ var boardSettings = {
 	outerRadius:5,
 	shadowX:2,
 	shadowY:5,
-	moveColor:'#fff',
-	boardColor:['#068646','#046233'],
-	borderColor:'#000',
 	tweenPlaceSpeed:.3,
 	tweenPlaceScale:2,
 	tweenPlaceOffset:1.5,
@@ -60,7 +57,7 @@ var textDisplay = {
 					vs:'VS',
 					player1:'PLAYER 1',
 					player2:'PLAYER 2',
-					computer:'SENGOV',
+					computer:'COMPUTER',
 					userTurn:'YOUR TURN',
 					playerTurn:'[NAME] TURN',
 					computerTurn:'THINKING...',
@@ -79,7 +76,7 @@ var textDisplay = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareTitle = 'Highscore on Play Reversi is [SCORE] tiles';//social share score title
-var shareMessage = '[SCORE] tiles is my new highscore on Play Reversi game! Try it now!'; //social share score message
+var shareMessage = '[SCORE] tiles is mine new highscore on Play Reversi game! Try it now!'; //social share score message
 
 /*!
  *
@@ -112,6 +109,29 @@ var preferedMoves = [
  * 
  */
 function buildGameButton(){
+	$(window).focus(function() {
+		if(!buttonSoundOn.visible){
+			toggleSoundInMute(false);
+		}
+
+		if (typeof buttonMusicOn != "undefined") {
+			if(!buttonMusicOn.visible){
+				toggleMusicInMute(false);
+			}
+		}
+	});
+	
+	$(window).blur(function() {
+		if(!buttonSoundOn.visible){
+			toggleSoundInMute(true);
+		}
+
+		if (typeof buttonMusicOn != "undefined") {
+			if(!buttonMusicOn.visible){
+				toggleMusicInMute(true);
+			}
+		}
+	});
 	buttonClassic.cursor = "pointer";
 	buttonClassic.addEventListener("click", function(evt) {
 		playSound('soundButton');
@@ -231,13 +251,27 @@ function buildGameButton(){
 	
 	buttonSoundOff.cursor = "pointer";
 	buttonSoundOff.addEventListener("click", function(evt) {
-		toggleGameMute(true);
+		toggleSoundMute(true);
 	});
 	
 	buttonSoundOn.cursor = "pointer";
 	buttonSoundOn.addEventListener("click", function(evt) {
-		toggleGameMute(false);
+		toggleSoundMute(false);
 	});
+
+	if (typeof buttonMusicOff != "undefined") {
+		buttonMusicOff.cursor = "pointer";
+		buttonMusicOff.addEventListener("click", function(evt) {
+			toggleMusicMute(true);
+		});
+	}
+	
+	if (typeof buttonMusicOn != "undefined") {
+		buttonMusicOn.cursor = "pointer";
+		buttonMusicOn.addEventListener("click", function(evt) {
+			toggleMusicMute(false);
+		});
+	}
 	
 	buttonFullscreen.cursor = "pointer";
 	buttonFullscreen.addEventListener("click", function(evt) {
@@ -305,12 +339,12 @@ function toggleMainButton(con){
 	}else if(con == 'players'){
 		if(gameData.type == 'classic'){
 			if(!defaultSettings.twoPlayer){
-				goPage('category');
+				checkGameType(true);
 				return;
 			}
 		}else{
 			if(!customSettings.twoPlayer){
-				goPage('category');
+				checkGameType(true);
 				return;
 			}
 		}
@@ -356,10 +390,9 @@ function toggleCustomSize(con){
 		return;
 	}
 
+	checkCustomSettings();
 	if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-		postSocketUpdate('updatecustom', {size:gameData.custom.size, win:gameData.custom.win});
-	}else{
-		checkCustomSettings();
+		postSocketUpdate('updatecustom', {size:gameData.custom.size, win:gameData.custom.win}, true);
 	}
 }
 
@@ -373,10 +406,9 @@ function toggleGameIcon(){
 	gameData.icon++;
 	gameData.icon = gameData.icon > iconsArr.length-1 ? 0 : gameData.icon;
 
+	displayPlayerIcon();
 	if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-		postSocketUpdate('updateplayers', {icon:gameData.icon, switch:gameData.iconSwitch, icons:gameData.icons});
-	}else{
-		displayPlayerIcon();
+		postSocketUpdate('updateplayers', {icon:gameData.icon, switch:gameData.iconSwitch, icons:gameData.icons}, true);
 	}
 }
 
@@ -388,10 +420,9 @@ function toggleGameIconSide(){
 		gameData.icons = ['white','black'];
 	}
 
+	displayPlayerIcon();
 	if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-		postSocketUpdate('updateplayers', {icon:gameData.icon, switch:gameData.iconSwitch, icons:gameData.icons});
-	}else{
-		displayPlayerIcon();
+		postSocketUpdate('updateplayers', {icon:gameData.icon, switch:gameData.iconSwitch, icons:gameData.icons}, true);
 	}
 }
 
@@ -498,13 +529,13 @@ function goPage(page){
 		case 'custom':
 			targetContainer = customContainer;
 
-			if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-				buttonCustomStart.visible = false;
-				buttonSizeL.visible = buttonSizeR.visible = false;
+			buttonCustomStart.visible = true;
+			buttonSizeL.visible = buttonSizeR.visible = true;
 
-				if(socketData.host){
-					buttonCustomStart.visible = true;
-					buttonSizeL.visible = buttonSizeR.visible = true;
+			if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
+				if(!socketData.host){
+					buttonCustomStart.visible = false;
+					buttonSizeL.visible = buttonSizeR.visible = false;
 				}
 			}
 		break;
@@ -512,15 +543,15 @@ function goPage(page){
 		case 'players':
 			targetContainer = playersContainer;
 
+			buttonPlayersStart.visible = true;
+			buttonPlayersIcon.visible = true;
+			buttonPlayersSwitch.visible = true;
+			
 			if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-				buttonPlayersStart.visible = false;
-				buttonPlayersIcon.visible = false;
-				buttonPlayersSwitch.visible = false;
-
-				if(socketData.host){
-					buttonPlayersStart.visible = true;
-					buttonPlayersIcon.visible = true;
-					buttonPlayersSwitch.visible = true;
+				if(!socketData.host){
+					buttonPlayersStart.visible = false;
+					buttonPlayersIcon.visible = false;
+					buttonPlayersSwitch.visible = false;
 				}
 			}else{
 				if(gameData.ai){
@@ -711,7 +742,7 @@ function buildBoard(){
 	bgWidth += boardSettings.outerBorder/2;
 	bgHeight += boardSettings.outerBorder/2;
 	var bgBoard = new createjs.Shape();
-	bgBoard.graphics.beginFill(boardSettings.borderColor).drawRoundRectComplex(-(bgWidth/2), -(bgHeight/2), bgWidth, bgHeight, boardSettings.outerRadius, boardSettings.outerRadius, boardSettings.outerRadius, boardSettings.outerRadius);
+	bgBoard.graphics.beginFill(iconsArr[gameData.icon].board.borderColor).drawRoundRectComplex(-(bgWidth/2), -(bgHeight/2), bgWidth, bgHeight, boardSettings.outerRadius, boardSettings.outerRadius, boardSettings.outerRadius, boardSettings.outerRadius);
 	boardDesignContainer.addChild(bgBoard);
 
 	var positionData = {x:0, y:0, sX:0, sY:0};
@@ -736,7 +767,7 @@ function buildBoard(){
 			}
 			
 			gameData.board[r][c] = new createjs.Shape();
-			gameData.board[r][c].graphics.setStrokeStyle(boardSettings.border).beginStroke(boardSettings.borderColor).beginFill(boardSettings.boardColor[bgColor]).drawRoundRectComplex(-(boardSettings.width/2), -(boardSettings.width/2), boardSettings.width, boardSettings.width, boardSettings.radius, boardSettings.radius, boardSettings.radius, boardSettings.radius);
+			gameData.board[r][c].graphics.setStrokeStyle(boardSettings.border).beginStroke(iconsArr[gameData.icon].board.borderColor).beginFill(iconsArr[gameData.icon].board.color[bgColor]).drawRoundRectComplex(-(boardSettings.width/2), -(boardSettings.width/2), boardSettings.width, boardSettings.width, boardSettings.radius, boardSettings.radius, boardSettings.radius, boardSettings.radius);
 			gameData.board[r][c].bgMoveA = bgMoveA;
 			gameData.board[r][c].bgMoveB = bgMoveB;
 			boardDesignContainer.addChild(gameData.board[r][c], bgMoveA, bgMoveB);
@@ -859,7 +890,7 @@ function buildBoard(){
 		];
 		for (var n=0; n<dotArr.length; n++) {
 			var newDot = new createjs.Shape();
-			newDot.graphics.beginFill(boardSettings.borderColor).drawCircle(0, 0, boardSettings.dotSize);
+			newDot.graphics.beginFill(iconsArr[gameData.icon].board.borderColor).drawCircle(0, 0, boardSettings.dotSize);
 			newDot.x = positionData.sX + (dotArr[n][0] * boardSettings.width) + (boardSettings.width/2);
 			newDot.y = positionData.sY + (dotArr[n][1] * boardSettings.width) + (boardSettings.width/2);
 			boardDesignContainer.addChild(newDot);
@@ -1512,17 +1543,15 @@ function updateGame(){
 				timeData.opponentTimer = Math.floor(timeData.elapsedTime + timeData.opponentAccumulate);	
 			}
 
+			updateTimer();
 			if ( typeof initSocket == 'function' && multiplayerSettings.enable && socketData.online) {
-				postSocketUpdate('updatetimer', {playerTimer:timeData.playerTimer, opponentTimer:timeData.opponentTimer});
-			}else{
-				updateTimer();
+				postSocketUpdate('updatetimer', {playerTimer:timeData.playerTimer, opponentTimer:timeData.opponentTimer}, true);
 			}
 		}
 	}
 }
 
 function updateTimer(){
-	//timerTxt.text = millisecondsToTimeGame(timeData.timer);
 	$.players['gameTimer'+ 0].text = millisecondsToTimeGame(timeData.playerTimer);
 	$.players['gameTimer'+ 1].text = millisecondsToTimeGame(timeData.opponentTimer);
 }
@@ -1583,14 +1612,25 @@ function toggleOption(){
  * OPTIONS - This is the function that runs to mute and fullscreen
  * 
  */
-function toggleGameMute(con){
+function toggleSoundMute(con){
 	buttonSoundOff.visible = false;
 	buttonSoundOn.visible = false;
-	toggleMute(con);
+	toggleSoundInMute(con);
 	if(con){
 		buttonSoundOn.visible = true;
 	}else{
 		buttonSoundOff.visible = true;	
+	}
+}
+
+function toggleMusicMute(con){
+	buttonMusicOff.visible = false;
+	buttonMusicOn.visible = false;
+	toggleMusicInMute(con);
+	if(con){
+		buttonMusicOn.visible = true;
+	}else{
+		buttonMusicOff.visible = true;	
 	}
 }
 

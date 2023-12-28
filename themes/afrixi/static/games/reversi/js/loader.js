@@ -72,6 +72,10 @@
 		if(!enableMobileSound){
 			soundOn=false;
 		}
+	}else{
+		if(!enableDesktopSound){
+			soundOn=false;
+		}
 	}
 	
 	if(soundOn){

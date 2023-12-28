@@ -30,7 +30,7 @@ function initMain(){
 	
 	goPage('main');
 	if ( typeof initSocket == 'function' && multiplayerSettings.enable) {
-		initSocket();
+		initSocket("playreversi");
 	}
 	
 	checkMobileOrientation();
