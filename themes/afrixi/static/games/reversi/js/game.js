@@ -57,7 +57,7 @@ var textDisplay = {
 					vs:'VS',
 					player1:'PLAYER 1',
 					player2:'PLAYER 2',
-					computer:'COMPUTER',
+					computer:JOHN,
 					userTurn:'YOUR TURN',
 					playerTurn:'[NAME] TURN',
 					computerTurn:'THINKING...',
@@ -1681,7 +1681,7 @@ function share(action){
 	if( action == 'twitter' ) {
 		shareurl = 'https://twitter.com/intent/tweet?url='+loc+'&text='+text;
 	}else if( action == 'facebook' ){
-		shareurl = 'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(loc+'share.php?desc='+text+'&title='+title+'&url='+loc+'&thumb='+loc+'share.jpg&width=590&height=300');
+		shareurl = 'https://www.facebook.com/sharer/sharer.php?u='loc+'&text='+text;
 	}else if( action == 'google' ){
 		shareurl = 'https://plus.google.com/share?url='+loc;
 	}else if( action == 'whatsapp' ){
