@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////
-// GAME v1.0
+// GAME v1.5
 ////////////////////////////////////////////////////////////
 
 /*!
@@ -212,6 +212,7 @@ var gameSettings = {
 	score:30,
 	moveSpeed:.2,
 	fillSpeed:.8,
+	autoFill:true, //auto fill last tube color
 }
 
 //game text display
@@ -242,7 +243,7 @@ var shareMessage = '[SCORE]PTS is mine new highscore on Liquid Sort Game game! T
  */
 $.editor = {enable:false};
 var playerData = {score:0};
-var gameData = {paused:true, tubes:[], colorsArr:[], colorIndex:0, tubesArr:[], tubesArrIndex:0, stageNum:0, stage:{}, levelNum:0, challengeNum:0, tubeNum:0, complete:false, levelCompleted:1};
+var gameData = {paused:true, action:false, tubes:[], colorsArr:[], colorIndex:0, tubesArr:[], tubesArrIndex:0, stageNum:0, stage:{}, levelNum:0, challengeNum:0, tubeNum:0, complete:false, levelCompleted:1};
 var tweenData = {score:0, tweenScore:0};
 var timeData = {enable:false, startDate:null, sessionDate:null, nowDate:null, sessionTimer:0, timer:0, oldTimer:0, accumulate:0};
 var selectData = {page:0, total:1, max:20, column:5, row:4};
@@ -276,6 +277,29 @@ function saveLevelData(){
  * 
  */
 function buildGameButton(){
+	$(window).focus(function() {
+		if(!buttonSoundOn.visible){
+			toggleSoundInMute(false);
+		}
+
+		if (typeof buttonMusicOn != "undefined") {
+			if(!buttonMusicOn.visible){
+				toggleMusicInMute(false);
+			}
+		}
+	});
+	
+	$(window).blur(function() {
+		if(!buttonSoundOn.visible){
+			toggleSoundInMute(true);
+		}
+
+		if (typeof buttonMusicOn != "undefined") {
+			if(!buttonMusicOn.visible){
+				toggleMusicInMute(true);
+			}
+		}
+	});
 	buttonStart.cursor = "pointer";
 	buttonStart.addEventListener("click", function(evt) {
 		gameData.type = "challenge";
@@ -353,13 +377,27 @@ function buildGameButton(){
 	
 	buttonSoundOff.cursor = "pointer";
 	buttonSoundOff.addEventListener("click", function(evt) {
-		toggleGameMute(true);
+		toggleSoundMute(true);
 	});
 	
 	buttonSoundOn.cursor = "pointer";
 	buttonSoundOn.addEventListener("click", function(evt) {
-		toggleGameMute(false);
+		toggleSoundMute(false);
 	});
+
+	if (typeof buttonMusicOff != "undefined") {
+		buttonMusicOff.cursor = "pointer";
+		buttonMusicOff.addEventListener("click", function(evt) {
+			toggleMusicMute(true);
+		});
+	}
+	
+	if (typeof buttonMusicOn != "undefined") {
+		buttonMusicOn.cursor = "pointer";
+		buttonMusicOn.addEventListener("click", function(evt) {
+			toggleMusicMute(false);
+		});
+	}
 	
 	buttonFullscreen.cursor = "pointer";
 	buttonFullscreen.addEventListener("click", function(evt) {
@@ -468,6 +506,7 @@ function toggleSelect(con){
 
 function selectPage(num){
 	selectData.page = num;
+	selectData.page = selectData.page < 1 ? 1 : selectData.page;
 	
 	var startNum = (selectData.page-1) * selectData.max;
 	for(var r=0; r<selectData.row; r++){
@@ -518,7 +557,7 @@ function findSelectPage(level){
 	for(var n=0; n<10; n++){
 		var startNum = (n+1) * selectData.max;
 		if(level < startNum){
-			selectData.page = n+1;
+			selectData.page = n;
 			n = 10;
 		}
 	}
@@ -549,13 +588,13 @@ function goPage(page){
 	gameContainer.visible = false;
 	waterContainer.visible = false;
 	resultContainer.visible = false;
-	stopSoundLoop("musicGame");
+	stopMusicLoop("musicGame");
 
 	var targetContainer = null;
 	switch(page){
 		case 'main':
 			targetContainer = mainContainer;
-			playSoundLoop("musicMain");
+			playMusicLoop("musicMain");
 		break;
 
 		case 'level':
@@ -573,8 +612,8 @@ function goPage(page){
 			targetContainer = gameContainer;
 			waterContainer.visible = true;
 			startGame();
-			stopSoundLoop("musicMain");
-			playSoundLoop("musicGame");
+			stopMusicLoop("musicMain");
+			playMusicLoop("musicGame");
 		break;
 		
 		case 'result':
@@ -616,6 +655,7 @@ function startGame(){
 	}
 	
 	gameData.paused = false;
+	gameData.action = false;
 	gameData.offsetY = 0;
 	gameData.resize = false;
 
@@ -830,22 +870,27 @@ function prepareStage(){
  */
 function setupStage(){
 	prepareStage();
-
+	
 	/*createTube(-50, 50);
 	createTube(50, 50);
 	createTube(150, 50);
+	createTube(200, 50);
 
-	pushColours(1, 1, 50);
-	pushColours(0, 0, 50);
-	pushColours(0, 1, 50);
+	pushColours(0, 0, 124);
+	pushColours(0, 1, 124);
+	pushColours(1, 1, 124);
+	pushColours(2, 0, 62);
+	pushColours(3, 0, 62);
 
 	fillLiquid(0);
 	fillLiquid(1);
 	fillLiquid(2);
+	fillLiquid(3);
 
 	updateTubeData(gameData.tubes[0]);
 	updateTubeData(gameData.tubes[1]);
-	updateTubeData(gameData.tubes[2]);*/
+	updateTubeData(gameData.tubes[2]);
+	updateTubeData(gameData.tubes[3]);*/
 
 	for(var n=0; n<levelSettings[gameData.levelNum].tubes; n++){
 		createTube(0,0);
@@ -858,6 +903,7 @@ function setupStage(){
 	
 	waterContainer.alpha = 0;
 	TweenMax.to(waterContainer, 1, {alpha:1, overwrite:true, onComplete:function(){
+		gameData.action = true;
 		playSound('soundStart');
 		timerContainer.visible = true;
 		toggleGameTimer(true);
@@ -1026,42 +1072,51 @@ function createTube(x, y){
 				return;
 			}
 
+			if(!gameData.action){
+				return;
+			}
+
 			if(!evt.currentTarget.data.active){
 				return;
 			}
 
-			var pourIndex = getPouringIndex();
-			if(gameData.pouring[pourIndex].from == null){
-				if(evt.currentTarget.data.colors.length > 0){
-					gameData.pouring[pourIndex].from = evt.currentTarget;
-					focusTube(gameData.pouring[pourIndex].from, true);
-					waterContainer.setChildIndex(gameData.pouring[pourIndex].from, waterContainer.numChildren-1);
-					playSound("soundSelect");
-				}
-			}else if(gameData.pouring[pourIndex].from.data.index == evt.currentTarget.data.index){
+			actionTube(evt.currentTarget);
+		});
+	}
+}
+
+function actionTube(obj){
+	var pourIndex = getPouringIndex();
+	if(gameData.pouring[pourIndex].from == null){
+		if(obj.data.colors.length > 0){
+			gameData.pouring[pourIndex].from = obj;
+			focusTube(gameData.pouring[pourIndex].from, true);
+			waterContainer.setChildIndex(gameData.pouring[pourIndex].from, waterContainer.numChildren-1);
+			playSound("soundSelect");
+		}
+	}else if(gameData.pouring[pourIndex].from.data.index == obj.data.index){
+		playSound("soundError");
+		focusTube(gameData.pouring[pourIndex].from, false);
+		gameData.pouring[pourIndex].from = null;
+	}else if(gameData.pouring[pourIndex].to == null){
+		gameData.pouring[pourIndex].to = obj;
+		if(gameData.pouring[pourIndex].from.data.index != obj.data.index){
+			var shapeIndex = gameData.pouring[pourIndex].from.data.colors.length-1;
+			var thisHeight = gameData.pouring[pourIndex].from.data.colors[shapeIndex].height;
+
+			if(gameData.pouring[pourIndex].to.data.fill + thisHeight <= gameData.tube.fillH){
+				moveTube(pourIndex);
+				focusTube(gameData.pouring[pourIndex].to, false);
+			}else{
 				playSound("soundError");
 				focusTube(gameData.pouring[pourIndex].from, false);
 				gameData.pouring[pourIndex].from = null;
-			}else if(gameData.pouring[pourIndex].to == null){
-				gameData.pouring[pourIndex].to = evt.currentTarget;
-				if(gameData.pouring[pourIndex].from.data.index != evt.currentTarget.data.index){
-					var shapeIndex = gameData.pouring[pourIndex].from.data.colors.length-1;
-					var thisHeight = gameData.pouring[pourIndex].from.data.colors[shapeIndex].height;
-
-					if(gameData.pouring[pourIndex].to.data.fill + thisHeight <= gameData.tube.fillH){
-						moveTube(pourIndex);
-					}else{
-						playSound("soundError");
-						focusTube(gameData.pouring[pourIndex].from, false);
-						gameData.pouring[pourIndex].from = null;
-						gameData.pouring[pourIndex].to = null;
-					}
-				}else{
-					playSound("soundError");
-					gameData.pouring[pourIndex].to = null;
-				}
+				gameData.pouring[pourIndex].to = null;
 			}
-		});
+		}else{
+			playSound("soundError");
+			gameData.pouring[pourIndex].to = null;
+		}
 	}
 }
 
@@ -1305,7 +1360,8 @@ function pourLiquidComplete(pourIndex){
  * 
  */
 function checkLiquidComplete(){
-	var totalComplete = 0;	
+	var isComplete = false;
+	var leftTubesArr = [];
 	for(var n=0; n<gameData.tubes.length; n++){
 		var checkColor = -1;
 		var completeColor = true;
@@ -1329,12 +1385,53 @@ function checkLiquidComplete(){
 			}
 		}
 
-		if(completeColor){
-			totalComplete++;
+		if(gameData.tubes[n].data.fill == 0){
+			completeColor = false;
+		}
+
+		if(!completeColor){
+			if(gameData.tubes[n].data.fill > 0){
+				leftTubesArr.push(gameData.tubes[n]);
+			}
 		}
 	}
 
-	if(totalComplete == gameData.tubes.length){
+	var autoFill = false;
+	if(leftTubesArr.length == 2 && gameSettings.autoFill){
+		var tubeColor = -1;
+		var fillPercent = 0;
+		for(var n=0; n<leftTubesArr.length; n++){
+			if(leftTubesArr[n].data.colors.length == 1){
+				if(tubeColor == -1){
+					tubeColor = leftTubesArr[n].data.colors[0].index;
+				}
+
+				if(tubeColor == leftTubesArr[n].data.colors[0].index){
+					fillPercent += leftTubesArr[n].data.fill;
+				}
+			}
+		}
+		if(fillPercent >= gameData.tube.fillH - 5){
+			autoFill = true;
+		}
+	}
+
+	if(autoFill){
+		var pourIndex = getPouringIndex();
+		gameData.pouring[pourIndex].from = null;
+		
+		gameData.action = false;
+		var delayNum = .2;
+		var delayCount = 0;
+		for(var n=0; n<leftTubesArr.length; n++){
+			var thisTube = leftTubesArr[n];
+			TweenMax.to(thisTube, delayCount, {overwrite:true, onComplete:actionTube, onCompleteParams:[thisTube]});
+			delayCount += delayNum;
+		}
+	}
+
+	if(leftTubesArr.length == 0){
+		gameData.action = false;
 		animateBubbles();
 		calculateScore();
 		toggleGameSessionTimer(false);
@@ -1706,14 +1803,25 @@ function toggleOption(){
  * OPTIONS - This is the function that runs to mute and fullscreen
  * 
  */
-function toggleGameMute(con){
+function toggleSoundMute(con){
 	buttonSoundOff.visible = false;
 	buttonSoundOn.visible = false;
-	toggleMute(con);
+	toggleSoundInMute(con);
 	if(con){
 		buttonSoundOn.visible = true;
 	}else{
 		buttonSoundOff.visible = true;	
+	}
+}
+
+function toggleMusicMute(con){
+	buttonMusicOff.visible = false;
+	buttonMusicOn.visible = false;
+	toggleMusicInMute(con);
+	if(con){
+		buttonMusicOn.visible = true;
+	}else{
+		buttonMusicOff.visible = true;	
 	}
 }
 

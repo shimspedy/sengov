@@ -1,28 +1,122 @@
 ////////////////////////////////////////////////////////////
 // SOUND
 ////////////////////////////////////////////////////////////
-var enableMobileSound = true;
-var soundOn;
+var enableDesktopSound = true; //sound for dekstop
+var enableMobileSound = true; //sound for mobile and tablet
 
-function playSound(target, loop){
+var soundOn;
+var soundMute = false;
+var musicMute = false;
+
+$.sound = {};
+var soundID = 0;
+var soundPushArr = [];
+var soundLoopPushArr = [];
+var musicPushArr = [];
+
+function playSound(soundName, vol){
 	if(soundOn){
-		var isLoop;
-		if(loop){
-			isLoop = -1;
-			createjs.Sound.stop();
-			var props = new createjs.PlayPropsConfig().set({interrupt: createjs.Sound.INTERRUPT_NONE, loop: isLoop})
-			musicLoop = createjs.Sound.play(target, props);
-			if (musicLoop == null || musicLoop.playState == createjs.Sound.PLAY_FAILED) {
-				return;
-			}else{
-				musicLoop.removeAllEventListeners();
-				musicLoop.addEventListener ("complete", function(musicLoop) {
-					
-				});
+		var thisSoundID = soundID;
+		soundPushArr.push(thisSoundID);
+		soundID++;
+
+		var defaultVol = vol == undefined ? 1 : vol;
+		$.sound[thisSoundID] = createjs.Sound.play(soundName);
+		$.sound[thisSoundID].defaultVol = defaultVol;
+		setSoundVolume(thisSoundID);
+		
+		$.sound[thisSoundID].removeAllEventListeners();
+		$.sound[thisSoundID].addEventListener ("complete", function() {
+			var removeSoundIndex = soundPushArr.indexOf(thisSoundID);
+			if(removeSoundIndex != -1){
+				soundPushArr.splice(removeSoundIndex, 1);
 			}
-		}else{
-			isLoop = 0;
-			createjs.Sound.play(target);
+		});
+	}
+}
+
+function playSoundLoop(soundName){
+	if(soundOn){
+		if($.sound[soundName]==null){
+			soundLoopPushArr.push(soundName);
+
+			$.sound[soundName] = createjs.Sound.play(soundName);
+			$.sound[soundName].defaultVol = 1;
+			setSoundLoopVolume(soundName);
+
+			$.sound[soundName].removeAllEventListeners();
+			$.sound[soundName].addEventListener ("complete", function() {
+				$.sound[soundName].play();
+			});
+		}
+	}
+}
+
+function toggleSoundLoop(soundName, con){
+	if(soundOn){
+		if($.sound[soundName]!=null){
+			if(con){
+				$.sound[soundName].play();
+			}else{
+				$.sound[soundName].paused = true;
+			}
+		}
+	}
+}
+
+function stopSoundLoop(soundName){
+	if(soundOn){
+		if($.sound[soundName]!=null){
+			$.sound[soundName].stop();
+			$.sound[soundName]=null;
+
+			var soundLoopIndex = soundLoopPushArr.indexOf(soundName);
+			if(soundLoopIndex != -1){
+				soundLoopPushArr.splice(soundLoopIndex, 1);
+			}
+		}
+	}
+}
+
+function playMusicLoop(soundName){
+	if(soundOn){
+		if($.sound[soundName]==null){
+			musicPushArr.push(soundName);
+
+			$.sound[soundName] = createjs.Sound.play(soundName);
+			$.sound[soundName].defaultVol = 1;
+			setMusicVolume(soundName);
+
+			$.sound[soundName].removeAllEventListeners();
+			$.sound[soundName].addEventListener ("complete", function() {
+				$.sound[soundName].play();
+			});
+		}
+	}
+}
+
+function toggleMusicLoop(soundName, con){
+	if(soundOn){
+		if($.sound[soundName]!=null){
+			if(con){
+				$.sound[soundName].play();
+			}else{
+				$.sound[soundName].paused = true;
+			}
+		}
+	}
+}
+
+function stopMusicLoop(soundName){
+	if(soundOn){
+		if($.sound[soundName]!=null){
+			$.sound[soundName].stop();
+			$.sound[soundName]=null;
+
+			var soundLoopIndex = musicPushArr.indexOf(soundName);
+			if(soundLoopIndex != -1){
+				musicPushArr.splice(soundLoopIndex, 1);
+			}
 		}
 	}
 }
@@ -31,59 +125,62 @@ function stopSound(){
 	createjs.Sound.stop();
 }
 
-
-/*!
- * 
- * PLAY MUSIC - This is the function that runs to play and stop music
- * 
- */
-$.sound = {};
-function playSoundLoop(sound){
+function toggleSoundInMute(con){
 	if(soundOn){
-		if($.sound[sound]==null){
-			$.sound[sound] = createjs.Sound.play(sound);
-			$.sound[sound].removeAllEventListeners();
-			$.sound[sound].addEventListener ("complete", function() {
-				$.sound[sound].play();
-			});
+		soundMute = con;
+		for(var n=0; n<soundPushArr.length; n++){
+			setSoundVolume(soundPushArr[n]);
 		}
+		for(var n=0; n<soundLoopPushArr.length; n++){
+			setSoundLoopVolume(soundLoopPushArr[n]);
+		}
+		setAudioVolume();
 	}
 }
 
-function toggleSoundLoop(sound, con){
-	if($.sound[sound]!=null){
-		if(con){
-			$.sound[sound].play();
-		}else{
-			$.sound[sound].paused = true;
-		}
-	}
-}
-
-function stopSoundLoop(sound){
+function toggleMusicInMute(con){
 	if(soundOn){
-		if($.sound[sound]!=null){
-			$.sound[sound].stop();
-			$.sound[sound]=null;
+		musicMute = con;
+		for(var n=0; n<musicPushArr.length; n++){
+			setMusicVolume(musicPushArr[n]);
 		}
 	}
 }
 
-function setSoundVolume(sound, vol){
+function setSoundVolume(id, vol){
 	if(soundOn){
-		if($.sound[sound]!=null){
-			$.sound[sound].volume = vol;
+		var soundIndex = soundPushArr.indexOf(id);
+		if(soundIndex != -1){
+			var defaultVol = vol == undefined ? $.sound[soundPushArr[soundIndex]].defaultVol : vol;
+			var volume = soundMute == false ? defaultVol : 0;
+			$.sound[soundPushArr[soundIndex]].volume = volume;
+			$.sound[soundPushArr[soundIndex]].defaultVol = defaultVol;
 		}
 	}
 }
 
-/*!
- * 
- * TOGGLE MUTE - This is the function that runs to toggle mute
- * 
- */
-function toggleMute(con){
-	createjs.Sound.muted = con;	
+function setSoundLoopVolume(soundLoop, vol){
+	if(soundOn){
+		var soundLoopIndex = soundLoopPushArr.indexOf(soundLoop);
+		if(soundLoopIndex != -1){
+			var defaultVol = vol == undefined ? $.sound[soundLoopPushArr[soundLoopIndex]].defaultVol : vol;
+			var volume = soundMute == false ? defaultVol : 0;
+			$.sound[soundLoopPushArr[soundLoopIndex]].volume = volume;
+			$.sound[soundLoopPushArr[soundLoopIndex]].defaultVol = defaultVol;
+		}
+	}
+}
+
+function setMusicVolume(soundLoop, vol){
+	if(soundOn){
+		var musicIndex = musicPushArr.indexOf(soundLoop);
+		if(musicIndex != -1){
+			var defaultVol = vol == undefined ? $.sound[musicPushArr[musicIndex]].defaultVol : vol;
+			var volume = musicMute == false ? defaultVol : 0;
+			$.sound[musicPushArr[musicIndex]].volume = volume;
+			$.sound[musicPushArr[musicIndex]].defaultVol = defaultVol;
+		}
+	}
 }
 
 /*!
@@ -91,21 +188,38 @@ function toggleMute(con){
  * PLAY AUDIO - This is the function that runs to play questiona and answer audio
  * 
  */
-var audioQuestion = null;
-function playAudio(audio){
-	if(audioQuestion==null){
-		audioQuestion = createjs.Sound.play(audio);
-		audioQuestion.removeAllEventListeners();
-		audioQuestion.addEventListener ("complete", function(event) {
-			audioQuestion = null;
-			playAudioComplete();
-		});
+var audioFile = null;
+function playAudio(audioName, callback){
+	if(soundOn){
+		if(audioFile==null){
+			audioFile = createjs.Sound.play(audioName);
+			setAudioVolume();
+
+			audioFile.removeAllEventListeners();
+			audioFile.addEventListener ("complete", function(event) {
+				audioFile = null;
+				
+				if (typeof callback == "function")
+					callback();
+			});
+		}
 	}
 }
 
 function stopAudio(){
-	if(audioQuestion != null){
-		audioQuestion.stop();
-		audioQuestion = null;
+	if(soundOn){
+		if(audioFile != null){
+			audioFile.stop();
+			audioFile = null;
+		}
+	}
+}
+
+function setAudioVolume(){
+	if(soundOn){
+		if(audioFile != null){
+			var volume = soundMute == false ? 1 : 0;
+			audioFile.volume = volume;
+		}
 	}
 }

@@ -45,6 +45,8 @@ function initPreload(){
 			{src:'assets/button_fullscreen.png', id:'buttonFullscreen'},
 			{src:'assets/button_sound_on.png', id:'buttonSoundOn'},
 			{src:'assets/button_sound_off.png', id:'buttonSoundOff'},
+			{src:'assets/button_music_on.png', id:'buttonMusicOn'},
+			{src:'assets/button_music_off.png', id:'buttonMusicOff'},
 			{src:'assets/button_exit.png', id:'buttonExit'},
 			{src:'assets/button_settings.png', id:'buttonSettings'}
 	];
@@ -65,6 +67,10 @@ function initPreload(){
 	soundOn = true;
 	if($.browser.mobile || isTablet){
 		if(!enableMobileSound){
+			soundOn=false;
+		}
+	}else{
+		if(!enableDesktopSound){
 			soundOn=false;
 		}
 	}
