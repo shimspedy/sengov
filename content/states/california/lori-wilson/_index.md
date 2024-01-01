@@ -4,7 +4,7 @@ title: "Lori Wilson"
 seo_title: "contact assemblymember Lori Wilson"
 subheader:
      greeting: Contact assemblymember Lori Wilson
-     description: Assemblywoman Lori D. Wilson was elected in April 2022 to represent California’s 11th Assembly District which includes all of Solano County and portions of Contra Costa and Sacramento Counties. The District includes the Cities of: Benicia, Dixon, Fairfield, Oakley, Rio Vista, Suisun City, Vacaville and Vallejo.
+     description: Assemblywoman Lori D. Wilson was elected in April 2022 to represent California’s 11th Assembly District which includes all of Solano County and portions of Contra Costa and Sacramento Counties. 
 description: Contact assemblymember Lori Wilson of California. Contact information for Lori Wilson includes email address, phone number, and mailing address.
 image: lori-wilson.jpeg
 video:
