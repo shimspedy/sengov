@@ -1,35 +1,29 @@
 ---
-date: 2023-06-02T10:02:29-04:00
-title: "Contact representative Rebecca Bauer-Kahan"
-seo_title: "Contact Assembly Member Rebecca Bauer-Kahan "
-description: Assemblymember Rebecca Bauer-Kahan was first elected to represent Assembly District 16 in the California State Assembly in 2018, which includes Alamo, Danville, Dublin, Lafayette, Livermore, Moraga, Orinda, Pleasanton, San Ramon, and Walnut Creek.
+date: 2023-10-22T11:54:12-05:00
+title: "Rebecca Bauer-Kahan"
+seo_title: "contact assemblymember Rebecca Bauer-Kahan"
 subheader:
-     greeting: Contact representative Rebecca Bauer-Kahan
+     greeting: Contact assemblymember Rebecca Bauer-Kahan
      description: Assemblymember Rebecca Bauer-Kahan was first elected to represent Assembly District 16 in the California State Assembly in 2018, which includes Alamo, Danville, Dublin, Lafayette, Livermore, Moraga, Orinda, Pleasanton, San Ramon, and Walnut Creek.
-authors:
-  - john shim
-categories:
-  - california
+description: Contact assemblymember Rebecca Bauer-Kahan of California. Contact information for Rebecca Bauer-Kahan includes email address, phone number, and mailing address.
 image: rebecca-bauer-kahan.jpeg
-keywords:
-- california state representative
-
-url: /states/california/rebecca-bauer-kahan/
+video:
+url:  /states/california/rebecca-bauer-kahan/
 weight: 1
 layout: course_home
 
-
 ####candidate
-name:	Rebecca Bauer-Kahan
-state:	california
-party:	Democratic
-role: representative
+name: Rebecca Bauer-Kahan
+state: California
+party: Democratic
+role: Assemblymember
 inoffice: current
-district:	16
-mailingaddress:	Capitol Office, 1021 O Street, Suite 6320
-phonenumber:	(916) 319-2016
-emailaddress:	https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD16&inframe=N
-website:	https://a16.asmdc.org/
+elected: 2018
+mailing1: State Capitol Room 6320 PO Box 942849 Sacramento, CA 94249
+phone1: 916-319-2016
+website: https://www.assembly.ca.gov/assemblymembers/16/
+email : https://www.assembly.ca.gov/assemblymembers/16/
+twitter: bauerkahan
 ---
 
 Assemblymember Rebecca Bauer-Kahan was first elected to represent Assembly District 16 in the California State Assembly in 2018, which includes Alamo, Danville, Dublin, Lafayette, Livermore, Moraga, Orinda, Pleasanton, San Ramon, and Walnut Creek.

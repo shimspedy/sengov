@@ -1,36 +1,29 @@
 ---
-date: 2023-06-02T10:02:29-04:00
-title: "Contact representative David A. Alvarez"
-seo_title: "Contact Assembly Member David A. Alvarez "
-description: Assemblymember David Alvarez was elected to the California State Assembly in June of 2022 to represent the 80th Assembly District in San Diego County.
+date: 2023-10-22T11:54:12-05:00
+title: "David Alvarez"
+seo_title: "contact assemblymember David Alvarez"
 subheader:
-     greeting: Contact representative David A. Alvarez
-     description: Assemblymember David Alvarez was elected to the California State Assembly in June of 2022 to represent the 80th Assembly District in San Diego County. 
-authors:
-  - john shim
-categories:
-  - california
+     greeting: Contact assemblymember David Alvarez
+     description: Assemblymember David Alvarez was elected to the California State Assembly in June of 2022 to represent the 80th Assembly District in San Diego County.
+description: Contact assemblymember David Alvarez of California. Contact information for David Alvarez includes email address, phone number, and mailing address.
 image: david-alvarez.jpeg
-keywords:
-- california state representative
-url: /states/california/david-alvarez/
+video:
+url:  /states/california/david-alvarez/
 weight: 1
 layout: course_home
 
-
-
-
 ####candidate
-name:	David A. Alvarez
-state:	california
-party:	Democratic
-role: representative
+name: David Alvarez
+state: California
+party: Democratic
+role: Assemblymember
 inoffice: current
-district:	80
-mailingaddress:	Capitol Office, 1021 O Street, Suite 5320
-phonenumber:	(916) 319-2080
-emailaddress:	https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD80&inframe=N
-website:	https://a80.asmdc.org/
+elected: 2022
+mailing1: State Capitol Room 5320 PO Box 942849 Sacramento, CA 94249
+phone1: 916-319-2080
+website: https://www.assembly.ca.gov/assemblymembers/80/
+email : https://www.assembly.ca.gov/assemblymembers/80/
+twitter: alvarezsd
 ---
 
 Assemblymember David Alvarez was elected to the California State Assembly in June of 2022 to represent the 80th Assembly District in San Diego County.
