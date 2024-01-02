@@ -142,18 +142,7 @@
       
       
         {{ partial "subheader" . }}
-        <div class="adsgoogle">
-
-          <script async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-            crossorigin="anonymous"></script>
-          <!-- afrixside -->
-          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-            data-ad-slot="5494845660" data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-        </div>
+       
 
         <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
         <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
