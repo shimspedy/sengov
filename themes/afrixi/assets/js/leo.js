@@ -85,7 +85,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
     let i = 1;
     tables.forEach((item) => {
       let xml = item.xml + leo_url;
-      let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/${xml}.xml`;
+      let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2024/${xml}.xml`;
       let tableid = "table" + i;
       xml_to_json_tables(url, tableid, "table");
       i++;
