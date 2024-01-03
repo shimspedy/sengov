@@ -1,36 +1,29 @@
 ---
-date: 2023-06-02T10:02:29-04:00
-title: "Contact representative Steve Bennett"
-seo_title: "Contact Assembly Member Steve Bennett "
-description: Assemblymember Steve Bennett was elected to the Assembly in November 2020 and represents the 38th district that includes the western part of Ventura County.
+date: 2023-10-22T11:54:12-05:00
+title: "Steve Bennett"
+seo_title: "contact assemblymember Steve Bennett"
 subheader:
-     greeting: Contact representative Steve Bennett
+     greeting: Contact assemblymember Steve Bennett
      description: Assemblymember Steve Bennett was elected to the Assembly in November 2020 and represents the 38th district that includes the western part of Ventura County.
-authors:
-  - john shim
-categories:
-  - california
+description: Contact assemblymember Steve Bennett of California. Contact information for Steve Bennett includes email address, phone number, and mailing address.
 image: steve-bennett.jpeg
-keywords:
-- california state representative
-
-url: /states/california/steve-bennett/
+video:
+url:  /states/california/steve-bennett/
 weight: 1
 layout: course_home
 
-
-
 ####candidate
-name:	Steve Bennett
-state:	california
-party:	Democratic
-role: representative
+name: Steve Bennett
+state: California
+party: Democratic
+role: Assemblymember
 inoffice: current
-district:	38
-mailingaddress:	Capitol Office, 1021 O Street, Suite 4710
-phonenumber:	(916) 319-2038
-emailaddress:	https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD38&inframe=N
-website:	https://a38.asmdc.org/
+elected: 2020
+mailing1: State Capitol Room 4710 PO Box 942849 Sacramento, CA 94249
+phone1: 916-319-2038
+website: https://www.assembly.ca.gov/assemblymembers/38/
+email : https://www.assembly.ca.gov/assemblymembers/38/
+twitter: asmstevebennett
 ---
 
 Assemblymember Steve Bennett was elected to the Assembly in November 2020 and represents the 38th district that includes the western part of Ventura County.

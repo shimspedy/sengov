@@ -1,39 +1,30 @@
 ---
-date: 2023-06-01T10:02:29-04:00
-title: "Contact representative Jasmeet Bains"
-seo_title: "Contact Assembly Member Jasmeet Bains "
-description: Assemblymember Dr. Jasmeet Bains was elected to the California State Assembly in November of 2022 to represent the 35th Assembly District. 
+date: 2023-10-22T11:54:12-05:00
+title: "Jasmeet Bains"
+seo_title: "contact assemblymember Jasmeet Bains"
 subheader:
-     greeting: Contact representative Jasmeet Bain
-     description: Assemblymember Dr. Jasmeet Bains was elected to the California State Assembly in November of 2022 to represent the 35th Assembly District. 
-authors:
-  - john shim
-categories:
-  - california
+     greeting: Contact assemblymember Jasmeet Bains
+     description: Assemblymember Dr. Jasmeet Bains was elected to the California State Assembly in November of 2022 to represent the 35th Assembly District.
+description: Contact assemblymember Jasmeet Bains of California. Contact information for Jasmeet Bains includes email address, phone number, and mailing address.
 image: jasmeet-bains.jpeg
-keywords:
-- california state representative
-
-url: /states/california/jasmeet-bains/
+video:
+url:  /states/california/jasmeet-bains/
 weight: 1
 layout: course_home
 
-
-
 ####candidate
-name:	Jasmeet Bains
-state:	california
-party:	Democratic
-role: representative
+name: Jasmeet Bains
+state: California
+party: Democratic
+role: Assemblymember
 inoffice: current
-district:	35
-mailingaddress:	Capitol Office, 1021 O Street, Suite 5730
-phonenumber:	(916) 319-2035
-emailaddress:	https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD35&inframe=N
-website:	https://a35.asmdc.org/
+elected: 2022
+mailing1: State Capitol Room 5730 PO Box 942849 Sacramento, CA 94249
+phone1: 916-319-2035
+website: https://www.assembly.ca.gov/assemblymembers/35/
+email : https://www.assembly.ca.gov/assemblymembers/35/
+twitter: drjasmeetbains
 ---
-
-Dr. Jasmeet Bains Sworn in as Assemblymember for District 35
 
 Assemblymember Dr. Jasmeet Bains was elected to the California State Assembly in November of 2022 to represent the 35th Assembly District.
 

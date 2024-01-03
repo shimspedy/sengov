@@ -1,5 +1,5 @@
 ---
-date: 2022-11-22T11:54:12-05:00
+date: 2024-01-02T11:54:12-05:00
 title: "Marty Walsh"
 seo_title: "Contact Secretary Of Labor  Marty Walsh"
 subheader:
@@ -30,4 +30,22 @@ twitter:
 
 ---
 
-Martin Joseph Walsh (born April 10, 1967) is an American politician and former union official. He has been the 29th United States Secretary of Labor since March 23, 2021. A Democrat, he previously served as the 54th mayor of Boston from 2014, until resigning in 2021 after being confirmed by the United States Senate to serve as secretary of labor in the Cabinet of President Joe Biden. Before his mayoralty, he served as a member of the Massachusetts House of Representatives, representing the thirteenth Suffolk district from 1997 until 2014.
+Marty Walsh has spent his life fighting for the underdog. The son of Irish immigrants, Marty grew up in a three-decker apartment in Boston’s Dorchester neighborhood. As a child he survived a four-year bout with cancer and as a young man he embraced recovery from alcoholism.
+
+These experiences built his character and he’s never stopped working to bring hope and opportunity to others, whether as a labor leader who fought for good jobs, a legislator who took a bold, early stand for marriage equality, or a mayor who’s taking on the toughest challenges facing urban America.
+
+In a little over five years as mayor, Marty has set records for new affordable homes, housed over 1700 homeless people, and ended chronic veterans’ homelessnessin Boston.
+
+He’s rebuilding Boston’s middle class, with over 100,000 new jobs, thousands of low-income workers lifted into good careers, and a statewide $15 minimum wage and paid family leave.
+
+In education, Marty secured universal pre-kindergarten, started building Boston’s first new high schools in a generation, and brought freecommunity college to low-income students.
+
+He made Boston a national model for community-police relations and second-chance programs that lift people up instead of locking them up. Boston’s crime rate has dropped by 25% on his watch.
+
+He created the nation’s first Office of Recovery Servicesto help those suffering from substance abuse disorders. Now he’s planning a comprehensive recovery campus in Boston Harbor to serve the entire region and provide national solutions to end the opioid crisis.
+
+Marty made Boston a global leader in the fight against climate change, with a Resilient Harbor Plan to protect Boston from rising sea levels and a strategy to become 100% carbon free by 2050.
+
+Under Marty Walsh’s leadership, Boston is a thriving, resilient, and compassionate city, and that’s no accident. By never forgetting where he came from, Marty turned his early struggles into a passion for helping people. He fights side by side with anyone for the dignity and opportunity that everyone deserves. In uncertain times for our nation, he believes in a better way forward for America in the 21stcentury.
+
+Marty and his partner Lorrie live in Dorchester.
