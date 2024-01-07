@@ -10,6 +10,8 @@ video:
 url: 
 weight: 0
 layout: single
+categories:
+  - Business
 ---
 
 Maintaining your Limited Liability Company (LLC) in Alabama is a critical task that requires attention to detail and an understanding of state requirements.

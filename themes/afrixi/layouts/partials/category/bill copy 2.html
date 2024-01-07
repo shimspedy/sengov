@@ -1,0 +1,20 @@
+
+
+{{- $bills := where .Site.RegularPages "Section" "bills" }}  <!-- Filter pages to those in the "bills" section -->
+{{- $categorySet := slice }}  <!-- Initialize an empty slice to hold the unique category names -->
+
+{{- range $bills }}
+  {{- range .Params.categories }}  <!-- Assuming each page has a 'categories' parameter with a list of categories -->
+    {{- $categorySet = $categorySet | append . | uniq }}  <!-- Append each category to the slice and ensure it's unique -->
+  {{- end }}
+{{- end }}
+
+{{- if gt (len $categorySet) 0 }}  <!-- Check if there are any categories -->
+<div class="sidebar-menu">
+	<ul class="nav">
+		{{- range $categorySet }}  <!-- Range over the unique categories -->
+		<li class="nav-item"><a class="tab-link widget__link" category="{{ . | urlize | lower }}" href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a></li>
+		{{- end }}
+	</ul>
+</div>
+{{- end }}
