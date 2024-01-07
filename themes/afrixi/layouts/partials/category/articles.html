@@ -1,9 +1,9 @@
 
 
-{{- $bills := where .Site.RegularPages "Section" "bills" }}  <!-- Filter pages to those in the "bills" section -->
+{{- $articles := where .Site.RegularPages "Section" "articles" }}  <!-- Filter pages to those in the "articles" section -->
 {{- $categorySet := slice }}  <!-- Initialize an empty slice to hold the unique category names -->
 
-{{- range $bills }}
+{{- range $articles }}
   {{- range .Params.categories }}  <!-- Assuming each page has a 'categories' parameter with a list of categories -->
     {{- $categorySet = $categorySet | append . | uniq }}  <!-- Append each category to the slice and ensure it's unique -->
   {{- end }}
