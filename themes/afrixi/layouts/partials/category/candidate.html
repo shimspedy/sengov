@@ -13,7 +13,7 @@
 <div class="sidebar-menu">
 	<ul class="nav">
 		{{- range $categorySet }}  <!-- Range over the unique categories -->
-		<li class="nav-item"><a class="tab-link widget__link" category="{{ . | urlize | lower }}" href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}"  data-pagefind-filter="category">{{ . | title | humanize }}</a></li>
+		<li class="nav-item"><a class="tab-link widget__link" category="{{ . | urlize | lower }}" href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}" >{{ . | title | humanize }}</a></li>
 		{{- end }}
 	</ul>
 </div>
