@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify && npx -y pagefind --site public --serve"
+command = "hugo --gc --minify && npx pagefind --site public"
 
 [context.production.environment]
 HUGO_VERSION = "0.119.0"
