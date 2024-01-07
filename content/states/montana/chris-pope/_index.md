@@ -1,11 +1,11 @@
 ---
 date: 2023-10-22T11:54:12-05:00
-title: "Jen Gross"
-seo_title: "contact senator Jen Gross"
+title: "Christopher Pope"
+seo_title: "contact senator Christopher Pope"
 subheader:
-     greeting: Contact senator Jen Gross
+     greeting: Contact senator Christopher Pope
      description: Christopher Pope is a member of the Democratic Party and represents District 31 in the Montana State Senate. He assumed office on January 4, 2021, and his current term ends on January 6, 2025. Pope ran for election to the Montana State Senate to represent District 31 and won in the general election on November 3, 2020.
-description: Contact senator Jen Gross of Montana. Contact information for Jen Gross includes email address, phone number, and mailing address.
+description: Contact senator Christopher Pope of Montana. Contact information for Christopher Pope includes email address, phone number, and mailing address.
 image: chris-pope.jpeg
 video:
 url:  /states/montana/chris-pope/
@@ -13,7 +13,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name: Jen Gross
+name: Christopher Pope
 state: Montana
 party: Democratic
 role: Senator
