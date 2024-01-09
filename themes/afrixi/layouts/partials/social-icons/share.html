@@ -1,0 +1,85 @@
+<div class="shares">
+<div class ="frame">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{.Permalink}}" target="_blank" class="btn">
+ <i class="fab fa-facebook-f" style="color: #3b5998;"></i>
+</a>
+    <a onClick=" shareOntwitter()" target="_blank" class="btn">
+  <i class="fab fa-twitter" style="color: #00acee;"></i>
+</a>
+  
+    <a  href="https://www.linkedin.com/shareArticle?mini=true&url={{.Permalink}}&title={{.Title}}&summary={{.Description}}&source={{.Site.BaseURL}}" target="_blank" class="btn">
+ <i class="fab fa-linkedin-in" style="color:#0e76a8;"></i>
+</a>
+
+</div>
+</div>
+
+<script>
+    function shareOntwitter(){
+    var url = 'https://twitter.com/intent/tweet?url={{.Permalink}}&text={{ .Summary | truncate 200 }}';
+    TwitterWindow = window.open(url, 'TwitterWindow',width=600,height=300);
+    return false;
+ } 
+</script>
+ 
+<style>
+   .shares{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: -8px;
+}
+.shares .frame{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  max-width: 350px;
+  width: 80%;
+  position: relative;
+   box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001,
+   inset 0px 0px 0px 0px #fff9,
+   inset 0px 0px 0px 0px #0001,
+   inset 0px 0px 0px 0px #fff9,        inset 0px 0px 0px 0px #0001;
+ transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81);
+   border-radius: 10px;
+   background: #e0e5ec;
+}
+
+.shares .btn{
+  height: 35px;
+  width: 35px;
+  border-radius: 3px;
+  background: #e0e5ec;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+  box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001,
+   inset 0px 0px 0px 0px #fff9,
+   inset 0px 0px 0px 0px #0001,
+   inset 0px 0px 0px 0px #fff9,        inset 0px 0px 0px 0px #0001;
+ transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81);
+  font-size: 16px;
+  color: rgba(42, 52, 84, 1);
+  text-decoration: none;
+}
+.shares .btn:active{
+  box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+              -4px -4px 6px 0 rgba(116, 125, 136, .2), 
+    inset -4px -4px 6px 0 rgba(255,255,255,.5),
+    inset 4px 4px 6px 0 rgba(116, 125, 136, .3);
+}
+</style>
