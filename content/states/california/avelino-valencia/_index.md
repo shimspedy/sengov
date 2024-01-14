@@ -8,7 +8,7 @@ subheader:
 description: Contact assemblymember Avelino Valencia of California. Contact information for Avelino Valencia includes email address, phone number, and mailing address.
 image: avelino-valencia.jpeg
 video:
-url:  /states/california/avelino-valenciaa/
+url:  /states/california/avelino-valencia/
 weight: 1
 layout: course_home
 
