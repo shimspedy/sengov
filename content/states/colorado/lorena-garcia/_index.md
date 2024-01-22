@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Lorena Garcia
      description: Lorena Garcia is an American politician and community organizer from the state of Colorado. She has been serving as a member of the Colorado House of Representatives since January 2023. She represents the 35th district and is a member of the Democratic Party.
 description: Contact representative Lorena Garcia of Colorado. Contact information for alex-valdez includes email address, phone number, and mailing address.
-image: lorena-garcia.jpeg
+image: lorena-garcia.jpg
 video:
 url:  /states/colorado/lorena-garcia/
 weight: 1

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jonathan Karlen of Montana. Contact information for Jonathan Karlen includes email address, phone number, and mailing address.
 image: jonathan-karlen.jpeg
 video:
-url:  /states/montana/jonathan-karlenl/
+url:  /states/montana/jonathan-karlen/
 weight: 1
 layout: course_home
 

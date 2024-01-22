@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Colleen Madigan
      description: Colleen Madigan, born on January 22, 1964, is an American politician and social worker from Maine. She is a member of the Democratic Party and currently represents District 64 in the Maine House of Representatives.
 description: Contact representative Colleen Madigan of Maine. Contact information for Colleen Madigan includes email address, phone number, and mailing address.
-image: colleen-madigan.jpe g
+image: colleen-madigan.jpeg
 video:
 url:  /states/maine/colleen-madigan/
 weight: 1

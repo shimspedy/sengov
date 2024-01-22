@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sawin Millett of Maine. Contact information for Sawin Millett includes email address, phone number, and mailing address.
 image: sawin-millett.jpeg
 video:
-url:  /states/maine/sawin-millettn/
+url:  /states/maine/sawin-millett/
 weight: 1
 layout: course_home
 

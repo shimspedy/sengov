@@ -6,9 +6,9 @@ subheader:
      greeting: Contact senator Ana Quezada
      description: Ana B. Quezada is a Democrat representing District 2 (Providence) in the Rhode Island Senate. First elected to the Senate in November 2016, Sen. Quezada has advanced legislation on many important issues.
 description: Contact senator Ana Quezada of Rhode Island. Contact information for Ana Quezada includes email address, phone number, and mailing address.
-image: rhode-island.jpeg
+image: ana-quezada.jpeg
 video:
-url:  /states/rhode-island/rhode-island/
+url:  /states/rhode-island/ana-quezada/
 weight: 1
 layout: course_home
 

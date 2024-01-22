@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Tracy Quint
      description: Tracy Quint is a Republican politician from Maine, who serves as the state representative for District 7. He assumed office on December 7, 2022. His current term ends on December 4, 2024.
 description: Contact representative Tracy Quint of Maine. Contact information for Tracy Quint includes email address, phone number, and mailing address.
-image: tracy-quintw.jpeg
+image: tracy-quint.jpeg
 video:
 url:  /states/maine/tracy-quint/
 weight: 1
