@@ -1,5 +1,5 @@
 ---
-date: 2023-02-12T12:03:20-04:00
+date: 2024-01-12T12:03:20-04:00
 name: Nikki Haley
 title: " Nikki Haley for President 2024"
 seo_title: "Nikki Haley's Presidential Campaign Policies"
