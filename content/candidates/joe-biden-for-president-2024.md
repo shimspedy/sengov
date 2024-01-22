@@ -1,5 +1,5 @@
 ---
-date: 2023-02-01T12:03:20-04:00
+date: 2024-01-11T12:03:20-04:00
 name: joe Biden
 title: " joe Biden for President 2024"
 seo_title: "joe Biden's Presidential Campaign Policies"
