@@ -17,7 +17,7 @@ layout: course_home
 name:	Gavin Newsom
 state:	California
 birthstate: California
-party:	Republican
+party:	Democratic
 role: governor
 inoffice: current
 born:	October 10, 1967

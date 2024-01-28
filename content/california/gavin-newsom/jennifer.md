@@ -19,7 +19,7 @@ layout: course_home
 name:	Jennifer Siebel Newsom
 state:	California
 birthstate: California
-party:	Republican
+party:	Democratic
 role: governor
 inoffice: current
 enteredoffice:	January 7, 2019 
