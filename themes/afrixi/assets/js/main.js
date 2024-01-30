@@ -34,10 +34,10 @@ document.addEventListener( 'DOMContentLoaded', function() {
           // Check if the link is an external link
       if (link.hostname !== window.location.hostname) {
               // Add the ref attribute to the link
-        link.href = link.href + (link.href.includes('?') ? '&' : '?') + 'ref=https://sengov.com';
+        link.href = link.href + (link.href.includes('?') ? '&' : '?') + 'ref=sengov.com';
       }
     });
-    
+
 
 } );
 
