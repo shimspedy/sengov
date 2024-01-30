@@ -25,6 +25,20 @@ document.addEventListener( 'DOMContentLoaded', function() {
     var el = document.querySelectorAll( '.tabs' );
     var instance = M.Tabs.init( el, {}  );
 
+
+
+
+
+    var links = document.querySelectorAll('a');
+    links.forEach(function (link) {
+          // Check if the link is an external link
+      if (link.hostname !== window.location.hostname) {
+              // Add the ref attribute to the link
+        link.href = link.href + (link.href.includes('?') ? '&' : '?') + 'ref=https://sengov.com';
+      }
+    });
+    
+
 } );
 
 document.addEventListener( 'click', function( e ) {
@@ -53,5 +67,7 @@ document.addEventListener( 'click', function( e ) {
     } );
 
 }, false );
+
+
 
 
