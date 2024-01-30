@@ -21,7 +21,7 @@ district:
 party:	Democratic
 officeroom: 1600 Pennsylvania Avenue NW, Washington, DC 20500
 phonenumber:	(202) 456-1111
-emailaddress:	comments@whitehouse.gov
+emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/
 committeeassignment: 
 role: Secretary Of Agriculture  
