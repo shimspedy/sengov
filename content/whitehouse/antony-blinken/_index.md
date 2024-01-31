@@ -29,8 +29,6 @@ inoffice: current
 twitter: SecBlinken
 
 ---
-
-
 The United States Secretary of State is the head of the United States Department of State, which is responsible for foreign affairs. The Secretary of State is appointed by the President of the United States with the advice and consent of the Senate. The current Secretary of State is Antony J. Blinken, who was sworn in on January 26, 2021¹.
 
 The Secretary of State is the President's chief foreign affairs adviser and carries out the President's foreign policies through the State Department, which includes the Foreign Service, Civil Service, and U.S. Agency for International Development¹. The Secretary of State is responsible for conducting negotiations relating to U.S. foreign affairs, negotiating treaties and agreements with foreign entities on behalf of the United States, and representing the United States at the United Nations and other international organizations¹. The Secretary of State is also responsible for advising the President on the appointment of U.S. ambassadors, ministers, consuls, and other diplomatic representatives¹. Additionally, the Secretary of State ensures the protection of the U.S. Government to American citizens, property, and interests in foreign countries¹. The Secretary of State also provides information to American citizens regarding the political, economic, social, cultural, and humanitarian conditions in foreign countries¹.
@@ -46,5 +44,3 @@ Antony John Blinken is a strong advocate of multilateralism and international co
 - ¹ : [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/)
 - ² : [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/)
 - ³ : [newsweek](https://www.newsweek.com/what-antony-blinken-said/)
-
-
