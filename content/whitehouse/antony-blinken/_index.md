@@ -45,5 +45,6 @@ Antony John Blinken is a strong advocate of multilateralism and international co
 
 ¹: [source](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/).
 ²: [source](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/).
-³: [source](https://www.newsweek.com/what-antony-blinken-said
+³: [source](https://www.newsweek.com/what-antony-blinken-said/).
+
 
