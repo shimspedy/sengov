@@ -43,8 +43,8 @@ Antony John Blinken's extensive experience in the State Department and National 
 
 Antony John Blinken is a strong advocate of multilateralism and international cooperation. He believes that the United States should work with its allies and within international treaties and organizations on every major foreign policy issue, including terrorism, climate, pandemics, trade, China, and the Iran nuclear deal². Blinken has also been a vocal critic of Russia's annexation of Crimea and backing for separatists in Ukraine, and has advocated for a tough stance on Russia³. He has stated that the United States should engage China from a position of strength, which requires working with allies and partners, not denigrating them¹.
 
-- ¹: [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/).
-- ²: [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/).
-- ³: [newsweek](https://www.newsweek.com/what-antony-blinken-said/).
+- ¹ : [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/)
+- ² : [politico](https://www.politico.eu/article/nine-things-to-think-about-antony-blinken/)
+- ³ : [newsweek](https://www.newsweek.com/what-antony-blinken-said/)
 
 
