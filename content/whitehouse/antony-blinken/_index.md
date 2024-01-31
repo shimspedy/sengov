@@ -30,7 +30,6 @@ twitter: SecBlinken
 
 ---
 
-Certainly! Here's a rewritten version of the Wikipedia article on the **United States Secretary of State** and Antony John Blinken's biography:
 
 The United States Secretary of State is the head of the United States Department of State, which is responsible for foreign affairs. The Secretary of State is appointed by the President of the United States with the advice and consent of the Senate. The current Secretary of State is Antony J. Blinken, who was sworn in on January 26, 2021¹.
 
