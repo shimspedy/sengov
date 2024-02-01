@@ -4,7 +4,7 @@ title: "Justin Gonzales"
 seo_title: "contact Representative Justin Gonzales"
 subheader:
      greeting: Contact Representative Justin Gonzales
-     description: Rep. Justin Gonzales is serving his fifth term in the Arkansas House of Representatives. He represents District 89 which includes portions of the counties: Clark, Pike, Hot Springs, and Nevada. For the 94th General Assembly, Rep. Gonzales is the House Vice Chair for the Joint Committee on Energy.
+     description: Rep. Justin Gonzales is serving his fifth term in the Arkansas House of Representatives. He represents District 89 which includes portions of the counties Clark, Pike, Hot Springs, and Nevada. For the 94th General Assembly, Rep. Gonzales is the House Vice Chair for the Joint Committee on Energy.
 description: Contact Representative Justin Gonzales of Arkansas. Contact information for Justin Gonzales includes email address, phone number, and mailing address.
 image: justin-gonzales.jpeg
 video:
