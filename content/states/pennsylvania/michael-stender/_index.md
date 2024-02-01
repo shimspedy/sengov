@@ -4,7 +4,7 @@ title: "Michael Stender"
 seo_title: "contact representative Michael Stender"
 subheader:
      greeting: Contact representative Michael Stender
-     description: In 2023, Stender was chosen for the Republican nomination in the special election to fill the 108th District seat in the Pennsylvania House of Representatives. For the 2023-24 Legislative session, Mike will serve on the House Consumer Protection: Technology & Utilities, Commerce and Veterans Affairs/Emergency Preparedness Committees.
+     description: In 2023, Stender was chosen for the Republican nomination in the special election to fill the 108th District seat in the Pennsylvania House of Representatives. For the 2023-24 Legislative session, Mike will serve on the House Consumer Protection Technology & Utilities, Commerce and Veterans Affairs/Emergency Preparedness Committees.
 description: Contact representative Michael Stender of Pennsylvania. Contact information for Michael Stender includes email address, phone number, and mailing address.
 image: michael-stender.jpeg
 video:
