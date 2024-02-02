@@ -1,0 +1,258 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <title>Mortgage Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/Calc-style.css">
+
+
+
+
+    {{ partial "head" . }}
+    {{ partial "js" . }}
+    {{ partial "google-analytics" . }}
+
+
+</head>
+<body>
+    {{ partial "header" . }}
+<!-----------Please copy and paste following code into any HTML element ---------------->
+
+<!----------- copy starts ---------------->
+<div class="ms-cl" id="ms_cl">
+    <div class="container cl-wrapper">
+        <div class="row">
+            <div class="col-md-45 cl-left-div">
+                <div class="form-group">
+                    <label>Home Price</label>
+                    <input type="text" name="in_1" class="form-control sp-pd-left cl-required" value="1,000,000" id="in_1" />
+                    <span class="prepend-text">$</span>
+                </div>
+                <div class="err-div">
+                    <div class="err-div-inner" id="in_1_err">
+                        <div class="err-sec">
+                            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                            <small>&nbsp;Please enter a home price.</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Down Payment
+                        <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                        <span class="info-box">
+                            This is how long you'll pay on the loan. A longer term gives you smaller payments, while a shorter term saves you money on interest.
+                        </span>
+                    </label>
+                </div>
+                <div class="form-group ms-mr">
+                    <div class="check-item active" data-value="1">
+                        $
+                    </div>&nbsp;&nbsp;
+                    <div class="check-item" data-value="2">
+                        %
+                    </div>
+                </div>
+                <div class="form-group con_1">
+                    <input type="text" name="in_2" class="form-control sp-pd-left cl-required" value="200,000" id="in_2" />
+                    <span class="prepend-text">$</span>
+                </div>
+                <div class="err-div" id="err_con_1">
+                    <div class="err-div-inner" id="in_2_err">
+                        <div class="err-sec">
+                            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                            <small>&nbsp;Please enter a down payment.</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group con_2">
+                    <input type="text" name="in_3" class="form-control sp-pd-right cl-required" value="20" id="in_3" />
+                    <span class="append-text">%</span>
+                </div>
+                <div class="err-div">
+                    <div class="err-div-inner" id="in_3_err">
+                        <div class="err-sec">
+                            <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                            <small>&nbsp;Please enter a down payment %.</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="md-50">
+                        <div class="form-group">
+                            <label>Loan Term
+                                <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                                <span class="info-box">
+                                    This is how long you'll pay on the loan. A longer term gives you smaller payments, while a shorter term saves you money on interest.
+                                </span>
+                            </label>
+                            <select class="form-control selectdiv cl-required" id="in_4">
+                                <option value="5">5 Years</option>
+                                <option value="10">10 Years</option>
+                                <option value="15">15 Years</option>
+                                <option value="20">20 Years</option>
+                                <option value="25">25 Years</option>
+                                <option value="30" selected>30 Years</option>
+                            </select>
+                            <span class="append-text" style="bottom: 14.5px;background: #fff;pointer-events: none;">
+                                <div class="elementor-icon" style="font-size: 20px;color: #000;display: block;">
+                                    <i aria-hidden="true" class="fas fa-chevron-down"></i>			
+                                </div>
+                            </span>
+                        </div>
+                        <div class="err-div"></div>
+                    </div>
+                    <div class="md-50">
+                        <div class="form-group">
+                            <label>Interest Rate
+                                <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                                <span class="info-box">
+                                    Mortgage interest rates change all the time, but they're typically in the 4% to 6% range.
+                                </span>
+                            </label>
+                            <input type="text" class="form-control sp-pd-right cl-required" value="3.25" id="in_5"/>
+                            <span class="append-text">%</span>
+                        </div>
+                        <div class="err-div">
+                            <div class="err-div-inner" id="in_5_err">
+                                <div class="err-sec">
+                                    <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                                    <small>&nbsp;Please enter an interest rate of 10% or less.</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group ms-mr ds-flex">
+                    <br>
+                    <div class="d-in-block">
+                        <div class="switch-sec">
+                            <div class="switch-icon"></div>
+                        </div>
+                    </div> &nbsp;&nbsp;&nbsp;<label class="d-in-block" for="cl_activity" style="margin-bottom: 7px;">Include Taxes, Insurance, Maintenance</label>
+                </div>
+                <div class="con_3">
+                    <br>
+                    <div class="form-group">
+                        <label>Annual Property Taxes
+                            <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                            <span class="info-box">
+                                To estimate your property taxes, look at online home listings for the area you're interested in.
+                            </span>
+                        </label>
+                        <input type="text" name="in_6" class="form-control sp-pd-left cl-required" id="in_6" />
+                        <span class="prepend-text">$</span>
+                    </div>
+                    <div class="err-div">
+                        <div class="err-div-inner" id="in_6_err">
+                            <div class="err-sec">
+                                <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                                <small>&nbsp;Please enter estimated yearly property taxes.</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Annual Homeowners Insurance
+                            <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                            <span class="info-box">
+                                Most homeowners pay about $1,000 a year for homeowners insurance, but the cost varies based on your location, home and coverage.
+                            </span>
+                        </label>
+                        <input type="text" name="in_7" class="form-control sp-pd-left cl-required" id="in_7" />
+                        <span class="prepend-text">$</span>
+                    </div>
+                    <div class="err-div">
+                        <div class="err-div-inner" id="in_7_err">
+                            <div class="err-sec">
+                                <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                                <small>&nbsp;Please enter estimated yearly home insurance.</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Monthly Maintenance Fee
+                            <span class="info-icon"><i aria-hidden="true" class="fas fa-question-circle"></i></span>
+                            <span class="info-box">
+                                Mortgage rates change all the time, and depend based on your credit rating, the term of your loan and other factors.
+                            </span>
+                        </label>
+                        <input type="text" name="in_8" class="form-control sp-pd-left cl-required" id="in_8" />
+                        <span class="prepend-text">$</span>
+                    </div>
+                    <div class="err-div">
+                        <div class="err-div-inner" id="in_8_err">
+                            <div class="err-sec">
+                                <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="err-icon" width="100%" height="100%"><title>error icon</title><path d="M8 15.5A7.5 7.5 0 1 0 .5 8 7.5 7.5 0 0 0 8 15.5zM7.21 2.91h1.58v6.56H7.21zM8 11a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#ef7f1a"></path></svg>
+                                <small>&nbsp;Please enter estimated monthly maintenance fee.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-sec">
+                    <button type="button" class="btn btn-primary" id="calc_btn">CALCULATE</button>
+                </div>
+            </div>
+            <div class="col-md-55 cl-right-div" id="rs_sec">
+                <h4 class="rs-sub-title-sp">Estimated Monthly Payment</h4>
+                <div class="rs-sumary">
+                    <div class="row">
+                        <div class="md-50">
+                            <div class="list-item">
+                                <i aria-hidden="true" class="fas fa-circle" style="color: #222831;"></i>
+                                <div class="list-title">Principal & Interest</div>
+                            </div>
+                            <div class="list-value" id="rs_1">$ 0.00</div>
+                            <div class="list-item">
+                                <i aria-hidden="true" class="fas fa-circle" style="color: #1597e5;"></i>
+                                <div class="list-title">Taxes</div>
+                            </div>
+                            <div class="list-value" id="rs_2">$ 0</div>
+                            <div class="list-item">
+                                <i aria-hidden="true" class="fas fa-circle" style="color: #69dadb;"></i>
+                                <div class="list-title">Insurance</div>
+                            </div>
+                            <div class="list-value" id="rs_3">$ 0</div>
+                            <div class="list-item">
+                                <i aria-hidden="true" class="fas fa-circle" style="color: #222831;"></i>
+                                <div class="list-title">Maintenance</div>
+                            </div>
+                            <div class="list-value" id="rs_33">$ 0</div>
+                        </div>
+                        <div class="md-50">
+                            <div class="progress-sec">
+                                <canvas id="myChart" style="z-index: 10;"></canvas>
+                                <div class="p-title" style="z-index: 1;">Total Payment</div>
+                                <div class="p-value" style="z-index: 1;" id="rs_4">$ 0.00</div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="bottom-sec">
+                                <h4>Like the Estimate?</h4>
+                                <p>Reach out to our team now and get a free consultation.</p>
+                                <div class="btn-sec">
+                                    <a href="#" class="btn btn-contact">Contact NOW</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="e-content entry-content" id="manifestation">{{.Content}}</div>
+{{ partial "footer" . }}
+
+<script src="js/Calc-script.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/chart.js"></script>
+<!----------- copy ends ---------------->
+</body>
+</html>

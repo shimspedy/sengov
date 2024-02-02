@@ -1,0 +1,275 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#mc2 *, ::after, ::before {
+    box-sizing: border-box;
+}
+#mc2 {
+    line-height: 1.5;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+#mc2 .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4f4f4f;
+    text-align: left;
+}
+#mc2 label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-size: 16px;
+    font-weight: 500;
+}
+#mc2 .h3, #mc2 h3 {
+    margin: 0;
+    font-size: 1.75rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+#mc2 hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+#mc2 .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 0rem;
+    background-color: transparent;
+    border-collapse: collapse;
+}
+#mc2 .table td, #mc2 .table th {
+    padding: .65rem 0;
+    vertical-align: middle;
+    border-right: none !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: 1px solid #5d5d5d;
+    font-size: 18px;
+    font-weight: 500;
+}
+#mc2 .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+#mc2 .col-md-1, #mc2 .col-md-10, #mc2 .col-md-11, #mc2 .col-md-12, #mc2 .col-md-2, #mc2 .col-md-3, #mc2 .col-md-4, #mc2 .col-md-5, #mc2 .col-md-6, #mc2 .col-md-7, #mc2 .col-md-8, #mc2 .col-md-9 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#mc2 .form-group {
+    margin-bottom: 1.5rem;
+}
+#mc2 .form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .175rem 0 0rem 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0D1B2A;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: none;
+    border-bottom: 2px solid #6a6e75;
+    border-radius: 0;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#mc2 .form-control:focus {
+    outline: none;
+}
+#mc2 .text-center {
+    text-align: center!important;
+}
+/* Custom css */
+#mc2 .cl-wrapper {
+    position: relative;
+    border-radius: 8px;
+    background: #ffff;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.40);
+}
+#mc2 .cl-left-div {
+    color: #000;
+    padding: 3rem !important;
+}
+#mc2 .cl-right-div {
+    padding: 3rem !important;
+    color: #0D1B2A;
+    border-radius: 0;
+}
+#mc2 .input-group {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100%;
+}
+#mc2 .input-group>.custom-select:not(:last-child), #mc2 .input-group>.form-control:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#mc2 .input-group>.custom-file, #mc2 .input-group>.custom-select, #mc2 .input-group>.form-control, #mc2 .input-group>.form-control-plaintext {
+    position: relative;
+    -ms-flex: 1 1 0%;
+    flex: 1 1 0%;
+    min-width: 0;
+    margin-bottom: 0;
+}
+#mc2 .input-group>.custom-select:not(:first-child), #mc2 .input-group>.form-control:not(:first-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+#mc2 .input-group>.custom-select:not(:last-child), #mc2 .input-group>.form-control:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#mc2 .input-group>.custom-file+.custom-file, #mc2 .input-group>.custom-file+.custom-select, #mc2 .input-group>.custom-file+.form-control, #mc2 .input-group>.custom-select+.custom-file, #mc2 .input-group>.custom-select+.custom-select, #mc2 .input-group>.custom-select+.form-control, #mc2 .input-group>.form-control+.custom-file, #mc2 .input-group>.form-control+.custom-select, #mc2 .input-group>.form-control+.form-control, #mc2 .input-group>.form-control-plaintext+.custom-file, #mc2 .input-group>.form-control-plaintext+.custom-select, #mc2 .input-group>.form-control-plaintext+.form-control {
+    margin-left: -1px;
+}
+#mc2 .input-group>.custom-file, #mc2 .input-group>.custom-select, #mc2 .input-group>.form-control, #mc2 .input-group>.form-control-plaintext {
+    position: relative;
+    -ms-flex: 1 1 0%;
+    flex: 1 1 0%;
+    min-width: 0;
+    margin-bottom: 0;
+}
+#mc2 .custom-control-label::before, #mc2 .custom-file-label, #mc2 .custom-select {
+    transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#mc2 .input-group-append {
+    margin-left: -1px;
+}
+#mc2 .input-group-append, #mc2 .input-group-prepend {
+    display: -ms-flexbox;
+    display: flex;
+}
+#mc2 .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle), #mc2 .input-group>.input-group-append:last-child>.input-group-text:not(:last-child), #mc2 .input-group>.input-group-append:not(:last-child)>.btn, #mc2 .input-group>.input-group-append:not(:last-child)>.input-group-text, #mc2 .input-group>.input-group-prepend>.btn, #mc2 .input-group>.input-group-prepend>.input-group-text {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#mc2 .input-group>.input-group-append>.btn, #mc2 .input-group>.input-group-append>.input-group-text, #mc2 .input-group>.input-group-prepend:first-child>.btn:not(:first-child), #mc2 .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child), #mc2 .input-group>.input-group-prepend:not(:first-child)>.btn, #mc2 .input-group>.input-group-prepend:not(:first-child)>.input-group-text {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+#mc2 .input-group-append .btn, #mc2 .input-group-prepend .btn {
+    position: relative;
+    z-index: 2;
+}
+#mc2 [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+#mc2 .input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0.375rem 0.2rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0D1B2A;
+    text-align: center;
+    white-space: nowrap;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #6a6e75;
+    border-radius: 0;
+}
+#mc2 .input-group-append .btn+.btn, #mc2 .input-group-append .btn+.input-group-text, #mc2 .input-group-append .input-group-text+.btn, #mc2 .input-group-append .input-group-text+.input-group-text, #mc2 .input-group-prepend .btn+.btn, #mc2 .input-group-prepend .btn+.input-group-text, #mc2 .input-group-prepend .input-group-text+.btn, #mc2 .input-group-prepend .input-group-text+.input-group-text {
+    margin-left: -1px;
+}
+#mc2 .input-group-prepend .btn, #mc2 .input-group-append .btn {
+    position: relative;
+    z-index: 2;
+}
+#mc2 .rs-vl {
+    text-align: right;
+}
+#mc2 .top-title {
+    color: #0D1B2A !important;
+    padding: 10px 0;
+}
+/* responsive */
+
+@media (max-width: 768px){
+    #mc2 .cl-divider {
+        display: none;
+    }
+    #mc2 .cl-left-div {
+        padding: 2rem !important;
+    }
+    #mc2 .cl-right-div {
+        padding: 1rem 1rem 2rem 1rem !important;
+        border-radius: 0 0 8px 8px;
+    }
+    #mc2 .form-control {
+        padding: .175rem .75rem;
+    }
+    #mc2 label {
+        font-size: 14px;
+    }
+}
+@media (min-width: 576px){
+    #mc2 .container, #mc2 .container-sm {
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px){
+    #mc2 .container {
+        max-width: 100%;
+    }
+    #mc2 .col-md-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    #mc2 .col-md-8 {
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 66.666667%;
+    }
+    #mc2 .col-md-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    #mc2 .col-md-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+    #mc2 .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}
+@media (min-width: 992px){
+    #mc2 .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1200px) {
+    #mc2 .container {
+        max-width: 1150px;
+    }
+}
