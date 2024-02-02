@@ -1,8 +1,8 @@
 ---
 date: 2024-01-20T10:02:20-04:00
 title: "Credit Card calculator"
-seo_title: "financial tools"
-description: financial toolss
+seo_title: "credit card payments calculator"
+description: This tool will help you understand your credit card payments and how they affect your financial situation. You can use it to plan your debt repayment strategy and achieve your financial goals.
 author: sengov
 image:
 video:
