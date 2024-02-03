@@ -6,7 +6,7 @@ subheader:
      greeting: Contact representative Jason Dawkins
      description: Jason Dawkins is a dedicated public servant and a member of the Pennsylvania House of Representatives, serving the 179th Legislative District. This district stretches throughout lower northeast Philadelphia and comprises the neighborhoods of Frankford, Wissinoming, Mayfair, Olney, and Oxford Circle.
 description: Contact representative Jason Dawkins of Pennsylvania. Contact information for Jason Dawkins includes email address, phone number, and mailing address.
-image: jason-dawkinsn.jpeg
+image: jason-dawkins.jpeg
 video:
 url:  /states/pennsylvania/jason-dawkins/
 weight: 1
