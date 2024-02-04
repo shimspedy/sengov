@@ -17,7 +17,7 @@ name: Jon Milligan
 state: Arkansas
 party: Republican
 role: Representative
-inoffice: currents
+inoffice: current
 elected: 2021
 mailing1: Arkansas House of Representatives State Capitol Little Rock, AR 72201
 phone1: 870-219-1261

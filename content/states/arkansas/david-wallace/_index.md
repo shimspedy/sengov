@@ -17,7 +17,7 @@ name: Dave Wallace
 state: Arkansas
 party: Republican
 role: Senator
-inoffice: currents
+inoffice: current
 elected: 2015
 mailing1: Arkansas Senate State Capitol Little Rock, AR 72201
 phone1: 870-919-8046

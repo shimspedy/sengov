@@ -17,7 +17,7 @@ name: Breanne Davis
 state: Arkansas
 party: Republican
 role: Senator
-inoffice: currents
+inoffice: current
 elected: 2019
 mailing1: Arkansas Senate State Capitol Little Rock, AR 72201
 phone1: 479-970-0081

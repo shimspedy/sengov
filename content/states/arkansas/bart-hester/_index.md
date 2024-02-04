@@ -17,7 +17,7 @@ name: Bart Hester
 state: Arkansas
 party: Republican
 role: Senator
-inoffice: currents
+inoffice: current
 elected: 2013
 mailing1: Arkansas Senate State Capitol Little Rock, AR 72201
 phone1: 479-531-4176

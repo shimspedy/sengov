@@ -17,7 +17,7 @@ name: Bruce Cozart
 state: Arkansas
 party: Republican
 role: Representative
-inoffice: currents
+inoffice: current
 elected: 2011
 mailing1: Arkansas House of Representatives State Capitol Little Rock, AR 72201
 phone1: 501-627-3232

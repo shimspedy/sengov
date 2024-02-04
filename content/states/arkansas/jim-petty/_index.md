@@ -17,7 +17,7 @@ name: Jim Petty
 state: Arkansas
 party: Republican
 role: Senator
-inoffice: currents
+inoffice: current
 elected: 2023
 mailing1: Arkansas Senate State Capitol Little Rock, AR 72201
 phone1: 479-459-6362
