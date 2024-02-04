@@ -10,6 +10,6 @@ public
 /.cache
 
 node_modules
-
+resources
 # Ignore .DS_store file
 .DS_Store
