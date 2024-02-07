@@ -1,5 +1,5 @@
 ---
-date: 2023-09-08T12:03:20-04:00
+date: 2024-02-08T12:03:20-04:00
 name: Robert F. Kennedy Jr
 title: " Robert F. Kennedy Jr for President 2024"
 seo_title: "Robert F. Kennedy Jr's Presidential Campaign Policies"
