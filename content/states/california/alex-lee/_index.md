@@ -16,7 +16,7 @@ layout: course_home
 name: Alex Lee
 state: California
 party: Democratic
-role: Assemblymember
+role: representative
 inoffice: current
 elected: 2020
 mailing1: State Capitol Room 6330 PO Box 942849 Sacramento, CA 94249

@@ -16,7 +16,7 @@ layout: course_home
 name: Al Muratsuchi
 state: California
 party: Democratic
-role: Assemblymember
+role: representative
 inoffice: current
 elected: 2016
 mailing1: State Capitol Room 5610 PO Box 942849 Sacramento, CA 94249

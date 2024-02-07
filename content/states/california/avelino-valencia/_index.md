@@ -16,7 +16,7 @@ layout: course_home
 name: Avelino Valencia
 state: California
 party: Democratic
-role: Assemblymember
+role: representative
 inoffice: current
 elected: 2022
 mailing1: State Capitol Room 4120 PO Box 942849 Sacramento, CA 94249

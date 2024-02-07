@@ -16,7 +16,7 @@ layout: course_home
 name: Akilah Weber
 state: California
 party: Democratic
-role: Assemblymember
+role: representative
 inoffice: current
 elected: 2021
 mailing1: State Capitol Room 4130 PO Box 942849 Sacramento, CA 94249
