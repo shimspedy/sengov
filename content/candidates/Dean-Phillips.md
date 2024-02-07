@@ -1,5 +1,5 @@
 ---
-date: 2023-12-02T12:03:20-04:00
+date: 2024-02-02T12:03:20-04:00
 name: Dean Phillips
 title: " Dean Phillips for President 2024"
 seo_title: "Dean Phillips for President 2024"
