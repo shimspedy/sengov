@@ -6,7 +6,7 @@ subheader:
      greeting: Contact senator Chris Friedel
      description: Chris Friedel is a member of the Republican Party and represents District 26 in the Montana State Senate. He assumed office on January 4, 2021, and his current term ends on January 6, 2025. Friedel ran for election to the Montana State Senate to represent District 26 and won in the general election on November 3, 2020.
 description: Contact senator Chris Friedel of Montana. Contact information for Chris Friedel includes email address, phone number, and mailing address.
-image: chris-friedel.jpeg
+image: chris-friedel.png
 video:
 url:  /states/montana/chris-friedel/
 weight: 1
