@@ -2,7 +2,7 @@
 date: 2023-12-15T11:55:00-04:00
 title: "Maine"
 ab: "ME"
-seo_title: "Contact Maine  Governors And Senators"
+seo_title: "Contact Maine state Representatives And Senators"
 description: Contact Maine Senators
 author: john shim
 url: /states/maine/

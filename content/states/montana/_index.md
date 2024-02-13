@@ -2,7 +2,7 @@
 date: 2023-12-25T11:55:00-04:00
 title: "Montana"
 ab: "MO"
-seo_title: "Contact Montana  Governors And Senators"
+seo_title: "Contact Montana state Representatives And Senators"
 description: Contact Montana Senators
 author: john shim
 url: /states/montana/

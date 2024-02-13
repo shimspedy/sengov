@@ -2,7 +2,7 @@
 date: 2024-01-11T11:55:00-04:00
 title: "Connecticut "
 ab: "CT"
-seo_title: "Contact Connecticut  Governors And Senators"
+seo_title: "Contact Connecticut  state Representatives And Senators"
 description: Contact Connecticut  Senators
 author: cs
 url: /states/connecticut/

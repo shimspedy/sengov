@@ -2,7 +2,7 @@
 date: 2023-12-11T11:55:00-04:00
 title: "Rhode Island"
 ab: "RI"
-seo_title: "Contact Rhode Island  Governors And Senators"
+seo_title: "Contact Rhode Island state Representatives And Senators"
 description: Contact Rhode Island Senators
 author: john shim
 url: /states/rhode-island/

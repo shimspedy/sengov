@@ -2,7 +2,7 @@
 date: 2024-01-11T11:55:00-04:00
 title: "Colorado"
 ab: "CO"
-seo_title: "Contact Colorado  Governors And Senators"
+seo_title: "Contact Colorado  state Representatives And Senators"
 description: Contact Colorado Senators
 author: cs
 url: /states/colorado/

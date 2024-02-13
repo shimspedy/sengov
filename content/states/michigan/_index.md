@@ -2,7 +2,7 @@
 date: 2023-11-23T11:55:00-04:00
 title: "Michigan"
 ab: "MI"
-seo_title: "Contact Michigan  Governors And Senators"
+seo_title: "Contact Michigan state Representatives And Senators"
 description: Contact Michigan Senators
 author: john shim
 url: /states/michigan/

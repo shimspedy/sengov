@@ -2,7 +2,7 @@
 date: 2023-11-11T11:55:00-04:00
 title: "Texas"
 ab: "TX"
-seo_title: "Contact Texas  Governors And Senators"
+seo_title: "Contact Texas state Representatives And Senators"
 description: Texas became the 28th state to join the Union on December 29, 1845.
 author: john shim
 url: /states/texas/
