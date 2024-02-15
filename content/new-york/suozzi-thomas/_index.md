@@ -24,7 +24,7 @@ emailaddress:	https://suozzi.house.gov/contact
 website:	https://suozzi.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepTomSuozzi
 powrid: 
 ---
