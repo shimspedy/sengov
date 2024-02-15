@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Jennifer Pawlik"
-seo_title: "contact Representatives Jennifer Pawlik"
+seo_title: "contact Representative Jennifer Pawlik"
 subheader:
-     greeting: Contact Representatives Jennifer Pawlik
-     description: Jennifer Pawlik is the first woman and the first Democrat elected to the House of Representatives in District 17 (Chandler, Sun Lakes and Gilbert). She is a native Arizonan and the eldest of three daughters born to Bob Banning and Jo Beckelman.
-description: Contact Representatives Jennifer Pawlik of Arizona. Contact information for Jennifer Pawlik includes email address, phone number, and mailing address.
+     greeting: Contact Representative Jennifer Pawlik
+     description: Jennifer Pawlik is the first woman and the first Democrat elected to the House of Representative in District 17 (Chandler, Sun Lakes and Gilbert). She is a native Arizonan and the eldest of three daughters born to Bob Banning and Jo Beckelman.
+description: Contact Representative Jennifer Pawlik of Arizona. Contact information for Jennifer Pawlik includes email address, phone number, and mailing address.
 image: jennifer-pawlik.jpeg
 video:
 url:  /states/arizona/jennifer-pawlik/
@@ -16,7 +16,7 @@ layout: course_home
 name: Jennifer Pawlik
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 118 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

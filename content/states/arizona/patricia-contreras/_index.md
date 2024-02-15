@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Patty Contreras"
-seo_title: "contact Representatives Patty Contreras"
+seo_title: "contact Representative Patty Contreras"
 subheader:
-     greeting: Contact Representatives Patty Contreras
-     description: Patty Contreras is an American politician and a proud Democrat. She is a member of the Arizona House of Representatives, elected to represent District 12 in 2022. She is one of the first out lesbians elected to the Arizona House of Representatives.
-description: Contact Representatives Patty Contreras of Arizona. Contact information for Patty Contreras includes email address, phone number, and mailing address.
+     greeting: Contact Representative Patty Contreras
+     description: Patty Contreras is an American politician and a proud Democrat. She is a member of the Arizona House of Representative, elected to represent District 12 in 2022. She is one of the first out lesbians elected to the Arizona House of Representative.
+description: Contact Representative Patty Contreras of Arizona. Contact information for Patty Contreras includes email address, phone number, and mailing address.
 image: patricia-contreras.jpeg
 video:
 url:  /states/arizona/patricia-contreras/
@@ -16,7 +16,7 @@ layout: course_home
 name: Patty Contreras
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 126 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

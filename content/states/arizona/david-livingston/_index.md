@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "David Livingston"
-seo_title: "contact Representatives David Livingston"
+seo_title: "contact Representative David Livingston"
 subheader:
-     greeting: Contact Representatives David Livingston
-     description: Livingston was elected to the Arizona House of Representatives in 2012 for District 22. During his first term at the Legislature, he served as vice chairman for the House Committee on Financial Institutions.
-description: Contact Representatives David Livingston of Arizona. Contact information for David Livingston includes email address, phone number, and mailing address.
+     greeting: Contact Representative David Livingston
+     description: Livingston was elected to the Arizona House of Representative in 2012 for District 22. During his first term at the Legislature, he served as vice chairman for the House Committee on Financial Institutions.
+description: Contact Representative David Livingston of Arizona. Contact information for David Livingston includes email address, phone number, and mailing address.
 image: david-livingston.jpeg
 video:
 url:  /states/arizona/david-livingston/
@@ -16,7 +16,7 @@ layout: course_home
 name: David Livingston
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 222 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

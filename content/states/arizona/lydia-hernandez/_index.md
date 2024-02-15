@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Lydia Hernandez"
-seo_title: "contact Representatives Lydia Hernandez"
+seo_title: "contact Representative Lydia Hernandez"
 subheader:
-     greeting: Contact Representatives Lydia Hernandez
-     description: Lydia Hernandez is a Democratic member of the Arizona House of Representatives. She has been serving since January 2023. Prior to this, she served from 2013 to 2014.
-description: Contact Representatives Lydia Hernandez of Arizona. Contact information for Lydia Hernandez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Lydia Hernandez
+     description: Lydia Hernandez is a Democratic member of the Arizona House of Representative. She has been serving since January 2023. Prior to this, she served from 2013 to 2014.
+description: Contact Representative Lydia Hernandez of Arizona. Contact information for Lydia Hernandez includes email address, phone number, and mailing address.
 image: lydia-hernandez.jpeg
 video:
 url:  /states/arizona/lydia-hernandez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Lydia Hernandez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 334 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

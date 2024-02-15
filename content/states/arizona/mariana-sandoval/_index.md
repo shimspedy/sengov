@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Mariana Sandoval"
-seo_title: "contact Representatives Mariana Sandoval"
+seo_title: "contact Representative Mariana Sandoval"
 subheader:
-     greeting: Contact Representatives Mariana Sandoval
-     description: Mariana Sandoval is an American politician and paralegal. She is a member of the Democratic Party and currently serves in the Arizona House of Representatives, representing District 23.
-description: Contact Representatives Mariana Sandoval of Arizona. Contact information for Mariana Sandoval includes email address, phone number, and mailing address.
+     greeting: Contact Representative Mariana Sandoval
+     description: Mariana Sandoval is an American politician and paralegal. She is a member of the Democratic Party and currently serves in the Arizona House of Representative, representing District 23.
+description: Contact Representative Mariana Sandoval of Arizona. Contact information for Mariana Sandoval includes email address, phone number, and mailing address.
 image: mariana-sandoval.jpeg
 video:
 url:  /states/arizona/mariana-sandoval/
@@ -16,7 +16,7 @@ layout: course_home
 name: Mariana Sandoval
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 326 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

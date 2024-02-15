@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Laurin Hendrix"
-seo_title: "contact Representatives Laurin Hendrix"
+seo_title: "contact Representative Laurin Hendrix"
 subheader:
-     greeting: Contact Representatives Laurin Hendrix
-     description: Laurin Hendrix is a member of the Republican Party and currently serves in the Arizona House of Representatives, representing District 14. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
-description: Contact Representatives Laurin Hendrix of Arizona. Contact information for Laurin Hendrix includes email address, phone number, and mailing address.
+     greeting: Contact Representative Laurin Hendrix
+     description: Laurin Hendrix is a member of the Republican Party and currently serves in the Arizona House of Representative, representing District 14. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
+description: Contact Representative Laurin Hendrix of Arizona. Contact information for Laurin Hendrix includes email address, phone number, and mailing address.
 image: laurin-hendrix.jpeg
 video:
 url:  /states/arizona/laurin-hendrix/
@@ -16,7 +16,7 @@ layout: course_home
 name: Laurin Hendrix
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 312 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

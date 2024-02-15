@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Stacey Travers"
-seo_title: "contact Representatives Stacey Travers"
+seo_title: "contact Representative Stacey Travers"
 subheader:
-     greeting: Contact Representatives Stacey Travers
-     description: Anastasia "Stacey" Travers is an American politician, scientist, and U.S. Army veteran. She is a Democratic member of the Arizona House of Representatives elected to represent District 12 in 2022.
-description: Contact Representatives Stacey Travers of Arizona. Contact information for Stacey Travers includes email address, phone number, and mailing address.
+     greeting: Contact Representative Stacey Travers
+     description: Anastasia "Stacey" Travers is an American politician, scientist, and U.S. Army veteran. She is a Democratic member of the Arizona House of Representative elected to represent District 12 in 2022.
+description: Contact Representative Stacey Travers of Arizona. Contact information for Stacey Travers includes email address, phone number, and mailing address.
 image: stacey-travers.jpeg
 video:
 url:  /states/arizona/stacey-travers/
@@ -16,7 +16,7 @@ layout: course_home
 name: Stacey Travers
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 332 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

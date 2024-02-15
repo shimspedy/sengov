@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Oscar De Los Santos"
-seo_title: "contact Representatives Oscar De Los Santos"
+seo_title: "contact Representative Oscar De Los Santos"
 subheader:
-     greeting: Contact Representatives Oscar De Los Santos
-     description: Oscar De Los Santos is an American politician and a Democratic member of the Arizona House of Representatives. He was elected to represent District 11 in 2022.
-description: Contact Representatives Oscar De Los Santos of Arizona. Contact information for Oscar De Los Santos includes email address, phone number, and mailing address.
+     greeting: Contact Representative Oscar De Los Santos
+     description: Oscar De Los Santos is an American politician and a Democratic member of the Arizona House of Representative. He was elected to represent District 11 in 2022.
+description: Contact Representative Oscar De Los Santos of Arizona. Contact information for Oscar De Los Santos includes email address, phone number, and mailing address.
 image: oscar-de-los-santos.jpeg
 video:
 url:  /states/arizona/oscar-de-los-santos/
@@ -16,7 +16,7 @@ layout: course_home
 name: Oscar De Los Santos
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 330 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

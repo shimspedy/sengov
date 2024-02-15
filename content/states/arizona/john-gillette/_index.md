@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "John Gillette"
-seo_title: "contact Representatives John Gillette"
+seo_title: "contact Representative John Gillette"
 subheader:
-     greeting: Contact Representatives John Gillette
-     description: John Gillette is a member of the Republican Party and represents District 30 in the Arizona House of Representatives. He assumed office on January 9, 2023, and his current term ends on January 13, 2025.
-description: Contact Representatives John Gillette of Arizona. Contact information for John Gillette includes email address, phone number, and mailing address.
+     greeting: Contact Representative John Gillette
+     description: John Gillette is a member of the Republican Party and represents District 30 in the Arizona House of Representative. He assumed office on January 9, 2023, and his current term ends on January 13, 2025.
+description: Contact Representative John Gillette of Arizona. Contact information for John Gillette includes email address, phone number, and mailing address.
 image: john-gillette.jpeg
 video:
 url:  /states/arizona/john-gillette/
@@ -16,7 +16,7 @@ layout: course_home
 name: John Gillette
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 345 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

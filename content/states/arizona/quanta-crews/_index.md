@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Quantá Crews"
-seo_title: "contact Representatives Quantá Crews"
+seo_title: "contact Representative Quantá Crews"
 subheader:
-     greeting: Contact Representatives Quantá Crews
-     description: Quantá Crews is an American politician, minister, real estate appraiser, and former property tax appraiser for county and state government. She is currently serving as a member for the 26th district of the Arizona House of Representatives, alongside Cesar Aguilar.
-description: Contact Representatives Quantá Crews of Arizona. Contact information for Quantá Crews includes email address, phone number, and mailing address.
+     greeting: Contact Representative Quantá Crews
+     description: Quantá Crews is an American politician, minister, real estate appraiser, and former property tax appraiser for county and state government. She is currently serving as a member for the 26th district of the Arizona House of Representative, alongside Cesar Aguilar.
+description: Contact Representative Quantá Crews of Arizona. Contact information for Quantá Crews includes email address, phone number, and mailing address.
 image: quanta-crews.jpeg
 video:
 url:  /states/arizona/quanta-crews/
@@ -16,7 +16,7 @@ layout: course_home
 name: Quantá Crews
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 121 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

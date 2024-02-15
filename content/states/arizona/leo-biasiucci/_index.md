@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Leo Biasiucci"
-seo_title: "contact Representatives Leo Biasiucci"
+seo_title: "contact Representative Leo Biasiucci"
 subheader:
-     greeting: Contact Representatives Leo Biasiucci
-     description: Leo Biasiucci is an American politician and a current Republican member of the Arizona House of Representatives representing District 30 since 2023. He previously represented District 5 in the Arizona House of Representatives from 2019 to 2023, before redistricting.
-description: Contact Representatives Leo Biasiucci of Arizona. Contact information for Leo Biasiucci includes email address, phone number, and mailing address.
+     greeting: Contact Representative Leo Biasiucci
+     description: Leo Biasiucci is an American politician and a current Republican member of the Arizona House of Representative representing District 30 since 2023. He previously represented District 5 in the Arizona House of Representative from 2019 to 2023, before redistricting.
+description: Contact Representative Leo Biasiucci of Arizona. Contact information for Leo Biasiucci includes email address, phone number, and mailing address.
 image: leo-biasiucci.jpeg
 video:
 url:  /states/arizona/leo-biasiucci/
@@ -16,7 +16,7 @@ layout: course_home
 name: Leo Biasiucci
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 208 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

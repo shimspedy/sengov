@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Chris Mathis"
-seo_title: "contact Representatives Chris Mathis"
+seo_title: "contact Representative Chris Mathis"
 subheader:
-     greeting: Contact Representatives Chris Mathis
-     description: Christopher H. Mathis is an American attorney and politician who is currently serving as a member of the Arizona House of Representatives from the 18th district. He assumed office on January 9, 2023, and is serving alongside Nancy Gutierrez.
-description: Contact Representatives Chris Mathis of Arizona. Contact information for Chris Mathis includes email address, phone number, and mailing address.
+     greeting: Contact Representative Chris Mathis
+     description: Christopher H. Mathis is an American attorney and politician who is currently serving as a member of the Arizona House of Representative from the 18th district. He assumed office on January 9, 2023, and is serving alongside Nancy Gutierrez.
+description: Contact Representative Chris Mathis of Arizona. Contact information for Chris Mathis includes email address, phone number, and mailing address.
 image: chris-mathis.jpeg
 video:
 url:  /states/arizona/chris-mathis/
@@ -16,7 +16,7 @@ layout: course_home
 name: Chris Mathis
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 337 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

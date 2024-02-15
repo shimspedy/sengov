@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Cory McGarr"
-seo_title: "contact Representatives Cory McGarr"
+seo_title: "contact Representative Cory McGarr"
 subheader:
-     greeting: Contact Representatives Cory McGarr
-     description: Cory McGarr is an American politician and a Republican member of the Arizona House of Representatives. He was elected to represent District 17 in 2022.
-description: Contact Representatives Cory McGarr of Arizona. Contact information for Cory McGarr includes email address, phone number, and mailing address.
+     greeting: Contact Representative Cory McGarr
+     description: Cory McGarr is an American politician and a Republican member of the Arizona House of Representative. He was elected to represent District 17 in 2022.
+description: Contact Representative Cory McGarr of Arizona. Contact information for Cory McGarr includes email address, phone number, and mailing address.
 image: cory-mcgarr.jpeg
 video:
 url:  /states/arizona/cory-mcgarr/
@@ -16,7 +16,7 @@ layout: course_home
 name: Cory McGarr
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 304 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

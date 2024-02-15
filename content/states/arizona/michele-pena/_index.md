@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Michele Peña"
-seo_title: "contact Representatives Michele Peña"
+seo_title: "contact Representative Michele Peña"
 subheader:
-     greeting: Contact Representatives Michele Peña
-     description: Michele Peña is an American politician and a member of the Republican Party. She was elected to represent District 23 in the Arizona House of Representatives in 2022.
-description: Contact Representatives Michele Peña of Arizona. Contact information for Michele Peña includes email address, phone number, and mailing address.
+     greeting: Contact Representative Michele Peña
+     description: Michele Peña is an American politician and a member of the Republican Party. She was elected to represent District 23 in the Arizona House of Representative in 2022.
+description: Contact Representative Michele Peña of Arizona. Contact information for Michele Peña includes email address, phone number, and mailing address.
 image: michele-pena.jpeg
 video:
 url:  /states/arizona/michele-pena/
@@ -16,7 +16,7 @@ layout: course_home
 name: Michele Peña
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2015
 mailing1: Capitol Complex Room 342 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

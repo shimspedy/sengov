@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Consuelo Hernandez"
-seo_title: "contact Representatives Consuelo Hernandez"
+seo_title: "contact Representative Consuelo Hernandez"
 subheader:
-     greeting: Contact Representatives Consuelo Hernandez
-     description: Consuelo Hernandez is an American politician and a Democratic member of the Arizona House of Representatives. She was elected to represent District 21 in 2022.
-description: Contact Representatives Consuelo Hernandez of Arizona. Contact information for Consuelo Hernandez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Consuelo Hernandez
+     description: Consuelo Hernandez is an American politician and a Democratic member of the Arizona House of Representative. She was elected to represent District 21 in 2022.
+description: Contact Representative Consuelo Hernandez of Arizona. Contact information for Consuelo Hernandez includes email address, phone number, and mailing address.
 image: consuelo-hernandez.jpeg
 video:
 url:  /states/arizona/consuelo-hernandez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Consuelo Hernandez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 117 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

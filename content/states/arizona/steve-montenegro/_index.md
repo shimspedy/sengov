@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Steve Montenegro"
-seo_title: "contact Representatives Steve Montenegro"
+seo_title: "contact Representative Steve Montenegro"
 subheader:
-     greeting: Contact Representatives Steve Montenegro
-     description: Steve Montenegro is a Salvadoran-American Republican politician from Litchfield Park, Arizona. He is currently serving as a member of the Arizona House of Representatives, having been elected in 2022.
-description: Contact Representatives Steve Montenegro of Arizona. Contact information for Steve Montenegro includes email address, phone number, and mailing address.
+     greeting: Contact Representative Steve Montenegro
+     description: Steve Montenegro is a Salvadoran-American Republican politician from Litchfield Park, Arizona. He is currently serving as a member of the Arizona House of Representative, having been elected in 2022.
+description: Contact Representative Steve Montenegro of Arizona. Contact information for Steve Montenegro includes email address, phone number, and mailing address.
 image: steve-montenegro.jpeg
 video:
 url:  /states/arizona/steve-montenegro/
@@ -16,7 +16,7 @@ layout: course_home
 name: Steve Montenegro
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2022
 mailing1: Capitol Complex Room 205 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

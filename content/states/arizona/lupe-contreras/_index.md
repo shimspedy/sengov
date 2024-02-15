@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Lupe Contreras"
-seo_title: "contact Representatives Lupe Contreras"
+seo_title: "contact Representative Lupe Contreras"
 subheader:
-     greeting: Contact Representatives Lupe Contreras
+     greeting: Contact Representative Lupe Contreras
      description: Lupe Contreras, whose full name is Guadalupe Chavira Contreras, was born on July 27, 1975, in Cashion, Arizona, U.S. He is a member of the Democratic Party.
-description: Contact Representatives Lupe Contreras of Arizona. Contact information for Lupe Contreras includes email address, phone number, and mailing address.
+description: Contact Representative Lupe Contreras of Arizona. Contact information for Lupe Contreras includes email address, phone number, and mailing address.
 image: lupe-contreras.jpeg
 video:
 url:  /states/arizona/lupe-contreras/
@@ -16,7 +16,7 @@ layout: course_home
 name: Lupe Contreras
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 320 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

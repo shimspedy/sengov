@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Joseph Chaplik"
-seo_title: "contact Representatives Joseph Chaplik"
+seo_title: "contact Representative Joseph Chaplik"
 subheader:
-     greeting: Contact Representatives Joseph Chaplik
-     description: Joseph Chaplik is an American politician who is currently serving as one of the state representatives in Arizona's 3rd district. He assumed office on January 9, 2023. Prior to this, he served in the 23rd district from January 11, 2021, to January 9, 2023.
-description: Contact Representatives Joseph Chaplik of Arizona. Contact information for Joseph Chaplik includes email address, phone number, and mailing address.
+     greeting: Contact Representative Joseph Chaplik
+     description: Joseph Chaplik is an American politician who is currently serving as one of the state Representative in Arizona's 3rd district. He assumed office on January 9, 2023. Prior to this, he served in the 23rd district from January 11, 2021, to January 9, 2023.
+description: Contact Representative Joseph Chaplik of Arizona. Contact information for Joseph Chaplik includes email address, phone number, and mailing address.
 image: joseph-chaplik.jpeg
 video:
 url:  /states/arizona/joseph-chaplik/
@@ -16,7 +16,7 @@ layout: course_home
 name: Joseph Chaplik
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 224 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

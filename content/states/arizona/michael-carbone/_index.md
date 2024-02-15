@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Michael Carbone"
-seo_title: "contact Representatives Michael Carbone"
+seo_title: "contact Representative Michael Carbone"
 subheader:
-     greeting: Contact Representatives Michael Carbone
-     description: Michael Robert Carbone, born in February 1973, is an American politician and a member of the Republican party. He represents District 25 in the Arizona House of Representatives, a position he assumed on January 9, 2023.
-description: Contact Representatives Michael Carbone of Arizona. Contact information for Michael Carbone includes email address, phone number, and mailing address.
+     greeting: Contact Representative Michael Carbone
+     description: Michael Robert Carbone, born in February 1973, is an American politician and a member of the Republican party. He represents District 25 in the Arizona House of Representative, a position he assumed on January 9, 2023.
+description: Contact Representative Michael Carbone of Arizona. Contact information for Michael Carbone includes email address, phone number, and mailing address.
 image: michael-carbone.jpeg
 video:
 url:  /states/arizona/michael-carbone/
@@ -16,7 +16,7 @@ layout: course_home
 name: Michael Carbone
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 341 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

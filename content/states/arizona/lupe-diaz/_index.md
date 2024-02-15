@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Lupe Diaz"
-seo_title: "contact Representatives Lupe Diaz"
+seo_title: "contact Representative Lupe Diaz"
 subheader:
-     greeting: Contact Representatives Lupe Diaz
-     description: Lupe Diaz is an American politician and pastor who is currently serving as a member of the Arizona House of Representatives from the 19th district. He assumed office on January 9, 2023.
-description: Contact Representatives Lupe Diaz of Arizona. Contact information for Lupe Diaz includes email address, phone number, and mailing address.
+     greeting: Contact Representative Lupe Diaz
+     description: Lupe Diaz is an American politician and pastor who is currently serving as a member of the Arizona House of Representative from the 19th district. He assumed office on January 9, 2023.
+description: Contact Representative Lupe Diaz of Arizona. Contact information for Lupe Diaz includes email address, phone number, and mailing address.
 image: lupe-diaz.jpeg
 video:
 url:  /states/arizona/lupe-diaz/
@@ -16,7 +16,7 @@ layout: course_home
 name: Lupe Diaz
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2015
 mailing1: Capitol Complex Room 302 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

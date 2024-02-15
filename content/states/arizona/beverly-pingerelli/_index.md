@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Beverly Pingerelli"
-seo_title: "contact Representatives Beverly Pingerelli"
+seo_title: "contact Representative Beverly Pingerelli"
 subheader:
-     greeting: Contact Representatives Beverly Pingerelli
-     description: Beverly Pingerelli is an American politician and educator currently serving as a member of the Arizona House of Representatives from the 28th district. She assumed office on January 9, 2023. Prior to this, she represented the 21st district from January 11, 2021, to January 9, 2023.
-description: Contact Representatives Beverly Pingerelli of Arizona. Contact information for Beverly Pingerelli includes email address, phone number, and mailing address.
+     greeting: Contact Representative Beverly Pingerelli
+     description: Beverly Pingerelli is an American politician and educator currently serving as a member of the Arizona House of Representative from the 28th district. She assumed office on January 9, 2023. Prior to this, she represented the 21st district from January 11, 2021, to January 9, 2023.
+description: Contact Representative Beverly Pingerelli of Arizona. Contact information for Beverly Pingerelli includes email address, phone number, and mailing address.
 image: beverly-pingerelli.jpeg
 video:
 url:  /states/arizona/beverly-pingerelli/
@@ -16,7 +16,7 @@ layout: course_home
 name: Beverly Pingerelli
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 131 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

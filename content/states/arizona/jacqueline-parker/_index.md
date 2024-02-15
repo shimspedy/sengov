@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Jacqueline Parker"
-seo_title: "contact Representatives Jacqueline Parker"
+seo_title: "contact Representative Jacqueline Parker"
 subheader:
-     greeting: Contact Representatives Jacqueline Parker
-     description: Jacqueline Parker born in Mesa, Arizona is an American politician who has served as a member of the Arizona House of Representatives from the 16th legislative district since 2021.
-description: Contact Representatives Jacqueline Parker of Arizona. Contact information for Jacqueline Parker includes email address, phone number, and mailing address.
+     greeting: Contact Representative Jacqueline Parker
+     description: Jacqueline Parker born in Mesa, Arizona is an American politician who has served as a member of the Arizona House of Representative from the 16th legislative district since 2021.
+description: Contact Representative Jacqueline Parker of Arizona. Contact information for Jacqueline Parker includes email address, phone number, and mailing address.
 image: jacqueline-parker.jpeg
 video:
 url:  /states/arizona/jacqueline-parker/
@@ -16,7 +16,7 @@ layout: course_home
 name: Jacqueline Parker
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 129 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

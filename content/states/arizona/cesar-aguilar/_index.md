@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Cesar Aguilar"
-seo_title: "contact Representatives Cesar Aguilar"
+seo_title: "contact Representative Cesar Aguilar"
 subheader:
-     greeting: Contact Representatives Cesar Aguilar
-     description: Cesar Aguilar is an American politician who is currently serving as a member of the Arizona House of Representatives from the 26th district. He assumed office on January 9, 2023, serving alongside Quantá Crews.
-description: Contact Representatives Cesar Aguilar of Arizona. Contact information for Cesar Aguilar includes email address, phone number, and mailing address.
+     greeting: Contact Representative Cesar Aguilar
+     description: Cesar Aguilar is an American politician who is currently serving as a member of the Arizona House of Representative from the 26th district. He assumed office on January 9, 2023, serving alongside Quantá Crews.
+description: Contact Representative Cesar Aguilar of Arizona. Contact information for Cesar Aguilar includes email address, phone number, and mailing address.
 image: cesar-aguilar.jpeg
 video:
 url:  /states/arizona/cesar-aguilar/
@@ -16,7 +16,7 @@ layout: course_home
 name: Cesar Aguilar
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 122 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

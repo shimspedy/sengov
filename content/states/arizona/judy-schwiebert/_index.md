@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Judy Schwiebert"
-seo_title: "contact Representatives Judy Schwiebert"
+seo_title: "contact Representative Judy Schwiebert"
 subheader:
-     greeting: Contact Representatives Judy Schwiebert
-     description: Judy Schwiebert is an American politician and educator currently serving as a member of the Arizona House of Representatives from the 2nd district. She was elected in 2020 to the 20th district and assumed office on January 11, 2021. She ran for reelection in 2022 for the 2nd district, as a result of redistricting.
-description: Contact Representatives Judy Schwiebert of Arizona. Contact information for Judy Schwiebert includes email address, phone number, and mailing address.
+     greeting: Contact Representative Judy Schwiebert
+     description: Judy Schwiebert is an American politician and educator currently serving as a member of the Arizona House of Representative from the 2nd district. She was elected in 2020 to the 20th district and assumed office on January 11, 2021. She ran for reelection in 2022 for the 2nd district, as a result of redistricting.
+description: Contact Representative Judy Schwiebert of Arizona. Contact information for Judy Schwiebert includes email address, phone number, and mailing address.
 image: judy-schwiebert.jpeg
 video:
 url:  /states/arizona/judy-schwiebert/
@@ -16,7 +16,7 @@ layout: course_home
 name: Judy Schwiebert
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 120 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

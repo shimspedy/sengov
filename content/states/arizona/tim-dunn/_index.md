@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Tim Dunn"
-seo_title: "contact Representatives Tim Dunn"
+seo_title: "contact Representative Tim Dunn"
 subheader:
-     greeting: Contact Representatives Tim Dunn
-     description: State Representative Tim Dunn was first appointed to the Arizona House of Representatives in 2018 to represent the people of Legislative District 13, which covers the areas of Yuma, Buckeye, El Mirage, Glendale, Goodyear, Litchfield Park, Surprise, Wellton, and Wickenburg.
-description: Contact Representatives Tim Dunn of Arizona. Contact information for Tim Dunn includes email address, phone number, and mailing address.
+     greeting: Contact Representative Tim Dunn
+     description: State Representative Tim Dunn was first appointed to the Arizona House of Representative in 2018 to represent the people of Legislative District 13, which covers the areas of Yuma, Buckeye, El Mirage, Glendale, Goodyear, Litchfield Park, Surprise, Wellton, and Wickenburg.
+description: Contact Representative Tim Dunn of Arizona. Contact information for Tim Dunn includes email address, phone number, and mailing address.
 image: tim-dunn.jpeg
 video:
 url:  /states/arizona/tim-dunn/
@@ -16,7 +16,7 @@ layout: course_home
 name: Tim Dunn
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 114 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

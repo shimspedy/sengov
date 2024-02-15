@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Alma Hernandez"
-seo_title: "contact Representatives Alma Hernandez"
+seo_title: "contact Representative Alma Hernandez"
 subheader:
-     greeting: Contact Representatives Alma Hernandez
-     description: Alma Hernandez, born on April 11, 1993, is an American politician serving as a Democratic member of the Arizona House of Representatives for the 20th district. She was elected in 2018 to succeed Macario Saldate, who was term-limited
-description: Contact Representatives Alma Hernandez of Arizona. Contact information for Alma Hernandez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Alma Hernandez
+     description: Alma Hernandez, born on April 11, 1993, is an American politician serving as a Democratic member of the Arizona House of Representative for the 20th district. She was elected in 2018 to succeed Macario Saldate, who was term-limited
+description: Contact Representative Alma Hernandez of Arizona. Contact information for Alma Hernandez includes email address, phone number, and mailing address.
 image: alma-hernandez.jpeg
 video:
 url:  /states/arizona/alma-hernandez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Alma Hernandez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 338 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Alexander Kolodin"
-seo_title: "contact Representatives Alexander Kolodin"
+seo_title: "contact Representative Alexander Kolodin"
 subheader:
-     greeting: Contact Representatives Alexander Kolodin
-     description: Alexander Kolodin, or Alex Kolodin, is an American lawyer, politician, and a Republican member of the Arizona House of Representatives. He was elected to represent District 3 in 2022.
-description: Contact Representatives Alexander Kolodin of Arizona. Contact information for Alexander Kolodin includes email address, phone number, and mailing address.
+     greeting: Contact Representative Alexander Kolodin
+     description: Alexander Kolodin, or Alex Kolodin, is an American lawyer, politician, and a Republican member of the Arizona House of Representative. He was elected to represent District 3 in 2022.
+description: Contact Representative Alexander Kolodin of Arizona. Contact information for Alexander Kolodin includes email address, phone number, and mailing address.
 image: alexander-kolodin.jpeg
 video:
 url:  /states/arizona/alexander-kolodin/
@@ -16,7 +16,7 @@ layout: course_home
 name: Alexander Kolodin
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 310 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

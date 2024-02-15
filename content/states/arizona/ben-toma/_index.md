@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Ben Toma"
-seo_title: "contact Representatives Ben Toma"
+seo_title: "contact Representative Ben Toma"
 subheader:
-     greeting: Contact Representatives Ben Toma
-     description: Benjamin Cornel Toma, born in 1979 in Cluj Napoca, Socialist Republic of Romania, is a Romanian-American politician. He moved to the United States in 1987 and has been serving as a member of the Arizona House of Representatives for the 27th district. He was elected in November 2016 and assumed office in January 2017.
-description: Contact Representatives Ben Toma of Arizona. Contact information for Ben Toma includes email address, phone number, and mailing address.
+     greeting: Contact Representative Ben Toma
+     description: Benjamin Cornel Toma, born in 1979 in Cluj Napoca, Socialist Republic of Romania, is a Romanian-American politician. He moved to the United States in 1987 and has been serving as a member of the Arizona House of Representative for the 27th district. He was elected in November 2016 and assumed office in January 2017.
+description: Contact Representative Ben Toma of Arizona. Contact information for Ben Toma includes email address, phone number, and mailing address.
 image: ben-toma.jpeg
 video:
 url:  /states/arizona/ben-toma/
@@ -16,7 +16,7 @@ layout: course_home
 name: Ben Toma
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2017
 mailing1: Capitol Complex Room 223 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Rachel Jones"
-seo_title: "contact Representatives Rachel Jones"
+seo_title: "contact Representative Rachel Jones"
 subheader:
-     greeting: Contact Representatives Rachel Jones
-     description: Rachel Jones is an American politician and a member of the Republican Party. She was elected to represent District 17 in the Arizona House of Representatives in 2022.
-description: Contact Representatives Rachel Jones of Arizona. Contact information for Rachel Jones includes email address, phone number, and mailing address.
+     greeting: Contact Representative Rachel Jones
+     description: Rachel Jones is an American politician and a member of the Republican Party. She was elected to represent District 17 in the Arizona House of Representative in 2022.
+description: Contact Representative Rachel Jones of Arizona. Contact information for Rachel Jones includes email address, phone number, and mailing address.
 image: rachel-jones.jpeg
 video:
 url:  /states/arizona/rachel-jones/
@@ -16,7 +16,7 @@ layout: course_home
 name: Rachel Jones
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 303 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

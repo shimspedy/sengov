@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Neal Carter"
-seo_title: "contact Representatives Neal Carter"
+seo_title: "contact Representative Neal Carter"
 subheader:
-     greeting: Contact Representatives Neal Carter
-     description: Neal Carter is a member of the Republican Party and currently serves in the Arizona House of Representatives, representing District 15. He assumed office on January 9, 2023, and his current term ends on January 13, 2025.
-description: Contact Representatives Neal Carter of Arizona. Contact information for Neal Carter includes email address, phone number, and mailing address.
+     greeting: Contact Representative Neal Carter
+     description: Neal Carter is a member of the Republican Party and currently serves in the Arizona House of Representative, representing District 15. He assumed office on January 9, 2023, and his current term ends on January 13, 2025.
+description: Contact Representative Neal Carter of Arizona. Contact information for Neal Carter includes email address, phone number, and mailing address.
 image: neal-carter.jpeg
 video:
 url:  /states/arizona/neal-carter/
@@ -16,7 +16,7 @@ layout: course_home
 name: Neal Carter
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 130 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

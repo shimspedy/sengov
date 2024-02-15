@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Nancy Gutierrez"
-seo_title: "contact Representatives Nancy Gutierrez"
+seo_title: "contact Representative Nancy Gutierrez"
 subheader:
-     greeting: Contact Representatives Nancy Gutierrez
-     description: Nancy Gutierrez is an American politician and a former math teacher. She is a Democratic member of the Arizona House of Representatives, elected to represent District 18 in 2022.
-description: Contact Representatives Nancy Gutierrez of Arizona. Contact information for Nancy Gutierrez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Nancy Gutierrez
+     description: Nancy Gutierrez is an American politician and a former math teacher. She is a Democratic member of the Arizona House of Representative, elected to represent District 18 in 2022.
+description: Contact Representative Nancy Gutierrez of Arizona. Contact information for Nancy Gutierrez includes email address, phone number, and mailing address.
 image: nancy-gutierrez.jpeg
 video:
 url:  /states/arizona/nancy-gutierrez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Nancy Gutierrez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 321 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

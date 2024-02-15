@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Matt Gress"
-seo_title: "contact Representatives Matt Gress"
+seo_title: "contact Representative Matt Gress"
 subheader:
-     greeting: Contact Representatives Matt Gress
-     description: Matt Gress is a politician and a member of the Republican Party. He was elected to represent District 4 in the Arizona House of Representatives in 2022.
-description: Contact Representatives Matt Gress of Arizona. Contact information for Matt Gress includes email address, phone number, and mailing address.
+     greeting: Contact Representative Matt Gress
+     description: Matt Gress is a politician and a member of the Republican Party. He was elected to represent District 4 in the Arizona House of Representative in 2022.
+description: Contact Representative Matt Gress of Arizona. Contact information for Matt Gress includes email address, phone number, and mailing address.
 image: matt-gress.jpeg
 video:
 url:  /states/arizona/matt-gress/
@@ -16,7 +16,7 @@ layout: course_home
 name: Matt Gress
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 112 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

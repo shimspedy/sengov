@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Gail Griffin"
-seo_title: "contact Representatives Gail Griffin"
+seo_title: "contact Representative Gail Griffin"
 subheader:
-     greeting: Contact Representatives Gail Griffin
-     description: State Representative Gail Griffin represents Legislative District 14 in the Arizona House of Representatives. District 14 includes portions of 4 counties; Cochise, Graham, Greenlee, and Pima.
-description: Contact Representatives Gail Griffin of Arizona. Contact information for Gail Griffin includes email address, phone number, and mailing address.
+     greeting: Contact Representative Gail Griffin
+     description: State Representative Gail Griffin represents Legislative District 14 in the Arizona House of Representative. District 14 includes portions of 4 counties; Cochise, Graham, Greenlee, and Pima.
+description: Contact Representative Gail Griffin of Arizona. Contact information for Gail Griffin includes email address, phone number, and mailing address.
 image: gail-griffin.jpeg
 video:
 url:  /states/arizona/gail-griffin/
@@ -16,7 +16,7 @@ layout: course_home
 name: Gail Griffin
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 225 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

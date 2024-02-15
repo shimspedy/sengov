@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Justin Wilmeth"
-seo_title: "contact Representatives Justin Wilmeth"
+seo_title: "contact Representative Justin Wilmeth"
 subheader:
-     greeting: Contact Representatives Justin Wilmeth
-     description: Justin Wilmeth, born on June 26, 1979, in Odessa, Texas, is an American politician and former child actor. He is one of the Arizona state representatives in Arizona's 2nd district.
-description: Contact Representatives Justin Wilmeth of Arizona. Contact information for Justin Wilmeth includes email address, phone number, and mailing address.
+     greeting: Contact Representative Justin Wilmeth
+     description: Justin Wilmeth, born on June 26, 1979, in Odessa, Texas, is an American politician and former child actor. He is one of the Arizona state Representative in Arizona's 2nd district.
+description: Contact Representative Justin Wilmeth of Arizona. Contact information for Justin Wilmeth includes email address, phone number, and mailing address.
 image: justin-wilmeth.jpeg
 video:
 url:  /states/arizona/justin-wilmeth/
@@ -16,7 +16,7 @@ layout: course_home
 name: Justin Wilmeth
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 111 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

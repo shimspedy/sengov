@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Amish Shah"
-seo_title: "contact Representatives Amish Shah"
+seo_title: "contact Representative Amish Shah"
 subheader:
-     greeting: Contact Representatives Amish Shah
-     description: Amish Shah is an American doctor, politician and a former Democratic member of the Arizona House of Representatives. He represented District 5 from 2023 to 2024 and District 24 from 2019 to 2023. Shah was born in July 1977 in Chicago, Illinois, to immigrant parents from India.
-description: Contact Representatives Amish Shah of Arizona. Contact information for Amish Shah includes email address, phone number, and mailing address.
+     greeting: Contact Representative Amish Shah
+     description: Amish Shah is an American doctor, politician and a former Democratic member of the Arizona House of Representative. He represented District 5 from 2023 to 2024 and District 24 from 2019 to 2023. Shah was born in July 1977 in Chicago, Illinois, to immigrant parents from India.
+description: Contact Representative Amish Shah of Arizona. Contact information for Amish Shah includes email address, phone number, and mailing address.
 image: amish-shah.jpeg
 video:
 url:  /states/arizona/amish-shah/
@@ -16,7 +16,7 @@ layout: course_home
 name: Amish Shah
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 123 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

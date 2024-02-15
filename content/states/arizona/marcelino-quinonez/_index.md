@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Marcelino Quiñonez"
-seo_title: "contact Representatives Marcelino Quiñonez"
+seo_title: "contact Representative Marcelino Quiñonez"
 subheader:
-     greeting: Contact Representatives Marcelino Quiñonez
-     description: Marcelino Quiñonez is an American politician, playwright, and activist currently serving as a member of the Arizona House of Representatives from the 11th district. He assumed office on January 9, 2023, serving alongside Oscar De Los Santos.
-description: Contact Representatives Marcelino Quiñonez of Arizona. Contact information for Marcelino Quiñonez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Marcelino Quiñonez
+     description: Marcelino Quiñonez is an American politician, playwright, and activist currently serving as a member of the Arizona House of Representative from the 11th district. He assumed office on January 9, 2023, serving alongside Oscar De Los Santos.
+description: Contact Representative Marcelino Quiñonez of Arizona. Contact information for Marcelino Quiñonez includes email address, phone number, and mailing address.
 image: marcelino-quinonez.jpeg
 video:
 url:  /states/arizona/marcelino-quinonez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Marcelino Quiñonez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 318 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

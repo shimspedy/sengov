@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Betty Villegas"
-seo_title: "contact Representatives Betty Villegas"
+seo_title: "contact Representative Betty Villegas"
 subheader:
-     greeting: Contact Representatives Betty Villegas
-     description: Betty Villegas is an American politician who is currently serving as a Democratic member of the Arizona House of Representatives for the 20th district. She assumed office on July 31, 2023, serving alongside Alma Hernandez. She succeeded Andrés Cano.
-description: Contact Representatives Betty Villegas of Arizona. Contact information for Betty Villegas includes email address, phone number, and mailing address.
+     greeting: Contact Representative Betty Villegas
+     description: Betty Villegas is an American politician who is currently serving as a Democratic member of the Arizona House of Representative for the 20th district. She assumed office on July 31, 2023, serving alongside Alma Hernandez. She succeeded Andrés Cano.
+description: Contact Representative Betty Villegas of Arizona. Contact information for Betty Villegas includes email address, phone number, and mailing address.
 image: betty-villegas.jpeg
 video:
 url:  /states/arizona/betty-villegas/
@@ -16,7 +16,7 @@ layout: course_home
 name: Betty Villegas
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 324 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

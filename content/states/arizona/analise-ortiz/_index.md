@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Analise Ortiz"
-seo_title: "contact Representatives Analise Ortiz"
+seo_title: "contact Representative Analise Ortiz"
 subheader:
-     greeting: Contact Representatives Analise Ortiz
-     description: Analise Ortiz is an American politician, activist, and former journalist who is currently serving as a member of the Arizona House of Representatives for the 24th district. She was elected in November 2022 and assumed office on January 9, 2023.
-description: Contact Representatives Analise Ortiz of Arizona. Contact information for Analise Ortiz includes email address, phone number, and mailing address.
+     greeting: Contact Representative Analise Ortiz
+     description: Analise Ortiz is an American politician, activist, and former journalist who is currently serving as a member of the Arizona House of Representative for the 24th district. She was elected in November 2022 and assumed office on January 9, 2023.
+description: Contact Representative Analise Ortiz of Arizona. Contact information for Analise Ortiz includes email address, phone number, and mailing address.
 image: analise-ortiz.jpeg
 video:
 url:  /states/arizona/analise-ortiz/
@@ -16,7 +16,7 @@ layout: course_home
 name: Analise Ortiz
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 335 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

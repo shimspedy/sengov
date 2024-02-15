@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Keith Seaman"
-seo_title: "contact Representatives Keith Seaman"
+seo_title: "contact Representative Keith Seaman"
 subheader:
-     greeting: Contact Representatives Keith Seaman
-     description: Keith Seaman is an American politician and a retired public-school teacher. He is a member of the Democratic Party and currently serves in the Arizona House of Representatives, representing District 16.
-description: Contact Representatives Keith Seaman of Arizona. Contact information for Keith Seaman includes email address, phone number, and mailing address.
+     greeting: Contact Representative Keith Seaman
+     description: Keith Seaman is an American politician and a retired public-school teacher. He is a member of the Democratic Party and currently serves in the Arizona House of Representative, representing District 16.
+description: Contact Representative Keith Seaman of Arizona. Contact information for Keith Seaman includes email address, phone number, and mailing address.
 image: keith-seaman.jpeg
 video:
 url:  /states/arizona/keith-seaman/
@@ -16,7 +16,7 @@ layout: course_home
 name: Keith Seaman
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 119 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

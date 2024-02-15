@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Stephanie Stahl Hamilton"
-seo_title: "contact Representatives Stephanie Stahl Hamilton"
+seo_title: "contact Representative Stephanie Stahl Hamilton"
 subheader:
-     greeting: Contact Representatives Stephanie Stahl Hamilton
-     description: Stephanie Stahl Hamilton is an American politician and Presbyterian minister currently serving as a member of the Arizona House of Representatives for the 21st district.
-description: Contact Representatives Stephanie Stahl Hamilton of Arizona. Contact information for Stephanie Stahl Hamilton includes email address, phone number, and mailing address.
+     greeting: Contact Representative Stephanie Stahl Hamilton
+     description: Stephanie Stahl Hamilton is an American politician and Presbyterian minister currently serving as a member of the Arizona House of Representative for the 21st district.
+description: Contact Representative Stephanie Stahl Hamilton of Arizona. Contact information for Stephanie Stahl Hamilton includes email address, phone number, and mailing address.
 image: stephanie-stahl-hamilton.jpeg
 video:
 url:  /states/arizona/stephanie-stahl-hamilton/
@@ -16,7 +16,7 @@ layout: course_home
 name: Stephanie Stahl Hamilton
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 333 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

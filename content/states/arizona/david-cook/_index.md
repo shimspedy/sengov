@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "David Cook"
-seo_title: "contact Representatives David Cook"
+seo_title: "contact Representative David Cook"
 subheader:
-     greeting: Contact Representatives David Cook
-     description: David Cook is a Republican politician who was elected to serve in the Arizona House of Representatives from the 7th legislative district. He was first elected to the state House in 2016 and represents central and eastern Pinal County and southern Gila County.
-description: Contact Representatives David Cook of Arizona. Contact information for David Cook includes email address, phone number, and mailing address.
+     greeting: Contact Representative David Cook
+     description: David Cook is a Republican politician who was elected to serve in the Arizona House of Representative from the 7th legislative district. He was first elected to the state House in 2016 and represents central and eastern Pinal County and southern Gila County.
+description: Contact Representative David Cook of Arizona. Contact information for David Cook includes email address, phone number, and mailing address.
 image: david-cook.jpeg
 video:
 url:  /states/arizona/david-cook/
@@ -16,7 +16,7 @@ layout: course_home
 name: David Cook
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 313 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

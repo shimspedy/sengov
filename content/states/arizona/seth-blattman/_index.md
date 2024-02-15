@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Seth Blattman"
-seo_title: "contact Representatives Seth Blattman"
+seo_title: "contact Representative Seth Blattman"
 subheader:
-     greeting: Contact Representatives Seth Blattman
+     greeting: Contact Representative Seth Blattman
      description: Seth Blattman is an American politician and a Democratic member of the Arizona House of Representatives. He was elected to represent District 9 in 2022.
-description: Contact Representatives Seth Blattman of Arizona. Contact information for Seth Blattman includes email address, phone number, and mailing address.
+description: Contact Representative Seth Blattman of Arizona. Contact information for Seth Blattman includes email address, phone number, and mailing address.
 image: seth-blattman.jpeg
 video:
 url:  /states/arizona/seth-blattman/
@@ -16,7 +16,7 @@ layout: course_home
 name: Seth Blattman
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 125 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

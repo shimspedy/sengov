@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Teresa Martinez"
-seo_title: "contact Representatives Teresa Martinez"
+seo_title: "contact Representative Teresa Martinez"
 subheader:
-     greeting: Contact Representatives Teresa Martinez
-     description: Teresa Martinez is an American politician and currently serves as the Republican Majority Whip for the Arizona House of Representatives, representing the 16th legislative district. She was initially appointed to the seat in 2021 after the incumbent Representative Bret Roberts resigned from office. In 2022, she was elected for a full term.
-description: Contact Representatives Teresa Martinez of Arizona. Contact information for Teresa Martinez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Teresa Martinez
+     description: Teresa Martinez is an American politician and currently serves as the Republican Majority Whip for the Arizona House of Representative, representing the 16th legislative district. She was initially appointed to the seat in 2021 after the incumbent Representative Bret Roberts resigned from office. In 2022, she was elected for a full term.
+description: Contact Representative Teresa Martinez of Arizona. Contact information for Teresa Martinez includes email address, phone number, and mailing address.
 image: teresa-martinez.jpeg
 video:
 url:  /states/arizona/teresa-martinez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Teresa Martinez
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 207 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

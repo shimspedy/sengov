@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Quang Nguyen"
-seo_title: "contact Representatives Quang Nguyen"
+seo_title: "contact Representative Quang Nguyen"
 subheader:
-     greeting: Contact Representatives Quang Nguyen
-     description: Quang H. Nguyen, born in 1962, is a Vietnamese-American businessman and politician. He is currently serving as a Republican member of the Arizona House of Representatives for District 1 since 2021. The district he represents includes most of Yavapai County and some of Maricopa County.
-description: Contact Representatives Quang Nguyen of Arizona. Contact information for Quang Nguyen includes email address, phone number, and mailing address.
+     greeting: Contact Representative Quang Nguyen
+     description: Quang H. Nguyen, born in 1962, is a Vietnamese-American businessman and politician. He is currently serving as a Republican member of the Arizona House of Representative for District 1 since 2021. The district he represents includes most of Yavapai County and some of Maricopa County.
+description: Contact Representative Quang Nguyen of Arizona. Contact information for Quang Nguyen includes email address, phone number, and mailing address.
 image: quang-nguyen.jpeg
 video:
 url:  /states/arizona/quang-nguyen/
@@ -16,7 +16,7 @@ layout: course_home
 name: Quang Nguyen
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 226 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

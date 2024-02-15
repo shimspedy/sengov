@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Austin Smith"
-seo_title: "contact Representatives Austin Smith"
+seo_title: "contact Representative Austin Smith"
 subheader:
-     greeting: Contact Representatives Austin Smith
+     greeting: Contact Representative Austin Smith
      description: Austin Smith was born on April 20, 1995, in Glendale, Arizona. He is a proud 5th generation Arizonan. His family came to Arizona in a covered wagon before statehood in 1908 and started working the cotton fields in the West Valley.
-description: Contact Representatives Austin Smith of Arizona. Contact information for Austin Smith includes email address, phone number, and mailing address.
+description: Contact Representative Austin Smith of Arizona. Contact information for Austin Smith includes email address, phone number, and mailing address.
 image: austin-smith.jpeg
 video:
 url:  /states/arizona/austin-smith/
@@ -16,7 +16,7 @@ layout: course_home
 name: Austin Smith
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 113 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "David Marshall"
-seo_title: "contact Representatives David Marshall"
+seo_title: "contact Representative David Marshall"
 subheader:
-     greeting: Contact Representatives David Marshall
-     description: David Marshall is an American politician, former police officer, pastor, and a Republican member of the Arizona House of Representatives. He was elected to represent District 7 in 2022.
-description: Contact Representatives David Marshall of Arizona. Contact information for David Marshall includes email address, phone number, and mailing address.
+     greeting: Contact Representative David Marshall
+     description: David Marshall is an American politician, former police officer, pastor, and a Republican member of the Arizona House of Representative. He was elected to represent District 7 in 2022.
+description: Contact Representative David Marshall of Arizona. Contact information for David Marshall includes email address, phone number, and mailing address.
 image: david-marshall.jpeg
 video:
 url:  /states/arizona/david-marshall/
@@ -16,7 +16,7 @@ layout: course_home
 name: David Marshall
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 316 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

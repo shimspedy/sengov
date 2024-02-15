@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Mae Peshlakai"
-seo_title: "contact Representatives Mae Peshlakai"
+seo_title: "contact Representative Mae Peshlakai"
 subheader:
-     greeting: Contact Representatives Mae Peshlakai
-     description: Mae Peshlakai is an American politician, a Navajo elder, jewelry maker, and weaver. She is a Democratic member of the Arizona House of Representatives elected to represent District 6 in 2022.
-description: Contact Representatives Mae Peshlakai of Arizona. Contact information for Mae Peshlakai includes email address, phone number, and mailing address.
+     greeting: Contact Representative Mae Peshlakai
+     description: Mae Peshlakai is an American politician, a Navajo elder, jewelry maker, and weaver. She is a Democratic member of the Arizona House of Representative elected to represent District 6 in 2022.
+description: Contact Representative Mae Peshlakai of Arizona. Contact information for Mae Peshlakai includes email address, phone number, and mailing address.
 image: mae-peshlakai.jpeg
 video:
 url:  /states/arizona/mae-peshlakai/
@@ -16,7 +16,7 @@ layout: course_home
 name: Mae Peshlakai
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 116 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Travis Grantham"
-seo_title: "contact Representatives Travis Grantham"
+seo_title: "contact Representative Travis Grantham"
 subheader:
-     greeting: Contact Representatives Travis Grantham
-     description: Travis Grantham, born on February 24, 1979, in Scottsdale, Arizona, is an American politician and a member of the Republican Party. He is currently serving as the Speaker pro tempore of the Arizona House of Representatives, a position he assumed on January 11, 2021.
-description: Contact Representatives Travis Grantham of Arizona. Contact information for Travis Grantham includes email address, phone number, and mailing address.
+     greeting: Contact Representative Travis Grantham
+     description: Travis Grantham, born on February 24, 1979, in Scottsdale, Arizona, is an American politician and a member of the Republican Party. He is currently serving as the Speaker pro tempore of the Arizona House of Representative, a position he assumed on January 11, 2021.
+description: Contact Representative Travis Grantham of Arizona. Contact information for Travis Grantham includes email address, phone number, and mailing address.
 image: travis-grantham.jpeg
 video:
 url:  /states/arizona/travis-grantham/
@@ -16,7 +16,7 @@ layout: course_home
 name: Travis Grantham
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2017
 mailing1: Capitol Complex Room 204 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

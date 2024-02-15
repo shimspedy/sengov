@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Kevin Payne"
-seo_title: "contact Representatives Kevin Payne"
+seo_title: "contact Representative Kevin Payne"
 subheader:
-     greeting: Contact Representatives Kevin Payne
-     description: Kevin Payne, a member of the Republican Party, is currently serving in the Arizona House of Representatives, representing District 27. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
-description: Contact Representatives Kevin Payne of Arizona. Contact information for Kevin Payne includes email address, phone number, and mailing address.
+     greeting: Contact Representative Kevin Payne
+     description: Kevin Payne, a member of the Republican Party, is currently serving in the Arizona House of Representative, representing District 27. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
+description: Contact Representative Kevin Payne of Arizona. Contact information for Kevin Payne includes email address, phone number, and mailing address.
 image: kevin-payne.jpeg
 video:
 url:  /states/arizona/kevin-payne/
@@ -16,7 +16,7 @@ layout: course_home
 name: Kevin Payne
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 110 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

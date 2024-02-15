@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Barbara Parker"
-seo_title: "contact Representatives Barbara Parker"
+seo_title: "contact Representative Barbara Parker"
 subheader:
-     greeting: Contact Representatives Barbara Parker
-     description: Barbara Parker Rowley is an American politician and a member of the Republican Party. She is currently serving as a representative in the Arizona House of Representatives for District 10. She assumed office on January 9, 2023, serving alongside Justin Heap.
-description: Contact Representatives Barbara Parker of Arizona. Contact information for Barbara Parker includes email address, phone number, and mailing address.
+     greeting: Contact Representative Barbara Parker
+     description: Barbara Parker Rowley is an American politician and a member of the Republican Party. She is currently serving as a representative in the Arizona House of Representative for District 10. She assumed office on January 9, 2023, serving alongside Justin Heap.
+description: Contact Representative Barbara Parker of Arizona. Contact information for Barbara Parker includes email address, phone number, and mailing address.
 image: barbara-parker.jpeg
 video:
 url:  /states/arizona/barbara-parker/
@@ -16,7 +16,7 @@ layout: course_home
 name: Barbara Parker
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 308 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

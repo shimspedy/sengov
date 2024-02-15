@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Laura Terech"
-seo_title: "contact Representatives Laura Terech"
+seo_title: "contact Representative Laura Terech"
 subheader:
-     greeting: Contact Representatives Laura Terech
-     description: Laura Terech is an American politician, teacher, community organizer, and a Democratic member of the Arizona House of Representatives. She was elected to represent District 4 in 2022.
-description: Contact Representatives Laura Terech of Arizona. Contact information for Laura Terech includes email address, phone number, and mailing address.
+     greeting: Contact Representative Laura Terech
+     description: Laura Terech is an American politician, teacher, community organizer, and a Democratic member of the Arizona House of Representative. She was elected to represent District 4 in 2022.
+description: Contact Representative Laura Terech of Arizona. Contact information for Laura Terech includes email address, phone number, and mailing address.
 image: laura-terech.jpeg
 video:
 url:  /states/arizona/laura-terech/
@@ -16,7 +16,7 @@ layout: course_home
 name: Laura Terech
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 323 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

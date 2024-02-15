@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Justin Heap"
-seo_title: "contact Representatives Justin Heap"
+seo_title: "contact Representative Justin Heap"
 subheader:
-     greeting: Contact Representatives Justin Heap
-     description: Justin Heap is a member of the Republican Party and represents District 10 in the Arizona House of Representatives. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
-description: Contact Representatives Justin Heap of Arizona. Contact information for Justin Heap includes email address, phone number, and mailing address.
+     greeting: Contact Representative Justin Heap
+     description: Justin Heap is a member of the Republican Party and represents District 10 in the Arizona House of Representative. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
+description: Contact Representative Justin Heap of Arizona. Contact information for Justin Heap includes email address, phone number, and mailing address.
 image: justin-heap.jpeg
 video:
 url:  /states/arizona/justin-heap/
@@ -16,7 +16,7 @@ layout: course_home
 name: Justin Heap
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 309 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

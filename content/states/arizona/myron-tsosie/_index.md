@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Myron Tsosie"
-seo_title: "contact Representatives Myron Tsosie"
+seo_title: "contact Representative Myron Tsosie"
 subheader:
-     greeting: Contact Representatives Myron Tsosie
-     description: Myron Tsosie is an American politician and a Democratic member of the Arizona House of Representatives. He has been representing District 6 since January 9, 2023. Prior to this, he represented District 7 from 2019 to 2023.
-description: Contact Representatives Myron Tsosie of Arizona. Contact information for Myron Tsosie includes email address, phone number, and mailing address.
+     greeting: Contact Representative Myron Tsosie
+     description: Myron Tsosie is an American politician and a Democratic member of the Arizona House of Representative. He has been representing District 6 since January 9, 2023. Prior to this, he represented District 7 from 2019 to 2023.
+description: Contact Representative Myron Tsosie of Arizona. Contact information for Myron Tsosie includes email address, phone number, and mailing address.
 image: myron-tsosie.jpeg
 video:
 url:  /states/arizona/myron-tsosie/
@@ -16,7 +16,7 @@ layout: course_home
 name: Myron Tsosie
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2019
 mailing1: Capitol Complex Room 339 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

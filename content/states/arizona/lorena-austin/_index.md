@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Lorena Austin"
-seo_title: "contact Representatives Lorena Austin"
+seo_title: "contact Representative Lorena Austin"
 subheader:
-     greeting: Contact Representatives Lorena Austin
-     description: Lorena Austin is a dedicated community leader and a Democratic member of the Arizona House of Representatives. She represents District 9 in Mesa, Arizona. Lorena assumed office on January 9, 2023, serving alongside Seth Blattman. She succeeded Pamela Hannley.
-description: Contact Representatives Lorena Austin of Arizona. Contact information for Lorena Austin includes email address, phone number, and mailing address.
+     greeting: Contact Representative Lorena Austin
+     description: Lorena Austin is a dedicated community leader and a Democratic member of the Arizona House of Representative. She represents District 9 in Mesa, Arizona. Lorena assumed office on January 9, 2023, serving alongside Seth Blattman. She succeeded Pamela Hannley.
+description: Contact Representative Lorena Austin of Arizona. Contact information for Lorena Austin includes email address, phone number, and mailing address.
 image: lorena-austin.jpeg
 video:
 url:  /states/arizona/lorena-austin/
@@ -16,7 +16,7 @@ layout: course_home
 name: Lorena Austin
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 124 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

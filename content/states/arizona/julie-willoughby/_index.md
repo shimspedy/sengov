@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Julie Willoughby"
-seo_title: "contact Representatives Julie Willoughby"
+seo_title: "contact Representative Julie Willoughby"
 subheader:
-     greeting: Contact Representatives Julie Willoughby
-     description: Julie Willoughby is an American politician and ER nurse from Chandler, Arizona. A Republican, she is a member of the Arizona House of Representatives and took office on May 5, 2023. Willoughby was appointed in May 2023 from the 13th legislative district, which includes much of Chandler, Arizona and all of Sun Lakes, Arizona.
-description: Contact Representatives Julie Willoughby of Arizona. Contact information for Julie Willoughby includes email address, phone number, and mailing address.
+     greeting: Contact Representative Julie Willoughby
+     description: Julie Willoughby is an American politician and ER nurse from Chandler, Arizona. A Republican, she is a member of the Arizona House of Representative and took office on May 5, 2023. Willoughby was appointed in May 2023 from the 13th legislative district, which includes much of Chandler, Arizona and all of Sun Lakes, Arizona.
+description: Contact Representative Julie Willoughby of Arizona. Contact information for Julie Willoughby includes email address, phone number, and mailing address.
 image: julie-willoughby.jpeg
 video:
 url:  /states/arizona/julie-willoughby/
@@ -16,7 +16,7 @@ layout: course_home
 name: Julie Willoughby
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 306 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

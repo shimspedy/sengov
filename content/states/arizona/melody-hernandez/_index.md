@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Melody Hernandez"
-seo_title: "contact Representatives Melody Hernandez"
+seo_title: "contact Representative Melody Hernandez"
 subheader:
-     greeting: Contact Representatives Melody Hernandez
-     description: Melody Hernandez is an American politician who is currently serving as a member of the Arizona House of Representatives from the 8th district. She was elected in 2020 and assumed office on January 11, 2021.
-description: Contact Representatives Melody Hernandez of Arizona. Contact information for Melody Hernandez includes email address, phone number, and mailing address.
+     greeting: Contact Representative Melody Hernandez
+     description: Melody Hernandez is an American politician who is currently serving as a member of the Arizona House of Representative from the 8th district. She was elected in 2020 and assumed office on January 11, 2021.
+description: Contact Representative Melody Hernandez of Arizona. Contact information for Melody Hernandez includes email address, phone number, and mailing address.
 image: melody-hernandez.jpeg
 video:
 url:  /states/arizona/melody-hernandez/
@@ -16,7 +16,7 @@ layout: course_home
 name: Melody Hernandez
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2021
 mailing1: Capitol Complex Room 321 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

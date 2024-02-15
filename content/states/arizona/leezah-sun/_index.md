@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Leezah Sun"
-seo_title: "contact Representatives Leezah Sun"
+seo_title: "contact Representative Leezah Sun"
 subheader:
-     greeting: Contact Representatives Leezah Sun
+     greeting: Contact Representative Leezah Sun
      description: Leezah Sun is an American politician and activist, born around 1970 in Jeju City, South Korea to Chinese refugees. In 1977, when she was about 7 years old, her family immigrated to the United States and settled in Michigan.
-description: Contact Representatives Leezah Sun of Arizona. Contact information for Leezah Sun includes email address, phone number, and mailing address.
+description: Contact Representative Leezah Sun of Arizona. Contact information for Leezah Sun includes email address, phone number, and mailing address.
 image: leezah-sun.jpeg
 video:
 url:  /states/arizona/leezah-sun/
@@ -16,7 +16,7 @@ layout: course_home
 name: Leezah Sun
 state: Arizona
 party: Democratic
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 325 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890

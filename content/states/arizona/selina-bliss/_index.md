@@ -1,11 +1,11 @@
 ---
 date: 2024-01-08T11:54:12-05:00
 title: "Selina Bliss"
-seo_title: "contact Representatives Selina Bliss"
+seo_title: "contact Representative Selina Bliss"
 subheader:
-     greeting: Contact Representatives Selina Bliss
-     description: Selina Bliss is an American politician, nurse, and a member of the Republican Party. She is currently serving as a member of the Arizona House of Representatives, representing District 1. She assumed office on January 9, 2023.
-description: Contact Representatives Selina Bliss of Arizona. Contact information for Selina Bliss includes email address, phone number, and mailing address.
+     greeting: Contact Representative Selina Bliss
+     description: Selina Bliss is an American politician, nurse, and a member of the Republican Party. She is currently serving as a member of the Arizona House of Representative, representing District 1. She assumed office on January 9, 2023.
+description: Contact Representative Selina Bliss of Arizona. Contact information for Selina Bliss includes email address, phone number, and mailing address.
 image: selina-bliss.jpeg
 video:
 url:  /states/arizona/selina-bliss/
@@ -16,7 +16,7 @@ layout: course_home
 name: Selina Bliss
 state: Arizona
 party: Republican
-role: Representatives
+role: Representative
 inoffice: current
 elected: 2023
 mailing1: Capitol Complex Room 344 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890
