@@ -29,17 +29,8 @@ document.addEventListener( 'DOMContentLoaded', function() {
 
 
 
-    var links = document.querySelectorAll('a');
-    links.forEach(function (link) {
-          // Check if the link is an external link
-      if (link.hostname !== window.location.hostname) {
-              // Add the ref attribute to the link
-        link.href = link.href + (link.href.includes('?') ? '&' : '?') + 'ref=sengov.com';
-      }
     });
 
-
-} );
 
 document.addEventListener( 'click', function( e ) {
     if ( ! e.target.matches( '.tab-link' ) ) {
