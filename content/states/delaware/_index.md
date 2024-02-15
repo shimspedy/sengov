@@ -2,8 +2,8 @@
 date: 2024-01-11T11:55:00-04:00
 title: "Delaware "
 ab: "DE"
-seo_title: "Contact Delaware  Governors And Senators"
-description: Contact Delaware  Senators
+seo_title: "Contact Delaware  state Representatives And Senators"
+description: Contact state Representatives And Senators
 author: cs
 url: /states/delaware/
 flag: seal.png

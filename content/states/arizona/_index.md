@@ -2,7 +2,7 @@
 date: 2024-01-11T11:55:00-04:00
 title: "Arizona"
 ab: "AZ"
-seo_title: "Contact Arizona  Governors And Senators"
+seo_title: "Contact Arizona  state Representatives And Senators"
 description: Arizona became the 48th state in the Union on February 14, 1912. 
 author: cs
 url: /states/arizona/
