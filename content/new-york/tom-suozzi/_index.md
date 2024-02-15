@@ -1,11 +1,11 @@
 ---
 date: 2024-02-01T11:54:12-05:00
 title: "Tom Suozzi"
-seo_title: "contact Former Representative Tom Suozzi"
+seo_title: "contact  Representative Tom Suozzi"
 subheader:
-     greeting: Contact Former Representative Tom Suozzi 
+     greeting: Contact  Representative Tom Suozzi 
      description: Thomas Richard Suozzi, born August 31, 1962, is an American politician with a multifaceted career as an attorney, accountant, and now the U.S. Representative-elect for New York's 3rd congressional district. 
-description: Contact Former Representative Tom Suozzi of New York. Contact information for Tom Suozzi includes email address, phone number, and mailing address.
+description: Contact  Representative Tom Suozzi of New York. Contact information for Tom Suozzi includes email address, phone number, and mailing address.
 image: tom-suozzi.jpeg
 video: 
 url: /new-york/tom-suozzi/
@@ -32,9 +32,9 @@ Thomas Richard Suozzi, born August 31, 1962, is an American politician with a mu
 
 In 2006, Suozzi made an unsuccessful bid for the Democratic nomination for Governor of New York against Eliot Spitzer. He was elected to the U.S. House of Representatives in 2016, securing re-election in 2018 and 2020. In 2022, he left Congress to run for the Democratic nomination for Governor of New York but was defeated by incumbent Kathy Hochul.
 
-October 2023 marked Suozzi's announcement to reclaim his former congressional seat in the 2024 elections. This came after Tom Suozzi was expelled from Congress, leading to a special election on February 13, 2024, where Suozzi emerged victorious as the Democratic nominee and won, ready to serve the remainder of Santos's term.
+October 2023 marked Suozzi's announcement to reclaim his  congressional seat in the 2024 elections. This came after Tom Suozzi was expelled from Congress, leading to a special election on February 13, 2024, where Suozzi emerged victorious as the Democratic nominee and won, ready to serve the remainder of Santos's term.
 
-Suozzi's early life in Glen Cove, New York, was shaped by his Italian-American father, Joseph A. Suozzi, a former Glen Cove mayor and attorney, and his mother, Marguerite, of Irish and English descent, an operating room nurse. He graduated from Chaminade High School, then Boston College with a degree in accounting, became a certified public accountant, and later earned a Juris Doctor from Fordham University School of Law.
+Suozzi's early life in Glen Cove, New York, was shaped by his Italian-American father, Joseph A. Suozzi, a  Glen Cove mayor and attorney, and his mother, Marguerite, of Irish and English descent, an operating room nurse. He graduated from Chaminade High School, then Boston College with a degree in accounting, became a certified public accountant, and later earned a Juris Doctor from Fordham University School of Law.
 
 Before his political career, Suozzi worked in the private sector, including positions at Arthur Andersen, as a law clerk, and a commercial litigator. He returned to private practice from 2010 to 2016, working as an attorney and consultant, and later co-chaired a global consulting firm.
 
