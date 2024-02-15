@@ -1,5 +1,5 @@
 ---
-date: 2023-09-11T11:55:00-04:00
+date: 2024-01-11T11:55:00-04:00
 title: "Alaska"
 ab: "AK"
 seo_title: "Contact Alaska  Governors And Senators"
