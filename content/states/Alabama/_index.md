@@ -1,5 +1,5 @@
 ---
-date: 2022-09-11T11:55:00-04:00
+date: 2023-09-11T11:55:00-04:00
 title: "Alabama"
 ab: "AL"
 seo_title: "Contact Alabama  Governors And Senators "
@@ -10,6 +10,8 @@ url: /states/alabama/
 weight: 1
 state: "yes"
 
-layout: statehome
+layout: states
+
+
 
 ---
