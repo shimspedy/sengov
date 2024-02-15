@@ -17,15 +17,16 @@ layout: course_home
 name:	Tom Suozzi
 state:	New York
 district: 3rd
-party:		Democratic
-officeroom:		1117 Longworth House Office Building
+party:	Democratic
+officeroom:	407 CHOB
 phonenumber:	(202) 225-3335
-emailaddress:	https://santos.house.gov/address_authentication?form=/contact
-website:	https://santos.house.gov/
+emailaddress:	https://suozzi.house.gov/contact
+website:	https://suozzi.house.gov/
 committeeassignment: 
 role: congress
 inoffice: current
-
+twitter: RepTomSuozzi
+powrid: 
 ---
 
 Thomas Richard Suozzi, born August 31, 1962, is an American politician with a multifaceted career as an attorney, accountant, and now the U.S. Representative-elect for New York's 3rd congressional district. He has a rich history of public service, having previously held the same Congressional seat from 2017 to 2023. A Democrat, Suozzi also served as Nassau County Executive from 2002 to 2009 and was the Mayor of Glen Cove for eight years before that.
