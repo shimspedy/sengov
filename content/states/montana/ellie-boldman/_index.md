@@ -8,7 +8,7 @@ subheader:
 description: Contact senator Ellie Boldman of Montana. Contact information for Ellie Boldman includes email address, phone number, and mailing address.
 image: ellie-boldman.jpeg
 video:
-url:  /states/montana/mellie-boldman/
+url:  /states/montana/ellie-boldman/
 weight: 1
 layout: course_home
 
