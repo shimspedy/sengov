@@ -36,7 +36,7 @@
      {{range .Sections }}
      {{ if and (eq (lower .Params.role) "congress") ( eq .Params.inoffice "current") }}
 
-     <div class="col s12 m6 l4">
+     <div class="col s12 m6 l6">
           {{ partial "listings/senate" . }}
      </div>
      {{end}}
