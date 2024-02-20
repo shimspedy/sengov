@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Katie Sullivan of Montana. Contact information for Katie Sullivan includes email address, phone number, and mailing address.
 image: katie-sullivan.jpeg
 video:
-url:  /states/montana/katie-sullivanr/
+url:  /states/montana/katie-sullivan/
 weight: 1
 layout: course_home
 
