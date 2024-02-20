@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Robert Stewart
      description: Robert Stewart is an American politician and accountant serving the 23rd district in the Alabama Senate. The 23rd district includes Butler County, Clarke County, Conecuh County, Dallas County, Lowndes County, Monroe County, Perry County, and Wilcox County. He won the seat running against Hank Sanders in the 2022 election.
 description: Contact Senator Robert Stewart of Alabama. Contact information for Robert Stewart includes email address, phone number, and mailing address.
-image: robert-stewartn.jpeg
+image: robert-stewart.jpeg
 video:
 url:  /states/alabama/robert-stewart/
 weight: 1
