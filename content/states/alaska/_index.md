@@ -11,6 +11,4 @@ weight: 1
 state: "yes"
 layout: states
 
-
-
 ---
