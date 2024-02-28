@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-01-02T11:55:00-04:00
 title: "Georgia"
 ab: "GA"
 seo_title: "Contact Georgia  Governors And Senators"
