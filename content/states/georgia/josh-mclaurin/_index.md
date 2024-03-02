@@ -8,7 +8,7 @@ subheader:
 description: Contact Senator Josh McLaurin of Georgia. Contact information for Josh McLaurin includes email address, phone number, and mailing address.
 image: josh-mclaurin.jpeg
 video:
-url:  /states/georgia/josh-mclaurins/
+url:  /states/georgia/josh-mclaurin/
 weight: 1
 layout: course_home
 
