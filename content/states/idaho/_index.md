@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2023-12-11T11:55:00-04:00
 title: "Idaho"
 ab: "ID"
 seo_title: "Contact Idaho  Governors And Senators"
