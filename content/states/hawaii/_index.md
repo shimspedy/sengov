@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2023-12-11T11:55:00-04:00
 title: "Hawaii"
 ab: "HI"
 seo_title: "Contact Hawaii  Governors And Senators"
