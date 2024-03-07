@@ -9,7 +9,7 @@ url: /whitehouse/
 flag: 
 weight: 1
 
-state: "yes"
+# state: "yes"
 
 stateweb: ""
 govweb: ""

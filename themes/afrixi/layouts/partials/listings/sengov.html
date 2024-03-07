@@ -4,7 +4,7 @@
      {{range .Sections }}
      {{ if  (eq .Params.state "yes")  }}
           <div class="col s3 m2 l1">
-          <h5 class="grey-text text-darken-2"><a class="grey-text text-darken-2" href="{{.Permalink}}" >{{ .Params.ab }}</a></h5>
+          <h5 class="grey-text text-darken-2"><a class="grey-text text-darken-2" href="states/{{.Permalink}}" >{{ .Params.ab }}</a></h5>
           </div>
      {{end}}
      {{end}}
