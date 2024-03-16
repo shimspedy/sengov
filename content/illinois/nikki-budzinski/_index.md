@@ -17,7 +17,7 @@ layout: course_home
 name:	Nikki Budzinski
 state:	Illinois
 district: 13th
-party:	Republican
+party:	Democratic
 officeroom:	1009 Longworth House Office Building
 phonenumber:	(202) 225-2371
 emailaddress:	https://budzinski.house.gov/contact
