@@ -65,8 +65,8 @@ To make sure that you are at the right place, you should always verify that the 
 
 If you want to find Subway locations that take EBT near you, you can use the following methods:
 
-- Use the [Subway Store Locator](^1^) and filter by "EBT Accepted".
-- Use the [Fresh EBT App](^2^) and search for "Subway" in the map feature.
-- Use the [SNAP Retailer Locator](^3^) and enter "Subway" in the name field.
+- Use the Subway Store Locator and filter by "EBT Accepted".
+- Use the Fresh EBT App and search for "Subway" in the map feature.
+- Use the SNAP Retailer Locator and enter "Subway" in the name field.
 - Call the Subway customer service number at 1-800-888-4848 and ask for EBT locations near you.
 
