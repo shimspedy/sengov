@@ -24,7 +24,7 @@ emailaddress:	https://budd.house.gov/contact/
 website:	https://budd.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: RepTedBudd
 powrid: 
 ---
