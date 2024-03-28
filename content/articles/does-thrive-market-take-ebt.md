@@ -4,7 +4,7 @@ title: Does Thrive Market take EBT
 seo_title: Does Thrive Market Accept EBT
 description: " Making Healthy Choices on a Budget  Exploring Thrive Market and Alternatives"
 date: 2024-03-28T14:46:27.640Z
-defaultImage: /articles/th.jpg
+image: th.jpg
 draft: false
 ---
 
