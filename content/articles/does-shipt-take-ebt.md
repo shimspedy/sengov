@@ -1,7 +1,7 @@
 ---
 author: john hashim
-title: Does Shipt Take Ebt
-seo_title: Does Shipt Accept Ebt
+title: Does Shipt Take Ebt?
+seo_title: Does Shipt Accept Ebt?
 description: "Shipt emerges as a convenient solution for stocking your pantry
   without leaving home. "
 date: 2024-03-28T15:32:55.840Z
