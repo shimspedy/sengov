@@ -1,0 +1,308 @@
+backend:
+  backend:
+  name: git-gateway
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
+    - author
+
+# backend:
+#   name: git-gateway
+#   accept_roles: #optional - accepts all users if left out
+#     - admin
+#     - editor
+#     - author
+
+site_url: https://www.sengov.com
+display_url: https://www.sengov.com
+logo_url: https://www.sengov.com/images/logo.png
+
+show_preview_links: false
+
+
+publish_mode: editorial_workflow
+
+media_folder: "static/articles" # Media files will be stored in the repo under articles
+public_folder: "/articles" # The src attribute for uploaded media will begin with articles
+
+collections:
+
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "article" # Used in the UI
+    folder: "content/articles" # The path to the folder where the documents are stored
+    delete: false             # Prevents users from deleting items in a collection
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+
+      - label: "Authors"
+        name: "authors"
+        required: true
+        widget: "string"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Seo Title"
+        name: "seo_title"
+        widget: "string"
+
+      - label: "Description"
+        name: "description"
+        widget: "string"
+
+      - label: "Publish Date"
+        name: "date"
+        required: true
+        widget: "datetime"
+
+      - label: "Categories"
+        name: "categories"
+        required: false
+        widget: "list"
+
+      - label: "Tags"
+        name: "tags"
+        required: false
+        widget: "list"
+
+      - label: "Keywords"
+        name: "keywords"
+        required: false
+        widget: "list"
+
+      - label: "image"
+        name: "image"
+        required: false
+        widget: "image"
+
+      - label: "default Image"
+        name: "defaultImage"
+        required: false
+        widget: "image"
+        default: "/images/image.png"
+
+
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+        
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+  
+  - name: "bills" # Used in routes, e.g., /admin/collections/blog
+    label: "bill" # Used in the UI
+    folder: "content/bills" # The path to the folder where the documents are stored
+    delete: false             # Prevents users from deleting items in a collection
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+
+      - label: "Authors"
+        name: "authors"
+        required: true
+        widget: "string"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Seo Title"
+        name: "seo_title"
+        widget: "string"
+
+      - label: "Description"
+        name: "description"
+        widget: "string"
+
+      - label: "Publish Date"
+        name: "date"
+        required: true
+        widget: "datetime"
+
+      - label: "Categories"
+        name: "categories"
+        required: false
+        widget: "list"
+
+      - label: "Tags"
+        name: "tags"
+        required: false
+        widget: "list"
+
+      - label: "Keywords"
+        name: "keywords"
+        required: false
+        widget: "list"
+
+      - label: "image"
+        name: "image"
+        required: false
+        widget: "image"
+
+      - label: "default Image"
+        name: "defaultImage"
+        required: false
+        widget: "image"
+        default: "/images/image.png"
+
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+  
+  - name: "candidates" # Used in routes, e.g., /admin/collections/blog
+    label: "candidate" # Used in the UI
+    folder: "content/candidates" # The path to the folder where the documents are stored
+    delete: false             # Prevents users from deleting items in a collection
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+
+    
+      - label: "Publish Date"
+        name: "date"
+        required: true
+        widget: "datetime"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Seo Title"
+        name: "seo_title"
+        widget: "string"
+
+      - label: "Greeting"
+        name: "Greeting"
+        required: false
+        widget: "string"
+
+      - label: "Description"
+        name: "description"
+        widget: "string"
+
+      - label: "Authors"
+        name: "authors"
+        required: true
+        widget: "string"
+
+      - label: "image"
+        name: "image"
+        required: false
+        widget: "image"
+
+      - label: "video"
+        name: "video"
+        required: false
+        widget: "string"
+
+      - label: "url"
+        name: "url"
+        required: false
+        widget: "string"
+      
+      - label: "weight"
+        name: "weight"
+        required: true
+        widget: "string"
+
+      - label: "layout"
+        name: "layout"
+        required: false
+        widget: "string"
+        default: "course_home"
+
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+  
+  - name: "income" # Used in routes, e.g., /admin/collections/blog
+    label: "income" # Used in the UI
+    folder: "content/income" # The path to the folder where the documents are stored
+    delete: false             # Prevents users from deleting items in a collection
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+
+          
+      - label: "Publish Date"
+        name: "date"
+        required: true
+        widget: "datetime"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Seo Title"
+        name: "seo_title"
+        widget: "string"
+
+      - label: "Greeting"
+        name: "Greeting"
+        required: false
+        widget: "string"
+
+      - label: "Description"
+        name: "description"
+        widget: "string"
+
+      - label: "Authors"
+        name: "authors"
+        required: true
+        widget: "string"
+
+      - label: "image"
+        name: "image"
+        required: false
+        widget: "image"
+
+      - label: "video"
+        name: "video"
+        required: false
+        widget: "string"
+
+      - label: "url"
+        name: "url"
+        required: false
+        widget: "string"
+      
+      - label: "weight"
+        name: "weight"
+        required: true
+        widget: "string"
+
+      - label: "layout"
+        name: "layout"
+        required: false
+        widget: "string"
+        default: "course_home"
+
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
