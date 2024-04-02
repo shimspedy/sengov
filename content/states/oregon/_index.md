@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2023-11-11T11:55:00-04:00
 title: "Oregon"
 ab: "OR"
 seo_title: "Contact Oregon  Governors And Senators"
