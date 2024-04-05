@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Representative Raymond Crews
      description: Raymond J. Crews is a member of the Louisiana House of Representatives from the 8th district. He assumed office in April 2017, succeeding Mike Johnson.
 description: Contact Representative Raymond Crews of Louisiana. Contact information for Raymond Crews includes email address, phone number, and mailing address.
-image: Raymond Crews.jpeg
+image: raymond-crews.jpeg
 video:
-url:  /states/louisiana/Raymond Crews/
+url:  /states/louisiana/raymond-crews/
 weight: 1
 layout: course_home
 

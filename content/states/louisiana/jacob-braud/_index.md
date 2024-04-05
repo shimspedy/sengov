@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Representative Jacob Braud
      description: Jacob Braud Freeman is an American politician currently serving as a member of the Louisiana House of Representatives from the 105th district. He is a member of the Republican Party and represents parts of Jefferson Parish, Orleans Parish, and Plaquemines Parish. He has been in office since January 8, 2024.
 description: Contact Representative Jacob Braud of Louisiana. Contact information for Jacob Braud includes email address, phone number, and mailing address.
-image:  jacob-braud.jpeg
+image: jacob-braud.jpeg
 video:
-url:  /states/louisiana/ jacob-braud/
+url:  /states/louisiana/jacob-braud/
 weight: 1
 layout: course_home
 
