@@ -27,7 +27,6 @@ role: congress
 inoffice: current
 powrid: 
 ---
-
 Born and raised on a family farm in Coffee County, Alabama, Barry Moore is a veteran, small business owner and former member of the Alabama State House.
 After high school, Barry joined the Alabama National Guard and Reserves, serving for six years. During that time he also pursued a degree in Agriculture Science at Auburn University, and joined the Auburn ROTC Army Ranger Challenge Team.
 
