@@ -44,7 +44,11 @@
                   </tr>
                   <tr>
                     <td>State</td>
-                    <td class="p-region"><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td>
+                    <td class="p-region">{{ partial "statehomepage" . }}</td>
+                  
+                    <!-- <td class="p-region"><a href="/{{lower .Params.State | urlize}}">{{.Params.State}}</a></td> -->
+                
+
                   </tr>
                   <tr>
                     <td>Party</td>
