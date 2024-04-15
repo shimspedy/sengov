@@ -8,4 +8,7 @@ author: john
 url: /canada/alberta/
 flag: seal.png
 weight: 1
+state: "yes"
+
+layout: states
 ---

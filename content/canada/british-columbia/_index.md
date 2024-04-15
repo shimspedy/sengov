@@ -8,4 +8,7 @@ author: john
 url: /canada/british-colombia/
 flag: seal.png
 weight: 1
+state: "yes"
+
+layout: states
 ---

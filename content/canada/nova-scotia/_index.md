@@ -8,4 +8,7 @@ author: john
 url: /canada/nova-scotia/
 flag: seal.png
 weight: 1
+state: "yes"
+
+layout: states
 ---

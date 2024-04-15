@@ -8,4 +8,7 @@ author: john
 url: /canada/northwest-territories/
 flag: seal.png
 weight: 1
+state: "yes"
+
+layout: states
 ---

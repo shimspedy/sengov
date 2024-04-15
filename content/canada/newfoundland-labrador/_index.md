@@ -8,4 +8,7 @@ author: john
 url: /canada/newfoundland-labrador/
 flag: seal.png
 weight: 1
+state: "yes"
+
+layout: states
 ---
