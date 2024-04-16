@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lisa Marie Barron of British Columbia. Contact information for Lisa Marie Barron includes email address, phone number, and mailing address.
 image: lisa-marie-barron.jpeg
 video:
-url:  /british-columbia/lisa-marie-barron/
+url: /canada/british-columbia/lisa-marie-barron/
 weight: 1
 layout: course_home
 

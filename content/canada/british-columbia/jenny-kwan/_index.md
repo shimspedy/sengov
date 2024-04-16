@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jenny Kwan of British Columbia. Contact information for Jenny Kwan includes email address, phone number, and mailing address.
 image: jenny-kwan.jpeg
 video:
-url:  /british-columbia/jenny-kwan/
+url: /canada/british-columbia/jenny-kwan/
 weight: 1
 layout: course_home
 

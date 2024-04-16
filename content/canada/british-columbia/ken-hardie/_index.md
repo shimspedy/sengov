@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ken Hardie of British Columbia. Contact information for Ken Hardie includes email address, phone number, and mailing address.
 image: ken-hardie.jpeg
 video:
-url:  /british-columbia/ken-hardie/
+url: /canada/british-columbia/ken-hardie/
 weight: 1
 layout: course_home
 

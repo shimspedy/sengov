@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kerry-Lynne D. Findlay of British Columbia. Contact information for Kerry-Lynne D. Findlay includes email address, phone number, and mailing address.
 image: kerry-lynne-d-findlay.jpeg
 video:
-url:  /british-columbia/kerry-lynne-d-findlay/
+url: /canada/british-columbia/kerry-lynne-d-findlay/
 weight: 1
 layout: course_home
 

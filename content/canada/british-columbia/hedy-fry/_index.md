@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Hedy Fry of British Columbia. Contact information for Hedy Fry includes email address, phone number, and mailing address.
 image: hedy-fry.jpeg
 video:
-url:  /british-columbia/hedy-fry/
+url: /canada/british-columbia/hedy-fry/
 weight: 1
 layout: course_home
 

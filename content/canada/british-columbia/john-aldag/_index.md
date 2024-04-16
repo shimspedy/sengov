@@ -8,7 +8,7 @@ subheader:
 description: Contact representative John Aldag of British Columbia. Contact information for John Aldag includes email address, phone number, and mailing address.
 image: john-aldag.jpeg
 video:
-url:  /british-columbia/john-aldag/
+url: /canada/british-columbia/john-aldag/
 weight: 1
 layout: course_home
 

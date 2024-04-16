@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Frank Caputo of British Columbia. Contact information for Frank Caputo includes email address, phone number, and mailing address.
 image: frank-caputo.jpeg
 video:
-url:  /british-columbia/frank-caputo/
+url: /canada/british-columbia/frank-caputo/
 weight: 1
 layout: course_home
 

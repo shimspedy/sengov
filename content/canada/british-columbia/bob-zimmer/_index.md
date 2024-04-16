@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bob Zimmer of British Columbia. Contact information for Bob Zimmer includes email address, phone number, and mailing address.
 image: bob-zimmer.jpeg
 video:
-url:  /british-columbia/bob-zimmer/
+url: /canada/british-columbia/bob-zimmer/
 weight: 1
 layout: course_home
 

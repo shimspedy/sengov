@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dan Albas of British Columbia. Contact information for Dan Albas includes email address, phone number, and mailing address.
 image: dan-albas.jpeg
 video:
-url:  /british-columbia/dan-albas/
+url: /canada/british-columbia/dan-albas/
 weight: 1
 layout: course_home
 

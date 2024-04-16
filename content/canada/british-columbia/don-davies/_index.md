@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Don Davies of British Columbia. Contact information for Don Davies includes email address, phone number, and mailing address.
 image: don-davies.jpeg
 video:
-url:  /british-columbia/don-davies/
+url: /canada/british-columbia/don-davies/
 weight: 1
 layout: course_home
 
