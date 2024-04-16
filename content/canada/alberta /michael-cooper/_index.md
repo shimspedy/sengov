@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michael Cooper of alberta. Contact information for Michael Cooper includes email address, phone number, and mailing address.
 image: michael-cooper.jpeg
 video:
-url: /canada/alberta/michael-cooper
+url: /canada/alberta/michael-cooper/
 weight: 1
 layout: course_home
 

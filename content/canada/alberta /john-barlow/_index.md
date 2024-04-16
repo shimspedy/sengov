@@ -8,7 +8,7 @@ subheader:
 description: Contact representative John Barlow of alberta. Contact information for John Barlow includes email address, phone number, and mailing address.
 image: john-barlow.jpeg
 video:
-url: /canada/alberta/john-barlow
+url: /canada/alberta/john-barlow/
 weight: 1
 layout: course_home
 

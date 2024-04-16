@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Randy Boissonnault of alberta. Contact information for Randy Boissonnault includes email address, phone number, and mailing address.
 image: randy-boissonnault.jpeg
 video:
-url: /canada/alberta/randy-boissonnault
+url: /canada/alberta/randy-boissonnault/
 weight: 1
 layout: course_home
 

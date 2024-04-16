@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Laila Goodridge of alberta. Contact information for Laila Goodridge includes email address, phone number, and mailing address.
 image: laila-goodridge.jpeg
 video:
-url: /canada/alberta/laila-goodridge
+url: /canada/alberta/laila-goodridge/
 weight: 1
 layout: course_home
 

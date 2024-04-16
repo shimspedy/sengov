@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jasraj Singh Hallan of alberta. Contact information for Jasraj Singh Hallan includes email address, phone number, and mailing address.
 image: jasraj-singh-hallan.jpeg
 video:
-url: /canada/alberta/jasraj-singh-hallan
+url: /canada/alberta/jasraj-singh-hallan/
 weight: 1
 layout: course_home
 

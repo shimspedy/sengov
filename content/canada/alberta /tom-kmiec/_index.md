@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Tom Kmiec of alberta. Contact information for Tom Kmiec includes email address, phone number, and mailing address.
 image: tom-kmiec.jpeg
 video:
-url: /canada/alberta/tom-kmiec
+url: /canada/alberta/tom-kmiec/
 weight: 1
 layout: course_home
 

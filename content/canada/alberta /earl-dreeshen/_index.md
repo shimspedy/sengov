@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Earl Dreeshen of alberta. Contact information for Earl Dreeshen includes email address, phone number, and mailing address.
 image: earl-dreeshen.jpeg
 video:
-url: /canada/alberta/earl-dreeshen
+url: /canada/alberta/earl-dreeshen/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative George Chahal of alberta. Contact information for George Chahal includes email address, phone number, and mailing address.
 image: george-chahal.jpeg
 video:
-url: /canada/alberta/george-chahal
+url: /canada/alberta/george-chahal/
 weight: 1
 layout: course_home
 

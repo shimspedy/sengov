@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Garnett Genuis of alberta. Contact information for Garnett Genuis includes email address, phone number, and mailing address.
 image: garnett-genuis.jpeg
 video:
-url: /canada/alberta/garnett-genuis
+url: /canada/alberta/garnett-genuis/
 weight: 1
 layout: course_home
 

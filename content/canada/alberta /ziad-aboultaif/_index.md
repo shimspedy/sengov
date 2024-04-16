@@ -8,7 +8,7 @@ subheader:
 description: Contact representative ziad Aboultaif of alberta. Contact information for ziad Aboultaif includes email address, phone number, and mailing address.
 image: ziad-aboultaif.jpeg
 video:
-url: /canada/alberta/ziad-aboultaif
+url: /canada/alberta/ziad-aboultaif/
 weight: 1
 layout: course_home
 

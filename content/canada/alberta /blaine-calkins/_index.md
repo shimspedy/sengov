@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Blaine Calkins of alberta. Contact information for Blaine Calkins includes email address, phone number, and mailing address.
 image: blaine-calkins.jpeg
 video:
-url: /canada/alberta/blaine-calkins
+url: /canada/alberta/blaine-calkins/
 weight: 1
 layout: course_home
 

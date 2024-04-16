@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Matt Jeneroux of alberta. Contact information for Matt Jeneroux includes email address, phone number, and mailing address.
 image: matt-jeneroux.jpeg
 video:
-url: /canada/alberta/matt-jeneroux
+url: /canada/alberta/matt-jeneroux/
 weight: 1
 layout: course_home
 

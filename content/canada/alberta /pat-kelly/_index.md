@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pat Kelly of alberta. Contact information for Pat Kelly includes email address, phone number, and mailing address.
 image: pat-kelly.jpeg
 video:
-url: /canada/alberta/pat-kelly
+url: /canada/alberta/pat-kelly/
 weight: 1
 layout: course_home
 

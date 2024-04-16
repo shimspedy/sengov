@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Damien C. Kurek of alberta. Contact information for Damien C. Kurek includes email address, phone number, and mailing address.
 image: damien-c-kurek.jpeg
 video:
-url: /canada/alberta/damien-c-kurek
+url: /canada/alberta/damien-c-kurek/
 weight: 1
 layout: course_home
 

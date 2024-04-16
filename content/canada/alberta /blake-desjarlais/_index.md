@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Blake Desjarlais of alberta. Contact information for Blake Desjarlais includes email address, phone number, and mailing address.
 image: blake-desjarlais.jpeg
 video:
-url: /canada/alberta/blake-desjarlais
+url: /canada/alberta/blake-desjarlais/
 weight: 1
 layout: course_home
 
