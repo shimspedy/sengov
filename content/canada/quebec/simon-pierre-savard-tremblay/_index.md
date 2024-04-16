@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Simon-Pierre Savard-Tremblay of Quebec. Contact information for Simon-Pierre Savard-Tremblay includes email address, phone number, and mailing address.
 image: simon-pierre-savard-tremblay.jpeg
 video:
-url: /canada/quebec/simon-pierre-savard-tremblay
+url: /canada/quebec/simon-pierre-savard-tremblay/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Heath MacDonald of Prince Edward Island. Contact information for Heath MacDonald includes email address, phone number, and mailing address.
 image: heath-macdonald.jpeg
 video:
-url: /canada/prince-edward-island/heath-macdonald
+url: /canada/prince-edward-island/heath-macdonald/
 weight: 1
 layout: course_home
 

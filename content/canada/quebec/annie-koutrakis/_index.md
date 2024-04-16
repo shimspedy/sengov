@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Annie Koutrakis of Quebec. Contact information for Annie Koutrakis includes email address, phone number, and mailing address.
 image: annie-koutrakis.jpeg
 video:
-url: /canada/quebec/annie-koutrakis
+url: /canada/quebec/annie-koutrakis/
 weight: 1
 layout: course_home
 

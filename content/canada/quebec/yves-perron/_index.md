@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yves Perron of Quebec. Contact information for Yves Perron includes email address, phone number, and mailing address.
 image: yves-perron.jpeg
 video:
-url: /canada/quebec/yves-perron
+url: /canada/quebec/yves-perron/
 weight: 1
 layout: course_home
 

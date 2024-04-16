@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jean-Denis Garon of Quebec. Contact information for Jean-Denis Garon includes email address, phone number, and mailing address.
 image: jean-denis-garon.jpeg
 video:
-url: /canada/quebec/jean-denis-garon
+url: /canada/quebec/jean-denis-garon/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Corey Tochor of Saskatchewan. Contact information for Corey Tochor includes email address, phone number, and mailing address.
 image: corey-tochor.jpeg
 video:
-url: /canada/saskatchewan/corey-tochor
+url: /canada/saskatchewan/corey-tochor/
 weight: 1
 layout: course_home
 

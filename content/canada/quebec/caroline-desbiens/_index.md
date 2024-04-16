@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Caroline Desbiens of Quebec. Contact information for Caroline Desbiens includes email address, phone number, and mailing address.
 image: caroline-desbiens.jpeg
 video:
-url: /canada/quebec/caroline-desbiens
+url: /canada/quebec/caroline-desbiens/
 weight: 1
 layout: course_home
 

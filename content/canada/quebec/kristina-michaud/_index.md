@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kristina Michaud of Quebec. Contact information for Kristina Michaud includes email address, phone number, and mailing address.
 image: kristina-michaud.jpeg
 video:
-url: /canada/quebec/kristina-michaud
+url: /canada/quebec/kristina-michaud/
 weight: 1
 layout: course_home
 

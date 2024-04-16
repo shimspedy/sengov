@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sylvie Bérubé of Quebec. Contact information for Sylvie Bérubé includes email address, phone number, and mailing address.
 image: sylvie-berube.jpeg
 video:
-url: /canada/quebec/sylvie-berube
+url: /canada/quebec/sylvie-berube/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alain Therrien of Quebec. Contact information for Alain Therrien includes email address, phone number, and mailing address.
 image: alain-therrien.jpeg
 video:
-url: /canada/quebec/alain-therrien
+url: /canada/quebec/alain-therrien/
 weight: 1
 layout: course_home
 

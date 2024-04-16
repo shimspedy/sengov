@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sébastien Lemire of Quebec. Contact information for Sébastien Lemire includes email address, phone number, and mailing address.
 image: sebastien-lemire.jpeg
 video:
-url: /canada/quebec/sebastien-lemire
+url: /canada/quebec/sebastien-lemire/
 weight: 1
 layout: course_home
 

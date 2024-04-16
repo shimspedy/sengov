@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Maxime Blanchette-Joncas of Quebec. Contact information for Maxime Blanchette-Joncas includes email address, phone number, and mailing address.
 image: maxime-blanchette-joncas.jpeg
 video:
-url: /canada/quebec/maxime-blanchette-joncas
+url: /canada/quebec/maxime-blanchette-joncas/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Justin Trudeau of Quebec. Contact information for Justin Trudeau includes email address, phone number, and mailing address.
 image: justin-trudeau.jpeg
 video:
-url: /canada/quebec/justin-trudeau
+url: /canada/quebec/justin-trudeau/
 weight: 1
 layout: course_home
 

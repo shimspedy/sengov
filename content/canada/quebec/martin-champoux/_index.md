@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Martin Champoux of Quebec. Contact information for Martin Champoux includes email address, phone number, and mailing address.
 image: martin-champoux.jpeg
 video:
-url: /canada/quebec/martin-champoux
+url: /canada/quebec/martin-champoux/
 weight: 1
 layout: course_home
 

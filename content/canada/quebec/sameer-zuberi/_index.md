@@ -8,7 +8,7 @@ subheader:
 description: Contact representative René Villemure of Quebec. Contact information for René Villemure includes email address, phone number, and mailing address.
 image: sameer-zuberi.jpeg
 video:
-url: /canada/quebec/sameer-zuberi
+url: /canada/quebec/sameer-zuberi/
 weight: 1
 layout: course_home
 

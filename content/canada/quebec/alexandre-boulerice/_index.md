@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alexandre Boulerice of Quebec. Contact information for Alexandre Boulerice includes email address, phone number, and mailing address.
 image: alexandre-boulerice.jpeg
 video:
-url: /canada/quebec/alexandre-boulerice
+url: /canada/quebec/alexandre-boulerice/
 weight: 1
 layout: course_home
 

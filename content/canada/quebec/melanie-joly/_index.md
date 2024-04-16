@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mélanie Joly of Quebec. Contact information for Mélanie Joly includes email address, phone number, and mailing address.
 image: melanie-joly.jpeg
 video:
-url: /canada/quebec/melanie-joly
+url: /canada/quebec/melanie-joly/
 weight: 1
 layout: course_home
 

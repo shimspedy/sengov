@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yves Robillard of Quebec. Contact information for Yves Robillard includes email address, phone number, and mailing address.
 image: yves-robillard.jpeg
 video:
-url: /canada/quebec/yves-robillard
+url: /canada/quebec/yves-robillard/
 weight: 1
 layout: course_home
 

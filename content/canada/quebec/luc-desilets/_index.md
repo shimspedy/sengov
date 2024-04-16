@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Luc Desilets of Quebec. Contact information for Luc Desilets includes email address, phone number, and mailing address.
 image: luc-desilets.jpeg
 video:
-url: /canada/quebec/luc-desilets
+url: /canada/quebec/luc-desilets/
 weight: 1
 layout: course_home
 

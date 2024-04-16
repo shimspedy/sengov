@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rhéal Éloi Fortin of Quebec. Contact information for Rhéal Éloi Fortin includes email address, phone number, and mailing address.
 image: rheal-eloi-fortin.jpeg
 video:
-url: /canada/quebec/rheal-eloi-fortin
+url: /canada/quebec/rheal-eloi-fortin/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative David Lametti of Quebec. Contact information for David Lametti includes email address, phone number, and mailing address.
 image: david-lametti.jpeg
 video:
-url: /canada/quebec/david-lametti
+url: /canada/quebec/david-lametti/
 weight: 1
 layout: course_home
 

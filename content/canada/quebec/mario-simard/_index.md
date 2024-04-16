@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mario Simard of Quebec. Contact information for Mario Simard includes email address, phone number, and mailing address.
 image: mario-simard.jpeg
 video:
-url: /canada/quebec/mario-simard
+url: /canada/quebec/mario-simard/
 weight: 1
 layout: course_home
 

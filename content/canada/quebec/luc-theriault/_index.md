@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Luc Thériault of Quebec. Contact information for Luc Thériault includes email address, phone number, and mailing address.
 image: luc-theriault.jpeg
 video:
-url: /canada/quebec/luc-theriault
+url: /canada/quebec/luc-theriault/
 weight: 1
 layout: course_home
 

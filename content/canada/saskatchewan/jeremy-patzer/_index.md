@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jeremy Patzer of Saskatchewan. Contact information for Jeremy Patzer includes email address, phone number, and mailing address.
 image: jeremy-patzer.jpeg
 video:
-url: /canada/saskatchewan/jeremy-patzer
+url: /canada/saskatchewan/jeremy-patzer/
 weight: 1
 layout: course_home
 

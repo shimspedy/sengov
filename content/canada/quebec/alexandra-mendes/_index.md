@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alexandra Mendès of Quebec. Contact information for Alexandra Mendès includes email address, phone number, and mailing address.
 image: alexandra-mendes.jpeg
 video:
-url: /canada/quebec/alexandra-mendes
+url: /canada/quebec/alexandra-mendes/
 weight: 1
 layout: course_home
 

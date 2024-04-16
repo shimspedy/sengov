@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Andréanne Larouche of Quebec. Contact information for Andréanne Larouche includes email address, phone number, and mailing address.
 image: andreanne-larouche.jpeg
 video:
-url: /canada/quebec/andreanne-larouche
+url: /canada/quebec/andreanne-larouche/
 weight: 1
 layout: course_home
 

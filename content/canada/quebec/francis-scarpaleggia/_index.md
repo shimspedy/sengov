@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Francis Scarpaleggia of Quebec. Contact information for Francis Scarpaleggia includes email address, phone number, and mailing address.
 image: francis-scarpaleggia.jpeg
 video:
-url: /canada/quebec/francis-scarpaleggia
+url: /canada/quebec/francis-scarpaleggia/
 weight: 1
 layout: course_home
 

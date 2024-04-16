@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marilène Gill of Quebec. Contact information for Marilène Gill includes email address, phone number, and mailing address.
 image: marilene-gill.jpeg
 video:
-url: /canada/quebec/marilene-gill
+url: /canada/quebec/marilene-gill/
 weight: 1
 layout: course_home
 

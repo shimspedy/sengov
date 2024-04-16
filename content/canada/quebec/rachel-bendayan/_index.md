@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rachel Bendayan of Quebec. Contact information for Rachel Bendayan includes email address, phone number, and mailing address.
 image: rachel-bendayan.jpeg
 video:
-url: /canada/quebec/rachel-bendayan
+url: /canada/quebec/rachel-bendayan/
 weight: 1
 layout: course_home
 

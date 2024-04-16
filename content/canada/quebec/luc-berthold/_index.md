@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Luc Berthold of Quebec. Contact information for Luc Berthold includes email address, phone number, and mailing address.
 image: luc-berthold.jpeg
 video:
-url: /canada/quebec/luc-berthold
+url: /canada/quebec/luc-berthold/
 weight: 1
 layout: course_home
 

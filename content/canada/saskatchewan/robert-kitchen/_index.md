@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Robert Kitchen of Saskatchewan. Contact information for Robert Kitchen includes email address, phone number, and mailing address.
 image: robert-kitchen.jpeg
 video:
-url: /canada/saskatchewan/robert-kitchen
+url: /canada/saskatchewan/robert-kitchen/
 weight: 1
 layout: course_home
 

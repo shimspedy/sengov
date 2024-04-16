@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Warren Steinley of Saskatchewan. Contact information for Warren Steinley includes email address, phone number, and mailing address.
 image: warren-steinley.jpeg
 video:
-url: /canada/saskatchewan/warren-steinley
+url: /canada/saskatchewan/warren-steinley/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Stéphane Lauzon of Quebec. Contact information for Stéphane Lauzon includes email address, phone number, and mailing address.
 image: stephane-lauzon.jpeg
 video:
-url: /canada/quebec/stephane-lauzon
+url: /canada/quebec/stephane-lauzon/
 weight: 1
 layout: course_home
 

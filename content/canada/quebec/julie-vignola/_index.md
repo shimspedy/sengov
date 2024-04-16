@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Julie Vignola of Quebec. Contact information for Julie Vignola includes email address, phone number, and mailing address.
 image: julie-vignola.jpeg
 video:
-url: /canada/quebec/julie-vignola
+url: /canada/quebec/julie-vignola/
 weight: 1
 layout: course_home
 

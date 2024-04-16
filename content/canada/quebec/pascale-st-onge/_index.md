@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pascale St-Onge of Quebec. Contact information for Pascale St-Onge includes email address, phone number, and mailing address.
 image: pascale-st-onge.jpeg
 video:
-url: /canada/quebec/pascale-st-onge
+url: /canada/quebec/pascale-st-onge/
 weight: 1
 layout: course_home
 

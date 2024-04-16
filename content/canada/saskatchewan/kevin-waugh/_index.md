@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kevin Waugh of Saskatchewan. Contact information for Kevin Waugh includes email address, phone number, and mailing address.
 image: kevin-waugh.jpeg
 video:
-url: /canada/saskatchewan/kevin-waugh
+url: /canada/saskatchewan/kevin-waugh/
 weight: 1
 layout: course_home
 

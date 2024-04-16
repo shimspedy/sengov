@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anthony Housefather of Quebec. Contact information for Anthony Housefather includes email address, phone number, and mailing address.
 image: anthony-housefather.jpeg
 video:
-url: /canada/quebec/anthony-housefather
+url: /canada/quebec/anthony-housefather/
 weight: 1
 layout: course_home
 

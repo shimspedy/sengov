@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Greg Fergus of Quebec. Contact information for Greg Fergus includes email address, phone number, and mailing address.
 image: greg-fergus.jpeg
 video:
-url: /canada/quebec/greg-fergus
+url: /canada/quebec/greg-fergus/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sherry Romanado of Quebec. Contact information for Sherry Romanado includes email address, phone number, and mailing address.
 image: sherry-romanado.jpeg
 video:
-url: /canada/quebec/sherry-romanado
+url: /canada/quebec/sherry-romanado/
 weight: 1
 layout: course_home
 

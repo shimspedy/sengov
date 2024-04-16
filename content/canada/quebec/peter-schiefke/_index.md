@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Peter Schiefke of Quebec. Contact information for Peter Schiefke includes email address, phone number, and mailing address.
 image: peter-schiefke.jpeg
 video:
-url: /canada/quebec/peter-schiefke
+url: /canada/quebec/peter-schiefke/
 weight: 1
 layout: course_home
 

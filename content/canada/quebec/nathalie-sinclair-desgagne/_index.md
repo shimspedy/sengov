@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Nathalie Sinclair-Desgagné of Quebec. Contact information for Nathalie Sinclair-Desgagné includes email address, phone number, and mailing address.
 image: nathalie-sinclair-desgagne.jpeg
 video:
-url: /canada/quebec/nathalie-sinclair-desgagne
+url: /canada/quebec/nathalie-sinclair-desgagne/
 weight: 1
 layout: course_home
 

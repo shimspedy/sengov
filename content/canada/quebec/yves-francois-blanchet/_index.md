@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yves-François Blanchet of Quebec. Contact information for Yves-François Blanchet includes email address, phone number, and mailing address.
 image: yves-francois-blanchet.jpeg
 video:
-url: /canada/quebec/yves-francois-blanchet
+url: /canada/quebec/yves-francois-blanchet/
 weight: 1
 layout: course_home
 

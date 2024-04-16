@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Stéphane Bergeron of Quebec. Contact information for Stéphane Bergeron includes email address, phone number, and mailing address.
 image: stephane-bergeron.jpeg
 video:
-url: /canada/quebec/stephane-bergeron
+url: /canada/quebec/stephane-bergeron/
 weight: 1
 layout: course_home
 

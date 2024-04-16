@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anju Dhillon of Quebec. Contact information for Anju Dhillon includes email address, phone number, and mailing address.
 image: anju-dhillon.jpeg
 video:
-url: /canada/quebec/anju-dhillon
+url: /canada/quebec/anju-dhillon/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Xavier Barsalou-Duval of Quebec. Contact information for Xavier Barsalou-Duval includes email address, phone number, and mailing address.
 image: xavier-barsalou-duval.jpeg
 video:
-url: /canada/quebec/xavier-barsalou-duval
+url: /canada/quebec/xavier-barsalou-duval/
 weight: 1
 layout: course_home
 

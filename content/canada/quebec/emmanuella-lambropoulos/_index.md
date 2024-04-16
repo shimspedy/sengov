@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Emmanuella Lambropoulos of Quebec. Contact information for Emmanuella Lambropoulos includes email address, phone number, and mailing address.
 image: emmanuella-lambropoulos.jpeg
 video:
-url: /canada/quebec/emmanuella-lambropoulos
+url: /canada/quebec/emmanuella-lambropoulos/
 weight: 1
 layout: course_home
 

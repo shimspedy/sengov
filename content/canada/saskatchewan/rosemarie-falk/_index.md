@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rosemarie Falk of Saskatchewan. Contact information for Rosemarie Falk includes email address, phone number, and mailing address.
 image: rosemarie-falk.jpeg
 video:
-url: /canada/saskatchewan/rosemarie-falk
+url: /canada/saskatchewan/rosemarie-falk/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alain Rayes of Quebec. Contact information for Alain Rayes includes email address, phone number, and mailing address.
 image: alain-rayes.jpeg
 video:
-url: /canada/quebec/alain-rayes
+url: /canada/quebec/alain-rayes/
 weight: 1
 layout: course_home
 

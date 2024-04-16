@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Andrew Scheer of Saskatchewan. Contact information for Andrew Scheer includes email address, phone number, and mailing address.
 image: andrew-scheer.jpeg
 video:
-url: /canada/saskatchewan/andrew-scheer
+url: /canada/saskatchewan/andrew-scheer/
 weight: 1
 layout: course_home
 

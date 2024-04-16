@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Richard Martel of Quebec. Contact information for Richard Martel includes email address, phone number, and mailing address.
 image: richard-martel.jpeg
 video:
-url: /canada/quebec/richard-martel
+url: /canada/quebec/richard-martel/
 weight: 1
 layout: course_home
 

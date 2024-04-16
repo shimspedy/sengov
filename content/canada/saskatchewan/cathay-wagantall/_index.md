@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Cathay Wagantall of Saskatchewan. Contact information for Cathay Wagantall includes email address, phone number, and mailing address.
 image: cathay-wagantall.jpeg
 video:
-url: /canada/saskatchewan/cathay-wagantall
+url: /canada/saskatchewan/cathay-wagantall/
 weight: 1
 layout: course_home
 

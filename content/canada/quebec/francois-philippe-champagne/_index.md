@@ -8,7 +8,7 @@ subheader:
 description: Contact representative François-Philippe Champagne of Quebec. Contact information for François-Philippe Champagne includes email address, phone number, and mailing address.
 image: francois-philippe-champagne.jpeg
 video:
-url: /canada/quebec/francois-philippe-champagne
+url: /canada/quebec/francois-philippe-champagne/
 weight: 1
 layout: course_home
 

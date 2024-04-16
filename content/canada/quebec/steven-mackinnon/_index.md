@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Steven MacKinnon of Quebec. Contact information for Steven MacKinnon includes email address, phone number, and mailing address.
 image: steven-mackinnon.jpeg
 video:
-url: /canada/quebec/steven-mackinnon
+url: /canada/quebec/steven-mackinnon/
 weight: 1
 layout: course_home
 

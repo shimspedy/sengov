@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mario Beaulieu of Quebec. Contact information for Mario Beaulieu includes email address, phone number, and mailing address.
 image: mario-beaulieu.jpeg
 video:
-url: /canada/quebec/mario-beaulieu
+url: /canada/quebec/mario-beaulieu/
 weight: 1
 layout: course_home
 

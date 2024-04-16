@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michael Kram of Saskatchewan. Contact information for Michael Kram includes email address, phone number, and mailing address.
 image: michael-kram.jpeg
 video:
-url: /canada/saskatchewan/michael-kram
+url: /canada/saskatchewan/michael-kram/
 weight: 1
 layout: course_home
 

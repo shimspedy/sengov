@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alexis Brunelle-Duceppe of Quebec. Contact information for Alexis Brunelle-Duceppe includes email address, phone number, and mailing address.
 image: alexis-brunelle-duceppe.jpeg
 video:
-url: /canada/quebec/alexis-brunelle-duceppe
+url: /canada/quebec/alexis-brunelle-duceppe/
 weight: 1
 layout: course_home
 

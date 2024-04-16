@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sean Casey of Prince Edward Island. Contact information for Sean Casey includes email address, phone number, and mailing address.
 image: sean-casey.jpeg
 video:
-url: /canada/prince-edward-island/sean-casey
+url: /canada/prince-edward-island/sean-casey/
 weight: 1
 layout: course_home
 

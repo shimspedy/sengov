@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kelly Block of Saskatchewan. Contact information for Kelly Block includes email address, phone number, and mailing address.
 image: kelly-block.jpeg
 video:
-url: /canada/saskatchewan/kelly-block
+url: /canada/saskatchewan/kelly-block/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marie-Claude Bibeau of Quebec. Contact information for Marie-Claude Bibeau includes email address, phone number, and mailing address.
 image: marie-claude-bibeau.jpeg
 video:
-url: /canada/quebec/marie-claude-bibeau
+url: /canada/quebec/marie-claude-bibeau/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gabriel Ste-Marie of Quebec. Contact information for Gabriel Ste-Marie includes email address, phone number, and mailing address.
 image: gabriel-ste-marie.jpeg
 video:
-url: /canada/quebec/gabriel-ste-marie
+url: /canada/quebec/gabriel-ste-marie/
 weight: 1
 layout: course_home
 

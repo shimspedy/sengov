@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Diane Lebouthillier of Quebec. Contact information for Diane Lebouthillier includes email address, phone number, and mailing address.
 image: diane-lebouthillier.jpeg
 video:
-url: /canada/quebec/diane-lebouthillier
+url: /canada/quebec/diane-lebouthillier/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Fraser Tolmie of Saskatchewan. Contact information for Fraser Tolmie includes email address, phone number, and mailing address.
 image: fraser-tolmie.jpeg
 video:
-url: /canada/saskatchewan/fraser-tolmie
+url: /canada/saskatchewan/fraser-tolmie/
 weight: 1
 layout: course_home
 

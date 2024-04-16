@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Angelo Iacono of Quebec. Contact information for Angelo Iacono includes email address, phone number, and mailing address.
 image: angelo-iacono.jpeg
 video:
-url: /canada/quebec/angelo-iacono
+url: /canada/quebec/angelo-iacono/
 weight: 1
 layout: course_home
 

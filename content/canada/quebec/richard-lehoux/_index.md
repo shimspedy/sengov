@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Richard Lehoux of Quebec. Contact information for Richard Lehoux includes email address, phone number, and mailing address.
 image: richard-lehoux.jpeg
 video:
-url: /canada/quebec/richard-lehoux
+url: /canada/quebec/richard-lehoux/
 weight: 1
 layout: course_home
 

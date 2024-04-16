@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Patricia Lattanzio of Quebec. Contact information for Patricia Lattanzio includes email address, phone number, and mailing address.
 image: patricia-lattanzio.jpeg
 video:
-url: /canada/quebec/patricia-lattanzio
+url: /canada/quebec/patricia-lattanzio/
 weight: 1
 layout: course_home
 

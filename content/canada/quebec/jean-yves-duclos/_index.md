@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jean-Yves Duclos of Quebec. Contact information for Jean-Yves Duclos includes email address, phone number, and mailing address.
 image: jean-yves-duclos.jpeg
 video:
-url: /canada/quebec/jean-yves-duclos
+url: /canada/quebec/jean-yves-duclos/
 weight: 1
 layout: course_home
 

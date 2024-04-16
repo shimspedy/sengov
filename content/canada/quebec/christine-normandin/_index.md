@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Christine Normandin of Quebec. Contact information for Christine Normandin includes email address, phone number, and mailing address.
 image: christine-normandin.jpeg
 video:
-url: /canada/quebec/christine-normandin
+url: /canada/quebec/christine-normandin/
 weight: 1
 layout: course_home
 

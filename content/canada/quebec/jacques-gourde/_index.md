@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jacques Gourde of Quebec. Contact information for Jacques Gourde includes email address, phone number, and mailing address.
 image: jacques-gourde.jpeg
 video:
-url: /canada/quebec/jacques-gourde
+url: /canada/quebec/jacques-gourde/
 weight: 1
 layout: course_home
 

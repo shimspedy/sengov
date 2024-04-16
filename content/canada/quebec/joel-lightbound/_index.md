@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Joël Lightbound of Quebec. Contact information for Joël Lightbound includes email address, phone number, and mailing address.
 image: joel-lightbound.jpeg
 video:
-url: /canada/quebec/joel-lightbound
+url: /canada/quebec/joel-lightbound/
 weight: 1
 layout: course_home
 

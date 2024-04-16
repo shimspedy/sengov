@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Louis Plamondon of Quebec. Contact information for Louis Plamondon includes email address, phone number, and mailing address.
 image: louis-plamondon.jpeg
 video:
-url: /canada/quebec/louis-plamondon
+url: /canada/quebec/louis-plamondon/
 weight: 1
 layout: course_home
 

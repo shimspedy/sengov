@@ -8,7 +8,7 @@ subheader:
 description: Contact representative René Villemure of Quebec. Contact information for René Villemure includes email address, phone number, and mailing address.
 image: rene-villemure.jpeg
 video:
-url: /canada/quebec/rene-villemure
+url: /canada/quebec/rene-villemure/
 weight: 1
 layout: course_home
 

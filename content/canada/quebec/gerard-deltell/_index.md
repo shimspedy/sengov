@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gérard Deltell of Quebec. Contact information for Gérard Deltell includes email address, phone number, and mailing address.
 image: gerard-deltell.jpeg
 video:
-url: /canada/quebec/gerard-deltell
+url: /canada/quebec/gerard-deltell/
 weight: 1
 layout: course_home
 

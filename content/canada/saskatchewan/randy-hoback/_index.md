@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Randy Hoback of Saskatchewan. Contact information for Randy Hoback includes email address, phone number, and mailing address.
 image: randy-hoback.jpeg
 video:
-url: /canada/saskatchewan/randy-hoback
+url: /canada/saskatchewan/randy-hoback/
 weight: 1
 layout: course_home
 

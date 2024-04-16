@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dominique Vien of Quebec. Contact information for Dominique Vien includes email address, phone number, and mailing address.
 image: dominique-vien.jpeg
 video:
-url: /canada/quebec/dominique-vien
+url: /canada/quebec/dominique-vien/
 weight: 1
 layout: course_home
 

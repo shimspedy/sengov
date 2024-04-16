@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Brenda Shanahan of Quebec. Contact information for Brenda Shanahan includes email address, phone number, and mailing address.
 image: brenda-shanahan.jpeg
 video:
-url: /canada/quebec/brenda-shanahan
+url: /canada/quebec/brenda-shanahan/
 weight: 1
 layout: course_home
 

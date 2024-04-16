@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Soraya Martinez Ferrada of Quebec. Contact information for Soraya Martinez Ferrada includes email address, phone number, and mailing address.
 image: soraya-martinez-ferrada.jpeg
 video:
-url: /canada/quebec/soraya-martinez-ferrada
+url: /canada/quebec/soraya-martinez-ferrada/
 weight: 1
 layout: course_home
 

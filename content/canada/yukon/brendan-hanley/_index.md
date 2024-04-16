@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Brendan Hanley of Yukon. Contact information for Brendan Hanley includes email address, phone number, and mailing address.
 image: brendan-hanley.jpeg
 video:
-url: /canada/yukon/brendan-hanley
+url: /canada/yukon/brendan-hanley/
 weight: 1
 layout: course_home
 

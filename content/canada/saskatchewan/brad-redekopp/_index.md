@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Brad Redekopp of Saskatchewan. Contact information for Brad Redekopp includes email address, phone number, and mailing address.
 image: brad-redekopp.jpeg
 video:
-url: /canada/saskatchewan/brad-redekopp
+url: /canada/saskatchewan/brad-redekopp/
 weight: 1
 layout: course_home
 

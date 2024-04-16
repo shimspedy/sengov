@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Louise Chabot of Quebec. Contact information for Louise Chabot includes email address, phone number, and mailing address.
 image: louise-chabot.jpeg
 video:
-url: /canada/quebec/louise-chabot
+url: /canada/quebec/louise-chabot/
 weight: 1
 layout: course_home
 

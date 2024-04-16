@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Steven Guilbeault of Quebec. Contact information for Steven Guilbeault includes email address, phone number, and mailing address.
 image: steven-guilbeault.jpeg
 video:
-url: /canada/quebec/steven-guilbeault
+url: /canada/quebec/steven-guilbeault/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Denis Trudel of Quebec. Contact information for Denis Trudel includes email address, phone number, and mailing address.
 image: denis-trudel.jpeg
 video:
-url: /canada/quebec/denis-trudel
+url: /canada/quebec/denis-trudel/
 weight: 1
 layout: course_home
 

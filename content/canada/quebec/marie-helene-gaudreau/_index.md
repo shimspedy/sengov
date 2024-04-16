@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marie-Hélène Gaudreau of Quebec. Contact information for Marie-Hélène Gaudreau includes email address, phone number, and mailing address.
 image: marie-helene-gaudreau.jpeg
 video:
-url: /canada/quebec/marie-helene-gaudreau
+url: /canada/quebec/marie-helene-gaudreau/
 weight: 1
 layout: course_home
 

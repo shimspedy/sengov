@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lawrence MacAulay of Prince Edward Island. Contact information for Lawrence MacAulay includes email address, phone number, and mailing address.
 image: lawrence-macaulay.jpeg
 video:
-url: /canada/prince-edward-island/lawrence-macaulay
+url: /canada/prince-edward-island/lawrence-macaulay/
 weight: 1
 layout: course_home
 

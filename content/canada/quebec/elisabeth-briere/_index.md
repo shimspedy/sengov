@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Élisabeth Brière of Quebec. Contact information for Élisabeth Brière includes email address, phone number, and mailing address.
 image: elisabeth-briere.jpeg
 video:
-url: /canada/quebec/elisabeth-briere
+url: /canada/quebec/elisabeth-briere/
 weight: 1
 layout: course_home
 

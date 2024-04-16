@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sophie Chatel of Quebec. Contact information for Sophie Chatel includes email address, phone number, and mailing address.
 image: sophie-chatel.jpeg
 video:
-url: /canada/quebec/sophie-chatel
+url: /canada/quebec/sophie-chatel/
 weight: 1
 layout: course_home
 

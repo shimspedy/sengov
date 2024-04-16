@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Emmanuel Dubourg of Quebec. Contact information for Emmanuel Dubourg includes email address, phone number, and mailing address.
 image: emmanuel-dubourg.jpeg
 video:
-url: /canada/quebec/emmanuel-dubourg
+url: /canada/quebec/emmanuel-dubourg/
 weight: 1
 layout: course_home
 

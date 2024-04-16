@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pablo Rodriguez of Quebec. Contact information for Pablo Rodriguez includes email address, phone number, and mailing address.
 image: pablo-rodriguez.jpeg
 video:
-url: /canada/quebec/pablo-rodriguez
+url: /canada/quebec/pablo-rodriguez/
 weight: 1
 layout: course_home
 

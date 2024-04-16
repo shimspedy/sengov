@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bernard Généreux of Quebec. Contact information for Bernard Généreux includes email address, phone number, and mailing address.
 image: bernard-genereux.jpeg
 video:
-url: /canada/quebec/bernard-genereux
+url: /canada/quebec/bernard-genereux/
 weight: 1
 layout: course_home
 

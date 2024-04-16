@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Claude DeBellefeuille of Quebec. Contact information for Claude DeBellefeuille includes email address, phone number, and mailing address.
 image: claude-debellefeuille.jpeg
 video:
-url: /canada/quebec/claude-debellefeuille
+url: /canada/quebec/claude-debellefeuille/
 weight: 1
 layout: course_home
 

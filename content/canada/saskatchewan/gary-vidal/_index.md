@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gary Vidal of Saskatchewan. Contact information for Gary Vidal includes email address, phone number, and mailing address.
 image: gary-vidal.jpeg
 video:
-url: /canada/saskatchewan/gary-vidal
+url: /canada/saskatchewan/gary-vidal/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marc Miller of Quebec. Contact information for Marc Miller includes email address, phone number, and mailing address.
 image: marc-miller.jpeg
 video:
-url: /canada/quebec/marc-miller
+url: /canada/quebec/marc-miller/
 weight: 1
 layout: course_home
 

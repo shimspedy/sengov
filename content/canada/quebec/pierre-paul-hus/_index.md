@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pierre Paul-Hus of Quebec. Contact information for Pierre Paul-Hus includes email address, phone number, and mailing address.
 image: pierre-paul-hus.jpeg
 video:
-url: /canada/quebec/pierre-paul-hus
+url: /canada/quebec/pierre-paul-hus/
 weight: 1
 layout: course_home
 

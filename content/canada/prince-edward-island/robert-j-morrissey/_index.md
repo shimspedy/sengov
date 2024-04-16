@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Robert J. Morrissey of Prince Edward Island. Contact information for Robert J. Morrissey includes email address, phone number, and mailing address.
 image: robert-j-morrissey.jpeg
 video:
-url: /canada/prince-edward-island/robert-j-morrissey
+url: /canada/prince-edward-island/robert-j-morrissey/
 weight: 1
 layout: course_home
 

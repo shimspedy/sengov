@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Monique Pauzé of Quebec. Contact information for Monique Pauzé includes email address, phone number, and mailing address.
 image: monique-pauze.jpeg
 video:
-url: /canada/quebec/monique-pauze
+url: /canada/quebec/monique-pauze/
 weight: 1
 layout: course_home
 

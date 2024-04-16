@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Fayçal El-Khoury of Quebec. Contact information for Fayçal El-Khoury includes email address, phone number, and mailing address.
 image: faycal-el-khoury.jpeg
 video:
-url: /canada/quebec/faycal-el-khoury
+url: /canada/quebec/faycal-el-khoury/
 weight: 1
 layout: course_home
 

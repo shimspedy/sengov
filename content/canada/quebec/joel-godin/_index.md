@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Joël Godin of Quebec. Contact information for Joël Godin includes email address, phone number, and mailing address.
 image: joel-godin.jpeg
 video:
-url: /canada/quebec/joel-godin
+url: /canada/quebec/joel-godin/
 weight: 1
 layout: course_home
 
