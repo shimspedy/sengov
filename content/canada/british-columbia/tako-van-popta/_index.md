@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Tako Van Popta of British Columbia. Contact information for Tako Van Popta includes email address, phone number, and mailing address.
 image: tako-van-popta.jpeg
 video:
-url: /canada/british-columbia/tako-van-popta
+url: /canada/british-columbia/tako-van-popta/
 weight: 1
 layout: course_home
 

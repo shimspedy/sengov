@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Taleeb Noormohamed of British Columbia. Contact information for Taleeb Noormohamed includes email address, phone number, and mailing address.
 image: taleeb-noormohamed.jpeg
 video:
-url: /canada/british-columbia/taleeb-noormohamed
+url: /canada/british-columbia/taleeb-noormohamed/
 weight: 1
 layout: course_home
 

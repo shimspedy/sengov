@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Todd Doherty of British Columbia. Contact information for Todd Doherty includes email address, phone number, and mailing address.
 image: todd-doherty.jpeg
 video:
-url: /canada/british-columbia/todd-doherty
+url: /canada/british-columbia/todd-doherty/
 weight: 1
 layout: course_home
 

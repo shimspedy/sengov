@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Wilson Miao of British Columbia. Contact information for Wilson Miao includes email address, phone number, and mailing address.
 image: wilson-miao.jpeg
 video:
-url: /canada/british-columbia/wilson-miao
+url: /canada/british-columbia/wilson-miao/
 weight: 1
 layout: course_home
 

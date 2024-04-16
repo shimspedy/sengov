@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Randall Garrison of British Columbia. Contact information for Randall Garrison includes email address, phone number, and mailing address.
 image: randall-garrison.jpeg
 video:
-url: /canada/british-columbia/randall-garrison
+url: /canada/british-columbia/randall-garrison/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Richard Cannings of British Columbia. Contact information for Richard Cannings includes email address, phone number, and mailing address.
 image: richard-cannings.jpeg
 video:
-url: /canada/british-columbia/richard-cannings
+url: /canada/british-columbia/richard-cannings/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rachel Blaney of British Columbia. Contact information for Rachel Blaney includes email address, phone number, and mailing address.
 image: rachel-blaney.jpeg
 video:
-url: /canada/british-columbia/rachel-blaney
+url: /canada/british-columbia/rachel-blaney/
 weight: 1
 layout: course_home
 

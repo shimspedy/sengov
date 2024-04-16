@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Terry Beech of British Columbia. Contact information for Terry Beech includes email address, phone number, and mailing address.
 image: terry-beech.jpeg
 video:
-url: /canada/british-columbia/terry-beech
+url: /canada/british-columbia/terry-beech/
 weight: 1
 layout: course_home
 

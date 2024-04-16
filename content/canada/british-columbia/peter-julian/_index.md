@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Peter Julian of British Columbia. Contact information for Peter Julian includes email address, phone number, and mailing address.
 image: peter-julian.jpeg
 video:
-url: /canada/british-columbia/peter-julian
+url: /canada/british-columbia/peter-julian/
 weight: 1
 layout: course_home
 

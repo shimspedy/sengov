@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sukh Dhaliwal of British Columbia. Contact information for Sukh Dhaliwal includes email address, phone number, and mailing address.
 image: sukh-dhaliwal.jpeg
 video:
-url: /canada/british-columbia/sukh-dhaliwal
+url: /canada/british-columbia/sukh-dhaliwal/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bonita Zarrillo of British Columbia. Contact information for Bonita Zarrillo includes email address, phone number, and mailing address.
 image: bonita-zarrillo.jpeg
 video:
-url:  /british-columbia/bonita-zarrillo
+url:  /british-columbia/bonita-zarrillo/
 weight: 1
 layout: course_home
 

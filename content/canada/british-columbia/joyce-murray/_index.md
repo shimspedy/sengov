@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Joyce Murray of British Columbia. Contact information for Joyce Murray includes email address, phone number, and mailing address.
 image: joyce-murray.jpeg
 video:
-url:  /british-columbia/joyce-murray
+url:  /british-columbia/joyce-murray/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mel Arnold of British Columbia. Contact information for Mel Arnold includes email address, phone number, and mailing address.
 image: mel-arnold.jpeg
 video:
-url: /canada/british-columbia/mel-arnold
+url: /canada/british-columbia/mel-arnold/
 weight: 1
 layout: course_home
 

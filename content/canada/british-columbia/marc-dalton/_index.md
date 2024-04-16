@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marc Dalton of British Columbia. Contact information for Marc Dalton includes email address, phone number, and mailing address.
 image: marc-dalton.jpeg
 video:
-url: /canada/british-columbia/marc-dalton
+url: /canada/british-columbia/marc-dalton/
 weight: 1
 layout: course_home
 

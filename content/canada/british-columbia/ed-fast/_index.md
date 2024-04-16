@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ed Fast of British Columbia. Contact information for Ed Fast includes email address, phone number, and mailing address.
 image: ed-fast.jpeg
 video:
-url:  /british-columbia/ed-fast
+url:  /british-columbia/ed-fast/
 weight: 1
 layout: course_home
 

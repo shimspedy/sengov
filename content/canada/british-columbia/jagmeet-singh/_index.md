@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jagmeet Singh of British Columbia. Contact information for Jagmeet Singh includes email address, phone number, and mailing address.
 image: jagmeet-singh.jpeg
 video:
-url:  /british-columbia/jagmeet-singh
+url:  /british-columbia/jagmeet-singh/
 weight: 1
 layout: course_home
 

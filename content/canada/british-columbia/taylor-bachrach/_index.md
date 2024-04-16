@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Taylor Bachrach of British Columbia. Contact information for Taylor Bachrach includes email address, phone number, and mailing address.
 image: taylor-bachrach.jpeg
 video:
-url: /canada/british-columbia/taylor-bachrach
+url: /canada/british-columbia/taylor-bachrach/
 weight: 1
 layout: course_home
 

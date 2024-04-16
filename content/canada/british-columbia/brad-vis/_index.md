@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Brad Vis of British Columbia. Contact information for Brad Vis includes email address, phone number, and mailing address.
 image: brad-vis.jpeg
 video:
-url:  /british-columbia/brad-vis
+url:  /british-columbia/brad-vis/
 weight: 1
 layout: course_home
 

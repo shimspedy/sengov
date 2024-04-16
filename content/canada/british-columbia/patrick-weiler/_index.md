@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Patrick Weiler of British Columbia. Contact information for Patrick Weiler includes email address, phone number, and mailing address.
 image: patrick-weiler.jpeg
 video:
-url: /canada/british-columbia/patrick-weiler
+url: /canada/british-columbia/patrick-weiler/
 weight: 1
 layout: course_home
 

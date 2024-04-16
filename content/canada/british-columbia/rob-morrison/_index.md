@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rob Morrison of British Columbia. Contact information for Rob Morrison includes email address, phone number, and mailing address.
 image: rob-morrison.jpeg
 video:
-url: /canada/british-columbia/rob-morrison
+url: /canada/british-columbia/rob-morrison/
 weight: 1
 layout: course_home
 

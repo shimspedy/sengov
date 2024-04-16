@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Parm Bains of British Columbia. Contact information for Parm Bains includes email address, phone number, and mailing address.
 image: parm-bains.jpeg
 video:
-url: /canada/british-columbia/parm-bains
+url: /canada/british-columbia/parm-bains/
 weight: 1
 layout: course_home
 

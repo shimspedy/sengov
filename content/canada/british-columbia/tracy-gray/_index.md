@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Tracy Gray of British Columbia. Contact information for Tracy Gray includes email address, phone number, and mailing address.
 image: tracy-gray.jpg
 video:
-url: /canada/british-columbia/tracy-gray
+url: /canada/british-columbia/tracy-gray/
 weight: 1
 layout: course_home
 

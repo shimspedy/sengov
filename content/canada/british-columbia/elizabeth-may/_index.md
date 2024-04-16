@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Elizabeth May of British Columbia. Contact information for Elizabeth May includes email address, phone number, and mailing address.
 image: elizabeth-may.jpeg
 video:
-url:  /british-columbia/elizabeth-may
+url:  /british-columbia/elizabeth-may/
 weight: 1
 layout: course_home
 

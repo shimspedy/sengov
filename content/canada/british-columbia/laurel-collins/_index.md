@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Laurel Collins of British Columbia. Contact information for Laurel Collins includes email address, phone number, and mailing address.
 image: laurel-collins.jpeg
 video:
-url:  /british-columbia/laurel-collins
+url:  /british-columbia/laurel-collins/
 weight: 1
 layout: course_home
 

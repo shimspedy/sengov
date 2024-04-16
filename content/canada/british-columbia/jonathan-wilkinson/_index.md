@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jonathan Wilkinson of British Columbia. Contact information for Jonathan Wilkinson includes email address, phone number, and mailing address.
 image: jonathan-wilkinson.jpeg
 video:
-url:  /british-columbia/jonathan-wilkinson
+url:  /british-columbia/jonathan-wilkinson/
 weight: 1
 layout: course_home
 

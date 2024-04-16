@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ron McKinnon of British Columbia. Contact information for Ron McKinnon includes email address, phone number, and mailing address.
 image: ron-mckinnon.jpeg
 video:
-url: /canada/british-columbia/ron-mckinnon
+url: /canada/british-columbia/ron-mckinnon/
 weight: 1
 layout: course_home
 

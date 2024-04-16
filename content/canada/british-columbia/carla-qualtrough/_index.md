@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Carla Qualtrough of British Columbia. Contact information for Carla Qualtrough includes email address, phone number, and mailing address.
 image: carla-qualtrough.jpeg
 video:
-url:  /british-columbia/carla-qualtrough
+url:  /british-columbia/carla-qualtrough/
 weight: 1
 layout: course_home
 

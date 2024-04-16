@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alistair MacGregor of British Columbia. Contact information for Alistair MacGregor includes email address, phone number, and mailing address.
 image: elizabeth-may.jpeg
 video:
-url:  /british-columbia/elizabeth-may
+url:  /british-columbia/elizabeth-may/
 weight: 1
 layout: course_home
 

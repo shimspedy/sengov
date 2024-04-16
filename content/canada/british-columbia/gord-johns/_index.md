@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gord Johns of British Columbia. Contact information for Gord Johns includes email address, phone number, and mailing address.
 image: gord-johns.jpeg
 video:
-url:  /british-columbia/gord-johns
+url:  /british-columbia/gord-johns/
 weight: 1
 layout: course_home
 

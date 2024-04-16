@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Harjit S. Sajjan of British Columbia. Contact information for Harjit S. Sajjan includes email address, phone number, and mailing address.
 image: harjit-s-sajjan.jpeg
 video:
-url:  /british-columbia/harjit-s-sajjan
+url:  /british-columbia/harjit-s-sajjan/
 weight: 1
 layout: course_home
 

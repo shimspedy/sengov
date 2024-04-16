@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mark Strahl of British Columbia. Contact information for Mark Strahl includes email address, phone number, and mailing address.
 image: mark-strahl.jpeg
 video:
-url: /canada/british-columbia/mark-strahl
+url: /canada/british-columbia/mark-strahl/
 weight: 1
 layout: course_home
 

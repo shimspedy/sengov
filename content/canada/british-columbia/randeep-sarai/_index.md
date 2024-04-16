@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Randeep Sarai of British Columbia. Contact information for Randeep Sarai includes email address, phone number, and mailing address.
 image: randeep-sarai.jpeg
 video:
-url: /canada/british-columbia/randeep-sarai
+url: /canada/british-columbia/randeep-sarai/
 weight: 1
 layout: course_home
 
