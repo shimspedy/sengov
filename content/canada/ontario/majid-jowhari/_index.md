@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Majid Jowhari of Ontario. Contact information for Majid Jowhari includes email address, phone number, and mailing address.
 image: majid-jowhari.jpeg
 video:
-url: /canada/ontario/majid-jowhari
+url: /canada/ontario/majid-jowhari/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mona Fortier of Ontario. Contact information for Mona Fortier includes email address, phone number, and mailing address.
 image: mona-fortier.jpeg
 video:
-url: /canada/ontario/mona-fortier
+url: /canada/ontario/mona-fortier/
 weight: 1
 layout: course_home
 

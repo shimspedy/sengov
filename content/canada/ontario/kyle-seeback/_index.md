@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kyle Seeback of Ontario. Contact information for Kyle Seeback includes email address, phone number, and mailing address.
 image: kyle-seeback.jpeg
 video:
-url: /canada/ontario/kyle-seeback
+url: /canada/ontario/kyle-seeback/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anna Roberts of Ontario. Contact information for Anna Roberts includes email address, phone number, and mailing address.
 image: anna-roberts.jpeg
 video:
-url: /canada/ontario/anna-roberts
+url: /canada/ontario/anna-roberts/
 weight: 1
 layout: course_home
 

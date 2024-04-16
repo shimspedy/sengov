@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Nathaniel Erskine-Smith of Ontario. Contact information for Nathaniel Erskine-Smith includes email address, phone number, and mailing address.
 image: nathaniel-erskine-smith.jpeg
 video:
-url: /canada/ontario/nathaniel-erskine-smith
+url: /canada/ontario/nathaniel-erskine-smith/
 weight: 1
 layout: course_home
 

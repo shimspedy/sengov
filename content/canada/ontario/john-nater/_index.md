@@ -8,7 +8,7 @@ subheader:
 description: Contact representative John Nater of Ontario. Contact information for John Nater includes email address, phone number, and mailing address.
 image: john-nater.jpeg
 video:
-url: /canada/ontario/john-nater
+url: /canada/ontario/john-nater/
 weight: 1
 layout: course_home
 

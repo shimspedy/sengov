@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Adam Chambers of Ontario. Contact information for Adam Chambers includes email address, phone number, and mailing address.
 image: adam-chambers.jpeg
 video:
-url: /canada/ontario/adam-chambers
+url: /canada/ontario/adam-chambers/
 weight: 1
 layout: course_home
 

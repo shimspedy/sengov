@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Terry Sheehan of Ontario. Contact information for Terry Sheehan includes email address, phone number, and mailing address.
 image: terry-sheehan.jpeg
 video:
-url: /canada/ontario/terry-sheehan
+url: /canada/ontario/terry-sheehan/
 weight: 1
 layout: course_home
 

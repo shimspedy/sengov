@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Doug Shipley of Ontario. Contact information for Doug Shipley includes email address, phone number, and mailing address.
 image: doug-shipley.jpeg
 video:
-url: /canada/ontario/doug-shipley
+url: /canada/ontario/doug-shipley/
 weight: 1
 layout: course_home
 

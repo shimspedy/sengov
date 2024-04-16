@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Patty Hajdu of Ontario. Contact information for Patty Hajdu includes email address, phone number, and mailing address.
 image: patty-hajdu.jpeg
 video:
-url: /canada/ontario/patty-hajdu
+url: /canada/ontario/patty-hajdu/
 weight: 1
 layout: course_home
 

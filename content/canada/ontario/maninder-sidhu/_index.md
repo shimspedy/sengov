@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Maninder Sidhu of Ontario. Contact information for Maninder Sidhu includes email address, phone number, and mailing address.
 image: maninder-sidhu.jpeg
 video:
-url: /canada/ontario/maninder-sidhu
+url: /canada/ontario/maninder-sidhu/
 weight: 1
 layout: course_home
 

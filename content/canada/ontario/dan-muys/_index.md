@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dan Muys of Ontario. Contact information for Dan Muys includes email address, phone number, and mailing address.
 image: dan-muys.jpeg
 video:
-url: /canada/ontario/dan-muys
+url: /canada/ontario/dan-muys/
 weight: 1
 layout: course_home
 

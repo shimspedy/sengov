@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ryan Turnbull of Ontario. Contact information for Ryan Turnbull includes email address, phone number, and mailing address.
 image: ryan-turnbull.jpeg
 video:
-url: /canada/ontario/ryan-turnbull
+url: /canada/ontario/ryan-turnbull/
 weight: 1
 layout: course_home
 

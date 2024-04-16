@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Philip Lawrence of Ontario. Contact information for Philip Lawrence includes email address, phone number, and mailing address.
 image: philip-lawrence.jpeg
 video:
-url: /canada/ontario/philip-lawrence
+url: /canada/ontario/philip-lawrence/
 weight: 1
 layout: course_home
 

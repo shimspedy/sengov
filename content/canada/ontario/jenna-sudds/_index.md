@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jenna Sudds of Ontario. Contact information for Jenna Sudds includes email address, phone number, and mailing address.
 image: jenna-sudds.jpeg
 video:
-url: /canada/ontario/jenna-sudds
+url: /canada/ontario/jenna-sudds/
 weight: 1
 layout: course_home
 

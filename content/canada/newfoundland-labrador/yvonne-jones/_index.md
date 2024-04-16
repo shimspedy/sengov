@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yvonne Jones of Newfoundland and Labrador. Contact information for Yvonne Jones includes email address, phone number, and mailing address.
 image: yvonne-jones.jpeg
 video:
-url: /canada/newfoundland-labrador/yvonne-jones
+url: /canada/newfoundland-labrador/yvonne-jones/
 weight: 1
 layout: course_home
 

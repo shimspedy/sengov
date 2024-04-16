@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Francesco Sorbara of Ontario. Contact information for Francesco Sorbara includes email address, phone number, and mailing address.
 image: francesco-sorbara.jpeg
 video:
-url: /canada/ontario/francesco-sorbara
+url: /canada/ontario/francesco-sorbara/
 weight: 1
 layout: course_home
 

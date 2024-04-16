@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chad Collins of Ontario. Contact information for Chad Collins includes email address, phone number, and mailing address.
 image: chad-collins.jpeg
 video:
-url: /canada/ontario/chad-collins
+url: /canada/ontario/chad-collins/
 weight: 1
 layout: course_home
 

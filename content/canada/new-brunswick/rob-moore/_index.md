@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Wayne Long of New Brunswick. Contact information for Wayne Long includes email address, phone number, and mailing address.
 image: rob-moore.jpeg
 video:
-url: /canada/new-brunswick/rob-moore
+url: /canada/new-brunswick/rob-moore/
 weight: 1
 layout: course_home
 

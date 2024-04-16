@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anita Anand of Ontario. Contact information for Anita Anand includes email address, phone number, and mailing address.
 image: anita-anand.jpeg
 video:
-url: /canada/ontario/anita-anand
+url: /canada/ontario/anita-anand/
 weight: 1
 layout: course_home
 

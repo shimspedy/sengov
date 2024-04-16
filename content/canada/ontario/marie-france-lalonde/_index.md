@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marie-France Lalonde of Ontario. Contact information for Marie-France Lalonde includes email address, phone number, and mailing address.
 image: marie-france-lalonde.jpeg
 video:
-url: /canada/ontario/marie-france-lalonde
+url: /canada/ontario/marie-france-lalonde/
 weight: 1
 layout: course_home
 

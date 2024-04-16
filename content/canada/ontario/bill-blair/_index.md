@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bill Blair of Ontario. Contact information for Bill Blair includes email address, phone number, and mailing address.
 image: bill-blair.jpeg
 video:
-url: /canada/ontario/bill-blair
+url: /canada/ontario/bill-blair/
 weight: 1
 layout: course_home
 

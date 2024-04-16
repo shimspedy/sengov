@@ -8,7 +8,7 @@ subheader:
 description: Contact representative John McKay of Ontario. Contact information for John McKay includes email address, phone number, and mailing address.
 image: john-mckay.jpeg
 video:
-url: /canada/ontario/john-mckay
+url: /canada/ontario/john-mckay/
 weight: 1
 layout: course_home
 

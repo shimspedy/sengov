@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lindsay Mathyssen of Ontario. Contact information for Lindsay Mathyssen includes email address, phone number, and mailing address.
 image: lindsay-mathyssen.jpeg
 video:
-url: /canada/ontario/lindsay-mathyssen
+url: /canada/ontario/lindsay-mathyssen/
 weight: 1
 layout: course_home
 

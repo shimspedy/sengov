@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Robert Oliphant of Ontario. Contact information for Robert Oliphant includes email address, phone number, and mailing address.
 image: robert-oliphant.jpeg
 video:
-url: /canada/ontario/robert-oliphant
+url: /canada/ontario/robert-oliphant/
 weight: 1
 layout: course_home
 

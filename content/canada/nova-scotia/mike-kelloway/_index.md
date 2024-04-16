@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mike Kelloway of Nova Scotia. Contact information for Mike Kelloway includes email address, phone number, and mailing address.
 image: mike-kelloway.jpeg
 video:
-url: /canada/nova-scotia/mike-kelloway
+url: /canada/nova-scotia/mike-kelloway/
 weight: 1
 layout: course_home
 

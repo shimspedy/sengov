@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jamie Schmale of Ontario. Contact information for Jamie Schmale includes email address, phone number, and mailing address.
 image: jamie-schmale.jpeg
 video:
-url: /canada/ontario/jamie-schmale
+url: /canada/ontario/jamie-schmale/
 weight: 1
 layout: course_home
 

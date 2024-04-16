@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ali Ehsassi of Ontario. Contact information for Ali Ehsassi includes email address, phone number, and mailing address.
 image: ali-ehsassi.jpeg
 video:
-url: /canada/ontario/ali-ehsassi
+url: /canada/ontario/ali-ehsassi/
 weight: 1
 layout: course_home
 

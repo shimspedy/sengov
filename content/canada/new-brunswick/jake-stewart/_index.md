@@ -7,7 +7,7 @@ subheader:
      description: Jake Daniel Stewart, born on March 10, 1978, is a Canadian politician renowned for his dedicated service to the people of New Brunswick. His political journey began with his election to the Legislative Assembly of New Brunswick in the provincial election of 2010, where he represented the esteemed electoral district of Southwest Miramichi. As a member of the Progressive Conservatives, Stewart swiftly became a respected figure within the political landscape.
 image: jake-stewart.jpeg
 video:
-url: /canada/new-brunswick/jake-stewart
+url: /canada/new-brunswick/jake-stewart/
 weight: 1
 layout: course_home
 

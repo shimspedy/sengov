@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michael Coteau of Ontario. Contact information for Michael Coteau includes email address, phone number, and mailing address.
 image: michael-coteau.jpeg
 video:
-url: /canada/ontario/michael-coteau
+url: /canada/ontario/michael-coteau/
 weight: 1
 layout: course_home
 

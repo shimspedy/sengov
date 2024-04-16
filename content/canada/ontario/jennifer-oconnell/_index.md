@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jennifer O'Connell of Ontario. Contact information for Jennifer O'Connell includes email address, phone number, and mailing address.
 image: jennifer-oconnell.jpeg
 video:
-url: /canada/ontario/jennifer-oconnell
+url: /canada/ontario/jennifer-oconnell/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Charlie Angus of Ontario. Contact information for Charlie Angus includes email address, phone number, and mailing address.
 image: charlie-angus.jpeg
 video:
-url: /canada/ontario/charlie-angus
+url: /canada/ontario/charlie-angus/
 weight: 1
 layout: course_home
 

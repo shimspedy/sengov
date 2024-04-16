@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Adam van Koeverden of Ontario. Contact information for Adam van Koeverden includes email address, phone number, and mailing address.
 image: adam-van-koeverden.jpeg
 video:
-url: /canada/ontario/adam-van-koeverden
+url: /canada/ontario/adam-van-koeverden/
 weight: 1
 layout: course_home
 

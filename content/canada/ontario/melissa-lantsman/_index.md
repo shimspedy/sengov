@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Melissa Lantsman of Ontario. Contact information for Melissa Lantsman includes email address, phone number, and mailing address.
 image: melissa-lantsman.jpeg
 video:
-url: /canada/ontario/melissa-lantsman
+url: /canada/ontario/melissa-lantsman/
 weight: 1
 layout: course_home
 

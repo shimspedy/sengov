@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dan Vandal of British Columbia. Contact information for Dan Vandal includes email address, phone number, and mailing address.
 image: dan-vandal.jpeg
 video:
-url: /canada/manitoba/dan-vandal
+url: /canada/manitoba/dan-vandal/
 weight: 1
 layout: course_home
 

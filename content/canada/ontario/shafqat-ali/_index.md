@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Shafqat Ali of Ontario. Contact information for Shafqat Ali includes email address, phone number, and mailing address.
 image: shafqat-ali.jpeg
 video:
-url: /canada/ontario/shafqat-ali
+url: /canada/ontario/shafqat-ali/
 weight: 1
 layout: course_home
 

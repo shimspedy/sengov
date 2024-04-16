@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ahmed Hussen of Ontario. Contact information for Ahmed Hussen includes email address, phone number, and mailing address.
 image: ahmed-hussen.jpeg
 video:
-url: /canada/ontario/ahmed-hussen
+url: /canada/ontario/ahmed-hussen/
 weight: 1
 layout: course_home
 

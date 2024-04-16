@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Matthew Green of Ontario. Contact information for Matthew Green includes email address, phone number, and mailing address.
 image: matthew-green.jpeg
 video:
-url: /canada/ontario/matthew-green
+url: /canada/ontario/matthew-green/
 weight: 1
 layout: course_home
 

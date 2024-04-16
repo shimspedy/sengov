@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Arif Virani of Ontario. Contact information for Arif Virani includes email address, phone number, and mailing address.
 image: arif-virani.jpeg
 video:
-url: /canada/ontario/arif-virani
+url: /canada/ontario/arif-virani/
 weight: 1
 layout: course_home
 

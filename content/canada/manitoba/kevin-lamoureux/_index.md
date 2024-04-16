@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kevin Lamoureux of British Columbia. Contact information for Kevin Lamoureux includes email address, phone number, and mailing address.
 image: kevin-lamoureux.jpeg
 video:
-url: /canada/manitoba/kevin-lamoureux
+url: /canada/manitoba/kevin-lamoureux/
 weight: 1
 layout: course_home
 

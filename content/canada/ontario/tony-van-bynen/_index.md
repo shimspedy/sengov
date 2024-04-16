@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Tony Van Bynen of Ontario. Contact information for Tony Van Bynen includes email address, phone number, and mailing address.
 image: tony-van-bynen.jpeg
 video:
-url: /canada/ontario/tony-van-bynen
+url: /canada/ontario/tony-van-bynen/
 weight: 1
 layout: course_home
 

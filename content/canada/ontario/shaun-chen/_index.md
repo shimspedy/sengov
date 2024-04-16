@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Shaun Chen of Ontario. Contact information for Shaun Chen includes email address, phone number, and mailing address.
 image: shaun-chen.jpeg
 video:
-url: /canada/ontario/shaun-chen
+url: /canada/ontario/shaun-chen/
 weight: 1
 layout: course_home
 

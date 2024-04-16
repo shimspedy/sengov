@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Julie Dabrusin of Ontario. Contact information for Julie Dabrusin includes email address, phone number, and mailing address.
 image: julie-dabrusin.jpeg
 video:
-url: /canada/ontario/julie-dabrusin
+url: /canada/ontario/julie-dabrusin/
 weight: 1
 layout: course_home
 

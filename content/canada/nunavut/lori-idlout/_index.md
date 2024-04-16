@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lori Idlout of Nunavut. Contact information for Lori Idlout includes email address, phone number, and mailing address.
 image: lori-idlout.jpeg
 video:
-url: /canada/nunavut/lori-idlout
+url: /canada/nunavut/lori-idlout/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dave Epp of Ontario. Contact information for Dave Epp includes email address, phone number, and mailing address.
 image: dave-epp.jpeg
 video:
-url: /canada/ontario/dave-epp
+url: /canada/ontario/dave-epp/
 weight: 1
 layout: course_home
 

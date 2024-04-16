@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ya'ara Saks of Ontario. Contact information for Ya'ara Saks includes email address, phone number, and mailing address.
 image: yaara-saks.jpeg
 video:
-url: /canada/ontario/yaara-saks
+url: /canada/ontario/yaara-saks/
 weight: 1
 layout: course_home
 

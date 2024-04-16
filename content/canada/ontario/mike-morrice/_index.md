@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mike Morrice of Ontario. Contact information for Mike Morrice includes email address, phone number, and mailing address.
 image: mike-morrice.jpeg
 video:
-url: /canada/ontario/mike-morrice
+url: /canada/ontario/mike-morrice/
 weight: 1
 layout: course_home
 

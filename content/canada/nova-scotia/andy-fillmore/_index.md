@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Andy Fillmore of Nova Scotia. Contact information for Andy Fillmore includes email address, phone number, and mailing address.
 image: andy-fillmore.jpeg
 video:
-url: /canada/nova-scotia/andy-fillmore
+url: /canada/nova-scotia/andy-fillmore/
 weight: 1
 layout: course_home
 

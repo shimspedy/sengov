@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Karen Vecchio of Ontario. Contact information for Karen Vecchio includes email address, phone number, and mailing address.
 image: karen-vecchio.jpeg
 video:
-url: /canada/ontario/karen-vecchio
+url: /canada/ontario/karen-vecchio/
 weight: 1
 layout: course_home
 

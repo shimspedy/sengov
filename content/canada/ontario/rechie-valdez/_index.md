@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rechie Valdez of Ontario. Contact information for Rechie Valdez includes email address, phone number, and mailing address.
 image: rechie-valdez.jpeg
 video:
-url: /canada/ontario/rechie-valdez
+url: /canada/ontario/rechie-valdez/
 weight: 1
 layout: course_home
 

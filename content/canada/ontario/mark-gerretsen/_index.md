@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mark Gerretsen of Ontario. Contact information for Mark Gerretsen includes email address, phone number, and mailing address.
 image: mark-gerretsen.jpeg
 video:
-url: /canada/ontario/mark-gerretsen
+url: /canada/ontario/mark-gerretsen/
 weight: 1
 layout: course_home
 

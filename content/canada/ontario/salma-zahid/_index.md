@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Salma Zahid of Ontario. Contact information for Salma Zahid includes email address, phone number, and mailing address.
 image: salma-zahid.jpeg
 video:
-url: /canada/ontario/salma-zahid
+url: /canada/ontario/salma-zahid/
 weight: 1
 layout: course_home
 

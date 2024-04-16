@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chrystia Freeland of Ontario. Contact information for Chrystia Freeland includes email address, phone number, and mailing address.
 image: chrystia-freeland.jpeg
 video:
-url: /canada/ontario/chrystia-freeland
+url: /canada/ontario/chrystia-freeland/
 weight: 1
 layout: course_home
 

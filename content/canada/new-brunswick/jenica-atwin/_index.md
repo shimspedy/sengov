@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jenica Atwin of New Brunswick. Contact information for Jenica Atwin includes email address, phone number, and mailing address.
 image: jenica-atwin.jpeg
 video:
-url: /canada/new-brunswick/jenica-atwin
+url: /canada/new-brunswick/jenica-atwin/
 weight: 1
 layout: course_home
 

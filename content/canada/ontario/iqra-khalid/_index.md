@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Iqra Khalid of Ontario. Contact information for Iqra Khalid includes email address, phone number, and mailing address.
 image: iqra-khalid.jpeg
 video:
-url: /canada/ontario/iqra-khalid
+url: /canada/ontario/iqra-khalid/
 weight: 1
 layout: course_home
 

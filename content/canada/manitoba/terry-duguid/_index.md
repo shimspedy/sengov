@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Terry Duguid of British Columbia. Contact information for Terry Duguid includes email address, phone number, and mailing address.
 image: terry-duguid.jpeg
 video:
-url: /canada/manitoba/terry-duguid
+url: /canada/manitoba/terry-duguid/
 weight: 1
 layout: course_home
 

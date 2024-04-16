@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Larry Brock of Ontario. Contact information for Larry Brock includes email address, phone number, and mailing address.
 image: larry-brock.jpeg
 video:
-url: /canada/ontario/larry-brock
+url: /canada/ontario/larry-brock/
 weight: 1
 layout: course_home
 

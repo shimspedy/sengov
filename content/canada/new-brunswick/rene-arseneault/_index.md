@@ -8,7 +8,7 @@ subheader:
 description: Contact representative René Arseneault of New Brunswick. Contact information for René Arseneault includes email address, phone number, and mailing address.
 image: rene-arseneault.jpeg
 video:
-url: /canada/new-brunswick/rene-arseneault
+url: /canada/new-brunswick/rene-arseneault/
 weight: 1
 layout: course_home
 

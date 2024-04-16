@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dominic LeBlanc of New Brunswick. Contact information for Dominic LeBlanc includes email address, phone number, and mailing address.
 image: dominic-leblanc.jpeg
 video:
-url: /canada/new-brunswick/dominic-leblanc
+url: /canada/new-brunswick/dominic-leblanc/
 weight: 1
 layout: course_home
 

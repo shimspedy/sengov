@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Leslyn Lewis of Ontario. Contact information for Leslyn Lewis includes email address, phone number, and mailing address.
 image: leslyn-lewis.jpeg
 video:
-url: /canada/ontario/leslyn-lewis
+url: /canada/ontario/leslyn-lewis/
 weight: 1
 layout: course_home
 

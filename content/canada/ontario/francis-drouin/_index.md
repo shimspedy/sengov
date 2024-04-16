@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Francis Drouin of Ontario. Contact information for Francis Drouin includes email address, phone number, and mailing address.
 image: francis-drouin.jpeg
 video:
-url: /canada/ontario/francis-drouin
+url: /canada/ontario/francis-drouin/
 weight: 1
 layout: course_home
 

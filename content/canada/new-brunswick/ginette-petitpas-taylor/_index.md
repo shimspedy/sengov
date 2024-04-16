@@ -7,7 +7,7 @@ subheader:
      description: Marie Ginette Petitpas Taylor PC MP, born in either 1968 or 1969, is a Canadian politician renowned for her contributions to public service. She currently serves as a Member of Parliament, representing the riding of Moncton—Riverview—Dieppe in the House of Commons of Canada.
 image: ginette-petitpas-taylor.jpeg
 video:
-url: /canada/new-brunswick/ginette-petitpas-taylor
+url: /canada/new-brunswick/ginette-petitpas-taylor/
 weight: 1
 layout: course_home
 

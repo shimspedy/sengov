@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Seamus O'Regan of Newfoundland and Labrador. Contact information for Seamus O'Regan includes email address, phone number, and mailing address.
 image: seamus-oregan.jpeg
 video:
-url: /canada/newfoundland-labrador/seamus-oregan
+url: /canada/newfoundland-labrador/seamus-oregan/
 weight: 1
 layout: course_home
 

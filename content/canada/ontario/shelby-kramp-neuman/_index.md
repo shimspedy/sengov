@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Shelby Kramp-Neuman of Ontario. Contact information for Shelby Kramp-Neuman includes email address, phone number, and mailing address.
 image: shelby-kramp-neuman.jpeg
 video:
-url: /canada/ontario/shelby-kramp-neuman
+url: /canada/ontario/shelby-kramp-neuman/
 weight: 1
 layout: course_home
 

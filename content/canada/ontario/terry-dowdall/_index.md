@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Terry Dowdall of Ontario. Contact information for Terry Dowdall includes email address, phone number, and mailing address.
 image: terry-dowdall.jpeg
 video:
-url: /canada/ontario/terry-dowdall
+url: /canada/ontario/terry-dowdall/
 weight: 1
 layout: course_home
 

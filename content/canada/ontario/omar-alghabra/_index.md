@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Omar Alghabra of Ontario. Contact information for Omar Alghabra includes email address, phone number, and mailing address.
 image: omar-alghabra.jpeg
 video:
-url: /canada/ontario/omar-alghabra
+url: /canada/ontario/omar-alghabra/
 weight: 1
 layout: course_home
 

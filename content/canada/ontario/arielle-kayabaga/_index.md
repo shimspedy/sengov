@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Arielle Kayabaga of Ontario. Contact information for Arielle Kayabaga includes email address, phone number, and mailing address.
 image: arielle-kayabaga.jpeg
 video:
-url: /canada/ontario/arielle-kayabaga
+url: /canada/ontario/arielle-kayabaga/
 weight: 1
 layout: course_home
 

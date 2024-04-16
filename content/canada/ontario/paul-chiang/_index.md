@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Paul Chiang of Ontario. Contact information for Paul Chiang includes email address, phone number, and mailing address.
 image: paul-chiang.jpeg
 video:
-url: /canada/ontario/paul-chiang
+url: /canada/ontario/paul-chiang/
 weight: 1
 layout: course_home
 

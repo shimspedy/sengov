@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lena Metlege Diabt of Nova Scotia. Contact information for Lena Metlege Diabt includes email address, phone number, and mailing address.
 image: lena-metlege-diab.jpeg
 video:
-url: /canada/nova-scotia/lena-metlege-diab
+url: /canada/nova-scotia/lena-metlege-diab/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative John Brassard of Ontario. Contact information for John Brassard includes email address, phone number, and mailing address.
 image: john-brassard.jpeg
 video:
-url: /canada/ontario/john-brassard
+url: /canada/ontario/john-brassard/
 weight: 1
 layout: course_home
 

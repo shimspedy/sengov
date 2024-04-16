@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michael V. McLeod of Northwest Territories. Contact information for Michael V. McLeod includes email address, phone number, and mailing address.
 image: michael-v-mcleod.jpeg
 video:
-url: /canada/northwest-territories/michael-v-mcleod
+url: /canada/northwest-territories/michael-v-mcleod/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marcus Powlowski of Ontario. Contact information for Marcus Powlowski includes email address, phone number, and mailing address.
 image: marcus-powlowski.jpeg
 video:
-url: /canada/ontario/marcus-powlowski
+url: /canada/ontario/marcus-powlowski/
 weight: 1
 layout: course_home
 

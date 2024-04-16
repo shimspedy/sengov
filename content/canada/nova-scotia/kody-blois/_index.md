@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kody Blois of Nova Scotia. Contact information for Kody Blois includes email address, phone number, and mailing address.
 image: kody-blois.jpeg
 video:
-url: /canada/nova-scotia/kody-blois
+url: /canada/nova-scotia/kody-blois/
 weight: 1
 layout: course_home
 

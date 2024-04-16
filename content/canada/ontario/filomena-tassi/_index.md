@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Filomena Tassi of Ontario. Contact information for Filomena Tassi includes email address, phone number, and mailing address.
 image: filomena-tassi.jpeg
 video:
-url: /canada/ontario/filomena-tassi
+url: /canada/ontario/filomena-tassi/
 weight: 1
 layout: course_home
 

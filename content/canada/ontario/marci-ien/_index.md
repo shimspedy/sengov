@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marci Ien of Ontario. Contact information for Marci Ien includes email address, phone number, and mailing address.
 image: marci-ien.jpeg
 video:
-url: /canada/ontario/marci-ien
+url: /canada/ontario/marci-ien/
 weight: 1
 layout: course_home
 

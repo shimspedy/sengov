@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lloyd Longfield of Ontario. Contact information for Lloyd Longfield includes email address, phone number, and mailing address.
 image: tim-louis.jpeg
 video:
-url: /canada/ontario/tim-louis
+url: /canada/ontario/tim-louis/
 weight: 1
 layout: course_home
 

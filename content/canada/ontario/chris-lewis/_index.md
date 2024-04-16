@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chris Lewis of Ontario. Contact information for Chris Lewis includes email address, phone number, and mailing address.
 image: chris-lewis.jpeg
 video:
-url: /canada/ontario/chris-lewis
+url: /canada/ontario/chris-lewis/
 weight: 1
 layout: course_home
 

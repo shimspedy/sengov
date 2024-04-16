@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Peter Fragiskatos of Ontario. Contact information for Peter Fragiskatos includes email address, phone number, and mailing address.
 image: peter-fragiskatos.jpeg
 video:
-url: /canada/ontario/peter-fragiskatos
+url: /canada/ontario/peter-fragiskatos/
 weight: 1
 layout: course_home
 

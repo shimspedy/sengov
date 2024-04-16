@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Churence Rogers of Newfoundland and Labrador. Contact information for Churence Rogers includes email address, phone number, and mailing address.
 image: churence-rogers.jpeg
 video:
-url: /canada/newfoundland-labrador/churence-rogers
+url: /canada/newfoundland-labrador/churence-rogers/
 weight: 1
 layout: course_home
 

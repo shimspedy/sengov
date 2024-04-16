@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Cheryl Gallant of Ontario. Contact information for Cheryl Gallant includes email address, phone number, and mailing address.
 image: cheryl-gallant.jpeg
 video:
-url: /canada/ontario/cheryl-gallant
+url: /canada/ontario/cheryl-gallant/
 weight: 1
 layout: course_home
 

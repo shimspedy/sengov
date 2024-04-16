@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chris Bittle of Ontario. Contact information for Chris Bittle includes email address, phone number, and mailing address.
 image: chris-bittle.jpeg
 video:
-url: /canada/ontario/chris-bittle
+url: /canada/ontario/chris-bittle/
 weight: 1
 layout: course_home
 

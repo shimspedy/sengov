@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Judy A. Sgro of Ontario. Contact information for Judy A. Sgro includes email address, phone number, and mailing address.
 image: judy-a-sgro.jpeg
 video:
-url: /canada/ontario/judy-a-sgro
+url: /canada/ontario/judy-a-sgro/
 weight: 1
 layout: course_home
 

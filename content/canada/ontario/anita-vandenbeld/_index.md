@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anita Vandenbeld of Ontario. Contact information for Anita Vandenbeld includes email address, phone number, and mailing address.
 image: anita-vandenbeld.jpeg
 video:
-url: /canada/ontario/anita-vandenbeld
+url: /canada/ontario/anita-vandenbeld/
 weight: 1
 layout: course_home
 

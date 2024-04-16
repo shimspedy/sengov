@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Scott Aitchison of Ontario. Contact information for Scott Aitchison includes email address, phone number, and mailing address.
 image: scott-aitchison.jpeg
 video:
-url: /canada/ontario/scott-aitchison
+url: /canada/ontario/scott-aitchison/
 weight: 1
 layout: course_home
 

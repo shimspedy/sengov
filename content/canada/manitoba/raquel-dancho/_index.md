@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Raquel Dancho of British Columbia. Contact information for Raquel Dancho includes email address, phone number, and mailing address.
 image: raquel-dancho.jpeg
 video:
-url: /canada/manitoba/raquel-dancho
+url: /canada/manitoba/raquel-dancho/
 weight: 1
 layout: course_home
 

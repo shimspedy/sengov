@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Joanne Thompson of Newfoundland and Labrador. Contact information for Joanne Thompson includes email address, phone number, and mailing address.
 image: joanne-thompson.jpeg
 video:
-url: /canada/newfoundland-labrador/joanne-thompson
+url: /canada/newfoundland-labrador/joanne-thompson/
 weight: 1
 layout: course_home
 

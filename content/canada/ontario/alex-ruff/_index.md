@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Alex Ruff of Ontario. Contact information for Alex Ruff includes email address, phone number, and mailing address.
 image: alex-ruff.jpeg
 video:
-url: /canada/ontario/alex-ruff
+url: /canada/ontario/alex-ruff/
 weight: 1
 layout: course_home
 

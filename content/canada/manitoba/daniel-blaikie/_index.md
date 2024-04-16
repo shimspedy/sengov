@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Daniel Blaikie of British Columbia. Contact information for Daniel Blaikie includes email address, phone number, and mailing address.
 image: daniel-blaikie.jpeg
 video:
-url: /canada/manitoba/daniel-blaikie
+url: /canada/manitoba/daniel-blaikie/
 weight: 1
 layout: course_home
 

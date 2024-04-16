@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ruby Sahota of Ontario. Contact information for Ruby Sahota includes email address, phone number, and mailing address.
 image: ruby-sahota.jpeg
 video:
-url: /canada/ontario/ruby-sahota
+url: /canada/ontario/ruby-sahota/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pam Damoff of Ontario. Contact information for Pam Damoff includes email address, phone number, and mailing address.
 image: pam-damoff.jpeg
 video:
-url: /canada/ontario/pam-damoff
+url: /canada/ontario/pam-damoff/
 weight: 1
 layout: course_home
 

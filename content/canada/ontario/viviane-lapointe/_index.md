@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Viviane Lapointe of Ontario. Contact information for Viviane Lapointe includes email address, phone number, and mailing address.
 image: viviane-lapointe.jpeg
 video:
-url: /canada/ontario/viviane-lapointe
+url: /canada/ontario/viviane-lapointe/
 weight: 1
 layout: course_home
 

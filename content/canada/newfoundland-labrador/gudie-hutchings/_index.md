@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gudie Hutchings of Newfoundland and Labrador. Contact information for Gudie Hutchings includes email address, phone number, and mailing address.
 image: gudie-hutchings.jpeg
 video:
-url: /canada/newfoundland-labrador/gudie-hutchings
+url: /canada/newfoundland-labrador/gudie-hutchings/
 weight: 1
 layout: course_home
 

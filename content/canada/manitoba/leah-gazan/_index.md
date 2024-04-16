@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Leah Gazan of British Columbia. Contact information for Leah Gazan includes email address, phone number, and mailing address.
 image: leah-gazan.jpeg
 video:
-url: /canada/manitoba/leah-gazan
+url: /canada/manitoba/leah-gazan/
 weight: 1
 layout: course_home
 

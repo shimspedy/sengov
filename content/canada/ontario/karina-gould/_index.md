@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Karina Gould of Ontario. Contact information for Karina Gould includes email address, phone number, and mailing address.
 image: karina-gould.jpeg
 video:
-url: /canada/ontario/karina-gould
+url: /canada/ontario/karina-gould/
 weight: 1
 layout: course_home
 

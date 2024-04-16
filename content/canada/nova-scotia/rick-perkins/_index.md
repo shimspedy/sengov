@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Rick Perkins of Nova Scotia. Contact information for Rick Perkins includes email address, phone number, and mailing address.
 image: rick-perkins.jpeg
 video:
-url: /canada/nova-scotia/rick-perkins
+url: /canada/nova-scotia/rick-perkins/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michael D. Chong of Ontario. Contact information for Michael D. Chong includes email address, phone number, and mailing address.
 image: michael-d-chong.jpeg
 video:
-url: /canada/ontario/michael-d-chong
+url: /canada/ontario/michael-d-chong/
 weight: 1
 layout: course_home
 

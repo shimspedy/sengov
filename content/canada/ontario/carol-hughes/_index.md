@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Carol Hughes of Ontario. Contact information for Carol Hughes includes email address, phone number, and mailing address.
 image: carol-hughes.jpeg
 video:
-url: /canada/ontario/carol-hughes
+url: /canada/ontario/carol-hughes/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Eric Melillo of Ontario. Contact information for Eric Melillo includes email address, phone number, and mailing address.
 image: eric-melillo.jpeg
 video:
-url: /canada/ontario/eric-melillo
+url: /canada/ontario/eric-melillo/
 weight: 1
 layout: course_home
 

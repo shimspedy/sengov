@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Erin O'Toole of Ontario. Contact information for Erin O'Toole includes email address, phone number, and mailing address.
 image: erin-otoole.jpeg
 video:
-url: /canada/ontario/erin-otoole
+url: /canada/ontario/erin-otoole/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Serge Cormier of New Brunswick. Contact information for Serge Cormier includes email address, phone number, and mailing address.
 image: serge-cormier.jpeg
 video:
-url: /canada/new-brunswick/serge-cormier
+url: /canada/new-brunswick/serge-cormier/
 weight: 1
 layout: course_home
 

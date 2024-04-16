@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Gary Anandasangaree of Ontario. Contact information for Gary Anandasangaree includes email address, phone number, and mailing address.
 image: gary-anandasangaree.jpeg
 video:
-url: /canada/ontario/gary-anandasangaree
+url: /canada/ontario/gary-anandasangaree/
 weight: 1
 layout: course_home
 

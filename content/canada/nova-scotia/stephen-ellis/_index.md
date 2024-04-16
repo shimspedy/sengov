@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Stephen Ellis of Nova Scotia. Contact information for Stephen Ellis includes email address, phone number, and mailing address.
 image: stephen-ellis.jpeg
 video:
-url: /canada/nova-scotia/stephen-ellis
+url: /canada/nova-scotia/stephen-ellis/
 weight: 1
 layout: course_home
 

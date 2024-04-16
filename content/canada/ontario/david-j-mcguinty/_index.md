@@ -8,7 +8,7 @@ subheader:
 description: Contact representative David J. McGuinty of Ontario. Contact information for David J. McGuinty includes email address, phone number, and mailing address.
 image: david-j-mcguinty.jpeg
 video:
-url: /canada/ontario/david-j-mcguinty
+url: /canada/ontario/david-j-mcguinty/
 weight: 1
 layout: course_home
 

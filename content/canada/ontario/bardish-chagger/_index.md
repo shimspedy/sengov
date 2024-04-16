@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bardish Chagger of Ontario. Contact information for Bardish Chagger includes email address, phone number, and mailing address.
 image: bardish-chagger.jpeg
 video:
-url: /canada/ontario/bardish-chagger
+url: /canada/ontario/bardish-chagger/
 weight: 1
 layout: course_home
 

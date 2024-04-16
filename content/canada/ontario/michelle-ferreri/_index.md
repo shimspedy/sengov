@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Michelle Ferreri of Ontario. Contact information for Michelle Ferreri includes email address, phone number, and mailing address.
 image: michelle-ferreri.jpeg
 video:
-url: /canada/ontario/michelle-ferreri
+url: /canada/ontario/michelle-ferreri/
 weight: 1
 layout: course_home
 

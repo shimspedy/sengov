@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Scot Davidson of Ontario. Contact information for Scot Davidson includes email address, phone number, and mailing address.
 image: scot-davidson.jpeg
 video:
-url: /canada/ontario/scot-davidson
+url: /canada/ontario/scot-davidson/
 weight: 1
 layout: course_home
 

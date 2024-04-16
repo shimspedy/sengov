@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marilyn Gladu of Ontario. Contact information for Marilyn Gladu includes email address, phone number, and mailing address.
 image: marilyn-gladu.jpeg
 video:
-url: /canada/ontario/marilyn-gladu
+url: /canada/ontario/marilyn-gladu/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lianne Rood of Ontario. Contact information for Lianne Rood includes email address, phone number, and mailing address.
 image: lianne-rood.jpeg
 video:
-url: /canada/ontario/lianne-rood
+url: /canada/ontario/lianne-rood/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yasir Naqvi of Ontario. Contact information for Yasir Naqvi includes email address, phone number, and mailing address.
 image: yasir-naqvi.jpeg
 video:
-url: /canada/ontario/yasir-naqvi
+url: /canada/ontario/yasir-naqvi/
 weight: 1
 layout: course_home
 

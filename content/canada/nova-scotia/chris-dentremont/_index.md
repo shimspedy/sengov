@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chris d'Entremont of Nova Scotia. Contact information for Chris d'Entremont includes email address, phone number, and mailing address.
 image: chris-dentremont.jpeg
 video:
-url: /canada/nova-scotia/chris-dentremont
+url: /canada/nova-scotia/chris-dentremont/
 weight: 1
 layout: course_home
 

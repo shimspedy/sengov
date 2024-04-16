@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Scott Reid of Ontario. Contact information for Scott Reid includes email address, phone number, and mailing address.
 image: scott-reid.jpeg
 video:
-url: /canada/ontario/scott-reid
+url: /canada/ontario/scott-reid/
 weight: 1
 layout: course_home
 

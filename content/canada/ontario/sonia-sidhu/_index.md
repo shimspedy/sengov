@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sonia Sidhu of Ontario. Contact information for Sonia Sidhu includes email address, phone number, and mailing address.
 image: sonia-sidhu.jpeg
 video:
-url: /canada/ontario/sonia-sidhu
+url: /canada/ontario/sonia-sidhu/
 weight: 1
 layout: course_home
 

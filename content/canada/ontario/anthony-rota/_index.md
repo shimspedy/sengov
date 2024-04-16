@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Anthony Rota of Ontario. Contact information for Anthony Rota includes email address, phone number, and mailing address.
 image: anthony-rota.jpeg
 video:
-url: /canada/ontario/anthony-rota
+url: /canada/ontario/anthony-rota/
 weight: 1
 layout: course_home
 

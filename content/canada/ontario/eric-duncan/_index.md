@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Eric Duncan of Ontario. Contact information for Eric Duncan includes email address, phone number, and mailing address.
 image: eric-duncan.jpeg
 video:
-url: /canada/ontario/eric-duncan
+url: /canada/ontario/eric-duncan/
 weight: 1
 layout: course_home
 

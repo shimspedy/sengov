@@ -7,7 +7,7 @@ subheader:
      description: John S. L. Williamson MP, born on January 30, 1970, is a Canadian politician who has made significant contributions to public service. He currently serves as a Member of Parliament for the riding of New Brunswick Southwest in the House of Commons of Canada, representing the Conservative Party of Canada since 2019. Prior to his current tenure, he represented the same riding from 2011 until his defeat in the 2015 election, after which he was re-elected in 2019.
 image: john-williamson.jpeg
 video:
-url: /canada/new-brunswick/john-williamson
+url: /canada/new-brunswick/john-williamson/
 weight: 1
 layout: course_home
 

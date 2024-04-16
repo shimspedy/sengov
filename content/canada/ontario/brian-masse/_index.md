@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Brian Masse of Ontario. Contact information for Brian Masse includes email address, phone number, and mailing address.
 image: brian-masse.jpeg
 video:
-url: /canada/ontario/brian-masse
+url: /canada/ontario/brian-masse/
 weight: 1
 layout: course_home
 

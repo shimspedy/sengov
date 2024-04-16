@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marco Mendicino of Ontario. Contact information for Marco Mendicino includes email address, phone number, and mailing address.
 image: marco-mendicino.jpeg
 video:
-url: /canada/ontario/marco-mendicino
+url: /canada/ontario/marco-mendicino/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ben Lobb of Ontario. Contact information for Ben Lobb includes email address, phone number, and mailing address.
 image: ben-lobb.jpeg
 video:
-url: /canada/ontario/ben-lobb
+url: /canada/ontario/ben-lobb/
 weight: 1
 layout: course_home
 

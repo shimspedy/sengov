@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Iqwinder Gaheer of Ontario. Contact information for Iqwinder Gaheer includes email address, phone number, and mailing address.
 image: iqwinder-gaheer.jpeg
 video:
-url: /canada/ontario/iqwinder-gaheer
+url: /canada/ontario/iqwinder-gaheer/
 weight: 1
 layout: course_home
 

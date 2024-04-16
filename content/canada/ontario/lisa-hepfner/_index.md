@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Lisa Hepfner of Ontario. Contact information for Lisa Hepfner includes email address, phone number, and mailing address.
 image: lisa-hepfner.jpeg
 video:
-url: /canada/ontario/lisa-hepfner
+url: /canada/ontario/lisa-hepfner/
 weight: 1
 layout: course_home
 

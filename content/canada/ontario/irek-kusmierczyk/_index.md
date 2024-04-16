@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Irek Kusmierczyk of Ontario. Contact information for Irek Kusmierczyk includes email address, phone number, and mailing address.
 image: irek-kusmierczyk.jpeg
 video:
-url: /canada/ontario/irek-kusmierczyk
+url: /canada/ontario/irek-kusmierczyk/
 weight: 1
 layout: course_home
 

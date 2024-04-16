@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dean Allison of Ontario. Contact information for Dean Allison includes email address, phone number, and mailing address.
 image: dean-allison.jpeg
 video:
-url: /canada/ontario/dean-allison
+url: /canada/ontario/dean-allison/
 weight: 1
 layout: course_home
 

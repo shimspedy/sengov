@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mark Holland of Ontario. Contact information for Mark Holland includes email address, phone number, and mailing address.
 image: mark-holland.jpeg
 video:
-url: /canada/ontario/mark-holland
+url: /canada/ontario/mark-holland/
 weight: 1
 layout: course_home
 

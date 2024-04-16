@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kirsty Duncan of Ontario. Contact information for Kirsty Duncan includes email address, phone number, and mailing address.
 image: kirsty-duncan.jpeg
 video:
-url: /canada/ontario/kirsty-duncan
+url: /canada/ontario/kirsty-duncan/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ryan Williams of Ontario. Contact information for Ryan Williams includes email address, phone number, and mailing address.
 image: ryan-williams.jpeg
 video:
-url: /canada/ontario/ryan-williams
+url: /canada/ontario/ryan-williams/
 weight: 1
 layout: course_home
 

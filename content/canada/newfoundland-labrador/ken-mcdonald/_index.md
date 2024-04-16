@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ken McDonald of Newfoundland and Labrador. Contact information for Ken McDonald includes email address, phone number, and mailing address.
 image: ken-mcdonald.jpeg
 video:
-url: /canada/newfoundland-labrador/ken-mcdonald
+url: /canada/newfoundland-labrador/ken-mcdonald/
 weight: 1
 layout: course_home
 

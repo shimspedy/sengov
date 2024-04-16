@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Peter Fonseca of Ontario. Contact information for Peter Fonseca includes email address, phone number, and mailing address.
 image: peter-fonseca.jpeg
 video:
-url: /canada/ontario/peter-fonseca
+url: /canada/ontario/peter-fonseca/
 weight: 1
 layout: course_home
 

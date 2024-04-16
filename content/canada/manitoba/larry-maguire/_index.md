@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Larry Maguire of British Columbia. Contact information for Larry Maguire includes email address, phone number, and mailing address.
 image: larry-maguire.jpeg
 video:
-url: /canada/manitoba/larry-maguire
+url: /canada/manitoba/larry-maguire/
 weight: 1
 layout: course_home
 

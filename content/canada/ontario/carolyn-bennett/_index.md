@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Carolyn Bennett of Ontario. Contact information for Carolyn Bennett includes email address, phone number, and mailing address.
 image: carolyn-bennett.jpeg
 video:
-url: /canada/ontario/carolyn-bennett
+url: /canada/ontario/carolyn-bennett/
 weight: 1
 layout: course_home
 

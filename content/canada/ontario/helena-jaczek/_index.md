@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Helena Jaczek of Ontario. Contact information for Helena Jaczek includes email address, phone number, and mailing address.
 image: helena-jaczek.jpeg
 video:
-url: /canada/ontario/helena-jaczek
+url: /canada/ontario/helena-jaczek/
 weight: 1
 layout: course_home
 

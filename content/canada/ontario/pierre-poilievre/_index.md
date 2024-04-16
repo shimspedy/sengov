@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Pierre Poilievre of Ontario. Contact information for Pierre Poilievre includes email address, phone number, and mailing address.
 image: pierre-poilievre.jpeg
 video:
-url: /canada/ontario/pierre-poilievre
+url: /canada/ontario/pierre-poilievre/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Leah Taylor Roy of Ontario. Contact information for Leah Taylor Roy includes email address, phone number, and mailing address.
 image: leah-taylor-roy.jpeg
 video:
-url: /canada/ontario/leah-taylor-roy
+url: /canada/ontario/leah-taylor-roy/
 weight: 1
 layout: course_home
 

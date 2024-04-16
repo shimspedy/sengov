@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Vance Badawey of Ontario. Contact information for Vance Badawey includes email address, phone number, and mailing address.
 image: vance-badawey.jpeg
 video:
-url: /canada/ontario/vance-badawey
+url: /canada/ontario/vance-badawey/
 weight: 1
 layout: course_home
 

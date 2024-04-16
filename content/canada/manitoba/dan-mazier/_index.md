@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Dan Mazier of British Columbia. Contact information for Dan Mazier includes email address, phone number, and mailing address.
 image: dan-mazier.jpeg
 video:
-url: /canada/manitoba/dan-mazier
+url: /canada/manitoba/dan-mazier/
 weight: 1
 layout: course_home
 

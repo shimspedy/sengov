@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Mary Ng of Ontario. Contact information for Mary Ng includes email address, phone number, and mailing address.
 image: mary-ng.jpeg
 video:
-url: /canada/ontario/mary-ng
+url: /canada/ontario/mary-ng/
 weight: 1
 layout: course_home
 

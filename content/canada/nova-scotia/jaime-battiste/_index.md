@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Jaime Battiste of Nova Scotia. Contact information for Jaime Battiste includes email address, phone number, and mailing address.
 image: jaime-battiste.jpeg
 video:
-url: /canada/nova-scotia/jaime-battiste
+url: /canada/nova-scotia/jaime-battiste/
 weight: 1
 layout: course_home
 

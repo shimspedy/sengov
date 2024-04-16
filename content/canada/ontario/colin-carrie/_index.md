@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Colin Carrie of Ontario. Contact information for Colin Carrie includes email address, phone number, and mailing address.
 image: colin-carrie.jpeg
 video:
-url: /canada/ontario/colin-carrie
+url: /canada/ontario/colin-carrie/
 weight: 1
 layout: course_home
 

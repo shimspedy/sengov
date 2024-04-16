@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Chandra Arya of Ontario. Contact information for Chandra Arya includes email address, phone number, and mailing address.
 image: chandra-arya.jpeg
 video:
-url: /canada/ontario/chandra-arya
+url: /canada/ontario/chandra-arya/
 weight: 1
 layout: course_home
 

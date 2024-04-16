@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Ted Falk of British Columbia. Contact information for Ted Falk includes email address, phone number, and mailing address.
 image: ted-falk.jpeg
 video:
-url: /canada/manitoba/ted-falk
+url: /canada/manitoba/ted-falk/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marty Morantz of British Columbia. Contact information for Marty Morantz includes email address, phone number, and mailing address.
 image: marty-morantz.jpeg
 video:
-url: /canada/manitoba/marty-morantz
+url: /canada/manitoba/marty-morantz/
 weight: 1
 layout: course_home
 

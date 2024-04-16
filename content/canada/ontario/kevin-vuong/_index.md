@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kevin Vuong of Ontario. Contact information for Kevin Vuong includes email address, phone number, and mailing address.
 image: kevin-vuong.jpeg
 video:
-url: /canada/ontario/kevin-vuong
+url: /canada/ontario/kevin-vuong/
 weight: 1
 layout: course_home
 

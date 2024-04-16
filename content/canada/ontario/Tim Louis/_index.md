@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Tim Louis of Ontario. Contact information for Tim Louis includes email address, phone number, and mailing address.
 image: tim-louis.jpeg
 video:
-url: /canada/ontario/tim-louis
+url: /canada/ontario/tim-louis/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Han Dong of Ontario. Contact information for Han Dong includes email address, phone number, and mailing address.
 image: han-dong.jpeg
 video:
-url: /canada/ontario/han-dong
+url: /canada/ontario/han-dong/
 weight: 1
 layout: course_home
 

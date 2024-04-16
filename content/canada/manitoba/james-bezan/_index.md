@@ -8,7 +8,7 @@ subheader:
 description: Contact representative James Bezan of British Columbia. Contact information for James Bezan includes email address, phone number, and mailing address.
 image: bezan-james.jpg
 video:
-url: /canada/manitoba/james-bezan
+url: /canada/manitoba/james-bezan/
 weight: 1
 layout: course_home
 

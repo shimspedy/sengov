@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Niki Ashton of British Columbia. Contact information for Niki Ashton includes email address, phone number, and mailing address.
 image: niki-ashton.jpeg
 video:
-url: /canada/manitoba/niki-ashton
+url: /canada/manitoba/niki-ashton/
 weight: 1
 layout: course_home
 

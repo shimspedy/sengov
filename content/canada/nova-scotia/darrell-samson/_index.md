@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Darrell Samson of Nova Scotia. Contact information for Darrell Samson includes email address, phone number, and mailing address.
 image: darrell-samson.jpeg
 video:
-url: /canada/nova-scotia/darrell-samson
+url: /canada/nova-scotia/darrell-samson/
 weight: 1
 layout: course_home
 

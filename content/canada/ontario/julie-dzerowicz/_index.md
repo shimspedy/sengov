@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Julie Dzerowicz of Ontario. Contact information for Julie Dzerowicz includes email address, phone number, and mailing address.
 image: julie-dzerowicz.jpeg
 video:
-url: /canada/ontario/julie-dzerowicz
+url: /canada/ontario/julie-dzerowicz/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Bryan May of Ontario. Contact information for Bryan May includes email address, phone number, and mailing address.
 image: bryan-may.jpeg
 video:
-url: /canada/ontario/bryan-may
+url: /canada/ontario/bryan-may/
 weight: 1
 layout: course_home
 

@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Charles Sousa of Ontario. Contact information for Charles Sousa includes email address, phone number, and mailing address.
 image: charles-sousa.jpeg
 video:
-url: /canada/ontario/charles-sousa
+url: /canada/ontario/charles-sousa/
 weight: 1
 layout: course_home
 

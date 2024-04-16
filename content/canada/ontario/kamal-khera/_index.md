@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Kamal Khera of Ontario. Contact information for Kamal Khera includes email address, phone number, and mailing address.
 image: kamal-khera.jpeg
 video:
-url: /canada/ontario/kamal-khera
+url: /canada/ontario/kamal-khera/
 weight: 1
 layout: course_home
 

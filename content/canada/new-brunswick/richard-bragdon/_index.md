@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Richard Bragdon of New Brunswick. Contact information for Richard Bragdon includes email address, phone number, and mailing address.
 image: richard-bragdon.jpeg
 video:
-url: /canada/new-brunswick/richard-bragdon
+url: /canada/new-brunswick/richard-bragdon/
 weight: 1
 layout: course_home
 

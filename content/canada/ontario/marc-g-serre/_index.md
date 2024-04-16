@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Marc G. Serré of Ontario. Contact information for Marc G. Serré includes email address, phone number, and mailing address.
 image: marc-g-serre.jpeg
 video:
-url: /canada/ontario/marc-g-serre
+url: /canada/ontario/marc-g-serre/
 weight: 1
 layout: course_home
 

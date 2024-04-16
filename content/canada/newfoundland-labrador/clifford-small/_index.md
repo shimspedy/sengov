@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Clifford Small of Newfoundland and Labrador. Contact information for Clifford Small includes email address, phone number, and mailing address.
 image: clifford-small.jpeg
 video:
-url: /canada/newfoundland-labrador/clifford-small
+url: /canada/newfoundland-labrador/clifford-small/
 weight: 1
 layout: course_home
 

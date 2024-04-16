@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Valerie Bradford of Ontario. Contact information for Valerie Bradford includes email address, phone number, and mailing address.
 image: valerie-bradford.jpeg
 video:
-url: /canada/ontario/valerie-bradford
+url: /canada/ontario/valerie-bradford/
 weight: 1
 layout: course_home
 

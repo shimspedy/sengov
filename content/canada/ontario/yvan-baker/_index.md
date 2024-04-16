@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Yvan Baker of Ontario. Contact information for Yvan Baker includes email address, phone number, and mailing address.
 image: yvan-baker.jpeg
 video:
-url: /canada/ontario/yvan-baker
+url: /canada/ontario/yvan-baker/
 weight: 1
 layout: course_home
 

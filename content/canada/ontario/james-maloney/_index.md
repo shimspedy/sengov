@@ -8,7 +8,7 @@ subheader:
 description: Contact representative James Maloney of Ontario. Contact information for James Maloney includes email address, phone number, and mailing address.
 image: james-maloney.jpeg
 video:
-url: /canada/ontario/james-maloney
+url: /canada/ontario/james-maloney/
 weight: 1
 layout: course_home
 

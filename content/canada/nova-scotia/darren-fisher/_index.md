@@ -8,7 +8,7 @@ subheader:
 description: Contact representative Sean Fraser of Nova Scotia. Contact information for Sean Fraser includes email address, phone number, and mailing address.
 image: sean-fraser.jpeg
 video:
-url: /canada/nova-scotia/sean-fraser
+url: /canada/nova-scotia/sean-fraser/
 weight: 1
 layout: course_home
 
