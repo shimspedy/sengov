@@ -148,7 +148,7 @@
         {{ partial "subheader" . }}
        
 
-        <h2> {{.Params.Name}} for {{.Params.Role}}</h2>
+        <h2>{{.Params.Role}}  {{.Params.Name}} </h2>
         <div class= "h-entry {{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
           style=" padding: 25px 20px 20px; border-radius: 6px; ">
           {{ partial "nav/table-of-contents" . }}
