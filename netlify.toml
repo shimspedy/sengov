@@ -33,3 +33,6 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[[plugins]]
+package = "./plugins/netlify-purge-cloudflare-on-deploy"
