@@ -4,7 +4,7 @@ title: "Mike Moser"
 seo_title: "contact Senator Mike Moser"
 subheader:
      greeting: Contact Senator Mike Moser
-     description: Mike Moser is an American politician and a member of the Republican Party and represents District 22. He was born on September 18, 1951, in Fremont, Nebraska. He is married to Jan Waak and they have three children: Maria, Anne, and Michelle.
+     description: Mike Moser is an American politician and a member of the Republican Party and represents District 22. He was born on September 18, 1951, in Fremont, Nebraska. 
 description: Contact Senator Mike Moser of Nebraska. Contact information for Mike Moser includes email address, phone number, and mailing address.
 image: mike-moser.jpeg
 video:

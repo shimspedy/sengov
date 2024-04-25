@@ -4,7 +4,7 @@ title: "George Dungan"
 seo_title: "contact Senator George Dungan"
 subheader:
      greeting: Contact Senator George Dungan
-     description:George Dungan III, a member of the Democratic Party, is a representative of District 26 in the Nebraska State Senate. He assumed office on January 4, 2023, and his current term ends on January 6, 2027. He succeeded Matt Hansen in this position.
+     description: George Dungan III, a member of the Democratic Party, is a representative of District 26 in the Nebraska State Senate. He assumed office on January 4, 2023, and his current term ends on January 6, 2027. He succeeded Matt Hansen in this position.
 description: Contact Senator George Dungan of Nebraska. Contact information for George Dungan includes email address, phone number, and mailing address.
 image: george-dungan.jpeg
 video:
