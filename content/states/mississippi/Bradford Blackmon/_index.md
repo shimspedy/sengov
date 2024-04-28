@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Senator Bradford Blackmon
      description: Bradford Jerome Blackmon, born in 1988 or 1989, is an American lawyer and Democratic Party politician from Mississippi. He is a member of the Mississippi State Senate, representing District 21. He assumed office on January 2, 2024. His current term ends on January 4, 2028.
 description: Contact Senator Bradford Blackmon of Mississippi. Contact information for Bradford Blackmon includes email address, phone number, and mailing address.
-image: Bradford Blackmon.jpeg
+image: bradford-blackmon.jpeg
 video:
-url:  /states/mississippi/Bradford Blackmon/
+url:  /states/mississippi/bradford-blackmon/
 weight: 1
 layout: course_home
 
