@@ -1,5 +1,5 @@
 ---
-date: 2024-01-18T12:03:20-04:00
+date: 2024-04-18T12:03:20-04:00
 name: Donald Trump
 title: " Donald Trump for President 2024"
 seo_title: "Donald Trump's Presidential Campaign Policies"
