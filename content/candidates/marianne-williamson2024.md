@@ -1,5 +1,5 @@
 ---
-date: 2024-04-30T12:03:20-04:00
+date: 2024-05-01T12:03:20-04:00
 name: Marianne Williamson 
 title: " Marianne Williamson  for President 2024"
 seo_title: "Marianne Williamson Presidential Campaign Policies"
