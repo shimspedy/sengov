@@ -28,7 +28,7 @@ twitter: asmsantabarbara
 Angelo L. Santabarbara is a Democratic member of the New York State Assembly representing the 111th New York State Assembly District, which comprises areas of Montgomery and Schenectady Counties. He was born on September 14, 1972, in Schenectady, New York, U.S. He is a first-generation Italian-American and a lifelong resident of Schenectady County.
 
 Education and Early Career:
-Santabarbara graduated from Schalmont High School in Rotterdam in 1990 and was later inducted into the Schalmont High School Alumni Wall of Distinction. He earned a Bachelor of Science degree from State University of New York at Albany and is a licensed Professional Engineer.
+Santabarbara graduated from Schalmont High School in Rotterdam in 1990 and was later inducted into the Schalmont High School Alumni Wall of Distinction. He earned a Bachelor of Science degree from State University of New York at Albany and is a licensed Professional Engineer. 
 
 Military Service:
 Santabarbara served in the United States Army Reserves for eight years with an honorable discharge in 1998. He has remained involved with local veterans organizations. He is the founder of the first AMVETS Post in his hometown of Rotterdam and served as Post Commander from 2012-2015.
@@ -41,3 +41,4 @@ Santabarbara was elected to the Schenectady County Legislature in 2007 and re-el
 
 Personal Life:
 Santabarbara lives in Rotterdam with his wife, Jennifer, and their two children, Michael and Marianna.
+

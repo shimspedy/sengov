@@ -23,7 +23,7 @@ mailing1: Legislative Office Building Room 446 LOB Albany, NY 12248
 phone1: 518-455-4511
 website: https://nyassembly.gov/mem/Andy-Goodell/
 email : https://nyassembly.gov/mem/Andy-Goodell/
-twitter:
+twitter: 
 ---
 Andrew W. Goodell, born on December 1, 1954, is an American politician who was elected to the New York State Assembly in 2010. He is a Republican. Previously, Goodell was the County Executive of Chautauqua County, New York.
 
@@ -35,12 +35,13 @@ As County Executive, he cut the tax rate six years in a row and left county gove
 
 Andy has been an active leader in many community and charitable organizations, including the First Covenant Church, founding member and former officer of Chautauqua Leadership Network, past President and five-time Paul Harris Fellow for Jamestown Rotary, former Secretary for Bemus Bay Pops, former Co-Chair of the United Way Professional Division, former President of the SUNY Fredonia Business Administration and Accounting Advisory Board, and former Secretary and Board Member of the Chautauqua Area Girl Scout Council and Co-Chair of the Camp Timbercrest Capital Campaign.
 
-Andy has received various awards, including being named the 40th most influential person in Western New York by Buffalo Business First in 2018, the highest ranking of any Assembly Member in Western New York. He was also recognized as the 2018 ï¿½Leader of the Yearï¿½ by the Chautauqua Leadership Network, and received a national recognition award from Vietnam Veterans of America for his support of area veterans.
+Andy has received various awards, including being named the 40th most influential person in Western New York by Buffalo Business First in 2018, the highest ranking of any Assembly Member in Western New York. He was also recognized as the 2018 “Leader of the Year” by the Chautauqua Leadership Network, and received a national recognition award from Vietnam Veterans of America for his support of area veterans.
 
-He received the Business First ï¿½40-under-40ï¿½ award in 1993 for being one of the top 40 leaders under the age of 40 in Western New York. Andy has been repeatedly recognized by the New York Farm Bureau as part of its ï¿½Circle of Friendsï¿½ for his tireless support of agricultural legislation and programs. He also consistently receives one of the highest rankings of any Assembly Member by the Business Council of New York State, Inc. and other business organizations.
+He received the Business First “40-under-40” award in 1993 for being one of the top 40 leaders under the age of 40 in Western New York. Andy has been repeatedly recognized by the New York Farm Bureau as part of its “Circle of Friends” for his tireless support of agricultural legislation and programs. He also consistently receives one of the highest rankings of any Assembly Member by the Business Council of New York State, Inc. and other business organizations.
 
-In 2014, he received the ï¿½Disability Advocate of the Yearï¿½ award from The Resource Center, recognizing his legislative advocacy on behalf of those with disabilities. Previously, he received recognition awards for establishing the Fire Service Enhancement Program and the Chautauqua Child Care Council.
+In 2014, he received the “Disability Advocate of the Year” award from The Resource Center, recognizing his legislative advocacy on behalf of those with disabilities. Previously, he received recognition awards for establishing the Fire Service Enhancement Program and the Chautauqua Child Care Council.
 
 In 1996, he was a recipient of the highest award from the New York State Association of Counties (NYSAC) for his welfare and Medicaid reform work, and was appointed by former Governor George E. Pataki to serve on a State task force to restructure employment, health, and social services.
 
 Andy is a magna cum laude graduate of Cornell Law School, where he received the American Jurisprudence Award for Administrative Law and was a member of the Cornell Law Review.
+

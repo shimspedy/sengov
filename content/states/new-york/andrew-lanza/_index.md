@@ -33,4 +33,5 @@ Lanza was first elected to the New York City Council as a Republican in 2001. At
 
 Lanza was elected to the New York State Senate in 2006, replacing Senator John J. Marchi, who retired after holding the seat for 50 years. Since his initial election, he has won by large margins and been unopposed three times. After Democrats took control of the state senate in the 2018 elections for only the third time since World War II, Lanza was the only Republican representing part of New York City.
 
-On June 21, 2007, Lanza and Assemblyman Michael Cusick announced the enactment of a law establishing the 13th Judicial District, consisting solely of Richmond County and separating Staten Island from Brooklynï¿½s 2nd Judicial District.
+On June 21, 2007, Lanza and Assemblyman Michael Cusick announced the enactment of a law establishing the 13th Judicial District, consisting solely of Richmond County and separating Staten Island from Brooklyn’s 2nd Judicial District.
+
