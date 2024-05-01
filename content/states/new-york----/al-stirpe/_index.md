@@ -36,3 +36,4 @@ Over the years, Stirpe has been involved in several hotly contested elections. I
 In addition to his political career, Stirpe's professional experience includes being the Founder/President of Qube Software and as the Chief Financial Officer/Founder/Owner of CID Technologies. He lives in North Syracuse with his wife, Chele, and their daughter, Alexandra. He is involved with Casey's Place in Syracuse, NY.
 
 Stirpe has been assigned to several committees during his tenure, including the Agriculture Committee, Alcoholism and Drug Abuse Committee, Economic Development, Job Creation, Commerce and Industry Committee, Higher Education Committee, and Small Business Committee, where he served as Chair.
+

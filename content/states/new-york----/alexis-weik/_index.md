@@ -29,6 +29,7 @@ Alexis Weik, born on September 17, 1972, is an American politician, civil servan
 
 Weik was raised in both Ronkonkoma, New York and nearby Oakdale on Long Island. She attended Connetquot High School in Bohemia, New York, and later received a Bachelor of Business Administration from Dowling College. She is married and has three children; both her husband and eldest son are police officers. The family resides in Sayville, New York.
 
-Prior to beginning her career in politics, Weik owned a small business in the landscaping industry, and additionally is a certified personal trainer. As the Town of Islip's Receiver of Taxes, Alexis Weik was elected to three terms. During her tenure, she made customer service her top priority, embracing a hands-on approach to assist taxpayers, streamline operations and improve the officeï¿½s efficiency.
+Prior to beginning her career in politics, Weik owned a small business in the landscaping industry, and additionally is a certified personal trainer. As the Town of Islip's Receiver of Taxes, Alexis Weik was elected to three terms. During her tenure, she made customer service her top priority, embracing a hands-on approach to assist taxpayers, streamline operations and improve the office’s efficiency.
 
 In 2020, Alexis Weik was nominated by the Republican Party to run for New York State Senate against incumbent Monica Martinez. Weik won the election with 52% of the vote to Martinez's 48%, a margin of 4%. As a senator, she has pledged to make public safety a top priority, helping to ensure safe communities where families can thrive. She is also a strong advocate for small businesses, and will work to find ways to relieve the tax burden on hard-working New Yorkers.
+
