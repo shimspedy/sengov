@@ -11,7 +11,7 @@
 <h1 class="flow-text">Contact {{.Title}} Governors</h1>
 <div class=" row">
      {{range .Sections }}
-     {{ if  and (eq (lower .Params.role) "governor") ( eq .Params.inoffice "current")  }}
+     {{ if  and (eq (lower .Params.role) "governor") ( eq (lower .Params.inoffice) "current")  }}
                <div class="col s12 m6 l6">
                {{ partial "listings/senate" . }}
                </div>
@@ -25,7 +25,7 @@
 <h1 class="flow-text">Former governors</h1>
 <div class=" row">
      {{range .Sections }}
-     {{ if  and (eq (lower .Params.role) "governor") ( eq .Params.inoffice "former")  }}
+     {{ if  and (eq (lower .Params.role) "governor") ( eq (lower .Params.inoffice) "former")  }}
                <div class="col s12 m6 l6">
                {{ partial "listings/senate" . }}
                </div>
@@ -38,7 +38,7 @@
      <h2 class="flow-text">Contact {{.Title}} Senators</h2>
      <div class=" row">
           {{range .Sections }}
-               {{ if  and (eq (lower .Params.role) "senator") ( eq .Params.inoffice "current")  }}
+               {{ if  and (eq (lower .Params.role) "senator") ( eq (lower .Params.inoffice) "current")  }}
                     <!-- {{ if eq .Params.inoffice "current" }} -->
                     <div class="col s12 m6 l6">
                     {{ partial "listings/senate" . }}
@@ -53,7 +53,7 @@
 <h2 class="flow-text">Contact {{.Title}} Representatives</h2>
      <div class=" row">
           {{range .Sections }}
-          {{ if  and (eq (lower .Params.role) "congress") ( eq .Params.inoffice "current")  }}
+          {{ if  and (eq (lower .Params.role) "congress") ( eq (lower .Params.inoffice) "current")  }}
                     <!-- {{ if eq .Params.inoffice "current" }} -->
                     <div class="col s12 m4 l4">
                     {{ partial "listings/senate" . }}

@@ -1,7 +1,7 @@
 ---
 date: 2024-04-26T11:54:12-05:00
 title: "Nathalia Fernandez"
-seo_title: "contact Senator Nathalia Fernandez"
+seo_title: "contact Senator nathalia-fernandez"
 subheader:
      greeting: Contact Senator 
      description: Nathalia Fernandez is a dedicated public servant and a member of the New York State Senate, representing District 34, which covers the Bronx and Westchester. She assumed office on January 1, 2023, and her current term ends on January 1, 2025. She was elected to the New York State Senate in 2022, becoming the first Latina to represent the 34th Senate District and the first person of Cuban descent to serve in the Senate.
@@ -13,7 +13,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name: 
+name: Nathalia Fernandez
 state: New York
 party: Democratic
 role: Senator
