@@ -1,5 +1,5 @@
 
-{{ if or (eq (lower.Params.inoffice) "current") (eq (lower .Params.inoffice) "former") }}
+{{ if or (eq (lower .Params.inoffice) "current") (eq (lower .Params.inoffice) "former") }}
 <title data-pagefind-body>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
 {{ else }}
 <title data-pagefind-body>{{.Params.seo_title}} | sengov.com</title>
@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 <meta name="description" content="{{.Description}}" />
-{{ if or (eq (lower.Params.inoffice) "current") (eq (lower .Params.inoffice) "former") }}
+{{ if or (eq (lower .Params.inoffice) "current") (eq (lower .Params.inoffice) "former") }}
 <meta name="keywords" content="{{.Params.Name}},{{.Params.Role}} {{.Params.Name}} of {{.Params.State}},{{.Params.Party}} {{.Params.Role}} {{.Params.Name}},{{.Params.Role}} {{.Params.Name}} Contact Information ">
 {{ else }}
 <meta name="keywords" content="{{.Keywords}}">
