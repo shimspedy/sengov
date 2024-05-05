@@ -29,7 +29,7 @@ Andrew Gounardes is an American lawyer and politician. He is a Democrat and a me
 
 Born on July 8, 1985, in Brooklyn, New York, Gounardes was raised in the Bay Ridge neighborhood by his parents, Steven, a dentist, and Dianne Gounardes. A fourth-generation Greek-American, he graduated from Fort Hamilton High School, before going on to earn degrees from Hunter College and the George Washington University Law School.
 
-Following law school, Gounardes worked for Councilman Vincent J. Gentile as a constituent aide, and later as Counsel to Brooklyn Borough President Eric Adams. Gounardes formerly served as a trustee of the New York City Employees’ Retirement System, and as a member of Brooklyn Community Board 10.
+Following law school, Gounardes worked for Councilman Vincent J. Gentile as a constituent aide, and later as Counsel to Brooklyn Borough President Eric Adams. Gounardes formerly served as a trustee of the New York City Employees Retirement System, and as a member of Brooklyn Community Board 10.
 
 Following Hurricane Sandy in 2012, Gounardes, along with Justin Brannan, founded the nonprofit Bay Ridge Cares, which assisted local residents with disaster relief. Today, it still supports community members facing extraordinary need by providing them with emergency assistance.
 

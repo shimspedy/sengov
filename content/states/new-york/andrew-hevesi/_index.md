@@ -35,6 +35,6 @@ On May 10, 2005, Hevesi won a special election to fill a seat left vacant by the
 
 From June 2011 to February 2015, Assemblyman Hevesi served as Chairman of the Committee on Oversight, Analysis, and Investigation. As Chair, Assemblyman Hevesi held hearings on numerous topics including healthcare, human trafficking, and technology infrastructure in New York State.
 
-In February 2015, Assemblyman Hevesi was appointed Chairman of the Committee on Social Services. Hevesi has secured a total of $6 million for freight locomotive engine upgrades in the 2013�2014 and 2014�2015 New York State Budgets. The initiative was prompted by a constituency in his district that suffered from constant locomotive idling and emissions from outdated locomotive engines.
+In February 2015, Assemblyman Hevesi was appointed Chairman of the Committee on Social Services. Hevesi has secured a total of $6 million for freight locomotive engine upgrades in the 2013-2014 and 2014-2015 New York State Budgets. The initiative was prompted by a constituency in his district that suffered from constant locomotive idling and emissions from outdated locomotive engines.
 
 In addition to his work locally, Assemblyman Hevesi was appointed Chair of the Assembly Standing Committee on Children and Families in January of 2021, having previously served as the Chairman of the Assembly Social Services Committee from 2015-2020. As Children and Families Chair, Assemblyman Hevesi has made it a top priority to address and mitigate childhood trauma.
