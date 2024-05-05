@@ -83,7 +83,7 @@
         "width": 1024
       },
     "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-    "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+    "keywords" : [ {{- .Params.Role -}}  {{- .Params.name -}},{{- .Params.name -}},{{- .Params.name -}},{{- .Params.name -}},{{- .Params.party -}} {{- .Params.Role -}} {{- .Params.name -}}]
 }
 </script>
 
