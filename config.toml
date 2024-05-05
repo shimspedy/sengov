@@ -7,7 +7,7 @@ author = "john"
 pygmentsStyle = "dracula"
 PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-RemovePathAccents = true
+RemovePathAccents = false
 
 canonifyURLs = true
 disableKinds = ["taxonomy"]
