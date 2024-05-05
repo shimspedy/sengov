@@ -50,8 +50,8 @@
             }
           },
           "description": "{{- .Description -}}",
-          "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+          "tags" : [ {{- .Params.Role -}}  {{- .Params.name -}},{{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+          "keywords" : [ {{- .Params.Role -}}  {{- .Params.name -}},{{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
         }
 </script>
 
