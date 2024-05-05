@@ -39,7 +39,7 @@ Born and raised in New York, Andrea Stewart-Cousins' journey in public service b
 
 Stewart-Cousins' legislative portfolio is diverse and comprehensive, covering critical areas such as voting reforms, gun safety, LGBTQ rights, the justice system, labor rights and combating sexual harassment in the workplace. Her leadership in passing robust tenant protections and affordable housing packages has also been a hallmark of her career.
 
-Her extensive legislative work and community service have earned her numerous recognitions, including being named a “Trailblazer of Democracy” by Eleanor’s Legacy and receiving awards such as the “Dolores Huerta Award” and the “Champion of Choice” honor. She also has been scored one of highest ranks for environmental protections by the New York League of Conservation Voters.
+Her extensive legislative work and community service have earned her numerous recognitions, including being named a Trailblazer of Democracy by Eleanors Legacy and receiving awards such as the Dolores Huerta Award and the Champion of Choice honor. She also has been scored one of highest ranks for environmental protections by the New York League of Conservation Voters.
 
 Stewart-Cousins holds a Bachelor of Science Degree from Pace University, teaching credentials from Lehman College, and a Master of Public Administration from Pace University. She is a member of Pi Alpha Alpha, a Public Administration Honor Society. Her diverse professional background includes roles in customer service, journalism, and education.
 
