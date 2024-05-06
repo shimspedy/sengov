@@ -4,7 +4,7 @@ title: "Scott Bendett"
 seo_title: "contact Representative Scott Bendett"
 subheader:
      greeting: Contact Representative Scott Bendett
-     description: Scott Bendett is an American politician from New York who has represented the New York State Assembly's 107th district since 2023. The district consists of most of Rensselaer County and portions of Washington and Columbia counties.
+     description: Scott Bendett is an American politician from New York who has represented the New York State Assembly's 107th district since 2023. The district is comprised of parts of Columbia, Rensselaer, and Washington counties, as well as the town of Bethlehem in Albany County.
 description: Contact Representative Scott Bendett of New York. Contact information for Scott Bendett includes email address, phone number, and mailing address.
 image: scott-bendett.jpeg
 video:
@@ -17,7 +17,7 @@ name: Scott Bendett
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 324 LOB Albany, NY 12248
 phone1: 518-455-5777
@@ -25,12 +25,13 @@ website: https://nyassembly.gov/mem/Scott-Bendett/
 email : https://nyassembly.gov/mem/Scott-Bendett/
 twitter:
 ---
-Scott Bendett is an American politician from New York who has represented the New York State Assembly's 107th district since 2023. The district consists of most of Rensselaer County and portions of Washington and Columbia counties.
 
-Bendett attended Niskayuna High School and the University at Albany and currently resides in Averill Park, New York. Prior to his election to the State Assembly, Bendett was the founder and owner of the Habana Premium Cigar Shoppe in Sand Lake. He started the business in 1998 as a small kiosk and saw success as it grew into an online marketplace.
+Scott Bendett was elected to the New York State Assembly on November 8, 2022. His district is comprised of parts of Columbia, Rensselaer, and Washington counties, as well as the town of Bethlehem in Albany County.
 
-In addition to his cigar business, Bendett is also the CEO of the Bendett Investment Group, a real estate development firm. His political career began when he was elected to the Rensselaer County Legislature in 2017. He then ran unopposed to the 107th district after its prior assemblyman, Jake Ashby (R), was redistricted to the 43rd District. Bendett won with 97.5% of the vote after also securing the Conservative nomination.
+Committed to common-sense and effective solutions, Scott is prepared to bring his successful background in private business and public service to Albany. As a former county legislator, he understands the issues that matter most to residents and will work to lower the tax burden crushing New Yorkers and usher in support and resources for community services critical to those in need. Scott is committed to improving New York’s economic future and recognizes the importance of supporting the struggling small-business community by reducing excessive rules and regulations to improve opportunities for economic growth. Scott values the importance of community and will advocate for greater investment in programs aimed at helping our youth and those in need.
 
-Bendett was sworn in on January 2, 2023, at the Rensselaer County Courthouse. During his tenure, he has supported increasing the tax credit that emergency medical services volunteers receive in an effort to increase their numbers and retention. He has also co-sponsored the Psychedelic Assisted Therapy Bill, which would see the legalization of possession of psilocybin, ibogaine, and DMT in the state of New York. Bendett has supported the expansion of vocational education, including vocational classes in public high-schools.
+Scott, a business owner with more than 25 years of experience, is the founder of Habana Premium Cigar Shoppe. His small-business success story started with a few cigars and a small kiosk at the mall before growing into an international online marketplace. In addition, Scott is the CEO of Bendett Investment Group, a real estate development corporation. He has dedicated countless hours as a counselor and mentor to numerous business ventures and non-profit organizations.
 
-In his personal life, Scott has a son named Samuel Bendett, who is an Eagle Scout. He has been a member of the town of Sand Lake�s Zoning Board of Appeals and served as a Rensselaer County Legislator prior to his election to the Assembly.
+His endless dedication to his community includes multiple advocacy efforts for Capital Region organizations including the MDA, Center for Disability Services, Best Buddies, and the Arthritis Foundation. He is the President of the Averill Park Education Foundation, which has helped numerous students achieve their dreams. Scott has proudly extended his mentorship to assist Eagle Scouts including his son, Samuel. He has been a member of the town of Sand Lake’s Zoning Board of Appeals and served as a Rensselaer County Legislator prior to his election.
+
+Scott lives in Averill Park with his wife and children.

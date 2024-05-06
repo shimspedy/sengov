@@ -4,7 +4,7 @@ title: "Marjorie Byrnes"
 seo_title: "contact Representative Marjorie Byrnes"
 subheader:
      greeting: Contact Representative Marjorie Byrnes
-     description: Marjorie L. Byrnes is an American politician and attorney from the state of New York. A Republican, Byrnes has represented the 133rd district of the New York State Assembly, covering Livingston County and other areas to the south of Rochester, since 2019.
+     description: Marjorie Byrnes was elected to the New York State Assembly on November 6, 2018. Her district is comprised of Livingston County and parts of Monroe, Ontario, Steuben and Wyoming counties.
 description: Contact Representative Marjorie Byrnes of New York. Contact information for Marjorie Byrnes includes email address, phone number, and mailing address.
 image: marjorie-byrnes.jpeg
 video:
@@ -17,7 +17,7 @@ name: Marjorie Byrnes
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 723 LOB Albany, NY 12248
 phone1: 518-455-5662
@@ -25,13 +25,13 @@ website: https://nyassembly.gov/mem/Marjorie-Byrnes/
 email : https://nyassembly.gov/mem/Marjorie-Byrnes/
 twitter: byrnes4assembly
 ---
-Marjorie L. Byrnes is an American politician and attorney from the state of New York. A Republican, Byrnes has represented the 133rd district of the New York State Assembly, covering Livingston County and other areas to the south of Rochester, since 2019.
 
-Byrnes worked as an attorney for 32 years. In that time, she served variously as a judge with the Rochester City Court, as an assistant district attorney for Monroe County, and most recently as court attorney to Livingston County Court Judge Dennis Cohen. After her retirement from the court system in 2017, Byrnes became a Caledonia Village Trustee.
+Marjorie Byrnes was elected to the New York State Assembly on November 6, 2018. Her district is comprised of Livingston County and parts of Monroe, Ontario, Steuben and Wyoming counties.
 
-In 2018, Byrnes announced that she would launch a primary challenge to Republican incumbent Joseph Errigo, who had been selected by Republican leadership for the 133rd district in 2016 following Bill Nojay's suicide. Byrnes easily defeated Errigo, with 61% of the vote to his 39%. That November, Byrnes defeated Democrat Barbara Baer with 55% of the vote. She took office on January 9, 2019.
+As Assemblywoman, Marjorie advocates for increases to state-funded infrastructure programs such as CHIPS, PAVE-NY, and BRIDGE-NY. She partners with infrastructure and transportation stakeholders to address New York’s crumbling infrastructure. Marjorie believes the people of New York State are overly burdened by taxes, regulations, and red tape, and will fight for economic relief. She strongly supports term limits.
 
-Byrnes has lived in Caledonia for 12 years. She is a mother of two children. Her district is comprised of Livingston County and parts of Monroe, Ontario, Steuben and Wyoming counties. As Assemblywoman, Marjorie advocates for increases to state-funded infrastructure programs such as CHIPS, PAVE-NY, and BRIDGE-NY.
+Marjorie has been an attorney for 37 years, and for ten years she served as a Rochester City Court Judge. During her time as a judge, she presided over thousands of criminal and civil cases. She was also Court Attorney to Livingston County Court Judge Dennis S. Cohen from 2006-2017. In January of 2017, she retired from the New York State court system and then served as a Caledonia Village Trustee.
 
-She has been active in recent years, attending press conferences and advocating for justice for families of nursing home residents. She has also announced grant awards from the New York State Council on the Arts to local organizations and artists in the 133rd Assembly District. Byrnes is a strong supporter of her community and is always ready to help with state issues.
+Marjorie is a member of the Mt. Morris Sportsmen’s Club, the Conesus Lake Sportsmen’s Club, Rochester-Brooks Sportsmen’s Club, S.C.O.P.E., GOA-NY, and the NRA. She is an avid outdoor enthusiast and a strong advocate for the 2nd Amendment. Marjorie has pushed for increased school safety, specifically state-funded armed School Resource Officers in schools.
 
+Marjorie has resided in Caledonia for 17 years, and uses her experiences to make a difference in the lives of her constituents in the 133rd District.

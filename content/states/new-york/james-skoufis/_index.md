@@ -17,7 +17,7 @@ name: James Skoufis
 state: New York
 party: Democratic
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 815 LOB Albany, NY 12247
 phone1: 518-455-3290
@@ -25,17 +25,13 @@ website: https://www.nysenate.gov/senators/james-skoufis/
 email : https://www.nysenate.gov/senators/james-skoufis/
 twitter: jamesskoufis
 ---
-James Skoufis, born on October 18, 1987, is an American politician of the Democratic Party. He is currently representing the 42nd District of the New York State Senate since 2023. Prior to this, Skoufis represented the 39th District from 2019 to 2022.
 
-Skoufis began his political career on the Woodbury town board in Orange County. In 2012, he was elected to the New York State Assembly, becoming its youngest member at the age of 25. He was re-elected in 2014 and 2016.
+James Skoufis and his family moved to the Town of Woodbury from Queens in 1995 for many of the same reasons we all choose to live in the Hudson Valley: a better quality of life, an education that strives for nothing short of excellence, and a strong, friendly, and caring community.
 
-Born in Flushing, Queens in 1987, Skoufis is the son of a Greek immigrant. His family moved north to the town of Woodbury in the Hudson Valley in 1995. He graduated from Monroe-Woodbury High School in 2005. He has a bachelor's degree from The George Washington University and a masters from Columbia University.
+After graduating from Monroe-Woodbury High School, James went on to become the first in his immediate family to attend college. He earned a Bachelor's Degree from The George Washington University and Master's Degree from Columbia University. Along with the fortunate help of scholarships and student loans, he worked his way through college, holding a job every semester.
 
-Skoufis worked at an electronic security firm and was on the Woodbury Town Board. After redistricting in 2012 following the decennial census, long-time Republican Assemblywoman Nancy Calhoun decided to retire, leaving the seat vacant. Skoufis received the Democratic nomination for the seat, defeating Larry Delarose at the party's county convention. In the November general election, he defeated Republican Goshen Mayor Kyle Roddey with 56% of the vote. At age 24, he became the youngest member of the Assembly.
+Having spent the first many years of his life in New York City Public Housing and being only one generation removed from food stamps, James understands what the uncertainty of tomorrow feels like. He knows the experience of living paycheck to paycheck and is committed to creating opportunities that allow everyday New Yorkers to thrive.
 
-Skoufis introduced his first two bills within a week of being sworn in; both were inspired by the aftermath of Hurricane Irene in 2011. Both bills passed the Assembly a few months later. Skoufis was an outspoken supporter of increasing the minimum wage. Early in 2014, Skoufis introduced Tuition-Free NY, a proposal to make SUNY and CUNY in New York State tuition-free as long as students fulfill community service and residency requirements.
+During his six years in the State Assembly, James fought for the Hudson Valley's working- and middle-classes. He's been a champion of better schools, stronger infrastructure, leveling the playing field, and fighting corruption. James was first elected to the State Senate in 2018, and soon took over chairmanship of the Investigations and Government Operations Committee, where he continues to deliver results for his Hudson Valley constituents while serving with integrity.
 
-In 2018, longtime Senator William J. Larkin Jr. retired at age 88. He had served in the seat since 1991. Prior to Larkin's retirement, Skoufis was floated as a potential challenger. After Larkin announced his retirement, Skoufis entered the race. In a good year for Democrats, Skoufis defeated Republican Stony Point Councilman Tom Basile, 54 percent to 46 percent. Democrats also took the majority in the Senate in the same election.
-
-James Skoufis lives in Cornwall and has a loving daughter, Ava, born in 2021.
-
+James lives in Cornwall and has a loving daughter, Ava, born in 2021.

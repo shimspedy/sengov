@@ -17,7 +17,7 @@ name: Landon Dais
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2024
 mailing1: Legislative Office Building Room 834 Albany, NY 12248
 phone1: 518-455-5671
@@ -25,20 +25,15 @@ website: https://nyassembly.gov/mem/Landon-C-Dais/
 email : https://nyassembly.gov/mem/Landon-C-Dais/
 twitter:
 ---
-Landon C. Dais is an American attorney and politician who is a member of the New York State Assembly for the 77th district. The district includes parts of Claremont, Concourse, Highbridge, Mount Eden, and Morris Heights in The Bronx.
 
-Born on April 5, 1981, in Harlem, New York, Dais was raised in a family with a strong community leadership background. His father, Larry Dais, was a longtime community leader. The family later moved to Mount Vernon where Dais graduated from Fordham Preparatory School.
+Landon Dais is a dedicated community leader, legal expert, and advocate for social justice, with a deep-rooted commitment to The Bronx. His diverse background in law, economic development, and political activism positions him as a unique and powerful voice for his constituents.
 
-Dais is a graduate of Morehouse College where he was a member of the Phi Beta Sigma fraternity. He furthered his education at the Columbia University Graduate School of Architecture, and Hofstra Law School.
+Landon is an accomplished attorney who has helped countless small businesses and non-profits expand their influence in New York. His work in the cannabis industry advanced marijuana legalization, workforce development programs, and criminal justice reform. He was honored as the Pro-Bono Attorney of the Year by Touro College Jacob D. Fuchsberg Law Center for his work on marijuana arrests, and his efforts earned him the prestigious NAACP Roy Wilkins Award.
 
-Before embarking on his legal career, Dais served as a Deputy Director at the Police Athletic League and worked at Turner Construction, contributing to projects such as the new Yankee Stadium. As an attorney, Dais has helped countless small businesses and non-profits expand their influence in New York. His work in the cannabis industry advanced marijuana legalization, workforce development programs, and criminal justice reform.
+Before embarking on his legal career, Landon served as a Deputy Director at the Police Athletic League and worked at Turner Construction, contributing to projects such as the new Yankee Stadium.
 
-Dais was honored as the Pro-Bono Attorney of the Year by Touro College Jacob D. Fuchsberg Law Center for his work on marijuana arrests, and his efforts earned him the prestigious NAACP Roy Wilkins Award.
+Landon resides with his two sons and wife in Highbridge, where she grew up after immigrating with her family from the Dominican Republic, and now serves on Bronx Community Board 4. Deeply invested in his community, Landon is a member of the Abyssinian Baptist Church, leads the Highbridge Heights Homeowners Association, and contributes his expertise to the Mid Bronx Desperadoes Board (MBD), focusing on building affordable housing in The Bronx.
 
-In the political arena, Dais served as the president of the Uptown Democratic Club in the late 2000s, where he also started the club's youth division, and worked to register voters for the Obama 2008 campaign. He then worked on political campaigns and in the field of cannabis law. Since 2021, he has served as a vice chair of the Bronx Democratic Party.
+His passion for youth development is evident through his commitment to coaching baseball twice a week in the Rev. T. Wendell Foster Park (Foster Park) Baseball League, and his founding of a Black and Latino fathers support group called "Brunch of Dads."
 
-Dais ran for the New York City Council in 2009, challenging incumbent Councilwoman Inez Dickens in the 9th district. He lost in the Democratic primary with 20.86% of the vote. During the campaign, Dais was featured on the BET reality television series Harlem Heights alongside seven others.
-
-Following incumbent Latoya Joyner's resignation, Dais was selected by the Bronx Democratic Party as their nominee for the special general election to fill the seat. He won the special election on February 13, 2024.
-
-Dais resides with his two sons and wife in Highbridge, where she grew up after immigrating with her family from the Dominican Republic, and now serves on Bronx Community Board 4. Deeply invested in his community, Dais is a member of the Abyssinian Baptist Church, leads the Highbridge Heights Homeowners Association, and contributes his expertise to the Mid Bronx Desperadoes Board (MBD), focusing on building affordable housing in The Bronx. His passion for youth development is evident through his commitment to coaching baseball twice a week in the Rev. T. Wendell Foster Park (Foster Park) Baseball League, and his founding of a Black and Latino fathers support group called "Brunch of Dads."
+Born and raised in New York, Landon began his educational journey at Fordham Prep, laying the foundation for his passion for public service. He went on to earn a B.A. in Business Management from Morehouse College, an M.S. in Real Estate Development from Columbia University, and a J.D. from Hofstra Law School.

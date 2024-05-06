@@ -17,7 +17,7 @@ name: Didi Barrett
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2012
 mailing1: Legislative Office Building Room 724 LOB Albany, NY 12248
 phone1: 518-455-5177
@@ -25,12 +25,9 @@ website: https://nyassembly.gov/mem/Didi-Barrett/
 email : https://nyassembly.gov/mem/Didi-Barrett/
 twitter: dinerdialogues
 ---
-Didi Barrett is an American politician who has been serving as a Democratic member of the New York State Assembly. She represents Assembly District 106, which includes parts of Dutchess and Columbia Counties.
 
-Born on September 17, 1950, Barrett has been a resident of the Hudson Valley for more than 30 years. She was elected to the Assembly on March 20, 2012, after a special election to succeed Marcus Molinaro.
+Didi Barrett was elected to the New York State Assembly in a special election in March 2012 and is now in her sixth full term in office. A resident of the Hudson Valley for more than 30 years, she came to elected office after a career as a writer, museum professional and longtime leader of not-for-profit organizations. As a member of the Assembly, she is Chair of the Assembly’s Energy Committee, and also serves on the Committees on Agriculture, Environmental Conservation, and Tourism, Parks, Arts and Sports Development.
 
-Barrett has been re-elected multiple times since her initial election. In November 2012, she won re-election in the newly created 106th district seat with 54.3% of the vote. She was re-elected with 50.8% of the vote in November 2014, 55.85% of the vote in November 2016, and 55.4% of the vote in November 2018. She once again won re-election in 2020.
+Didi is passionate about the agricultural, environmental, historical, and cultural resources of the Hudson Valley and their critical importance as economic drivers and job creators. Her family has deep roots in the Hudson Valley and a long involvement with both Dutchess and Columbia Counties. In 1938, her grandfather and great-uncle first bought a farm in Ancramdale which remains in the family.
 
-In addition to her political career, Barrett has been involved in various community activities. She serves on the board of the North East Dutchess Fund of the Berkshire Taconic Community Foundation, and is a trustee of the Anderson Foundation for Autism. She is also a founding chairwoman of Girls Incorporated of NYC, and a former board member of NARAL Pro-Choice New York. She is a trustee emeritus of the American Folk Art Museum.
-
-Barrett earned her B.A. in Speech Communication from the University of California at Los Angeles and her M.A. in Folk Art Studies from New York University. Her professional experience includes creating the Dutchess Girls Collaborative, an alliance of local programs, supporters, and providers that address the needs of young women.
+A lifetime advocate for women and girls, Didi spearheaded the creation of the Dutchess Girls Collaborative to support local girls and young women. She helped launch the North East Dutchess Fund (NED) of the Berkshire Taconic Community Foundation and helped create the pioneering NED Corps program to deliver social services to this rural region and served on its affiliated Latino Roundtable. She is formerly a trustee of the Anderson Foundation for Autism and former board member of the Millbrook Education Foundation and of Sprout Creek Farm, an educational farm in Poughkeepsie. Didi’s other affiliations have included Girls Incorporated of NYC (founding chair), New York Women’s Foundation, Planned Parenthood of NYC, the Women’s Campaign Forum and NARAL Pro-Choice New York (former board member) and the American Folk Art Museum (trustee emeritus).

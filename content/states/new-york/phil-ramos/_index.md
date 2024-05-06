@@ -4,7 +4,7 @@ title: "Phil Ramos"
 seo_title: "contact Representative Phil Ramos"
 subheader:
      greeting: Contact Representative Phil Ramos
-     description: Philip Ramos, often known as Phil Ramos, was born on April 6, 1956, in The Bronx, New York. His family moved to Brentwood in 1957 when he was an infant, making them one of the first Hispanic families to settle in Brentwood. For over 60 years, Ramos has lived in Brentwood and served his community in various capacities.
+     description: Philip Ramos, born on April 6, 1956, is a member of the Democratic Party and an American politician serving in the New York State Assembly, representing District 6. He assumed office in 2003.
 description: Contact Representative Phil Ramos of New York. Contact information for Phil Ramos includes email address, phone number, and mailing address.
 image: phil-ramos.jpeg
 video:
@@ -17,7 +17,7 @@ name: Phil Ramos
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2003
 mailing1: Legislative Office Building Room 648 LOB Albany, NY 12248
 phone1: 518-455-5185
@@ -25,12 +25,9 @@ website: https://nyassembly.gov/mem/Phil-Ramos/
 email : https://nyassembly.gov/mem/Phil-Ramos/
 twitter: philramos6ad
 ---
-Philip Ramos, often known as Phil Ramos, was born on April 6, 1956, in The Bronx, New York. His family moved to Brentwood in 1957 when he was an infant, making them one of the first Hispanic families to settle in Brentwood. For over 60 years, Ramos has lived in Brentwood and served his community in various capacities.
 
-Ramos is the son of a correction officer and a registered nurse. After graduating from Brentwood High School in 1974, he began his career as a therapy aide at the Pilgrim Psychiatric Center. He later became an emergency medical technician. Ramos then joined the Suffolk County police force, where he worked for eight years in the narcotics unit as an undercover officer. He was promoted to detective in 1987 and retired in 1999.
+Assemblyman Phil Ramos (D-Brentwood) was born in the Bronx, NY. His family moved out to Brentwood in 1957 when he was an infant. Ramos’ family was one of the first Hispanic families to move to Brentwood. For more than 60 years, he has lived in Brentwood and has served his community in many different ways. After he graduated from Brentwood High School, he worked as a therapy aide at the nearby Pilgrim Psychiatric Center. He then became an Emergency Medical Technician. In 1979, he became a member of the Suffolk County Police Department (SCPD). In this capacity, he would serve the community for 20 years. He served 10 of those years as an undercover narcotics officer fighting the scourge of drug crime on Long Island. He then was promoted to the detective unit where he investigated serious crimes until his retirement in 2001. While a member of SCPD, he was instrumental in founding the Suffolk County Police Hispanic Society. This nonprofit organization helps to bridge the gap between the Hispanic community and the police department. On two occasions, he was involved in legal action against the Suffolk County Police Department for discriminatory practices against minorities which led the SCPD to enter into a consent decree correcting some of the systemic issues.
 
-In 2002, Ramos decided to run for the New York Assembly to succeed Republican Robert Wertz, who was retiring after thirty years to seek a seat in the New York Senate. In a close race, he defeated Republican Philip Goglas 53% to 47%.
+Ramos was first elected to the Assembly in 2002 and has served his community proudly over the past 20 years. He rose through the ranks to leadership and today serves as Deputy Speaker of the NYS Assembly. He is an executive board member of the Puerto Rican/Hispanic Task Force, as well as a member of the powerful Committees on Ways and Means, Aging, Education, Labor and Local Governments. He is also a member of the Subcommittee on Students with Special Needs.
 
-Ramos represents the 6th District of the New York Assembly as a Democrat. The district includes portions of the town of Islip, including Bay Shore, Brentwood, Central Islip, and Islandia in Suffolk County on Long Island.
-
-Ramos currently sits on the Labor, Local Governments, Ways and Means, Aging, and Education committees. He has been serving as the Deputy Speaker of the New York State Assembly since January 4, 2023.
+Assemblyman Ramos puts people before politics and is a fierce defender of the civil rights of the diverse residents of his district. He was involved in creating the Brentwood State Park, where thousands of our youth play soccer every year and provided $2 million for the creation of a state-of-the-art spray park at Roberto Clemente Park. He has been a co-sponsor and prime sponsor of several historic pieces of legislation, including the Green Light Law and the Senator Jose Peralta NYS DREAM Act. He also passed a law to raise the age of consent for marriage to 18, protecting minors from predators in New York State.

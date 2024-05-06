@@ -4,7 +4,7 @@ title: "Karl Brabenec"
 seo_title: "contact Representative Karl Brabenec"
 subheader:
      greeting: Contact Representative Karl Brabenec
-     description: Karl A. Brabenec, born on July 12, 1979, is a prominent figure in the New York State Assembly. He represents the 98th District and is a member of the Republican Party. His political journey in the Assembly began in 2014 when he emerged victorious in a special election.
+     description: Karl Brabenec was elected to serve the constituents of the 98th Assembly District on November 4, 2014. The district includes parts of Orange and Rockland counties which include Deerpark, Port Jervis, Greenville, Minisink, Warwick, Monroe, Mount Hope, Goshen, Wawayanda, Tuxedo and Ramapo.
 description: Contact Representative Karl Brabenec of New York. Contact information for Karl Brabenec includes email address, phone number, and mailing address.
 image: karl-brabenec.jpeg
 video:
@@ -17,7 +17,7 @@ name: Karl Brabenec
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2015
 mailing1: Legislative Office Building Room 329 LOB Albany, NY 12248
 phone1: 518-455-5991
@@ -25,16 +25,17 @@ website: https://nyassembly.gov/mem/Karl-Brabenec/
 email : https://nyassembly.gov/mem/Karl-Brabenec/
 twitter: karlbrabenec
 ---
-Karl A. Brabenec, born on July 12, 1979, is a prominent figure in the New York State Assembly. He represents the 98th District and is a member of the Republican Party. His political journey in the Assembly began in 2014 when he emerged victorious in a special election.
 
-The 98th District, which Brabenec represents, encompasses parts of Orange and Rockland Counties in the Hudson Valley. In January 2023, Brabenec ascended to the role of Assembly Minority Whip, a position he holds after serving as the Deputy Minority Whip since 2019.
+Karl Brabenec was elected to serve the constituents of the 98th Assembly District on November 4, 2014. The district includes parts of Orange and Rockland counties which include Deerpark, Port Jervis, Greenville, Minisink, Warwick, Monroe, Mount Hope, Goshen, Wawayanda, Tuxedo and Ramapo. He is currently the Minority Whip for the New York State Assembly and the ranking Minority member on the Assembly Labor Committee.
 
-Brabenec was born in Manhasset, New York, and spent his early years in Bayside, Queens, before moving with his family to Slate Hill, New York, at the age of 8. He completed his high school education at Minisink Valley High School and graduated from Mount Saint Mary College in 2000. Furthering his education, he received his Masters of Public Administration from John Jay College of Criminal Justice in 2005.
+Brabenec is dedicated to improving the quality of life for his community by alleviating the crushing tax burden facing residents with smarter budget solutions and spending cuts. He recognizes the obstacles facing small businesses and family farms in New York and will fight to cut the senseless red-tape, regulations and taxes stifling job creation and business growth.
 
-His parents, Rainer K. Brabenec and Emilie (Popule) Brabenec, both served with the New York City Police Department. They are Czechoslovak refugees from the former Sudetenland who fled from Soviet communist oppression in the late 1940s.
+As the father of two children, he is dedicated to providing the necessary resources and tools needed for parents and teachers to offer a quality education for all students.
 
-Brabenec's career in public service began at the age of 18 when he was appointed as events coordinator for the City of Newburgh, New York. He later served as executive director of the Downing Park Planning Committee and as a staff assistant to Orange County Executive Edward A. Diana in the early 2000s.
+Brabenec has been active in the community, government, and politics since the age of 14. Previous to serving in the Assembly, Brabenec was Deerpark Town Supervisor from 2010 to 2014. He focused on common-sense principles to save taxpayer dollars, including improving the local business climate through zoning restriction reforms and by providing long-term financial planning and responsibility by saving reserve funds for future expenses.
 
-In 2007, Brabenec was appointed by the Deerpark Town Board to serve as a member of the Zoning Board of Appeals. Later that year, he was elected to serve as a Deerpark Town councilman. In 2009, he ran for town supervisor and was elected that November.
+Brabenec believes in governing with integrity, he reestablished the town’s ethics committee and dramatically expanded communication and transparency in government. He was an assistant to former Orange County Executive Edward A. Diana, a member of the Deerpark Zoning Board of Appeals and later served as a Councilman on the Deerpark Town Board in 2008 to 2010 before being elected Town Supervisor.
 
-Brabenec has been active in various community organizations and has received numerous awards for his service. He currently resides in Westbrookville, New York, and is the proud father of two children, Karl and Kimberlee.
+Brabenec's community involvement includes being a former member of the Board of Directors for the Regional Economic Community Action Program, Inc., an associate member of the Orange County Shields, member of the Greenwood Lake Benevolent and Protective Order of Elks Lodge #2067, Association of the United States Army, Town of Deerpark Lion's Club, National Rifle Association, the Sons of the American Legion - Monroe Post #488, and the New York State Rifle and Pistol Association. He is also an honorary Major with the United States Air Force Auxiliary Civil Air Patrol.
+
+Brabenec, the son of Czech refugees, was raised in Orange County and graduated from Minisink Valley High School in 1997. He earned his B.A. at Mount Saint Mary College and his M.P.A. from the John Jay College of Criminal Justice. Karl lives in Westbrookville and is the proud father of son, Karl and daughter, Kimberlee.

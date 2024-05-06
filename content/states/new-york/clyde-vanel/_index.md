@@ -17,7 +17,7 @@ name: Clyde Vanel
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2016
 mailing1: Legislative Office Building Room 454 LOB Albany, NY 12248
 phone1:  518-455-4711
@@ -25,18 +25,13 @@ website: https://nyassembly.gov/mem/Clyde-Vanel/
 email : https://nyassembly.gov/mem/Clyde-Vanel/
 twitter: clydevanel
 ---
-Clyde Vanel is an intellectual property attorney and entrepreneur who is currently serving as the assembly member for the 33rd district of the New York State Assembly. He is a member of the Democratic Party and holds the position of Chair of the Committee on Oversight, Analysis & Investigation and Chair of the Subcommittee on Internet & New Technologies.
 
-Born on June 19, 1974, in New York City, Vanel was raised in the Cambria Heights neighborhood of Queens along with his nine siblings. He attended Embry-Riddle Aeronautical University where he became a member of Kappa Alpha Psi. He went on to earn an Associates in Aerospace Technology and a bachelor's degree in Aviation Administration from Farmingdale State College. During his time at Farmingdale, he served as the student government President.
+Assemblyman Clyde Vanel serves as the Chair of the Subcommittee on Internet and New Technology and Chairs the Committee on Oversight, Analysis and Investigation. He has sponsored numerous landmark bills, such as legislation to create a robotics, automation and artificial intelligence commission; license high-risk AI systems; and create a cryptocurrency and blockchain study task force. He is focused on emerging technologies and works to close the digital divide among marginalized communities.
 
-Vanel later earned his J.D. from Boston University where he served as the editor-in-chief of the Journal of Science & Technology Law. After graduation, he worked as an intellectual property attorney for Fish & Neave, which was later acquired by Ropes & Gray, LLP. He currently practices business law, intellectual property, and trademark law at the Vanel Law Firm.
+Vanel is an attorney, entrepreneur, and pilot from Queens. He is the owner and operator of Vanel Law Firm, P.C., where he practices intellectual property and business law. Vanel is also an internet entrepreneur operating TrademarkReady.com, a service focused on trademark filings and intellectual property protection. Vanel has extensive entrepreneurial experience, including owning and operating a restaurant and lounge, Vanel on First, in Lower Manhattan for five years. Vanel works to expose the next generation to STEM careers. Vanel is also the founder of the New York Metro chapter of the Black Pilots of America, Inc. The organization trains and exposes the community and youth to the field of aviation.
 
-In addition to his legal career, Vanel is also an entrepreneur and small business owner. He was the owner of Vanel's on First, a restaurant and bar in Lower Manhattan, from 2005 to 2011. He founded a company that manufactures and sells Clean Bee shirt collar protectors online and on Amazon. He is also a technology and internet entrepreneur; he owns and operates the trademark service website TrademarkReady.com.
+Vanel serves as a member of the MIT AI Policy Forum and frequently lectures and presents on issues including artificial intelligence, cryptocurrency and blockchain technology, international policy, and intellectual property.
 
-Vanel is an aircraft owner, private pilot, and the founder of the New York Metro chapter of the Black Pilots of America. His first run for public office was in 2009, when he ran for the New York City Council against incumbent Councilmember Leroy Comrie in the Democratic primary. He lost to Comrie, but did not give up on his political aspirations.
+Vanel earned a Juris Doctor from Boston University School of Law, where he was the Editor-in-Chief of the Journal of Science & Technology Law. He holds a Bachelor of Science in Aviation Administration and an Associate of Applied Science in Aerospace Technology from Farmingdale State College, where he served as the Student Government President.
 
-He ran for the New York State Assembly twice, first in 2010 against Barbara M. Clark, and again in 2012. Both times he lost in the Democratic primary. In 2013, he ran for the city council again, this time in an open seat to succeed Comrie. He lost the Democratic primary to Daneek Miller, coming in a close second in a six-way race.
-
-Despite these setbacks, Vanel continued to pursue his political career and was finally elected as the Assembly Member for the 33rd District of New York on November 8, 2016. His district includes Cambria Heights, St. Albans, Hollis, Queens Village, Bellerose, and parts of Floral Park.
-
-As an assembly member, Vanel has sponsored numerous landmark bills, such as legislation to create a robotics, automation and artificial intelligence commission; license high-risk AI systems; and create a cryptocurrency and blockchain study task force. He is focused on emerging technologies and works to close the digital divide among marginalized communities.
+Serving as the Assembly Member for the 33rd District of New York since November 8, 2016, his district includes Cambria Heights, St. Albans, Hollis, Queens Village, Bellerose, and parts of Floral Park. Vanel was raised in Cambria Heights, New York, with nine siblings, Vanel is a member of Kappa Alpha Psi Fraternity, Inc.

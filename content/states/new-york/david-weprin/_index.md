@@ -4,7 +4,7 @@ title: "David Weprin"
 seo_title: "contact Representative David Weprin"
 subheader:
      greeting: Contact Representative David Weprin
-     description: David Ira Weprin, born on May 2, 1956, is a Democratic member of the New York State Assembly, representing District 24 in Queens since 2010, when he replaced his brother Mark. He has devoted his life to public service and making government more responsive, efficient, and accountable.
+     description: David Ira Weprin, born on May 2, 1956, is a Democratic member of the New York State Assembly, representing District 24 in Queens since 2010, when he replaced his brother Mark. He assumed office in 2010. His current term ends on January 1, 2025.
 description: Contact Representative David Weprin of New York. Contact information for David Weprin includes email address, phone number, and mailing address.
 image: david-weprin.jpeg
 video:
@@ -17,7 +17,7 @@ name: David Weprin
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2010
 mailing1: Legislative Office Building Room 716 LOB Albany, NY 12248
 phone1: 518-455-5806
@@ -25,18 +25,19 @@ website: https://nyassembly.gov/mem/David-I-Weprin/
 email : https://nyassembly.gov/mem/David-I-Weprin/
 twitter: davidweprin
 ---
-David Ira Weprin, born on May 2, 1956, is a Democratic member of the New York State Assembly, representing District 24 in Queens since 2010, when he replaced his brother Mark. He has devoted his life to public service and making government more responsive, efficient, and accountable.
 
-Weprin was born in Queens to Saul and Sylvia Weprin and has lived in the Hollis-Jamaica area his entire life. He comes from a family of Democratic politicians. His parents were Sylvia (Matz), an immigrant from Havana, Cuba, and NY State Assembly Speaker Saul Weprin, and his younger brother Mark Weprin is a former NY State Assemblyman and former NYC Councilman.
+Assembly Member David Weprin, elected to the Assembly in a Special Election on February 9, 2010, has devoted his life to public service and making government more responsive, efficient and accountable. Weprin represents the 24th Assembly District in Queens, the same district represented by his father, the late Assembly Speaker Saul Weprin, for 23 years and his brother Mark Weprin, for over 15 years. In 2017, Weprin was named Chair of the Assembly Committee of Correction. Prior to serving as the Chair of Committee on Correction, Weprin served as Chair of the Assembly Task Force on People with Disabilities from 2014 – 2016.Weprin was also named Co-President of the National Association of Jewish Legislators in January 2017.
 
-He is a graduate of Jamaica High School and received a cum laude bachelor's degree in Political Science from the State University of New York at Albany. He then received a J.D. degree from Hofstra Law School and was admitted to the New York bar in 1981.
+Born in Queens on May 2, 1956 to Saul and Sylvia Weprin, Weprin has lived in the Hollis-Jamaica area his entire life. He is a graduate of Jamaica High School, SUNY at Albany, with a cum laude degree in Political Science, and a law degree from Hofstra University.
 
-In 1983, two years after Weprin was admitted to the bar, then-Governor Mario Cuomo, who was a close family friend and neighbor whom Weprin viewed as family, named him the Deputy Superintendent of Banks and Secretary of the Banking Board for New York State. The position was responsible for regulating financial firms in New York State. Weprin stepped down from the role in 1987.
+In 1983 Weprin was chosen by then Governor Mario Cuomo to serve as the Deputy Superintendent of Banks and Secretary of the Banking Board for New York State. As part of his tenure through 1987, Weprin was a watchdog of nearly $2 trillion, regulating more than 3,000 financial institutions and financial service firms in New York State, including international banking institutions, mortgage brokers, and mortgage bankers. One of several accomplishments Weprin is proudest to have achieved on behalf of consumers as Deputy Superintendent was to reduce the number of days banking institutions may hold checks before clearing them, thereby reducing the interest they can earn on the backs of consumers and businesses. He delivered advice and counsel to the Banking Department on the formulation of banking standards. As part of the Board, he analyzed the condition of banks and exercised power to approve or disapprove the issuance of bank charters and licenses and the establishment of branch banks.
 
-Weprin next held a variety of positions at the Stern Brothers investment banking firm (as a vice president), Advest, Pearson, Donaldson, Lufkin & Jenrette; Kidder Peabody; Paine Webber, and Sterne, Agee & Leach.
+In 2001, Weprin was elected to the New York City Council by the people of the 23rd Council District in Queens. Within weeks of taking office Weprin became Chairman of the Council’s Finance Committee. Their choice to select a freshman Council Member to preside over the review and management of the City’s finances remains unprecedented and is a testament to his long-standing excellence in the field.
 
-In 2001, Weprin was elected to the New York City Council by the people of the 23rd Council District in Queens. Within weeks of taking office Weprin became Chairman of the Council�s Finance Committee. Their choice to select a freshman Council Member to preside over the review and management of the City�s finances remains unprecedented and is a testament to his long-standing excellence in the field.
+As Chair of the Council’s Finance Committee, Weprin proved to be a tireless advocate for responsible public spending and partnered with the Mayor and citizen advocacy groups to strengthen fiscal responsibility throughout all five boroughs. In 2008, Weprin was instrumental in locking away a total of $2.5 billion in surplus funds to ensure that future retirees continue to receive quality health care. Weprin led the charge with the Mayor to put more than one billion dollars back in the pockets of homeowners and co-op/condo owners in the form of annual $400 property tax rebates. Weprin also successfully opposed congestion pricing – he has called it an outer-borough tax. Weprin did not seek re-election to the Council in 2009; instead he ran for the City Comptroller position won by John Liu.
 
-As Chair of the Council�s Finance Committee, Weprin proved to be a tireless advocate for responsible public spending and partnered with the Mayor and citizen advocacy groups to strengthen fiscal responsibility throughout all five boroughs. In 2008, Weprin was instrumental in locking away a total of $2.5 billion in surplus funds to ensure that future retirees continue to receive quality health care. Weprin led the charge with the Mayor to put more than one billion dollars back in the pockets of homeowners and co-op/condo owners in the form of annual $400 property tax rebates.
+In the private sector, Weprin occupied a variety of leadership positions at with major financial services firm from 1987 until his election to the Council. He was elected by his peers to serve as Chairman of the Securities Industry Association, for the New York District, for three years.
 
-In the Assembly, he has supported progressive causes, such as a surcharge on millionaires, and granting immediate parole to prisoners who have reached 55 years of age and served 15 years in prison, regardless of their sentence.
+Weprin's organizational affiliations include or have included Northeast Queens Jewish Community Council, Queens Jewish Community Council, Transitional Services for NY, National Conference of Community & Justice, Respect for Law Alliance, National Committee for the Furtherance of Jewish Education, Greater Jamaica Development Corp., Metropolitan Council on Jewish Poverty, American Jewish Congress, Holliswood Civic Association, Economic Education Foundation of the Securities Industry Association and the Brandeis Association.
+
+Weprin lives with his wife Ronni in Holliswood. They are the proud parents of five children.

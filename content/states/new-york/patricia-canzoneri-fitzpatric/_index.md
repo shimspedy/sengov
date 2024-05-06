@@ -17,23 +17,26 @@ name: Patricia Canzoneri-Fitzpatric
 state: New York
 party: Republican
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 415 LOB Albany, NY 12247
 phone1: 518-455-2400
 website: https://www.nysenate.gov/senators/patricia-canzoneri-fitzpatrick/
 email : https://www.nysenate.gov/senators/patricia-canzoneri-fitzpatrick/
-twitter: 
+twitter:
 ---
-Patricia Canzoneri-Fitzpatrick is an American politician currently serving as a member of the New York State Senate for the 9th district since 2023. She was elected in 2022 as a member of the Republican Party.
 
-Born in Rockville Center, New York, Patricia is an accomplished attorney, small business owner, and mother. She earned a bachelor's degree from St. John's University College of Business Administration in 1987 and a J.D. from St. John's University School of Law in 1994. She also attended New York University School of Law.
+Patricia Canzoneri-Fitzpatrick was elected to represent the constituents of Senate District 9 in 2022. An accomplished attorney, small business owner, and mother, Patricia began her tenure in public service as a Trustee in the Village of Malverne in Nassau County. She then went on to become Malverne’s Police Commissioner and Fire Commissioner, working side-by-side with former Malverne Mayor Patti Ann McDonald. Patricia also served as Malverne’s Deputy Mayor and Budget Director. As a chief fiscal officer and trusted public official, Patricia protected the character of Malverne’s suburban neighborhoods while controlling property taxes and improving services.
 
-Before her tenure in the State Senate, Patricia began her public service as a Trustee in the Village of Malverne in Nassau County. She also served as the village's police and fire commissioner. Her commitment to public service and her community has been a defining aspect of her career.
 
-In the 2022 New York State Senate election for District 9, Patricia secured a victory, marking the beginning of her tenure in the State Senate. Her election was a significant event, contributing to the political landscape of New York.
+With four children under the age of 12 to raise as a single mother, Patricia had the strength to face adversity, raise her young family and serve her community as a Malverne Village Trustee. She has never shied away from a challenge, and with her children now older, Patricia is honored to be elected to the State Senate so she can tackle rising crime, skyrocketing taxes and record inflation, all of which are hurting New Yorkers.
 
-As a State Senator, Patricia represents the constituents of Senate District 9, advocating for their interests and working towards the betterment of her district and the state of New York. Her work in the Senate is guided by her experiences as an attorney, a small business owner, and a public servant.
 
-Patricia's journey from a local trustee to a State Senator is a testament to her dedication and commitment to serving her community. Her work continues to impact the lives of the people in her district and the state of New York.
+As an active member of the Malverne Chamber of Commerce and other committees, Patricia has participated and organized countless community events and strives for the betterment of her local town and villages. She was a member of the St. Thomas the Apostle School Board and the Nassau County Sewer and Storm Water Finance Authority, and continues to be the President of the Steven McDonald Memorial Corporation, which plans to provide young people with academic scholarships.
 
+
+The first bill Patricia sponsored was to address judicial discretion related to setting bail since increasing crime has plagued our local communities. She continues to be a strong voice against defunding the police and will continue to fight for legislation to support the police to ensure that law enforcement has the proper resources necessary to keep us safe.
+
+A graduate of St. John’s University School of Law and College of Business Administration, Patricia also has her Master of Laws from New York University School of Law. Her successful career at Deloitte and Touché LLP & Morgan Lewis and Bockius LLP has given her the skills necessary to be an effective Senator, bringing a private-sector mindset to government, seeking efficiency and cost-saving.
+
+Patricia is a lifelong resident of Malverne, where she currently lives with her husband Kevin and her four children.

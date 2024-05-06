@@ -17,7 +17,7 @@ name: Pat Burke
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 555 LOB Albany, NY 12248
 phone1: 518-455-4691
@@ -25,15 +25,5 @@ website: https://nyassembly.gov/mem/Patrick-Burke/
 email : https://nyassembly.gov/mem/Patrick-Burke/
 twitter: patburke142
 ---
-Patrick B. Burke, born on June 22, 1984, is an American politician who serves in the New York State Assembly from the 142nd district. This district represents South Buffalo, the City of Lackawanna, and the towns of West Seneca and Orchard Park. Burke is a native of South Buffalo.
 
-Before his tenure in the State Assembly, Burke served the community as an Erie County Legislator from January 2014 to December 2018. During his time in the legislature, he accomplished several notable legislative feats. These include a ban on microbead plastics, a repeal of Sunday Blue Laws, the creation of a million-dollar emergency fund to combat the opioid crisis, and the formation of the Erie County Broadband Committee.
-
-With three children of his own, Burke has prioritized the health and well-being of children in his legislative efforts. He has banned smoking in a vehicle with children, wrote the Prevention of Emotional Neglect and Child Endangerment (PENCE) Bill to end harmful gay conversion therapy, and championed a local law implementing a Youth Concussion Protocol to ensure the safety of minors playing contact sports.
-
-Burke also introduced legislation that would make the pharmaceutical industry pay its fair share to keep local drinking water free of medical waste, rather than passing the burden onto taxpayers. He introduced the Invest in Erie, Invest in America Act to promote and encourage local businesses in Erie County.
-
-In the 203rd New York State Legislature, Burke co-sponsored laws that allow early voting, no-excuse absentee voting, and regulate political donations by Limited Liability Companies. In 2018, Burke called on Diocese of Buffalo Bishop Richard Joseph Malone to resign over accusations of negligence concerning investigations into priests accused of sexual abuse.
-
-On January 28, 2019, Burke co-sponsored the Child Victims Act that allows prosecutors to bring criminal charges until a victim turns 28, and permits victims to sue until age 55. Burke cosponsored Assembly Bill A576, which passed the State Assembly on January 15, 2019 by a vote of 141-7, and passed the State Senate that same day by a vote of 57-4. The bill expanded the Erie County conversion therapy ban to cover the entire state, and was signed by Governor Andrew Cuomo on January 25, 2019, taking effect immediately upon receiving his signature.
-
+Pat Burke is a Buffalo native, where he resides with his wife and three kids. From January of 2014 to December of 2018, Pat served the community as an Erie County Legislator. He also serves as a political science instructor at Buffalo State College.During Pat’s tenure on the legislature, his notable legislative accomplishments include a ban on microbead plastics, a repeal of Sunday Blue Laws, a million-dollar emergency fund created to combat the opioid crisis and the formation of the Erie County Broadband Committee.With three kids of his own, protecting the health and well-being of children has been at the forefront of Pat’s legislative efforts. He banned smoking in a vehicle with children, wrote the PENCE Bill (Prevention of Emotional Neglect and Child Endangerment) to end harmful gay conversion therapy, and championed a local law implementing a Youth Concussion Protocol to ensure the safety of minors playing contact sports.Pat also introduced legislation that would make the pharmaceutical industry pay its fair share to keep our local drinking water free of medical waste, and not pass the burden onto taxpayers. And, he introduced the Invest in Erie, Invest in America Act promoting and encouraging local businesses in Erie County.

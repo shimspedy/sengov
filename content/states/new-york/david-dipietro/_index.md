@@ -4,7 +4,7 @@ title: "David DiPietro"
 seo_title: "contact Representative David DiPietro"
 subheader:
      greeting: Contact Representative David DiPietro
-     description: David J. DiPietro, born on June 22, 1960, is a Republican member of the New York State Assembly representing Assembly District 147. This district comprises the southern halves of Erie County, New York and Wyoming County, New York.
+     description: David J. DiPietro, born on June 22, 1960, is a Republican member of the New York State Assembly representing Assembly District 147 since November 6, 2012. This district comprises the southern portion of Erie County and all of Wyoming County.
 description: Contact Representative David DiPietro of New York. Contact information for David DiPietro includes email address, phone number, and mailing address.
 image: david-dipietro.jpeg
 video:
@@ -17,7 +17,7 @@ name: David DiPietro
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2013
 mailing1: Legislative Office Building Room 546 LOB Albany, NY 12248
 phone1: 518-455-5314
@@ -25,17 +25,15 @@ website: https://nyassembly.gov/mem/David-DiPietro/
 email : https://nyassembly.gov/mem/David-DiPietro/
 twitter: dipietro4ny
 ---
-David J. DiPietro, born on June 22, 1960, is a Republican member of the New York State Assembly representing Assembly District 147. This district comprises the southern halves of Erie County, New York and Wyoming County, New York.
 
-DiPietro was born in Buffalo, New York. His parents moved the family to the Village of East Aurora where he subsequently attended Immaculate Conception Elementary and East Aurora High School. He earned a degree in Business Administration from Wittenberg University in 1985.
+David DiPietro was elected to serve the constituents of the 147th Assembly District on November 6, 2012. DiPietro is the Ranking Minority member on the Small Business Committee and in 2020 was chosen Minority Whip. DiPietro has won the prestigious New York State Conservative Party “Conservative of the Year” Award 5 times. In 2020 DiPietro was the Only State elected official to receive a perfect “100” ranking. David’s district includes the southern portion of Erie County and all of Wyoming County.
 
-DiPietro began his career at M&T Bank in Buffalo but left after a few years to work as a consultant to small businesses. In 1991 he assumed control of his parents' dry cleaning business in Amherst, New York.
+DiPietro leads the charge for all 2nd Amendment protection issues and leads the fight to restore all Constitutional Freedoms. DiPietro is working hard in Albany to cut taxes and reduce the size of our bloated government, so small business leaders can invest in their companies and hire more workers to improve our economy. David is also fighting to protect our local family farms and agriculture. DiPietro is also a champion for the Pro-Life movement.
 
-He was elected a trustee of the Village of East Aurora in 1999 and mayor in 2002. After serving as mayor for six years, he set his sights on higher office, running in the Republican primary for the 59th New York State Senate District against incumbent Dale Volker in 2008 and challenger Patrick Gallivan in 2010. He ran unsuccessfully as the Tea Party candidate in the 2010 general election for the senate seat.
+A dedicated public servant, DiPietro brings valuable local government experience to the State Assembly. He has served as Trustee and Mayor of the Village of East Aurora. David was recognized at the State of Erie County as the leader in New York State in Mergers and Consolidations for government departments and services. As Mayor of East Aurora, DiPietro cut taxes 3 consecutive years.David reduced the actual size of government and saved taxpayers millions of dollars.
 
-In 2012, he won a seat in the New York State Assembly, where he demonstrated conservative views. In 2013, he introduced legislation to repeal the NY SAFE Act. He voted against proposed medical marijuana legislation, the Compassionate Care Act (Bill A6357), and motions dated June 3, 2013 (94-41) and May 27, 2014 (94-63). DiPietro was one of 13 nay votes when the bill passed on June 20, 2014 (117-13).
+As a small business owner, DiPietro has firsthand experience dealing with the taxes and fees that kill economic development and force businesses to leave New York. In 1989 he took over the family business, Sparkle Cleaners in Amherst, and within three years tripled sales and doubled the number of employees. David added two locations and a few corporate accounts and routes. David also worked at M & T Bank in Buffalo in the Trust Division and worked as a computer and accounting consultant to small businesses in Western New York.
 
-However, DiPietro voted for adding opioid-use disorder (addiction) to the list of conditions treatable by medical marijuana (Bill A09016) on June 6, 2018 (108-28). In 2019 Assemblyman DiPietro became the Assembly sponsor of Bill# A05498 which proposes a constitutional amendment to divide the state into three autonomous regions.
+DiPietro attended East Aurora High School and graduated with a B.S. Degree in Business Administration from Wittenberg University. Active in his community, he was a member of the East Aurora Moose Lodge 370, American Legion Post 362, East Aurora Rotary Club, Six Towns Youth Court, Allied Sportsman Gun Club, Civil Air Patrol Auxiliary, and the Boys and Girls Club of East Aurora.
 
-DiPietro voted against key votes related to policies concerning affirmative action, paid family leave, increasing the minimum wage and prohibiting workplace discrimination. He voted against state-funded projects addressing climate change and a three-year prohibition of hydraulic fracturing.
-
+David and his wife, the former Theresa M. Pimpo, are members of Grace and Truth Church.They reside in their hometown of East Aurora with their three children, Daniel, Ryan, and Ava.

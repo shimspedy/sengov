@@ -17,7 +17,7 @@ name: Robert Carroll
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2017
 mailing1: Legislative Office Building Room 557 LOB Albany, NY 12248
 phone1: 518-455-5377
@@ -25,14 +25,15 @@ website: https://nyassembly.gov/mem/Robert-C-Carroll/
 email : https://nyassembly.gov/mem/Robert-C-Carroll/
 twitter: bobby4brooklyn
 ---
-Robert C. Carroll was born on October 26, 1986, in Brooklyn, New York. He is a Democratic member of the New York State Assembly, representing the 44th District. The district includes portions of the neighborhoods of Park Slope, Windsor Terrace, Kensington, Borough Park, Victorian Flatbush, Ditmas Park, Prospect Heights, and Midwood, as well as the entirety of Prospect Park.
 
-Carroll is a lifelong resident of Brooklyn and was raised in the Windsor Terrace and Kensington neighborhoods. He attended P.S. 230 and Xaverian High School before graduating from Binghamton University and receiving his J.D. from New York Law School. He currently resides in Park Slope with his wife Virginia and their son Teddy.
+Assemblymember Robert Carroll was elected to the Assembly in 2016. He is the Chair of the Legislative Commission on Government Administration and the Chair of the Sub Committee on Museums and Cultural Institutions. Additionally, he serves on six committees, including the Codes; Corporations, Authorities and Commissions; Environmental Conservation; Election Law; Cities; and Arts, Parks and Tourism Committees. Since being elected to the Assembly, he has introduced over 150 bills, 21 of which have passed both the Assembly and Senate, and 17 have become law.
 
-Before being elected to the Assembly, Carroll was a practicing attorney at a firm in Manhattan and the Development Director of a non-profit theatrical organization. Carroll became the youngest president of the Central Brooklyn Independent Democrats. He also served as a member of Brooklyn Community Board 7.
+Assemblymember Carroll has been a leader in the Assembly on a host of issues- from authoring a portion of the landmark Climate Leadership and Community Protection Act and advocating for its passage to sponsoring and passing two property tax abatement bills for solar energy, including the first in the nation abatement for solar energy storage equipment or batteries. He was also the author and prime sponsor of the Low Embodied Carbon Concrete Leadership Act, a first in the nation bill to use the state's purchasing power to prioritize lower carbon concrete. Carroll is the prime sponsor of the New York Build Public Renewables Act, which would allow the New York Power Authority to take the lead in building, operating, and owning renewable energy projects in New York State and require all state-owned buildings to be powered by renewables by 2030 and municipally owned buildings by 2035.
 
-Retiring Assemblyman James F. Brennan stepped down in 2016, creating the first vacancy in 32 years. Carroll easily secured the Democratic nomination. He also won the nomination of the Working Families Party. Carroll is the Chair of the Subcommittee on Museums and Cultural Institutions as well as the Commission on Government Administration.
+Assemblymember Carroll is the leading literacy advocate in the legislature. His Dyslexia Task Force Act, which establishes an expert panel to create standards for universal screening for dyslexia, evidence-based literacy interventions and professional development for teachers, is the first major piece of dyslexia and literacy legislation ever passed by the legislature.
 
-Carroll has written and co-sponsored several bills designed to help children with dyslexia. In 2020, Carroll wrote a bill that would enforce tests in schools that would help to screen young students for dyslexia. The Yale Center for Dyslexia and Creativity praised Carroll and the bill, calling the bill "groundbreaking news for all who care about dyslexia and the future of children who are dyslexic."
+As a former election lawyer and member of the Election Law committee, Assemblymember Carroll has worked to reform New York’s antiquated voting laws by authoring multiple election law bills that have passed both the Senate and Assembly. In 2022 his bills to lower the deadline to register to vote to 10 days prior to an election and his 'wrong church' bill, which stops the invalidation of otherwise valid ballots because a voter appeared at the wrong polling site but the right county and assembly district, passed in both houses of the legislature. He is also the prime sponsor of the constitutional amendment for same day voter registration.
 
-In 2019 Carroll worked with the Brooklyn Irish LGBTQ+ Organization (BILO) and the Irish American Parade Committee to allow for BILO to walk in the Brooklyn St. Patrick's Day Parade. This marked the first time an openly LGBTQ+ organization marched in the parade. Carroll's grandfather co-founded the parade in 1976. On the committee's decision, Carroll stated, "I am so glad that everyone was able to come together to honor Irish heritage and culture and make this the first fully inclusive St. Patrick's Day parade in Brooklyn."
+A leading transportation and safe streets advocate, Assemblymember Carroll successfully advocated for a dedicated funding stream to fully fund the MTA, passed legislation to take dangerous drivers off the road, and passed the MTA Open Data Act, to bring more transparency to the MTA.
+
+Assemblymember Carroll was born and raised in the 44th Assembly District in Brooklyn and attended PS 230 in Kensington as a child. He is a graduate of SUNY Binghamton and has a J.D. from New York Law School. He currently resides in Park Slope with his wife Virginia and their son Teddy.

@@ -4,7 +4,7 @@ title: "Erik Dilan"
 seo_title: "contact Representative Erik Dilan"
 subheader:
      greeting: Contact Representative Erik Dilan
-     description: Erik Martin Dilan, born on May 11, 1974, is an American politician and a member of the Democratic Party. He represents the 54th district of the New York Assembly, which includes the Brooklyn neighborhoods of Bushwick, Cypress Hills, East New York, Ocean Hill, and Brownsville.
+     description: Erik Martin Dilan is currently serving in his fourth term in the New York State Assembly, serving the people of the 54th district. The district covers parts of Bedford Stuyvesant, Bushwick, Cypress-Hills and East New York.
 description: Contact Representative Erik Dilan of New York. Contact information for Erik Dilan includes email address, phone number, and mailing address.
 image: erik-dilan.jpeg
 video:
@@ -17,7 +17,7 @@ name: Erik Dilan
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2015
 mailing1: Legislative Office Building Room 526 LOB Albany, NY 12248
 phone1: 518-455-5821
@@ -25,12 +25,15 @@ website: https://nyassembly.gov/mem/Erik-M-Dilan/
 email : https://nyassembly.gov/mem/Erik-M-Dilan/
 twitter: edilan37
 ---
-Erik Martin Dilan, born on May 11, 1974, is an American politician and a member of the Democratic Party. He represents the 54th district of the New York Assembly, which includes the Brooklyn neighborhoods of Bushwick, Cypress Hills, East New York, Ocean Hill, and Brownsville.
 
-Born and raised in North Brooklyn, Dilan is of Puerto Rican and African American descent. His parents are Martin Malave-Dilan, a current New York State Senator, and Debra Dilan. He attended New York City public schools, including Norman Thomas High School, Philippa Schuyler Middle School, and P.S. 151. He later graduated from St. John's University with an associate of science in business administration.
+Erik Martin Dilan is a lifelong resident of North Brooklyn. Born of Puerto Rican and African American descent, Erik was born in the Bushwick section of Brooklyn on May 11th, 1974 to Martin Malave-Dilan (current NYS Senator) and Debra Dilan.
 
-Before his election to the State Assembly, Dilan served for 12 years in the New York City Council, representing the 37th district. During his tenure in the Council, he served as the chairperson for the housing & building committee, chairperson of the Brooklyn Delegation, and as a member of the budget negotiating team. In these roles, he set legislative priorities related to housing and construction in New York City and was a consensus builder for the Council�s Brooklyn Delegation on major legislative items, passage of the city budget, and funding to Brooklyn cultural groups and not-for-profit organizations.
+A product of New York City public schools, Erik graduated from Norman Thomas High School, Philippa Schuyler Middle School and P.S. 151. Erik later attended St. John’s University, where he received his associate of science in business administration.
 
-Dilan began his career in public service as a member of community school board #32, where he worked with other board members to find the best educators and policies to serve the children of Bushwick. He also served on Brooklyn�s Community Board #4.
+Erik Martin Dilan is currently serving in his fourth term in the New York State Assembly, serving the people of the 54th district. The district covers parts of Bedford Stuyvesant, Bushwick, Cypress-Hills and East New York
 
-Dilan currently resides in the Cypress-Hills section of Brooklyn with his wife Jannitza and their children Daniel, Lea, and Matthew.
+Prior to his election to the State Assembly, Erik was elected to and served for 12 years in the New York City Council. During his tenure in the Council, he served as the chairperson for the housing & building committee, chairperson of the Brooklyn Delegation and as a member of the budget negotiating team. In these roles, Erik had the honor of setting legislative priorities related to housing and construction in the City of New York, being a point person and consensus builder for the Council’s Brooklyn Delegation on, major legislative items, passage of City budget, funding to Brooklyn cultural groups and not for profit organizations.
+
+While Erik was always active in his community from a very young age, he began his career in public service as a member of community school board # 32. Where he was able to work with other board members, to find the best educators and policies to serve the children of Bushwick. He also served on Brooklyn’s Community Board # 4.
+
+Erik currently resides in the Cypress-Hills section of Brooklyn with his wife Jannitza and children Daniel, Lea, and Matthew.

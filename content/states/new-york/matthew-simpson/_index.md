@@ -4,7 +4,7 @@ title: "Matthew Simpson"
 seo_title: "contact Representative Matthew Simpson"
 subheader:
      greeting: Contact Representative Matthew Simpson
-     description: Matthew Simpson is an American politician who is currently serving in the New York State Assembly. He represents the 114th district, which encompasses all of Essex and Warren counties, and portions of Saratoga and Washington counties. He assumed office on January 6, 2021.
+     description: Matt Simpson was elected to the New York State Assembly on November 3, 2020. His district is comprised of Essex County, Warren County, and parts of Saratoga, Washington and Fulton counties. He assumed office on January 6, 2021.
 description: Contact Representative Matthew Simpson of New York. Contact information for Matthew Simpson includes email address, phone number, and mailing address.
 image: matthew-simpson.jpeg
 video:
@@ -17,7 +17,7 @@ name: Matthew Simpson
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 721 LOB Albany, NY 12248
 phone1: 518-455-5565
@@ -25,13 +25,17 @@ website: https://nyassembly.gov/mem/Matthew-Simpson/
 email : https://nyassembly.gov/mem/Matthew-Simpson/
 twitter: mjsimpson22
 ---
-Matthew Simpson is an American politician who is currently serving in the New York State Assembly. He represents the 114th district, which encompasses all of Essex and Warren counties, and portions of Saratoga and Washington counties. He assumed office on January 6, 2021.
 
-Simpson was born on August 4, 1967. He grew up in Bolton, New York. His father was a teacher and his mother was a nurse at Glens Falls Hospital. After graduating from Hoosic Valley High School in 1985, he started his own dry wall company and worked as a business owner for more than 30 years.
+Matt Simpson was elected to the New York State Assembly on November 3, 2020. His district is comprised of Essex County, Warren County, and parts of Saratoga, Washington and Fulton counties.
 
-Before his political career, Simpson served on the Horicon, New York Town Board for two years. He then ran unopposed and was elected supervisor of the town. He also served as president of the Adirondack Association of Towns and Villages.
+Matt firmly believes in putting his constituents interests first in order to prioritize making the community a better place for everyone. Throughout his first term as Assemblyman, he worked to rein in out-of-control spending, fought for lower taxes, eliminated burdensome unfunded mandates, and improved the stateâ€™s failing infrastructure. Matt will continue to advocate for better resources for law enforcement while making public safety a priority; protect the stateâ€™s vibrant state parks; gain financial support for local businesses; hold the government accountable for lack of transparency; and work to keep money in the pockets of hard working taxpayers.
 
-In December 2019, Simpson announced his intentions to run for the 114th Assembly District upon the incumbent, Dan Stec, announcing his desire to represent the 45th district of the New York State Senate. Simpson was elected to the assembly in 2020, defeating Democratic challenger Claudia Braymer and Serve America Movement candidate Evelyn Wood, earning 56.7% of the vote. Upon being elected to the state assembly, he retired his town supervisor seat on December 31, 2020.
+Simpson grew up in the North Country and was first elected to the public office in 2011 when he won a seat on the Horicon Town Board. Two years later, he was elected Town Supervisor where he served until his election to the Assembly.
 
-Throughout his first term as Assemblyman, he worked to rein in out-of-control spending, fought for lower taxes, eliminated burdensome unfunded mandates, and improved the state’s failing infrastructure. Simpson will continue to advocate for better resources for law enforcement while making public safety a priority; protect the state’s vibrant state parks; gain financial support for local businesses; hold the government accountable for lack of transparency; and work to keep money in the pockets of hard working taxpayers.
+While Town Supervisor, he worked double duty by sitting on the Warren County Board of Supervisors. There, Matt served as Committee Chair of Public Works, Committee Chair of Personnel, Committee Vice Chair of Public Safety, and in a number of other capacities.
 
+He was appointed to the Warren and Washington County IDA in 2015, and served as its Chair from 2018-2019. During that time, he oversaw many projects designed to advance the economic viability of the area.
+
+His volunteer work includes serving as President of the Adirondack Association of Towns and Villages (AATV). The AATV represents more than 100 municipalities throughout the Adirondack Park. In his time there, he has worked alongside members of the New York State Assembly and Senate, as well as numerous environmental organizations like the Adirondack Counsel.
+
+Prior to public service, Matt was a small business owner for more than 30 years in the construction trades industry. There, he learned the value of having to roll up his sleeves and work until a job is done. Over the span of three decades, Matt also learned first-hand what goes into creating jobs, making payroll, and succeeding in growing a business in the North Country despite being faced with challenges.

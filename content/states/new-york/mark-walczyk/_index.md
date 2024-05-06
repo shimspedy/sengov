@@ -4,7 +4,7 @@ title: "Mark Walczyk"
 seo_title: "contact Senator Mark Walczyk"
 subheader:
      greeting: Contact Senator Mark Walczyk
-     description: Mark C. Walczyk is an American politician and US Army Reserve Engineer Officer from the state of New York. A Republican, Walczyk represents the 49th district of the New York State Senate. Walczyk won the seat in 2022, after serving in the New York State Assembly.
+     description: Mark C. Walczyk is an American politician from the state of New York. A Republican, Walczyk represents the 49th district of the New York State Senate. Walczyk won the seat in 2022, after serving in the New York State Assembly.
 description: Contact Senator Mark Walczyk of New York. Contact information for Mark Walczyk includes email address, phone number, and mailing address.
 image: mark-walczyk.jpeg
 video:
@@ -17,7 +17,7 @@ name: Mark Walczyk
 state: New York
 party: Republican
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 302 LOB Albany, NY 12247
 phone1: 518-455-3438
@@ -25,15 +25,13 @@ website: https://www.nysenate.gov/senators/mark-walczyk/
 email : https://www.nysenate.gov/senators/mark-walczyk/
 twitter: markwalczyk
 ---
-Mark C. Walczyk is an American politician and US Army Reserve Engineer Officer from the state of New York. A Republican, Walczyk represents the 49th district of the New York State Senate. Walczyk won the seat in 2022, after serving in the New York State Assembly.
 
-Born in Syracuse, NY, to Robert S. Walczyk, Jr. and Carolyn A. Walczyk (Foland), Walczyk is a graduate of the State University of New York, Albany. At age 26, Walczyk joined the US Army Reserve. He currently serves as team leader in the 791st Forward Engineer Support Team (FEST).
+Senator Mark C. Walczyk has been a voice of reason in Albany since he first stepped foot in the Legislature. He is a fighter that stands up for families, calls out corruption, promotes the economy as well as the future of our region and defends the Constitution.
 
-In 2007, while attending SUNY Albany Walczyk began his political career by interning in the NYS Senate through Student Programs. In 2010, Walczyk worked on State Senator Patty Ritchie ’s campaign and worked as her Legislative Director in the State's Capitol thereafter. In 2013, he was appointed as Ritchie's district director.
+Soon after graduating from the University of Albany, Mark began a career in public service with a focus on statewide policy and desire to improve life for residents of Upstate New York. Mark joined the staff of State Senator Patty Ritchie in 2011 where his passion for constituent services first emerged. In 2015, Mark was elected to the Watertown City Council, a nonpartisan council.
 
-In 2015, Walczyk successfully ran for the Watertown City Council in a four-way race. He served on the council for three years before being elected to the Assembly. Walczyk announced in May 2018 that he would challenge incumbent Democratic Assemblywoman Addie Jenne, who had represented the Assembly's 116th district for ten years. That November, Walczyk defeated Jenne with 53% of the vote.
+Elected to represent the 116th Assembly District in 2018, Mark wasted no time delivering wins for his district, to which he coined the name, "The Front Yard of America." His legislation saved Watertown taxpayers roughly 3 million dollars as he carried a bill to cut two full time judges down to one full time and one part time justice for the City. Mark also was a strict fighter for economic growth in his district. He successfully passed legislation to extend the 1000 Islands Seaway Wine Trail, providing better economic opportunity to local agriculture and incentive for tourism in the 116th Assembly District.
 
-In the Assembly, Walczyk served as the ranking Republican on the Higher Education Committee and member of the following committees: Social Services, Cities, Energy, and Transportation. In January, 2020, Walczyk was appointed to the Legislative Commission on Rural Resources. Walczyk considers himself an environmentalist and earned a 56% rating from the NY League of Conservation Voters.
+In the Senate, Mark hit the ground running, working to pass 15 bills through the Senate which was tied for most in the Conference. He fought tirelessly to pass S6249, allowing the Town of Lorraine to establish minimum maintenance roads and more effectively utilize it's resources to maintain roads that are utilized more frequently by its residents. He also advocated for public safety in the Village of Ilion, passing bills S7418 & S7419, to allow two part-time police officers the opportunity to become full-time members of the department.  Mark is the Ranker on the Elections and the Cultural Affairs, Tourism, Parks and Recreation committees. He is also a member of the Agriculture, Cities 2, Internet and Technology, Legislative Commission on Rural Resources, and a member of the Senate Energy and Telecommunications committee, where he has become a leader in fighting against the CLCPA and policy that will burden taxpayers for generations to come.
 
-In 2020, Walczyk garnered more than 60% of the vote, defeating his opponent Alex Hammond. In February 2022, Walczyk announced that he would be running for the newly drawn 49th State Senate District following the announcement of Patty Ritchie 's retirement. After securing the Republican nomination, Walczyk won the general election unopposed. Walczyk serves as the Ranking member of the Senate's Elections Committee and the Cultural Affairs, Tourism and Parks and Recreation Committee.
-
+Mark is an Eagle Scout. He is married to the love of his life, Jessica. They have two children, Atticus and Byron, and a mostly well-behaved hound, Alfred.

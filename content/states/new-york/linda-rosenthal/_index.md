@@ -17,7 +17,7 @@ name: Linda Rosenthal
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2006
 mailing1: Legislative Office Building Room 943 LOB Albany, NY 12248
 phone1: 518-455-5802
@@ -25,17 +25,11 @@ website: https://nyassembly.gov/mem/Linda-B-Rosenthal/
 email : https://nyassembly.gov/mem/Linda-B-Rosenthal/
 twitter: lindabrosenthal
 ---
-Linda B. Rosenthal, born on November 12, 1957, is a representative of District 67 as a Democrat in the New York State Assembly. This district includes parts of Manhattan's Upper West Side and Clinton/Hell's Kitchen neighborhoods.
 
-Early Life:
-Linda Rosenthal was born in 1957 to parents who fled the Nazis in the 1930s. She earned a B.A. degree in history from the University of Rochester in 1980.
+Assemblymember Linda B. Rosenthal represents the 67th Assembly district, which includes the Upper West Side and parts of Clinton/Hell’s Kitchen in Manhattan. Elected in 2006 after serving for 13 years as Manhattan District Director and Director of Special Projects for United States Congressman Jerrold Nadler, Rosenthal succeeded then – Assemblymember, now New York City Comptroller Scott M. Stringer.
 
-Political Career:
-In 1993, Rosenthal began working for US Congressman Jerry Nadler, who represented New York's 10th congressional district. She served as Manhattan District Director and Director of Special Projects. Prior to this, she worked in publishing.
+Since then, Assemblymember Rosenthal has passed more than 120 laws that have helped to improve the lives of all New York State residents. In previous sessions, Rosenthal has passed laws extending orders of protection to companion animals whose abuse often serves as a warning sign; requiring that applicants of public assistance be provided with information and resources for victims of sexual assault; allowing for same sex couples to adopt non-biological children together in New York State; and prohibiting the sale of electronic cigarettes to minors. In her tenure, Rosenthal has established herself as a leading advocate on affordable housing, domestic violence, consumer protection, government reform, environmental issues and animal cruelty.
 
-New York State Assembly:
-Rosenthal was elected to the New York State Assembly in a February 2006 special election for District 67. This election was held to replace Scott Stringer, who left the Assembly to become Manhattan Borough President. Rosenthal won the November 2008 general election with 84.7 percent of the vote, and ran uncontested in the November 2010 general election.
+Assemblymember Rosenthal received a B.A. in History from the University of Rochester. She is a life-long resident of the Upper West Side.
 
-In May 2015, fellow Manhattan Democrat Richard N. Gottfried tried to curb a bill introduced by Rosenthal that would allow customers to bring their dogs to outdoor restaurants. However, the bill passed the Senate in May 2015 by a 60-0 vote. In March 2016, following the State Legislature's passage of her bill, the New York City Department of Health and Mental Hygiene issued an advisory allowing dogs to accompany human diners at restaurants that have outdoor seating.
-
-In March 2019, she introduced a bill, A5040, that will ban a sale of fur in New York, by 2021. New York would follow California, which is in the process of legislating the ban. Also in 2019, New York passed Rosenthal's bill A1303B, the first statewide law to ban cat declawing in the United States. She worked closely with the nonprofit animal advocacy organization, The Paw Project, to pass the bill.
+Chair, Committee on Social Services. Previous Chair, Committee on Alcoholism and Drug Abuse; Commission on Science and Technology; Mitchell-Lama Housing. Standing Committee Assignments: Agriculture;Codes, Housing; Health.

@@ -4,7 +4,7 @@ title: "Alec Brook-Krasny"
 seo_title: "contact Representative Alec Brook-Krasny"
 subheader:
      greeting: Contact Representative Alec Brook-Krasny
-     description: Alec Brook-Krasny
+     description: Alec Brook-Krasny was elected to the New York State Assembly on November 8, 2022. The 46th Assembly District includes part of Kings County. He assumed office on January 1, 2023. His current term ends on January 1, 2025.
 description: Contact Representative Alec Brook-Krasny of New York. Contact information for Alec Brook-Krasny includes email address, phone number, and mailing address.
 image: alec-brook-krasny.jpeg
 video:
@@ -17,7 +17,7 @@ name: Alec Brook-Krasny
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 529 LOB Albany, NY 12248
 phone1: 518-455-5434
@@ -25,16 +25,17 @@ website: https://nyassembly.gov/mem/Alec-Brook-Krasny/
 email : https://nyassembly.gov/mem/Alec-Brook-Krasny/
 twitter:
 ---
-Alec Brook-Krasny
 
-Born on March 2, 1958, in Moscow, Russia, Alec Brook-Krasny is an American politician currently serving in the New York State Assembly representing the 46th district. He was a member of the Democratic Party and was elected on November 7, 2006, to represent the 46th District, which covers the neighborhoods of Bath Beach, Bay Ridge, Brighton Beach, Coney Island, Dyker Heights, and Seagate, in Brooklyn. He resigned on July 7, 2015.
+Alec Brook-Krasny was elected to the New York State Assembly on November 8, 2022. The 46th Assembly District includes part of Kings County.
 
-Brook-Krasny immigrated to the United States in 1989 from Moscow, where he had graduated from the Moscow Institute of Consumer Technology (currently the Russian State University for Tourism and Services) in 1983. After several years in New York City, he became a manager and started a children's entertainment and community center called Funorama, in Brighton Beach, Brooklyn.
+Alec was born in Moscow to a shoemaker and a bookkeeper who worked at a beauty salon before emigrating to Brooklyn. Speaking only a handful of English words, he became a stock person at an East Village shoe store in Manhattan before being promoted to manager. He enjoyed much success in the private sector, including being named “Entrepreneur of the Year” by Leisure and Entertainment magazine for his work building the Fun-O-Rama community, entertainment, and educational center.
 
-His first political campaign was in 2000 for the New York State Assembly. In 2001, he ran for the New York City Council. Although he won the endorsement of The New York Times, he lost the election to Domenic M. Recchia, Jr.
+After first running for state Assembly in 2000, and setting a record for write-in votes in the City of New York with 1,800 votes, Alec was first elected to the state Assembly in 2006, and represented Coney Island, Bay Ridge, and Dyker Heights. He served on several committees including Aging, Cities, Governmental Employees, Housing, and Social Services. During his time in office, he received a Public Service Commendation Medal from the Department of the Army for his commitment to the military community.
 
-In 2006, State Assemblywoman Adele Cohen retired and Brook-Krasny declared his candidacy for her position. He won the Democratic primary election, and then won the general election over the Republican candidate, Patricia B. Laudano. Brook-Krasny was reelected to his assembly seat in 2008, 2010, 2012, and 2014. During his tenure, he served on the Housing, Aging, Cities, Election Law, and Governmental Employees Committees.
+In 2013, Alec’s colleagues named him the Vice-Chair for Majority Steering and Chair of the Assembly Task Force for New Americans. After nine years of successfully representing his constituents, Alec left the Assembly in 2015 for family reasons.
 
-On June 11, 2015, he announced his resignation from the assembly effective July 7, to work in the private sector. He was succeeded by Pamela Harris, who was selected as the Democratic nominee by a party committee and then won the special general election in November.
+Prior to his time in office, Alec attended the Moscow Technological Institute and graduated with dual degrees in engineering and economics before coming to America. Alec was also appointed to Community Board 13 and became active in local politics. As such, he founded the Council of Jewish Émigré Community Organizations to bridge the gap between the Jewish-American and the Russian-Jewish communities.
 
-In 2022, Brook-Krasny announced that he was joining the Republican party and running for the State Assembly once again. He was elected and is again a member of the Assembly.
+Now in his second stint as an Assembly member, Alec will fight to restore funding to the New York City Police Department, rebuild our criminal justice system, reverse bail reform, lift struggling schools, support small businesses, and help the middle class recover from the economic downturn.
+
+Alec currently resides in Brooklyn.

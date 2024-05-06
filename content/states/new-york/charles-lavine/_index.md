@@ -4,7 +4,7 @@ title: "Charles Lavine"
 seo_title: "contact Representative Charles Lavine"
 subheader:
      greeting: Contact Representative Charles Lavine
-     description: Charles David Lavine, born on August 14, 1947, is a member of the New York State Assembly, representing the 13th district. This district includes portions of the towns of North Hempstead and Oyster Bay in Nassau County. He is a member of the Democratic Party.
+     description: Charles David Lavine represents the 13th Assembly District, which consists of portions of northeastern Nassau County. He serves as Chair of the Judiciary Committee and is a member of the Committees on Codes, Ethics and Guidance, Rules and Insurance.
 description: Contact Representative Charles Lavine of New York. Contact information for Charles Lavine includes email address, phone number, and mailing address.
 image: charles-lavine.jpeg
 video:
@@ -17,7 +17,7 @@ name: Charles Lavine
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2005
 mailing1: Legislative Office Building Room 831 LOB Albany, NY 12248
 phone1: 518-455-5456
@@ -25,24 +25,17 @@ website: https://nyassembly.gov/mem/Charles-D-Lavine/
 email : https://nyassembly.gov/mem/Charles-D-Lavine/
 twitter: charleslavineny
 ---
-Charles David Lavine, born on August 14, 1947, is a member of the New York State Assembly, representing the 13th district. This district includes portions of the towns of North Hempstead and Oyster Bay in Nassau County. He is a member of the Democratic Party.
 
-Early Life and Education
+Charles David Lavine represents the 13th Assembly District, which consists of portions of northeastern Nassau County. He serves as Chair of the Judiciary Committee and is a member of the Committees on Codes, Ethics and Guidance, Rules and Insurance.
 
-Lavine was born in Marinette, Wisconsin. He graduated from Marinette High School in 1965 and received a B.A. degree in English Literature from the University of Wisconsin�Madison in 1969. After moving to New York, he earned a J.D. from New York Law School in June 1972.
+As Chair of the Election Law Committee, Lavine spearheaded the effort to bring Early Voting to New York State.He also served as Chair of the Committee on Ethics and Guidance, co-Chair of the New York State Legislative Ethics Commission and as Chair of the Taskforce that produced the Assembly Speaker’s Policy on Sexual Harassment, Retaliation and Discrimination. Each of these entities are bipartisan. As Judiciary Chair, Lavine ensured that the investigation into former Governor Andrew Cuomo was conducted in a fair and responsible manner.
 
-Career
+Assemblymember Lavine is dedicated to fighting for laws that will make New York an even better place to live. His passion for more open and efficient government has motivated him to fight for legislation that strips corrupt public officials of their pensions. The Assemblymember is also a proponent of campaign finance reform and ethics legislation.
 
-From 1972 to 1976, Lavine worked as a staff attorney for the Legal Aid Society of New York. From 1977 to 1995, he served as a partner in the law firm of Grossman, Lavine & Rinaldo in Forest Hills, New York. Since 1996, he has been a sole practitioner specializing in criminal defense work.
+To keep our families safe, Assemblymember Lavine urged passage of the Scott J. Biegel Unfinished Receivers Act, banning the sale and possession of so-called ‘ghost guns,’ which was signed into law. He also sponsored additional legislation that will increase penalties for criminals who use high capacity firearm magazines and legislation that will help to halt the trafficking of illegal weapons into New York.
 
-In 2000, Nassau County Executive and Glen Cove Mayor Thomas Suozzi appointed Lavine to the Glen Cove Planning Board. In May 2003, Lavine was appointed to fill a vacancy on the Glen Cove City Council, a position to which he was subsequently elected.
+Alarmed by the number of veterans living in poverty and with mental health disorders, he authored legislation to identify former military members in need and coordinate the necessary services to improve their lives.
 
-In 2004, he successfully ran in the Democratic Party primary election for an Assembly seat against six-term incumbent David S. Sidikman and later that year won the seat at the general election, taking office in 2005.
+Lavine is also a proud sponsor of the legislation that resulted in Marriage Equality in New York State.
 
-In 2016, Lavine announced that he would run for Nassau County Executive in 2017, with a focus on weeding out corruption and strengthening government ethics in Nassau. However, in May 2017, Lavine dropped out of the race for Country Executive and endorsed Laura Curran for the position.
-
-In January 2021, Assembly Speaker Carl E. Heastie appointed Assemblymember Lavine as Chair of the Judiciary Committee. Lavine is also a member of the Committee on Codes, Ethics and Guidance, Rules and Insurance.
-
-Personal Life
-
-Lavine has been a Glen Cove resident since 1980. He and his wife Ronnie have two grown children, Gregory and Andria.
+As President of the New York Chapter of the National Association of Jewish Legislators and as a member of its national board of directors, Lavine is a staunch voice for the Jewish community and for the state of Israel. He is a steadfast advocate for a strong alliance between the United States and Israel.

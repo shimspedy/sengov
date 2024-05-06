@@ -4,7 +4,7 @@ title: "Pete Harckham"
 seo_title: "contact Senator Pete Harckham"
 subheader:
      greeting: Contact Senator Pete Harckham
-     description: Peter Harckham, born on September 16, 1960, is an American businessman and politician from the State of New York. A member of the Democratic Party, Harckham represents Senate District 40 in the New York State Senate. He was first elected in 2018, defeating incumbent Terrence Murphy.
+     description: Peter Harckham, born on September 16, 1960, is an American politician from the State of New York. A member of the Democratic Party, Harckham represents Senate District 40 in the New York State Senate. He was first elected in 2018, defeating incumbent Terrence Murphy, and re-elected in 2020 and 2022—the culmination so far of a distinguished career in public service.
 description: Contact Senator Pete Harckham of New York. Contact information for Pete Harckham includes email address, phone number, and mailing address.
 image: pete-harckham.jpeg
 video:
@@ -17,7 +17,7 @@ name: Pete Harckham
 state: New York
 party: Democratic
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 315 LOB Albany, NY 12247
 phone1: 518-455-2340
@@ -25,12 +25,20 @@ website: https://www.nysenate.gov/senators/pete-harckham/
 email : https://www.nysenate.gov/senators/pete-harckham/
 twitter: senatorharckham
 ---
-Peter Harckham, born on September 16, 1960, is an American businessman and politician from the State of New York. A member of the Democratic Party, Harckham represents Senate District 40 in the New York State Senate. He was first elected in 2018, defeating incumbent Terrence Murphy.
 
-Harckham grew up in the Hudson Valley, residing in Rockland County for most of his childhood. He attended Clarkstown High School North, before attending Dickinson College, where he graduated in English. Harckham began his career in the advertising sector, working on Madison Avenue in the 1980s. Today he continues to work in media and advertising, and owns his own business based in the Hudson Valley.
+Pete Harckham was elected to the New York State Senate in November 2018, and re-elected in 2020 and 2022—the culmination so far of a distinguished career in public service. Currently, he is chair of the Senate Environmental Conservation Committee.
 
-Prior to elected office, Harckham served as President for a not-for-profit housing corporation that builds affordable housing in northern Westchester County. Prior to that, Harckham served as Vice Chair of the Clarence E. Heller Charitable Foundation, a San Francisco-based private foundation that supports the sustainable management of natural resources.
+Through his two full terms in office, Harckham has become one of the most productive members of the New York State Senate. He worked to make the 2% Property Tax Cap permanent; delivered record aid to education; and addressed the opioid crisis by doubling minimum treatment times and reducing barriers to life saving treatment.
 
-In 2007, Harckham was first elected to the Westchester County Board of Legislators, winning again in 2009, 2011, and 2013. He ran unsuccessfully for the New York State Assembly in a 2010 special election. He served for four terms as a county legislator, including two terms as Democratic Majority Leader. In 2012 he was a pledged elector for president Barack Obama in the electoral college. In 2015 he left the legislature to work in the administration of New York Governor Andrew Cuomo as assistant director of the Office of Community Renewal. In that position he helped administer grants in the lower Hudson Valley.
+Well-regarded as a champion of the environment, Harckham helped pass the toughest climate protection legislation in the nation, and also introduced legislation, later enacted, requiring all new passenger car and truck sales to be zero emission by 2035 and allowing municipalities to build solar canopies and jumpstart community renewable energy projects. Earlier this year, Governor Kathy Hochul placed Harckham’s landmark wetlands legislation protecting Class C streams statewide, which will safeguard fragile drinking water resources, into her proposed 2023 State Budget.
+Additionally, Harckham has been a leading voice to hold the utilities accountable in the wake of failed responses to natural disasters and has been there for residents during the Covid-19 pandemic. To date, he has held 13 food drives to fight hunger, assisted thousands of residents with unemployment claims and delivered PPE to first responders and municipalities throughout the 40th Senate District.
 
-In 2018, Harckham was recruited to run against incumbent Republican state Senator Terrence Murphy. Murphy had represented Senate District 40 since 2015. While the district was competitive, Murphy was believed to be a formidable candidate who was less vulnerable than some of his GOP colleagues. Harckham was elected to the New York State Senate in November 2018, and re-elected in 2020 and 2022�the culmination so far of a distinguished career in public service. Currently, he is chair of the Senate Environmental Conservation Committee.
+In 2015, Harckham was appointed Assistant Director of the Office of Community Renewal, responsible for the roll out and implementation of a special allotment of $4.3M in CDBG funding for Westchester municipalities. Afterwards, he served for two years as the Director of Intergovernmental Affairs for the Governor Mario M. Cuomo Bridge project.
+
+From 2008 to 2015 Harckham served on the Westchester County Board of Legislators (BOL), where he was a leading voice for protecting the environment, maintaining vital services and investing in our families. He was the BOL’s Majority Leader from 2010 through 2013.
+
+Before being elected to the BOL, Harckham served as board president of A-HOME, a not-for-profit housing corporation that builds affordable housing in northern Westchester and worked as a communications professional on Madison Avenue for major advertising agencies. He also helmed his own communications and marketing firm, and founded K&E Farms, a small horse farm in Katonah, NY, where he donated conservation easements from the farm to the Westchester Land Trust. Both his prior residence and farm were converted to solar power.
+
+In addition to his professional work, Harckham served on the President’s Council for the Northern Westchester Hospital, was a board member for the United Way of Westchester and Putnam, the Junior League of Northern Westchester Community Advisory Council and the Livable Communities Council.
+
+Pete is a lifelong resident of the Hudson Valley, having grown up in Rockland County. He moved to Katonah in Westchester in 1991 and now lives in South Salem.  He has two adult daughters, Emma and Kate, who both attended the Katonah-Lewisboro public schools.

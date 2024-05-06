@@ -17,7 +17,7 @@ name: Helene Weinstein
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 1981
 mailing1: Legislative Office Building Room 923 LOB Albany, NY 12248
 phone1: 518-455-5462
@@ -25,20 +25,17 @@ website: https://nyassembly.gov/mem/Helene-E-Weinstein/
 email : https://nyassembly.gov/mem/Helene-E-Weinstein/
 twitter: heleneweinstein
 ---
-Helene E. Weinstein is an American politician who represents District 41 in the New York State Assembly. The district comprises Sheepshead Bay, Flatlands, East Flatbush, Midwood, and Canarsie.
 
-Born on September 6, 1952, in Brooklyn, New York, Weinstein was educated in the New York City public school system. She received her Bachelor's degree in economics from American University and a law degree from the New England School of Law.
+Helene Weinstein, the longest serving woman in the history of the Assembly, is no stranger to breaking barriers. As the first woman to chair the Assembly Judiciary Committee, she was, and continues to be, a tireless advocate for children and families; sponsoring legislation establishing permanent funding for domestic violence shelters, making discrimination in private clubs illegal, protecting crime victims with a rape shield extension law, and mandating seatbelts on school buses.
 
-Weinstein was first elected to the New York State Assembly in 1980. She currently chairs the Assembly's Ways and Means Committee and is a member of the standing committees on Aging, Codes, and Rules. She previously chaired the Assembly Committee on Governmental Employees, Election law, and Judiciary, and the Assembly Task Force on Women's Issues for seven years.
+Most recently, Assemblywoman Weinstein was appointed as the first female Chair of the Assembly Ways and Means Committee, overseeing all matters pertaining to the adoption of a State Budget and all legislation introduced in the Assembly that would impact spending or revenues at the State or local level.
 
-Weinstein is renowned for her advocacy work on behalf of veterans, crime victims, and the disabled. Throughout her career, she has secured funding for various community, senior youth, and school organizations that provide essential services to residents in the 41st Assembly District.
+Helene Weinstein sponsored New York State’s landmark Family Protection and Domestic Violence Intervention Act of 1994, which significantly changed the way police and courts deal with domestic violence, the Child Support Standards Act, and championed a law requiring judges to consider domestic violence when determining child custody and visitation cases.
 
-She is the first woman in New York State's history to be appointed to the position of Chair of the Assembly Standing Committee on Judiciary. The Judiciary Committee presides over virtually all legislation affecting the state's judicial system, Family and Domestic Relations Law, Trusts and Estates, as well as civil practice in the courts.
+In recent years Assemblywoman Weinstein has been instrumental in introducing legislation to create an address confidentiality program for victims of domestic violence who have left their home as a result of abuse and require confidentiality to protect them and their children. She has written a plethora of laws protecting children from sex offenders, shielded consumers from unfair banking and business practices, championed the landmark “zombie property” law, which improved communities by forcing lenders and banks to maintain properties vacant following foreclosures, and passed a law closing the loopholes that made raising rent and rent decontrol far too easy for landlords who priced families out of their homes.
 
-Weinstein has sponsored major reforms in the state's jury system and is the leading proponent of ensuring civil legal services for low-income New Yorkers. She led the successful effort to increase 18B and Law Guardian rates. Weinstein is also a member of the Court Facilities Capital Review Board.
+The Assemblywoman previously chaired the Governmental Employees and Election Law Committees, Task Force on Women’s Issues and is a former chair of the Legislative Women’s Caucus. Currently she is also a member of the Rules Committee.
 
-She has been involved in the drafting and passage of several key pieces of legislation, especially with respect to family law. She is the sponsor of the Family Protection and Domestic Violence Intervention Act, as well as the Child Support Standards Act. Weinstein has previously served as an appointee of former Governor Mario Cuomo to the New York State Child Support Commission and the Governor's Commission on Domestic Violence.
+She received her Bachelor’s Degree in Economics from American University and received a Juris Doctor from New England School of Law. Ms. Weinstein is renowned for her advocacy work on behalf of veterans, crime victims, and the disabled and throughout her career has secured funding for various community, senior youth and school organizations that provide essential services to residents in the 41st Assembly District.
 
-Over her political career since 1998, the two groups contributing the greatest amounts to her campaigns have been trial lawyers/lobbyists and public sector unions.
-
-Weinstein holds a B.A. in Economics from American University as well as a degree from the New England School of Law. She is of counsel to her family's personal-injury law firm, Weinstein, Chase, Messinger & Peters, P.C. She has been licensed to practice law in New York since 1977.
+A lifelong Brooklynite, the Assemblywoman maintains an active community office and devotes much time to attending local events, overseeing district office programs, and keeping the constituency informed through her regular attendance at number of neighborhood civic meetings.

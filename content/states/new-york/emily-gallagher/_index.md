@@ -4,7 +4,7 @@ title: "Emily Gallagher"
 seo_title: "contact Representative Emily Gallagher"
 subheader:
      greeting: Contact Representative Emily Gallagher
-     description: Emily E. Gallagher (born March 23, 1984) is an American politician. She is the Democratic representative serving District 50 in the New York State Assembly, which comprises parts of Greenpoint, Williamsburg and Fort Greene, among other neighborhoods located in the northern portion of the New York City borough of Brooklyn.
+     description: Emily E. Gallagher (born March 23, 1984) is an American politician. She is the Democratic representative serving District 50 in the New York State Assembly, which comprises the North Brooklyn neighborhoods of Greenpoint and Williamsburg in the New York State Assembly.
 description: Contact Representative Emily Gallagher of New York. Contact information for Emily Gallagher includes email address, phone number, and mailing address.
 image: emily-gallagher.jpeg
 video:
@@ -17,7 +17,7 @@ name: Emily Gallagher
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 441 LOB Albany, NY 12248
 phone1: 518-455-4477
@@ -25,15 +25,9 @@ website: https://nyassembly.gov/mem/Emily-Gallagher/
 email : https://nyassembly.gov/mem/Emily-Gallagher/
 twitter: emilyassembly
 ---
-Emily E. Gallagher (born March 23, 1984) is an American politician. She is the Democratic representative serving District 50 in the New York State Assembly, which comprises parts of Greenpoint, Williamsburg and Fort Greene, among other neighborhoods located in the northern portion of the New York City borough of Brooklyn.
 
-Early Life:
-Gallagher grew up in Rochester, New York, and moved to Greenpoint, Brooklyn shortly after graduating from Ithaca College in 2006.
+Emily Gallagher represents the North Brooklyn neighborhoods of Greenpoint and Williamsburg in the New York State Assembly. Elected in 2020, she was the first new member of the Assembly to represent the 50th district in nearly half a century. Since taking office, Emily has fought to address New York’s deep inequality and dire housing crisis while accelerating the state’s transition to renewable energy. In the 2023 session, she led the charge on two first-in-the-nation policies: the All-Electric Buildings Act to phase out fossil gas hookups in new construction, and the LLC Transparency Act to unmask anonymous shell companies operating with impunity in New York. A member of the Assembly Transportation Committee, Emily has also been a leader on local and statewide initiatives to make streets safer for all users of the road.
 
-Political Career:
-In 2016, Gallagher ran for Democratic leader of New York's 50th State Assembly district against 32-year incumbent Linda Minucci. She was endorsed by Congresswoman Nydia Vel�zquez and New York City Council Member Antonio Reynoso, but ultimately lost with 44.9% of the vote. Gallagher was soon after appointed to Brooklyn Community Board 1, where she worked on transportation issues, the environment, and uncovering community board abuses.
+Before joining the Assembly, Emily worked as an educator and public historian at the Tenement Museum and other local institutions. In 2015, she became the Community Affairs Director for Hostelling International, where she was focused on sustainability and community engagement in the tourism industry. A longtime neighborhood activist in Greenpoint, Emily spent years organizing for environmental, transportation and housing justice, and to clean up the toxic legacy of the fossil fuel industry. From 2008 to 2015, she co-chaired the activist group Neighbors Allied for Good Growth (NAG) and, starting in 2015, penned a weekly column for the local paper The Greenpoint Star. Gallagher focused on the intersectional nature of the problems facing her community, especially around environmental degradation, health inequality, tenants’ rights and a rapidly gentrifying waterfront.
 
-New York State Assembly:
-On September 23, 2019, Gallagher launched a campaign against incumbent Joe Lentol for the Democratic primary to represent District 50 in the New York State Assembly. Gallagher ran on a platform of environmental sustainability, housing justice, and transit improvement, and received endorsements from New Kings Democrats, New York Communities for Change and the Brooklyn Young Democrats. A member of the Brooklyn Democratic Socialists of America, she sought their endorsement but did not receive it due to Brooklyn DSA's limited capacity and desire to focus on building power in working-class communities of color.
-
-On primary election night, June 23, 2020, Gallagher trailed Lentol by 1,763 votes based on in-person totals. Absentee ballots were more significant than usual, however, due to the COVID-19 pandemic, and once they were counted, Gallagher was determined to have won by between 400-600 votes. In the final certified result, Gallagher won by 1,151 votes. On June 28, 2022, Gallagher won the Democratic primary with 79.5% of the votes over Paddy O'Sullivan.
+A lifelong resident of New York State, Emily was raised in the Rochester area and attended Ithaca College before moving to Brooklyn in 2006.

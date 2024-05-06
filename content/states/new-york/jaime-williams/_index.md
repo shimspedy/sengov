@@ -4,7 +4,7 @@ title: "Jaime Williams"
 seo_title: "contact Representative Jaime Williams"
 subheader:
      greeting: Contact Representative Jaime Williams
-     description: Jaime R. Williams was born on August 24, 1979, in Trinidad and Tobago. She immigrated to New York City in 1999 and has been a resident of Brooklyn ever since. She pursued her education at Fordham University, where she earned a master's degree in social work.
+     description: Assemblymember Jaime Williams proudly began her first term serving the 59th Assembly District on April 19, 2016. This wonderful, diverse and eclectic district encompasses the neighborhoods of Canarsie, Georgetown, Mill Basin, Marine Park, Bergen Beach and Gerritsen Beach.
 description: Contact Representative Jaime Williams of New York. Contact information for Jaime Williams includes email address, phone number, and mailing address.
 image: jaime-williams.jpeg
 video:
@@ -17,7 +17,7 @@ name: Jaime Williams
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2016
 mailing1: Legislative Office Building Room 641 LOB Albany, NY 12248
 phone1: 518-455-5211
@@ -25,14 +25,11 @@ website: https://nyassembly.gov/mem/Jaime-R-Williams/
 email : https://nyassembly.gov/mem/Jaime-R-Williams/
 twitter:
 ---
-Jaime R. Williams was born on August 24, 1979, in Trinidad and Tobago. She immigrated to New York City in 1999 and has been a resident of Brooklyn ever since. She pursued her education at Fordham University, where she earned a master's degree in social work.
 
-Before her political career, Williams worked in the community, including for domestic violence prevention. Following Hurricane Sandy, she worked for Catholic Social Services of Brooklyn and Queens to help with relief efforts. She joined the staff of Assemblywoman Roxanne Persaud following her election in 2014 as her Chief of Staff.
+Assemblymember Jaime Williams proudly began her first term serving the 59th Assembly District on April 19, 2016. This wonderful, diverse and eclectic district encompasses the neighborhoods of Canarsie, Georgetown, Mill Basin, Marine Park, Bergen Beach and Gerritsen Beach.
 
-Williams is a member of the Democratic Party and represents the 59th district of the New York State Assembly. The district includes portions of Canarsie, Georgetown, Mill Basin, Marine Park, and Gerritsen Beach in Brooklyn.
+Originally from Trinidad and Tobago, she came to the United States and settled in New York City. After graduating from Kingsborough Community College, Jaime next earned her bachelor’s degree in social work at York College, followed by a master’s degree in social work from Fordham University. She then proudly returned to her alma mater, Kingsborough Community College, to successfully earn her CASAC-T certificate as an Alcohol and Substance Abuse Counselor with a specialization in gambling counseling. She has more than 8 years of experience counseling women and children victims of domestic violence along with clients who were HIV+ with a history of substance abuse. She is a past, member of the 69th Precinct Community Council, the Mill Basin Civic Association and Brooklyn's Community Board 18. Those experiences have allowed her to collaborate with faith-based community and civic organizations to promote domestic violence awareness and participate in countless food and toy drives for families in the community. She is currently an active member of the Canarsie Lions Club.
 
-Assemblywoman Roxanne Persaud was elected to the New York Senate in a special election in November 2015 following John Sampson losing his Senate seat due to a felony conviction. As a result, she resigned from the Assembly to take her seat in the Senate. Brooklyn Democrats soon after chose Williams to run in the special election to serve out the remainder of Persaud's term. She went on to win the special election against Republican Jeffrey Feretti with 82.47% of the vote. Williams was seated in the Assembly on May 10, 2016.
+Following Superstorm Sandy, Assemblymember Williams worked with Catholic Charities helping residents in Canarsie, Bergen Beach, Gerritsen Beach and Coney Island. She also served as the Community Project Director for Brooklyn East at Catholic Charities, where she provided outreach programs for the community in Brownsville, East New York, Canarsie and Mill Basin. Through continued outreach, Jaime served as the liaison between Catholic Charities and local elected officials to address social service issues affecting Catholic Charities programs. Following storms and hurricanes in the Caribbean in 2017, Jaime led a humanitarian relief mission to aid several countries and territories in desperate need, dispensing much-needed medical supplies and food. Jaime and her team took home the lesson that disaster can strike at any moment and preparation is a must, so she then graduated from NYC’s CERT program, a volunteer program that prepares members of the community for emergencies by aiding police and fire departments during a crisis. That helped her to spearhead a mission to Kentucky following its devasting tornado in December 2021.
 
-Williams has been assigned to several committees during her tenure, including the Agriculture Committee, Environmental Conservation Committee, Governmental Operations Committee, Real Property Taxation Committee, and the Transportation Committee.
-
-She ran for re-election to the New York State Assembly to represent District 59 and won in the general election on November 8, 2022. Her current term ends on January 1, 2025.
+Assemblymember Williams continues to work hard for members of her local community and beyond.

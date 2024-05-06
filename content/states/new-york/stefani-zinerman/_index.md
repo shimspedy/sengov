@@ -17,7 +17,7 @@ name: Stefani Zinerman
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 553 LOB Albany, NY 12248
 phone1: 518-455-5474
@@ -25,16 +25,13 @@ website: https://nyassembly.gov/mem/Stefani-Zinerman/
 email : https://nyassembly.gov/mem/Stefani-Zinerman/
 twitter: zinermanfor56ad
 ---
-Stefani Zinerman is an American politician and a member of the Democratic Party. She currently represents district 56, which includes Bedford-Stuyvesant and Crown Heights in Brooklyn, New York, in the New York State Assembly.
 
-Born on October 30, 1964, Zinerman grew up in Downtown Brooklyn in Gowanus public housing. Her parents were from Bedford-Stuyvesant, and lived in Clinton Hill, Brooklyn until they were able to move to Gowanus through the New York City Housing Authority. She credits her parents for encouraging her interest in politics.
+Stefani L. Zinerman was elected to the 56th District in the New York State Assembly on November 3, 2020, to represent the historic neighborhoods of Bedford-Stuyvesant and Crown Heights in Brooklyn. She joins the Legislature as an experienced government, nonprofit and small-business professional who has pioneered efforts in workforce development and healthy aging initiatives.
 
-Zinerman studied business management at the Rochester Institute of Technology. She worked in the banking industry and beverage distribution, and later was senior manager for a New York City adult literacy program. Zinerman also served as a pastor and was involved in community organizations including the Brooklyn NAACP and Age-Friendly, a program she chaired that helps local leaders improve their communities for the elderly.
+Stefani is a tireless advocate for civil rights and justice and champions education access, food justice, housing stability and maternal health. As a Silver Life Member and Member-At-Large of the Brooklyn NAACP, she continuously promotes voter rights and is a recognized leader in voter education, engagement and registration.
 
-Zinerman entered local politics after New York City Mayor Michael Bloomberg defunded the Begin Education/Employment Gain Independence Now (BEGIN) program; struck by the callousness of this decision against literacy and job training, she volunteered with the Obama For America campaign, becoming the Bedford-Stuyvesant neighborhood volunteer leader.
+Prior to her election to the New York State Assembly, Stefani worked in local and state government, beginning as Chief of Staff for the 36th Council District for five years before moving into the role of Director of Special Projects for State Senator Velmanette Montgomery. Her entire career has focused on equity and access as a Program Manager for several human rights organizations, including the Research Foundation/CUNY, the Algebra Project, the Education Development Center, the Community Service Society and the American Red Cross.
 
-Zinerman served as Robert E. Cornegy's petition and campaign manager starting in 2012, and became his chief of staff once he was elected. As a staffer, she focused on serving the African American community of Bedford-Stuyvesant and Crown Heights, being a member of the Black, Latino and Asian Caucus with Cornegy, which worked on issues such as juvenile criminal justice reform and classifying the murder of Timothy Caughman as a hate crime.
+An active member of Community Board 3, the 81st Precinct Community Council, Community Education Council 16 and Boys and Girls High School Community Advisory Committee, Stefani continues to work on education equity, public safety and emergency preparedness. During her tenure at the New York City Council, she served as Chair of the Age Friendly Neighborhood Initiative and worked closely with community stakeholders to expand the program, which led to Brooklyn receiving recognition as an Age Friendly City in 2019.
 
-When Tremaine Wright announced she would not be seeking reelection in the 56th Assembly District in order to instead run for State Senate, Zinerman announced her candidacy at the Weeksville Heritage Center, with the support of Wright. After winning the Democratic primary, she ran unopposed in November to take the seat.
-
-Zinerman is a member of the Black, Puerto Rican, Hispanic & Asian Legislative Caucus. Zinerman ran for the Assembly on a platform focusing on local concerns and constituent engagement, particularly community health and education equity. She advocates for several community-based health initiatives, including for healthy aging, community-supported agriculture, access to healthy food, doula care, more school-based health centers, and safe staffing standards for nurses.
+Stefani is committed to building a better future for the 56th District and works diligently to enhance the quality of life for everyone in her community through coalition building and mission-driven actions. She believes that reliable health care, racial equity, housing stability and wealth-building is the key to a sustainable future for the people, the businesses and the community institutions of Bedford-Stuyvesant and Crown Heights.

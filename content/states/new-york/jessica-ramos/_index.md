@@ -17,7 +17,7 @@ name: Jessica Ramos
 state: New York
 party: Democratic
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 307 LOB Albany, NY 12247
 phone1: 518-455-2529
@@ -25,17 +25,19 @@ website: https://www.nysenate.gov/senators/jessica-ramos/
 email : https://www.nysenate.gov/senators/jessica-ramos/
 twitter: jessicaramos
 ---
-Jessica Ramos, born on June 27, 1985, is an American politician from the state of New York. She is a member of the Democratic Party and has been serving in the New York State Senate representing District 13 since 2019. District 13 currently includes the Queens neighborhoods of Corona, Elmhurst, East Elmhurst, and Jackson Heights.
 
-Early Life and Education:
-Ramos was born at Elmhurst Hospital and raised in Queens, the daughter of Colombian immigrants. She was exposed to civic life at an early age, participating in community activities with the Colombian immigrant community's local civic groups and later on as a Democratic district leader and community board member. She graduated from the Academy of American Studies and attended Hofstra University before dropping out to work in the office of Hiram Monserrate.
+Jessica Ramos has spent her life fighting for working families, advocating for labor, and organizing her local community. Born in Elmhurst to an undocumented seamstress and a printing pressman, Jessica was raised in Astoria, attended Queens public schools, and now lives in Jackson Heights with her two sons.
 
-Career:
-Prior to entering the State Senate, Ramos worked in City Hall where she was initially a communications adviser and ultimately became director of Latino media from April 2016 to December 2017. In this role, Ramos was the city's top Latina spokeswoman and liaison to the Spanish-language press. Before joining city government, Ramos was the communications director for Build Up NYC, an advocacy organization for construction, building, and maintenance workers. She has also done communications work with a local chapter of the American Federation of State, County and Municipal Employees and a regional branch of the Service Employees International Union. Ramos has served on Queens Community Board 3, and she was a Queens County Democratic district leader from 2010 to 2014.
+A strong union advocate, Ramos worked with Build Up NYC to fight for construction, building and hotel maintenance workers in New York City. Ramos also worked with SSEU Local 371 and 32BJ SEIU, where she helped building maintenance workers, office cleaners and public schools cleaners win contracts that protected their rights, wages, and benefits.
 
-New York Senate:
-In January 2018, Ramos announced her candidacy for New York State Senate, challenging Jose Peralta, a former member of the Independent Democratic Conference, in the Democratic Party primary election. Ramos defeated Peralta and won the general election. She received a number of high-profile endorsements, including from New York City Mayor Bill de Blasio, the New York Times, and Kirsten Gillibrand. In the Senate, Ramos is serving as the chair on the Committee on Labor. In 2023, Ramos criticized Governor Kathy Hochul's proposals to ease housing construction in New York because not all local labor unions supported the proposals. That same year, Ramos said she would not vote for a budget deal to ease housing construction unless it also enshrined "good cause eviction" tenant protections into law.
+Jessica was a member of Queens Community Board 3 and served as Democratic District Leader in the 39th Assembly District. Jessica sat on the boards of the Jackson Heights Beautification Group and Farmspot, Jackson Heights’ community-supported agriculture (CSA) program. She has received awards for her work with the LGBTQ community and her advocacy on behalf of Women and Minority-Owned Businesses.
 
-Personal Life:
-Ramos was born in Elmhurst to an undocumented seamstress and a printing pressman. She was raised in Astoria, attended Queens public schools, and now lives in Jackson Heights with her two sons. As the first American-born in her family, Jessica feels a deep sense of responsibility in bridging the gap between immigrant and non-immigrant communities.
+As the first American-born in her family, Jessica feels a deep sense of responsibility in bridging the gap between immigrant and non-immigrant communities. Jessica’s mother crossed the Mexican border by herself at 24, and her father was arrested in a workplace immigration raid in the early 1980’s and spent days held in a detention center.
 
+Even as a teenager, Jessica was outspoken against poverty and the internal displacement of Colombians. She was elected President of the NYC Colombian Liberal Youth Council in 2002 and subsequently elected President of the NYC Colombian Liberal Party in 2005.
+
+Most recently, Jessica served as Director of Latino Media for the City of New York. As the city’s chief Latina spokesperson, Jessica helped keep our city’s 1.87 million Spanish-speaking residents, and the community and ethnic media at large, informed about government services and initiatives.
+
+Jessica credits her love for activism and public service to her parents, Colombian immigrants who fought for and won the right to dual citizenship for Colombian-Americans and founded Siempre Colombia, a not-for-profit organization in Jackson Heights.
+
+Jessica does not have a driver’s license—she rides the subway every day.

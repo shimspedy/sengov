@@ -17,7 +17,7 @@ name: William Colton
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 1997
 mailing1: Legislative Office Building Room 733 LOB Albany, NY 12248
 phone1: 518-455-5828
@@ -25,16 +25,19 @@ website: https://nyassembly.gov/mem/William-Colton/
 email : https://nyassembly.gov/mem/William-Colton/
 twitter: amwilliamcolton
 ---
-William Colton, born on March 6, 1946, is an American politician who has been serving as a member of the New York State Assembly since 1996. He represents District 47, which includes the neighborhoods of Bath Beach, Bensonhurst, Gravesend, Dyker Heights, and Midwood.
 
-Colton currently holds the position of Majority Whip in the Assembly. He is a member of several committees, including the Correction, Environmental Conservation, Governmental Employees, Labor, Rules, and Ways and Means committees. He is also a member of the Asian Pacific American Task Force. In the past, he has served as chair and Vice Chair of the Majority Conference and as Chair of the Legislative Commission on Solid Waste Management.
+William Colton was elected to the New York State Assembly in November 1996, representing the 47th Assembly District, consisting of the neighborhoods of Bensonhurst, Gravesend, Bath Beach, Dyker Heights and Midwood. He has been a lifelong resident of his district, where he married his wife, Mary, and has two stepchildren, Jennifer and Joseph. He was educated at St. Athanasius School and graduated from Cathedral Prep., the minor seminary of the Diocese of Brooklyn. In 1968, he received a B.A. degree in Urban Education from St. John's University. He also was awarded an M.S. degree in Urban Education from Brooklyn College. In 1978, he graduated from St. John's School of Law with a J.D. degree.
 
-Before entering politics, Colton worked as a teacher in the New York City public school system for eleven years, during six of which he served as a UFT Chapter Chairperson. He has been a licensed attorney since 1979.
+William Colton worked as a public school teacher for eleven years, serving as a UFT Chapter Chairperson for six of those years. While teaching, he attended law school in the evening and he was admitted as a lawyer in New York State in 1979.
 
-Colton is the co-founder and organizer of the Bensonhurst Tenants Council and the founder of the Bensonhurst Straphangers Committee. He served as an attorney in the lawsuit that successfully prevented the re-opening of the Southwest Brooklyn Incinerator.
+Long active in community and civic affairs, William Colton was co-founder and organizer of the Bensonhurst Tenants Council, an organization that was instrumental in preserving the neighborhood by saving dozens of apartment buildings from becoming slum buildings. He also was active in numerous community issues, including improving transit, as a founder of the Bensonhurst Straphangers Committee; fighting for more monies for schools in Districts 20 and 21; serving as the attorney in the successful lawsuit to stop the re-opening of the Southwest Brooklyn Incinerator; fighting for numerous community improvements, such as traffic lights, sewers, vermin and rodent extermination; and assisting in the organizing of community projects, such as Project Option to work for cleaning up of commercial shopping areas, among others.
 
-He holds a B.A. degree in Urban Education from St. John's University, an M.S. in Urban Education from Brooklyn College, and a J.D. from St. John's School of Law.
+Mr. Colton has also served as a member of the Board of Trustees of the Verrazano Lodge of the Order of the Sons of Italy, and a member of the Board of Directors of the Cardinal Stritch Knights Corporation of the Cardinal Stritch Knights of Columbus Council.
 
-In the 2019-2020 and the 2021-2022 legislative terms, Colton was the primary sponsor of legislation to make the National Day of the People's Republic of China a public holiday in New York State. In the 2021�2022 term, one bill that Colton was the lead sponsor of was enacted, A03964, which increased fines for leaving the scene of an accident without reporting it.
+William Colton has been the recipient of numerous community awards, including Outstanding Teacher of the Year in PS 56, the United Federation of Teachers of District 13 Political Action Award, the Civic Service Award from the Building Maintenance Education Program of NYC Department of Housing Preservation and Development, the Meritorious Civic Service Certificate from the New York City Division of Preservation and Anti-Abandonment, the Outstanding Community Service Award from the Bensonhurst Tenants Council and the 1996 Man of the Year Award from the Bensonhurst West End Community Council.
 
-Colton has won 14 terms since 1996, and has never been primaried. His closest election occurred in 2022, when he beat Republican Dmitriy Kugel with 54.73% to Kugel's 45.15%.
+Since being elected to the State Assembly he has also received awards from Aidone Social Club, Association of Assistant Principals, St. Athanasius Youth Program, Avenue M Block Association, Brooklyn Italia, Eastern New York Amateur Soccer Association, Ezra’s Torah Society, Federation of Italian American Organizations, Jewish Holocaust Survivors, Most Precious Blood Sports Program, New York Junior Tennis League, the Tenants of 8700 25th Avenue and the New York Conference of Italian-American Legislators.
+
+He was appointed Chair of the Legislative Commission on Solid Waste Management and currently serves as Majority Whip.
+
+Standing Committee Assignments 2013-14: Correction; Environmental Conservation; Governmental Employees; Labor; Ways and Means.

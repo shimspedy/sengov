@@ -17,7 +17,7 @@ name: David McDonough
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2002
 mailing1: Legislative Office Building Room 443 LOB Albany, NY 12248
 phone1: 518-455-4633
@@ -25,12 +25,21 @@ website: https://nyassembly.gov/mem/David-G-McDonough/
 email : https://nyassembly.gov/mem/David-G-McDonough/
 twitter:
 ---
-David G. McDonough is a distinguished member of the New York State Assembly, representing the 14th district, which includes portions of the town of Hempstead in Nassau County on Long Island. He is a member of the Republican Party and was first elected through a special election in 2002.
 
-Born on March 31, 1937, McDonough has had a rich and varied career. He formerly served in the United States Coast Guard and the United States Air Force. After his military service, he pursued higher education and earned a Bachelor of Arts degree in economics from Columbia University. He also graduated from the American Academy of Dramatic Arts.
+David McDonough of Merrick was first elected to the New York State Assembly in a special election held Tuesday, February 12, 2002.
 
-Before his elected office, McDonough served as the past president of the Nassau County Council of Chambers of Commerce. From 1994 to 1998, he served four terms as president of the Merrick Chamber of Commerce. In 2001, Assemblywoman Kate Murray was elected as clerk of the town of Hempstead, vacating the Assembly seat. As a result, a special election was called, and McDonough was nominated by Republicans as their candidate. In a competitive election, he defeated Democrat Steve November.
+Assemblyman McDonough is the Chairman of the Assembly Minority Task Force on Public Safety and, as such, works with various prominent agencies including the United States Department of Homeland Security, the Federal Bureau of Investigation, the Secret Service, law enforcement and the courts, volunteer firefighters and emergency services, veterans and military personnel, sex offender watch, and workforce issues in the correctional services.
 
-In the Assembly, McDonough is the chairman of a Task Force on Public Safety, and is the ranking member on the Assembly Transportation Committee. He and his wife, Carolyn, reside in Merrick, New York and have three children and four grandchildren.
+He is an Associate Board Member of the New York State chapter of InfraGard, an FBI public-private partnership. Assemblyman McDonough is the Ranking Minority Member on the Assembly Transportation Committee, and, in addition, serves on the Health, Education, Veterans’ Affairs and Consumer Affairs committees. He is also a member of the Nassau County Task Force on Family Violence.
 
-McDonough's contributions to his community extend beyond his political career. He was an original member of the Development Committee for the Merrick Downtown Revitalization Project and was at the forefront in the design and implementation of the program�s various components. He was responsible for developing a four-screen movie theater in the downtown Merrick area. He was a founding member of the Bellmore-Merrick Community Wellness Council, an organization working with various community, business and religious organizations to help prevent substance abuse and improve the quality of life for families and individuals.
+Active in local civic affairs, Assemblyman McDonough is a Past President of the Nassau County Council of Chambers of Commerce, representing 50 chambers and over 6,000 small businesses. Prior to that, from 1994 to 1998, Dave served four terms as President of the Merrick Chamber of Commerce. As President, he was responsible for a 35 percent growth in membership and the development of several business community projects, including annual street festivals and the addition of holiday lighting in the business community.
+
+Assemblyman McDonough was an original member of the Development Committee for the Merrick Downtown Revitalization Project serving as coordinator of that program to enhance the downtown business area of Merrick and was at the forefront in the design and implementation of the program’s various components. In addition, he was responsible for developing a four-screen movie theater in the downtown Merrick area.
+
+He was a founding member of the Bellmore-Merrick Community Wellness Council, an organization working with various community, business and religious organizations to help prevent substance abuse and improve the quality of life for families and individuals.
+
+Assemblyman McDonough has been a member of the Kiwanis Club of Merrick for over 30 years, and served as its Distinguished President in 1989. He also served as the Divisional Educational Chairman as well as Chairman of the New York District Kiwanis Club Officer Training Program.
+
+The Assemblyman served in the United States Coast Guard and the United States Air Force. He also earned a Bachelor of Arts degree in Economics from Columbia University, along with graduating from the American Academy of Dramatic Arts.
+
+He and his wife, Carolyn, live in Merrick and have three children, David Jr., Susan and Scott, along with four grandchildren.

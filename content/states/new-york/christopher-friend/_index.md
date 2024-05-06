@@ -17,14 +17,15 @@ name: Christopher Friend
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2011
 mailing1: Legislative Office Building Room 938 LOB Albany, NY 12248
 phone1: 518-455-4538
 website: https://nyassembly.gov/mem/Christopher-S-Friend/
 email : https://nyassembly.gov/mem/Christopher-S-Friend/
-twitter: 
+twitter:
 ---
+
 Christopher S. "Chris" Friend was born on December 21, 1972. He is an American chemist and politician who represents the 124th Assembly District of the New York State Assembly. He is a Republican and represents parts of Broome and Chemung Counties, and all of Tioga County.
 
 Friend is known to submit fewer bills than other Members of the Assembly. As of March 2020, Friend has sponsored 47 bills. This compares to neighboring assemblyman Phil Palmesano sponsoring 137 bills in the same time.
@@ -35,5 +36,4 @@ In 2006, he was elected to the Chemung County Legislature. In 2010, he won elect
 
 On June 3, 2020, Friend, along with David DiPietro, were the only two assemblymen to vote against the Digital Fair Repair Act.
 
-Friend resides in Big Flats with his wife Renée and their four children: Brianna, Joshua, Ashley, and Elijah.
-
+Friend resides in Big Flats with his wife Renï¿½e and their four children: Brianna, Joshua, Ashley, and Elijah.

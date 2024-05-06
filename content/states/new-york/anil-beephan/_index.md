@@ -4,7 +4,7 @@ title: "Anil Beephan"
 seo_title: "contact Representative Anil Beephan"
 subheader:
      greeting: Contact Representative Anil Beephan
-     description: Anil Beephan Jr. is an American politician and businessman who is a member of the New York State Assembly, representing the 105th district. His district comprises parts of Dutchess County. Prior to his election to the assembly in 2022, Beephan served as a councilman in East Fishkill. He is the first Republican of Indian descent to serve in the State Assembly.
+     description: Anil Beephan Jr. is an American politician who is a member of the New York State Assembly, representing the 105th district since November 8, 2022.. His district is comprised of parts of Dutchess County including the towns of Amenia, Beekman, Dover, East Fishkill, Fishkill, LaGrange, Pawling, Union Vale, and Wappinger.
 description: Contact Representative Anil Beephan of New York. Contact information for Anil Beephan includes email address, phone number, and mailing address.
 image: anil-beephan.jpeg
 video:
@@ -17,7 +17,7 @@ name: Anil Beephan
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 528 LOB Albany, NY 12248
 phone1: 518-455-5725
@@ -25,10 +25,11 @@ website: https://nyassembly.gov/mem/Anil-Beephan-Jr/
 email : https://nyassembly.gov/mem/Anil-Beephan-Jr/
 twitter:
 ---
-Anil Beephan Jr. is an American politician and businessman who is a member of the New York State Assembly, representing the 105th district. His district comprises parts of Dutchess County. Prior to his election to the assembly in 2022, Beephan served as a councilman in East Fishkill. He is the first Republican of Indian descent to serve in the State Assembly.
 
-Beephan's hometown is Hopewell Junction, New York. Beephan graduated from Arcadia University in Pennsylvania and later earned a master's degree from Harvard Extension School. Before entering politics, Beephan worked as a public relations and marketing strategist. He has worked in different legislative roles for New York State Senator Sue Serino. Prior to his election to the state assembly, Beephan served as a councilman in East Fishkill, New York.
+Anil Beephan Jr. was elected to the New York State Assembly on November 8, 2022. His district is comprised of parts of Dutchess County including the towns of Amenia, Beekman, Dover, East Fishkill, Fishkill, LaGrange, Pawling, Union Vale, and Wappinger.
 
-In the 2022 general election, Beephan announced his candidacy for New York's 105th Assembly District in October 2021. He won the general election on November 8, 2022, with 60.4% of the vote. Beephan assumed office on January 1, 2023.
+As an Assemblyman, Anil will utilize his experience as a town councilman to focus on the important issues facing the residents of Dutchess County including support for policies that seek to make New York State energy independent. He will seek increased domestic energy production while also holding public utility companies accountable to customers. Anil is ready to fight for our environmental needs and to protect our ecosystem for future generations. Further, he will push to reduce the wasteful spending habits of Albany and ease the heavy tax burden shouldered by New York’s small businesses and residents. Anil believes in smarter spending and greater resources for schools, infrastructure projects, and emergency services. Additionally, he will support the needs of law enforcement and changes to the state’s bail reform measures to directly address safety issues in our communities.
 
-In his personal life, Beephan is a private pilot. He also served as a lieutenant and volunteer firefighter for East Fishkill Fire District. With a background as a state senate staffer, private sector professional, and successful Councilman, Anil Beephan Jr. brings a wealth of experience and firsthand knowledge to his role as NYS Assemblyman. He is the first Republican of Indian/Caribbean descent to serve in the state legislature.
+Anil completed his undergraduate degree at Arcadia University and later earned his master’s degree in Management at Harvard University. He previously served in various legislative roles for state Sen. Sue Serino before embarking on a career as a client-driven public relations and marketing strategist. Prior to being elected Assemblyman, Anil served as a councilman for the Town of East Fishkill.
+
+Anil is a long-time resident of East Fishkill and served his community as a volunteer firefighter. He is also a private pilot.

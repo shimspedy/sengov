@@ -17,23 +17,15 @@ name: Lea Webb
 state: New York
 party: Democratic
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 848 LOB Albany, NY 12247
 phone1: 518-455-2170
 website: https://www.nysenate.gov/senators/lea-webb/
 email : https://www.nysenate.gov/senators/lea-webb/
-twitter: 
+twitter:
 ---
-Lea Webb is a distinguished member of the New York State Senate. She represents the 52nd Senate District and is known for her dedication and commitment to public service.
 
-Born and raised in the Southern Tier region of New York, Webb pursued her education diligently. She earned an associate degree in liberal arts and sciences from SUNY Broome Community College. Her thirst for knowledge didn't stop there. She went on to obtain a Bachelor of Science in Neuroscience from Binghamton University. Later, she also earned a B.S. in Psychology from the same university.
+As a former Binghamton City Councilmember, Webb has addressed critical issues that families face. From removing blighted properties and supporting their redevelopment into homes for her community to addressing food desert issues by establishing community gardens, Webb has improved the lives of those she serves. She has passed legislation supporting equal pay for women, creating a city-based human rights commission, establishing a city-wide climate action plan, and supporting small business development and job creation. Webb understands the importance of expanding opportunities for civic engagement and has served as a trainer and advocate to increase marginalized voices in elected office.
 
-Before her political career, Webb worked as an educator at Binghamton University. Her passion for community service and leadership was evident early on. She was appointed to serve as a council member for the City of Binghamton, New York. During her tenure, she addressed critical issues that families face. From removing blighted properties and supporting their redevelopment into homes for her community to addressing food desert issues by establishing community gardens, Webb has improved the lives of those she serves.
-
-Webb's influence extends beyond her local community. She co-founded the Black Millennial Political Convention and was a founding board member of Local Progress. These platforms allowed her to advocate for change on a larger scale.
-
-As a New York State Senator, Webb continues to champion women's issues. She serves as the Chair of the Women's Issues Committee. Her work in the Senate is a testament to her dedication to public service and her commitment to making a difference in the lives of the people she serves.
-
-Webb's journey from an educator to a state senator is a story of perseverance, dedication, and a deep-seated desire to serve her community. Her work continues to impact lives, and she remains a strong advocate for change and progress in New York State.
-
+A lifelong Southern Tier NY resident and proud graduate of public school, Webb is a first generation graduate of SUNY Broome, where she earned a degree in liberal arts and sciences, and Binghamton University, where she earned a degree in neuroscience. Lea was an educator at Binghamton University, where she developed diversity and inclusion training and programs for faculty, staff, and students to advance its goals of fostering diversity and respect. She is a national trainer with Vote Run Lead, training thousands of women across the country on how to run for elected office. She is a Co-Chair/Co-Founder of the Black Millennial Political Convention and a Founding Board Member of Local Progress. Lea was honored with the President’s Award by the Broome-Tioga Branch of the NAACP for her significant contributions to her community

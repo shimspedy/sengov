@@ -4,7 +4,7 @@ title: "Peter Oberacker"
 seo_title: "contact Senator Peter Oberacker"
 subheader:
      greeting: Contact Senator Peter Oberacker
-     description: Peter K. Oberacker Jr., born on May 13, 1963, is an American businessman and politician. He is a member of the New York State Senate, representing the 51st district. The boundaries of the 51st district changed following the 2020 United States redistricting cycle, and the district now includes portions of Broome, Chenango, Delaware, Otsego, Schoharie, Sullivan, and Ulster counties.
+     description: Senator Peter Oberacker is serving his second term representing the 51st Senate District.   First elected in 2020 during a global pandemic, Senator Oberacker is keenly aware of the many critical issues and concerns facing the seven counties he represents.
 description: Contact Senator Peter Oberacker of New York. Contact information for Peter Oberacker includes email address, phone number, and mailing address.
 image: peter-oberacker.jpeg
 video:
@@ -17,23 +17,27 @@ name: Peter Oberacker
 state: New York
 party: Republican
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 506 LOB Albany, NY 12247
 phone1: 518-455-3131
 website: https://www.nysenate.gov/senators/peter-oberacker/
 email : https://www.nysenate.gov/senators/peter-oberacker/
-twitter: 
+twitter:
 ---
-Peter K. Oberacker Jr., born on May 13, 1963, is an American businessman and politician. He is a member of the New York State Senate, representing the 51st district. The boundaries of the 51st district changed following the 2020 United States redistricting cycle, and the district now includes portions of Broome, Chenango, Delaware, Otsego, Schoharie, Sullivan, and Ulster counties.
 
-Oberacker was first elected to the state senate in 2020, succeeding the longtime incumbent James Seward, and assumed office in January 2021. Prior to becoming a state senator, he served in different local offices and helped launch the company FormTech Solutions.
+Senator Peter Oberacker is serving his second term representing the 51st Senate District.   First elected in 2020 during a global pandemic, Senator Oberacker is keenly aware of the many critical issues and concerns facing the seven counties he represents.
 
-Oberacker was born in Merrick, New York. He graduated from SUNY Delhi. After graduating from college, he joined his father, also named Peter Oberacker, in operating Spicey Pete's Meats, a market in Schenevus. Oberacker first entered the political sphere when he was elected to the Maryland Town Board, a position he held for two terms before being elected town supervisor. After two terms as supervisor, Oberacker was elected to serve as an Otsego County legislator.
+Senator Oberacker’s leading priorities include:
 
-In 2020, retiring Senator James Seward encouraged Oberacker to run for the senate seat that he occupied at the time. Oberacker eventually won the seat, winning 55.4 percent of the vote. He assumed office in January 2021.
+Expanding broadband and cellular phone access to meet the needs of the entire state, specifically rural areas that have been left behind;
+Supporting small businesses, ensuring they have the resources needed to increase employment;
+Assisting volunteer EMS squads with training requirements, recruitment, and retention;
+Improving infrastructure including upstate roads and bridges.
 
-On the political front, Oberacker voted against the bill that legalized recreational marijuana usage in New York. The bill was signed by Governor Cuomo on March 31, 2021. Oberacker's first bill to be approved by the senate was a bill that designated baseball as the official state sport of New York, an idea that was inspired by Cooperstown Elementary School students. The bill passed by a vote of 61-2.
 
-On the personal front, Oberacker has a wife named Shannon, who he calls his "high school sweetheart". He has two children and one granddaughter. He lives in Schenevus, New York and is a member of his local fire department and EMS squad.
+Prior to his election to the state senate, Peter served as a member of the Otsego County Board of Representatives where he chaired the Public Works Committee, served as vice-chair of the Administration Committee, and was a member of Human Services, Negotiations, and Inter-Governmental Affairs committees.  Previously, Peter served as Maryland Town Supervisor and as a town board member.
 
+Peter grew up in a family of sausage makers, working in the family’s local market since age eight.  Peter has a long career in product research, development, and implementation in the food industry business.  In 2007, he created FormTech Solutions and built it into a successful multi-million dollar business working with major companies around the world to develop and incorporate new and innovative products and then make them applicable in the ever-growing food industry.
+
+A dedicated community member, Peter is a member of his local Fire Department and EMS squad and is a member of the Masonic Lodge. Peter is a graduate of Schenevus High School and SUNY Delhi. He is married to his high school sweetheart, Shannon, of 34 years.  They have two adult children.

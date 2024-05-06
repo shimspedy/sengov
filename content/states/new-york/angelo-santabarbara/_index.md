@@ -4,7 +4,7 @@ title: "Angelo Santabarbara"
 seo_title: "contact Representative Angelo Santabarbara"
 subheader:
      greeting: Contact Representative Angelo Santabarbara
-     description: Angelo L. Santabarbara is a Democratic member of the New York State Assembly representing the 111th New York State Assembly District, which comprises areas of Montgomery and Schenectady Counties. He was born on September 14, 1972, in Schenectady, New York, U.S. He is a first-generation Italian-American and a lifelong resident of Schenectady County.
+     description: Angelo L. Santabarbara is a Democratic member of the New York State Assembly representing the 111th New York State Assembly District, which comprises areas of Montgomery and Schenectady Counties.
 description: Contact Representative Angelo Santabarbara of New York. Contact information for Angelo Santabarbara includes email address, phone number, and mailing address.
 image: angelo-santabarbara.jpeg
 video:
@@ -17,7 +17,7 @@ name: Angelo Santabarbara
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2013
 mailing1: Legislative Office Building Room 502 LOB Albany, NY 12248
 phone1: 518-455-5197
@@ -25,20 +25,13 @@ website: https://nyassembly.gov/mem/Angelo-Santabarbara/
 email : https://nyassembly.gov/mem/Angelo-Santabarbara/
 twitter: asmsantabarbara
 ---
-Angelo L. Santabarbara is a Democratic member of the New York State Assembly representing the 111th New York State Assembly District, which comprises areas of Montgomery and Schenectady Counties. He was born on September 14, 1972, in Schenectady, New York, U.S. He is a first-generation Italian-American and a lifelong resident of Schenectady County.
 
-Education and Early Career:
-Santabarbara graduated from Schalmont High School in Rotterdam in 1990 and was later inducted into the Schalmont High School Alumni Wall of Distinction. He earned a Bachelor of Science degree from State University of New York at Albany and is a licensed Professional Engineer. 
+Angelo Santabarbara PE, is a source of inspiration for his family, friends and colleagues, as he is deeply committed to enhancing the well-being of his community. Angelo's upbringing was rooted in the values of hard work and determination as the son of immigrant parents who believed that success would follow diligent effort. He was born in the city of Schenectady and lives in the town of Rotterdam with his wife, Jennifer, where they are nurturing their two children, Michael and Marianna.
 
-Military Service:
-Santabarbara served in the United States Army Reserves for eight years with an honorable discharge in 1998. He has remained involved with local veterans organizations. He is the founder of the first AMVETS Post in his hometown of Rotterdam and served as Post Commander from 2012-2015.
+Angelo's educational journey took him through public schools and furthering his academic pursuits. He obtained a Bachelor of Science degree from SUNY Albany to become a licensed professional engineer. Angelo assumed the role of President of the Capital District Chapter New York State Society of Professional Engineers and contributed to various boards, including the Autism Society of the Greater Capital Region, Family and Child Service of Schenectady and Cornell Cooperative Extension in Schenectady County.
 
-Professional Career:
-Before entering politics, Santabarbara worked as a Civil Engineer for more than 15 years. He also served as President of the Capital District Chapter of the New York State Society of Professional Engineers and on the Board of Directors for the Autism Society of the Greater Capital Region, Family and Child Service of Schenectady, and Cornell Cooperative Extension in Schenectady County.
+Angelo's commitment to serving his country and community is evident through his eight years of honorable service in the United States Army Reserve. He remains actively engaged with local veterans' service organizations and proudly founded the first AMVETS Post in his hometown of Rotterdam, where he served as post commander.
 
-Political Career:
-Santabarbara was elected to the Schenectady County Legislature in 2007 and re-elected in 2011, where he represented District 4, which includes the Towns of Rotterdam, Princetown, and Duanesburg. He served as Chairman of the Transportation Committee and Vice Chairman of the Veterans Committee. In 2012, he was elected to the New York State Assembly as the first Assemblyman to represent the newly created 111th District, including Montgomery, Schenectady, and Albany Counties. In 2022 he was reelected to a 6th term and continues to serve in the New York State Assembly.
+When his son Michael was born, he was diagnosed with autism. This life-altering event prompted Angelo to transition from his more than 15-year career as a civil engineer to embark on a path of public service and advocacy for people with disabilities.
 
-Personal Life:
-Santabarbara lives in Rotterdam with his wife, Jennifer, and their two children, Michael and Marianna.
-
+In 2007, Angelo Santabarbara was elected to the Schenectady County Legislature, where he held the responsibilities of Chairman of the Transportation Committee and Vice Chairman of the Veterans Committee. He devoted five years to public service as a Schenectady County Legislator before achieving a significant milestone in his career. In 2012, he was elected to the New York State Assembly, making history as the first representative of the newly created 111th District, which includes areas of Montgomery County and Schenectady County. As a member of the New York State Assembly, Angelo assumes key leadership roles, including Chairman of the Libraries and Education Technology Committee and memberships on various committees, including Energy, Governmental Employees, Mental Health and Racing & Wagering Committees. His unwavering dedication to public service and passion for being a voice for people with disabilities continues to make a positive impact on his community and beyond.

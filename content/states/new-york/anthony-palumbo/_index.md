@@ -4,7 +4,7 @@ title: "Anthony Palumbo"
 seo_title: "contact Senator Anthony Palumbo"
 subheader:
      greeting: Contact Senator Anthony Palumbo
-     description: Anthony Howard Palumbo was born on September 14, 1970, in Brookhaven, New York. He is an American Republican Party politician who currently represents the 1st district of the New York State Senate. Before this, he served as a member of the New York State Assembly.
+     description: Anthony H. Palumbo represents the 1st Senate District, which includes the northern portion of the Town of Brookhaven, and the Towns of Riverhead, Southold, East Hampton, Southampton and Shelter Island. Previously, Senator Palumbo served in the New York State Assembly for several years, first being elected to the 2nd Assembly District in 2013.
 description: Contact Senator Anthony Palumbo of New York. Contact information for Anthony Palumbo includes email address, phone number, and mailing address.
 image: anthony-palumbo.jpeg
 video:
@@ -17,7 +17,7 @@ name: Anthony Palumbo
 state: New York
 party: Republican
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 604 LOB Albany, NY 12247
 phone1: 518-455-3121
@@ -25,16 +25,21 @@ website: https://www.nysenate.gov/senators/anthony-h-palumbo/
 email : https://www.nysenate.gov/senators/anthony-h-palumbo/
 twitter: anthonyhpalumbo
 ---
-Anthony Howard Palumbo was born on September 14, 1970, in Brookhaven, New York. He is an American Republican Party politician who currently represents the 1st district of the New York State Senate. Before this, he served as a member of the New York State Assembly.
 
-Palumbo attended high school at Patchogue-Medford High School where he excelled as a baseball player, earning an athletic scholarship to Lafayette College. In 1992, Palumbo was named to the All-Patriot League baseball team. He graduated in 1994 with a bachelor's degree in Government and Law from Lafayette College.
+Anthony H. Palumbo represents the 1st Senate District, which includes the northern portion of the Town of Brookhaven, and the Towns of Riverhead, Southold, East Hampton, Southampton and Shelter Island. Previously, Senator Palumbo served in the New York State Assembly for several years, first being elected to the 2nd Assembly District in 2013.
 
-After his undergraduate studies, he attended the St. John's University School of Law. Upon his graduation in 1998, he immediately began his career in public service as an assistant district attorney. He was eventually promoted to the position of trial supervisor to the five eastern Suffolk County towns under District Attorney Thomas Spota.
+Senator Palumbo is known as being an outspoken advocate for Suffolk County taxpayers and a strong proponent of law enforcement and the area’s first responders. As the Ranking Minority Member on the Senate Code's Committee, he has led the fight against the dangerous bail reform laws that have made our communities less safe and has been steadfast in his opposition to the anti-police rhetoric and policies coming out of Albany.   
 
-In 2004, he left the District Attorney's office to open a small law practice in Mattituck, New York. Palumbo resides in New Suffolk, New York with his wife Tracy and their two children.
+Throughout his tenure in the State Legislature, Senator Palumbo has worked closely with former State Senator Ken LaValle and Assemblyman Fred Thiele to protect our natural resources and clean drinking water, and is a champion for the region’s tourism, agriculture, fishing and spirits industries.
 
-In 2013, in his first political campaign, Palumbo defeated Democrat John McManmon with 57% of the vote for the open 2nd Assembly District seat. In 2014 he ran for re-election against Democratic challenger Thomas Schirilo and won with 63% of the vote. He was re-elected again in 2016 and 2018.
+Prior to serving in the State Legislature, Senator Palumbo worked as a Suffolk County Assistant District Attorney, where he prosecuted major crimes and drug traffickers. He has taken that background to Albany, where he’s fought to keep our communities safe, hold public officials accountable and enhance the quality of life that makes Suffolk County unique.
 
-In 2020, after Senator Kenneth P. LaValle announced he would not be running for reelection after 44 years in the New York State Senate, Palumbo entered the race and won against Democratic challenger Laura Ahearn.
+Senator Palumbo has continued to show the drive and vision families on Long Island need and deserve in state government. His very first piece of legislation was a massive tax-cut bill that would save the average Suffolk County resident over $2,500 annually. That same year, he accomplished a rare feat for a freshman GOP Assemblyman by sponsoring and passing major legislation that helped first-time homebuyers and younger residents save thousands.  In his first term in the New York State Senate, Senator Palumbo passed the Peconic Bay Region Community Housing Act—bi-partisan legislation to help make the dream of homeownership on Long Island more affordable.  
 
-During his tenure, Palumbo introduced a bill that would allow the towns of East Hampton, Riverhead, Shelter Island, Southampton, and Southold to establish community housing funds that would help provide financial assistance to first-time home purchasers in the form of a grant or loan. The bill was signed by the governor.
+In addition to his proven record as a tax reformer, Anthony hasn’t shied away from tackling the tough quality of life and public safety issues Long Island families face. He was a leader of the movement to reform and repeal Common Core, supported and passed a constitutional amendment stripping corrupt politicians of a taxpayer-funded pension and supported significant investment in improving our water quality and environment.  He has also made education a top priority and is a strong advocate in the battle to ensure Long Island taxpayers receive their fair share of school aid and infrastructure funding.
+
+Currently, the Senator’s top priorities are getting our economy back on track post-pandemic so our small business can thrive, and repealing the controversial bail and discovery reforms harming our residents and local law enforcement. Senator Palumbo will continue to lead and maintain his commitment to defending Suffolk County values and enhancing the quality of life on the East End.  As a lifelong resident of Suffolk County, Senator Palumbo loves our communities and will continue to build on his record of protecting and serving them.
+
+Senator Palumbo attended Lafayette College in Easton, Pennsylvania on a baseball scholarship and earned a degree in Government and Law.  He received his law degree from St. John’s Law School in Jamaica, New York.
+
+Today, Anthony and his wife, Tracy, reside in New Suffolk with their two children.

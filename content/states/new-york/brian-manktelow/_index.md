@@ -4,7 +4,7 @@ title: "Brian Manktelow"
 seo_title: "contact Representative Brian Manktelow"
 subheader:
      greeting: Contact Representative Brian Manktelow
-     description: Brian Manktelow is an American politician and farmer from the state of New York. A Republican, Manktelow has represented the 130th district of the New York State Assembly, based in Wayne County along Lake Ontario, since 2019.
+     description: Brian Manktelow was elected to the New York State Assembly on November 6, 2018. The district includes all of Wayne County and the Town of Webster in Monroe County.
 description: Contact Representative Brian Manktelow of New York. Contact information for Brian Manktelow includes email address, phone number, and mailing address.
 image: brian-manktelow.jpeg
 video:
@@ -17,21 +17,23 @@ name: Brian Manktelow
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2019
 mailing1: Legislative Office Building Room 320 LOB Albany, NY 12248
 phone1: 518-455-5655
 website: https://nyassembly.gov/mem/Brian-Manktelow/
 email : https://nyassembly.gov/mem/Brian-Manktelow/
-twitter: 
+twitter:
 ---
-Brian Manktelow is an American politician and farmer from the state of New York. A Republican, Manktelow has represented the 130th district of the New York State Assembly, based in Wayne County along Lake Ontario, since 2019.
 
-After graduating high school, Manktelow served in the U.S. Army, achieving the rank of sergeant. When he returned, Manktelow took classes at the University of Chicago and Finger Lakes Community College, but did not attain degrees from either. Manktelow has also been the owner and operator of Manktelow Farms for 30 years.
+Brian Manktelow was elected to the New York State Assembly on November 6, 2018. The district includes all of Wayne County and the Town of Webster in Monroe County.
 
-In 2009, Manktelow was elected Lyons Town Supervisor, a position he held until 2018. Manktelow ran in 2016 for New York's 54th State Senate district, vacated by retiring Republican Michael F. Nozzolio. He came in third in the primary, behind Floyd Rayburn and eventual winner Pam Helming.
+During his time as an Assemblyman, Brian will fight hard for policies that encourage economic growth. He will push to reduce unfunded state mandates and high taxes, advocate for resources to battle the growing opioid epidemic, as well as address the need to protect the natural resources in his district.
 
-After longtime State Assemblyman Bob Oaks announced his retirement in 2018, Manktelow launched his campaign for the 130th Assembly district. He won the primary uncontested, and defeated Democrat Scott Comegys in the general election with 67% of the vote.
+Brian served in the U.S Army, attaining the rank of sergeant after graduating from Williamson High School. He then completed classes at the University of Chicago and Finger Lakes Community College, where he pursued a degree in political science. He has been the Lyons town supervisor since 2009 and has served as vice chairman of the Wayne County Board of Supervisors. He was chairman of the board’s Finance Committee and also served on the Government Operations and Human Services committees. Brian was instrumental in initializing the Wayne County Land Bank in 2017 to rejuvenate derelict properties, get them back on the tax rolls, and reduce blight.
 
-Manktelow lives in Lyons with his wife, Crystal, and their five children. As supervisor of the Town of Lyons, he worked to protect the interests of his fellow residents during the dissolution of the village of Lyons in 2015, ensuring a positive impact on the municipality�s future. Now, Brian is determined to bring his breadth of experience in the military and civilian life to serve his neighbors and community, fighting the opioid crisis, lowering taxes, improving veteran services, and ensuring the American Dream and upstate values continue to thrive in Albany.
+He has owned and operated Manktelow Farms in Lyons for more than 30 years, and has been an active member of the Wayne County Farm Bureau. Brian’s background gives him a unique perspective on the challenges faced by everyday New Yorkers. He plans to work diligently with colleagues to create solutions to the state’s economic struggles by creating opportunities for businesses to thrive.
 
+Brian currently resides in Lyons with his wife, Crystal, with whom he shares five children. He is dedicated to family life and community. As supervisor of the Town of Lyons, he worked to protect the interests of his fellow residents during the dissolution of the village of Lyons in 2015, ensuring a positive impact on the municipality’s future.
+
+Now, Brian is determined to bring his breadth of experience in the military and civilian life to serve his neighbors and community, fighting the opioid crisis, lowering taxes, improving veteran services, and ensuring the American Dream and upstate values continue to thrive in Albany.

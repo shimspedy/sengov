@@ -17,23 +17,21 @@ name: Josh Jensen
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2021
 mailing1: Legislative Office Building Room 722 LOB Albany, NY 12248
 phone1: 518-455-4664
 website: https://nyassembly.gov/mem/Josh-Jensen/
 email : https://nyassembly.gov/mem/Josh-Jensen/
-twitter: 
+twitter:
 ---
-Josh T. Jensen, born on November 3, 1988, is an American politician serving as a member of the New York State Assembly from the 134th district. He was elected in November 2020 and assumed office on January 6, 2021.
 
-Jensen was born in Rochester, New York, and graduated from Hilton High School in the suburb of Hilton. He earned a Bachelor of Arts degree in political science and history from Niagara University. He has also volunteered with the Hilton Education Foundation and Rochester area chapter of the National Fallen Firefighters.
+Josh Jensen was elected to the New York State Assembly on November 3, 2020. His district includes a portion of Monroe County, specifically the towns of Greece, Ogden, and Parma and the villages of Hilton and Spencerport. He currently serves at the ranking Minority member of the Assembly Committee on Health, as well as a member of the committees on Banks; Corporations, Authorities & Commissions; Insurance; and Libraries & Education Technology.
 
-In 2008, Jensen worked as an intern in the White House Office of Strategic Initiatives. He was later a special assistant in the New York State Senate. In 2010, Jensen joined the staff of State Senator Joseph Robach, serving as his public policy advisor, director of community affairs, director of public affairs, and director of communications.
+Josh believes in serving as a common-sense voice for his constituents and always putting their interests first. Throughout his service to his community, Jensen has continually sought to find reasonable solutions to problems being faced by those he represents and giving a voice to those in his district and beyond. As a member of the Assembly, he has advocated for effective and efficient use of taxpayer dollars; greater accountability and oversight of state government; increasing resources for law enforcement and prioritizing policies to increase public safety; building stronger and more vibrant communities; and, working to make New York State a more affordable place for the families that call it home.
 
-In 2019 and 2020, he was the director of communications for the Monroe Community Hospital. He later served as a member of the Greece, New York Town Board, representing the town's third ward. He was elected to the New York State Assembly in November 2020 and assumed office on January 6, 2021.
+Jensen began his service by representing the residents of the Town of Greece’s 3rd Ward as a member of the town board from 2017-2020. As a councilman, he supported proposals that lowered taxes, prioritized the improvement of vital infrastructure, supported law enforcement, and improved the delivery of services for town residents. Prior to being elected to the Assembly, Josh served as the Director of Communications at one of Upstate New York’s largest nursing homes and worked as a Client Strategy & Relations Supervisor for a Rochester area public relations agency. He started his career in public service with Senator Joe Robach, serving as his Director of Communications, as well as Director of Community Affairs and Public Policy. Additionally, Jensen served as an intern in the White House Office of Strategic Initiatives & External Affairs during the George W. Bush administration.
 
-He represents the 134th Assembly district, which includes the towns of Greece, Ogden, and Parma and the villages of Spencerport and Hilton in Monroe County. In 2023, Jensen was named Ranking Member of the New York State Assembly Committee on Health, the highest position in a committee that can be held by a minority party member.
+Jensen is a graduate of Niagara University and Hilton High School, and he proudly volunteers as an at-large member of the Board of Directors of the Hilton Alumni Association, as well as with the Rochester area chapter of the National Fallen Firefighters Foundation. He previously volunteered with the Rochester Ice Cats, a special hockey team for players with developmental, cognitive and physical disabilities in the Greater Rochester area.
 
-As of January 2023, Jensen serves on the following committees in the New York State Assembly: Health (as Ranking Member), Corporations, Authorities & Commissions, Insurance, Libraries & Education Technology Committee (Ranking member 2021-2022).
-
+Josh is lifelong resident of the 134th Assembly District and resides in the town of Greece with his wife, Casey, and their children, Brendan and Margot, and rescue pup Ruby.

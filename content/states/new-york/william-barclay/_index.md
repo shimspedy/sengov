@@ -17,7 +17,7 @@ name: William Barclay
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2003
 mailing1: Legislative Office Building Room 933 LOB Albany, NY 12248
 phone1: 518-455-3751
@@ -25,12 +25,17 @@ website: https://nyassembly.gov/mem/William-A-Barclay/
 email : https://nyassembly.gov/mem/William-A-Barclay/
 twitter: willabarclay
 ---
-William Anson Barclay, born on January 5, 1969, is an American politician and attorney from the State of New York. A Republican, he has served in the New York State Assembly since 2003. In January 2020, Barclay was elected to the position of Assembly Minority Leader.
 
-Barclay was born in Syracuse, New York. He earned his B.A. from St. Lawrence University in 1992 and his Juris Doctor from Syracuse University College of Law in 1995. After graduating from law school, he served as a clerk for Roger Miner, a judge in the United States Court of Appeals Second Circuit, in both Albany and New York City. Barclay is a partner in the law firm of Barclay Damon.
+Will Barclay was first elected as a member of the New York State Assembly on November 5, 2002. He currently represents the 120th Assembly District, which includes Oswego County; the Cayuga County towns of Ira, Sterling and Victory; and the Jefferson County towns of Adams, Ellisburg, Lorraine and Worth.
 
-His father is Hugh Douglas Barclay, a former U.S. Ambassador to El Salvador and a former chair of the Republican Conference in the New York State Senate. As of January 2020, Barclay and his wife Margaret reside on an 800-acre farm in Pulaski, New York. They are the parents of two sons, Harry and George. Nine generations of Barclays have resided in Pulaski.
+In January 2020, he was elected unanimously by his colleagues as the Leader of the Assembly Minority Conference.
 
-Barclay was first elected to the State Assembly on November 5, 2002. He took office in 2003. A Republican, Barclay represents the 120th District in the New York State Assembly. As of 2020, the 120th district includes Oswego, New York and portions of Onondaga, Jefferson and Oswego counties.
+During his career in the Assembly, Leader Barclay has served as the Ranking Minority Member on the Assembly Ways and Means Committee and held roles including Deputy Minority Leader, Assistant Minority Leader, Chair of the Minority Joint Conference Committee, and Vice Chair of the Minority Program Committee.
 
-On January 7, 2020, Barclay was unanimously elected to the post of Assembly Minority Leader by his Republican colleagues following the resignation of Brian Kolb. He previously served as Deputy Minority Leader, as chair of the Republican Assembly Campaign Committee, and as ranking member of the Assembly Ways and Means Committee.
+In addition, Leader Barclay formerly served as the Chair of the Minority Hunting and Fishing Task Force as a member of the Assembly Minority Task Force on Manufacturing, and the Assembly Minority Task Force on Small Business.
+
+An attorney and a businessman, he is a partner in the Syracuse law firm of Barclay Damon, LLP, where he specializes in business law. Because of his experience in business and law, Leader Barclay knows firsthand the challenges the business community faces in New York and he has focused his legislative agenda on policies that will benefit the upstate economy and the working men and women of his district.
+
+Leader Barclay is a graduate of St. Lawrence University and Syracuse University College of Law. After graduating from law school, he served as a law clerk for Roger J. Miner, a judge of the United States Court of Appeals, Second Circuit, in Albany and New York City.
+
+Born in Syracuse, Leader Barclay is a lifelong resident of Central New York and represents the eighth generation of his family living in Pulaski, New York. He and his wife, Margaret, have two sons.

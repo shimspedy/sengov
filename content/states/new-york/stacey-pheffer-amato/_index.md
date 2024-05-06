@@ -4,7 +4,7 @@ title: "Stacey Pheffer Amato"
 seo_title: "contact Representative Stacey Pheffer Amato"
 subheader:
      greeting: Contact Representative Stacey Pheffer Amato
-     description: Stacey Pheffer Amato, born on March 19, 1966, is a member of the New York State Assembly, representing the 23rd district, which includes portions of Queens. She is a conservative Democrat and was first elected in 2016.
+     description: Stacey Pheffer Amato, born on March 19, 1966, is a member of the New York State Assembly, representing the 23rd district, encompassing the Queens neighbourhoods of Ozone Park, Lindenwood, Howard Beach, Hamilton Beach, Broad Channel, Breezy Point, Roxbury, Neponsit, Belle Harbor, Rockaway Park, Rockaway Beach, Arverne, Edgemere, Bayswater and Far Rockaway since 2017
 description: Contact Representative Stacey Pheffer Amato of New York. Contact information for Stacey Pheffer Amato includes email address, phone number, and mailing address.
 image: stacey-pheffer-amato.jpeg
 video:
@@ -17,7 +17,7 @@ name: Stacey Pheffer Amato
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2017
 mailing1: Legislative Office Building Room 839 LOB Albany, NY 12248
 phone1: 518-455-4292
@@ -25,12 +25,13 @@ website: https://nyassembly.gov/mem/Stacey-Pheffer-Amato/
 email : https://nyassembly.gov/mem/Stacey-Pheffer-Amato/
 twitter: stacey23ad
 ---
-Stacey Pheffer Amato, born on March 19, 1966, is a member of the New York State Assembly, representing the 23rd district, which includes portions of Queens. She is a conservative Democrat and was first elected in 2016.
 
-Pheffer Amato was born in Rockaway, Queens. Prior to holding office, she worked as an education paraprofessional for the New York City Department of Education and as a procurement analyst for the FDNY and the New York City Department of Sanitation. She holds a bachelor's degree in business economics from the State University of New York at Oneonta. She has been an active member of the Rockaway Beach Civic Association for years and is a committee member of the NY Rising Community Reconstruction Program, which is tasked with overseeing the state's recovery efforts from Hurricane Sandy.
+Stacey Pheffer Amato is proud to represent the New York State Assembly's 23rd District, encompassing the Queens neighbourhoods of Ozone Park, Lindenwood, Howard Beach, Hamilton Beach, Broad Channel, Breezy Point, Roxbury, Neponsit, Belle Harbor, Rockaway Park, Rockaway Beach, Arverne, Edgemere, Bayswater and Far Rockaway since 2017.
 
-In 2016, Assemblymember Phillip Goldfeder announced abruptly that he would retire. Pheffer Amato soon after announced that she would seek the Democratic nomination. With support from the Queens County Democratic Party, she was unopposed in the primary. She defeated Republican Alan N. Zwirn in the 2016 general election, 68% to 32%, to take the seat. She was easily re-elected in 2018. In 2022, Pheffer Amato defeated her Republican opponents by just 15 votes. She was not declared the winner until January 2023, two months after the election.
+ Assemblywoman Pheffer Amato has never shied away from stepping up to advocate for causes she feels passionate about. In Albany, she is an outspoken champion for our hardworking families, first responders, Veterans and seniors. She is always fighting to bring additional resources to South Queens and the Rockaway Peninsula. Being recognized for her efforts in the legislature and fighting for public employees, Stacey was appointed Chair of the Governmental Employee Committee, being only the second woman to ever hold this role in New York State history. As Chair she will work to facilitate the best possible legislative policies for public employees that range in pensions, retirement benefits, and health insurance. She also serves as a leading member of the Education, Veterans’ Affairs, Corporations, Authorities & Commissions, and Racing & Wagering Committees. In addition, she is a member of the Legislative Women’s Caucus, the Women’s Issues Task Force and the Puerto Rican/Hispanic Task Force.
 
-In the Assembly, she is the Chair on the Subcommittee on Child Product Safety. Her mother, Queens County Clerk Audrey Pheffer, previously held this Assembly seat. Upon Pheffer Amato's election, they became the first mother-daughter team to hold the same seat in the New York State Legislature.
+The Assemblywoman is responsible for ground-breaking legislation and for providing funding that has positively impacted her district. She has passed over twenty pieces of legislation, often with bipartisan support. She has focused on helping to improve women’s health, expanding the rights of the disabled and elderly, bringing new resources to veterans and 9/11 first responders, improving the local environment and Jamaica Bay, and raising the profile of drowning and the importance of swim safety. She has also been credited for bringing millions of dollars for STEM education funding, as well as working with the NYPD on public safety.
 
-Pheffer Amato and her husband, Frank, live in Rockaway Beach with their two children.
+Assemblywoman Pheffer Amato and her team pride themselves in their commitment to constituent services working under the notion that "people are the most important and government should work for you." Stacey and her office have been recognized and heavily praised for their commitment to helping resolve a variety of issues by cutting the "red tape" and getting answers for the residents of the 23rd Assembly District.
+
+Assemblywoman Pheffer Amato’s mother, Queens County Clerk Audrey I. Pheffer, previously held this Assembly seat for over twenty-five years, and upon the Assemblywoman's election, they became the first mother-daughter team in NYS history to be elected to the State Legislature. Stacey and her husband, Frank, proudly live in Rockaway Beach with their two children, Sam and Isabella along with their cat Sugar.

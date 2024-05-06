@@ -17,25 +17,27 @@ name: Jake Ashby
 state: New York
 party: Republican
 role: Senator
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: Legislative Office Building Room 517 LOB Albany, NY 12247
 phone1: 518-455-2381
 website: https://www.nysenate.gov/senators/jacob-ashby/
 email : https://www.nysenate.gov/senators/jacob-ashby/
-twitter: 
+twitter:
 ---
-Jake Ashby is a dedicated public servant and a respected member of the New York State Senate. He was elected to the Senate on November 8, 2022, representing the 43rd District, which includes all of Rensselaer County and parts of Washington and Albany Counties.
 
-Before his tenure in the Senate, Ashby served in the State Assembly from 2018 to 2022. During this time, he sponsored legislation to make occupational and speech therapy more accessible, a bill that was subsequently signed into law by the governor. He also worked across party lines to pass a bill that would expedite the naturalization process for the family members of service members and veterans.
+Jake Ashby was elected to The New York State Senate on November 8, 2022. The 43rd District includes all of Rensselaer County and parts of Washington and Albany Counties.
 
-In addition to his legislative accomplishments, Ashby authored legislation to protect New Yorkers from carcinogenic contaminants in drinking water. Following this, state officials adopted more stringent safety standards. As a senator, Ashby continues to bring his common sense, bipartisan approach to the State Senate. His top priorities include delivering real tax relief, promoting public safety, and expanding mental health care for first responders, law enforcement officials, and healthcare workers.
+Senator Ashby served in the State Assembly from 2018-2022. He sponsored legislation making occupational and speech therapy more accessible. It was signed into law by the governor. Jake worked across the aisle to pass a bill that would expedite the naturalization process for the family members of service members and veterans. After he authored legislation protecting New Yorkers from carcinogenic contaminants in drinking water, state officials adopted more stringent safety standards.
 
-Ashby is also a strong advocate for veterans, having served as a Captain in the United States Army Reserve. He completed combat tours in Afghanistan and Iraq and deployed in support of a humanitarian mission in Africa. He continues to advocate for programming that helps veterans transition to civilian life.
+Senator Ashby is thrilled to bring his common sense, bipartisan approach to the State Senate.
 
-Beyond his political career, Ashby has worked as an occupational therapist and rehabilitation director for the last 20 years. He operated his own community-based practice and has also worked as an instructor at Maria College.
+His top priorities include delivering real tax relief, promoting public safety, and expanding mental health care for first responders, law enforcement officials and healthcare workers. Jake will continue to advocate for programming that helps veterans transition to civilian life. He is a strong supporter of the Second Amendment.
 
-Ashby earned his MBA in Healthcare Management from Union Graduate College in Schenectady, NY, a Bachelor of Science in Occupational Therapy from Keuka College, and an Associate in Arts from Hudson Valley Community College.
+A former Army Reserves Captain, Senator Ashby completed combat tours in Afghanistan and Iraq and deployed in support of a humanitarian mission in Africa. Jake has worked as an occupational therapist and rehabilitation director for the last 20 years and operated his own community-based practice. Additionally, he’s worked as an instructor at Maria College.
 
-He is a communicant of Sacred Heart Church and the past commander of VFW Post 7337. He is also a member of the Castleton Fish and Game Club. Ashby resides in Castleton with his wife, Kristy, and their two children.
+Jake previously served as a Rensselaer County legislator. He earned his MBA in Healthcare Management from Union Graduate College in Schenectady, NY, a Bachelor of Science in Occupational Therapy from Keuka College, and an Associate in Arts from Hudson Valley Community College.
 
+Jake is a communicant of Sacred Heart Church. He is the past commander of VFW Post 7337 and is a member of the Castleton Fish and Game Club.
+
+Jake resides in Castleton with his wife, Kristy, and their two children.

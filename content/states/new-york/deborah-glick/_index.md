@@ -17,7 +17,7 @@ name: Deborah Glick
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 1992
 mailing1: Legislative Office Building Room 621 LOB Albany, NY 12248
 phone1: 518-455-4841
@@ -25,14 +25,11 @@ website: https://nyassembly.gov/mem/Deborah-J-Glick/
 email : https://nyassembly.gov/mem/Deborah-J-Glick/
 twitter: deborahjglick
 ---
-Deborah J. Glick is a member of the New York State Assembly representing the 66th Assembly District in Lower Manhattan. The neighborhoods she represents include Alphabet City, Greenwich Village, Noho, SoHo, the East Village, the West Village, Tribeca, and Battery Park City. She is a member of the Democratic Party.
 
-Glick is a lifelong resident of New York City and has lived in Greenwich Village for over 40 years. She graduated from the City University of New York's Queens College and received a Master of Business Administration degree from Fordham University. Before her political career, Glick owned and managed a small printing business in TriBeCa. She also served as the deputy director of general services at the New York City Department of Housing, Preservation, and Development until May 1990.
+As a representative of Lower Manhattan for over 30 years, Deborah Glick has been a strong advocate for civil rights, reproductive freedom, animals and environmental preservation, the arts, and tenants’ rights. Glick’s recent legislative accomplishments include the passage of the Reproductive Health Act, codifying Roe v. Wade in New York State law, for which she was the lead sponsor; a bill requiring courts to consider the best interest of a companion animal when determining custody of the pet during a divorce proceeding; the renewal of the Loft Law, which brings formerly commercial buildings up to residential code and protects current tenants, many of whom are artists, from eviction; and a bill authorizing New York City to expand a life-saving speed safety camera program, allowing speed safety cameras to be installed in hundreds of school zones, an initiative proven to significantly reduce traffic crashes near schools.
 
-Glick's political activism began in college, and she continues to be strongly involved in grassroots organizing. She first ran for the State Assembly in 1990 and won, becoming the first openly gay state legislator in New York State. She has served in the legislature for over 30 years, championing a number of progressive legislative causes as well as key local issues. She is Jewish.
+Glick was the first openly LGBTQ member of the State legislature and was a leader in the fight for marriage equality. She has championed numerous bills establishing the rights of LGBTQ people and couples and was the primary sponsor of a Ban on the harmful practice of Conversion Therapy, and the Hospital Visitation Act, which established the rights of domestic partners to care for loved ones in medical facilities. She fought to pass the Sexual Orientation Non-Discrimination Act (SONDA), which prohibits discrimination on the basis of sexual orientation, and the Gender Expression Non-Discrimination Act (GENDA), which protects transgender and gender non-conforming New Yorkers from discrimination.
 
-In the Assembly, Glick serves as the Chair of the Assembly's Higher Education Committee, which oversees all private and public higher education institutions, financial assistance for students, and professional licensing. She also serves on the Ways and Means, Rules, Governmental Operations, and Environmental Conservation Committees. She also serves as the Chair of the Assembly's Intern Program, overseeing the Assembly's student interns.
+Glick chairs the Assembly Committee on Environmental Conservation and also serves on the Ways and Means, Rules, and Governmental Operations Committees.
 
-Her legislative priorities have focused on women's rights, including expanding access to reproductive healthcare; LGBTQ rights; environmental preservation and protection; the protection of animals, especially those in shelters; higher education; tenants' rights; increasing pedestrian and traffic safety; maintaining and expanding open space; and support for the arts.
-
-Glick's legislative victories include the passage of the Sexual Orientation Non-Discrimination Act (SONDA), which was finally signed into law in December 2002. Glick's Hospital Visitation Bill became law in 2004, providing domestic partners the same rights that spouses and next-of-kin have when caring for a loved one in a hospital or nursing facility.
+Glick was born and raised in Queens, New York, and has lived in Greenwich Village for over 40 years. She graduated with a bachelor’s degree from Queens College and a Master of Business Administration from Fordham University.

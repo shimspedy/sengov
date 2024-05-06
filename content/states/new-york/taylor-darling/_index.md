@@ -4,7 +4,7 @@ title: "Taylor Darling"
 seo_title: "contact Representative Taylor Darling"
 subheader:
      greeting: Contact Representative Taylor Darling
-     description: Taylor Darling, also known as Taylor Raynor, is an American elected official from the state of New York. She is a Democrat, currently representing the 18th District in the New York State Assembly since 2019. Taylor is second-generation Nigerian, Trinidadian, and English and was reared in the Jewish and Episcopalian faiths.
+     description: Taylor Darling, also known as Taylor Raynor, is an American elected official from the state of New York. She is a Democrat, currently representing the 18th District in the New York State Assembly since 2019.
 description: Contact Representative Taylor Darling of New York. Contact information for Taylor Darling includes email address, phone number, and mailing address.
 image: taylor-darling.jpeg
 video:
@@ -17,7 +17,7 @@ name: Taylor Darling
 state: New York
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2018
 mailing1: Legislative Office Building Room 323 LOB Albany, NY 12248
 phone1: 518-455-5861
@@ -25,16 +25,17 @@ website: https://nyassembly.gov/mem/Taylor-Darling/
 email : https://nyassembly.gov/mem/Taylor-Darling/
 twitter: iamtdarling
 ---
-Taylor Darling, also known as Taylor Raynor, is an American elected official from the state of New York. She is a Democrat, currently representing the 18th District in the New York State Assembly since 2019. Taylor is second-generation Nigerian, Trinidadian, and English and was reared in the Jewish and Episcopalian faiths.
 
-Taylor Darling was born on November 21, 1983, in Brooklyn, New York. She is an American and British citizen, having lived in Europe in her youth during her father�s service in the military. Her parents - Raulston and Towana Bertley - were the blueprint for strength, hard work, knowledge, focus, and strategy. Raulston was a veteran, while Towana � who was a member of the United Federation of Teachers - devoted her life to law, justice, and education, teaching in the Uniondale School District on Long Island.
+Taylor Darling is an American and British citizen who was born in Brooklyn, NY to Raulston and Towana Bertley. The standard of excellence they applied to their lives was immediately bestowed onto her. Her father, Raulston, served in the military and her mother, Towana, devoted her life to law, justice and education. During her early childhood, Taylor lived in Europe with her devoted parents. It was there that she welcomed her little sister, Sydney, who has been Taylor’s biggest supporter and best friend ever since.
 
-At the age of four, Taylor learned to play chess and eventually became a nationally-ranked chess player. Her father taught her how to play and enforced a strict practice routine for competitions. Taylor's father suffered from radiation poisoning while serving in the military in Europe, and the family moved back to Bedford-Stuyvesant, Brooklyn for better medical care. He eventually died when Taylor was just 10 years old.
+Taylor learned the game of chess around age 4. She and her sister, Sydney, became nationally ranked chess players who practiced and competed seven days a week. Taylor credits the game for developing her strategic approach to problem solving, which has served her well in every endeavor she has embarked on.
 
-When she was 11 years old, Taylor�s family relocated from Brooklyn to Nassau County on Long Island where she attended Turtle Hook Jr. High School and Uniondale High School, graduating early at the age of 16. The Talented and Gifted Program is what enabled her to skip a grade in middle school.
+In an effort to increase the amount of healthy two-parent households in America, Taylor devoted her life to the field of psychology. She attended her dream college, Spelman, at 16 years old and was accepted into a Clinical Psychology Doctoral Program at age 19. Taylor eventually transferred to Hofstra University and became an Industrial Organizational Psychologist.
 
-After high school, Taylor attended Spelman College in Atlanta, Georgia, one of the oldest and most prestigious historically Black colleges and universities (HBCU) in the United States. U.S. News & World Report has ranked it the #1 HBCU for 17 years in a row. She spent three years there, once again graduating early at 19 years old.
+She has worked in several industries creating and implementing systems to increase efficiency, productivity and profitability. Taylor’s holistic and humanistic approach kept her in high demand in the private sector. However, the growing needs of her community began to require her attention. Taylor’s sister soon gave her a challenge and said “you get paid to fix things, fix our community.” What followed is a story that reads like the biblical David and Goliath.
 
-Upon graduation, Taylor entered a Clinical Psychology doctoral program in Georgia. Three years later, Taylor�s mother became afflicted by a terminal illness, and she returned to Nassau County to care for her. During this time, she enrolled in the Industrial/Organizational Psychology master�s degree program at Hofstra University in Hempstead, New York.
+Taylor is a crusader for inclusion, equity and economic and social justice. She leads with transparency, strategic efficiency, simplicity and curiosity.
 
-Post college, Taylor worked as a business consultant. When she announced her plans to run for office, she was immediately terminated from her private sector job. On September 13, 2018, Taylor won the primary election for the New York State Assembly, representing the 18th Assembly District, after challenging 30-year incumbent Assemblywoman Earlene Hooper.
+Taylor resides with her incredible family in Long Island, NY.
+
+It is Taylor’s greatest honor and privilege to represent the beautiful 18th Assembly District of New York. Stay tuned...

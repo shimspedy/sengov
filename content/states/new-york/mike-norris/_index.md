@@ -4,7 +4,7 @@ title: "Mike Norris"
 seo_title: "contact Representative Mike Norris"
 subheader:
      greeting: Contact Representative Mike Norris
-     description: Mike Norris, born Michael R. Norris on October 4, 1962, in Redondo Beach, California, is an American actor and director. He is the eldest son of actor and martial arts champion Chuck Norris and his first wife, Dianne Holechek.
+     description: Michael J. Norris was elected on November 8, 2016 to the New York State Assembly and re-elected in 2018, 2020 and 2022. His district includes parts of Erie and Niagara counties.
 description: Contact Representative Mike Norris of New York. Contact information for Mike Norris includes email address, phone number, and mailing address.
 image: mike-norris.png
 video:
@@ -17,7 +17,7 @@ name: Mike Norris
 state: New York
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2017
 mailing1: Legislative Office Building Room 402 LOB Albany, NY 12248
 phone1: 518-455-4601
@@ -25,11 +25,21 @@ website: https://nyassembly.gov/mem/Michael-J-Norris/
 email : https://nyassembly.gov/mem/Michael-J-Norris/
 twitter: mike_norris_144
 ---
-Mike Norris, born Michael R. Norris on October 4, 1962, in Redondo Beach, California, is an American actor and director. He is the eldest son of actor and martial arts champion Chuck Norris and his first wife, Dianne Holechek.
 
-Norris starred in the 1986 drama film Born American and the 1991 action film Delta Force 3: The Killing Game. He also directed and starred in the 2009 Christian film Birdie & Bogey.
+Michael J. Norris was elected on November 8, 2016 to the New York State Assembly and re-elected in 2018, 2020 and 2022. His district includes parts of Erie and Niagara counties.
 
-Norris was born in Redondo Beach, California, the son of Dianne (n�e Holecheck) and martial artist and actor Chuck Norris. Norris and his wife own 2nd Fiddle Entertainment, a movie studio. Through 2nd Fiddle Entertainment Norris has written, produced, and directed the films Birdie & Bogey, Maggie's Passage, and I Am Gabriel.
+Mike currently serves as Chairman of the Minority Conference, the Ranking Minority Member of the Transportation and Election Law Committees, and as a member of the Rules, Ways and Means, and Judiciary committees. Mike has also previously served as a member of the Aging, Cities, Health, Higher Education and Tourism, Parks, Arts and Sports Development committees.
 
-Norris and his brother Eric are the two sons of the union of actor Chuck Norris and Dianne Holecheck. Through his father, Norris is the nephew of Aaron Norris, the godson of Gena Norris, and has a half brother and two half sisters. On May 23, 1992, Norris married his wife Valerie. They have three children, born in 1995, and twins in 2000.
+As a Member of the Assembly, Mike has focused on improving our infrastructure, including roads, bridges, and parks, along with the library system in the Western New York region. He has also fought for stronger ethics laws, including pension forfeiture, supported a more open and transparent state government by sponsoring the State Contracts Sunlight Act, and championed legislation to expand coverage and opportunities for our volunteer fire service.
 
+As Co-Chair of the “Learning for Work” Minority Conference Task Force, Mike has advocated for a greater emphasis of vocational job training opportunities and enhancing skill career paths for students.
+
+Mike received his Bachelor of Arts Degree from Niagara University and Juris Doctorate from Albany Law School. He was admitted to the New York State Bar in 2006.
+
+Since his admission to the Bar, Mike has engaged in general practice and is a partner in the law firm of Seaman Norris, LLP. He has served as the Town Attorney for the town of Lockport, town of Somerset, and village of Cassadaga; the Third Corporation Counsel for the city of Lockport; and the Prosecutor for the towns of Lockport and Hartland.Mike is a member of the Lockport, Niagara County, Erie County and New York State Bar Associations.
+
+Previously, Mike worked for the New York State Senate and Assembly, served as a Niagara County Election Commissioner, and interned in the city of Lockport Mayor’s Office.
+
+An active community leader, Mike is a member and past-President of the Lockport Rotary Club and member of All Saints Roman Catholic Church in Lockport. He is also a past member of the Tony Nemi’s Youth Sportsman’s League and LCTV Board of Directors. Mike was one of 12 members selected in the Greater Niagara Newspapers’ Inaugural Under 40 Class in 2015 and received the Paul Harris Award from Lockport Rotary in 2013.
+
+Mike is a lifelong Lockport resident and graduate of Lockport High School.
