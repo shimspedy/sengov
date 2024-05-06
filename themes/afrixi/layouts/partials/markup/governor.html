@@ -1,0 +1,88 @@
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{- .Params.role -}}  {{"  "}}{{- .Params.name -}}",
+      "rigion": "{{- .Params.state -}}",
+      "description": "{{- .Description -}}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{- .Params.State -}}",
+        "streetAddress": "{{- .Params.Mailingaddress1 -}} "
+      },
+      "image": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{- .Params.image -}}{{- end -}}",
+      "jobTitle": "{{- .Params.role -}}",
+      "telephone": "{{- .Params.Phonenumber1 -}}",
+      "url": "{{- .Params.Website -}}"
+    }
+</script>
+
+<script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{.Permalink}}"
+          },
+          "headline": "{{.Params.seo_title}}",
+          "image": {
+            "@type": "ImageObject",
+            "url": "{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{.Params.url}}/{{- .Params.image -}}{{- end -}}",
+            "height": 512,
+            "width": 1024
+          },
+          "datePublished": "{{.Date}}",
+          "dateModified": "{{.Lastmod}}",
+          "author": {
+            "@type": "Person",
+            "name": "{{- if .Params.author -}}{{- .Params.author -}}{{- else -}}john shim{{- end -}}"
+          },
+           "publisher": {
+            "@type": "Organization",
+            "name": "sengov.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "{{- .Site.BaseURL -}}slogo.svg",
+              "width": 600,
+              "height": 60
+            }
+          },
+          "description": "{{- .Description -}}",
+          "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+          "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+        }
+</script>
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description": "{{- .Description -}}",
+    "inLanguage" : "en-US",
+    "author" : "{{ .Params.author }}",
+    "creator" : "{{ .Params.author }}",
+    "accountablePerson" : "{{ .Params.author }}",
+    "copyrightHolder" : "{{ .Params.author }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "image": {
+        "@type": "ImageObject",
+        "url": "{{- .Site.BaseURL -}}{{- if eq .Params.imagedir "root" -}}{{- .Params.imageurl -}}{{- else -}}{{- .Site.BaseURL -}}/{{- .Params.image -}}{{- end -}}",
+        "height": 512,
+        "width": 1024
+      },
+    "tags" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+    "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+}
+</script>
