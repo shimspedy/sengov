@@ -21,7 +21,7 @@ document.addEventListener( 'DOMContentLoaded', function() {
         fullWidth: true,
         indicators: true
     } );
-
+ // tabs options
     var el = document.querySelectorAll( '.tabs' );
     var instance = M.Tabs.init( el, {}  );
 

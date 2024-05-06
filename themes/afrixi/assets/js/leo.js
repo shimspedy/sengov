@@ -107,7 +107,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
       }
       if (id != "AK" && id != "HI") {
         xml_to_json_tables(
-          `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2023/RUS${leo_url}.xml`,
+          `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2024/RUS${leo_url}.xml`,
           "table_rus",
           "table_rus"
         );
