@@ -4,7 +4,7 @@ title: "Julia Salazar"
 seo_title: "contact Senator Julia Salazar"
 subheader:
      greeting: Contact Senator Julia Salazar
-     description: Senator Julia Salazar represents New York’s 18th State Senate District, which includes the Brooklyn neighborhoods of Bushwick and Cypress Hills as well as parts of three other neighborhoods: Williamsburg, Brooklyn, East New York, Brooklyn and Ridgewood, Queens.  
+     description: Senator Julia Salazar represents New York’s 18th State Senate District, which includes the Brooklyn neighborhoods of Bushwick and Cypress Hills as well as parts of three other neighborhoods, Williamsburg, Brooklyn, East New York, Brooklyn and Ridgewood, Queens.  
 description: Contact Senator Julia Salazar of New York. Contact information for Julia Salazar includes email address, phone number, and mailing address.
 image: julia-salazar.jpeg
 video:

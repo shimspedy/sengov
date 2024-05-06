@@ -4,7 +4,7 @@ title: "Samra Brouk"
 seo_title: "contact Senator Samra Brouk"
 subheader:
      greeting: Contact Senator Samra Brouk
-     description: Senator Samra G. Brouk has the privilege of representing the residents of New York's 55th District, which includes portions of Monroe County, including: East and West Irondequoit, Webster, Penfield, Perinton, Fairport, Pittsford, East Rochester & the eastern portion of the City of Rochester.
+     description: Senator Samra G. Brouk has the privilege of representing the residents of New York's 55th District, which includes portions of Monroe County, including, East and West Irondequoit, Webster, Penfield, Perinton, Fairport, Pittsford, East Rochester & the eastern portion of the City of Rochester.
 description: Contact Senator Samra Brouk of New York. Contact information for Samra Brouk includes email address, phone number, and mailing address.
 image: samra-brouk.jpeg
 video:
