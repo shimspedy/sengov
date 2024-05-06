@@ -4,7 +4,7 @@ title: "Jeffrion Aubry"
 seo_title: "contact Representative Jeffrion Aubry"
 subheader:
      greeting: Contact Representative Jeffrion Aubry
-     description: Jeffrion L. Aubry for the 35th A.D. of Queens County was elected to the New York State Assembly in a Special Election on January 3, 1992. Assemblyman Aubry presently is the New York State Speaker Pro Tempore and member of the following committees: Ways and Means, Rules, Social Services and Governmental Employees.
+     description: Jeffrion L. Aubry for the 35th A.D. of Queens County was elected to the New York State Assembly in a Special Election on January 3, 1992. Assemblyman Aubry presently is the New York State Speaker Pro Tempore and member of the following committees, Ways and Means, Rules, Social Services and Governmental Employees.
 description: Contact Representative Jeffrion Aubry of New York. Contact information for Jeffrion Aubry includes email address, phone number, and mailing address.
 image: jeffrion-aubry.jpeg
 video:
