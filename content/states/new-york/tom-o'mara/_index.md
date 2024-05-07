@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Senator Tom O'Mara
      description: Tom O'Mara is a prominent figure in the New York State Senate, representing a district in the Southern Tier of New York since 2010. The district is currently numbered the 58th district. He is a member of the Republican Party.
 description: Contact Senator Tom O'Mara of New York. Contact information for Tom O'Mara includes email address, phone number, and mailing address.
-image: tom-o'mara.jpeg
+image: tom-omara.jpeg
 video:
-url: /states/new-york/tom-o'mara/
+url: /states/new-york/tom-omara/
 weight: 1
 layout: course_home
 
@@ -37,5 +37,5 @@ He is a member of the law firm Davidson & O'Mara in Elmira. In 2010, O'Mara was 
 
 In 2011, O'Mara voted against allowing same-sex marriage during the senate roll-call vote on the Marriage Equality Act, which the Senate narrowly passed 33-29 legalizing same-sex marriage. Since his initial election in 2010, O'Mara has never faced a serious re-election, running unopposed in 2012 and 2014. His closest election came in 2016, when he defeated Democrat Leslie Danks-Burke 55% to 45%. He easily won re-election again in 2018.
 
-An avid outdoorsman who enjoys fishing, camping, skiing, and snowmobiling, Senator O’Mara is a lifetime member of the National Rifle Association (NRA), and a member of the Sons of the American Legion and the Shooters Committee on Public Education (SCOPE), as well as the Farm Bureau of New York/Chemung County, Ancient Order of Hibernians- Elmira, and Montour Falls Moose.
+An avid outdoorsman who enjoys fishing, camping, skiing, and snowmobiling, Senator Oï¿½Mara is a lifetime member of the National Rifle Association (NRA), and a member of the Sons of the American Legion and the Shooters Committee on Public Education (SCOPE), as well as the Farm Bureau of New York/Chemung County, Ancient Order of Hibernians- Elmira, and Montour Falls Moose.
 
