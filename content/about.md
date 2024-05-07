@@ -40,4 +40,4 @@ My goal is to continually improve Sengov and add useful features for readers. I'
 
 ![coffe](/qr.png)
 
-For More Caffines here is the link to my support page [BUY ME COFFEE](https://www.buymeacoffee.com/sengov.com)
+For More Caffeines here is the link to my support page [BUY ME COFFEE](https://www.buymeacoffee.com/sengov.com)
