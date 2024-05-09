@@ -20,40 +20,40 @@ The ACP is designed to provide financial assistance to eligible households, ensu
 
 Households can qualify for the ACP in several key ways:
 
-1. **Participation in Government Assistance Programs:**
+1. Participation in Government Assistance Programs
    - Engagement in federal programs such as SNAP (Food Stamps), Medicaid, Supplemental Security Income (SSI), and Federal Public Housing Assistance automatically qualifies you for the ACP. This direct qualification process simplifies access for recipients of government aid.
 
-2. **Meeting Income Standards:**
+2. Meeting Income Standards
    - Households with an income at or below 200% of the Federal Poverty Guidelines are eligible, ensuring that the program reaches those who need financial assistance the most.
 
-3. **Enrollment in an ISP’s Low-Income Plan:**
+3. Enrollment in an ISP’s Low-Income Plan
    - Many Internet Service Providers offer plans designed for low-income families. Participating in these plans can also qualify you for the ACP benefits.
 
 #### Advantages of the ACP
 
-- **Monthly Internet Service Discounts:**
+##### Monthly Internet Service Discounts
   - The ACP provides a monthly discount on broadband services from participating ISPs, which helps to lower the cost of internet access for low-income households.
 
-- **One-Time Device Discount:**
+##### One-Time Device Discount
   - Eligible households may also receive a one-time discount to help purchase a tablet. This usually requires a small co-payment and is dependent on the offerings of the participating ISPs.
 
 ### Application Process for the Affordable Connectivity Program
 
 Obtaining the benefits of the ACP involves a few straightforward steps:
 
-1. **Verify Your Eligibility:**
+1. Verify Your Eligibility
    - Determine your qualification through federal assistance programs, household income levels, or an ISP’s low-income plan.
 
-2. **Gather Required Documentation:**
+2. Gather Required Documentation
    - Collect necessary documents such as tax returns, benefit verification letters, or pay stubs to prove eligibility.
 
-3. **Engage with a Participating ISP:**
+3. Engage with a Participating ISP
    - Initiate the application process with an ISP that offers the ACP. This can typically be done online, via phone, or in person.
 
-4. **Device Activation and Usage:**
+4. Device Activation and Usage
    - Upon approval, the discount on your service will commence, and you can proceed with acquiring your discounted tablet. Activation is often handled by the ISP and can be set up as soon as you receive the device.
 
-5. **Bringing Your Own Device (BYOD):**
+5. Bringing Your Own Device (BYOD)
    - If you possess a compatible device, consider a SIM-only activation to use it with the ACP benefits.
 
 ### Maximizing the Impact of Digital Access
