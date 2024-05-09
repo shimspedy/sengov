@@ -19,7 +19,7 @@ In today's world, staying connected and having access to digital tools is essent
 
 Food stamps, officially known as the Supplemental Nutrition Assistance Program (SNAP), help low-income families buy food. However, SNAP participants can also qualify for technology assistance through programs like the Affordable Connectivity Program (ACP), which emerged from the government’s efforts to provide broader internet accessibility to underprivileged households.
 
-#### Eligibility for a Free Tablet
+#### Eligibility for a Free Government Tablet with an EBT Card
 
 To qualify for a free tablet, you must already be participating in SNAP or meet other specific criteria such as income levels or participation in other government assistance programs like Medicaid or Supplemental Security Income (SSI). The primary aim is to ensure that those who need financial support the most can access technology that may otherwise be out of reach.
 
