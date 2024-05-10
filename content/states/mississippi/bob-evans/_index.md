@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Bob Evans of Mississippi. Contact information for Bob Evans includes email address, phone number, and mailing address.
 image: bob-evans.jpeg
 video:
-url: /states/mississippi/bob-evanss/
+url: /states/mississippi/bob-evans/
 weight: 1
 layout: course_home
 
