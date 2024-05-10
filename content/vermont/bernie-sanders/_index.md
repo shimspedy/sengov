@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2024-03-22T11:48:55-05:00
 title: "Bernie Sanders "
 seo_title: "contact senator Bernie Sanders "
 subheader:
@@ -51,7 +51,7 @@ Together, we must work towards an economy that works for all of us, not just the
 #### Education
 In an increasingly competitive global economy, we must ensure every student has the opportunity to pursue a quality education. Senator Sanders has worked hard to lessen the burden of tuition and student loans, implement the Every Student Succeeds Act (ESSA), and to create an innovative loan forgiveness program by which loans are forgiven for college graduates who work in public service – including nurses, teachers, and law enforcement officers.
 
-Higher Education
+- Higher Education
 For the first time in American history, the total amount of student loan debt now exceeds the amount of credit card debt, totaling more than a trillion dollars. More than two-thirds of college students who graduated in 2019 had outstanding loans, each owed an average of $28,950 in debt. In Vermont, 60 percent of college graduates have student debt, averaging $30,651.
 
 In May 2015, Senator Sanders first introduced the College for All Act to address the crisis of college affordability. This legislation would provide at least $48 billion per year to states and tribes to eliminate undergraduate tuition and fees at public colleges, universities, and institutions of higher education controlled by tribes. Under this bill, students from any family would be able to attend a public four-year college or university, or four-year tribal college or university, tuition- and fee-free. All students, regardless of income, would also be able to attend community colleges, trade schools, or apprenticeship programs tuition- and fee-free.
@@ -61,12 +61,12 @@ Senator Sanders has also worked to expand Pell Grants and was an original co-spo
 “One of the great crises facing our country today is student indebtedness and the high cost of college. It is obscene that millions of working-class families are finding it extremely difficult to send their kids to college. Colleges must control costs and the federal government must provide the necessary assistance so every person in this country – regardless of income – can get a college education.”
 – Sen. Bernie Sanders (I-Vt.)
 
-Early Childhood Education
+- Early Childhood Education
 Senator Sanders believes access to quality early learning programs is vitally important, as research has shown that roughly 80 percent of all brain development occurs before a child reaches three years old and 90 percent — nearly full grown — by age five. In fact, all children should have access to high quality learning programs like Head Start and he is an avid supporter.
 
 At a time when the high cost of child care for families has reached crisis levels—costing more than public college tuition in most states, we need Head Start even more. Lack of high-quality, affordable child care and pre-kindergarten hinders the development of children. We cannot allow that to happen. Head Start should be fully funded and expanded to more children and families to provide much needed early learning education opportunities that prepare a child for school. Senator Sanders will do all that he can to fully fund and expand Head Start because he knows that it is vital to young families to have access to the kind of support for parents and care of young children that Head Start provides.
 
-K-12
+- K-12
 Senator Sanders believes supporting public school teachers is a central part of having a great public education system, and that effective school leadership is critical for student success. He agrees that the federal government must do more to ensure effective instruction in our schools. In Senator Sanders’ view, a quality public education is a fundamental civil right, and every child, regardless of their family’s income or background, should be given every possible opportunity to succeed. To that end, he has advocated for robust funding for Title II of the Every Student Succeeds Act (ESSA), which authorizes the Supporting Effective Instruction State Grants. These grants aid in the recruitment, training, and support of teachers, principals and other school leaders, and also incentivize a range of preparation program reforms. Importantly, grants through this program are geared toward high-need schools, and there is a geographic diversity requirement designed to help rural schools get the support they need. Recruitment efforts in rural parts of Vermont can be especially difficult and it is Senator Sanders’ hope that this program will help attract, train, and support the teachers and school leaders our children deserve and require.
 
 As a member of the Senate Committee on Health, Education, Labor, and Pensions, Senator Sanders will continue to fight for public schools and the students, families and communities that depend on them. The Senator is committed to ensuring that all children have a quality education, from birth to higher education, so that Vermonters are able to compete and succeed in school, college, career and life.
@@ -74,30 +74,35 @@ As a member of the Senate Committee on Health, Education, Labor, and Pensions, S
 #### Energy and Environment
 As a member of both the Senate Environment and Public Works Committee and the Energy and Natural Resources Committee, Senator Sanders has long fought for progressive energy policies, strong environmental protection, and aggressively reducing carbon emissions to address global climate change.
 
-Climate Change
+- Climate Change
 Virtually the entire scientific community agrees that human activity is a significant driver of global warming. The United Nations’ Intergovernmental Panel on Climate Change warns that if we do not drastically reduce greenhouse gas emissions, the already-disastrous effects of global warming will get much worse – including crop failures, increasing hunger and illness, more extreme weather, and extinction of species. As the wealthiest country on the planet and the second largest emitter of greenhouse gases, the United States needs to lead the fight against global climate change. We have a moral obligation to preserve this planet for future generations.
 
 Senator Sanders believes that climate change is one of the greatest existential threats facing the planet. That is why he has introduced a number of bills to address this crisis:
 
 The Climate Emergency Resolution would declare climate change a national emergency and require a massive-scale mobilization to address it.
 The Energy Efficiency Block Grant Program authored by Senator Sanders provided $3.2 billion through the 2009 economic stimulus to help homeowners, small businesses, and municipalities implement innovative weatherization and energy efficiency projects.
+
 The End Polluter Welfare Act would end generous tax breaks, loan programs, and subsidies for the fossil fuel industry, while saving American taxpayers up to $150 billion over the next ten years.
+
 The Fracking Ban Act, which is based on Vermont’s ban on fracking, would prohibit federal agencies from approving any permits that would expand fracking infrastructure, including new pipelines. The bill would also ban fracking completely by the year 2025.
+
 Senator Sanders’ Residential Energy Savings Act would fund energy efficiency financing programs that help homeowners invest in energy efficiency retrofits.
+
 The American Clean Energy Investment Act would authorize up to $110 billion to expand, and make permanent, tax incentives to develop energy efficiency and renewable energy generation like wind, solar, and geothermal.
-The Green New Deal
+
+- The Green New Deal
 United States must lead the world in transforming our energy system away from fossil fuels to sustainable energy. But let’s be clear, the Green New Deal is not just about climate change. It is also an economic plan to create millions of good-paying jobs, strengthen our infrastructure, and invest in our country’s frontline and vulnerable communities. That is why Senator Sanders is a proud original cosponsor of The Green New Deal resolution, which is a ten-year effort that outlines a transition to a zero-emissions transportation and energy sector, sustainable farms and ranches, a high-quality health care system, and stronger labor standards. Perhaps most importantly, the Green New Deal recognizes the importance of including everyone in the transition – from Coal Country to Indian Country.
 
 Senator Sanders also introduced the Green New Deal for Public Housing Act, which would transition the country’s entire public housing stock into zero-carbon, highly energy-efficient developments that produce on-site renewable energy, expand workforce capacity and family self-sufficiency, and focus on community development. This bill ensures that everyone has a shot at economic and social empowerment.
 
-Public Lands
+- Public Lands
 Outdoor recreation is critical to Vermont’s quality of life and economy. In fact, 72 percent of Vermonters participate in outdoor activities like trail running, biking, skiing, and snowmobiling each year. The Vermont Department of Labor estimates that one in seven Vermont jobs depends on the outdoor recreation economy, which generates $2.5 billion in annual consumer spending. The benefits outdoor recreation provides in terms of public health and the economy make public lands conservation a clear win-win.
 
 In addition to supporting important outdoor recreation bills, Senator Sanders is also a longtime supporter of funding for the Recreational Trails Program, which has been critical in developing some of Vermont’s premier trails. Senator Sanders is proud to have secured a $5.2 million grant for the 93-mile Lamoille Valley Rail Trail, a world-class, four-season, multi-use trail that, when complete, will run from Swanton to St. Johnsbury.
 
 Furthermore, Senator Sanders, Senator Leahy, and Representative Welch previously introduced legislation to add the Upper Missisquoi and Trout Rivers to the Wild and Scenic Rivers System; the rivers received that designation in 2014, and it will ensure Vermonters are able to enjoy them for years to come.
 
-Nuclear Safety
+- Nuclear Safety
 Senator Sanders is one of the most vocal critics of continuing government subsidies and special tax breaks for the nuclear industry, and has called for an end to the Price-Anderson government liability insurance program for nuclear reactors.
 
 The closure of the Vermont Yankee power plant will help the state move toward safer and more sustainable sources of energy like wind, solar, and geothermal. Senator Sanders is working aggressively to make sure the decommissioning process for the plant happens quickly and safely, while giving Vermonters a seat at the table. His experiences with the Vermont Yankee plant led him to introduce the Nuclear Plant Decommissioning Act to give states and local communities a meaningful role in decisions regarding plant decommissioning. A provision of this bill was passed into law and brought the NRC to Vermont for a public meeting in 2019.
@@ -107,50 +112,52 @@ Sen. Sanders believes that small, family farms are fundamentally important for V
 
 Moreover, Sen Sanders believes that, in the richest country in the history of the world, hunger is a political choice. We need to increase nutrition assistance and ensure all kids have healthy school meals.
 
-Dairy
+- Dairy
 Sen. Sanders believes that dairy is a vital part of the fabric of Vermont’s communities and a central part of the state’s rural economy. In fact, dairy accounts for $2.2 billion of economic activity and 80% of agricultural land in Vermont. Sadly, dairy farmers have faced years for low milk prices and many are struggling to survive on the same prices they received in the 1980s. Vermont has lost almost 400 dairies in the past decade—a 40 percent decline. He is committed to finding a sustainable future for dairy farms.
 
 In 2018, Sen. Sanders introduced legislation to address the dairy crisis and provide much-needed emergency relief to dairy farmers in Vermont and throughout the United States. This was a short-term measure that mirrored his successful inclusion of emergency dairy payments in the 2009 appropriations bill. Sen. Sanders believes farmers deserve a fair price for their milk, and he supports a supply-management system.
 
 “This is a crisis. Hard-working farmers are losing their livelihoods, their homes and their way of life. And, as farms disappear, so do the businesses and jobs they support. And so does Vermont’s iconic working landscape.”
 – Sen. Sanders.
-Market Consolidation
+
+- Market Consolidation
 Sen. Sanders believes that we are not effectively enforcing important antitrust laws to prevent the consolidation of our food, beverage, and agribusiness industries. Too often mergers only boost the profits of executives and shareholders, while leaving consumers and producers with fewer choices and higher prices. These industries are too important to be in the hands of only a few companies.
 
 Moreover, consolidation of the agricultural sector is contributing to the degradation of economic vitality in rural America. The top four largest pork packers control 71 percent of the market; the top four beef packers control 81 percent of the market; and the top four corn seed sellers control 85 percent of the market. Just 4 percent of farms produce two-thirds of the agricultural output in America and these big farms do less business in their communities. Sen. Sanders believes that we need to find a solution that helps small farmers remain profitable if we are committed to preserving a vibrant rural America.
 
-Farmworkers
+- Farmworkers
 The COVID-19 pandemic revealed the critical nature of farmworkers’ labor. Over 3 million farm workers are employed across the United States and work in very difficult conditions. Many of these farmworkers lack documentation and any legal protection. Although these workers play a vital role in feeding our country and contributing to our economy, agricultural work is one of the most dangerous and lowest paid jobs available. Individual farm workers, on average, earn less than $15,000 per year and yet are subject to terrible working conditions including exposure to dangerously high temperatures, pesticides, poor housing conditions, and unfair labor practices. In the wealthiest country in the world, no worker should struggle to feed his or her family or work long hours without adequate compensation.
 
 “We cannot continue to run an economy where millions are made so vulnerable because of their undocumented status”
 – Sen. Sanders
-Local Food
+
+- Local Food
 Sen. Sanders is proud of Vermonters’ pioneering work in the local and sustainable food movement. He has successfully advocated making local food part of school lunches and nutrition assistance programs. Sen. Sanders strongly supports farmers’ markets, value added agriculture, and agri-tourism.
 
 Moreover, many of Vermont’s small, family farms thrive by selling organic food that is raised to exacting standards, and Sen. Sanders has long believed that protecting and promoting Vermont’s small family farms – both vegetable and dairy – is essential to maintaining Vermont’s rural economy.
 
-Nutrition
+- Nutrition
 Sen. Sanders strongly supports access to good nutrition for every American, and believes we need to dramatically increase funding for the Supplemental Nutrition Assistance Program (SNAP or Food Stamps). With unemployment, under-employment, and low wages plaguing the middle class, many working families rely on nutrition assistance to make ends meet. Sen. Sanders believes that “it is unconscionable that the federal government would cut back on food and nutrition assistance to states as our nation struggles to recover from the worst recession since the Great Depression.”
 
 He has introduced the Universal School Meals Program Act to help provide free breakfast, lunch, and dinner to every student in America. He also led the Equitable Nutrition Assistance for the Territories Act to ensure the people of Puerto Rico, the Northern Mariana Islands, and American Samoa receive equal access to SNAP.
 
 #### Foreign Policy and National Security
-Ending Endless War
+- Ending Endless War
 In the nearly two decades since the 9/11 terrorist attacks, the United States has made a series of costly blunders that have not only weakened our democracy but also undermined our leadership. Senator Sanders believes we need a foreign policy that focuses on core U.S. interests, clarifies our commitment to democratic values both at home and abroad, and prioritizes diplomacy and working collectively with allies to address shared security concerns instead of military force.
 
-Afghanistan
+- Afghanistan
 Afghanistan is the longest war in American history After nearly two decades, thousands of American service members killed, tens of thousands more wounded, and hundreds of billions of dollars spent, it is past time to bring home the American servicemen and women still serving in Afghanistan. While the United States may have entered this war with significant clarity of purpose and moral authority, Senator Sanders believes we must now end America’s longest war.
 
-Iraq
+- Iraq
 The war in Iraq has taken the lives of 4,910 American troops, killed hundreds of thousands of Iraqi citizens, displaced millions of people, and cost U.S. taxpayers more than $2 trillion. The United States invaded Iraq in 2003 based on false information, and the evidence is clear that the war has been counterproductive in terms of fighting international terrorism and promoting regional stability. As someone who voted against military action in Iraq in the first place, Senator Sanders believes it is important that the United States withdraw troops from Iraq while continuing to assist them in building a stable government and economy.
 
-Israel and Palestine
+- Israel and Palestine
 Senator Sanders believes that the United States must play a leading role in ending the Israeli occupation of Palestine and creating a permanent two-state solution. He believes the United States must work with the international community to support a sustainable solution that respects the legitimate claims and right to self-determination of both peoples, lifts the blockade of Gaza, resolves the borders of the West Bank, and allows both the Israeli and Palestinian people to live in peace.
 
-Reasserting Congress’s War Power
+- Reasserting Congress’s War Power
 Article I of the United States Constitution is very clear that it is the Congress, not the president, which has the power to declare war. Over many years, administrations of both parties have steadily eroded that power, and Senator Sanders has long believed that Congress must take steps to reclaim and reassert it. That is why Senator Sanders was proud to introduce Senate Joint Resolution 7, which required an immediate end to U.S. participation in the catastrophic Saudi-led war in Yemen, which has become the world’s worst humanitarian crisis. For the first time in history, Congress utilized the procedures laid out in the 1973 War Powers Resolution to compel the president to remove U.S. forces from that had not been authorized by Congress. This was resolution was eventually passed by a bipartisan vote in both chambers of Congress.
 
-Defense Budget
+- Defense Budget
 Senator Sanders believes that at this pivotal moment in American history we have to make a fundamental decision: Do we want to spend trillions of dollars more on endless wars in the Middle East, or do we want to provide decent jobs to millions of unemployed Americans here at home? Do we want to spend more money on nuclear weapons or do we want to invest in decent jobs and childcare and healthcare for the American people most in need? That is why in June 2020 he offered an amendment to the National Defense Authorization Act calling for a 10% cut in annual Pentagon spending to invest in education, health care and poverty reduction in America’s most marginalized communities.
 
 #### Labor
@@ -165,17 +172,17 @@ More than 70 years ago, the Supreme Court declared that a free press is not only
 
 Senator Sanders has been a leader in the fight to stop media consolidation and to strengthen the public interest obligations of broadcasters. In the Senate, he is working hard to make sure that we hold all media companies responsible for providing content that serves the public and offers a diverse range of opinions. For instance, he strongly opposed attempts to gut the FCC ban on corporations from owning a local newspaper, TV station and radio station in the same market. That misguided effort would have further consolidated local media markets and take away independent voices in areas already woefully short on local news and substantive journalism.
 
-Internet Access
+- Internet Access
 Access to high-speed Internet is no longer a luxury – it is crucially important to participate fully in twenty-first century education, business development, health care, and so much more. Yet, over 20 million Americans, predominantly in rural areas, still lack access to high-speed broadband services. Moreover, a significant “digital divide” still exists between Americans who have access to affordable high-speed communications networks and those who are not. With the COVID-19 pandemic forcing millions to continue working and learning from home, the time is now to ensure every American has access to affordable high-speed Internet.
 
 The 2010 economic stimulus bill provided Vermont with a historic opportunity to significantly expand affordable broadband access. Vermont was awarded more than $172 million in federal funds – more than any other state on a per capita basis – for four separate broadband projects. While three of those projects are complete, Senator Sanders is very concerned that a federally-funded statewide wireless project is not yet operational, and he is actively working with congressional colleagues and federal agencies to address this issue.
 
 Senator Sanders remains committed to ensuring that every Vermonter and every American has access to affordable broadband services in their homes and businesses. That is why he endorsed the Senate Democrats’ Jobs and Infrastructure Plan for American Workers, a $1 trillion plan to modernize America’s infrastructure – including $40 billion to connect all Americans to high-speed internet, with a particular focus on underserved areas.
 
-Cable Television
+- Cable Television
 Senator Sanders is a strong advocate for promoting competition in cable television, and has long fought against cable monopolies that raise rates on consumers year after year, limit local programming, and often reduce the channels available under basic cable packages. In Vermont and elsewhere, cable television is often an essential information service for consumers, and thus an affordable basic package is necessary for residents to remain informed and connected to their communities.
 
-Net Neutrality
+- Net Neutrality
 Senator Sanders has strongly opposed allowing internet service providers to restrict content and stifle innovation, and was disheartened when the FCC voted to undo recent progress related to net neutrality.
 
 “Net neutrality” is the idea everyone has the same unfettered access to the same information on the internet. The FCC initially classified internet service providers as Title II “common carriers,” which prevented big corporate ISPs from negotiating “fast lane” deals with certain content providers. Under this classification, all companies would have equal access online.
@@ -204,12 +211,12 @@ As a rural state, Vermonters rely on the Postal Service not just for their lette
 
 Protecting the Postal Service remains one of Senator Sanders’ top priorities in the United States Senate.
 
-Pre-funding Mandate
+- Pre-funding Mandate
 Senator Sanders remains committed to abolishing the pre-funding mandate imposed on the Postal Service. In 2006, Congress passed the Postal Accountability and Enhancement Act which forces the Postal Service to pre-fund 75 years’ worth of retiree health benefits. This financial burden is unique to the Postal Service, with no other federal agency or private company having a similar policy.
 
 This disastrous policy has greatly impacted the Postal Service’s finances and has been used by bad-faith actors as a reason to privatize the Postal Service, which we cannot allow. Without the pre-funding mandate, the Postal Service would have actually made a profit from 2013-2018. Removing this undue burden will allow the Postal Service to operate like every other federal agency and better serve the public.
 
-Postal Banking
+- Postal Banking
 Senator Sanders sees an opportunity for the Postal Service to further serve communities around the country and create new revenue streams. That is why Senator Sanders, alongside Senator Kirsten Gillibrand, recently re-introduced the Postal Banking Act. This legislation would re-establish postal banking to provide financial security to millions of Americans in low-income and rural communities and create approximately $9 billion in annual revenue and strengthen USPS.
 
 “It is absolutely unacceptable that communities all over America lack traditional banking services,” Senator Sanders has said. “During the worst economic crisis since the Great Depression, we need to make sure that everyone in America is able to receive the affordable banking services that they desperately need. No one in America should have to pay a 400 percent interest rate on a $375 loan from a payday lender. The time has come to put predatory lenders out of business and provide affordable banking options to all Americans through the United States Postal Service. And that is exactly what our legislation will do.”
@@ -226,10 +233,14 @@ In 2019, Senator Sanders and Representative Cummings re-opened the investigation
 Senator Sanders also introduced a sweeping plan to lower drug prices in the 116th Congress with [Reps. Cummings and Khanna as well as] more than two dozen colleagues in the House and Senate. The plan includes three bills:
 
 S.97, the Affordable and Safe Prescription Drug Importation Act, which would allow patients, pharmacists and wholesalers to import safe, affordable medicine from Canada and other major countries, and would save taxpayers $6.8 billion over 10 years according to the Congressional Budget Office.
+
 S.99, the Medicare Drug Price Negotiation Act, which would direct the Secretary of Health and Human Services to negotiate lower prices for prescription drugs under Medicare Part D. The U.S. government could save close to $360 billion over a decade if Medicare negotiated the same prices for drugs as people in Canada pay, according to the Center for Economic and Policy Research.
+
 S.102, the Prescription Drug Price Relief Act, which would peg the price of prescription drugs in the United States to the median price in five major countries (Canada, the United Kingdom, France, Germany, and Japan). This compulsory licensing legislation would lower the price of most branded drugs by 50 percent, according to an estimate by the Center for Economic and Policy Research.
+
 “It is unacceptable that Americans pay, by far, the highest prices in the world for prescription drugs.”
 – Sen. Bernie Sanders (I-Vt.)
+
 Sen. Sanders has worked to reduce the pharmaceutical industry’s influence over the drug approval process. In 2012, he was the only senator to vote against the Food and Drug Administration user fee bill because it did not do enough to address high prescription drug prices and was too generous to the pharmaceutical industry. In 2016, he opposed the 21st Century Cures Act because the bill cut Medicare and Medicaid to pay for corporate giveaways to the pharmaceutical industry.
 
 Senator Sanders has also introduced S.1584 (116th), the Opioid Crisis Accountability and Results Act, which would require drug companies that manufacture opioids to reimburse the country for the negative economic impact of their products; S.495 (115th), the Medical Innovation Prize Fund Act, which would establish a multi-billion-dollar fund to reward drug innovation with cash prizes instead of monopoly rights; and S.1681 (115th), a bill to require drugs that are developed with federally funded research to be sold at reasonable prices.
@@ -239,7 +250,7 @@ In 1999, Sen. Sanders was the first member of Congress to take his constituents 
 #### Racial Justice
 It is no secret that our country has a long history of deeply entrenched, horrendous racism. Today, systemic racism still spans every part of the country. People in our nation who experience the pain of systemic racism in the form of social, economic, and environmental injustice have known what it is like to face multiple ongoing crises at the same time for far too long. Women, differently abled, and LGBTQ+ people of color—whose contributions to historic social rights movements have often been pivotal but under-recognized—encounter racism in unique ways that deserve particular attention in our shared effort for change. It is past time for the United States to truly be an anti-racist, anti-discriminatory country that urgently addresses the inequalities Black, Indigenous, Latino, Asian-American, and other non-majority ethnic groups endure daily.
 
-Criminal Justice Reform
+- Criminal Justice Reform
 Sadly, the lives of far too many Black Americans and people of color who mattered have been unjustly taken away. It should not be a reality that a Black person is two-and-a-half times more likely than a white person to be killed by a police officer. We must make major law enforcement reforms like ending qualified immunity and equipping the Department of Justice to investigate and deal with acts of hate. We must also transform our racist and broken criminal justice system by eliminating cash bail, ending mandatory minimum sentencing, and reinstating the federal system of parole. Black men are sentenced to 19 percent more jail time for the same crimes as white men, and Black people are imprisoned more than five times the rate of white people. Pursuing fair justice should not lead to these huge disparities. And by finally ending the failed War on Drugs, which includes legalizing marijuana, we can take a major step to stopping racist over-policing and criminalization.
 
 If there is anything that the torture and murder of George Floyd by Minneapolis police has taught us it is that we have to fundamentally rethink the nature of policing in America and reform our broken and racist criminal justice system.
@@ -248,22 +259,26 @@ Let’s be clear. The murder of George Floyd is not just an isolated incident. I
 
 Senator Sanders has introduced multiple bills to reform our failing criminal justice system. Some of these proposals have included:
 
-Banning private prisons
+- Banning private prisons
 Ending mandatory minimums and reinstating the federal parole system
 Eliminating cash bail
 Ending the federal prohibition on marijuana
 Every police officer involved in a killing must be held accountable, and those found guilty must be punished with the full force of the law. That includes officers who stand by while these brutal acts take place.
+
 Further, every single killing of a person by police or while in police custody must be investigated by the Department of Justice. And we must create a process by which police departments look like the communities they serve and be part of those communities, not be seen as invading, heavily-armed occupying forces. We must, therefore, prohibit the transfer of Department of Defense military equipment to police departments.
 
-Economic Justice
+- Economic Justice
 Most Black Americans and people of color experience unfair disparities from income and wealth to housing and education. Senator Sanders has introduced legislation to raise the minimum wage to $15 an hour, and make it easier for workers to join unions. In America we need equal pay for equal work – regardless of race or gender. We must address housing discrimination stemming back to redlining and earlier, and we must end systemic racism in education. A person’s zip code or the racial composition of their neighborhood should not determine their quality of education, and attending college should not lead to a lifetime of debt, especially because of your race. We must end these forms of institutional racism and ethnic discrimination as well as all others. During a time of profound wealth disparity, we must all be aware that Black, Indigenous, Latinx, Asian American, and other ethnic minority groups are often also enduring other long-standing, crisscrossing disparities that we cannot fail to overlook. Our collective pursuit for a fairer, safer, and more peaceful nation and world depends on our ability to never neglect the humanity in each other.
 
-Climate Justice
+- Climate Justice
 Communities of color and low-income communities will suffer greater harm not only from the fact that polluters are more likely to be near or in these neighborhoods, but also from climate change impacts. Vulnerable families live in areas that are more prone to flooding, their homes tend to be older and poorly maintained, and they often lack the resources they need to evacuate ahead of a storm or get back on their feet after an emergency. We must ensure that all communities are included in the transition to a clean energy economy and protected from environmental pollution. It is time we stand with communities of color, indigenous communities and low-income communities to protect their health, culture, and livelihoods. Senator Sanders has introduced legislation and supported a number of programs to address environmental racism:
 
 The Climate Protection and Justice Act would invest billions of dollars raised from a tax on carbon pollution in climate resiliency projects and energy efficiency measures for communities that are most vulnerable to the worst climate impacts. It would also help farmers adopt low-carbon practices like no-till production and sustainable fertilizer application.
+
 The Clean Energy Worker Just Transition Act would take the taxpayer money that has historically benefitted fossil fuel CEOs, and reinvest it in a way to support fossil fuel workers and their transition to a green economy. The funds would provide these workers with a living wage, healthcare, and training as they transition out of the fossil fuel industry. It would also provide funding to invest in and strengthen their communities.
+
 The Low-Income Home Energy Assistance Program, Weatherization Assistance Program, and State Energy Program are all indispensable lifelines to help families heat their homes and save money on energy bills, while also lowering emissions. Senator Sanders supports increasing funding for these programs so that no family has to choose between heating their homes and putting food on the table.
+
 The Low-Income Solar Act would help ensure that all Americans can benefit from the energy and cost savings of solar by providing grants to low-income families to offset the upfront costs of residential solar arrays, and by improving access to community solar projects.
 
 #### Retirement Security
