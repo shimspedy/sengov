@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Jill Dickmanof Nebraska. Contact information for Jill Dickmanincludes email address, phone number, and mailing address.
 image: jill-dickman.jpeg
 video:
-url:  /states/nebraska/jill-dickman/
+url:  /states/nevada/jill-dickman/
 weight: 1
 layout: course_home
 
