@@ -1,5 +1,5 @@
 ---
-date: 2024-04-01T11:55:00-04:00
+date: 2024-04-10T11:55:00-04:00
 title: "Nevada"
 ab: "NV"
 seo_title: "Contact Nevada  Governors And Senators"
