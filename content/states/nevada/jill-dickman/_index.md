@@ -5,7 +5,7 @@ seo_title: "contact Representative Jill Dickman"
 subheader:
      greeting: Contact Representative Jill Dickman
      description: Jill Dickman is an American businesswoman and politician. She serves as a Republican member of the Nevada Assembly and represented Assembly District 31.
-description: Contact Representative Jill Dickmanof Nebraska. Contact information for Jill Dickmanincludes email address, phone number, and mailing address.
+description: Contact Representative Jill Dickman of nevada. Contact information for Jill Dickmanincludes email address, phone number, and mailing address.
 image: jill-dickman.jpeg
 video:
 url:  /states/nevada/jill-dickman/
@@ -14,7 +14,7 @@ layout: course_home
 
 ####candidate
 name: Jill Dickman
-state: Nebraska
+state: nevada
 party: Republican
 role: Representative
 inoffice: current
