@@ -46,3 +46,5 @@ Once you receive your tablet, maximize its benefits by:
 
 
 For SNAP recipients, the opportunity to obtain a free tablet is more than just a technological upgrade—it's a gateway to opportunities that can significantly improve their social and economic circumstances. By ensuring that you meet the program's requirements and following the application steps diligently, you can harness the full potential of digital connectivity to open new doors for you and your family. This initiative is a vital step towards digital inclusivity, ensuring that all community members can participate fully in our digital world.
+
+
