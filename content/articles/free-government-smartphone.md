@@ -3,7 +3,7 @@ author: john hashim
 title: Free Government Smartphone 
 seo_title: Free Government Smartphone with Free Monthly Cell Phone Service
 description: Stay connected effortlessly with Newphone Wireless! As a leading provider dedicated to accessibility, with free tablets paired with unlimited mobile plans through the Lifeline Program and Affordable Connectivity Provider (ACP), ensuring vital communication tools are within everyone's reach.
-date: 2024-04-18T05:45:23.641Z
+date: 2024-04-29T05:45:23.641Z
 image: /1705331155027.jpeg
 draft: false
 ---
