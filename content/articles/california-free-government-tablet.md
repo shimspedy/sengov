@@ -1,5 +1,5 @@
 ---
-author: john hashijm
+author: john hashim
 title: California's Free Government Tablet 
 seo_title: California's Free Government Tablet 
 description: California's free government tablet program has been a transformative initiative for low-income individuals, providing essential access to technology and connectivity.

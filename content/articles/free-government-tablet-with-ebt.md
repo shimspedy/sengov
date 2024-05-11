@@ -1,5 +1,5 @@
 ---
-author: john hashijm
+author: john hashim
 title: Free Government Tablet With EBT
 seo_title: Free Government Tablet With EBT
 description: Tablets are more than just gadgets; they are a lifeline for many.

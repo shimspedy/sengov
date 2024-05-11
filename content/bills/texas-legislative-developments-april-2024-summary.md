@@ -1,6 +1,6 @@
 ---
 authors: 
-  - john hashim
+  - john shim
 title: "Texas Legislative Developments: April 2024 Summary"
 seo_title: "Texas Legislative Developments: April 2024 Summary"
 description: This report provides a comprehensive overview of significant
@@ -16,7 +16,7 @@ categories:
   - bill
 keywords:
   - texas
-defaultImage: /articles/senate.webp
+Image: senate.webp
 draft: false
 ---
 
