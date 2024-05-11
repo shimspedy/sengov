@@ -7,7 +7,7 @@ document.addEventListener( 'DOMContentLoaded', function() {
 
 // colasp
     var elems = document.querySelectorAll('.collapsible');
-    var instances = M.Collapsible.init(elems, { accordion: false });
+    var instances = M.Collapsible.init(elems, {});
 
     //modal 
     var openmodal = document.querySelectorAll('.modal');
