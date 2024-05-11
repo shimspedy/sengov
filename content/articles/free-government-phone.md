@@ -45,17 +45,23 @@ Are you a U.S. resident in a low-income household or a participant in government
 
 ### **Frequently Asked Questions**
 
-**What is the Affordable Connectivity Program (ACP)?**
-The ACP is a federal initiative aimed at ensuring low-income households have access to necessary broadband services for work, school, healthcare, and more.
+{{< faq title="What is the Affordable Connectivity Program (ACP)?" >}}
+ The ACP is a federal initiative aimed at ensuring low-income households have access to necessary broadband services for work, school, healthcare, and more.
+{{< / faq >}}
 
-**Who is eligible for a free government phone under this program?**
-Eligibility includes households participating in certain federal assistance programs, those with children in free and reduced-price school meal programs, or those with incomes at or below 200% of the federal poverty guidelines.
 
-**How do I apply for a free phone through the ACP?**
-Begin by entering your zip code and email in the form provided. Then, complete the application on the following page to determine your eligibility.
+{{< faq title="Who is eligible for a free government phone under this program?" >}}
+ Eligibility includes households participating in certain federal assistance programs, those with children in free and reduced-price school meal programs, or those with incomes at or below 200% of the federal poverty guidelines.
+{{< / faq >}}
 
-**What services are included with the free phone?**
+
+{{< faq title="How do I apply for a free phone through the ACP?" >}}
+ Begin by entering your zip code and email in the form provided. Then, complete the application on the following page to determine your eligibility.
+{{< / faq >}}
+
+{{< faq title="What services are included with the free phone?" >}}
 Your free smartphone comes with unlimited minutes, texts, and data each month, remaining active as long as you use it regularly.
+{{< / faq >}}
 
 ### **Upgrade Options**
 You can choose to upgrade to a different model or plan under the ACP to better meet your needs.
