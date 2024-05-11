@@ -37,7 +37,7 @@ For the detailed eligibility criteria please refer to this pdf file - [IS MY FAM
 ---
 
 
-**SUMMARIZED ELIGIBILITY REQUIREMENTS**
+#### SUMMARIZED ELIGIBILITY REQUIREMENTS
 
 Persons who apply for or receive cash benefits must meet certain requirements. They must help determine eligibility for benefits and participate in activities that will help them become able to support and better care for their families. This includes cooperating with child support, JOBS, and drug screening. Persons who do not cooperate may be denied or may lose benefits.
 
