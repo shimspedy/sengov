@@ -1,5 +1,5 @@
-<div class="collapsible faq"  itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <h3 class="collapsible-header" itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h3>
+<div class="collapsible popout faq"  itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 class="collapsible-header" itemprop="name">><i class="material-icons">info</i>{{ with .Get "title" }}{{ . }}{{ end }}</h3>
     <div  class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
         <div class="collapsible-body" itemprop="text">
             {{ .Inner | markdownify }}

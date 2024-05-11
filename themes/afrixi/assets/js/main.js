@@ -5,6 +5,10 @@ document.addEventListener( 'DOMContentLoaded', function() {
     var dropdowns = document.querySelectorAll( '.dropdown-trigger' );
     var instances = M.Dropdown.init( dropdowns, {} );
 
+// colasp
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems, { accordion: false });
+
     //modal 
     var openmodal = document.querySelectorAll('.modal');
     var instances = M.Modal.init( openmodal, {});
