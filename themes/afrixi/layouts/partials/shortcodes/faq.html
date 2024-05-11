@@ -1,6 +1,8 @@
-<div class="mb-4 faq">
-    <h3>{{ with .Get "title" }}{{ . }}{{ end }}</h3>
-    <div class="faq-answer">
-    {{ .Inner | markdownify }}
-    </div>
+<div class="mb-4 faq"  itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h3>
+    <div  class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            {{ .Inner | markdownify }}
+        </div>
+      </div>
     </div>
