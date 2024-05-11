@@ -18,8 +18,8 @@ The Family Assistance Division of the Alabama Department of Human Resources mana
 
 ##### The program provides two key services to eligible families
 
-1. Temporary Cash Assistance: This service offers temporary cash assistance for basic needs to low-income families with children under 18 years of age or 19 years of age if they are full-time students in a secondary school or equivalent vocational or technical training.
-2. Work and Job Training Services: The JOBS Program offers work and training services to all parents receiving cash assistance to assist them in finding and retaining employment.
+- Temporary Cash Assistance: This service offers temporary cash assistance for basic needs to low-income families with children under 18 years of age or 19 years of age if they are full-time students in a secondary school or equivalent vocational or technical training.
+- Work and Job Training Services: The JOBS Program offers work and training services to all parents receiving cash assistance to assist them in finding and retaining employment.
 
 #### Eligibility for the Program
 
@@ -99,7 +99,7 @@ Persons who apply for or receive cash benefits must meet certain requirements. T
 | 15          | 920                   |
 | 16          | 968                   |
 
-
+---
 #### Necessary Documents
 
 When applying for the Alabama Family Assistance Program, you should bring the following documents to your interview:
@@ -113,16 +113,17 @@ When applying for the Alabama Family Assistance Program, you should bring the fo
 
 Applying for the Alabama Family Assistance Program involves several steps:
 
-1. Get an Application: You can find the application on the Alabama Department of Human Resources website. You can also request an application by calling your local office and asking them to mail one to you.
+- Get an Application: You can find the application on the Alabama Department of Human Resources website. You can also request an application by calling your local office and asking them to mail one to you.
 
-2. Complete the Application: Print out the application and fill it out with all the necessary details. Make sure to provide accurate and complete information to avoid any delays in processing your application.
+- Complete the Application: Print out the application and fill it out with all the necessary details. Make sure to provide accurate and complete information to avoid any delays in processing your application.
 
-3. Submit the Application: Send or deliver the completed application to your local Department of Human Resources. You can also apply for assistance using OneAlabama, Alabama’s online application portal for the Family Assistance and JOBS program. https://one.alabama.gov/
+- Submit the Application: Send or deliver the completed application to your local Department of Human Resources. You can also apply for assistance using OneAlabama, Alabama’s online application portal for the Family Assistance and JOBS program. https://one.alabama.gov/
 
-4. Schedule an Interview: After your application is submitted, an interview will be scheduled to determine your family’s eligibility. This interview can be conducted either over the phone or in person. During the interview, you will be asked to provide additional information about your household's income and expenses.
+- Schedule an Interview: After your application is submitted, an interview will be scheduled to determine your family’s eligibility. This interview can be conducted either over the phone or in person. During the interview, you will be asked to provide additional information about your household's income and expenses.
 
 Remember, the application process may take some time, so it's important to apply as soon as possible. If you need help with the application process, don't hesitate to reach out to your local Department of Human Resources office.
 
+---
 
 The Alabama Family Assistance Program is a crucial resource for needy families in Alabama. It offers temporary financial assistance and job training services to help families meet their basic needs and find stable employment. If you believe you may qualify, apply as soon as possible to take advantage of these benefits.
 
