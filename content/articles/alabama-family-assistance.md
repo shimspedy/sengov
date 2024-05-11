@@ -30,7 +30,7 @@ To be eligible for the Alabama Family Assistance Program, you must meet the foll
 - You must be pregnant or responsible for a child under 19 years of age.
 - You must be unemployed or underemployed with very low wages equal to or less than the payment standards.
 
-For the detailed eligibility criteria please refer to this pdf file - https://dhr.alabama.gov/wp-content/uploads/2023/10/DHR-FAD-595-Oct.23.pdf
+For the detailed eligibility criteria please refer to this pdf file - [IS MY FAMILY ELIGIBLE?](https://dhr.alabama.gov/wp-content/uploads/2023/10/DHR-FAD-595-Oct.23.pdf)
 
 #### Necessary Documents
 
