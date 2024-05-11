@@ -117,7 +117,7 @@ Applying for the Alabama Family Assistance Program involves several steps:
 
 - Complete the Application: Print out the application and fill it out with all the necessary details. Make sure to provide accurate and complete information to avoid any delays in processing your application.
 
-- Submit the Application: Send or deliver the completed application to your local Department of Human Resources. You can also apply for assistance using OneAlabama, Alabama’s online application portal for the Family Assistance and JOBS program. https://one.alabama.gov/
+- Submit the Application: Send or deliver the completed application to your local Department of Human Resources. You can also apply for assistance using OneAlabama, Alabama’s online application portal for the Family Assistance and [JOBS program](https://one.alabama.gov/). 
 
 - Schedule an Interview: After your application is submitted, an interview will be scheduled to determine your family’s eligibility. This interview can be conducted either over the phone or in person. During the interview, you will be asked to provide additional information about your household's income and expenses.
 
