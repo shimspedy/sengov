@@ -36,7 +36,7 @@ Are you a U.S. resident in a low-income household or a participant in government
 - **Free International Calls**: Stay connected worldwide.
 - **Option to Add a Tablet for Just $10.00**
 
-![free government phone](/free-goverment-phones.png)
+![free government phone](./free-goverment-phones.png)
 
 ### **How to Apply**
 1. **Start the Process**: Enter your email and zip code to begin.
