@@ -1,0 +1,6 @@
+<div class="mb-4 faq">
+    <h3>{{ with .Get "title" }}{{ . }}{{ end }}</h3>
+    <div class="faq-answer">
+    {{ .Inner | markdownify }}
+    </div>
+    </div>

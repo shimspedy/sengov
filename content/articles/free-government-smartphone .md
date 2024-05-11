@@ -41,8 +41,9 @@ Applicants need to provide proof of income, government assistance participation,
 
 #### Frequently Asked Questions
 
-What does Newphone Wireless offer?
-  : Newphone Wireless provides free cell phone services, including cell phones and tablets, to eligible individuals.
+{{< faq title="What does Newphone Wireless offer?" >}}
+Newphone Wireless provides free cell phone services, including cell phones and tablets, to eligible individuals.
+{{< / faq >}}
 
 How can I qualify for a free tablet?
   : Eligibility mainly depends on participation in assistance programs like SNAP.
