@@ -32,6 +32,89 @@ To be eligible for the Alabama Family Assistance Program, you must meet the foll
 
 For the detailed eligibility criteria please refer to this pdf file - [IS MY FAMILY ELIGIBLE?](https://dhr.alabama.gov/wp-content/uploads/2023/10/DHR-FAD-595-Oct.23.pdf)
 
+
+
+---
+
+
+**SUMMARIZED ELIGIBILITY REQUIREMENTS**
+
+Persons who apply for or receive cash benefits must meet certain requirements. They must help determine eligibility for benefits and participate in activities that will help them become able to support and better care for their families. This includes cooperating with child support, JOBS, and drug screening. Persons who do not cooperate may be denied or may lose benefits.
+
+---
+
+**TECHNICAL REQUIREMENTS**
+
+- **A.** The child must live in the home of a parent or other close relative.
+- **B.** A person can only receive FA benefits as an adult for 5 years in his or her lifetime.
+- **C.** The child must be under age 18 unless in school. If in school, the child may receive benefits through the month before the 19th birthday or the last month in school, whichever is earlier.
+- **D.** The child must be a U.S. citizen or a legal, eligible alien.
+- **E.** The child must live in Alabama. A person who has been convicted of giving a false address to get help from two States at the same time cannot receive benefits for ten years.
+- **F.** The child cannot be receiving foster care from the Department of Human Resources.
+- **G.** The child must not be participating in a strike. No family member may receive FA if a parent or stepparent is on strike.
+- **H.** The relative must cooperate with Child Support unless the Department decides s/he has a good reason not to.
+- **I.** The relative must turn over all child support payments to the State.
+- **J.** The relative must give a Social Security number for each member of the assistance unit.
+
+---
+
+**IS MY FAMILY ELIGIBLE?**
+
+- **K.** The relative must participate in the JOBS program. Parents under age 18 are required to participate.
+- **L.** The relative must apply for any other benefits for which they may be eligible.
+- **M.** A parent under age 18 and his or her children must live with an adult relative or guardian.
+- **N.** The relative must report family circumstances and may need to provide documentation.
+- **O.** A parent under age 18 with a child that is at least 12 weeks old must be in school or a training program.
+- **P.** The child or relative must not be breaking a condition of parole or probation.
+- **Q.** A parent must sign and meet the terms of their Family Responsibility Plan.
+- **R.** The applicant must participate in job search activities unless exempt.
+- **S.** A parent or stepparent grantee must cooperate with drug screening activities.
+
+---
+
+**FINANCIAL REQUIREMENTS**
+
+"The child must be in need by agency rules and not have parents or stepparents who can support him/her. Before earned income is counted, a 30% work expense and childcare are subtracted from gross income."
+
+---
+
+**FA STANDARDS**
+
+| Family Size | Payment Standards ($) |
+|-------------|-----------------------|
+| 1           | 264                   |
+| 2           | 304                   |
+| 3           | 344                   |
+| 4           | 392                   |
+| 5           | 440                   |
+| 6           | 488                   |
+| 7           | 536                   |
+| 8           | 584                   |
+| 9           | 632                   |
+| 10          | 680                   |
+| 11          | 728                   |
+| 12          | 776                   |
+| 13          | 824                   |
+| 14          | 872                   |
+| 15          | 920                   |
+| 16          | 968                   |
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Necessary Documents
 
 When applying for the Alabama Family Assistance Program, you should bring the following documents to your interview:
