@@ -1,7 +1,7 @@
-<div class="mb-4 faq"  itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <h3 itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h3>
+<div class="collapsible faq"  itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 class="collapsible-header" itemprop="name">{{ with .Get "title" }}{{ . }}{{ end }}</h3>
     <div  class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-        <div itemprop="text">
+        <div class="collapsible-body" itemprop="text">
             {{ .Inner | markdownify }}
         </div>
       </div>
