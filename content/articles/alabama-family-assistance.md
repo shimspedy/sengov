@@ -99,21 +99,6 @@ Persons who apply for or receive cash benefits must meet certain requirements. T
 | 15          | 920                   |
 | 16          | 968                   |
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### Necessary Documents
 
@@ -141,4 +126,4 @@ Remember, the application process may take some time, so it's important to apply
 
 The Alabama Family Assistance Program is a crucial resource for needy families in Alabama. It offers temporary financial assistance and job training services to help families meet their basic needs and find stable employment. If you believe you may qualify, apply as soon as possible to take advantage of these benefits.
 
-For more information, please visit the Alabama Department of Human Resources website.
+For more information, please visit the [Alabama Department of Human Resources](https://dhr.alabama.gov/) website.
