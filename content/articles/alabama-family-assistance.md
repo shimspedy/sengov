@@ -3,7 +3,7 @@ author: john hashim
 title: Alabama Family Assistance Program
 seo_title: Alabama Family Assistance Program
 description: Alabama's Family Assistance Program is a state initiative that provides temporary financial aid to families in need. In this we will give you a thorough instructions of the program, including where to apply, the application process, necessary documents, eligibility, and more.
-date: 2024-04-19T05:45:23.641Z
+date: 2024-04-29T05:45:23.641Z
 image: family.webp
 draft: false
 ---
