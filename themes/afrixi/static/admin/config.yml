@@ -100,7 +100,7 @@ collections:
       - label: "Authors"
         name: "authors"
         required: true
-        widget: "string"
+        widget: "list"
 
       - label: "Title"
         name: "title"
@@ -138,12 +138,6 @@ collections:
         name: "image"
         required: false
         widget: "image"
-
-      - label: "default Image"
-        name: "defaultImage"
-        required: false
-        widget: "image"
-        default: "/articles/senate.webp"
 
       - label: "Draft"
         name: "draft"
@@ -190,17 +184,12 @@ collections:
       - label: "Authors"
         name: "authors"
         required: true
-        widget: "string"
+        widget: "list"
 
       - label: "image"
         name: "image"
         required: false
         widget: "image"
-
-      - label: "video"
-        name: "video"
-        required: false
-        widget: "string"
 
       - label: "url"
         name: "url"
@@ -263,7 +252,7 @@ collections:
       - label: "Authors"
         name: "authors"
         required: true
-        widget: "string"
+        widget: "list"
 
       - label: "image"
         name: "image"
