@@ -16,7 +16,7 @@ categories:
   - bill
 keywords:
   - texas
-Image: senate.webp
+image: bill4.jpeg
 draft: false
 ---
 
