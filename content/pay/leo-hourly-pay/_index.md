@@ -1,11 +1,11 @@
 ---
 
 title: "LEO hourly pay "
-seo_title: " Law Enforcement Officer hourly pay "
+seo_title: "Law Enforcement Officer hourly pay "
 subheader:
      greeting: hourly pay  Rates by Grade and Step
-     description: This table shows the base pay amounts for all  Law Enforcement Officer  employees based on the 2023 LEO Pay Scale, as published by the Office of Personnel Management.
-description: This table shows the base pay amounts for all  Law Enforcement Officer  employees based on the 2023 LEO Pay Scale, as published by the Office of Personnel Management.
+     description: federal pay for Law Enforcement Officer  employees, federal employee salary ,find salary of federal employee , federal worker salary ,federal salary lookup
+description: This table shows the base pay amounts for all  Law Enforcement Officer  employees, federal employee salary ,find salary of federal employee , federal worker salary ,federal salary lookup
 image: leo.png
 video: 
 imageurl: /pay/leo.png
@@ -18,3 +18,4 @@ data2: index
 xml: 
 
 ---
+
