@@ -50,9 +50,9 @@ function xml_to_json_tables(url, tableid, tablediv) {
   
         thead.innerHTML = th_html;
         table.appendChild(thead);
-        tbody(items, "Annual", table, class_annual);
         tbody(items, "Hourly", table, hourly_annual);
         tbody(items, "Overtime", table, overtme_annual);
+        tbody(items, "Annual", table, class_annual);
         h2.innerHTML = des + tabsx;
         h2.classList.add('bio');
         p.innerHTML = notes;
