@@ -4,8 +4,8 @@ title: "Alaska"
 seo_title: " Law Enforcement Officer hourly pay in Alaska"
 subheader:
      greeting: LEO hourly pay in Alaska
-     description: The Law Enforcement(LEO) payscale for Alaska, updated for year 2024.
-description: The Law Enforcement(LEO) payscale for Alaska, updated for year 2024.
+     description: The Law Enforcement(LEO) payscale for Alaska, Law Enforcement Officer hourly pay, Law Enforcement minimum pay, updated for year 2024.
+description: The Law Enforcement(LEO) payscale for Alaska, Law Enforcement Officer hourly pay, Law Enforcement minimum pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-hourly-pay/ak/
 weight: 2
@@ -16,13 +16,12 @@ keywords:
 - federal employee salary
 - government pay
 - payscales
-- general schedule
+- Law Enforcement Officer hourly pay
 - federal wage system
-- senior executive service
-- pay calculator
+- leo pay
+- Law Enforcement minimum pay
+- LEO hourly Pay
 - per diem rates
-
-
-
+- federal pay 
 
 ---
