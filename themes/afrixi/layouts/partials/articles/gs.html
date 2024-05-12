@@ -426,20 +426,22 @@
         </circle>
       </svg>
     </div>
-{{ if eq .Params.data "gs" }}
+    
     <script type="text/javascript">
-      const file_type = "GS";
-      const leo_url = "";
-      const default_url = "GS";
+      let file_type;
+      let leo_url = "";
+      let default_url;
+    
+      if ("{{ .Params.data }}" === "gs") {
+        file_type = "GS";
+        default_url = "GS";
+      } else if (["leo", "leo-hr", "leo-overtime"].includes("{{ .Params.data }}")) {
+        file_type = "Leo";
+        leo_url = " (LEO)";
+        default_url = "GL";
+      }
     </script>
-{{ end }}
-{{ if eq .Params.data "leo" }}
-   <script type="text/javascript">
-    const file_type = "Leo";
-    const leo_url = " (LEO)";
-    const default_url = "GL";
-  </script>
-{{ end }}
+    
 
     <script type="text/javascript">
       let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2024/${default_url}.xml`;
