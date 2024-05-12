@@ -11,4 +11,15 @@ weight: 3
 layout: pay
 xml: WY
 data: leo-overtime
+keywords:
+- federal employee salary,
+- government pay,
+- payscales,
+- Law Enforcement Officer overtime pay,
+- federal wage system,
+- leo pay,
+- Law Enforcement overtime pay,
+- LEO overtime Pay,
+- per diem rates,
+- federal pay 
 ---
