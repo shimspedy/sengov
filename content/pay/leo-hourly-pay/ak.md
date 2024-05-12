@@ -13,15 +13,15 @@ layout: pay
 xml: AK
 data: leo-hr
 keywords:
-- federal employee salary
-- government pay
-- payscales
-- Law Enforcement Officer hourly pay
-- federal wage system
-- leo pay
-- Law Enforcement minimum pay
-- LEO hourly Pay
-- per diem rates
-- federal pay 
+- federal employee salary,
+- government pay,
+- payscales,
+- Law Enforcement Officer hourly pay,
+- federal wage system,
+- leo pay,
+- Law Enforcement minimum pay,
+- LEO hourly Pay,
+- per diem rates,
+- federal pay ,
 
 ---

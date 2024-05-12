@@ -17,14 +17,14 @@ data: leo-hr
 data2: index
 xml: 
 keywords:
-- federal employee salary
-- government pay
-- payscales
-- general schedule
-- federal wage system
-- senior executive service
-- pay calculator
-- per diem rates
+- federal employee salary,
+- government pay,
+- payscales,
+- general schedule,
+- federal wage system,
+- senior executive service,
+- pay calculator,
+- per diem rates,
 
 ---
 
