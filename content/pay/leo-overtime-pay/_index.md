@@ -8,7 +8,7 @@ subheader:
 description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees
 image: leo.png
 video: 
-imageurl: /pay/leo.png
+imageurl: /pay/leo-overtime-pay/leo.png
 imagedir: root
 url: /pay/leo-overtime-pay/
 weight: 1

@@ -8,7 +8,7 @@ subheader:
 description: The Law Enforcement (LEO) payscale for 2024 is the pay scale used by Federal law enforcement officers.
 image: leo.png
 video: 
-imageurl: /pay/leo.png
+imageurl: /pay/leo-hourly-pay/leo.png
 imagedir: root
 url: /pay/leo-hourly-pay/
 weight: 1
