@@ -4,8 +4,8 @@ title: "LEO hourly pay "
 seo_title: "Law Enforcement Officer hourly pay "
 subheader:
      greeting: hourly pay  Rates by Grade and Step
-     description: federal pay for Law Enforcement Officer  employees, federal employee salary ,find salary of federal employee , federal worker salary ,federal salary lookup
-description: This table shows the base pay amounts for all  Law Enforcement Officer  employees, federal employee salary ,find salary of federal employee , federal worker salary ,federal salary lookup
+     description: The Law Enforcement (LEO) payscale for 2024 is the pay scale used by Federal law enforcement officers.
+description: The Law Enforcement (LEO) payscale for 2024 is the pay scale used by Federal law enforcement officers.
 image: leo.png
 video: 
 imageurl: /pay/leo.png
@@ -16,6 +16,15 @@ layout: gs
 data: leo-hr
 data2: index
 xml: 
+keywords:
+- federal employee salary
+- government pay
+- payscales
+- general schedule
+- federal wage system
+- senior executive service
+- pay calculator
+- per diem rates
 
 ---
 

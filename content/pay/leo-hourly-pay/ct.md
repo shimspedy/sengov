@@ -1,7 +1,7 @@
 ---
 
 title: "Connecticut"
-seo_title: " Connecticut  Law Enforcement Officer hourly pay "
+seo_title: " Connecticut Law Enforcement Officer hourly pay "
 subheader:
      greeting: LEO hourly pay in Connecticut
      description: This table shows the base pay amounts for all  Law Enforcement Officer employees
