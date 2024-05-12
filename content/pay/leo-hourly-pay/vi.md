@@ -1,11 +1,11 @@
 ---
 
 title: "Virgin Islands"
-seo_title: " Virgin Islands  Law Enforcement Officer hourly pay "
+seo_title: "Law Enforcement Officer hourly pay in Virgin Islands"
 subheader:
      greeting: LEO hourly pay  in Virgin Islands
-     description: This table shows the base pay amounts for all  Law Enforcement Officer employees
-description: This table shows the base pay amounts for all  Law Enforcement Officer employees
+     description: Law Enforcement(LEO) payscale in  Virgin Islands, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in  Virgin Islands, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-hourly-pay/vi/
 weight: 3

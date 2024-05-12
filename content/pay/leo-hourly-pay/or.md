@@ -1,11 +1,11 @@
 ---
 
 title: "Oregon"
-seo_title: " Oregon  Law Enforcement Officer hourly pay "
+seo_title: " Law Enforcement Officer hourly pay in Oregon"
 subheader:
      greeting: LEO hourly pay  in Oregon
-     description: This table shows the base pay amounts for all  Law Enforcement Officer employees
-description: This table shows the base pay amounts for all  Law Enforcement Officer employees
+     description: Law Enforcement(LEO) payscale in Oregon, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Oregon, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-hourly-pay/or/
 weight: 3
