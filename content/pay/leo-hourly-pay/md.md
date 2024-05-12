@@ -1,7 +1,7 @@
 ---
 
 title: "Maryland "
-seo_title: " Maryland   Law Enforcement Officer hourly pay "
+seo_title: " Law Enforcement Officer hourly pay in Maryland  "
 subheader:
      greeting: LEO hourly pay in Maryland 
      description: This table shows the base pay amounts for all  Law Enforcement Officer employees

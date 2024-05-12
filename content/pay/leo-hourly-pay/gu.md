@@ -1,11 +1,11 @@
 ---
 
 title: "Guam "
-seo_title: " Guam   Law Enforcement Officer hourly pay "
+seo_title: " Law Enforcement Officer hourly pay in Guam  "
 subheader:
      greeting: LEO hourly pay in Guam 
-     description: This table shows the base pay amounts for all  Law Enforcement Officer employees
-description: This table shows the base pay amounts for all  Law Enforcement Officer employees
+     description: Law Enforcement(LEO) payscale in Guam, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Guam, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-hourly-pay/gu/
 weight: 3

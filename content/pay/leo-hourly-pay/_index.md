@@ -24,7 +24,7 @@ keywords:
 - federal wage system,
 - senior executive service,
 - pay calculator,
-- per diem rates,
+- per diem rates
 
 ---
 

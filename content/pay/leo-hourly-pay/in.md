@@ -1,11 +1,11 @@
 ---
 
 title: "Indiana"
-seo_title: " Indiana  Law Enforcement Officer hourly pay "
+seo_title: "Law Enforcement Officer hourly pay in Indiana "
 subheader:
      greeting: LEO hourly pay in Indiana
-     description: This table shows the base pay amounts for all  Law Enforcement Officer employees
-description: This table shows the base pay amounts for all  Law Enforcement Officer employees
+     description: Law Enforcement(LEO) payscale in Indiana, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Indiana, Law Enforcement Officer hourly pay, Law Enforcement hourly pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-hourly-pay/in/
 weight: 3
