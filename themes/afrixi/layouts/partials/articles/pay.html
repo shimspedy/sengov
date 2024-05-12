@@ -109,7 +109,7 @@ window.onload = myFunction1;
   </svg>
 </div>
 
-{{ if eq .Params.data "gs" }}
+<!-- {{ if eq .Params.data "gs" }}
 <script type="text/javascript">
   const file_type = "GS";
   const leo_url = "";
@@ -123,10 +123,23 @@ window.onload = myFunction1;
       const default_url = "GL";
     </script>
 
-{{ end }}
+{{ end }} -->
 
 
+<script type="text/javascript">
+  let file_type;
+  let leo_url = "";
+  let default_url;
 
+  if ("{{ .Params.data }}" === "gs") {
+    file_type = "GS";
+    default_url = "GS";
+  } else if (["leo", "leo-hr", "leo-overtime"].includes("{{ .Params.data }}")) {
+    file_type = "Leo";
+    leo_url = " (LEO)";
+    default_url = "GL";
+  }
+</script>
 
 
 

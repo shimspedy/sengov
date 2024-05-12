@@ -11,5 +11,5 @@ url: /pay/leo-hourly-pay/co/
 weight: 3
 layout: pay
 xml: CO
-data: leo
+data: leo-hr
 ---
