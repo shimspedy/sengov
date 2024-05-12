@@ -1,11 +1,11 @@
 ---
 
 title: "Iowa"
-seo_title: " Iowa  Law Enforcement Officer Overtime Pay"
+seo_title: "Law Enforcement Officer Overtime Pay in Iowa"
 subheader:
      greeting: LEO Overtime Pay in Iowa
-     description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
-description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
+     description: Law Enforcement(LEO) payscale in Iowa, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Iowa, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-overtime-pay/ia/
 weight: 3

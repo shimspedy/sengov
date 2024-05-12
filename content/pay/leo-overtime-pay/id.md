@@ -1,11 +1,11 @@
 ---
 
 title: "Idaho"
-seo_title: " Idaho  Law Enforcement Officer Overtime Pay"
+seo_title: "Law Enforcement Officer Overtime Pay in Idaho"
 subheader:
      greeting: LEO Overtime Pay in Idaho
-     description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
-description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
+     description: Law Enforcement(LEO) payscale in Idaho, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Idaho, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-overtime-pay/id/
 weight: 3

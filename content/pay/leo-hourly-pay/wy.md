@@ -22,5 +22,5 @@ keywords:
 - Law Enforcement minimum pay,
 - LEO hourly Pay,
 - per diem rates,
-- federal pay ,
+- federal pay
 ---

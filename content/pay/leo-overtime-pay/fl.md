@@ -1,11 +1,11 @@
 ---
 
 title: "Florida"
-seo_title: " Florida  Law Enforcement Officer Overtime Pay"
+seo_title: " Law Enforcement Officer Overtime Pay in Florida"
 subheader:
      greeting: LEO Overtime Pay in Florida
-     description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
-description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
+     description: Law Enforcement(LEO) payscale in Florida, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Florida , Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-overtime-pay/fl/
 weight: 3

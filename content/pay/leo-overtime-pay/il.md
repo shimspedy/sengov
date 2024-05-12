@@ -1,11 +1,11 @@
 ---
 
 title: "Illinois"
-seo_title: " Illinois  Law Enforcement Officer Overtime Pay"
+seo_title: " Law Enforcement Officer Overtime Pay in Illinois"
 subheader:
      greeting: LEO Overtime Pay in Illinois
-     description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
-description: This table shows the Overtime Pay amounts for all  Law Enforcement Officer  employees 
+     description: Law Enforcement(LEO) payscale in Illinois, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
+description: Law Enforcement(LEO) payscale in Illinois, Law Enforcement Officer hourly pay, Law Enforcement Overtime pay, updated for year 2024.
 image: 1.png
 url: /pay/leo-overtime-pay/il/
 weight: 3
