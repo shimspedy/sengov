@@ -36,9 +36,9 @@ function xml_to_json_tables(url, tableid, tablediv) {
         let overtme_annual = "overtime-" + tableid;
         let tabsx = `
     <div class="tabsx">
-    <label class="tabx active" id="${class_annual}">Annual</label>
+    <label class="tabx active" id="${overtme_annual}">Overtime</label>
     <label class="tabx" id="${hourly_annual}">Hourly</label>
-    <label class="tabx" id="${overtme_annual}">Overtime</label>
+    <label class="tabx" id="${class_annual}">Annual</label>
       </div>`;
         let th_count =
           items[0].getElementsByTagName("Steps")[0].childElementCount;
