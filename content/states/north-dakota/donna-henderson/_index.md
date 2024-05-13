@@ -41,7 +41,7 @@ Before her political career, Henderson worked as a dental hygienist. She has als
 
 Henderson's political journey began 28 years ago when she attended her first political meeting. Since then, she has been very involved in her local district, including serving on the Executive committee for the last 12 years. She has also served in many different positions within the Republican Party and has attended the last four national conventions to elect a presidential candidate.
 
-Henderson has been actively involved in legislative issues for the past 17 years. She has researched and testified for or against various pieces of legislation and has even helped with a bill from start to finish � drafting, getting sponsors, testifying, lobbying to get it passed in both houses, and getting the Governor�s signature.
+Henderson has been actively involved in legislative issues for the past 17 years. She has researched and testified for or against various pieces of legislation and has even helped with a bill from start to finish drafting, getting sponsors, testifying, lobbying to get it passed in both houses, and getting the Governors signature.
 
 ## Personal Life
 
