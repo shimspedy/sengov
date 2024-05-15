@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 952-693-3109
 website: https://www.ndlegis.gov/biography/emily-obrien/
 email : https://www.ndlegis.gov/biography/emily-obrien/
-twitter: 
+twitter:
 ---
 Emily O'Brien is a distinguished member of the North Dakota House of Representatives. She represents District 42, which is located in the northern portion of Grand Forks and includes the University of North Dakota.
 
@@ -36,4 +36,3 @@ Throughout her tenure, O'Brien has sponsored numerous bills. She has also served
 O'Brien resides in Grand Forks, ND. Her contact information is publicly available for constituents who wish to reach out to her.
 
 In summary, Emily O'Brien is a dedicated public servant with a strong commitment to her district and the state of North Dakota. Her entrepreneurial background and active participation in the legislative process make her a valuable member of the North Dakota House of Representatives.
-

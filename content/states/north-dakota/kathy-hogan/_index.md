@@ -35,7 +35,7 @@ Kathy Hogan began her political career in the North Dakota House of Representati
 
 In 2018, she decided to run for a seat in the North Dakota Senate to represent the same district. She won the election and has been serving as a State Senator since December 1, 2018. Her work in the Senate continues to reflect her dedication to public service and her commitment to the people of North Dakota.
 
-In addition to her legislative duties, Kathy Hogan has been involved in various boards and organizations. She has served on the Board of Fargo/Cass Public Health and has been recognized by the North Dakota Women�s Network as the Woman of the Year in 2018. She is also a Presentation Associate and a member of the North Dakota Human Rights Coalition.
+In addition to her legislative duties, Kathy Hogan has been involved in various boards and organizations. She has served on the Board of Fargo/Cass Public Health and has been recognized by the North Dakota Women's Network as the Woman of the Year in 2018. She is also a Presentation Associate and a member of the North Dakota Human Rights Coalition.
 
 As of 2023, Kathy Hogan is the Minority Leader of the North Dakota Senate. Her leadership continues to inspire others and make a difference in the lives of the people she serves.
 

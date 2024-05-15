@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-843-7074
 website: https://www.ndlegis.gov/biography/gary-kreidt/
 email : https://www.ndlegis.gov/biography/gary-kreidt/
-twitter: 
+twitter:
 ---
 Gary Kreidt, born around 1940, is an American politician and a member of the Republican Party. He has been serving in the North Dakota House of Representatives since 2002, representing District 36.
 
@@ -39,4 +39,3 @@ Kreidt's contact information is as follows:
 - Home Address: 3892 County Road 86, New Salem, ND 58563-9406
 - Home Phone: 701-843-7074
 - Email: gkreidt@ndlegis.gov
-

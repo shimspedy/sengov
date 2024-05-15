@@ -35,5 +35,4 @@ Boschee has made history as the first openly LGBTQ+ policy-maker elected to the 
 
 Despite the challenges, Boschee has remained committed to his role and continues to serve his constituents in District 44, Fargo. His work in the legislature includes sponsoring various bills and participating in interim standing industry, business, and labor procedural delayed bills.
 
-In addition to his legislative duties, Boschee also ran for the position of North Dakota’s 15th Secretary of State in 2018. Although he did not win the position, his campaign demonstrated his dedication to public service and his commitment to the people of North Dakota.
-
+In addition to his legislative duties, Boschee also ran for the position of North Dakota's 15th Secretary of State in 2018. Although he did not win the position, his campaign demonstrated his dedication to public service and his commitment to the people of North Dakota.

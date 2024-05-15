@@ -33,6 +33,6 @@ Before his tenure in the Senate, Elkin served as a Stark County Commissioner fro
 
 In the Senate, Elkin has been a strong advocate for the people of North Dakota. He has been particularly involved in promoting rare earth mineral exploration and production in southwest North Dakota, recognizing the potential of this industry for economic growth and job creation.
 
-Elkin is a member of several associations, including the North Dakota Grain Growers and the North Dakota Stockmen�s Association. He is also a member of the Taylor Lions, the Dickinson Elk Lodge, and St. Mary�s Church, reflecting his active involvement in the community.
+Elkin is a member of several associations, including the North Dakota Grain Growers and the North Dakota Stockmen's Association. He is also a member of the Taylor Lions, the Dickinson Elk Lodge, and St. Mary's Church, reflecting his active involvement in the community.
 
 Elkin is married to Anita and they reside in Taylor, North Dakota. He continues to serve his constituents with dedication and integrity, committed to making North Dakota a better place for all its residents.

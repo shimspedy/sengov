@@ -27,7 +27,7 @@ twitter:
 ---
 Greg Kessel is an American politician serving as a member of the North Dakota Senate from the 39th district. He is a member of the Republican Party.
 
-Born and raised in Belfield, North Dakota, Greg has lived in Billings County for over 40 years. After graduating college, Greg started his career in the oilfield, doing seismography, construction, and trucking. He is a true conservative and an advocate for agriculture and energy production. He doesn�t just talk about the issues- he lives them.
+Born and raised in Belfield, North Dakota, Greg has lived in Billings County for over 40 years. After graduating college, Greg started his career in the oilfield, doing seismography, construction, and trucking. He is a true conservative and an advocate for agriculture and energy production. He doesn't just talk about the issues- he lives them.
 
 He assumed office on December 1, 2022. He ran for election to the North Dakota State Senate to represent District 39 and won in the general election on November 8, 2022. His career experience includes working as a farmer.
 

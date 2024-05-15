@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-730-4474
 website: https://www.ndlegis.gov/biography/austen-schauer/
 email : https://www.ndlegis.gov/biography/austen-schauer/
-twitter: 
+twitter:
 ---
 Austen Schauer is an American politician and a member of the Republican Party. He represents District 13 in the North Dakota House of Representatives. He assumed office on December 1, 2018, and his current term ends on December 1, 2026.
 
@@ -34,4 +34,3 @@ He started his news broadcasting career in 1977 and ended it in 2013. After leav
 In addition to his professional career, Schauer is also involved in various social activities. He is involved in Youth Ministry, Prison Ministry, Salvation Army, Feed My Starving Children, and Fisher House. He is married to Angela Tracy, and they have three children and ten grandchildren.
 
 Schauer currently resides in West Fargo, North Dakota. As a representative, he has sponsored several bills and has served as the Majority Caucus Leader in the House of Representatives during the 68th Legislative Assembly - Regular Session in 2023.
-

@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-651-7486
 website: https://www.ndlegis.gov/biography/jeremy-olson/
 email : https://www.ndlegis.gov/biography/jeremy-olson/
-twitter: 
+twitter:
 ---
 Jeremy Olson is a native of Western North Dakota, specifically McKenzie County, where his family has farmed for several generations. This upbringing in an agricultural community instilled in him the values of hard work, personal integrity, and an awareness of our natural resources.
 
@@ -37,9 +37,8 @@ After returning to Western North Dakota in 2011, Olson immediately stepped into 
 
 As a safety professional in the energy industry, Olson is a leader amongst his peers in safety, leading initiatives, and sharing best practices in the industry. He is currently on the Board of Directors for the North Dakota Safety Council and serves on the boards of two North Dakota Veterans associations.
 
-Olson's motivation for the role of State Representative is to continue to serve District 26 as he has done in many roles throughout his life. He may have taken off his Army uniform, but he didn’t stop serving. He has been in the ND House of Representatives since his election in 2022.
+Olson's motivation for the role of State Representative is to continue to serve District 26 as he has done in many roles throughout his life. He may have taken off his Army uniform, but he didn't stop serving. He has been in the ND House of Representatives since his election in 2022.
 
-He has received endorsements from several organizations, including the North Dakota Family Alliance, North Dakota Farm Bureau, National Rifle Association, North Dakota Right to Life, North Dakota Republican Party, North Dakota District 26 Republicans, and North Central States Regional Council of Carpenters. He is rated “Conservative” by iVoterGuide.
+He has received endorsements from several organizations, including the North Dakota Family Alliance, North Dakota Farm Bureau, National Rifle Association, North Dakota Right to Life, North Dakota Republican Party, North Dakota District 26 Republicans, and North Central States Regional Council of Carpenters. He is rated 'Conservative' by iVoterGuide.
 
 In terms of his district, District 26, he aims to ensure that Western counties receive their fair share of the oil tax revenue that is produced there, that natural resources and land are protected for future generations, and that agriculture is preserved as the base of the local economy and protected.
-

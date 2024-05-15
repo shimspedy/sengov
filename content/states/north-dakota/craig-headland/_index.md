@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-489-3184
 website: https://www.ndlegis.gov/biography/craig-headland/
 email : https://www.ndlegis.gov/biography/craig-headland/
-twitter: 
+twitter:
 ---
 Craig Headland is an American politician, born on October 25, 1960. He is a member of the Republican party and has been serving as a representative in the North Dakota House of Representatives since 2002. He represents the 29th District.
 
@@ -34,4 +34,3 @@ In his political career, Headland has made significant contributions. He serves 
 Headland is married to Dawn and they have one child. They reside at 4950 92nd Avenue SE, Montpelier, ND 58472-9630.
 
 In the 2022 elections, Headland ran for re-election to the North Dakota House of Representatives to represent District 29. He won in the general election on November 8, 2022. His current term ends on December 1, 2026.
-

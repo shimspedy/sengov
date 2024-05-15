@@ -33,9 +33,8 @@ In addition to his political career, Jim Kasper Jones has had a successful profe
 
 Over the years, Jim Kasper Jones has held several key positions in the House. He has been the Chairman of the House, GVA Committee from 2013 to 2021, and the Chairman of the Special House Committee on Ethics in 2019. He has also been a part of various committees like the House Industry, Business and Labor Committee, and the House Energy and Natural Resources Committee.
 
-Jim Kasper Jones has been recognized for his work on multiple occasions. He was awarded the Distinguished Friend of ND Pharmacy Award in 2010. He has also been a keynote speaker at several conferences, including the ACLI in Boston in 2008, Mealey’s Conference at the NY City Harvard Club in 2007, and the Life Settlements Conference in Orlando in 2007.
+Jim Kasper Jones has been recognized for his work on multiple occasions. He was awarded the Distinguished Friend of ND Pharmacy Award in 2010. He has also been a keynote speaker at several conferences, including the ACLI in Boston in 2008, Mealey's Conference at the NY City Harvard Club in 2007, and the Life Settlements Conference in Orlando in 2007.
 
 Jim Kasper Jones is a member of the Republican Party. His current term in the North Dakota House of Representatives ends on December 1, 2024. He is running for re-election to continue representing District 46. The Republican primary is scheduled for June 11, 2024.
 
 On a personal note, Jim Kasper Jones is married to Sandy and they have two sons. They reside in Fargo, North Dakota, U.S. He is a member of the Bethel Evangelical Free Church.
-

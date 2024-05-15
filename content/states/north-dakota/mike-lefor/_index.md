@@ -33,11 +33,10 @@ In the North Dakota House of Representatives, Mike Lefor is widely regarded as a
 
 During his tenure in the legislative assembly, Mike Lefor has been named Chair of three different committees, including Employee Benefits; Retirement; and Industry, Business, and Labor. He has been appointed by leadership to serve on the first Ethics Committee; the Committee on Rules; and the Committee on Committees, which determines committee membership for all legislators.
 
-In the 2017 session, Mike Lefor was elected Majority Caucus Leader of the North Dakota House of Representatives, providing him insight into decision-making at the leadership level. He was also responsible for mentoring twenty-four freshman legislators at weekly meetings. He attended the Bowhay Institute for Legislative Leadership Development at the University of Wisconsin-Madison in 2015. Only three North Dakota legislators per session are invited to this training, and Mike Lefor now serves on the Institute’s selection committee.
+In the 2017 session, Mike Lefor was elected Majority Caucus Leader of the North Dakota House of Representatives, providing him insight into decision-making at the leadership level. He was also responsible for mentoring twenty-four freshman legislators at weekly meetings. He attended the Bowhay Institute for Legislative Leadership Development at the University of Wisconsin-Madison in 2015. Only three North Dakota legislators per session are invited to this training, and Mike Lefor now serves on the Institute's selection committee.
 
 For four sessions, Mike Lefor has served on the Energy and Natural Resources Committee, which provided him with insight and education into the many industries in our state. He gives a voice to western North Dakota on important economic and energy issues, and prioritizes diversifying the economy and workforce training.
 
 Mike Lefor believes strongly in limited government and fighting for our rights and freedom, including the right to life and Second Amendment rights. In the past two sessions, he has been awarded the Conservative Achievement Award by the American Conservative Union due to his voting record.
 
 Outside of his political career, Mike Lefor is the President of Blackridge Enterprises, LLC and a graduate of Dickinson State University (DSU). His proudest moment, however, was his marriage to the former Sherryl Riehl on September 25, 1987, and the births of their children: Brett, Scott, and Andi. In the past two years, the Lefor family has added two in-laws, Samantha and Mat, in whom he is very proud.
-

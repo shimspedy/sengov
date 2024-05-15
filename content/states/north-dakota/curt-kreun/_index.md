@@ -33,6 +33,6 @@ Before entering politics, Kreun was a successful small business owner. He owned 
 
 In addition to his legislative duties, Kreun has held several leadership roles in his community. He served as the Chair of the Grand Forks Housing Authority and was a member of the Grand Forks City Council from the city's fourth ward. He has also been involved with the Alerus Commission, Grand Forks Chamber of Commerce, East Grand Forks Technical College, Salvation Army, AM Rotary, Prairie Harvest Foundation, and the Lake Agassiz Water Authority.
 
-During the 2017 legislative session, Kreun served as the vice chair of the Senate Energy and Natural Resources Committee. In the 2021�2022 session, he served as chair of the committee. His work in the legislature has been marked by a commitment to improving the lives of North Dakotans and advancing the state's interests.
+During the 2017 legislative session, Kreun served as the vice chair of the Senate Energy and Natural Resources Committee. In the 2021-2022 session, he served as chair of the committee. His work in the legislature has been marked by a commitment to improving the lives of North Dakotans and advancing the state's interests.
 
 Kreun ran for re-election to the North Dakota State Senate to represent District 42 and won in the general election on November 3, 2020. His continued service in the Senate is a testament to his dedication to his constituents and his ability to effectively represent their interests.

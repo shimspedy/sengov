@@ -29,7 +29,7 @@ Dick Dever, born on February 11, 1952, in Sterling, Colorado, is an American pol
 
 Before his political career, Dever attended the University of North Dakota. His professional experience includes working as a manufacturer representative for DEVCO. He also served in the United States Army, which adds to his diverse background.
 
-In addition to his political duties, Dever is involved in various boards and organizations. He is a retired member of the US Army Board, a member of the Burleigh County Human Services Zone Board, and the PERS Board. He also holds the position of Chair in the Legislative Veteran�s Caucus. He is a BILLD Fellow, a Life Member and Judge Advocate of VFW Post 1326, and a Life Member and Commander of AmVets Post 9.
+In addition to his political duties, Dever is involved in various boards and organizations. He is a retired member of the US Army Board, a member of the Burleigh County Human Services Zone Board, and the PERS Board. He also holds the position of Chair in the Legislative Veteran's Caucus. He is a BILLD Fellow, a Life Member and Judge Advocate of VFW Post 1326, and a Life Member and Commander of AmVets Post 9.
 
 Dever is also active in his local community. He is a part of the Bis-Man Chamber and has been recognized as a GNDC Chamber Champion. In 2019, he was named a Behavioral Health Champion. He is an Elder at the Shepherd of the Valley Lutheran Church.
 

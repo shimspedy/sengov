@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-748-2399
 website: https://www.ndlegis.gov/biography/anna-s-novak/
 email : https://www.ndlegis.gov/biography/anna-s-novak/
-twitter: 
+twitter:
 ---
 Anna S. Novak is an American politician serving as a member of the North Dakota House of Representatives from the 33rd district. She assumed office on December 1, 2022, and her current term ends on December 1, 2026.
 
@@ -41,4 +41,3 @@ Work: 701-873-4117
 Cell: 701-870-0288
 Email: anovak@ndlegis.gov
 Address: 1139 Elbowoods Drive, Hazen, ND 58545-4923
-

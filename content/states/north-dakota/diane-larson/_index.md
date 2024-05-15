@@ -31,9 +31,9 @@ Born and raised in Bismarck, North Dakota, Larson has dedicated her career to pu
 
 Larson's educational background includes an Associate of Arts (A.A.) degree from Bismarck State College and a Bachelor of Science (B.S.) in Education from the University of North Dakota. Before entering politics, she worked as a youth worker for the Bismarck Police Department, demonstrating her early commitment to public service and community development.
 
-In the North Dakota Legislative Assembly, Larson has held several key positions. She has served as the Co-Chair of the Law, Criminal Justice and Public Safety Committee for the National Conference of State Legislatures. She has also been a part of the Interstate Commission on Juveniles, the Governor�s Juvenile Justice Advisory Group, and the North Dakota Commission on Juvenile Justice.
+In the North Dakota Legislative Assembly, Larson has held several key positions. She has served as the Co-Chair of the Law, Criminal Justice and Public Safety Committee for the National Conference of State Legislatures. She has also been a part of the Interstate Commission on Juveniles, the Governor's Juvenile Justice Advisory Group, and the North Dakota Commission on Juvenile Justice.
 
-Furthermore, Larson has been a board member of the Dakota Boys and Girls Ranch and the Children�s Advocacy Center, and has served on the Children�s Cabinet. Her work in these capacities underscores her dedication to the welfare of children and young people in North Dakota.
+Furthermore, Larson has been a board member of the Dakota Boys and Girls Ranch and the Children's Advocacy Center, and has served on the Children's Cabinet. Her work in these capacities underscores her dedication to the welfare of children and young people in North Dakota.
 
 Larson's political journey began in the North Dakota House of Representatives, where she served from 1989 to 1990, and again from 2013 to 2016. In 2017, she was elected to the North Dakota Senate, representing the 30th district. Her work in the Senate has been marked by her continued commitment to public safety and law enforcement.
 

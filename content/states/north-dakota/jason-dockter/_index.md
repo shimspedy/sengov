@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-258-9848
 website: https://www.ndlegis.gov/biography/jason-dockter/
 email : https://www.ndlegis.gov/biography/jason-dockter/
-twitter: 
+twitter:
 ---
 Jason Dockter is an American politician who has been serving in the North Dakota House of Representatives from the 7th district since 2012. He was born on August 31, 1973, in Bismarck, North Dakota, U.S. He is a member of the Republican Party.
 
@@ -41,4 +41,3 @@ Over the years, Dockter has been assigned to various committees. In the 2023-202
 
 Personal Life:
 Dockter is married to Brenda and they have five children. He is a member of the Lions Club and Faith Lutheran Church.
-

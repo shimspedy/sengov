@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-491-0665
 website: https://www.ndlegis.gov/biography/ben-koppelman/
 email : https://www.ndlegis.gov/biography/ben-koppelman/
-twitter: 
+twitter:
 ---
 # Ben Koppelman
 
@@ -31,7 +31,7 @@ Ben Koppelman, born on January 2, 1980, is an American politician affiliated wit
 
 
 ## Early Life and Education
-Ben Koppelman was born on January 2, 1980. He attended North Dakota State University. 
+Ben Koppelman was born on January 2, 1980. He attended North Dakota State University.
 
 ## Career
 Before entering politics, Koppelman worked in business and contracting, and later became the president of Vision Construction LLC. In 2008, he became a member of the West Fargo School Board and served as the President of the board from 2011 to 2012.
@@ -46,4 +46,3 @@ Koppelman is married to his wife, Julie, a West Fargo teacher. They have two chi
 
 ## District Representation
 Koppelman represents the 16th district in the North Dakota House of Representatives. The district is located in West Fargo.
-

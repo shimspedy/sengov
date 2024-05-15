@@ -20,10 +20,10 @@ role: Representative
 inoffice: current
 elected: 2020
 mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
-phone1: 
+phone1:
 website: https://www.ndlegis.gov/biography/mitch-ostlie/
 email : https://www.ndlegis.gov/biography/mitch-ostlie/
-twitter: 
+twitter:
 ---
 Mitch Ostlie is an American politician and insurance salesman who is currently serving as a member of the North Dakota House of Representatives. He represents the 12th district of North Dakota.
 
@@ -36,4 +36,3 @@ Ostlie was appointed to the North Dakota House of Representatives on February 18
 In the House of Representatives, Ostlie has been a part of several committees. He has served on the Interim Agriculture and Natural Resources Committee, Education Committee, Retirement Committee, and the Standing Political Subdivisions. He has sponsored several bills during his tenure.
 
 Ostlie's office is located at 201 First Avenue North, Suite A, Jamestown, ND 58401-3165. He can be reached via email at mostlie@ndlegis.gov.
-

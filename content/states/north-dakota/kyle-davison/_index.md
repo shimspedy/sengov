@@ -31,7 +31,7 @@ Education:
 Davison earned a Bachelor of Science degree in Business Administration from Valley City State University.
 
 Career:
-Since July 2005, Davison has worked as the executive director of the South East Education Cooperative in Fargo, North Dakota. He was elected to the North Dakota Senate on December 1, 2014. In the 2017 legislative session, Davison served as vice chair of the Senate Government and Veterans Affairs Committee. In the 2019�2020 session, he served as chair of the same committee. In the 2021�2022 legislative session, Davison is a member of the Senate Appropriations Committee.
+Since July 2005, Davison has worked as the executive director of the South East Education Cooperative in Fargo, North Dakota. He was elected to the North Dakota Senate on December 1, 2014. In the 2017 legislative session, Davison served as vice chair of the Senate Government and Veterans Affairs Committee. In the 2019-2020 session, he served as chair of the same committee. In the 2021-2022 legislative session, Davison is a member of the Senate Appropriations Committee.
 
 Personal Life:
 Davison is married to Laura and they have three children together. They reside at 4918 Meadow Creek Drive South Fargo, ND 58104-7116.

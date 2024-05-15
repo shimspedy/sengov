@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-797-2448
 website: https://www.ndlegis.gov/biography/don-vigesaa/
 email : https://www.ndlegis.gov/biography/don-vigesaa/
-twitter: 
+twitter:
 ---
 Don Vigesaa is a dedicated and experienced member of the North Dakota House of Representatives. He has been serving the people of North Dakota since 2003, demonstrating a strong commitment to his constituents and the issues that matter most to them.
 
@@ -38,4 +38,3 @@ Throughout his tenure in the House of Representatives, Vigesaa has been a part o
 Vigesaa is also an active member of his community. He is an elder at Zion Lutheran Church and is involved with the Farm Bureau. He is married to Cheryl and they have three children and eight grandchildren.
 
 Vigesaa's commitment to his constituents and his extensive experience in both the public and private sectors make him a valuable member of the North Dakota House of Representatives. His work continues to have a positive impact on District 29 and the state of North Dakota as a whole.
-

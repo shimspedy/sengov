@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-748-2812
 website: https://www.ndlegis.gov/biography/bill-tveit/
 email : https://www.ndlegis.gov/biography/bill-tveit/
-twitter: 
+twitter:
 ---
 Bill Tveit is an American politician and a member of the Republican Party. He has been serving in the North Dakota House of Representatives, representing District 33, since December 1, 2018.
 
@@ -38,4 +38,3 @@ In terms of education, Tveit attended the North Dakota State College of Science.
 As a legislator, Tveit has been active in various committees. In the 68th Legislative Assembly - Regular Session (2023), he was a member of the House Industry, Business and Labor Committee and the House Agriculture Committee.
 
 Tveit ran for re-election to the North Dakota House of Representatives to represent District 33 and won in the general election on November 8, 2022. His current term ends on December 1, 2026.
-

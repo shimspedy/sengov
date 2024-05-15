@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-792-0458
 website: https://www.ndlegis.gov/biography/eric-james-murphy/
 email : https://www.ndlegis.gov/biography/eric-james-murphy/
-twitter: 
+twitter:
 ---
 Eric James Murphy is an American politician and a member of the Republican Party. He is currently serving as a representative in the North Dakota House of Representatives, representing District 43. He assumed office on December 1, 2022, and his current term ends on December 1, 2026.
 
@@ -36,4 +36,3 @@ In the 68th Legislative Assembly (2023), Murphy has been actively involved in va
 Murphy ran for election to the North Dakota House of Representatives to represent District 43 and won in the general election on November 8, 2022. He is serving alongside Zachary Ista.
 
 Murphy resides in Grand Forks, North Dakota. He is married to Cindy and they have three children.
-

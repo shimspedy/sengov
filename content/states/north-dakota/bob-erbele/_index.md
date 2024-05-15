@@ -33,7 +33,7 @@ Erbele's educational background is diverse and comprehensive. He has undertaken 
 
 In addition to his political career, Erbele is also a rancher, a profession that ties him closely to the land and the people of North Dakota. His deep understanding of the agricultural sector and rural issues has undoubtedly informed his political work and advocacy.
 
-Erbele's affiliations and contributions extend beyond politics. He is a member of the North Dakota Stockmen�s Association and has served as the President of the Prairie Bible Camp in Lehr. He has also been a part of the WICHE Veterinarian Advisory Council and the UND Medical Advisory Board, further showcasing his dedication to diverse causes.
+Erbele's affiliations and contributions extend beyond politics. He is a member of the North Dakota Stockmen's Association and has served as the President of the Prairie Bible Camp in Lehr. He has also been a part of the WICHE Veterinarian Advisory Council and the UND Medical Advisory Board, further showcasing his dedication to diverse causes.
 
 In his spiritual life, Erbele is a Lay Leader at the United Methodist Church. His faith plays a significant role in his life, guiding his actions and decisions.
 

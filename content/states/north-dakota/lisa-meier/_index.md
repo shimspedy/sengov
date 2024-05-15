@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-255-4166
 website: https://www.ndlegis.gov/biography/lisa-meier/
 email : https://www.ndlegis.gov/biography/lisa-meier/
-twitter: 
+twitter:
 ---
 Lisa Meier is an American politician and a member of the Republican Party. She has been serving in the North Dakota House of Representatives since 2001, representing District 32.
 
@@ -31,13 +31,12 @@ Born in Mandan, North Dakota, Meier pursued her education at Bismarck State Coll
 
 In addition to her professional career, Meier has held several positions of responsibility. She has served on the board of KNDR Radio and Pride Industries. She was also a District Commissioner for the Boy Scouts.
 
-Meier has represented the United States on several international platforms. She was a delegate for the American Council of Young Political Leaders in South Korea in 2001 and participated in an Asian summit in Tokyo, Japan in 2006. In 2007, she was a participant in the Government of Canada’s Rising State Leader Program.
+Meier has represented the United States on several international platforms. She was a delegate for the American Council of Young Political Leaders in South Korea in 2001 and participated in an Asian summit in Tokyo, Japan in 2006. In 2007, she was a participant in the Government of Canada's Rising State Leader Program.
 
-She is also a member of the North Dakota State Commission of National and State Community Service. 
+She is also a member of the North Dakota State Commission of National and State Community Service.
 
 Meier is married to Dennis and they have one son, three stepsons, and seven grandchildren. They reside in Bismarck, North Dakota.
 
 Throughout her political career, Meier has been a part of several committees. As of June 2020, she sits on the Budget Section Interim Committee, Health Care Interim Committee, Human Services Interim Committee, and the Appropriations Standing Committee - Human Resources Division.
 
 Her dedication and service to her community and state are evident in her long-standing career in the North Dakota House of Representatives.
-

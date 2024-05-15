@@ -20,10 +20,10 @@ role: Representative
 inoffice: current
 elected: 2016
 mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
-phone1: 
+phone1:
 website: https://www.ndlegis.gov/biography/andrew-marschall/
 email : https://www.ndlegis.gov/biography/andrew-marschall/
-twitter: 
+twitter:
 ---
 Andrew Marschall is a dedicated public servant and a member of the North Dakota House of Representatives. He represents District 16, a position he has held since December 1, 2016.
 
@@ -34,4 +34,3 @@ In addition to his business and political pursuits, Marschall has a commendable 
 Marschall's work in the North Dakota House of Representatives has been marked by his active participation in various committees. During the 68th Legislative Assembly - Regular Session in 2023, he was a member of the Interim Administrative Rules Committee, the Education Committee, and the Energy and Natural Resources Committee.
 
 Marschall's dedication to his district and the state of North Dakota is evident in his legislative work and his commitment to his constituents. His current term ends on December 1, 2024, and he is running for re-election to continue representing District 16 in the North Dakota House of Representatives.
-

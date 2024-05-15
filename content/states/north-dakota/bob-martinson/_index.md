@@ -23,7 +23,7 @@ mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
 phone1: 701-223-0835
 website: https://www.ndlegis.gov/biography/bob-martinson/
 email : https://www.ndlegis.gov/biography/bob-martinson/
-twitter: 
+twitter:
 ---
 Bob Martinson is an American politician and a member of the Republican Party. He represents District 35 in the North Dakota House of Representatives. He has been serving in this position since 2000.
 
@@ -36,4 +36,3 @@ Martinson's contributions extend beyond politics and professional pursuits. He h
 He is married to Jodi and they reside at 2749 Pacific Avenue, Bismarck, ND 58501-2513.
 
 In the most recent election held on November 8, 2022, Martinson ran for re-election to the North Dakota House of Representatives to represent District 35 and won. His current term ends on December 1, 2026.
-
