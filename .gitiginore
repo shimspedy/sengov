@@ -8,7 +8,7 @@ public
 # Ignore cache
 /.sass-cache
 /.cache
-#.idx
+.idx
 node_modules
 resources
 # Ignore .DS_store file
