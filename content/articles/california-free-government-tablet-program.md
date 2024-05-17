@@ -10,7 +10,7 @@ draft: false
 
 ### California’s Free Government Tablet Program
 
-In today's world, having access to technology is crucial for educational success. Understanding this, California has launched a groundbreaking program offering free government tablets to eligible residents. This article explores the details of this initiative, explaining how you can take advantage of this valuable resource.
+California has introduced a groundbreaking program offering free government tablets to eligible residents. This article will provide detailed information about this initiative, guiding you on how to take advantage of this valuable resource.
 
 ### What is the Free Government Tablet Program?
 
@@ -19,6 +19,38 @@ California's Free Government Tablet Program aims to close the digital gap by pro
 ### Eligibility Criteria
 
 To get a free government tablet, you must meet certain eligibility criteria. These are usually based on your income, educational status, or participation in government assistance programs.
+
+##### Proof of Income
+
+To show your household income is at or less than the amount listed for your state and household size:
+
+##### Household Size Income Limits:
+
+| Household Size | 48 States, DC, & Territories | Alaska  | Hawaii  |
+|----------------|------------------------------|---------|---------|
+| 1 person       | $29,160                      | $36,420 | $33,540 |
+| 2 people       | $39,440                      | $49,280 | $45,360 |
+| 3 people       | $49,720                      | $62,140 | $57,180 |
+| 4 people       | $60,000                      | $75,000 | $69,000 |
+| For each additional person, add | $10,280 | $12,860 | $11,820 |
+
+*200% of the 2023 Federal Poverty Guidelines. The federal poverty guidelines are typically updated at the end of January.*
+
+### Provide a Document That Includes:
+
+1. Your name, or your dependent’s name.
+2. Your annual income.
+3. An issue date within the last 12 months.
+
+### Here Are Common Examples:
+
+- Your prior year’s state, federal, or Tribal tax return.
+- Current annual income statement from your job.
+- A Social Security statement of benefits.
+- An unemployment or worker’s compensation statement of benefits.
+- A Federal or Tribal notice letter of participation in General Assistance.
+- A Divorce Decree or child support award.
+- An official document with a date in the last 12 months that shows your annual income. Or official documents showing your income for three months in a row. This could be pay stubs that have dates within the last 12 months.
 
 ### How to Get Your Free Tablet
 
