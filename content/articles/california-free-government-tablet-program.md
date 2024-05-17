@@ -84,27 +84,27 @@ By providing free tablets, the program equips learners with the resources they n
 
 ### Frequently Asked Questions (FAQs)
 
-**How can I check if I'm eligible for a free government tablet?**
+{{< faq title="How can I support the Free Government Tablet Program?" >}}
+ You can support the initiative by spreading awareness, volunteering at distribution events, or advocating for more funding and resources.
+{{< / faq >}}
 
-Eligibility criteria vary, but they generally depend on factors like income level and participation in government assistance programs. Visit the official program website or contact local authorities for specific guidelines.
 
-**What educational resources are available on the free tablets?**
+{{< faq title="Can I donate my old tablet to the program?" >}}
+ Some programs accept donations of gently used tablets, which are refurbished and redistributed to those in need. Contact the program administrators for donation guidelines.
+{{< / faq >}}
 
-Free tablets come with educational apps, digital textbooks, and access to online learning platforms, offering a wide range of educational resources.
+{{< faq title="Are there any ongoing costs associated with the free tablet?" >}}
+ In most cases, the tablets are free. However, you might need to pay for internet connectivity or app purchases.
+{{< / faq >}}
 
-**Can I apply for multiple free tablets for my family members?**
+{{< faq title="Can I apply for multiple free tablets for my family members?" >}}
+ The program typically allows one tablet per eligible individual to ensure fair distribution among all qualified applicants.
+{{< / faq >}}
 
-The program typically allows one tablet per eligible individual to ensure fair distribution among all qualified applicants.
+{{< faq title="What educational resources are available on the free tablets?" >}}
+ Free tablets come with educational apps, digital textbooks, and access to online learning platforms, offering a wide range of educational resources.
+{{< / faq >}}
 
-**Are there any ongoing costs associated with the free tablet?**
-
-In most cases, the tablets are free. However, you might need to pay for internet connectivity or app purchases.
-
-**Can I donate my old tablet to the program?**
-
-Some programs accept donations of gently used tablets, which are refurbished and redistributed to those in need. Contact the program administrators for donation guidelines.
-
-**How can I support the Free Government Tablet Program?**
-
-You can support the initiative by spreading awareness, volunteering at distribution events, or advocating for more funding and resources.
-
+{{< faq title="How can I check if I'm eligible for a free government tablet?" >}}
+ Eligibility criteria vary, but they generally depend on factors like income level and participation in government assistance programs. Visit the official program website or contact local authorities for specific guidelines.
+{{< / faq >}}
