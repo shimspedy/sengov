@@ -4,7 +4,7 @@ title: California's Free Government Tablet
 seo_title: California's Free Government Tablet 
 description: California's free government tablet program has been a transformative initiative for low-income individuals, providing essential access to technology and connectivity.
 date: 2024-04-28T05:45:23.641Z
-image: /1705331155027.jpeg
+image: tablets.webp
 draft: false
 ---
 

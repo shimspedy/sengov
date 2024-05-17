@@ -7,7 +7,7 @@ description: Tablets are more than just gadgets; they are a lifeline for many.
   enhance their quality of life by providing access to educational materials,
   job applications, and telehealth services.
 date: 2024-04-18T05:45:23.641Z
-image: /1705331155027.jpeg
+image: tablet.webp
 draft: false
 ---
 
