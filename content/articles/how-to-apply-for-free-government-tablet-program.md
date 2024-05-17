@@ -18,7 +18,7 @@ To apply for a free or reduced-price tablet from the government, you can apply f
 - Submit an application to a participating internet or phone company according to their requirements.
 - Pick up your tablet from a certain location or have it delivered to your home, then follow the device or company instructions to set up your tablet.
 
----
+
 
 ### Free Tablet Application Process
 
@@ -65,7 +65,7 @@ Once you’ve been approved for ACP, submit an application to a participating pr
 
 If your application is accepted, the company will send you instructions on how to pick up your tablet—you might have to pick it up from a certain location or have it delivered to your home. Depending on the company, your tablet might come with apps for internet access, email management, financial management, or educational apps if the program is for students. The amount of time you have to wait to receive your tablet depends on the program. Ask your company when you might receive your tablet. Some programs offer device setup support on-location, over the phone, or online. Follow any instructions or guidance provided by the company to properly set up your tablet.
 
----
+
 
 ### Who’s Eligible for a Free Tablet from the Government?
 
@@ -84,7 +84,7 @@ Households enrolled in government assistance programs are eligible. A household 
 - Food Distribution Program on Indian Reservations
 - Tribal Head Start (income based)
 
----
+
 
 ### Government Programs for Free Tablets
 
@@ -106,7 +106,7 @@ Look for internet or phone companies that offer ACP services. Check the FCC’s 
 
 Government programs like Computers for Learning offer free computers to schools or educational nonprofit organizations. Check with your state or local government website to see if they have additional programs available.
 
----
+
 
 ### Private Programs for Free Computers
 
