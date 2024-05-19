@@ -431,7 +431,7 @@
       let leo_url = "";
       let default_url;
     
-      if ("{{ .Params.data }}" === "gs") {
+      if (["gs", "gs-hr", "gs-overtime"].includes("{{ .Params.data }}")) {
         file_type = "GS";
         default_url = "GS";
       } else if (["leo", "leo-hr", "leo-overtime"].includes("{{ .Params.data }}")) {
