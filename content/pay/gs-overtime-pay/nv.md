@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/nv/
 weight: 3
 layout: pay
 xml: NV
-data: gs
+data: gs-overtime
 ---

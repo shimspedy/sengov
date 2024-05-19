@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/pa/
 weight: 3
 layout: pay
 xml: PA
-data: gs
+data: gs-hr
 ---

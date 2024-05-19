@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/nh/
 weight: 3
 layout: pay
 xml: NH
-data: gs
+data: gs-hr
 ---

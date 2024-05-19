@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/ok/
 weight: 3
 layout: pay
 xml: OK
-data: gs
+data: gs-hr
 ---

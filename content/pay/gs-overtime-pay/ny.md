@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/ny/
 weight: 3
 layout: pay
 xml: NY
-data: gs
+data: gs-overtime
 ---

@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/sd/
 weight: 3
 layout: pay
 xml: SD
-data: gs
+data: gs-overtime
 ---

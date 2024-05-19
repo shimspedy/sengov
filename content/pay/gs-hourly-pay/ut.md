@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/ut/
 weight: 3
 layout: pay
 xml: UT
-data: gs
+data: gs-hr
 ---

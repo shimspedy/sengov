@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/wy/
 weight: 3
 layout: pay
 xml: WY
-data: gs
+data: gs-overtime
 ---

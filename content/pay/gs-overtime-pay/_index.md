@@ -13,7 +13,7 @@ imagedir: root
 url: /pay/gs-overtime-pay/
 weight: 1
 layout: gs
-data: gs
+data: gs-overtime
 data2: index
 xml: 
 

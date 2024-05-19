@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/nj/
 weight: 3
 layout: pay
 xml: NJ
-data: gs
+data: gs-hr
 ---

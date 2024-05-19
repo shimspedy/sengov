@@ -10,6 +10,6 @@ image: 1.png
 url: /pay/gs-overtime-pay/al/
 weight: 3
 layout: pay
-data: gs
+data: gs-overtime
 xml: AL
 ---

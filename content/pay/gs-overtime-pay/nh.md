@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/nh/
 weight: 3
 layout: pay
 xml: NH
-data: gs
+data: gs-overtime
 ---

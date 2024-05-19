@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/az/
 weight: 3
 layout: pay
 xml: AZ
-data: gs
+data: gs-hr
 ---

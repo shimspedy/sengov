@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/ri/
 weight: 3
 layout: pay
 xml: RI
-data: gs
+data: gs-hr
 ---

@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/tn/
 weight: 3
 layout: pay
 xml: TN
-data: gs
+data: gs-hr
 ---

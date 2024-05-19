@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/ak/
 weight: 2
 layout: pay
 xml: AK
-data: gs
+data: gs-overtime
 ---

@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/ks/
 weight: 3
 layout: pay
 xml: KS
-data: gs
+data: gs-hr
 ---

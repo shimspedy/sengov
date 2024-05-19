@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/in/
 weight: 3
 layout: pay
 xml: IN
-data: gs
+data: gs-hr
 ---

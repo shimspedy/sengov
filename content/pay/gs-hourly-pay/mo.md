@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/mo/
 weight: 3
 layout: pay
 xml: MO
-data: gs
+data: gs-hr
 ---

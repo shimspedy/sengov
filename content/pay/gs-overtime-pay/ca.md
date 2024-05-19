@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/ca/
 weight: 3
 layout: pay
 xml: CA
-data: gs
+data: gs-overtime
 ---

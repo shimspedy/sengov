@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/fl/
 weight: 3
 layout: pay
 xml: FL
-data: gs
+data: gs-hr
 ---

@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/wv/
 weight: 3
 layout: pay
 xml: WV
-data: gs
+data: gs-hr
 ---

@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/ky/
 weight: 3
 layout: pay
 xml: KY
-data: gs
+data: gs-overtime
 ---

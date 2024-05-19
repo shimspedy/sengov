@@ -11,5 +11,5 @@ url: /pay/gs-hourly-pay/ct/
 weight: 3
 layout: pay
 xml: CT
-data: gs
+data: gs-hr
 ---

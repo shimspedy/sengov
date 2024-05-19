@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/ri/
 weight: 3
 layout: pay
 xml: RI
-data: gs
+data: gs-overtime
 ---

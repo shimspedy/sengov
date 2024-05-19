@@ -11,5 +11,5 @@ url: /pay/gs-overtime-pay/nj/
 weight: 3
 layout: pay
 xml: NJ
-data: gs
+data: gs-overtime
 ---
