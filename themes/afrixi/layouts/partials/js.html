@@ -18,6 +18,8 @@
 {{ $leohr := resources.Get "js/leo-hr.js" | minify }}
 {{ $leoovertime := resources.Get "js/leo-overtime.js" | minify }}
 {{ $gsjs := resources.Get "js/gs.js" | minify }}
+{{ $gshrjs := resources.Get "js/gs-hr.js" | minify }}
+{{ $gsovertimejs := resources.Get "js/gs-overtime.js" | minify }}
 {{ $tablejs := resources.Get "js/table.js" | minify }}
 {{ $indextablejs := resources.Get "js/indextable.js" | minify }}
 
@@ -44,6 +46,14 @@
 {{ if eq .Params.data "gs" }}
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="{{ $gsjs.RelPermalink }}"></script>
+{{ end }}
+{{ if eq .Params.data "gs-hr" }}
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="{{ $gshrjs.RelPermalink }}"></script>
+{{ end }}
+{{ if eq .Params.data "gs-overtime" }}
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="{{ $gsovertimejs.RelPermalink }}"></script>
 {{ end }}
 
 {{ if eq .Params.data2 "index" }}
