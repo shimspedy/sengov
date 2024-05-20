@@ -61,7 +61,7 @@ article .e-content ul li,
 article .e-content ol li { 
     list-style: none;
     padding-left: 40px; /* Adjust this to align text properly */
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
  
