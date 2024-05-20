@@ -49,18 +49,19 @@ ul:not(.browser-default) {
 article .e-content  ul li::before,
 article .e-content ol li::before {
     content: "\21E2"; /* Arrow symbol */
-    font-size: 34px;
+    font-size: 30px;
     color: #4f5885;
     vertical-align: top;
     float: left;
-    margin-left: -50px;
+    margin-left: -40px;
 }
 
 /* Remove default list styling and adjust padding */
 article .e-content ul li,
 article .e-content ol li { 
     list-style: none;
-    padding-left: 50px; /* Adjust this to align text properly */
+    padding-left: 40px; /* Adjust this to align text properly */
+    padding-bottom: 10px;
 }
 
  
