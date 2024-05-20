@@ -44,21 +44,29 @@ ol ul {
 ul:not(.browser-default) {
      padding-left: 20px;
  }
- article ul li ul li::before,
- .post-content ul li ul li::before {
-     content: "\21E2";
-     font-size: 34px;
-     color: #ffbd3d;
-     vertical-align: top;
-     float: left;
-     margin-left: -50px;
- }
- 
- article ul li ul,
- .post-content ul li ul {
-     list-style: none;
-     padding-left: 50px; /* adjust this to align text properly */
- }
+
+ /* Common styling for nested lists */
+article ul li ul li::before,
+article ol li ol li::before,
+.post-content ul li ul li::before,
+.post-content ol li ol li::before {
+    content: "\21E2"; /* Arrow symbol */
+    font-size: 34px;
+    color: #ffbd3d;
+    vertical-align: top;
+    float: left;
+    margin-left: -50px;
+}
+
+/* Remove default list styling and adjust padding */
+article ul li ul,
+article ol li ol,
+.post-content ul li ul,
+.post-content ol li ol {
+    list-style: none;
+    padding-left: 50px; /* Adjust this to align text properly */
+}
+
  
 
 article ul:not(.browser-default) li {
