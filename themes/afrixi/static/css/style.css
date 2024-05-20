@@ -329,7 +329,7 @@ article h5::after,
 .post-content h3::after,
 .post-content h4::after,
 .post-content h5::after {
-     top: 25px; 
+     top: 40px; 
 }
 
 article h1::after,
