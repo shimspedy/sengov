@@ -4,7 +4,7 @@ title: How to Get a Free iPad With EBT Card?
 seo_title: How to Get a Free iPad With EBT Card?
 description: If you have an EBT card and need a tablet, you might be eligible for a free or discounted device through government programs. This guide will show you the requirements and steps to get an iPad for free or at a low cost.
 date: 2024-05-20T05:45:23.641Z
-image: tablets.webp
+image: tablet.webp
 draft: false
 ---
 ### How to Get a Free or Discounted Tablet with an EBT Card
