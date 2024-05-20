@@ -47,9 +47,9 @@ ul:not(.browser-default) {
 
  /* Common styling for nested lists */
 article ul li ul li::before,
-article ol li ol li::before,
+article ol li ul li::before,
 .post-content ul li ul li::before,
-.post-content ol li ol li::before {
+.post-content ol li ul li::before {
     content: "\21E2"; /* Arrow symbol */
     font-size: 34px;
     color: #ffbd3d;
@@ -60,9 +60,9 @@ article ol li ol li::before,
 
 /* Remove default list styling and adjust padding */
 article ul li ul,
-article ol li ol,
+article ol li ul,
 .post-content ul li ul,
-.post-content ol li ol {
+.post-content ol li ul {
     list-style: none;
     padding-left: 50px; /* Adjust this to align text properly */
 }
