@@ -4,7 +4,7 @@ title: "Beryl Piccolantonio"
 seo_title: "contact Representative Beryl Piccolantonio"
 subheader:
      greeting: Contact Representative Beryl Piccolantonio
-     description: Representative Beryl Brown Piccolantonio is serving her first term in the Ohio House of Representatives, for Ohio's 4th House District. She assumed office on January 10, 2024. She serves on the following committees: Primary & Secondary Education, Higher Education, Commerce and Labor, Technology and Innovation, and as ranking minority member of the Pensions committee.
+     description: Representative Beryl Brown Piccolantonio is serving her first term in the Ohio House of Representatives, for Ohio's 4th House District. She assumed office on January 10, 2024. She serves on the following committees Primary & Secondary Education, Higher Education, Commerce and Labor, Technology and Innovation, and as ranking minority member of the Pensions committee.
 description: Contact Representative Beryl Piccolantonio of Ohio. Contact information for Beryl Piccolantonio includes email address, phone number, and mailing address.
 image: beryl-piccolantonio.jpeg
 video:
