@@ -21,13 +21,13 @@ inoffice: current
 elected: 2019
 mailing1: 77 S High St Room 10th Floor Columbus, OH 43215
 phone1: 614-466-1408
-website: https://www.ohiohouse.gov/members/juanita-o-brent/
+website: http://www.twitter.com/juanita_brent/
 email : https://www.ohiohouse.gov/members/juanita-o-brent/
-twitter: juanita_brent
+twitter:
 ---
 Representative Brent is in her third term as a legislator and is honored to continue representing and fighting for the people of District 22.
 
-In the 133rd General Assembly, Representative Brent authored House Bill 285, Establish Driver�s License Reinstatement Fee Debt Reduction Program. This bill became law in 2020, and now helps thousands of Ohioans have a pathway to removing suspended driver�s licenses.
+In the 133rd General Assembly, Representative Brent authored House Bill 285, Establish Driver's License Reinstatement Fee Debt Reduction Program. This bill became law in 2020, and now helps thousands of Ohioans have a pathway to removing suspended driver's licenses.
 
 Currently, she serves as Ranking Member of the Agriculture Committee, while also sitting on Energy and Natural Resources, Commerce and Labor, Homeland Security, and Transportation Committees. In addition, she is the First Vice-President of the Ohio Legislative Black Caucus, which is the oldest Black Caucus in the nation.
 

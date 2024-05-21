@@ -4,7 +4,7 @@ title: "Beth Liston"
 seo_title: "contact Representative Beth Liston"
 subheader:
      greeting: Contact Representative Beth Liston
-     description: Dr. Beth Liston is serving in her third term as a member of the Ohio House, representing Worthington, and part of Northern Columbus. She began her career in medicine, earning her MD and PhD at the Ohio State University and subsequently training in Internal Medicine and Pediatrics at Yale New Haven Hospital. Upon completing her residencies, Dr. Liston joined the faculty at Ohio State in 2006. Since that time, she has worked clinically as a hospitalist at OSU's Wexner Medical Center and at Nationwide Children's Hospital, caring for adults and children in the inpatient setting. She is a Professor of Clinical Internal Medicine and Pediatrics with significant involvement in medical student education and a passion for advocacy.
+     description: Dr. Beth Liston is serving in her third term as a member of the Ohio House, representing Worthington, and part of Northern Columbus. She began her career in medicine, earning her MD and PhD at the Ohio State University and subsequently training in Internal Medicine and Pediatrics at Yale New Haven Hospital.
 description: Contact Representative Beth Liston of Ohio. Contact information for Beth Liston includes email address, phone number, and mailing address.
 image: beth-liston.jpeg
 video:

@@ -25,7 +25,7 @@ website: https://www.ohiohouse.gov/members/ismail-mohamed/
 email : https://www.ohiohouse.gov/members/ismail-mohamed/
 twitter:
 ---
-Ismail Mohamed, a Somali-born politician and member of the Democratic Party, serves in the Ohio House of Representatives, representing District 3. He assumed office on January 1, 2023. State Representative Ismail Mohamed is a fighter and intends to use his lived experience and legal expertise to work on behalf of his constituents and to ensure that we are building an Ohio that inspires and uplifts everyone.
+State Representative Ismail Mohamed is a fighter and intends to use his lived experience and legal expertise to work on behalf of his constituents and to ensure that we are building an Ohio that inspires and uplifts everyone.
 
 A graduate of Northland High School in Columbus, Rep. Mohamed came to Central Ohio at a young age from Somalia. After graduating high school, he went on to attend The Ohio State University receiving his Bachelor of Arts Degree in Political Science in 2013. Furthermore, Rep. Mohamed went on to receive his Jurisprudence Doctorate from OSU Moritz College of Law becoming the first Somali-American attorney to practice in the State of Ohio.
 
@@ -37,4 +37,4 @@ Rep. Mohamed used his legal expertise as a criminal lawyer to work with his coll
 
 As State Representative, Rep. Mohamed wants to address the issues of small business development, affordable housing, public safety, and education.  
 
-Rep. Mohamed joined fellow State Representative Munira Abdullahi in the 135th General Assembly in becoming the first Somali Americans in the state legislature�s history.
+Rep. Mohamed joined fellow State Representative Munira Abdullahi in the 135th General Assembly in becoming the first Somali Americans in the state legislature’s history.

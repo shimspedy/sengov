@@ -4,7 +4,7 @@ title: "Michael Skindell"
 seo_title: "contact Representative Michael Skindell"
 subheader:
      greeting: Contact Representative Michael Skindell
-     description: Mike has long respected the laws of the state of Ohio� both how they are made, and how they are enforced. After graduating cum laude with a Bachelor's Degree in business and political science from Walsh College, he earned his law degree from Cleveland Marshall College of Law.
+     description: Mike has long respected the laws of the state of Ohio' both how they are made, and how they are enforced. After graduating cum laude with a Bachelor's Degree in business and political science from Walsh College, he earned his law degree from Cleveland Marshall College of Law.
 description: Contact Representative Michael Skindell of Ohio. Contact information for Michael Skindell includes email address, phone number, and mailing address.
 image: michael-skindell.jpeg
 video:
@@ -25,7 +25,7 @@ website: https://www.ohiohouse.gov/michael-j-skindell/
 email : https://www.ohiohouse.gov/michael-j-skindell/
 twitter: mikeskindell
 ---
-Mike has long respected the laws of the state of Ohio� both how they are made, and how they are enforced. After graduating cum laude with a Bachelor's Degree in business and political science from Walsh College, he earned his law degree from Cleveland Marshall College of Law.
+Mike has long respected the laws of the state of Ohio' both how they are made, and how they are enforced. After graduating cum laude with a Bachelor's Degree in business and political science from Walsh College, he earned his law degree from Cleveland Marshall College of Law.
 
 Upon graduation from law school, Mike served as Assistant Ohio Attorney General under Attorney General Anthony J. Celebrezze, Jr. He provided legal representation to the Director of Health and appeared before many administrative agencies and state and federal courts.
 
