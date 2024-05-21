@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Steve Wilson
      description: State Senator Steve Wilson is currently serving his second term in the Ohio Senate, representing all or part of Warren and Hamilton counties. Wilson was previously appointed in 2017 to fill a vacancy in the 7th Senate District.
 description: Contact Senator Steve Wilson of Ohio. Contact information for Steve Wilson includes email address, phone number, and mailing address.
-image: nsteve-wilson.jpeg
+image: steve-wilson.jpeg
 video:
 url:  /states/ohio/steve-wilson/
 weight: 1
