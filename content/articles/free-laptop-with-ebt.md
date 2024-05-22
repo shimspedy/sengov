@@ -4,7 +4,7 @@ title: Free Laptop with EBT/Food Stamps and How to Apply Online
 seo_title: Free Laptop with EBT/Food Stamps and How to Apply Online
 description: With increasing inquiries about obtaining a free laptop with EBT (Electronic Benefit Transfer), it's crucial to discuss how this initiative can help low-income families bridge the technology gap.
 date: 2024-05-20T05:45:23.641Z
-image: tablet.webp
+image: laptop.webp
 draft: false
 ---
 
