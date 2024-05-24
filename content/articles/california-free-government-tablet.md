@@ -60,38 +60,42 @@ California's free government tablets program has been a critical step toward dig
 - Duplicate benefits within the household
 - Applicant claimed as a dependent on someone else's tax return
 
-### What Can I Do if My Application is Denied?
-
+{{< faq title="What Can I Do if My Application is Denied? " >}}
 If you believe you were incorrectly disqualified, you can file a written appeal within 15 calendar days of your disqualification letter.
+{{< / faq >}}
 
-### I Lost My Form, How Can I Get a New One?
-
-Contact the California LifeLine program to request a reprint. Ensure you request within 45 days of the original form's date.
-
-### How Can I Check My Application Status?
-
-Check your status online or contact the California LifeLine program.
-
-### How Much Can I Save?
-
-California LifeLine provides discounts on basic home or cell phone services.
-
-### Who Qualifies for California LifeLine Discounts?
-
-Eligibility can be Program-Based (participation in eligible public-assistance programs) or Income-Based (household income at or below specific limits).
-
-### Are There Restrictions?
-
-Yes, only one discount per household is allowed. Households must choose between home phone or cell phone discounts.
-
-### Additional Benefits for Hearing Impaired or Tribal Land Residents?
-
-Yes, additional benefits are available for households with hearing-impaired members using TTY equipment and for residents on federally recognized tribal land.
-
-### How Do I Apply?
-
-Call your phone company to start the application process. Complete, sign, and submit the form by the due date.
-
-### How Do I Renew My Benefits?
-
+{{< faq title=" How Do I Renew My Benefits?" >}}
 Renew annually by submitting the renewal form by the due date. The California LifeLine Administrator will contact you with instructions.
+{{< / faq >}}
+
+{{< faq title="How Do I Apply? " >}}
+Call your phone company to start the application process. Complete, sign, and submit the form by the due date.
+{{< / faq >}}
+
+
+{{< faq title="Additional Benefits for Hearing Impaired or Tribal Land Residents? " >}}
+Yes, additional benefits are available for households with hearing-impaired members using TTY equipment and for residents on federally recognized tribal land.
+{{< / faq >}}
+
+{{< faq title="Are There Restrictions? " >}}
+Yes, only one discount per household is allowed. Households must choose between home phone or cell phone discounts.
+{{< / faq >}}
+
+
+{{< faq title="Who Qualifies for California LifeLine Discounts? " >}}
+Eligibility can be Program-Based (participation in eligible public-assistance programs) or Income-Based (household income at or below specific limits).
+{{< / faq >}}
+
+
+{{< faq title=" How Much Can I Save? " >}}
+California LifeLine provides discounts on basic home or cell phone services.
+{{< / faq >}}
+
+{{< faq title=" How Can I Check My Application Status?" >}}
+Check your status online or contact the California LifeLine program.
+{{< / faq >}}
+
+{{< faq title=" I Lost My Form, How Can I Get a New One?" >}}
+Contact the California LifeLine program to request a reprint. Ensure you request within 45 days of the original form's date.
+{{< / faq >}}
+
