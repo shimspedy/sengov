@@ -16,7 +16,7 @@ The program aims to bridge the digital divide by offering eligible individuals a
 
 ### History and Goals
 
-Launched as part of California's efforts to enhance digital inclusion, the program targets low-income residents, providing them with tools to thrive in a digital world. Since its inception, it has significantly improved access to technology for many Californians, aiding them in education, job searches, and more.
+Launched as part of California's efforts to enhance digital inclusion, the [program targets low-income](https://afrixi.com/state/California) residents, providing them with tools to thrive in a digital world. Since its inception, it has significantly improved access to technology for many Californians, aiding them in education, job searches, and more.
 
 ### Eligibility and How to Apply
 

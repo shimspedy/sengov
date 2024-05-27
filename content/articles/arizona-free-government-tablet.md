@@ -32,7 +32,7 @@ Tablets are equipped with apps like email clients, web browsers, and access to s
 
 #### Internet Connectivity and Service Providers
 
-These tablets offer various connectivity options, ensuring users can access the internet through Wi-Fi or mobile data. Users have the flexibility to choose from different internet service providers, with options ranging from well-known companies to low-cost plans tailored for low-income individuals.
+These tablets offer various [connectivity options](https://afrixi.com/state/Arizona), ensuring users can access the internet through Wi-Fi or mobile data. Users have the flexibility to choose from different internet service providers, with options ranging from well-known companies to low-cost plans tailored for low-income individuals.
 
 #### Tech Support and Digital Literacy Training
 
