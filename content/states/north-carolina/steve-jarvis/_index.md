@@ -1,10 +1,10 @@
 ---
-date: 2024-05-17T11:54:12-05:00
+date: 2024-05-22T11:54:12-05:00
 title: "Steve Jarvis"
 seo_title: "contact Senator Steve Jarvis"
 subheader:
      greeting: Contact Senator Steve Jarvis
-     description: Steven Henry Jarvis, born on April 22, 1968, is an American politician who is a Republican member of the North Carolina Senate. He was initially elected in 2020 and represents the 30th district. He assumed office on January 1, 2023, and his current term ends on January 1, 2025.
+     description: Steven Henry Jarvis, born on April 22, 1968, is an American politician who is a Republican member of the North Carolina Senate. He was initially elected in 2020 and represents the 30th district.
 description: Contact Senator Steve Jarvis of North Carolina. Contact information for Steve Jarvis includes email address, phone number, and mailing address.
 image: steve-jarvis.jpeg
 video:
@@ -46,4 +46,5 @@ The 30th district that Senator Jarvis represents includes Davidson and Davie cou
 
 Committees:
 Information about the committees that Senator Jarvis is part of and the bills he has introduced is not available in the provided data.
+
 

@@ -1,20 +1,20 @@
 ---
-date: 2024-04-26T11:54:12-05:00
+date: 2024-05-22T11:54:12-05:00
 title: "Kandie Smith"
 seo_title: "contact Senator Kandie Smith"
 subheader:
      greeting: Contact Senator Kandie Smith
-     description: Kandie Diane Smith was born on October 20, 1969, in Spartanburg, South Carolina. She is a Democratic member of the North Carolina Senate, United States, representing the 5th district. Before her tenure in the Senate, she was a member of the North Carolina House of Representatives and interim mayor of Greenville, North Carolina.
-description: Contact Senator Kandie Smith of New York. Contact information for Kandie Smith includes email address, phone number, and mailing address.
+     description: Kandie Diane Smith was born on October 20, 1969, in Spartanburg, South Carolina. She is a Democratic member of the North Carolina Senate, United States, representing the 5th district.
+description: Contact Senator Kandie Smith of North Carolina. Contact information for Kandie Smith includes email address, phone number, and mailing address.
 image: kandie-smith.jpeg
 video:
-url: /states/new-york/kandie-smith/
+url: /states/north-carolina/kandie-smith/
 weight: 1
 layout: course_home
 
 ####candidate
 name: Kandie Smith
-state: New York
+state: North Carolina
 party: Democratic
 role: Senator
 inoffice: current
@@ -25,7 +25,6 @@ website: https://www.ncleg.gov/Members/Biography/s/447/
 email : https://www.ncleg.gov/Members/Biography/s/447/
 twitter: sen_kandiesmith
 ---
-
 Kandie Diane Smith was born on October 20, 1969, in Spartanburg, South Carolina. She is a Democratic member of the North Carolina Senate, United States, representing the 5th district. Before her tenure in the Senate, she was a member of the North Carolina House of Representatives and interim mayor of Greenville, North Carolina.
 
 Smith obtained a bachelor's degree from Charleston Southern University where she majored in sociology and minored in communications. Before her election to mayor, Smith was on the Greenville City Council, representing District 1. When the former mayor, Allen Thomas, stepped down, Smith was elected mayor by the members of the council and held that office until the next election in November 2017, where she won re-election to the council, again serving District 1.

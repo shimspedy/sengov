@@ -1,20 +1,20 @@
 ---
-date: 2024-04-26T11:54:12-05:00
+date: 2024-05-22T11:54:12-05:00
 title: "Michael Lee"
 seo_title: "contact Senator Michael Lee"
 subheader:
      greeting: Contact Senator Michael Lee
      description: Michael Vincent Lee (born November 29, 1968) is a Republican politician serving as a member of the North Carolina State Senate for District 7. He began his term on January 1, 2023.
-description: Contact Senator Michael Lee of New York. Contact information for Michael Lee includes email address, phone number, and mailing address.
+description: Contact Senator Michael Lee of North Carolina. Contact information for Michael Lee includes email address, phone number, and mailing address.
 image: michael-lee.jpeg
 video:
-url:  /states/new-york/michael-lee/
+url: /states/north-carolina/michael-lee/
 weight: 1
 layout: course_home
 
 ####candidate
 name: Michael Lee
-state: New York
+state: North Carolina
 party: Republican
 role: Senator
 inoffice: current
@@ -25,7 +25,6 @@ website: https://www.ncleg.gov/Members/Biography/s/387/
 email : https://www.ncleg.gov/Members/Biography/s/387/
 twitter: michaellee4nc
 ---
-
 Michael Vincent Lee (born November 29, 1968) is a Republican member of the North Carolina State Senate. Lee was first appointed to office in August 2014, replacing Thom Goolsby. He was re-elected in the November 2016 election for a second term, having defeated Democrat Andrew Barnhill with 57.35% of the vote. Lee was defeated by Democrat Harper Peterson in the 2018 election but secured a rematch victory against Peterson in the 2020 election.
 
 Background and Education:
