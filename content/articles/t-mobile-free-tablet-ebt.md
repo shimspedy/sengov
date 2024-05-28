@@ -3,7 +3,7 @@ author: john hashim
 title: T-mobile Free Tablet EBT Free Tablet For Low-Income family
 seo_title: T-mobile Free Tablet EBT Free Tablet For Low-Income family
 description: T-Mobile offers free tablets to eligible low-income individuals through the Affordable Connectivity Program (ACP) in 2024. 
-date: 2024-05-28T05:45:23.641Z
+date: 2024-05-27T05:45:23.641Z
 image: tablets.webp
 draft: false
 ---
