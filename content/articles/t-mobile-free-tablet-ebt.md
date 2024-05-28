@@ -53,4 +53,4 @@ To complete your application, you need to submit:
 
 Participating in the ACP program allows eligible customers to receive a free tablet and phone. This initiative helps bridge the digital divide by providing essential tech devices to underserved communities. T-Mobile's commitment to promoting digital equality and supporting underserved communities is exemplified through their Free Phone & Tablet offer under the ACP.
 
-Seize this fantastic opportunity to get a free tablet from T-Mobile with your EBT card in 2024!
+Dont miss on this fantastic opportunity to get a free tablet from T-Mobile with your EBT card in 2024!
