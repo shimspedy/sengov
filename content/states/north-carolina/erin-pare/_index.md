@@ -1,11 +1,11 @@
 ---
-date: 2024-05-22T11:54:12-05:00
-title: "Erin Pare"
-seo_title: "contact Representative Erin Pare"
+date: 2024-05-17T11:54:12-05:00
+title: "Erin Paré"
+seo_title: "contact Representative Erin Paré"
 subheader:
-     greeting: Contact Representative Erin Pare
+     greeting: Contact Representative Erin Paré
      description: Erin Pauling Paré, born in 1979, is a Republican member of the North Carolina General Assembly. She represents the state's 37th House district, which includes the townships of Holly Springs and Fuquay-Varina within its boundaries.
-description: Contact Representative Erin Pare of North Carolina. Contact information for Erin Pare includes email address, phone number, and mailing address.
+description: Contact Representative Erin Paré of North Carolina. Contact information for Erin Paré includes email address, phone number, and mailing address.
 image: erin-pare.jpeg
 video:
 url: /states/north-carolina/erin-pare/
@@ -13,7 +13,7 @@ weight: 1
 layout: course_home
 
 ####candidate
-name: Erin Pare
+name: Erin Paré
 state: North Carolina
 party: Republican
 role: Representative
@@ -39,4 +39,4 @@ Erin has been appointed by Speaker of the House Tim Moore to serve on the Joint 
 
 In her freshman session in 2021-2022, Representative Paré served as Chair of the House Select Committee on Advancing Women in S.T.E.M. In April of 2023, Paré was appointed to the Interstate Commission on Educational Opportunity for Military Children State Council. In addition, Rep. Paré has been appointed to the office of Deputy Conference Chair.
 
-Erin is a member of the Early Childhood Caucus, the Life Science Caucus, the Joint Bipartisan Arts Caucus, and serves as an officer of the bipartisan Legislative Women's Caucus. Erin is a Leader of the Workforce Development legislative working group and a member of the Election Integrity and Homeland Security legislative working groups.
+Erin is a member of the Early Childhood Caucus, the Life Science Caucus, the Joint Bipartisan Arts Caucus, and serves as an officer of the bipartisan Legislative Women’s Caucus. Erin is a Leader of the Workforce Development legislative working group and a member of the Election Integrity and Homeland Security legislative working groups.
