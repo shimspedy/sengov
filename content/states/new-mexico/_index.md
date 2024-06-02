@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-06-01T11:55:00-04:00
 title: "New Mexico"
 ab: "NM"
 seo_title: "Contact New Mexico Senators"
