@@ -36,11 +36,11 @@ Crystal has served the conservation and natural resource needs of New Mexico as 
 
 
 Community Minded.
-Crystal served as an elected member of the Truth or Consequences School Board. She is a long time member of Chamiza Cowbelles and past president of Sierra County Farm & Livestock Bureau. A proud NMSU Aggie, Crystal continues to stay connected to her alma mater, formerly serving as president of the NMSU College of Agriculture Alumni Council. Her leadership roles in agriculture networks across the state include serving on the NM Cattle Growers’ Association Board of Directors and NM Farm & Livestock Board of Directors. 
+Crystal served as an elected member of the Truth or Consequences School Board. She is a long time member of Chamiza Cowbelles and past president of Sierra County Farm & Livestock Bureau. A proud NMSU Aggie, Crystal continues to stay connected to her alma mater, formerly serving as president of the NMSU College of Agriculture Alumni Council. Her leadership roles in agriculture networks across the state include serving on the NM Cattle Growers Association Board of Directors and NM Farm & Livestock Board of Directors. 
 
 
 Campaign Promises.
-Making good on campaign promises to bridge the rural – urban divide, Crystal successfully championed the creation of a Rural Ombudsman position which received unanimous support from legislators and went on to be signed by the Governor. She was honored as the 2022 Legislator of the Year by New Mexico District Attorneys for her work to support law enforcement and strengthen criminal punishments. In 2023 she was awarded Legislator of the Year by New Mexico Home & Hospice Providers for her work to champion small business and contract providers. Nationally, Crystal is the first New Mexico senator selected to serve on the National Republican State Leadership Committee to assist campaign efforts of conservative candidates across America.
+Making good on campaign promises to bridge the rural urban divide, Crystal successfully championed the creation of a Rural Ombudsman position which received unanimous support from legislators and went on to be signed by the Governor. She was honored as the 2022 Legislator of the Year by New Mexico District Attorneys for her work to support law enforcement and strengthen criminal punishments. In 2023 she was awarded Legislator of the Year by New Mexico Home & Hospice Providers for her work to champion small business and contract providers. Nationally, Crystal is the first New Mexico senator selected to serve on the National Republican State Leadership Committee to assist campaign efforts of conservative candidates across America.
 
 
 Family First.
