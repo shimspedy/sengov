@@ -42,5 +42,3 @@ While Hall has not yet completed Ballotpedia's 2024 Candidate Connection survey,
 Campaign Finance:
 Details about Hall's campaign finance are available through official disclosures required of candidates and parties.
 
-[Source](https://ballotpedia.org/Bill_Hall_%28New_Mexico%29)
-
