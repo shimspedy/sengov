@@ -28,7 +28,7 @@ twitter:
 Al Barlas (born June 21, 1981) is an American Republican Party politician serving as a member of the New Jersey General Assembly for the 40th legislative district. He assumed office on January 9, 2024.
 
 **Biography:**
-A resident of Cedar Grove, New Jersey, Barlas has a rich background in politics and legislative strategy. His career experience includes working as the legislative director for then-Assemblyman Declan O’Scanlon and serving as chief of staff to state Senator Kevin O’Toole and then-state Senator-Elect Kristin Corrado. 
+A resident of Cedar Grove, New Jersey, Barlas has a rich background in politics and legislative strategy. His career experience includes working as the legislative director for then-Assemblyman Declan O-Scanlon and serving as chief of staff to state Senator Kevin O-Toole and then-state Senator-Elect Kristin Corrado. 
 
 Barlas has been actively involved in New Jersey Republican politics. He began by running legislative and county campaigns and eventually became the Chairman of the Essex County Young Republicans. His leadership journey continued as he took on the role of Chairman of the New Jersey Young Republican Federation. Currently, Al serves as the Chairman of the Essex County Republican Committee.
 
@@ -38,7 +38,7 @@ In addition to his political roles, Barlas is employed as co-administrator and d
 In the 2023 New Jersey General Assembly election, Barlas and incumbent Christopher DePhillips secured victory, defeating Democrats Giovanna Irizarry and Jennifer Marrinan. Barlas was one of 27 members elected for the first time in 2023 to serve in the General Assembly, representing more than one-third of the seats. 
 
 **Committees:**
-For the 2024—2025 Legislative Session, Barlas is assigned to the following committees:
+For the 2024-2025 Legislative Session, Barlas is assigned to the following committees:
 - Budget
 - Community Development and Women's Affairs
 - Labor

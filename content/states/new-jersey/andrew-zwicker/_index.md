@@ -25,17 +25,25 @@ website: https://www.njleg.state.nj.us/legislative-roster/436/senator-zwicker/
 email : https://www.njleg.state.nj.us/legislative-roster/436/senator-zwicker/
 twitter: andrewzwicker
 ---
-Andrew P. Zwicker, born on May 17, 1964, is an American physicist and politician who has served in the New Jersey Senate from the 16th Legislative District since 2022. He previously served in the New Jersey General Assembly representing the 16th District from 2016 to 2022.
+Senator Andrew Zwicker is the first Democrat ever elected to the 16th Legislative District, serving in the General Assembly for three terms (2016 – 2022) and now is the first Democratic Senator representing the district (2022 – Present).  A physicist and educator, Zwicker serves on the Budget and Appropriations, Higher Education, Labor, and Military and Veterans Affairs Committees and is a bipartisan member of both the Disability and Manufacturing Caucuses.  While in the General Assembly, he helped create and served as Chair of the Science, Innovation, and Technology Committee, was Vice-Chair of the Biotechnology Task Force, and was a member of the NJ Commission on Science Innovation and Technology.
 
-Zwicker was born in New York City and raised in Englewood, New Jersey. He graduated from Dwight Morrow High School in 1982. He achieved his B.A. in physics from Bard College in 1986, and his M.A. and Ph.D., both also in physics, from Johns Hopkins University in 1992. His dissertation was entitled "Soft X-Ray Spectroscopy of Magnetically Confined Fusion Plasmas Using Flat Multilayer Mirrors".
+His legislative focus is on ways to invest in innovation to create high-quality jobs for people of all backgrounds, addressing the climate crisis, and restoring trust in democracy through structural, election-related reforms.  Andrew Zwicker brings a fresh outlook to everyday problems. With his background in science and higher education he brings a fact-based pragmatism to the legislature.
 
-Zwicker's post-doctoral work focused on fusion energy research at the Princeton Plasma Physics Laboratory, at Oak Ridge National Laboratory, and internationally. He has been the head of the Science Education Department of the Princeton Plasma Physics Laboratory since 2003, where his work is focused on creating innovative opportunities for students of all backgrounds to engage in scientific inquiry and his research is centered on plasmas as an educational tool and new methods of science communication.
+A lifelong New Jersey resident, Andrew is Head of Strategic Partnerships and Public Engagement at Princeton University’s Plasma Physics Laboratory, a world leader in developing an advanced form of energy known as fusion. He has taught classes in bioethics and writing and led plasma physics workshops for college faculty, undergraduate students, and advanced high school students. The American Association of Physics Teachers named him as one of the 75 leading contributors to physics education in the US.  
 
-At Princeton University, Zwicker was previously a part-time lecturer in the Writing Program and a faculty advisor for freshmen and sophomores in Rockefeller College. Zwicker has served on several national committees on education, is a Fellow of the American Physical Society, and The American Association of Physics Teachers has named him to its list of 75 leading contributors to physics education.
+Raised in Englewood, NJ, his love of learning and passion for science came from his mother, a public school English teacher, and father, a chemical engineer. Andrew earned a bachelor’s degree in physics from Bard College and a master’s and Ph.D. in physics from Johns Hopkins University. Andrew resides in the Kingston area of South Brunswick Township with his wife, Barbara, an educator in Hillsborough Township, along with their family. He enjoys surfing and playing soccer in his spare time.
 
-Zwicker resides in Princeton, New Jersey with his wife, Barbara Golden, a New Jersey public school educator, along with their family, and their rescue pitbull-boxer mix, Rocky. He is an atheist.
+#### Fighting to Make NJ More Affordable
+By expanding the largest property tax rebate in state history – up to $1,500, reducing student loan debt, and making a sales tax holiday for back-to-school supplies to put money back in your family’s pocket. 
 
-Zwicker was a candidate for the United States House of Representatives in New Jersey's 12th congressional district in 2014. He is a member of the Democratic Party as well as the head of the Science Education Department of the Princeton Plasma Physics Laboratory. He has been described as a prot�g� of former Representative Rush Holt Jr.
+#### Using Science and Common Sense
+Investing in an economy that creates high-quality, high-paying jobs for people of all backgrounds, fighting to ensure all families have access to clean air, clean water, and open space, and combating the climate crisis.
 
-As of the 2020 Census, New Jersey state senators represented an average of 232,362 residents. After the 2010 Census, each member represented 220,188 residents. Members of the New Jersey State Senate serve four-year terms and are not subject to term limits. Known as the "2-4-4" cycle, Senators serve four-year terms, except in the first term of a new decade, which only lasts for two years. New Jersey legislators assume office at noon of the second Tuesday in January following the election.
+#### Advocating for Everyone in Our Community
+Eliminating barriers to services for seniors, veterans, women, our LGBT communities, and people of all races and religions, keeping us safe from gun violence, and ensuring access to high-quality education for all.
 
+#### Supporting Small Businesses
+Eliminating barriers that hold back New Jersey’s 900,000+ small businesses and providing them with the resources they need to succeed. 
+
+#### Investing in Mental Health
+Funding affordable, high-quality mental health services to ensure a safe and healthy future for our youth and families
