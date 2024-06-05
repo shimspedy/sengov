@@ -38,13 +38,13 @@ To qualify for the ACP, households must meet certain income requirements. They m
     #### Eligibility
 
     1. **Mandatory Coverage**: 
-    - Low-income families
-    - Pregnant women and children
-    - SSI recipients
+        - Low-income families
+        - Pregnant women and children
+        - SSI recipients
 
     2. **Optional Coverage**:
-    - Home and community-based service recipients
-    - Children in foster care
+        - Home and community-based service recipients
+        - Children in foster care
 
     #### Expansion and Eligibility Rules
     - **Affordable Care Act**: States can expand Medicaid to cover more low-income individuals under 65. Many states have done this.
