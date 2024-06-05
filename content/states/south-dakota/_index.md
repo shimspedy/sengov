@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-06-04T11:55:00-04:00
 title: "South Dakota"
 ab: "SD"
 seo_title: "Contact South Dakota  Governors And Senators"
@@ -11,11 +11,6 @@ weight: 1
 layout: states
 
 
-stateweb: "https://governor.sd.gov/"
-govweb: "https://governor.sd.gov/"
-gov: "Kristi Noem"
-Address: "500 East Capitol Street Pierre, SD 57501"
-phonenumber: 605/773-3212
 
 
 ---
