@@ -11,11 +11,6 @@ weight: 1
 layout: states
 
 
-stateweb: "https://www.state.nj.us/"
-govweb: "https://www.state.nj.us/governor/"
-gov: "Phil Murphy"
-Address: "The State House P.O. Box 001 Trenton, NJ 08625"
-phonenumber: 609-292-6000
 
 ---
 
