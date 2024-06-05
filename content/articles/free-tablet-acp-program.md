@@ -33,8 +33,6 @@ To qualify for the ACP, households must meet certain income requirements. They m
 
 
 - Medicaid 
-    ### Summary of Medicaid
-
     Medicaid is a joint federal and state program providing health coverage to over 77.9 million Americans, including children, pregnant women, parents, seniors, and people with disabilities. It's the largest health coverage source in the U.S.
 
     #### Eligibility
