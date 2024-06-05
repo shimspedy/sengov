@@ -33,6 +33,26 @@ To qualify for the ACP, households must meet certain income requirements. They m
 
 
 - Medicaid 
+    ### Summary of Medicaid
+
+    Medicaid is a joint federal and state program providing health coverage to over 77.9 million Americans, including children, pregnant women, parents, seniors, and people with disabilities. It's the largest health coverage source in the U.S.
+
+    #### Eligibility
+
+    1. **Mandatory Coverage**: 
+    - Low-income families
+    - Pregnant women and children
+    - SSI recipients
+
+    2. **Optional Coverage**:
+    - Home and community-based service recipients
+    - Children in foster care
+
+    #### Expansion and Eligibility Rules
+    - **Affordable Care Act**: States can expand Medicaid to cover more low-income individuals under 65. Many states have done this.
+    - **Income-Based Eligibility**: Uses Modified Adjusted Gross Income (MAGI) to determine eligibility for most applicants, including children, pregnant women, and parents.
+    - **Non-Financial Requirements**: Must be a resident of the state, a U.S. citizen, or a qualified non-citizen.
+
 
 - WIC (Women, Infants, and Children)
     The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides federal grants to states for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age 5 who are found to be at nutritional risk.
