@@ -113,7 +113,7 @@ To qualify for the ACP, households must meet certain income requirements. They m
 
 
 ###  Do I qualify for the ACP?
-    Lifeline is a Federal Communications Commission program to help make communications services more affordable for low-income consumers. If you currently receive a Lifeline benefit, you automatically qualify for the ACP, and you can receive both benefits at the same time.
+Lifeline is a Federal Communications Commission program to help make communications services more affordable for low-income consumers. If you currently receive a Lifeline benefit, you automatically qualify for the ACP, and you can receive both benefits at the same time.
 
 - To Qualify for the Affordable Connectivity Program (ACP):
     - Your household income must be at or below 200% of the Federal Poverty Guidelines.
@@ -128,25 +128,25 @@ To qualify for the ACP, households must meet certain income requirements. They m
 If you are already enrolled in any other programs above then you are eligible for the Affordable Connectivity Program or ACP
 
 ### Ways to Qualify for ACP
-    Ways your household can qualify for the Affordable Connectivity Program (ACP) based on your household income or if you or your child or dependent participate in certain government assistance programs such as SNAP, Medicaid, WIC, or other programs.
+Ways your household can qualify for the Affordable Connectivity Program (ACP) based on your household income or if you or your child or dependent participate in certain government assistance programs such as SNAP, Medicaid, WIC, or other programs.
 
 
 ### Prove Your Income for ACP
-    To prove participation in one of the qualifying programs, you must submit a document that, at a minimum, which includes, your name or the name of their benefit qualifying person (BQP). The name of the qualifying program, such as SNAP, WIC, SSI, Medicaid, Federal Public Housing Assistance, etc.
+To prove participation in one of the qualifying programs, you must submit a document that, at a minimum, which includes, your name or the name of their benefit qualifying person (BQP). The name of the qualifying program, such as SNAP, WIC, SSI, Medicaid, Federal Public Housing Assistance, etc.
 
-    If your household’s gross annual income is 200% or less than the federal poverty guidelines, then you qualify for the ACP Affordable Connectivity Program or ACP. The income chart below reflects the limit by household size, which is 200% of the 2023 Federal Poverty Guidelines
+If your household’s gross annual income is 200% or less than the federal poverty guidelines, then you qualify for the ACP Affordable Connectivity Program or ACP. The income chart below reflects the limit by household size, which is 200% of the 2023 Federal Poverty Guidelines
 
-    | Household Size | 48 Contiguous States | Alaska  | Hawaii  |
-    |----------------|-----------------------|---------|---------|
-    | 1              | $29,160               | $36,420 | $33,540 |
-    | 2              | $39,440               | $49,280 | $45,360 |
-    | 3              | $49,720               | $62,140 | $57,180 |
-    | 4              | $60,000               | $75,000 | $69,000 |
-    | 5              | $70,280               | $87,860 | $80,820 |
-    | 6              | $80,560               | $100,720| $92,640 |
-    | 7              | $90,840               | $113,580| $104,460|
-    | 8              | $101,120              | $126,440| $116,280|
-    | Each Additional Person Add | $10,280 | $12,860 | $11,820 |
+| Household Size | 48 Contiguous States | Alaska  | Hawaii  |
+|----------------|-----------------------|---------|---------|
+| 1              | $29,160               | $36,420 | $33,540 |
+| 2              | $39,440               | $49,280 | $45,360 |
+| 3              | $49,720               | $62,140 | $57,180 |
+| 4              | $60,000               | $75,000 | $69,000 |
+| 5              | $70,280               | $87,860 | $80,820 |
+| 6              | $80,560               | $100,720| $92,640 |
+| 7              | $90,840               | $113,580| $104,460|
+| 8              | $101,120              | $126,440| $116,280|
+| Each Additional Person Add | $10,280 | $12,860 | $11,820 |
 
 
 #### What documents does ACP require?
