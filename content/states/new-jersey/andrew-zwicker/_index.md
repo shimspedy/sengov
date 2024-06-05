@@ -4,7 +4,7 @@ title: "Andrew Zwicker"
 seo_title: "contact Senator Andrew Zwicker"
 subheader:
      greeting: Contact Senator Andrew Zwicker
-     description: Andrew P. Zwicker, born on May 17, 1964, is an American physicist and politician who has served in the New Jersey Senate from the 16th Legislative District since 2022.
+     description: Senator Andrew Zwicker is the first Democrat ever elected to the 16th Legislative District, serving in the General Assembly for three terms (2016 – 2022) and now is the first Democratic Senator representing the district (2022 – Present).
 description: Contact Senator Andrew Zwicker of New Jersey. Contact information for Andrew Zwicker includes email address, phone number, and mailing address.
 image: andrew-zwicker.jpeg
 video:
