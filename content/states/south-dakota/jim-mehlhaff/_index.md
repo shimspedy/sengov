@@ -21,9 +21,9 @@ inoffice: current
 elected: 2023
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
 phone1: 605-773-3821
-website: https://sdlegislature.gov/Legislators/Profile/4529/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4529/Detail/
-twitter:
+website: https://sdlegislature.gov/Legislators/Profile/4529/Detail//
+email : https://sdlegislature.gov/Legislators/Profile/4529/Detail//
+twitter: 
 ---
 Jim Mehlhaff (Republican Party) is a dedicated public servant who assumed office on January 10, 2023, as a member of the South Dakota State Senate. Representing District 24, he has been actively involved in shaping legislation and advocating for his constituents.
 
@@ -41,3 +41,4 @@ Election and Re-election:
 In the 2022 general election, Jim Mehlhaff secured victory for the South Dakota State Senate District 24 seat. His dedication to public service continues as he seeks re-election in the upcoming 2024 election.
 
 Senator Mehlhaff's commitment to his constituents, combined with his diverse background, positions him as an influential voice in South Dakota's legislative landscape. As he continues to serve, his impact on policy-making and community development remains significant.
+

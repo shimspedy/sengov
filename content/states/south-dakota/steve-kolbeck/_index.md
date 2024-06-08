@@ -19,10 +19,10 @@ party: Republican
 role: Senator
 inoffice: current
 elected: 2023
-mailing1:  Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
+mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
 phone1: 605-773-3821
-website: https://sdlegislature.gov/Legislators/Profile/4517/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4517/Detail/
+website: https://sdlegislature.gov/Legislators/Profile/4517/Detail//
+email : https://sdlegislature.gov/Legislators/Profile/4517/Detail//
 twitter: 
 ---
 Steve Kolbeck is an American politician serving as a member of the South Dakota Senate for the 2nd district. He is a member of the Republican party. He was elected in November 2022 and assumed office on January 10, 2023.
@@ -38,4 +38,5 @@ Kolbeck was elected to the South Dakota Senate in November 2022 and assumed offi
 
 Personal Life:
 Kolbeck is a father of four children. He resides in Brandon, South Dakota.
+
 

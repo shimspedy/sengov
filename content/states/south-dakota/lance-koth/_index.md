@@ -21,9 +21,9 @@ inoffice: current
 elected: 2019
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
 phone1: 605-773-3851
-website: https://sdlegislature.gov/Legislators/Profile/4518/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4518/Detail/
-twitter:
+website: https://sdlegislature.gov/Legislators/Profile/4518/Detail//
+email : https://sdlegislature.gov/Legislators/Profile/4518/Detail//
+twitter: 
 ---
 Lance R. Koth is an American politician who has dedicated his career to public service. Born and raised in South Dakota, Koth has a deep-rooted commitment to his community and its residents.
 
@@ -43,3 +43,4 @@ Personal Life:
 Outside of politics, Koth enjoys spending time with his family, exploring South Dakota's natural beauty, and volunteering for local charities. His down-to-earth demeanor and approachability make him a beloved figure in his district.
 
 Senator Lance R. Koth continues to work diligently for the people of South Dakota, striving to create a brighter future for all. His dedication, integrity, and passion exemplify the best of public service.
+

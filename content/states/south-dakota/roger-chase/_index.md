@@ -21,9 +21,9 @@ inoffice: current
 elected: 2017
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
 phone1: 605-773-3851
-website: https://sdlegislature.gov/Legislators/Profile/4486/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4486/Detail/
-twitter:
+website: https://sdlegislature.gov/Legislators/Profile/4486/Detail//
+email : https://sdlegislature.gov/Legislators/Profile/4486/Detail//
+twitter: 
 ---
 Roger D. Chase is a dedicated public servant with a passion for improving the lives of South Dakotans. Born and raised in the heart of the state, he has deep roots in the community and a strong commitment to its well-being.
 

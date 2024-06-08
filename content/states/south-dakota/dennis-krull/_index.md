@@ -4,7 +4,7 @@ title: "Dennis Krull"
 seo_title: "contact Representative Dennis Krull"
 subheader:
      greeting: Contact Representative Dennis Krull
-     description:  Senator Dennis Krull is a a member of the South Dakota House of Representatives representing District 30. Krull assumed office on January 10, 2023, and his current term ends on January 14, 2025.
+     description: Senator Dennis Krull is a a member of the South Dakota House of Representatives representing District 30. Krull assumed office on January 10, 2023, and his current term ends on January 14, 2025.
 description: Contact Representative Dennis Krull of South Dakota. Contact information for Dennis Krull includes email address, phone number, and mailing address.
 image: dennis-krull.jpeg
 video:
@@ -21,8 +21,8 @@ inoffice: current
 elected: 2023
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
 phone1: 605-773-3851
-website: https://sdlegislature.gov/Legislators/Profile/4520/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4520/Detail/
+website: https://sdlegislature.gov/Legislators/Profile/4520/Detail//
+email : https://sdlegislature.gov/Legislators/Profile/4520/Detail//
 twitter: 
 ---
 Dennis Krull, a Republican, serves as a member of the South Dakota House of Representatives, representing District 30. He assumed office on January 10, 2023, and his current term extends until January 14, 2025.
