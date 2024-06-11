@@ -4,7 +4,7 @@ title: Free Cell Phones with Unlimited Talk, Text & Internet from U.S. Governmen
 seo_title: Free Cell Phones with Unlimited Talk, Text & Internet from U.S. Government Programs
 description: The Lifeline Assistance Program and the Affordable Connectivity Program (ACP) combine to give you a free smartphone, free monthly service, and free internet. 
 date: 2024-06-09T05:45:23.641Z
-image: senate.webp
+image: iphone.webp
 draft: false
 ---
 
