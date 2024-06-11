@@ -24,6 +24,7 @@
     {{ if .Params.image }}
     <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
       style="background-image: url({{.Site.BaseURL }}candidates/{{ .Params.image }});">
+      <img src="{{.Site.BaseURL }}candidates/{{ .Params.image }}" class=" hide" alt="{{ .Title }}">
       <span id="image_credit"></span>
       <div class="gradient"></div>
       <img src="/images/wave.png" class="waves">
@@ -31,6 +32,7 @@
     {{ else }}
     <div id="postImage" class=" post-header-enhanced thumb-img FlexEmbed CoverImage"
       style="background-image: url({{ .Site.BaseURL }}{{ .Params.defaulImage }});">
+      <img src="{{.Site.BaseURL }}candidates/{{ .Params.image }}" class=" hide" alt="{{ .Title }}">
       <span id="image_credit"></span>
       <div class="gradient"></div>
       <img src="/images/wave.png" class="waves">
