@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get Free Cell Phone Service from the Government
 seo_title: How to Get Free Cell Phone Service from the Government
 description: More than a dozen companies are ready to send you a free government cell phone. The process is simple and straight forward. Despite the new Affordable Connectivity Program offering better cell phones and more comprehensive service, the information here remains accurate.
-date: 2024-06-09T05:45:23.641Z
+date: 2024-06-08T05:45:23.641Z
 image: iphone.jpeg
 draft: false
 ---

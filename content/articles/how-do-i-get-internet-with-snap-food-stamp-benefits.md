@@ -52,7 +52,7 @@ The program is funded by the federal government and contributions from telecommu
 
 In addition to Lifeline, you may also qualify for the Affordable Connectivity Program (ACP). Once you qualify for SNAP, SSI, federal public housing assistance, and similar programs, you may also qualify for ACP. This temporary program increases your choice of service providers with additional discounts and packages.
 
-*Some states have different income guidelines. To view documentation requirements, visit the USAC website here.
+Some states have different income guidelines. To view documentation requirements, visit the USAC website here.
 
 ### How Do I Get Internet with SNAP Benefits?
 
