@@ -86,7 +86,7 @@ So, what is the Lifeline phone service application process? Here’s what you’
 9. **Legal Documents**
    - Divorce decree or child support document.
 
-#### ### Acceptable Proof of Address:
+#### Acceptable Proof of Address:
 
 1. **Driver’s License, Government, State, or Tribal Issued ID**
    - Must be unexpired.
