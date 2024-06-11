@@ -27,6 +27,9 @@
 {{ else if eq .Section "candidates" }}
 <meta property="og:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
+{{ else if eq .Section "articles" }}
+<meta property="og:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
+<meta property="twitter:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
 {{ else }}
 <meta property="og:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
