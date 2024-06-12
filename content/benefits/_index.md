@@ -4,6 +4,6 @@ title: "Goverment Benefits For low-income Families"
 seo_title: "Goverment Benefits For low-income Families"
 description: Goverment Benefits For low-income Families
 author: john shim
-url: //
+url: /benefits/
 weight: 99999
 ---
