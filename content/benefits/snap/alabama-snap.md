@@ -50,6 +50,21 @@ For an individual or household to qualify for SNAP benefits in Alabama, they mus
 - **Net Income Test**: Gross income minus allowable deductions.
 - **Asset Test**: Certain resource limits that may apply unless exempted.
 
+##### Table 1: SNAP Income Eligibility Limits - Oct. 1, 2023, through Sept. 30, 2024
+
+| Household Size | Gross monthly income (130 percent of poverty) | Net monthly income (100 percent of poverty) |
+|----------------|-----------------------------------------------|--------------------------------------------|
+| 1              | $1,580                                        | $1,215                                     |
+| 2              | $2,137                                        | $1,644                                     |
+| 3              | $2,694                                        | $2,072                                     |
+| 4              | $3,250                                        | $2,500                                     |
+| 5              | $3,807                                        | $2,929                                     |
+| 6              | $4,364                                        | $3,357                                     |
+| 7              | $4,921                                        | $3,785                                     |
+| 8              | $5,478                                        | $4,214                                     |
+| Each additional member | +$557                                | +$429                                      |
+
+
 ##### Residency Requirements
 
 Applicants must be residents of the state of Alabama. Eligibility is tied to the county of residence, and multiple benefits across county or state lines in the same month are prohibited.
