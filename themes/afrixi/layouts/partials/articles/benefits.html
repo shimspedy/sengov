@@ -1,9 +1,11 @@
 {{ partial "markup/governor" . }}
 <div class="row" itemscope itemtype="https://schema.org/Person">
-  <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+  <aside class="col xl3 l3 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
     {{ partial "nav/course-list" . }}
+    {{- partial "ads/sidebar" . -}}  
+    {{- partial "ads/sidebar-custom" . -}} 
   </aside>
-  <div class="col xl10 l10 m12 s12 sengov">
+  <div class="col xl9 l9 m12 s12 sengov">
 
     <article class="white z-depth-1"
       style="  padding-right: 30px; padding-bottom: 30px; margin-top:15px; padding-top:1px;">
