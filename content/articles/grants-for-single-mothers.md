@@ -12,7 +12,7 @@ draft: false
 
 Single mothers face unique financial challenges, but various grants and assistance programs can provide essential support. This guide covers everything you need to know about grants for single mothers, from education funding to housing and nutritional aid. 
 
-##### Education Grants for Single Mothers
+#### Education Grants for Single Mothers
 
 ##### Federal Pell Grant
 
@@ -45,7 +45,7 @@ Federal student loans are available for single mothers needing more financial as
   - Direct PLUS Loan: 8.05%
 - **Application**: Complete the FAFSA and indicate interest in student loans.
 
-##### Financial Assistance Programs
+#### Financial Assistance Programs
 
 ##### Temporary Assistance for Needy Families (TANF)
 
@@ -59,7 +59,7 @@ DCA offers one-time emergency cash payments to single mothers facing urgent fina
 
 - **Application**: Contact your local TANF office.
 
-##### Supplemental Nutrition Assistance Program (SNAP)
+#### Supplemental Nutrition Assistance Program (SNAP)
 
 SNAP provides food assistance to low-income families through an EBT card, helping ensure access to nutritious food.
 
@@ -73,20 +73,20 @@ WIC offers nutrition assistance to pregnant women, new mothers, and young childr
 - **Income Limits**: Less than or equal to 185% of the poverty level.
 - **Application**: Contact your local WIC office.
 
-##### Child Care Assistance Program (CCAP)
+#### Child Care Assistance Program (CCAP)
 
 CCAP helps low-income families pay for child care while they work or attend school.
 
 - **Application**: Contact your state’s child care assistance program.
 
-##### Medicaid
+#### Medicaid
 
 Medicaid provides health insurance to low-income individuals, including many single mothers.
 
 - **Income Limits**: Varies by state; generally below 138% of the federal poverty level.
 - **Application**: Apply through your state’s Medicaid office.
 
-##### Housing Assistance
+#### Housing Assistance
 
 ##### Section 8 Rental Subsidy
 
@@ -94,7 +94,7 @@ Section 8 helps low-income families afford rental housing by covering a portion 
 
 - **Application**: Contact your local Public Housing Agency (PHA).
 
-##### Public Housing Program
+#### Public Housing Program
 
 This program provides affordable housing for low-income families, with tenants paying no more than 30% of their income for rent and utilities.
 
@@ -102,25 +102,25 @@ This program provides affordable housing for low-income families, with tenants p
 
 ##### Utility Assistance
 
-##### Low Income Home Energy Assistance Program (LIHEAP)
+#### Low Income Home Energy Assistance Program (LIHEAP)
 
 LIHEAP helps low-income households pay their heating and cooling bills.
 
 - **Application**: Contact your local LIHEAP office.
 
-##### Low Income Household Water Assistance Program (LIHWAP)
+#### Low Income Household Water Assistance Program (LIHWAP)
 
 LIHWAP offers financial relief for water and wastewater bills to low-income families.
 
 - **Application**: Contact your local LIHWAP office.
 
-##### Weatherization Assistance Program (WAP)
+#### Weatherization Assistance Program (WAP)
 
 WAP helps reduce energy costs for low-income families by improving home energy efficiency.
 
 - **Application**: Contact your local WAP office.
 
-##### Additional Support Programs
+#### Additional Support Programs
 
 ##### Earned Income Tax Credit (EITC)
 
