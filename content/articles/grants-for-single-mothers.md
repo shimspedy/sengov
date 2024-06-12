@@ -8,7 +8,7 @@ image: grants.webp
 draft: false
 ---
 
-#### Guide to Grants for Single Mothers: Your Path to Financial Assistance
+## Guide to Grants for Single Mothers: Your Path to Financial Assistance
 
 Single mothers face unique financial challenges, but various grants and assistance programs can provide essential support. This guide covers everything you need to know about grants for single mothers, from education funding to housing and nutritional aid. 
 
