@@ -12,7 +12,7 @@ draft: false
 
 Single mothers face unique financial challenges, but various grants and assistance programs can provide essential support. This guide covers everything you need to know about grants for single mothers, from education funding to housing and nutritional aid. 
 
-######## Education Grants for Single Mothers
+#### Education Grants for Single Mothers
 
 #### Federal Pell Grant
 
@@ -45,7 +45,7 @@ Federal student loans are available for single mothers needing more financial as
   - Direct PLUS Loan: 8.05%
 - **Application**: Complete the FAFSA and indicate interest in student loans.
 
-######## Financial Assistance Programs
+#### Financial Assistance Programs
 
 #### Temporary Assistance for Needy Families (TANF)
 
@@ -86,7 +86,7 @@ Medicaid provides health insurance to low-income individuals, including many sin
 - **Income Limits**: Varies by state; generally below 138% of the federal poverty level.
 - **Application**: Apply through your state’s Medicaid office.
 
-######## Housing Assistance
+#### Housing Assistance
 
 #### Section 8 Rental Subsidy
 
@@ -100,7 +100,7 @@ This program provides affordable housing for low-income families, with tenants p
 
 - **Application**: Apply through your local housing authority.
 
-######## Utility Assistance
+#### Utility Assistance
 
 #### Low Income Home Energy Assistance Program (LIHEAP)
 
@@ -120,7 +120,7 @@ WAP helps reduce energy costs for low-income families by improving home energy e
 
 - **Application**: Contact your local WAP office.
 
-######## Additional Support Programs
+#### Additional Support Programs
 
 #### Earned Income Tax Credit (EITC)
 
