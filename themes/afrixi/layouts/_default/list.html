@@ -10,6 +10,8 @@
 {{ partial "articles/military" . }}
 {{else if and (.Layout) (eq .Layout "pay")}}
 {{ partial "articles/pay" . }}
+{{else if and (.Layout) (eq .Layout "benefits")}}
+{{ partial "articles/benefits" . }}
 {{else if and (.Layout) (eq .Layout "gs")}}
 {{ partial "articles/gs" . }}
 {{else if and (.Layout) (eq .Layout "executive")}}
