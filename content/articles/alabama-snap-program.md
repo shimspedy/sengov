@@ -8,7 +8,6 @@ image: snap.jpg
 draft: false
 ---
 
-
 The Supplemental Nutrition Assistance Program (SNAP) in Alabama is administered at the state level. The program aims to provide nutritional assistance to low-income individuals and families, helping them purchase healthy foods and maintain a balanced diet.
 
 #### Program Administration
