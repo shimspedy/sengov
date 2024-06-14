@@ -4,7 +4,7 @@ title: Free Phones for Seniors on Medicare
 seo_title: Free Phones for Seniors on Medicare
 description: In this guide, we’ll guide you through the world of free phones for seniors on Medicare, helping you stay connected, access valuable resources, and enjoy the convenience of modern communication without breaking the bank.
 date: 2024-06-13T05:45:23.641Z
-image: laptop.webp
+image: iphone.jpeg
 draft: false
 ---
 
