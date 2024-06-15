@@ -1,5 +1,5 @@
 ---
-date: 2024-06-13T10:02:20-04:00
+date: 2024-06-13T10:08:20-04:00
 title: "Seed Money Grants"
 seo_title: "Seed Money Grants"
 description: Seed funding is the initial money used to start a new business. Entrepreneurs and small businesses seek this early investment to bring their ideas to life. 
