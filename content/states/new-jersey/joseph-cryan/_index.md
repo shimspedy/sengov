@@ -33,7 +33,7 @@ In 2017, Cryan ran for the New Jersey Senate and won. He was sworn into office o
 
 Cryan was born and raised as a Roman Catholic. His father, John F. Cryan, an immigrant from County Roscommon, Ireland, was elected to the General Assembly and served as Sheriff of Essex County. Cryan's father had been charged in Federal court with racketeering and corruption, though the charges were dismissed due to prosecutorial mistakes.
 
-Cryan earned his B.A. in business administration from Belmont Abbey College in 1983. His professional experience includes working as undersheriff for the Union County Sheriff’s Office, as manager and owner of Cryan's Restaurant, and as operation's manager for ITT Avionics.
+Cryan earned his B.A. in business administration from Belmont Abbey College in 1983. His professional experience includes working as undersheriff for the Union County Sheriff's Office, as manager and owner of Cryan's Restaurant, and as operation's manager for ITT Avionics.
 
 As of the 2020 Census, New Jersey state senators represented an average of 232,362 residents. After the 2010 Census, each member represented 220,188 residents. The 20th Legislative District of New Jersey, which Cryan represents, is one of the 40 districts in the New Jersey Legislature. Each district has one representative in the New Jersey Senate and two members in the New Jersey General Assembly.
 
