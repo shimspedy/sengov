@@ -44,18 +44,18 @@ Joseph A. Lagana, born on December 15, 1978, is an American attorney and public 
    - In 2011, he and his Democratic running mate defeated two incumbent Republican councilmembers, securing a majority for Democrats.
    - As a result, Lagana was named council president in January 2013.
 
-4. **New Jersey General Assembly (2014–2018):**
+4. **New Jersey General Assembly (2014-2018):**
    - In 2014, Lagana declared his candidacy for the 38th district in the New Jersey General Assembly.
    - He won the election and was sworn in on January 14, 2014.
    - During his tenure, Lagana served as the Assembly's deputy parliamentarian from 2016 to 2017.
 
-5. **New Jersey Senate (2018–present):**
+5. **New Jersey Senate (2018-present):**
    - Following Robert M. Gordon's resignation in April 2018, Lagana was appointed to the New Jersey Senate.
    - He won a special election on November 6, 2018, to complete Gordon's unexpired term.
    - Lagana's legislative efforts have focused on health care access, public safety, and combating the opioid epidemic.
 
 6. **Committee Assignments:**
-   - In the 2023–2024 legislative session, Lagana serves as the chair of the Senate Labor Committee and is a member of the Senate Judiciary Committee.
+   - In the 2023-2024 legislative session, Lagana serves as the chair of the Senate Labor Committee and is a member of the Senate Judiciary Committee.
    - His dedication to improving labor policies and ensuring justice underscores his commitment to constituents.
 
 7. **Elections:**
