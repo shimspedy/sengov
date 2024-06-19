@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2024-06-18T11:54:12-05:00
 title: "Angie Craig"
 seo_title: "contact Representative Angie Craig"
 subheader:
@@ -41,10 +41,10 @@ Instead, I’ve prioritized listening to the concerns of the citizens I represen
 
 Since coming to Congress, I’m proud to have:
 
-     - Introduced 49 pieces of legislation, four of which were signed into law
-     - Cosponsored more than 800 bills, over three-quarters of which are bipartisan
-     - Hosted 34 town halls in all six counties in the Second District
-     - Met with over 15,000 Minnesotans
+- Introduced 49 pieces of legislation, four of which were signed into law
+- Cosponsored more than 800 bills, over three-quarters of which are bipartisan
+- Hosted 34 town halls in all six counties in the Second District
+- Met with over 15,000 Minnesotans
 
 I’ve fought to make healthcare more affordable for Minnesota families. I’ve authored and passed the State Health Care Premium Reduction Act to lower the cost of health insurance in the individual marketplace. I helped introduce legislation that would empower Medicare to negotiate drug prices and cap out of pocket costs for folks on Medicare Part D. For too long, Big Pharma has raked in enormous profits, while Americans are often forced to choose between putting food on the table and buying their prescribed medications. At the same time, I've worked across the aisle to expand access to mental health care and telehealth services, particularly for rural communities. I joined a bipartisan group of colleagues to introduce the Excellence in Mental Health and Addiction Treatment Act of 2021, which would expand access to community mental health centers. Your zip code should not determine the availability or quality of health services you receive, including mental health care.
 
