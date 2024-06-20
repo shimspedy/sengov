@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Jeb Bradley
      description: Joseph Edmund "Jeb" Bradley III was born on October 20, 1952. He is an American politician and a member of the Republican Party who serves in the New Hampshire Senate. He represents his hometown of Wolfeboro, New Hampshire, and 16 other towns in east-central New Hampshire for District 3.
 description: Contact Senator Jeb Bradley of New Hampshire. Contact information for Jeb Bradley includes email address, phone number, and mailing address.
-image: jeb-bradley.jpeg
+image: jeb-bradley.jpg
 video:
 url: /states/new-hampshire/jeb-bradley/
 weight: 1
