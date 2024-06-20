@@ -10,7 +10,7 @@ image:
 video: 
 imageurl: 
 imagedir: root
-url: /snap/alabama-snap
+url: /snap/california-snap
 weight: 6
 layout: benefits
 
