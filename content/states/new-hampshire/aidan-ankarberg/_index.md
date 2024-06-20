@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Aidan Ankarberg
      description: Aidan Ankarberg is an American politician who serves as a Republican member for the Strafford 7th district of the New Hampshire House of Representatives. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
 description: Contact Representative Aidan Ankarberg of New Hampshire. Contact information for Aidan Ankarberg includes email address, phone number, and mailing address.
-image: aidan-ankarberg.jpeg
+image: aidan-ankarberg.png
 video:
 url: /states/new-hampshire/aidan-ankarberg/
 weight: 1
