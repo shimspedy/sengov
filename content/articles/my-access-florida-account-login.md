@@ -14,12 +14,6 @@ Navigating the My ACCESS Florida Account can initially seem overwhelming, but wi
 
 Here, we address the details of logging in, resetting credentials, and creating a new account on the My ACCESS site. Additionally, common questions are answered to ensure a smooth and hassle-free experience, making it easier for Florida residents to access essential services.
 
-### Table of Contents
-- Accessing Your Florida Assistance Account
-- Steps for Account Access
-- Resetting ACCESS Florida User Credentials
-- Establishing Your ACCESS Florida Online Profile
-- MyAccessFlorida FAQs
 
 ### Accessing Your Florida Assistance Account
 
