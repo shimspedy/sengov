@@ -35,9 +35,4 @@ My goal is to continually improve Sengov and add useful features for readers. I'
  You can email us at johnnyhashim[ -at- ]gamil.com 
 
 
-
-
-
-![coffe](/qr.png)
-
 For More Caffeines here is the link to my support page [BUY ME COFFEE](https://www.buymeacoffee.com/sengov.com)
