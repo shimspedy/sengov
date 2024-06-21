@@ -1,16 +1,16 @@
 ---
 date: 2024-06-18T11:54:12-05:00
-title: "connecticut"
-seo_title: "connecticut Food Stamp Eligibility Calculator 2024 "
+title: "guam"
+seo_title: "guam Food Stamp Eligibility Calculator 2024 "
 subheader:
-     greeting: connecticut Food Stamp Eligibility Calculator 2024
+     greeting: guam Food Stamp Eligibility Calculator 2024
      description: Use our estimates to see if you may be eligible for SNAP (food stamps) and how much in monthly SNAP benefits you might qualify for
 description: Use our estimates to see if you may be eligible for SNAP (food stamps) and how much in monthly SNAP benefits you might qualify for
 image: 
 video: 
 imageurl: 
 imagedir: root
-url: /snap-calculator/connecticut-food-stamp-eligibility
+url: /snap-calculator/guam-food-stamp-eligibility
 weight: 1
 layout: calculator
 elderlyOrDisabled: "[2630, 3555, 4480, 5405, 6330, 7255, 8180, 9105]"
@@ -22,11 +22,11 @@ standardDeductions: "[198, 198, 198, 208, 244, 279]"
 
 ---
 
-### SNAP Eligibility in Connecticut
+### SNAP Eligibility in Guam
 
-To qualify for SNAP benefits in Connecticut, households must meet three eligibility tests: the Gross Income, Net Income, and Asset tests. Depending on whether a household member is 60 or older or has a disability, your household may be exempt from one or more of these tests.
+To qualify for SNAP benefits in Guam, households must meet three eligibility tests: the Gross Income, Net Income, and Asset tests. Depending on whether a household member is 60 or older or has a disability, your household may be exempt from one or more of these tests.
 
-Connecticut has expanded eligibility beyond the standard federal SNAP requirements, so you might see different financial eligibility requirements on other websites.
+Guam has expanded eligibility beyond the standard federal SNAP requirements, so you might see different financial eligibility requirements on other websites.
 
 While the Gross Income and Asset tests are straightforward, Net Income is more complex to calculate. We recommend using our SNAP Eligibility Calculator to determine if you qualify for SNAP benefits.
 
@@ -35,16 +35,16 @@ This information was collected from USDA and state SNAP resources but is not off
 #### Gross Income Limits
 Total monthly household income before taxes includes job income, self-employment income, and other income such as social security, disability, child support, worker's compensation, unemployment, and pension income.
 
-| Household Size | Gross Monthly Income Limit (200% of FPL) |
+| Household Size | Gross Monthly Income Limit (165% of FPL) |
 |----------------|-------------------------------------------|
-| 1 person       | $2,430                                    |
-| 2 people       | $3,288                                    |
-| 3 people       | $4,144                                    |
-| 4 people       | $5,000                                    |
-| 5 people       | $5,858                                    |
-| 6 people       | $6,714                                    |
-| 7 people       | $7,570                                    |
-| Each additional person | +$858                            |
+| 1 person       | $2,004                                    |
+| 2 people       | $2,712                                    |
+| 3 people       | $3,418                                    |
+| 4 people       | $4,125                                    |
+| 5 people       | $4,832                                    |
+| 6 people       | $5,539                                    |
+| 7 people       | $6,245                                    |
+| Each additional person | +$707                            |
 
 If the household has a member who is 60 or older or has a disability but is over the gross income limit, the household can instead qualify by meeting the Net Income and Asset tests.
 
@@ -65,7 +65,7 @@ Net income is a household's gross income minus deductions. Calculating net incom
 #### Asset/Resource Limit
 Countable resources include funds in bank accounts but exclude a home.
 
-There is no asset limit in Connecticut. If the household has a member who is 60 or older or has a disability and did not meet the Gross Income test, there is an asset limit of $4,250.
+There is no asset limit in Guam. If the household has a member who is 60 or older or has a disability and did not meet the Gross Income test, there is an asset limit of $4,250.
 
 Note: The SNAP application may still ask about your household's assets, even if the asset limit does not apply.
 
@@ -79,9 +79,24 @@ Note: The SNAP application may still ask about your household's assets, even if 
 
 **Utility Allowances**
 - Households can only receive one utility allowance. If a household qualifies for multiple allowances, choose the highest allowance.
-  - Heating and Cooling: $912
-  - Basic Utility Allowance: $402
-  - Phone: $34
+  - Single Utilities: If a household pays for the utility, this allowance can be claimed.
+
+**Utility Allowance Details by Household Size:**
+
+| Household Size | Electricity | Gas | Water | Sewage | Trash | Phone |
+|----------------|-------------|-----|-------|--------|-------|-------|
+| 1 person       | $173        | $36 | $38   | $28    | $30   | $28   |
+| 2 people       | $194        | $36 | $50   | $28    | $30   | $28   |
+| 3 people       | $199        | $36 | $50   | $28    | $30   | $28   |
+| 4 people       | $238        | $72 | $69   | $28    | $30   | $28   |
+| 5 people       | $270        | $72 | $85   | $28    | $30   | $28   |
+| 6 people       | $309        | $72 | $111  | $28    | $30   | $28   |
+| 7 people       | $351        | $108| $136  | $28    | $30   | $28   |
+| 8 people       | $368        | $108| $150  | $28    | $30   | $28   |
+| 9 people       | $393        | $108| $171  | $28    | $30   | $28   |
+| 10 people      | $393        | $108| $171  | $28    | $30   | $28   |
+| 11 people      | $403        | $108| $178  | $28    | $30   | $28   |
+| 12+ people     | $403        | $108| $178  | $28    | $30   | $28   |
 
 **Other Deductions**
 - Households can receive deductions for the following expenses. Shelter deductions (utilities, rent, and homeowners insurance) only apply for the amount that total shelter expenses exceed a percentage of household income and are limited to a maximum amount if the household does not contain a member who is 60 or older or has a disability.
@@ -95,11 +110,11 @@ SNAP benefits are based on a household's net income. Use our SNAP Eligibility Ca
 
 | Household Size | Maximum Monthly Benefit Amount |
 |----------------|--------------------------------|
-| 1 person       | $291                            |
-| 2 people       | $535                            |
-| 3 people       | $766                            |
-| 4 people       | $973                            |
-| 5 people       | $1,155                          |
-| 6 people       | $1,386                          |
-| 7 people       | $1,532                          |
+| 1 person       | $430                            |
+| 2 people       | $788                            |
+| 3 people       | $1,129                          |
+| 4 people       | $1,434                          |
+| 5 people       | $1,703                          |
+| 6 people       | $2,044                          |
+| 7 people       | $2,259                          |
 | Each additional person | +$429                  |

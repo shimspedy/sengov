@@ -22,3 +22,95 @@ standardDeductions: "[198, 198, 198, 208, 244, 279]"
 
 ---
 
+### SNAP Eligibility in Hawaii
+
+To qualify for SNAP benefits in Hawaii, households must meet three eligibility tests: the Gross Income, Net Income, and Asset tests. Depending on whether a household member is 60 or older or has a disability, your household may be exempt from one or more of these tests.
+
+Hawaii has expanded eligibility beyond the standard federal SNAP requirements, so you might see different financial eligibility requirements on other websites.
+
+While the Gross Income and Asset tests are straightforward, Net Income is more complex to calculate. We recommend using our SNAP Eligibility Calculator to determine if you qualify for SNAP benefits.
+
+This information was collected from USDA and state SNAP resources but is not official. This website is not affiliated with any government organization or SNAP/WIC program.
+
+#### Gross Income Limits
+Total monthly household income before taxes includes job income, self-employment income, and other income such as social security, disability, child support, worker's compensation, unemployment, and pension income.
+
+| Household Size | Gross Monthly Income Limit (200% of FPL) |
+|----------------|-------------------------------------------|
+| 1 person       | $2,796                                    |
+| 2 people       | $3,780                                    |
+| 3 people       | $4,766                                    |
+| 4 people       | $5,750                                    |
+| 5 people       | $6,736                                    |
+| 6 people       | $7,720                                    |
+| 7 people       | $8,706                                    |
+| Each additional person | +$986                            |
+
+If the household has a member who is 60 or older or has a disability but is over the gross income limit, the household can instead qualify by meeting the Net Income and Asset tests.
+
+#### Net Income Limits
+Net income is a household's gross income minus deductions. Calculating net income can be complex, as shelter-related expenses (utilities and rent) can only be deducted if they exceed half the household's income after other deductions. Additionally, there is a limit on the maximum shelter deduction for some households.
+
+| Household Size | Net Monthly Income Limit (100% of FPL) |
+|----------------|-----------------------------------------|
+| 1 person       | $1,398                                  |
+| 2 people       | $1,890                                  |
+| 3 people       | $2,383                                  |
+| 4 people       | $2,875                                  |
+| 5 people       | $3,368                                  |
+| 6 people       | $3,860                                  |
+| 7 people       | $4,353                                  |
+| Each additional person | +$493                          |
+
+#### Asset/Resource Limit
+Countable resources include funds in bank accounts but exclude a home.
+
+There is no asset limit in Hawaii. If the household has a member who is 60 or older or has a disability and did not meet the Gross Income test, there is an asset limit of $4,250.
+
+Note: The SNAP application may still ask about your household's assets, even if the asset limit does not apply.
+
+#### Deductions
+
+**Child Support Payments**
+- Court-ordered child support payments can be deducted when calculating net income.
+
+**Standard Medical Deduction**
+- Monthly out-of-pocket medical expenses for household members who are 60 or older or have a disability can be deducted when calculating net income. You can deduct the full amount of expenses (minus $35) with verification.
+
+**Utility Allowances**
+- Households can only receive one utility allowance. If a household qualifies for multiple allowances, choose the highest allowance.
+  - Single Utilities: If a household pays for the utility, this allowance can be claimed.
+
+**Utility Allowance Details by Household Size:**
+
+| Household Size | Electricity | Gas | Water | Sewage | Trash | Phone |
+|----------------|-------------|-----|-------|--------|-------|-------|
+| 1 person       | $300        | $300 | $57   | $95    | $95   | $40   |
+| 2 people       | $326        | $326 | $64   | $95    | $95   | $40   |
+| 3 people       | $378        | $378 | $70   | $95    | $95   | $40   |
+| 4 to 5 people  | $473        | $473 | $83   | $95    | $95   | $40   |
+| 6 people       | $559        | $559 | $95   | $95    | $95   | $40   |
+| 7+ people      | $632        | $632 | $114  | $95    | $95   | $40   |
+
+In Hawaii, you can alternatively choose to deduct actual utility expenses.
+
+**Other Deductions**
+- Households can receive deductions for the following expenses. Shelter deductions (utilities, rent, and homeowners insurance) only apply for the amount that total shelter expenses exceed a percentage of household income and are limited to a maximum amount if the household does not contain a member who is 60 or older or has a disability.
+  - A 20% deduction from job or self-employment income (earned income).
+  - Dependent care costs (including daycare, babysitters, or other child care) needed for work or school.
+  - Monthly rent or mortgage amount.
+  - Monthly homeowners insurance and taxes.
+
+#### Maximum Benefit Amounts
+SNAP benefits are based on a household's net income. Use our SNAP Eligibility Calculator to get an estimate of what you could receive in SNAP benefits.
+
+| Household Size | Maximum Monthly Benefit Amount |
+|----------------|--------------------------------|
+| 1 person       | $527                            |
+| 2 people       | $967                            |
+| 3 people       | $1,385                          |
+| 4 people       | $1,759                          |
+| 5 people       | $2,088                          |
+| 6 people       | $2,506                          |
+| 7 people       | $2,770                          |
+| Each additional person | +$493                  |
