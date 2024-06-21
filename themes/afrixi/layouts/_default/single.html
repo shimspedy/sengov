@@ -11,6 +11,9 @@
      {{else if and (.Layout) (eq .Layout "gs")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/gs" . }}
+          {{else if and (.Layout) (eq .Layout "calculator")}}
+          {{ partial "markup/article" . }}
+          {{ partial "articles/calculator" . }}
      {{else if and (.Layout) (eq .Layout "executive")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/executive" . }}

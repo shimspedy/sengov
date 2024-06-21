@@ -1,0 +1,141 @@
+
+<style>
+     form {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-size: 1em;
+            color: #212121;
+        }
+        input, select {
+            width: 100%;
+            margin-bottom: 20px;
+            padding: 10px;
+            background: antiquewhite;
+        }
+        .small-text {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        .result {
+            background-color: #FFF;
+            padding: 10px;
+            display: none; 
+        }
+
+        
+</style>
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="col xl2 l2 hide-on-med-and-down right-col-article" i style="padding-left: 0px">
+      {{ partial "nav/course-list" . }}
+    </aside>
+    <div class="col xl7 l7 m12 s12 sengov">
+<div class="intro">
+  <h4 class="title">  {{ .Params.seo_title }}</h4>
+  {{.Content}}
+</div>
+
+
+
+            <form id="{{.Params.title}}">
+
+                
+                <label for="householdSize">Household Size:</label>
+                <input class="browser-default" type="number" id="householdSize" name="householdSize" min="1" max="7" required>
+                <small class="small-text">Include everyone you live with and share meals with, such as children or young adults under 22, parents, and spouses, even if they buy and prepare food separately.</small>
+                <br><br>
+
+                <label for="elderlyOrDisabled">Does your household include someone who is 60 or older, or someone who has a disability?</label>
+                <select class="browser-default" id="elderlyOrDisabled" name="elderlyOrDisabled" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+                <br><br>
+                
+                <label for="student">Does your household include a student attending college, university, graduate school, or trade/technical school at least half-time?</label>
+                <select class="browser-default" id="student" name="student">
+                    <option value="" disabled selected>Select</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+                <br><br>
+                
+                <label for="grossIncome">Monthly household income before taxes from jobs or self-employment ($):</label>
+                <input class="browser-default" type="number" id="grossIncome" name="grossIncome" required>
+                <small class="small-text">Total monthly income before taxes from employment or self-employment.</small>
+                <br><br>
+                
+                <label for="otherIncome">Monthly household income from other sources ($):</label>
+                <input class="browser-default" type="number" id="otherIncome" name="otherIncome" required>
+                <small class="small-text">This includes Social Security, disability, child support, worker’s compensation, unemployment benefits, pension income, or other sources of income.</small>
+                <br><br>
+                
+                <label for="childcareExpenses">Childcare Expenses ($):</label>
+                <input class="browser-default" type="number" id="childcareExpenses" name="childcareExpenses">
+                <small class="small-text">Monthly costs of daycare, babysitters, or other child care needed for work.</small>
+                <br><br>
+                
+                <label for="medicalExpenses">Medical Expenses (for elderly or disabled) ($):</label>
+                <input class="browser-default" type="number" id="medicalExpenses" name="medicalExpenses">
+                <small class="small-text">Out-of-pocket medical expenses for elderly or disabled members that exceed $35.</small>
+                <br><br>
+                
+                <label for="shelterCosts">Shelter Costs (rent/mortgage) ($):</label>
+                <input class="browser-default" type="number" id="shelterCosts" name="shelterCosts">
+                <small class="small-text">Monthly rent or mortgage costs.</small>
+                <br><br>
+                
+                <label for="utilityCosts">Utility Costs ($):</label>
+                <input class="browser-default" type="number" id="utilityCosts" name="utilityCosts">
+                <small class="small-text">Monthly utility costs including heating, cooling, electricity, water, etc.</small>
+                <br><br>
+
+                <label for="childSupport">Monthly court-ordered child support payments ($):</label>
+                <input class="browser-default" type="number" id="childSupport" name="childSupport">
+                <small class="small-text">Legally obligated child support payments.</small>
+                <br><br>
+                
+                <button class="waves-effect waves-light btn pulse" type="button" onclick="calculateBenefits()">Calculate</button>
+            </form>
+
+
+            <div class="flow-text">
+              <h2 class="center">Results</h2>
+              <p id="eligibilityResult" class="result z-depth-3"></p>
+              <p id="benefitAmount" class="result z-depth-4"></p>
+              <div id="results" class="result z-depth-5"></div>
+            </div>
+           
+          
+           
+
+
+
+
+
+
+<script>
+      const grossIncomeLimits = elderlyOrDisabled 
+          ? {{.Params.elderlyOrDisabled  | safeJS }}
+          : {{.Params.regular  | safeJS }};
+      const netIncomeLimits = {{.Params.net  | safeJS }};
+      const maxBenefits = {{.Params.max  | safeJS }};
+      const standardDeductions = {{.Params.standardDeductions  | safeJS }};
+  
+</script>
+
+
+
+ </div>
+ <aside class="col xl3 l3 m12 s12  left-col-article" style="padding-right:0;position: sticky;top: 0;">
+   <div id="nav-side-ad">
+    {{- partial "ads/sidebar" . -}}  
+     {{- partial "ads/sidebar-custom" . -}}
+     {{- partial "social-icons/share" . -}}
+   </div>
+ </aside>
+</div>

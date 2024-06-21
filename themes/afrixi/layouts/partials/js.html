@@ -22,6 +22,7 @@
 {{ $gsovertimejs := resources.Get "js/gs-overtime.js" | minify }}
 {{ $tablejs := resources.Get "js/table.js" | minify }}
 {{ $indextablejs := resources.Get "js/indextable.js" | minify }}
+{{ $snapjs := resources.Get "js/snapcalc.js" | minify }}
 
 
 
@@ -29,6 +30,9 @@
 <script src="{{ $executivejs.RelPermalink }}"></script>
 {{ end }}
 
+{{ if eq .Params.layout "calculator" }}
+<script src="{{ $snapjs.RelPermalink }}"></script>
+{{ end }}
 
 {{ if eq .Params.data "leo" }}
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>

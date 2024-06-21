@@ -14,6 +14,8 @@
 {{ partial "articles/benefits" . }}
 {{else if and (.Layout) (eq .Layout "gs")}}
 {{ partial "articles/gs" . }}
+{{else if and (.Layout) (eq .Layout "calculator")}}
+{{ partial "articles/calculator" . }}
 {{else if and (.Layout) (eq .Layout "executive")}}
 {{ partial "articles/executive" . }}
 {{else if and (.Layout) (eq .Layout "voting")}}
