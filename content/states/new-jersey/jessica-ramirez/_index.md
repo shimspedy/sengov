@@ -33,7 +33,7 @@ Jessica was born in Puerto Rico and moved to New Jersey when she was eight years
 
 ## Legal Career and Community Service
 
-Jessica's legal career has allowed her to serve her community and advocate for the underrepresented. As a contract attorney for the Public Defender’s Office of New Jersey, she represented indigent clients and juveniles. During her time as the managing attorney of the Immigration Program of Catholic Charities, she defended individuals’ rights to seek asylum and provided legal counsel to families who had been separated, fighting against related policies.
+Jessica's legal career has allowed her to serve her community and advocate for the underrepresented. As a contract attorney for the Public Defenders Office of New Jersey, she represented indigent clients and juveniles. During her time as the managing attorney of the Immigration Program of Catholic Charities, she defended individuals rights to seek asylum and provided legal counsel to families who had been separated, fighting against related policies.
 
 ## Breaking Barriers
 

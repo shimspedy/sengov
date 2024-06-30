@@ -29,6 +29,6 @@ Gregory Myhre is an American realtor and Republican Party politician serving as 
 
 He lives in Ocean Acres, New Jersey, and earned a B.S. in geography from the University of Maryland. Myhre's career experience includes working as a licensed realtor, small business owner, and operations manager. He was elected mayor of Stafford Township, where he serves as the head of the executive branch and the face of the community.
 
-In the 2023 New Jersey General Assembly election, Myhre, along with incumbent Brian E. Rumpf, defeated Democrats Joseph Atura and Sarah 'Sally' Collins. The 9th legislative district is represented by Senator Carmen Amato, Assemblyman Greg Myhre, and Assemblyman Brian E. Rumpf for the 2024—2025 Legislative Session.
+In the 2023 New Jersey General Assembly election, Myhre, along with incumbent Brian E. Rumpf, defeated Democrats Joseph Atura and Sarah 'Sally' Collins. The 9th legislative district is represented by Senator Carmen Amato, Assemblyman Greg Myhre, and Assemblyman Brian E. Rumpf for the 2024-2025 Legislative Session.
 
 As a dedicated public servant, Myhre continues to contribute to the well-being of Stafford Township and its residents. His commitment to leadership and community service remains steadfast, and he strives to make a positive impact on the lives of those he represents.

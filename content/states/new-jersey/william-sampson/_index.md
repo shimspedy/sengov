@@ -38,7 +38,7 @@ In the 2021 New Jersey General Assembly election, Sampson won the support of May
 In the 2023 New Jersey General Assembly election, Sampson and McKnight were re-elected. They defeated Republican candidates Angelique M. Diaz and Sydney J. Ferreira, as well as two independent candidates.
 
 **Committees:**
-In the 2024—2025 Legislative Session, Sampson serves on the following committees:
+In the 2024-2025 Legislative Session, Sampson serves on the following committees:
 - **Consumer Affairs** (as chair)
 - **Labor** (as vice-chair)
 

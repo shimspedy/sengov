@@ -29,7 +29,7 @@ Rosy Bagolie is an American school administrator and Democratic Party politician
 
 In 2022, Bagolie was elected to the Livingston Township Council. Following the 2021 reapportionment, the district boundaries shifted, and Bagolie became one of the two Democratic Assembly candidates in the 27th district. In the 2023 New Jersey General Assembly election, she and Alixon Collazos-Gill defeated the Republican candidates. Bagolie was one of 27 members elected for the first time to serve in the General Assembly in 2024.
 
-Her committee assignments for the 2024—2025 Legislative Session include Education and Financial Institutions and Insurance. The representatives from the 27th District for the same session are Senator John F. McKeon, Assemblyman Rosy Bagolie, and Assemblywoman Alixon Collazos-Gill.
+Her committee assignments for the 2024-2025 Legislative Session include Education and Financial Institutions and Insurance. The representatives from the 27th District for the same session are Senator John F. McKeon, Assemblyman Rosy Bagolie, and Assemblywoman Alixon Collazos-Gill.
 
 Bagolie's journey from the Dominican Republic to her current role in New Jersey exemplifies her commitment to public service and education. Her diverse background and experience contribute to her role as a legislator, and she continues to advocate for her constituents and the community.
 

@@ -36,7 +36,7 @@ Biography:
   - In the wake of the 2021 apportionment, the Hudson County Democratic Organization selected Allen and Jessica Ramirez to run for the two Assembly seats in the 32nd district.
   - In the 2023 New Jersey General Assembly election, Allen and Ramirez defeated Republican Robert Ramos.
   - Allen was one of 27 members elected for the first time in 2023 to serve in the General Assembly.
-- **Committees** (2024—2025 Legislative Session):
+- **Committees** (2024-2025 Legislative Session):
   - Financial Institutions and Insurance
   - Housing
   - Tourism, Gaming, and the Arts

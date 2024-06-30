@@ -27,7 +27,7 @@ twitter: jimholzapfel
 ---
 James William "Jim" Holzapfel was born on October 9, 1944. He is an American lawyer and a politician from the Republican Party. He has been serving in the New Jersey State Senate since January 10, 2012, representing the 10th legislative district. Before his election to the Senate, he had served in the New Jersey General Assembly since 2003.
 
-Holzapfel was born in Point Pleasant Beach, New Jersey, and is a graduate of Point Pleasant Beach High School. He received a B.A. from Monmouth College in Pre-Law and was awarded a J.D. degree from the Seton Hall University School of Law. He resides in Toms River, New Jersey. He is married to Joyce Holzapfel (née Holden) and they have two children, Dennis and Jennifer.
+Holzapfel was born in Point Pleasant Beach, New Jersey, and is a graduate of Point Pleasant Beach High School. He received a B.A. from Monmouth College in Pre-Law and was awarded a J.D. degree from the Seton Hall University School of Law. He resides in Toms River, New Jersey. He is married to Joyce Holzapfel (n'e Holden) and they have two children, Dennis and Jennifer.
 
 In his early career, Holzapfel served as a Trustee of Ocean County College from 1988 to 1994. He was the Ocean County Prosecutor from 1987 to 1992. Holzapfel has been admitted to practice law since 1969 before the New Jersey Supreme Court, the Supreme Court of the United States, and the Florida Supreme Court.
 

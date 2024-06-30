@@ -29,6 +29,6 @@ Margie Donlon is an American Democratic Party politician serving as a member of 
 
 In July 2019, she took office on the Township Council of Ocean Township, Monmouth County, New Jersey. As Deputy Mayor of Ocean Township, Donlon has been a major advocate for open space, shared services, and programs supporting seniors and veterans.
 
-In the 2023 New Jersey General Assembly election, led by running mate Vin Gopal in the New Jersey Senate, Democrats Donlon and Luanne Peterpaul defeated Republican incumbents Marilyn Piperno and Kimberly Eulner to represent the 11th legislative district. The 11th District representatives for the 2024—2025 Legislative Session are Senator Vin Gopal (D), Assemblywoman Margie Donlon (D), and Assemblywoman Luanne Peterpaul (D).
+In the 2023 New Jersey General Assembly election, led by running mate Vin Gopal in the New Jersey Senate, Democrats Donlon and Luanne Peterpaul defeated Republican incumbents Marilyn Piperno and Kimberly Eulner to represent the 11th legislative district. The 11th District representatives for the 2024-2025 Legislative Session are Senator Vin Gopal (D), Assemblywoman Margie Donlon (D), and Assemblywoman Luanne Peterpaul (D).
 
 Donlon's electoral history includes winning the 11th Legislative District General Election in 2023, where she received 32,005 votes (28.6%) alongside Luanne Peterpaul. The election marked a Democratic gain from Republican representation in the district.

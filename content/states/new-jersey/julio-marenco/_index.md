@@ -42,7 +42,7 @@ Raised in Union City, New Jersey, Marenco has a diverse background. He served on
 4. **Election to the General Assembly:** Following the 2021 apportionment, the Hudson County Democratic Organization selected Marenco and Gabe Rodriguez to run for the two Assembly seats in the 33rd district. They emerged victorious in the 2023 New Jersey General Assembly election, with Marenco being one of 27 members elected for the first time that year.
 
 **Committees:**
-For the 2024—2025 Legislative Session, Marenco serves on the following committees:
+For the 2024-2025 Legislative Session, Marenco serves on the following committees:
 - Public Safety and Preparedness
 - Science, Innovation, and Technology
 - Telecommunications and Utilities

@@ -33,5 +33,5 @@ Before his tenure in the Senate, Henry served on the board of education of the O
 
 He defeated Democratic challenger Brandon Rose by a vote of 28,038 (62.2%) to 16,265 (36.1%) in the 2023 New Jersey Senate election, with independent candidate Nina Jochnowitz collecting 806 votes. Henry was one of 10 members elected for the first time in 2023 to serve in the Senate, one quarter of all seats.
 
-Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 12th District for the 2024—2025 Legislative Session are: Senator Owen Henry (R), Assemblyman Robert D. Clifton (R), and Assemblyman Alex Sauickie (R).
+Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 12th District for the 2024-2025 Legislative Session are: Senator Owen Henry (R), Assemblyman Robert D. Clifton (R), and Assemblyman Alex Sauickie (R).
 

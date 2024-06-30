@@ -35,7 +35,7 @@ In May 2018, Tully and Lisa Swain were appointed to the New Jersey General Assem
 
 Tully has been actively involved in legislative matters. In 2020, he co-sponsored Assembly Bill 4454 (now N.J.S.A. 18A:35-4.36a), which mandates that a curriculum on diversity and inclusion be part of the school curriculum for students in kindergarten through twelfth grade.
 
-His committee assignments for the 2024—2025 Legislative Session include:
+His committee assignments for the 2024-2025 Legislative Session include:
 - Chair of the Science, Innovation and Technology Committee
 - Vice-chair of the Commerce, Economic Development, and Agriculture Committee
 - Member of the Health Committee

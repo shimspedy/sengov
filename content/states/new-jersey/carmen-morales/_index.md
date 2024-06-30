@@ -37,7 +37,7 @@ Morales works as the director of curriculum and instruction at the Essex County 
 In the wake of the 2021 apportionment, the Essex County Democratic Organization selected Morales to run for one of the two Assembly seats in the 34th district. Alongside fellow newcomer Michael Venezia, she defeated Republicans Clenard H. Childress Jr. and James McGuire in the 2023 New Jersey General Assembly election. Notably, Morales was one of 27 members elected for the first time in 2023 to serve in the General Assembly.
 
 ## Committee Assignments
-For the 2024—2025 Legislative Session, Morales serves on the following committees:
+For the 2024-2025 Legislative Session, Morales serves on the following committees:
 - Commerce, Economic Development, and Agriculture
 - Education
 

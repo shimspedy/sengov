@@ -29,7 +29,7 @@ Michael Torrissi Jr. (born 1974) is an American Republican Party politician who 
 
 In February 2011, Torrissi was appointed to fill the vacant Hammonton Town Council seat that had been held by James Bertino until he resigned to take a seat on the Board of County Freeholders; he served until 2012. He also served on the Hammonton council from 2011 to 2012 and again from 2015 to 2020.
 
-The 8th Legislative District in New Jersey includes one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 8th District for the 2024—2025 Legislative Session are Senator Latham Tiver (R), Assemblyman Andrea Katz (D), and Assemblywoman Michael Torrissi (R).
+The 8th Legislative District in New Jersey includes one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 8th District for the 2024-2025 Legislative Session are Senator Latham Tiver (R), Assemblyman Andrea Katz (D), and Assemblywoman Michael Torrissi (R).
 
 In the 2023 general election, Torrissi secured his seat with 27,881 votes (25.3%), alongside Democratic candidate Andrea Katz. The 2021 general election also saw Torrissi as a Republican hold, with 40,467 votes (26.45%).
 

@@ -29,5 +29,5 @@ Garnet R. Hall is an American Democratic Party politician serving as a member of
 
 In the 2023 New Jersey General Assembly election, Hall ran together with State Senator Renee Burgess as part of the first slate for the legislature composed entirely of African-American women. They defeated Republicans Joy Freeman and Willie S. Jetti. Hall was one of 27 members elected for the first time to serve in the General Assembly, representing more than one-third of the seats.
 
-Committee assignments for the 2024—2025 Legislative Session include Consumer Affairs, Environment, Natural Resources, and Solid Waste, and Labor. The 28th Legislative District, which Hall represents, covers Essex and Union counties and includes municipalities such as Hillside, Irvington, Maplewood, Newark, and South Orange[^1^][1] [^2^][3].
+Committee assignments for the 2024-2025 Legislative Session include Consumer Affairs, Environment, Natural Resources, and Solid Waste, and Labor. The 28th Legislative District, which Hall represents, covers Essex and Union counties and includes municipalities such as Hillside, Irvington, Maplewood, Newark, and South Orange.
 

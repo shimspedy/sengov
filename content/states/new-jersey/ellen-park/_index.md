@@ -31,12 +31,12 @@ Born in South Korea, Park moved to the United States as a child and was raised i
 
 Before her election to the New Jersey General Assembly, Park served on the Englewood Cliffs, New Jersey Borough Council. In the November 2021 general election, she was elected together with her running mates, becoming the first Korean woman to serve in the state legislature. Since 2024, Park has served in the Assembly as Parliamentarian.
 
-Committee assignments for the 2024—2025 Legislative Session include:
+Committee assignments for the 2024-2025 Legislative Session include:
 - **Judiciary** (as chair)
 - **Budget**
 - **Commerce, Economic Development, and Agriculture**
 
-The 37th District representatives for the 2024—2025 Legislative Session are:
+The 37th District representatives for the 2024-2025 Legislative Session are:
 - **Senator Gordon M. Johnson** (D)
 - **Assemblywoman Shama Haider** (D)
 - **Assemblywoman Ellen Park** (D)

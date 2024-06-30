@@ -37,7 +37,7 @@ Haider's commitment to public service began at the local level. She was elected 
 In the November 2021 general election, Shama Haider achieved a significant milestone. Alongside her running mates Gordon M. Johnson (Senate) and Ellen Park (Assembly), she secured victory, becoming one of the first two Muslim women to serve in the New Jersey state legislature. Her election reflects the growing diversity and representation within the political landscape.
 
 ## Legislative Accomplishments
-Since taking office, Haider has actively contributed to legislative efforts. In the Assembly, she serves as Deputy Majority Leader and holds key committee assignments for the 2024—2025 Legislative Session:
+Since taking office, Haider has actively contributed to legislative efforts. In the Assembly, she serves as Deputy Majority Leader and holds key committee assignments for the 2024-2025 Legislative Session:
 
 - **Children, Families, and Food Security (Chair)**: Haider's leadership in this committee focuses on ensuring the well-being of New Jersey's children and families.
 - **Appropriations**: As a member of the Appropriations Committee, she plays a crucial role in budgetary matters.

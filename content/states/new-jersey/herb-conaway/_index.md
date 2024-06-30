@@ -30,7 +30,7 @@ Herbert C. Conaway Jr., born on January 30, 1963, is an American Democratic Part
 **Early Life and Education:**
 Conaway was born at St. Francis Medical Center in Trenton, New Jersey. His parents, Eva Christine Conaway (a nurse) and Herb Conaway Sr. (a history teacher), instilled a strong sense of community service in him. Growing up in Bordentown, he attended high school there before pursuing higher education.
 
-He earned his A.B. in politics from Princeton University in 1985, where he completed a 67-page senior thesis titled "Black Political Strategy." Later, he obtained an M.D. degree from Jefferson Medical College at Thomas Jefferson University and a J.D. from Rutgers School of Law—Newark. Remarkably, Conaway is the only legislator to hold both an M.D. and a J.D. degree.
+He earned his A.B. in politics from Princeton University in 1985, where he completed a 67-page senior thesis titled "Black Political Strategy." Later, he obtained an M.D. degree from Jefferson Medical College at Thomas Jefferson University and a J.D. from Rutgers School of Law-Newark. Remarkably, Conaway is the only legislator to hold both an M.D. and a J.D. degree.
 
 **Military Service and Medical Career:**
 From 1992 to 1996, Conaway served in the United States Air Force Medical Corps, achieving the rank of Captain. His duties included serving at McGuire Air Force Base in Burlington County as a general medical officer and assistant director of the primary care clinic. Even while serving in the legislature, he continues to practice medicine, specializing in internal medicine. Currently, he serves as the director of the internal medicine clinic at St. Francis Medical Center in Trenton.

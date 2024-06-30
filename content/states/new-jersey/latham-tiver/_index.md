@@ -33,9 +33,9 @@ Before his tenure in the Senate, Tiver served on the Southampton Township Commit
 
 Tiver defeated Democrat Gaye Burton in the 2023 New Jersey Senate election. He was one of 10 members elected for the first time in 2023 to serve in the Senate, which is one quarter of all seats.
 
-Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 8th District for the 2024—2025 Legislative Session are Senator Latham Tiver (R), Assemblyman Andrea Katz (D), and Assemblywoman Michael Torrissi (R).
+Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 8th District for the 2024-2025 Legislative Session are Senator Latham Tiver (R), Assemblyman Andrea Katz (D), and Assemblywoman Michael Torrissi (R).
 
 Tiver has a track record of getting things done for South Jersey. He cut county property taxes, while investing in farmland preservation, 911 communications upgrades, and enhancing school security. He is a Business Representative for the Operating Engineers Local 825, where he focuses on infrastructure improvements that help create jobs and grow the economy.
 
-Tiver was born and raised in South Jersey and has been married to his high school sweetheart for 25 years. He and his wife have two children, and Tiver has volunteered as a baseball coach and isn’t ashamed to admit he’s a devoted “Dance Dad” for his daughter, a competitive dancer. Senator Tiver is a strong voice for the working class, lower taxes, and the rule of law.
+Tiver was born and raised in South Jersey and has been married to his high school sweetheart for 25 years. He and his wife have two children, and Tiver has volunteered as a baseball coach and isn-t ashamed to admit he-s a devoted -Dance Dad- for his daughter, a competitive dancer. Senator Tiver is a strong voice for the working class, lower taxes, and the rule of law.
 

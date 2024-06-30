@@ -25,7 +25,7 @@ website: https://www.njleg.state.nj.us/legislative-roster/430/senator-schepisi/
 email : https://www.njleg.state.nj.us/legislative-roster/430/senator-schepisi/
 twitter: hollyschepisi
 ---
-Holly Schepisi has been an Assemblywoman since 2012 and was sworn into the Senate to fill the seat of the late Senator Gerry Cardinale on March 26, 2021.  Senator Schepisi represents the 39th Legislative District, which includes twenty municipalities in Bergen County and three municipalities in Passaic County.  Ms. Schepisi earned Bachelor’s degrees in politics and psychology in 1993 from Catholic University of America and a law degree from Fordham University Law School in 1997. 
+Holly Schepisi has been an Assemblywoman since 2012 and was sworn into the Senate to fill the seat of the late Senator Gerry Cardinale on March 26, 2021.  Senator Schepisi represents the 39th Legislative District, which includes twenty municipalities in Bergen County and three municipalities in Passaic County.  Ms. Schepisi earned Bachelor's degrees in politics and psychology in 1993 from Catholic University of America and a law degree from Fordham University Law School in 1997. 
 
 Senator Schepisi is a practicing attorney and started her own firm, Schepisi Consulting & Law, LLC.  Most recently, she served as Vice President of Holy Name Medical Center and President of its Foundation. Prior to her role at Holy Name, she was special counsel at the law firm of Huntington Bailey, LLP, where she practiced governmental law, corporate law, land use law, employment matters, criminal defense, and structured finance law.
 

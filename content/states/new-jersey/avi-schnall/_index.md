@@ -31,4 +31,4 @@ Schnall's victory in the 2023 New Jersey General Assembly election was described
 
 Before entering politics, Avi Schnall earned a bachelor's degree from the Talmudical Yeshiva of Philadelphia and a master's degree from Beth Medrash Govoha. His career experience includes working as the national director of Chillzone at Oorah Inc and as the director of Agudath Israel of America's New Jersey office.
 
-As a legislator, Schnall serves on the Education and State and Local Government committees for the 2024—2025 Legislative Session. He represents Monmouth and Ocean counties in the 30th Legislative District, which includes municipalities such as Avon-by-the-Sea, Belmar, Farmingdale, Howell, Lake Como, Lakewood, and Wall.
+As a legislator, Schnall serves on the Education and State and Local Government committees for the 2024-2025 Legislative Session. He represents Monmouth and Ocean counties in the 30th Legislative District, which includes municipalities such as Avon-by-the-Sea, Belmar, Farmingdale, Howell, Lake Como, Lakewood, and Wall.

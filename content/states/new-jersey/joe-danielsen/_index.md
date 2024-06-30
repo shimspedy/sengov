@@ -36,12 +36,12 @@ Danielsen received an A.S. in Marketing, Art, and Design from Middlesex County C
 New Jersey Assembly:
 Danielsen was appointed to fill the vacant seat of Upendra J. Chivukula, and he officially took office on October 16, 2014. He currently serves as Deputy Whip in the General Assembly since 2020.
 
-Committee Assignments (2022—23 Legislative Session):
+Committee Assignments (2022-23 Legislative Session):
 - Oversight, Reform and Federal Relations (Chair)
 - Agriculture and Food Security
 - Financial Institutions and Insurance
 
-Representatives from the 17th District for the 2024—2025 Legislative Session:
+Representatives from the 17th District for the 2024-2025 Legislative Session:
 - Senator Bob Smith (D)
 - Assemblyman Joseph Danielsen (D)
 

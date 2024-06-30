@@ -36,13 +36,13 @@ Prior to entering politics, he worked in the insurance and financial services in
 In the New Jersey General Assembly, Stanley was chosen by a special convention of Democratic Party county committee members and assumed office on January 27, 2021, succeeding Nancy Pinkin. Notably, in an area containing the largest concentration of Asian Americans in New Jersey, Stanley became the first Asian legislator to be elected to represent the 18th Legislative district.
 
 **Committees:**
-For the 2024—2025 Legislative Session, Stanley holds the following committee assignments:
+For the 2024-2025 Legislative Session, Stanley holds the following committee assignments:
 - Chairman of the Assembly Regulated Professions Committee (ARP)
 - Vice-Chairman of the Assembly Education Committee (AED)
 - Member of the Assembly Financial Institutions & Insurance Committee (AFI)
 
 **District 18:**
-New Jersey's 18th Legislative District represents the Middlesex County municipalities of East Brunswick, Edison, Highland Park, Metuchen, Milltown, South Plainfield, and South River. Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 18th District for the 2024—2025 Legislative Session are:
+New Jersey's 18th Legislative District represents the Middlesex County municipalities of East Brunswick, Edison, Highland Park, Metuchen, Milltown, South Plainfield, and South River. Each of the 40 districts in the New Jersey Legislature has one representative in the New Jersey Senate and two members in the New Jersey General Assembly. The representatives from the 18th District for the 2024-2025 Legislative Session are:
 - Senator Patrick J. Diegnan (D)
 - Assemblyman Robert Karabinchak (D)
 - Assemblyman Sterley Stanley (D)

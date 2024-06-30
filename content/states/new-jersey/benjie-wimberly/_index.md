@@ -31,14 +31,14 @@ Benjie E. Wimberly, born on December 1, 1964, is an American teacher and Democra
 Wimberly graduated from Passaic County Technical Institute in Wayne, New Jersey. He then attended Virginia State University, where he earned a Bachelor of Arts degree in sociology.
 
 **Football Coach:**
-Wimberly's coaching journey began as an assistant coach for Eastside High School in Paterson from 1989 to 1994. Later, he served as the head coach of the football team at Paterson Catholic High School from 1995 to 2010. During his tenure at Paterson Catholic, Wimberly achieved an impressive 70–3 win–loss record and mentored Victor Cruz. The team secured seven state championships under his leadership.
+Wimberly's coaching journey began as an assistant coach for Eastside High School in Paterson from 1989 to 1994. Later, he served as the head coach of the football team at Paterson Catholic High School from 1995 to 2010. During his tenure at Paterson Catholic, Wimberly achieved an impressive 70-3 win-loss record and mentored Victor Cruz. The team secured seven state championships under his leadership.
 
 In 2012, Wimberly became the head coach of the football team at Hackensack High School, succeeding Mike Miello. Simultaneously, he took on the role of Paterson's Recreation Director.
 
 **Elective Office:**
 Wimberly's political career took off when he was elected to the Paterson city council in 2010. His campaign strategy, inspired by Barack Obama's youth-focused approach during the 2008 presidential election, resonated with young voters. In 2011, he won a seat in the New Jersey General Assembly and was reelected in 2013. Notably, Wimberly co-sponsored Assembly Bill 4454 (now N.J.S.A. 18A:35-4.36a), which mandates diversity and inclusion curriculum in schools from kindergarten through twelfth grade.
 
-**Committee Assignments (2024—2025):**
+**Committee Assignments (2024-2025):**
 - Budget (Vice-chair)
 - Higher Education
 - Housing

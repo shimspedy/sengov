@@ -31,7 +31,7 @@ Lisa Swain (born April 1958) is an American Democratic Party politician. She has
 Swain served as the Mayor of Fair Lawn, New Jersey, for two terms and was previously a member of Fair Lawn's council for 11 years. In May 2018, she and Chris Tully were appointed to the New Jersey General Assembly's 38th District seats after Assemblymen Joseph Lagana and Tim Eustace resigned from their positions to pursue other opportunities.
 
 ## Committee Assignments
-For the 2024—2025 Legislative Session, Swain holds the following committee assignments:
+For the 2024-2025 Legislative Session, Swain holds the following committee assignments:
 - **Appropriations** (as chair)
 - **State and Local Government** (as vice-chair)
 - **Education**

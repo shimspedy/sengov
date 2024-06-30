@@ -37,15 +37,15 @@ New Jersey Assembly:
 In December 2017, Marlene Caride was nominated by incoming Governor Phil Murphy to head the New Jersey Department of Banking and Insurance, leading to her resignation from office in January 2018. Calabrese was chosen by Democratic county committee members from Bergen County and Passaic County to fill the vacancy. He was sworn in on February 8, 2018, becoming the youngest serving member in the General Assembly at the age of 31.
 
 Committees:
-For the 2024—2025 Legislative Session, Calabrese serves on the following committees:
+For the 2024-2025 Legislative Session, Calabrese serves on the following committees:
 - Transportation and Independent Authorities (as chair)
 - Tourism, Gaming, and the Arts (as vice-chair)
 
 District 36 Representatives:
-The 36th District representatives for the 2024—2025 Legislative Session are:
+The 36th District representatives for the 2024-2025 Legislative Session are:
 - Senator Paul Sarlo (D)
 - Assemblyman Clinton Calabrese (D)
 - Assemblyman Gary Schaer (D)
 
 Legislation:
-In the 2018–2019 legislative session, Calabrese was the primary sponsor of a bill that requires the display of identifying information on the rear of school buses to allow the public to report bus driver misconduct.
+In the 2018-2019 legislative session, Calabrese was the primary sponsor of a bill that requires the display of identifying information on the rear of school buses to allow the public to report bus driver misconduct.

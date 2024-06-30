@@ -33,11 +33,11 @@ Before entering state politics, Senator Turner served on the Mercer County Board
 
 In the 1997 general election, Turner defeated incumbent Republican Dick LaRossa, making him the only Republican Senator to lose his seat. Turner was elected State Senate President Pro Tempore on January 9, 2024.
 
-As a career educator, Senator Turner has been dedicated to New Jersey’s youth, helping them to build bright futures. She is a former Trenton public school teacher, a former EOF counselor to disadvantaged youth who are first-generation college students, and a former counselor for the New Jersey Youth Corps to help prepare youth for employment.
+As a career educator, Senator Turner has been dedicated to New Jersey's youth, helping them to build bright futures. She is a former Trenton public school teacher, a former EOF counselor to disadvantaged youth who are first-generation college students, and a former counselor for the New Jersey Youth Corps to help prepare youth for employment.
 
 Her professional experience includes working as the associate director of career services at Rider University. She has also been a leader on civil rights issues, introducing legislation to eliminate racial profiling and strengthen the relationship between law enforcement and the community. She also sponsored the law that abolished the death penalty in New Jersey, replacing it with life imprisonment.
 
-Senator Turner serves on the Governor’s Task Force on Child Abuse and Neglect, the State Council for Adult Literacy Education Services, and the Martin Luther King Jr. Commission. She is a commissioner of the Education Commission of the States and serves on the organization’s steering and finance committees.
+Senator Turner serves on the Governor's Task Force on Child Abuse and Neglect, the State Council for Adult Literacy Education Services, and the Martin Luther King Jr. Commission. She is a commissioner of the Education Commission of the States and serves on the organization's steering and finance committees.
 
-As of the 2020 Census, New Jersey state senators represented an average of 232,362 residents. After the 2010 Census, each member represented 220,188 residents. The representatives from the 15th District for the 2024—2025 Legislative Session are Senator Shirley Turner (D), Assemblywoman Verlina Reynolds-Jackson (D), and Assemblyman Anthony Verrelli (D).
+As of the 2020 Census, New Jersey state senators represented an average of 232,362 residents. After the 2010 Census, each member represented 220,188 residents. The representatives from the 15th District for the 2024'2025 Legislative Session are Senator Shirley Turner (D), Assemblywoman Verlina Reynolds-Jackson (D), and Assemblyman Anthony Verrelli (D).
 

@@ -33,7 +33,7 @@ Barbara has an extensive background in Democratic politics. She has served on th
 
 In the 2023 New Jersey General Assembly election, Barbara McCann Stamato and her incumbent running mate, William Sampson, defeated their Republican opponents. Barbara was one of 27 members elected for the first time to serve in the General Assembly, representing more than one-third of the seats.
 
-For the 2024—2025 Legislative Session, Barbara McCann Stamato serves on the following committees:
+For the 2024-2025 Legislative Session, Barbara McCann Stamato serves on the following committees:
 - Community Development and Women's Affairs
 - Transportation and Independent Authorities
 

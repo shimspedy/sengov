@@ -37,7 +37,7 @@ Elected to the Roselle borough council in 2016, Atkins continued to make a posit
 As an ordained clergyman, Atkins brings a unique perspective to the New Jersey Legislature. His faith informs his commitment to justice, compassion, and equality. He believes in keeping God first in all aspects of life, including his legislative work. His presence in the Assembly reflects the diversity and richness of New Jersey's communities.
 
 ### Legislative Contributions
-Atkins serves on several committees during the 2024—2025 Legislative Session:
+Atkins serves on several committees during the 2024-2025 Legislative Session:
 - **Oversight, Reform, and Federal Relations (as chair):** Ensuring transparency, accountability, and effective governance.
 - **Higher Education (as vice-chair):** Advocating for accessible and quality higher education opportunities.
 - **Aging and Human Services:** Addressing the needs of New Jersey's aging population and vulnerable communities.

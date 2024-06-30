@@ -39,7 +39,7 @@ As a Democratic county committee member, Reynolds-Jackson actively participated 
 When Assemblywoman Elizabeth Maher Muoio was nominated by Governor Phil Murphy to serve as the Treasurer of New Jersey, Reynolds-Jackson stepped up to succeed her. She was chosen at a February 10 Democratic county convention from Mercer County and Hunterdon County. Reynolds-Jackson has been serving in the Assembly since then, contributing to various committees and initiatives.
 
 She currently holds the following roles:
-- Vice-Chair of the Assembly’s Commerce and Economic Development committee
+- Vice-Chair of the Assemblys Commerce and Economic Development committee
 - Member of the Budget and Higher Education committees
 - Passionate advocate for maternal and infant health, sponsoring A-5472, which established the New Jersey Maternal and Infant Health Innovation Authority.
 

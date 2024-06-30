@@ -33,7 +33,7 @@ Mukherji's professional journey is equally impressive. He has worked as an entre
 
 In addition to his political and professional roles, Mukherji has a commendable military background. He served in Military Intelligence for the United States Marine Corps Reserve from 2001 to 2009, enlisting just two weeks following the September 11th terrorist attacks.
 
-Throughout his political career, Mukherji has been assigned to several committees. In the Senate, he serves as Vice Chairman of the Transportation Committee and is a member of the Health, Human Services and Senior Citizens, and Military and Veterans’ Affairs Committees. In the Assembly, he served as Chairman of the Judiciary Committee and Vice Chairman of the Appropriations Committee and Telecommunications and Utilities Committee.
+Throughout his political career, Mukherji has been assigned to several committees. In the Senate, he serves as Vice Chairman of the Transportation Committee and is a member of the Health, Human Services and Senior Citizens, and Military and Veterans Affairs Committees. In the Assembly, he served as Chairman of the Judiciary Committee and Vice Chairman of the Appropriations Committee and Telecommunications and Utilities Committee.
 
 Mukherji's entrepreneurial spirit was evident from a young age, as he started multiple successful businesses before completing his teenage years. He was sworn into his first public office at age 24. At 28, Mukherji won a six-way Democratic primary election for the State Assembly by a 36-point margin in 2013 and won the November general election by a 20-point margin, becoming the second South Asian legislator in state history.
 

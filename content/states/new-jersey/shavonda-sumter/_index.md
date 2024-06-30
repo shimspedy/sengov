@@ -42,4 +42,4 @@ Sumter's leadership within the New Jersey General Assembly has been notable. She
 As a resident of Paterson, Sumter is deeply connected to her community. She is married to Kenneth Sumter and has two children: Tyler (born in 1998) and Kenneth Jr. (born in 2000).
 
 **Current Role:**
-Currently, Assemblywoman Sumter represents the 35th Legislative District, which includes parts of Bergen and Passaic County. She continues to advocate for health care access and serves as the President and CEO of Children’s Aid and Family Services.
+Currently, Assemblywoman Sumter represents the 35th Legislative District, which includes parts of Bergen and Passaic County. She continues to advocate for health care access and serves as the President and CEO of Childrens Aid and Family Services.
