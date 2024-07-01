@@ -58,10 +58,48 @@ To apply for a free tablet, follow these steps:
 
 ## Documents Required for Free Government Tablets for Seniors
 
-| **Income**                         | - Disability certificate<br>- Doctor's letter<br>- Rehab center documents<br>- Letter stating physical limits<br>- Education plan<br>- Social Security disability letter. |
-|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identity/Age**                   | - ID card<br> - Birth certificate<br> - Passport<br> - Driver's license<br> - Health insurance papers<br> - Medicare card.                                              |
-| **Citizenship/Residence**          | - Official papers with your name and address<br> - Utility bills<br> - Resident cards<br> - State birth certificates<br> - U.S. passports                               |
-| **Government Program Participation** | - Social Security Disability<br> - Veterans Affairs<br> - Housing Assistance<br> - Medicare/Medicaid<br> - Supplemental Security Income<br>- EBT card                   |
-| **Medical Records**                | - Hospital summaries<br> - Procedure records<br> - Doctor disability reports<br> - Records suggesting technology helps with health issues<br> - Medicine prescriptions  |
-| **Disability/Physical Condition**  | - Disability certificate<br> - Doctor's letter<br> - Rehab center documents<br> - Letter stating physical limits<br> - Education plan<br> - Social Security disability letter. |
+### Income:
+- Disability certificate
+- Doctor's letter
+- Rehab center documents
+- Letter stating physical limits
+- Education plan
+- Social Security disability letter
+
+### Identity/Age:
+- ID card
+- Birth certificate
+- Passport
+- Driver's license
+- Health insurance papers
+- Medicare card
+
+### Citizenship/Residence:
+- Official papers with your name and address
+- Utility bills
+- Resident cards
+- State birth certificates
+- U.S. passports
+
+### Government Program Participation:
+- Social Security Disability
+- Veterans Affairs
+- Housing Assistance
+- Medicare/Medicaid
+- Supplemental Security Income
+- EBT card
+
+### Medical Records:
+- Hospital summaries
+- Procedure records
+- Doctor disability reports
+- Records suggesting technology helps with health issues
+- Medicine prescriptions
+
+### Disability/Physical Condition:
+- Disability certificate
+- Doctor's letter
+- Rehab center documents
+- Letter stating physical limits
+- Education plan
+- Social Security disability letter
