@@ -37,16 +37,16 @@ Whether Carl’s Jr. accepts EBT depends on several factors, including state par
 
 ### FAQs
 **Q1. Can I use my EBT card at Carl’s Jr. to purchase food?**
-Some Carl’s Jr. locations may accept EBT under the Restaurant Meals Program, a part of SNAP aimed at helping low-income families and individuals. However, acceptance varies by location and state, so it’s best to contact your local Carl’s Jr. to confirm.
+- Some Carl’s Jr. locations may accept EBT under the Restaurant Meals Program, a part of SNAP aimed at helping low-income families and individuals. However, acceptance varies by location and state, so it’s best to contact your local Carl’s Jr. to confirm.
 
 **Q2. What is the Restaurant Meals Program and can I use it at fast food restaurants?**
-The Restaurant Meals Program is a component of SNAP designed to allow certain recipients to purchase hot, prepared meals from approved vendors, including some fast food restaurants. Eligibility and participation vary, so check if your local Carl’s Jr. is a participating fast food restaurant.
+- The Restaurant Meals Program is a component of SNAP designed to allow certain recipients to purchase hot, prepared meals from approved vendors, including some fast food restaurants. Eligibility and participation vary, so check if your local Carl’s Jr. is a participating fast food restaurant.
 
 **Q3. What types of food can I buy at Carl’s Jr. with EBT?**
-If a Carl’s Jr. location accepts EBT through the Restaurant Meals Program, you can generally purchase hot meals. Traditional SNAP benefits at fast food establishments typically don’t allow the purchase of hot food or soft drink beverages.
+- If a Carl’s Jr. location accepts EBT through the Restaurant Meals Program, you can generally purchase hot meals. Traditional SNAP benefits at fast food establishments typically don’t allow the purchase of hot food or soft drink beverages.
 
 **Q4. How do I find out if Carl’s Jr. locations accept EBT?**
-To find out if local Carl’s Jr. locations accept EBT, you can contact them directly or check with your state’s SNAP office to see if they participate in the Restaurant Meals Program. 
+- To find out if local Carl’s Jr. locations accept EBT, you can contact them directly or check with your state’s SNAP office to see if they participate in the Restaurant Meals Program. 
 
 **Q5. How does the EBT process work at fast food restaurants like Carl’s Jr.?**
-At participating Carl’s Jr. locations, you’ll use your EBT card much like a debit card. Tell the cashier you’re paying with EBT, and they’ll process EBT payments at the register. Only eligible items can be purchased, and this typically includes in-store purchases for those qualified under the Restaurant Meal Program.
+- At participating Carl’s Jr. locations, you’ll use your EBT card much like a debit card. Tell the cashier you’re paying with EBT, and they’ll process EBT payments at the register. Only eligible items can be purchased, and this typically includes in-store purchases for those qualified under the Restaurant Meal Program.
