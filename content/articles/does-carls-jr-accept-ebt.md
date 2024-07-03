@@ -24,7 +24,7 @@ To use EBT for purchasing meals at Carl’s Jr., several conditions must be met:
 3. The specific Carl’s Jr. outlet must participate in the RMP and be equipped to handle EBT transactions.
 
 ### Where are EBT payments accepted at Carl’s Jr.?
-Certain Carl’s Jr. locations in Arizona and California accept EBT, with the possibility of more joining as the Restaurant Meals Program extends to other regions. Nationwide, only 166 Carl’s Jr. outlets are set up for EBT transactions. To find the nearest participating Carl’s Jr., a comprehensive list of addresses, sorted by state, county, and city, is available.
+Certain Carl’s Jr. locations in Arizona and California accept EBT, with the possibility of more joining as the Restaurant Meals Program extends to other regions. Nationwide, only 166 Carl’s Jr. outlets are set up for EBT transactions. To find the nearest participating Carl’s Jr., a comprehensive list of addresses, sorted by state, county, and city, [is available](https://locations.carlsjr.com/).
 
 ### Why is EBT not widely accepted at more locations?
 The Restaurant Meals Program (RMP) is a unique provision within the Supplemental Nutrition Assistance Program (SNAP) that allows certain eligible individuals to use their benefits to purchase prepared meals at participating restaurants. However, the implementation of the RMP is at the discretion of individual states, and only a select few have chosen to adopt it. This limited uptake means that the availability of the program, and consequently the acceptance of EBT at restaurants like Carl’s Jr., varies significantly by state.
