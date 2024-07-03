@@ -1,5 +1,5 @@
 ---
-date: 2023-11-22T11:48:55-05:00
+date: 2024-07-02T11:48:55-05:00
 title: "Chuck Schumer "
 seo_title: "contact senator Chuck Schumer "
 subheader:
@@ -10,40 +10,6 @@ author: john shim
 image: chuck-schumer.jpg
 video:
 url: /new-york/chuck-schumer/
-tags:
-- "new york chuck schumer"
-- "chuck schumer speech today live"
-- "chuck schumer press conference today"
-- "senator schumer email"
-- "chuck schumer us senate"
-- "schumer senate speech today"
-- "chuck schumer news conference today"
-- "chuck schumer statement today"
-- "contact senate majority leader schumer"
-- "contact chuck schumer"
-- "schumer chuck"
-- "this body’ dem senator"
-- "senator schumer"
-- "charles schumer"
-- "schumer"
-- "chuck schumer"
-keywords:
-- "new york chuck schumer"
-- "chuck schumer speech today live"
-- "chuck schumer press conference today"
-- "senator schumer email"
-- "chuck schumer us senate"
-- "schumer senate speech today"
-- "chuck schumer news conference today"
-- "chuck schumer statement today"
-- "contact senate majority leader schumer"
-- "contact chuck schumer"
-- "schumer chuck"
-- "this body’ dem senator"
-- "senator schumer"
-- "charles schumer"
-- "schumer"
-- "chuck schumer"
 weight: 1
 layout: course_home
 
@@ -64,23 +30,24 @@ website:	http://www.schumer.senate.gov/
 powrid: e86c0c94_1609381047
 twitter: chuckschumer
 ---
+## About Chuck Schumer
+**U.S. Senator Charles Ellis “Chuck” Schumer has dedicated his career to fighting for New York**
 
-Senator Chuck Schumer is the Democratic leader of the U.S. Senate and the senior senator from New York. He is a tireless fighter for the middle class and a champion of progressive values and policies.
+He visits all 62 counties every year and has delivered countless large and small victories across the state, including delivering $20 billion to rebuild after the 9-11 terror attacks and passing a $63 billion relief package to help New York recover from Superstorm Sandy. From massive snowstorms in Western New York to numerous floods across Upstate, Chuck has delivered aid and support to New Yorkers in their time of need. From authoring a permanent tax credit to offset the rising costs of college tuition, to protecting Social Security and Medicare and encouraging job-creating infrastructure projects, Senator Schumer has made it a hallmark of his career to protect the middle class and those working to reach it – including finding common sense solutions to national issues. 
 
-Senator Schumer was born in Brooklyn, New York, on November 23, 1950, to a family of modest means. He graduated from Harvard College and Harvard Law School, and then returned to his hometown to pursue a career in public service. He was elected to the New York State Assembly in 1974, at the age of 23, and then to the U.S. House of Representatives in 1980, representing Brooklyn and Queens.
+#### EARLY DAYS
+Chuck was born and raised in Brooklyn, NY, where his dad, Abraham, owned a small exterminating business and his mom, Selma, was a housewife. He attended public school and graduated from James Madison High School before heading to Harvard University, and then Harvard Law School. Chuck has two daughters, Jessica and Alison, and he still resides in Brooklyn with his wife, Iris Weinshall.
 
-Senator Schumer was elected to the U.S. Senate in 1998, defeating the incumbent Republican senator, Alfonse D'Amato. He was re-elected in 2004, 2010, and 2016, winning by large margins each time. He became the chair of the Democratic Senatorial Campaign Committee in 2005, and helped elect a Democratic majority in the Senate in 2006 and 2008. He also served as the vice chair of the Democratic Conference and the chair of the Senate Democratic Policy and Communications Committee. He became the Senate minority leader in 2017, succeeding Harry Reid, and the Senate majority leader in 2021, after the Democrats won two runoff elections in Georgia.
+#### EARLY CAREER
+After graduating from Harvard Law School in 1974, Chuck was elected to the New York State Assembly. He quickly made a mark with his trademark vigor and relentless advocacy. In 1980, at 29, Chuck was elected as a congressman from the 9th Congressional District. Chuck represented the 9th CD in Brooklyn and Queens for eighteen years. In an era of sky-high crime and murder rates plaguing communities throughout America, Chuck established his reputation as a consumer advocate and a pioneer in the fight against crime. He was the leading sponsor of the Violence Against Women Act to combat domestic violence and sexual assault, and the Brady Bill, instituting mandatory background checks for handgun purchases. He championed the Hate Crimes Prevention Act, which organized data on crimes of bigotry and allowed federal authorities to prosecute these crimes. He also sponsored legislation requiring banks and credit card companies to provide consumers with more transparent disclosure. 
 
-Senator Schumer is a leader on a wide range of issues, such as:
+#### IN THE SENATE
+In 1998, Chuck was elected to the U.S. Senate, and he became New York's senior senator when Senator Daniel Patrick Moynihan retired in 2000. Chuck kicked off his first Senate term by announcing he would visit each of New York's 62 counties every year to keep in touch with voters from every corner of the state. A tradition he continues to this day.
 
-- **Economy and Jobs**: Senator Schumer is committed to creating a fairer and more prosperous economy that works for everyone, not just the wealthy and powerful. He supports raising the minimum wage, ensuring equal pay for equal work, strengthening workers' rights and unions, expanding small business opportunities, and providing tax relief for the middle class and working families. He also supports investing in infrastructure, transportation, and broadband to create jobs and improve the quality of life in New York and across the country.
+**Throughout his time in the Senate, Chuck has made improving New York’s economy his top priority.**
 
-- **Health Care**: Senator Schumer believes that health care is a human right and that everyone should have access to quality, affordable, and comprehensive health care. He supports strengthening and expanding the Affordable Care Act, protecting Medicare and Medicaid, lowering prescription drug prices, and ensuring reproductive rights and justice. He also champions mental health, dental health, and women's health issues.
+He worked to bring affordable air service, like JetBlue, to Upstate New York. He has helped retain New York jobs at risk of leaving and attract new firms to New York—creating many thousands of family-supporting new jobs. Chuck authored legislation to eliminate barriers that delayed low-cost generic medications from entering the marketplace and led the charge to make college tuition tax deductible. He aggressively championed agricultural measures to preserve vital market support programs for New York’s dairy farmers and crop growers. In 2013, Chuck worked across the aisle to pass a comprehensive immigration reform package: the Border Security, Economic Opportunity, and Immigration Modernization Act, which passed the Senate with overwhelming bipartisan support.
 
-- **Education**: Senator Schumer is a strong advocate for public education and for providing students with the resources and opportunities they need to succeed. He supports increasing federal funding for education, reducing class sizes, improving teacher training and retention, expanding early childhood education, and making college more accessible and affordable. He also supports investing in STEM education, arts education, and bilingual education.
+**Chuck has made it a hallmark of his career to protect the middle class and those working to reach it.**
 
-- **Environment**: Senator Schumer is a fierce defender of the environment and a leader in fighting climate change. He supports the American Jobs Plan, a bold and comprehensive plan to transition the U.S. to a clean energy economy and create millions of green jobs. He also supports rejoining the Paris Climate Agreement, restoring environmental protections, and promoting environmental justice and sustainability.
-
-- **Immigration**: Senator Schumer is a proud son of immigrants and a champion of immigrant rights and dignity. He supports comprehensive immigration reform that provides a pathway to citizenship for the 11 million undocumented immigrants in the U.S., protects Dreamers and TPS holders, reunites families, and reforms the immigration system to make it more fair and humane. He also opposes the Trump administration's cruel and racist immigration policies, such as the Muslim ban, the border wall, and family separation.
-
-- **National Security and Foreign Policy**: Senator Schumer is a respected voice on national security and foreign policy issues. He supports a smart and principled foreign policy that advances the U.S. interests and values, promotes peace and stability, and strengthens our alliances and partnerships. He also supports a robust and responsible national defense that protects the American people and honors the sacrifices of our veterans and service members. He is a vocal advocate for human rights, democracy, and the rule of law around the world, especially in the Middle East.
+New York’s Senator Chuck Schumer was first elected to the Senate in 1998. After New Yorkers re-elected him in 2004, Chuck secured two powerful posts: a seat on the Senate Finance Committee, which oversees the nation’s tax, trade, social security and healthcare legislation, and the Chairmanship of the Democratic Senatorial Campaign Committee (DSCC). Chuck successfully led the DSCC for two consecutive cycles and greatly expanded the number of seats in his conference. Following the elections of 2006, then-Majority Leader Harry Reid (D-NV) appointed Chuck to serve as Vice Chair of the Democratic Conference, the number three position on the Democratic Leadership team. In 2016, Chuck was again re-elected by the people of New York. At the same time, his colleagues elected him to serve as Leader of the Democratic Caucus, the first time a New York Senator has held the position. In 2021, Chuck became the first New Yorker to serve as Senate Majority Leader. As Majority Leader, Chuck has led the Senate through one the most productive periods in its  history, ushering landmark legislation through the Senate including the Inflation Reduction Act, the CHIPS And Science Act, the bipartisan Infrastructure Investment and Jobs Act, the American Rescue Plan, and much more. These accomplishments are delivering meaningful results for families, businesses, and communities across New York State and around the country. In 2022, Chuck was re-elected by the people of New York to an unprecedented fifth term. As senator, Chuck has made it a hallmark of his career to protect the middle class and those working to reach it. He continues that mission every day as leader of the Senate Democratic Majority.
