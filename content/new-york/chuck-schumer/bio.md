@@ -22,9 +22,7 @@ party:	Democratic
 role: senator
 inoffice: current
 born:	November 23, 1950
-age: '71'
 enteredoffice:	January 3, 1999
-termexpires:	January 3, 2023
 mailingaddress:		322 Hart Senate Office Building Washington DC 20510
 phonenumber:	(202) 224-6542
 emailaddress:	https://www.schumer.senate.gov/contact/email-chuck
