@@ -34,7 +34,15 @@
           <div class="mainx row">
                {{ range first 4  .Sections }}
                          {{ range first 1 (shuffle .Sections) }}
+
+                         {{ if eq .Params.party "Democratic" }}
+                              <div class="wrapx wrap--3 col s12 m4 l3 democratic">
+                           {{else if eq .Params.party "Republican"}}
+                              <div class="wrapx wrap--3 col s12 m4 l3 republican">
+                           {{else}}
                               <div class="wrapx wrap--3 col s12 m4 l3">
+                           {{ end }}
+                             
                                   <a href="{{ .Permalink }}" title="{{ .Params.title }}">
                                 <div class="containerx containerx--1" style="background-image:url({{ .Params.url }}{{ .Params.image }});">
                                   <p>{{ .Params.name }}</p>
