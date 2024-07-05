@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-07-05T11:55:00-04:00
 title: "Washington"
 ab: "WA"
 seo_title: "Contact Washington  Governors And Senators"
@@ -11,11 +11,6 @@ weight: 1
 layout: states
 
 
-stateweb: "https://wa.gov/"
-govweb: "https://www.governor.wa.gov/"
-gov: "Jay Inslee"
-Address: "P.O. Box 40002 Olympia, WA 98504-0002"
-phonenumber: "360-902-4111"
 
 ---
 

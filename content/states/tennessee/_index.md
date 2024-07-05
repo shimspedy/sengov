@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-07-04T11:55:00-04:00
 title: "Tennessee"
 ab: "TN"
 seo_title: "Contact Tennessee  Governors And Senators"
@@ -9,14 +9,6 @@ url: /states/tennessee/
 flag: seal.png
 weight: 1
 layout: states
-
-
-
-stateweb: "https://www.tn.gov/"
-govweb: "https://www.tn.gov/content/tn/governor.html"
-gov: "Bill Lee"
-Address: "Tennessee State Capitol Nashville, TN 37243-0001"
-phonenumber: 615-741-2001
 
 
 ---
