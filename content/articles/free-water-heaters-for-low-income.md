@@ -71,5 +71,3 @@ This non-profit organization raises funds to provide free water heaters and repa
 - **Friends and Community:** Ask friends or community members for assistance or referrals.
 
 Water heaters are a crucial commodity, especially during winter, but they can be expensive. Government and non-governmental programs provide essential assistance to low-income families, ensuring they have access to necessary heating appliances. Additionally, exploring other avenues like reselling sites and community support can also help secure a free water heater.
-
-If you know of any other programs or resources for free water heaters, please share them in the comments. Your input could help many families in need.
