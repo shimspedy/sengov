@@ -203,8 +203,23 @@ th {
      box-shadow: 0 1px 0 0 rgb(0 154 232);
 }
 
+.democraticx .containerx, .republicanx .containerx {
+     height: 250px;
+     width: 150px;
+}
+.democraticx .containerx p, .republicanx .containerx p{
+font-size: 1rem;
+}
 
-
+@media (orientation: landscape) {
+     .democraticx .containerx, .republicanx .containerx {
+          height: 300px;
+          width: 200px;
+     }
+     .democraticx .containerx p, .republicanx .containerx p{
+     font-size: 1rem;
+     }
+}
 .csenator {
      background: #e9e9e9;
 }
