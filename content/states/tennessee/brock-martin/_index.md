@@ -25,12 +25,27 @@ website: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H7
 email : https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H79/
 twitter: 
 ---
-Brock Martin (born October 4, 1984) is an American politician and a member of the **Republican Party**. He represents the **79th District** in the **Tennessee House of Representatives**, which includes parts of **Gibson**, **Carroll**, and **Henderson** counties.
 
-Brock Martin is a lifelong West Tennessean. He was born in **Carroll County** and raised in **Camden, Tennessee**. He currently resides in **Huntingdon, Tennessee** with his wife, **Krista**, and their five-year-old son, **Steele**. Martin is the son of two public school educators and knows firsthand the impact that strong teachers have on rural communities.
+Brock Martin is a lifelong West Tennessean. He was born in Carroll County and raised in Camden, Tennessee. He currently resides in Huntingdon, Tennessee with his wife, Krista, and their five year old son, Steele. Brock is the son of two public school educators and knows first hand the impact that strong teachers have on rural communities. 
 
-His career experience includes co-founding and working as the clinical director and a chiropractor with **Southern Chiropractic and Acupuncture**. In 2010, he earned a doctorate in chiropractic from **Logan College of Chiropractic**.
+#### Education
+Brock is a graduate of Camden Central High School in Camden Tennessee.
+He attended Bethel University in McKenzie, Tennessee for his undergraduate degree.
+He received his Doctor of Chiropractic Degree from Logan College of Chiropractic in St. Louis, Missouri.
 
-Martin assumed office on **November 8, 2022**, and is currently serving his term until **November 5, 2024**[^1^][1] [^2^][2]. He has been actively involved in various committees, including the **Insurance Committee**, **Agriculture & Natural Resources Committee**, and **Health Committee**.
+#### A Career of Their Own
+Brock and his wife, Dr. Krista Martin, opened Southern Chiropractic and Acupuncture in Huntingdon. Brock now serves as the Clinical Director and Chiropractor at their practice.  As a health care provider he has seen and helped thousands of patients in the Huntingdon area.
 
-Notably, Martin has received several honors and awards, including being named the **TN Chiropractic Association’s 2022 Chiropractor of the Year** and the **TN 8th Congressional District’s Statesman of the Year 2021**. He was also recognized as part of the **40 Under 40** by the **Jackson Sun** in 2018.
+#### Serving the Community
+He is a key member on boards across the state including a Board Trustee Member for Bethel University, Treasurer of the Huntingdon Industrial Board, and the current President of the Tennessee Chiropractic Association.
+
+#### Political Involvement
+Brock is an active member of the Tennessee Republican Party.
+
+He was the Carroll County Chairman for Congressman David Kustoff during the 2016 election.
+
+Brock assisted in 2014 and 2018 for the Governor elections.
+
+He was an active volunteer for Senator Bill Hagerty and Senator Marsha Blackburn's campaigns in 2018 and 2020.
+
+He was a strong asset in the Carroll County Mayoral Race and aided Joseph Butler's win by one of the largest margins in Tennessee.
