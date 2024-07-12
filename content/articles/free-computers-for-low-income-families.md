@@ -4,7 +4,7 @@ title: Free Computers For Low-Income Families
 seo_title: Free Computers For Low-Income Families
 description: Everyone knows that access to the internet is an essential service. In the modern pandemic world, it’s impossible to get by without the ability to send emails, apply for jobs, check the news, engage in remote learning, or stay in touch with friends and family.
 date: 2024-07-10T05:45:23.641Z
-image: tab.jpg
+image: laps.jpg
 draft: false
 ---
 
