@@ -20,8 +20,8 @@ district: 34th
 party:	Democratic
 officeroom:	
 phonenumber:	
-emailaddress:	
-website:	
+emailaddress:	https://www.mayrafloresforcongress.com
+website:	https://www.mayrafloresforcongress.com
 committeeassignment: 
 role: congress
 inoffice: former
