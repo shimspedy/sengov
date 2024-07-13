@@ -269,31 +269,31 @@ Participating service providers offer family plans that include free phones for 
 
 ## FAQs (Frequently Asked Questions)
 
-### How can I apply for the free government phone and tablet combo?
+##### How can I apply for the free government phone and tablet combo?
 
 Visit the official website or contact your local enrollment center for assistance with the application process.
 
-### What documents do I need to provide for eligibility verification?
+##### What documents do I need to provide for eligibility verification?
 
 Submit documents such as proof of income, government assistance participation, or identification documents.
 
-### Can I choose the type of phone and tablet I receive?
+##### Can I choose the type of phone and tablet I receive?
 
 The program offers devices based on availability and eligibility criteria. Specific device provided is subject to availability.
 
-### Is there a monthly fee for participating in the program?
+##### Is there a monthly fee for participating in the program?
 
 No, qualifying participants receive free devices with no commitments or monthly costs.
 
-### What is the Lifeline government tablet phone number?
+##### What is the Lifeline government tablet phone number?
 
 Contact your state’s Lifeline administrator or the national Lifeline Support Center for assistance.
 
-### What happens if my device is lost or damaged?
+##### What happens if my device is lost or damaged?
 
 Contact the program’s support center for assistance. Replacements or repairs may be provided.
 
-### Am I obligated to return the device if I no longer need it?
+##### Am I obligated to return the device if I no longer need it?
 
 Participants are not obligated to return the device but may recycle or donate it for reuse by others in need.
 
