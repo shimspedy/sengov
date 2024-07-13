@@ -22,7 +22,7 @@ elected: 2005
 mailing1: 353 State Capitol Room 420-D CAP Atlanta, GA 30334
 phone1: 404-656-0502
 website: https://www.legis.ga.gov/members/senate/28?session=1031/
-email : https://www.legis.ga.gov/members/senate/28?session=1031/
+email : http://www.senatoremanueljones.com/contact.html
 twitter: emanueldjones
 ---
 

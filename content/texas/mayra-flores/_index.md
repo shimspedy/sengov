@@ -18,13 +18,13 @@ name:	Mayra Flores
 state:	Texas
 district: 34th
 party:	Democratic
-officeroom:	307 CHOB
-phonenumber:	(202) 225-9901
-emailaddress:	https://flores.house.gov/contact/
-website:	https://flores.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
+inoffice: former
 twitter: repmayraflores
 powrid: 
 ---
