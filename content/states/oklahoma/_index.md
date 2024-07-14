@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-07-14T11:55:00-04:00
 title: "Oklahoma"
 ab: "OK"
 seo_title: "Contact Oklahoma  Governors And Senators"
@@ -9,15 +9,6 @@ url: /states/oklahoma/
 flag: seal.png
 weight: 1
 layout: states
-
-
-
-
-stateweb: "https://oklahoma.gov/"
-govweb: "https://oklahoma.gov/governor.html"
-gov: "Kevin Stitt"
-Address: "Capitol Building 2300 Lincoln Blvd., Rm. 212 Oklahoma City, OK 73105"
-phonenumber: 405-521-2342
 
 ---
 

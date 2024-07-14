@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-07-13T11:55:00-04:00
 title: "Wyoming"
 ab: "WY"
 seo_title: "Contact Wyoming  Governors And Senators"
@@ -9,13 +9,6 @@ url: /states/wyoming/
 flag: seal.png
 weight: 1
 layout: states
-
-
-stateweb: "https://wyoming.gov/"
-govweb: "https://governor.wy.gov/"
-gov: "Mark Gordon"
-Address: "State Capitol Building Room 124 Cheyenne, WY 82002"
-phonenumber: "307-777-7434"
 
 ---
 
