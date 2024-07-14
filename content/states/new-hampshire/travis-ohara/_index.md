@@ -8,7 +8,7 @@ subheader:
 description: Contact Representative Travis O'Hara of New Hampshire. Contact information for Travis O'Hara includes email address, phone number, and mailing address.
 image: travis-ohara.jpeg
 video:
-url: /states/new-hampshire/travis-o'hara/
+url: /states/new-hampshire/travis-ohara/
 weight: 1
 layout: course_home
 
