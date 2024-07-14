@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Amy Bradley
      description: Amy Bradley is an American politician who serves as a Democratic member for the Hillsborough 41st district of the New Hampshire House of Representatives. She has been a leader in Cambria County for three decades and is known for her values of education, hard work, positivity, and compassion. 
 description: Contact Representative Amy Bradley of New Hampshire. Contact information for Amy Bradley includes email address, phone number, and mailing address.
-image: amy-bradley.jpeg
+image: amy-bradley.png
 video:
 url: /states/new-hampshire/amy-bradley/
 weight: 1
