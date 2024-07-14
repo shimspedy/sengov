@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Travis O'Hara
      description: Travis O'Hara is a member of the New Hampshire House of Representatives, representing Belknap 4. He is a member of the Republican Party. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
 description: Contact Representative Travis O'Hara of New Hampshire. Contact information for Travis O'Hara includes email address, phone number, and mailing address.
-image: travis-o'hara.jpeg
+image: travis-ohara.jpeg
 video:
 url: /states/new-hampshire/travis-o'hara/
 weight: 1
@@ -23,7 +23,7 @@ mailing1: State House Room 317 107 N Main St Concord, NH 03301-4951
 phone1: 603-271-3661
 website: https://gencourt.state.nh.us/house/members/member.aspx?pid=9868/
 email : https://gencourt.state.nh.us/house/members/member.aspx?pid=9868/
-twitter: 
+twitter:
 ---
 **Personal Biography**
 
