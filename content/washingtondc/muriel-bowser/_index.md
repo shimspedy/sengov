@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2023-11-22T11:48:55-05:00
 title: "Muriel Bowser"
 seo_title: "contact Governor Muriel Bowser "
 subheader:
@@ -9,7 +9,7 @@ description: Contact Governor Muriel Bowser of District of Columbia. Contact inf
 author: contact governors
 image: muriel-bowser.jpg
 video:
-url: washingtondc/muriel-bowser/
+url: /washingtondc/muriel-bowser/
 weight: 1
 layout: course_home
 
