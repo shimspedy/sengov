@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Andy Billig
      description: Andy Billig is a proud father, businessperson and member of the Spokane community. Having previously served a term in the state House of Representatives, he was elected to the state Senate by constituents of the 3rd Legislative District in 2012 and was re-elected in 2016.
 description: Contact Senator Andy Billig of Washington. Contact information for Andy Billig includes email address, phone number, and mailing address.
-image: andy-billig.jpeg
+image: andy-billig.jpg
 video:
 url: /states/washington/andy-billig/
 weight: 1
