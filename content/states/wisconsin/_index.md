@@ -1,5 +1,5 @@
 ---
-date: 2024-07-11T11:55:00-04:00
+date: 2024-07-19T11:55:00-04:00
 title: "Wisconsin"
 ab: "WI"
 seo_title: "Contact Wisconsin  Governors And Senators"
