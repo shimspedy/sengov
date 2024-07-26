@@ -1,5 +1,5 @@
 ---
-date: 2024-07-26T12:03:20-04:00
+date: 2024-07-25T12:03:20-04:00
 name: Kamala D. Harris 
 title: " Kamala D. Harris  for President 2024"
 seo_title: "Kamala D. Harris 's Presidential Campaign Policies"
