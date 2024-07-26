@@ -49,20 +49,37 @@ Vice President Harris went on to graduate from Howard University and the Univers
 
 As a trailblazer throughout her entire career, the Vice President is committed to fulfilling her mother’s advice: “Kamala, you may be the first to do many things, but make sure you are not the last.”
 
-#### Climate
-Vice President Kamala D. Harris  will take swift action to tackle the climate crisis. To meet the demands of science, the President is mobilizing a whole-of-government effort to reduce climate pollution in every sector of the economy and increase resilience to climate impacts. The Biden Administration will create good-paying, union jobs to build a modern and sustainable infrastructure, deliver an equitable clean energy future, and put the United States on a path to achieve net-zero emissions, economy-wide, by no later than 2050.
+**How Kamala Harris’ Platform Could Differ from Joe Biden’s**
 
-#### Racial Equity
-The promise of our nation is that every American has an equal chance to get ahead, yet persistent systemic racism and barriers to opportunity have denied this promise for so many. Vice President Kamala D. Harris  is putting equity at the center of the agenda with a whole of government approach to embed racial justice across Federal agencies, policies, and programs. And Vice President Kamala D. Harris  will take bold action to advance a comprehensive equity agenda to deliver criminal justice reform, end disparities in healthcare access and education, strengthen fair housing, and restore Federal respect for Tribal sovereignty, among other actions, so that everyone across America has the opportunity to fulfill their potential.
 
-#### Economy 
-Vice President Kamala D. Harris  will take bold steps to address the inequities in our economy and provide relief to those who are struggling during the COVID-19 pandemic. The President will also work with Congress to pass the American Rescue Plan to change the course of the pandemic, build a bridge towards economic recovery, and invest in racial justice. And, he will build our economy back better from the pandemic and create millions of jobs by strengthening small businesses and investing in the jobs of the future. 
+President Joe Biden's decision not to seek re-election and his endorsement of Vice President Kamala Harris sets the stage for Harris to potentially lead the Democratic Party's charge on key issues like abortion rights, climate change, and student debt relief. Harris’ experience as California’s attorney general, a U.S. senator, and vice president provides some insight into her potential leadership style, but there are notable differences between her and Biden.
 
-#### Health Care
-Vice President Kamala D. Harris  will make a renewed commitment to protect and expand Americans’ access to quality, affordable health care. He will build on the Affordable Care Act to meet the health care needs created by the pandemic, reduce health care costs, and make our health care system less complex to navigate.
+**Abortion Rights**  
+Harris has consistently championed reproductive rights, advocating for federal protections that surpass Roe v. Wade by proposing Justice Department oversight of state abortion laws. Unlike Biden, who aimed to restore Roe’s protections, Harris' approach is more aggressive, targeting states with histories of restricting abortion access.
 
-#### Immigration
-Vice President Kamala D. Harris  will reform our long-broken and chaotic immigration system. Vice President Kamala D. Harris ’s strategy is centered on the basic premise that our country is safer, stronger, and more prosperous with a fair and orderly immigration system that welcomes immigrants, keeps families together, and allows people across the country—both newly arrived immigrants and people who have lived here for generations—to more fully contribute to our country. 
+**Israel and Gaza**  
+Harris has shown more empathy towards Palestinians affected by the Israel-Hamas conflict, calling for a temporary cease-fire and criticizing Israel's handling of aid to Gaza. While her stance aligns broadly with Biden’s support for a two-state solution, Harris' tone suggests a stronger emphasis on humanitarian concerns.
 
-#### Restoring America’s Global Standing
-Vice President Kamala D. Harris  will take steps to restore America’s standing in the world, strengthening the U.S. national security workforce, rebuilding democratic alliances across the globe, championing America’s values and human rights, and equipping the American middle class to succeed in a global economy.
+**Climate Change**  
+Harris supports more ambitious climate policies than Biden, including a $10 trillion plan and a ban on fracking. As a co-sponsor of the Green New Deal, she advocates for sweeping reforms to achieve 100% clean energy within a decade, contrasting with Biden’s more moderate Build Back Better plan.
+
+**Student Debt Relief**  
+Harris has been a strong advocate for student debt relief, even before Biden's administration took action. Her previous proposals, such as debt forgiveness for Pell Grant recipients who start businesses, were less ambitious than Biden’s broader debt cancellation plan but still indicate a progressive stance.
+
+**Free College**  
+Harris supports broader access to tuition-free college than Biden, advocating for comprehensive coverage of college expenses beyond tuition. This contrasts with Biden’s more limited proposal focused on two-year colleges and lower-income families.
+
+**Trade**  
+Harris has taken a more critical stance on trade agreements than Biden, opposing the Trans-Pacific Partnership and voting against the USMCA over environmental concerns. Her focus is on protecting American workers and the environment, aligning with the progressive wing of the party.
+
+**Artificial Intelligence**  
+Harris favors stricter government regulation of AI technologies, focusing on issues like algorithmic bias and disinformation. This position contrasts with Biden’s preference for voluntary standards within the industry.
+
+**Data Privacy**  
+Harris’ background as California’s attorney general showcases her proactive approach to data privacy, having established enforcement units and advocated for strong consumer protections. Biden, meanwhile, has called for legislative action but has been less directly involved in enforcement.
+
+**Animal Welfare**  
+Harris has a strong record on animal welfare, defending California's strict laws on farm animal treatment. In contrast, Biden's administration has taken a more moderate approach, suggesting Harris may continue to champion stringent animal welfare standards.
+
+**Thoughts**  
+As Kamala Harris prepares for a potential presidential campaign, her positions suggest a more progressive approach on several key issues compared to Biden. How she navigates these differences will be critical in uniting the Democratic Party and appealing to voters in the upcoming election.
