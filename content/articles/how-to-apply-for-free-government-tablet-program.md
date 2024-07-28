@@ -98,16 +98,16 @@ Monitor the progress of your application and be ready to provide additional info
 
 ### FAQs
 
-**What if I am not eligible?**
+#### What if I am not eligible?
 Consider exploring other options, such as nonprofit organizations or community programs offering similar assistance.
 
-**Are there any costs associated with the free tablet?**
+#### Are there any costs associated with the free tablet?
 While the tablet itself may be free, you might incur ongoing costs such as internet service or additional apps.
 
-**Can I apply for more than one tablet per household?**
+#### Can I apply for more than one tablet per household?
 Most programs limit the benefit to one tablet per household to ensure equitable distribution.
 
-**How long does the application process take?**
+#### How long does the application process take?
 The process can vary but typically takes a few weeks from submission to approval.
 
 
