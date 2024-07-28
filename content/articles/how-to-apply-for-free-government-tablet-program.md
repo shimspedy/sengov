@@ -4,7 +4,7 @@ title: how to apply for Free Government Tablet Program
 seo_title: how to apply for Free Government Tablet Program
 description: To apply for a free tablet from the government, you need to follow specific steps and meet certain eligibility criteria. Below is a detailed guide to help you through the process
 date: 2024-07-27T05:45:23.641Z
-image: tablet.webp
+image: acp.png
 draft: false
 ---
 
@@ -62,7 +62,6 @@ The Lifeline Program offers discounts on phone and internet services to eligible
 | [Im Telecom, LLC](/companies/Im-Telecom,-LLC) | 888-801-0012 | Mobile Service |
 | [Happy Valley Telephone Company](/companies/Happy-Valley-Telephone-Company) | 888-225-5837 | Home Service |
 | [StandUP Wireless](/companies/StandUP-Wireless) | 800-544-4441 | Mobile Service |
-
 
 
 
