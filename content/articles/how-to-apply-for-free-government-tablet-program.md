@@ -3,140 +3,114 @@ author: john hashim
 title: how to apply for Free Government Tablet Program
 seo_title: how to apply for Free Government Tablet Program
 description: To apply for a free tablet from the government, you need to follow specific steps and meet certain eligibility criteria. Below is a detailed guide to help you through the process
-date: 2024-05-16T05:45:23.641Z
+date: 2024-07-27T05:45:23.641Z
 image: tablet.webp
 draft: false
 ---
 
-### How to Apply to Get a Free Tablet from Government Programs
-
-To apply for a free or reduced-price tablet from the government, you can apply for the Affordable Connectivity Program (ACP). Everyone who is already enrolled in a government assistance program can apply for the ACP. Although few companies offer completely free tablets, the program offers a discount of $100 to buy a laptop, computer, or tablet, which means that most companies offer new tablets for a one-time co-pay of $10.01. Keep reading to learn more!
-
-### Things You Should Know
-
-- Apply for the Affordable Connectivity Program by completing their application and providing documentation that proves you participate in a government assistance program.
-- Submit an application to a participating internet or phone company according to their requirements.
-- Pick up your tablet from a certain location or have it delivered to your home, then follow the device or company instructions to set up your tablet.
 
 
-
-### Free Tablet Application Process
-
-**Step 1: Apply for the Affordable Connectivity Program (ACP)**
-
-Check the ACP’s requirements to make sure you qualify and click “Apply” on their website. Log in or create a new account and complete the online application. If you’re a Lifeline subscriber, reach out to your internet company directly to apply for ACP. You can also fill out an application form and a Household Worksheet and mail them along with your documentation to:
-ACP Support Center  
-PO Box 9100  
-Wilkes-Barre, PA 18773
-
-**Step 2: Provide documents that prove you’re eligible for the program**
-
-Once you submit an online application, the website will ask you to share proof of your eligibility (unless you provide your Social Security number). Depending on your program, you may have to submit:
-
-*Proof of income:*
-- A state, Federal, or Tribal tax return from last year
-- A current annual income statement from your job
-- A Social Security statement of benefits
-- An unemployment or worker’s compensation statement of benefits
-- A Federal or Tribal notice of participation in General Assistance
-- A Divorce Decree or child support award
-
-*Proof of government assistance program or Tribal program participation:*
-- A benefit award letter
-- A statement of benefits
-- A benefit verification letter
-- A screenshot of the online benefits portal
-
-*Proof of Federal Pell Grant:*
-- An official financial aid award letter from the school or U.S. Department of Education
-- A paid invoice that shows the student got a Pell Grant for the current award year
-- A screenshot of an online financial aid portal
-
-*Proof of free and reduced lunch or school breakfast programs:*
-- Letter from the school or school district
-
-To apply by mail, include these documents along with your application forms.
-
-**Step 3: Submit your application to a participating internet provider**
-
-Once you’ve been approved for ACP, submit an application to a participating program according to their guidelines. Depending on the company, you may have to provide additional information or documentation proving you receive a government benefit. Some companies may give you the option to apply online, by mail, or in person. Ask your company for more details. After submitting, stay informed about the progress of your application and note any deadlines or notifications you may receive via email.
-
-**Step 4: Receive and set up your tablet**
-
-If your application is accepted, the company will send you instructions on how to pick up your tablet—you might have to pick it up from a certain location or have it delivered to your home. Depending on the company, your tablet might come with apps for internet access, email management, financial management, or educational apps if the program is for students. The amount of time you have to wait to receive your tablet depends on the program. Ask your company when you might receive your tablet. Some programs offer device setup support on-location, over the phone, or online. Follow any instructions or guidance provided by the company to properly set up your tablet.
-
-
-
-### Who’s Eligible for a Free Tablet from the Government?
-
-Households enrolled in government assistance programs are eligible. A household with an income below 200% of the Federal Poverty Guidelines or who participates in an assistance program might be eligible to receive a free tablet through a participating internet company. These government assistance programs include:
-
-- Receiving a Federal Pell Grant during the current award year
-- Free and Reduced-Price School Lunch Program or School Breakfast Program, including at U.S. Department of Agriculture (USDA) Community Eligibility Provision schools
-- Supplemental Nutrition Assistance Program (SNAP) and WIC (Women, Infants, and Children)
-- Medicaid
-- Federal Housing Assistance (Housing Choice Voucher (HCV) program, Project-Based Rental Assistance (PBRA), Public Housing, and affordable housing programs for Native Americans)
-- Supplemental Security Income (SSI)
-- Veterans Pension or Survivor Benefits
-- Lifeline
-- Bureau of Indian Affairs General Assistance
-- Tribal TANF
-- Food Distribution Program on Indian Reservations
-- Tribal Head Start (income based)
-
-
+With technology becoming essential in daily life, various government and private programs aim to provide free or discounted tablets to low-income individuals and families. These initiatives help bridge the digital divide, offering educational, employment, and communication opportunities to those in need. This guide will walk you through the available programs, application processes, eligibility criteria, and how to find the right program for you.
 
 ### Government Programs for Free Tablets
 
-Look for internet or phone companies that offer ACP services. Check the FCC’s complete list to see which providers are offering free connected devices. You can also find companies near you that offer ACP benefits by using this tool. Some of them may include:
+#### Affordable Connectivity Program (ACP)
 
-- Standup Wireless: Offers a tablet for a $10.01 co-pay.
-- Q Link Wireless: Offers a free tablet and phone service.
-- National Wireless: Offers a subsidized 4G tablet.
-- AFNET: Offers a new tablet or iPhone for veterans and those in active duty.
-- Telnet USA: Offers a tablet for a $10.01 co-pay and free phone and internet.
-- Maxsip Telecom: Offers a 4G Android tablet for a $20 co-pay.
-- IPC: Offers a new tablet for an $11 co-pay.
-- Moolah Wireless: Offers a new tablet.
-- Excess Telecom: Offers a new Android tablet or phone for an $11 co-pay.
-- Cintex Wireless: Offers a tablet for a $10.01 co-pay.
-- TruConnect: Offers a tablet for a $10.01 co-pay.
-- AirTalk: Offers an Apple iPad Air 2 for $35 or a Sky PAD8 Pro for $10.01.
-- Easy Wireless: Offers a tablet for a $10.99 co-pay.
+The ACP provides eligible households with a discount of up to $100 on the purchase of a laptop, desktop computer, or tablet. A one-time co-pay of $10.01 is typically required. This program is designed to make technology accessible to low-income families and individuals.
 
-Government programs like Computers for Learning offer free computers to schools or educational nonprofit organizations. Check with your state or local government website to see if they have additional programs available.
+**How to Apply:**
+1. **Check Eligibility:** Ensure you meet the income thresholds or are enrolled in a qualifying government assistance program like SNAP or Medicaid.
+2. **Complete the Application:** Apply online, by mail, or in person. Include necessary documentation such as income statements or proof of participation in assistance programs.
+3. **Submit to a Participating Provider:** Choose a provider offering the ACP discount and submit your application according to their guidelines.
+4. **Receive and Set Up Your Tablet:** Follow the provider's instructions for receiving and setting up your device.
+
+**Eligibility Criteria:**
+- Income below 200% of the Federal Poverty Guidelines
+- Participation in programs like SNAP, Medicaid, or Federal Pell Grant
+
+#### Lifeline Program
+
+The Lifeline Program offers discounts on phone and internet services to eligible low-income consumers. Some providers also offer free or discounted tablets.
+
+| Company Name | Phone | Type of Service |
+|--------------|-------|-----------------|
+| [Safelink Wireless](/companies/Safelink-Wireless) | 800-723-3546 | Mobile Service |
+| [Hornitos Telephone Company](/companies/Hornitos-Telephone-Company) | 888-225-5837 | Home Service |
+| [Life Wireless](/companies/Life-Wireless) | 888-543-3620 | Mobile Service |
+| [Sebastian](/companies/Sebastian) | 559-846-4868 | Home Service |
+| [Frontier Communications](/companies/Frontier-Communications) | 800-921-8101 | Home Service |
+| [Pinnacles Telephone Co.](/companies/Pinnacles-Telephone-Co.) | 831-389-4500 | Home Service |
+| [AT&T](/companies/AT&T) | 800-288-2747 | Home Service |
+| [Boomerang Wireless LLC](/companies/Boomerang-Wireless-LLC) | 866-488-8719 | Mobile Service |
+| [Air Voice Wireless](/companies/Air-Voice-Wireless) | 888-944-2355 | Mobile Service |
+| [Consolidated Communications of California Company](/companies/Consolidated-Communications-of-California-Company) | 844-968-7224 | Home Service |
+| [Siskiyou Telephone](/companies/Siskiyou-Telephone) | 866-467-6001 | Home Service |
+| [CAL ORE Telephone](/companies/CAL-ORE-Telephone) | 800-858-2399 | Home Service |
+| [Sierra Telephone Company, Inc.](/companies/Sierra-Telephone-Company,-Inc.) | 877-658-4611 | Home Service |
+| [Truconnect](/companies/Truconnect) | 800-430-0443 | Mobile Service |
+| [Cox Communications](/companies/Cox-Communications) | 866-961-0027 | Home Service |
+| [Access Wireless](/companies/Access-Wireless) | 866-594-3644 | Mobile Service |
+| [Assurance Wireless](/companies/Assurance-Wireless) | 888-898-4888 | Mobile Service |
+| [Calaveras Telephone Company](/companies/Calaveras-Telephone-Company) | 800-253-2511 | Home Service |
+| [Volcano Telephone Company](/companies/Volcano-Telephone-Company) | 888-886-5226 | Home Service |
+| [ConnectTo communications](/companies/ConnectTo-communications) | 800-804-4603 | Home Service |
+| [Ducor Telephone Company](/companies/Ducor-Telephone-Company) | 888-539-5234 | Home Service |
+| [Ponderosa Telephone](/companies/Ponderosa-Telephone) | 800-682-1878 | Home Service |
+| [Sebastian](/companies/Sebastian) | 800-841-9311 | Home Service |
+| [Winter Haven Telephone Company](/companies/Winter-Haven-Telephone-Company) | 888-225-5837 | Home Service |
+| [Safetynet Wireless](/companies/Safetynet-Wireless) | 888-224-3213 | Mobile Service |
+| [Im Telecom, LLC](/companies/Im-Telecom,-LLC) | 888-801-0012 | Mobile Service |
+| [Happy Valley Telephone Company](/companies/Happy-Valley-Telephone-Company) | 888-225-5837 | Home Service |
+| [StandUP Wireless](/companies/StandUP-Wireless) | 800-544-4441 | Mobile Service |
 
 
 
-### Private Programs for Free Computers
 
-Apply to a private program to get a free computer. Although most nonprofits don’t offer free tablets, there are many that offer free or discounted laptop or desktop computers to students, schools, and low-income families.
+**Eligibility:**
+- Income at or below 135% of the Federal Poverty Guidelines
+- Participation in programs like SNAP, SSI, or Medicaid
 
-- **Computers With Causes:** Provides donated computers to schools, universities, museums, charities, and other nonprofit organizations.
-- **The On It Foundation (Florida only):** Provides free computers, computer training, and internet to low-income families with students in grades K-12 who receive free or reduced school lunch.
-- **Computers for Kids (Idaho, Washington, Oregon, and Utah only):** Offers refurbished desktop or laptop computers to students in grades K-12.
-- **ConnectAll:** Offers low-cost laptops, desktops, and internet for low-income families.
+### Private Programs for Free Tablets and Computers
 
-By following the steps outlined in this guide, you can apply for a free tablet or a discounted device through government programs and private initiatives. Make sure to check eligibility requirements and gather the necessary documents to ensure a smooth application process.
+Several nonprofit organizations and private initiatives provide free or discounted computers and tablets to eligible individuals and families.
 
+#### Computers With Causes
+This organization donates computers to those in need, including low-income families, veterans, and students.
 
-### Frequently Asked Questions (FAQs)
+#### The On It Foundation (Florida Only)
+Provides free computers and internet access to students in grades K-12 who receive free or reduced lunch.
 
-{{< faq title=" What if I am not eligible?" >}}
-If you are not eligible for these programs, consider other options such as non-profit organizations or community programs that may offer similar assistance.
-{{< / faq >}}
+#### ConnectAll
+Offers low-cost laptops and internet services to low-income families.
 
-{{< faq title=" Are there any costs associated with the free tablet?" >}}
-While the tablet is free, you may be responsible for ongoing costs such as internet service or additional apps.
-{{< / faq >}}
+### Applying for a Free Tablet
 
-{{< faq title="Can I apply for more than one tablet per household?" >}}
+**1. Check Eligibility:**
+Determine if you qualify based on income or participation in assistance programs.
+
+**2. Gather Required Documents:**
+Prepare documents such as tax returns, income statements, and proof of government assistance.
+
+**3. Apply:**
+Complete the application process for the program you are interested in. This may involve filling out forms online, mailing them in, or visiting a provider in person.
+
+**4. Follow Up:**
+Monitor the progress of your application and be ready to provide additional information if requested.
+
+### FAQs
+
+**What if I am not eligible?**
+Consider exploring other options, such as nonprofit organizations or community programs offering similar assistance.
+
+**Are there any costs associated with the free tablet?**
+While the tablet itself may be free, you might incur ongoing costs such as internet service or additional apps.
+
+**Can I apply for more than one tablet per household?**
 Most programs limit the benefit to one tablet per household to ensure equitable distribution.
-{{< / faq >}}
 
-{{< faq title="How long does the application process take? " >}}
-The application process can vary by provider, but it typically takes a few weeks from submission to approval.
-{{< / faq >}}
+**How long does the application process take?**
+The process can vary but typically takes a few weeks from submission to approval.
 
 
-Remember Applying for a free tablet from the government involves checking your eligibility, gathering necessary documents, choosing a participating service provider, and completing the application process. These programs are designed to provide essential technology to those who need it most, helping to bridge the digital divide and improve access to educational and job opportunities.
+
+With these programs, low-income individuals and families can gain access to essential technology, helping to bridge the digital divide. Whether through government initiatives like the ACP or private organizations, there are numerous opportunities to obtain free or discounted tablets. Make sure to review eligibility requirements, gather the necessary documents, and follow the application procedures carefully to take advantage of these valuable resources.
