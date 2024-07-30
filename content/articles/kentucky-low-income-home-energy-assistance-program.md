@@ -7,7 +7,7 @@ description: "Low Income Home Energy Assistance Program (LIHEAP) is a
   energy bills. "
 date: 2024-07-30T02:52:36.441Z
 image: /housing.webp
-draft: true
+draft: false
 ---
 **What is the Low Income Home Energy Assistance Program (LIHEAP) in Kentucky?**
 
