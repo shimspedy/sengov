@@ -7,7 +7,7 @@ description: "The Housing Choice Voucher Program, also known as Section 8, is
   disabled, and the elderly afford housing. "
 date: 2024-07-30T02:56:29.819Z
 image: /save-money.webp
-draft: true
+draft: false
 ---
 **Housing Choice Voucher Program (Section 8): A Guide for Low-Income Families, the Disabled, and the Elderly**
 
