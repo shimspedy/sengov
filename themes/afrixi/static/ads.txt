@@ -4,6 +4,9 @@ contact=sales@journeymv.com
 ownerdomain=sengov.com
 journeymv.com, 661b79cb-0fb0-42af-9c06-08323bb84845, DIRECT, 1363c924529b3998
 
+google.com, pub-7616051391644176, DIRECT, f08c47fec0942fa0
+
+
 google.com, pub-1601477034266482, DIRECT, f08c47fec0942fa0
 google.com, pub-1601477034266482, RESELLER, f08c47fec0942fa0
 media.net, 8CU41446D, DIRECT
