@@ -1,5 +1,5 @@
 ---
-date: 2020-09-11T11:55:00-04:00
+date: 2024-07-28T11:55:00-04:00
 title: "Vermont"
 ab: "VT"
 seo_title: "Contact Vermont  Governors And Senators"
@@ -13,11 +13,6 @@ layout: states
 
 
 
-stateweb: "https://www.vermont.gov/"
-govweb: "https://governor.vermont.gov/"
-gov: "Phil Scott"
-Address: "109 State Street Pavilion Office Building Montpelier, VT 05609"
-phonenumber: 802-828-3333
 
 ---
 
