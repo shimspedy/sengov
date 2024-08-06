@@ -203,20 +203,20 @@ th {
      box-shadow: 0 1px 0 0 rgb(0 154 232);
 }
 
-.democraticx .containerx, .republicanx .containerx {
+.democraticx .containerx, .republicanx .containerx, .Independentx .containerx {
      height: 250px;
      width: 150px;
 }
-.democraticx .containerx p, .republicanx .containerx p{
+.democraticx .containerx p, .republicanx .containerx p,  .Independentx .containerx p{
 font-size: 1rem;
 }
 
 @media (orientation: landscape) {
-     .democraticx .containerx, .republicanx .containerx {
+     .democraticx .containerx, .republicanx .containerx, .Independentx .containerx {
           height: 300px;
           width: 200px;
      }
-     .democraticx .containerx p, .republicanx .containerx p{
+     .democraticx .containerx p, .republicanx .containerx p,  .Independentx .containerx p{
       font-size: 1.2rem;
      }
 }
