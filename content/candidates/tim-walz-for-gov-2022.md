@@ -11,7 +11,6 @@ categories:
 tags:
  - governors
 image: tim-walz.jpeg
-video:
 url: 
 weight: 0
 layout: single
