@@ -10,7 +10,7 @@ categories:
   - election
 role:
  - president
- 
+
 image: kamala.webp
 video:
 url: 
@@ -19,6 +19,7 @@ layout: single
 keywords:
 - president
 ---
+
  #### Meet Vice President Kamala Harris
 
 Vice President Kamala Harris has devoted her career to fighting for the people.

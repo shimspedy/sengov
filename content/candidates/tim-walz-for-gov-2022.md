@@ -1,5 +1,5 @@
 ---
-date: 2024-07-31T11:03:20-04:00
+date: 2022-07-31T11:03:20-04:00
 name: Tim Walz
 title: " Tim Walz for governor"
 seo_title: "Tim Walzfor Minnesota governor"
