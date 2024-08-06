@@ -1,5 +1,5 @@
 ---
-date: 2024-07-25T12:03:20-04:00
+date: 2024-08-05T12:03:20-04:00
 name: Kamala D. Harris 
 title: " Kamala D. Harris  for President 2024"
 seo_title: "Kamala D. Harris 's Presidential Campaign Policies"
@@ -10,6 +10,7 @@ categories:
   - election
 role:
  - president
+ 
 image: kamala.webp
 video:
 url: 
@@ -18,68 +19,31 @@ layout: single
 keywords:
 - president
 ---
+ #### Meet Vice President Kamala Harris
+
+Vice President Kamala Harris has devoted her career to fighting for the people.
+
+As the daughter of parents who brought her to civil rights marches in a stroller, she was inspired to tackle injustice from an early age. She took that mission to county courtrooms, the California Attorney General’s office, the United States Senate, and the White House.
+
+Now she is running for President of the United States to continue protecting our freedoms, delivering justice, and expanding opportunity so that every American can not just get by, but get ahead.
 
 
-Kamala D. Harris is the Vice President of the United States. She always fights for the people – from her barrier-breaking time as District Attorney of San Francisco and Attorney General of California, to proudly serving as a United States Senator and the Vice President.
+As vice president, she’s been a trusted partner to President Joe Biden in their work to take on the powerful and make change for the people — from standing up against extremists to defending reproductive freedom to taking on Big Pharma to bring down prescription drug costs and cap the price of insulin at $35 a month for our seniors.
 
-On January 20, 2021, Kamala Harris was sworn in as Vice President – the first woman, the first Black American, and the first South Asian American to be elected to this position.
+The Biden-Harris administration has achieved a historic record of accomplishment, including: bringing our economy back from the brink of disaster to create nearly 16 million new jobs; investing over $1 trillion in infrastructure projects like repairing roads and bridges, removing every lead pipe in America, improving public transit, and expanding access to high-speed internet; strengthening the Affordable Care Act and lowering health insurance premiums to save millions of Americans an average of $800 per year; expanding health care for veterans exposed to toxins; enacting the first meaningful gun safety reform in decades and bringing violent crime down to a near 50-year low; passing the largest-ever investment in tackling the climate crisis; and appointing the first Black woman to the United States Supreme Court.
 
-As Vice President, she has worked to bring people together to advance opportunity, deliver for families, and protect fundamental freedoms across the country. She has led the fight for the freedom of women to make decisions about their own bodies, the freedom to live safe from gun violence, the freedom to vote, and the freedom to drink clean water and breathe clean air. While making history at home, she is also representing the nation abroad – embarking on more than a dozen foreign trips, traveling to more than 19 countries, and meeting with more than 150 world leaders to strengthen critical global alliances.
-
-The Vice President has been a trusted partner to President Joe Biden as they work together to deliver monumental achievements that are lifechanging for millions of Americans. Together, they have invested in the economy to create a record number of jobs and keep unemployment low. Their work has led to more small business creation in a two-year period than any previous administration.
-
-They capped the cost of insulin at $35 a month for seniors, cut prescription prices, and improved maternal health by expanding postpartum care through Medicaid. They passed the first meaningful gun safety law in three decades. Forming a bipartisan coalition, they enacted a $1 trillion investment in the country’s infrastructure to remove every lead pipe in America and make the most significant investment in public transit, repairing bridges, and high-speed Internet in history.
-
-As President of the Senate, Vice President Harris set a new record for the most tie-breaking votes cast by a Vice President in history – surpassing a record that had stood for nearly 200 years. And her votes have been consequential. This includes casting the decisive vote to secure passage of the landmark Inflation Reduction Act, the largest investment ever in tackling the climate crisis. She also presided over the unprecedented vote to confirm the first Black woman, Justice Ketanji Brown Jackson, to the Supreme Court while working alongside President Biden to achieve historic representation of women and people of color among nominees at all levels of the federal government.
-
-##### Fighting for the people is nothing new for Vice President Kamala Harris.
-
-In 2017, she was sworn into the United States Senate where she championed legislation to fight hunger, provide rent relief, improve maternal health care, expand access to capital for small businesses, revitalize America’s infrastructure, and combat the climate crisis. She questioned two Supreme Court nominees while serving on the Judiciary Committee. She also worked to keep the American people safe from foreign threats and crafted bipartisan legislation to assist in securing American elections while serving on the Senate Select Committee on Intelligence.
-
-In 2010, Vice President Harris was elected Attorney General of California where she oversaw the largest state justice department in the country. She took on those who were preying on the American people, winning a $20 billion settlement for Californians whose homes had been foreclosed on and a $1.1 billion settlement for students and veterans who were taken advantage of by a for-profit education company. She also defended the Affordable Care Act in court and enforced environmental laws.
- 
-In 2004, Vice President Harris was elected District Attorney of San Francisco where she was a national leader in the movement for LGBTQ+ rights, officiating the first same-sex wedding after Proposition 8 was overturned. She also established the office’s environmental justice unit and created a ground-breaking program to provide first-time drug offenders with the opportunity to earn a high school degree and find employment, which the U.S. Department of Justice designated as a national model of innovation for law enforcement. And years earlier, in 1990, she joined the Alameda County District Attorney’s Office where she specialized in prosecuting child sexual assault cases.
-
-Vice President Harris was born in Oakland, California. As the daughter of immigrants, she grew up surrounded by a diverse community and a loving extended family. She and her sister, Maya, were inspired by their mother, Shyamala Gopalan, a breast cancer scientist and pioneer in her own right who came to the United States from India at the age of 19 and then received her doctorate the same year that Kamala was born.
- 
-
-Both of the Vice President’s parents were active in the civil rights movement, and instilled in her a commitment to build strong coalitions that fight for the rights and freedoms of all people. They brought her to civil rights marches in a stroller and taught her about heroes like Supreme Court Justice Thurgood Marshall and civil rights leader Constance Baker Motley.
-
-Vice President Harris went on to graduate from Howard University and the University of California Hastings College of Law. In 2014, she married Douglas Emhoff, a lawyer. They have a large blended family that includes their children, Ella and Cole.
-
-As a trailblazer throughout her entire career, the Vice President is committed to fulfilling her mother’s advice: “Kamala, you may be the first to do many things, but make sure you are not the last.”
-
-**How Kamala Harris’ Platform Could Differ from Joe Biden’s**
+Vice President Harris has proudly represented the United States on the global stage in meetings with over 150 world leaders and bolstered vital alliances against tyranny abroad — and she is just as committed to stopping would-be authoritarians and dictators at home. She is leading the charge to protect fundamental freedoms, including the right to an abortion and the right to vote.
 
 
-President Joe Biden's decision not to seek re-election and his endorsement of Vice President Kamala Harris sets the stage for Harris to potentially lead the Democratic Party's charge on key issues like abortion rights, climate change, and student debt relief. Harris’ experience as California’s attorney general, a U.S. senator, and vice president provides some insight into her potential leadership style, but there are notable differences between her and Biden.
+In the U.S. Senate, she led on legislation to raise wages and bring down costs for American families — on housing, health care, child care, college, and more. Serving on the Senate Judiciary Committee, Homeland Security and Governmental Affairs Committee, Select Committee On Intelligence, and Committee On Budget, she fought for critical causes like criminal justice reform, climate action, infrastructure investments, and election security. She also grilled Donald Trump’s nominees, including Justice Brett Kavanaugh, and Cabinet officials, including then-Attorney General Jeff Sessions, to get answers for the American people.
 
-**Abortion Rights**  
-Harris has consistently championed reproductive rights, advocating for federal protections that surpass Roe v. Wade by proposing Justice Department oversight of state abortion laws. Unlike Biden, who aimed to restore Roe’s protections, Harris' approach is more aggressive, targeting states with histories of restricting abortion access.
+As California’s attorney general, she went up against the big banks and won — securing $20 billion for middle class homeowners who were facing foreclosure during the Great Recession. She went up against predatory for-profit colleges and won — delivering a $1.1 billion settlement for students and veterans who got scammed. She went up against discrimination  and won — leading the team that helped bring down California’s Proposition 8 at the U.S. Supreme Court and fighting for marriage equality nationwide. She prosecuted transnational gangs t​​hat exploited women and children and trafficked in guns, drugs, and human beings, and fought to require for-profit insurers to cover contraception and other reproductive health services.
 
-**Israel and Gaza**  
-Harris has shown more empathy towards Palestinians affected by the Israel-Hamas conflict, calling for a temporary cease-fire and criticizing Israel's handling of aid to Gaza. While her stance aligns broadly with Biden’s support for a two-state solution, Harris' tone suggests a stronger emphasis on humanitarian concerns.
+Beginning her career in the Alameda County District Attorney’s Office, she specialized in prosecuting child sexual assault cases. She later joined the San Francisco District Attorney’s office, and went on to win election to two terms as district attorney — where she started a program, “Back on Track,” to give first-time drug offenders the opportunity to earn high school diplomas and get jobs, that became a national model for decreasing recidivism rates.
 
-**Climate Change**  
-Harris supports more ambitious climate policies than Biden, including a $10 trillion plan and a ban on fracking. As a co-sponsor of the Green New Deal, she advocates for sweeping reforms to achieve 100% clean energy within a decade, contrasting with Biden’s more moderate Build Back Better plan.
+Vice President Harris is a proud graduate of Howard University and the University of California, Hastings College of the Law.
 
-**Student Debt Relief**  
-Harris has been a strong advocate for student debt relief, even before Biden's administration took action. Her previous proposals, such as debt forgiveness for Pell Grant recipients who start businesses, were less ambitious than Biden’s broader debt cancellation plan but still indicate a progressive stance.
 
-**Free College**  
-Harris supports broader access to tuition-free college than Biden, advocating for comprehensive coverage of college expenses beyond tuition. This contrasts with Biden’s more limited proposal focused on two-year colleges and lower-income families.
+In 2013, her best friend set her up on a blind date with Douglas Emhoff. The next year, she married him. Their large blended family includes their children, Ella and Cole, who call her Momala.
 
-**Trade**  
-Harris has taken a more critical stance on trade agreements than Biden, opposing the Trans-Pacific Partnership and voting against the USMCA over environmental concerns. Her focus is on protecting American workers and the environment, aligning with the progressive wing of the party.
-
-**Artificial Intelligence**  
-Harris favors stricter government regulation of AI technologies, focusing on issues like algorithmic bias and disinformation. This position contrasts with Biden’s preference for voluntary standards within the industry.
-
-**Data Privacy**  
-Harris’ background as California’s attorney general showcases her proactive approach to data privacy, having established enforcement units and advocated for strong consumer protections. Biden, meanwhile, has called for legislative action but has been less directly involved in enforcement.
-
-**Animal Welfare**  
-Harris has a strong record on animal welfare, defending California's strict laws on farm animal treatment. In contrast, Biden's administration has taken a more moderate approach, suggesting Harris may continue to champion stringent animal welfare standards.
-
-**Thoughts**  
-As Kamala Harris prepares for a potential presidential campaign, her positions suggest a more progressive approach on several key issues compared to Biden. How she navigates these differences will be critical in uniting the Democratic Party and appealing to voters in the upcoming election.
+Throughout her life, she’s broken barriers, and she’s now the first woman, first Black American, and first South Asian American to serve as vice president. She always remembers and acts on the words of her mother, Dr. Shyamala Gopalan Harris, a renowned breast cancer researcher:
