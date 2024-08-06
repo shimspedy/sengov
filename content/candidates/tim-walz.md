@@ -16,7 +16,7 @@ url:
 weight: 0
 layout: single
 keywords:
-- vice president
+ - vice president
 ---
 
 #### Meet Governor Tim Walz
