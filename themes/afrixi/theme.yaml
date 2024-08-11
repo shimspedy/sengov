@@ -9,7 +9,3 @@ homepage: "https://sengov.com/"
 tags: ["website", "starter", "responsive", "Disqus", "blog", "Tachyons"]
 features: ["posts", "shortcodes", "related content", "comments"]
 min_version: "0.131.0"
-
-[author]
-  name: "sengov"
-  homepage: "johnnyhashim@gmail.com"
