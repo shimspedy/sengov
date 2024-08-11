@@ -1,9 +1,9 @@
 ---
 date: 2024-07-19T11:54:12-05:00
 title: "Saudia Lamont"
-seo_title: "contact Representative Saudia Lamont"
+seo_title: "Representative Saudia Lamont"
 subheader:
-     greeting: Contact Representative Saudia Lamont
+     greeting: Representative Saudia Lamont
      description: Saudia Lamont, an American politician affiliated with the Democratic Party, serves as a member of the Vermont House of Representatives, representing the Lamoille-Washington District. She assumed office on January 4, 2023.
 description: Contact Representative Saudia Lamont of Vermont. Contact information for Saudia Lamont includes email address, phone number, and mailing address.
 image: saudia-lamont.jpeg
