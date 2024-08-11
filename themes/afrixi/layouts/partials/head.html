@@ -1,6 +1,6 @@
 
 {{ if or (eq (lower .Params.inoffice) "current") (eq (lower .Params.inoffice) "former") }}
-<title data-pagefind-body>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
+<title data-pagefind-body>{{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
 {{ else }}
 <title data-pagefind-body>{{.Params.seo_title}} | sengov.com</title>
 {{- end -}}
