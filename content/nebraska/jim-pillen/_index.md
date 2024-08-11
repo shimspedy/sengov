@@ -89,7 +89,7 @@ I will stand with law enforcement and safeguard our communities. Calls to defund
 
 We must demand order on the southern border. We are decades into the federal government not enforcing our laws and refusing to deal with immigration reform. It is simply inexcusable. The result is state and local governments are forced to deal with the resulting issues like education, healthcare, workforce and law enforcement. More importantly, the failure to reform and enforce an immigration policy creates a national security threat at every entry point to the U.S., and exploits the vulnerable like we are seeing right now with Biden’s border crisis.
 
-####c Government Spending
+#### Government Spending
 There is no room for wasteful government spending when I am Governor. I fundamentally believe that people should keep more of the money they earn, and that the government isn’t the answer to every problem. I know how hard families, farmers and small business owners work for every dollar they earn—and the government shouldn’t take a single cent more than is needed.
 
 
