@@ -3,7 +3,7 @@ author: john hashim
 title: What You Need to Know About ACP alternatives ?
 seo_title: What You Need to Know About ACP alternatives ?
 description: The Affordable Connectivity Program (ACP) is a government-funded initiative that provides discounted internet services to eligible low-income households.
-date: 2024-06-04T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: acp.png
 draft: false
 ---

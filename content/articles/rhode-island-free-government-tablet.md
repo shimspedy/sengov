@@ -3,7 +3,7 @@ author: john hashim
 title: Rhode Island's Free Government Tablet 
 seo_title: Rhode Island's Free Government Tablet 
 description: Rhode Island's free government tablet program has been a transformative initiative for low-income individuals, providing essential access to technology and connectivity.
-date: 2024-06-28T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablets.webp
 draft: false
 ---

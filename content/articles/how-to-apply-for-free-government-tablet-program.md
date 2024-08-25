@@ -3,7 +3,7 @@ author: john hashim
 title: how to apply for Free Government Tablet Program
 seo_title: how to apply for Free Government Tablet Program
 description: To apply for a free tablet from the government, you need to follow specific steps and meet certain eligibility criteria. Below is a detailed guide to help you through the process
-date: 2024-07-27T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: acp.png
 draft: false
 ---

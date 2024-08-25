@@ -3,7 +3,7 @@ author: john hashim
 title: Free government Laptop Program for low-income
 seo_title: Free government Laptop Program for low-income
 description: Free government Laptop Program helps low-income individuals gain access to essential technology needed for education and employment.
-date: 2024-06-02T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laptop.webp
 draft: false
 ---

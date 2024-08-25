@@ -3,7 +3,7 @@ author: john hashim
 title:  Overview of California's CalFresh
 seo_title:  Overview of California's CalFresh
 description: The Supplemental Nutrition Assistance Program (SNAP) in California, also known as CalFresh, provides essential food assistance to low-income individuals and families, helping them afford nutritious food and improve their overall health. 
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

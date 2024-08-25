@@ -3,7 +3,7 @@ author: john hashim
 title: Does Popeyes Take EBT?
 seo_title: Does Popeyes Take EBT?
 description: Popeyes has embraced the EBT system, albeit in a limited capacity.
-date: 2024-04-18T05:27:33.477Z
+date: 2024-08-21T05:45:23.641Z
 image: /ebt.jpeg
 draft: false
 ---

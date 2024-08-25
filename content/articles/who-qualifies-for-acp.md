@@ -3,7 +3,7 @@ author: john hashim
 title: Who Qualifies for a Free Cell Phone?
 seo_title: Who Qualifies for a Free Cell Phone?
 description: Are you struggling financially and wondering if you qualify for a free cell phone through the Lifeline program? This federal initiative helps low-income individuals stay connected by providing free cell phones and service. While there are some rules and restrictions, many people in need can benefit. 
-date: 2024-06-09T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.jpeg
 draft: false
 ---

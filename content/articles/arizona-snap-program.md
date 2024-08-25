@@ -3,7 +3,7 @@ author: john hashim
 title: Arizona's SNAP Program
 seo_title:  Arizona's SNAP Program
 description: The Supplemental Nutrition Assistance Program (SNAP) in Arizona provides essential support to low-income individuals and families, helping them access nutritious food.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2022-06-20T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " About Monkeypox"
 seo_title: "2022 U.S. Monkeypox Outbreak"
 description: Monkeypox is a rare disease caused by infection with the monkeypox virus.

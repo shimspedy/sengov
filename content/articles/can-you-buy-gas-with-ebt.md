@@ -3,7 +3,7 @@ author: john hashim
 title: Can You Buy Gas with EBT? 
 seo_title: Can You Buy Gas with EBT? 
 description: Numerous government initiatives are dedicated to ensuring digital inclusion by providing free tablets to eligible individuals.
-date: 2024-07-29T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snapc.png
 draft: false
 ---

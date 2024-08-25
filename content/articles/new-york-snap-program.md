@@ -3,7 +3,7 @@ author: john hashim
 title:  Overview of New York's Supplemental Nutrition Assistance Program (SNAP)
 seo_title:  Overview of New York's Supplemental Nutrition Assistance Program (SNAP)
 description: The Supplemental Nutrition Assistance Program (SNAP) in New York is a crucial resource that provides food assistance to low-income individuals and families, helping them achieve better nutrition and overall well-being.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

@@ -5,7 +5,7 @@ seo_title: An Overview of Section 8 Housing Assistance
 description: "The Housing Choice Voucher Program, also known as Section 8, is
   the federal government’s program for assisting low-income families, the
   disabled, and the elderly afford housing. "
-date: 2024-07-30T02:56:29.819Z
+date: 2024-08-21T05:45:23.641Z
 image: /save-money.webp
 draft: false
 ---

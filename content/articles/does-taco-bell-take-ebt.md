@@ -5,7 +5,7 @@ seo_title: Does Taco Bell Take EBT?
 description: While it’s not universally accepted at all locations, Taco Bell
   does welcome EBT under certain conditions, specifically through the Restaurant
   Meals Program (RMP).
-date: 2024-04-18T05:51:36.973Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: false
 ---

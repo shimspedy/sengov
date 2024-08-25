@@ -7,7 +7,7 @@ description: Domino’s Pizza, a popular choice for pizza lovers, has integrated
   (RMP). This program allows eligible individuals to use their SNAP EBT benefits
   to purchase hot, ready-to-eat meals, including Domino’s wide range of pizzas
   and other menu items.
-date: 2024-04-18T06:20:41.360Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: true
 ---

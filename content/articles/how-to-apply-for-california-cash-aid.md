@@ -5,7 +5,7 @@ seo_title: How to apply for  CalWORKs
 description: CalWORKs helps with cash to pay for rent, housing, food, clothing,
   medical payments, and utilities for families with at least one child in the
   home.
-date: 2024-07-29T21:29:13.811Z
+date: 2024-08-21T05:45:23.641Z
 image: /maxresdefault.jpg
 draft: false
 ---

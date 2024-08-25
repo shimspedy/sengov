@@ -1,5 +1,5 @@
 ---
-date: 2024-01-16T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " Does Target Accept EBT? "
 seo_title: "Does Target Accept EBT? "
 description: can use your EBT card to buy SNAP-eligible food items at any Target store, both in person and online.

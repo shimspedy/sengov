@@ -1,5 +1,5 @@
 ---
-date: 2024-01-15T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " Does Subway Take EBT?  "
 seo_title: "Does Subway Take EBT? "
 description: Many Subway restaurants across the country can accept SNAP EBT payments from eligible customers.

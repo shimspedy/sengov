@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get A Free iPhone Government Phone In 2024?
 seo_title: How to Get A Free iPhone Government Phone In 2024?
 description: The U.S. Government is giving away free phone service to residents that participate in government assistance programs or live in a low income household.
-date: 2024-06-26T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablets.webp
 draft: false
 ---

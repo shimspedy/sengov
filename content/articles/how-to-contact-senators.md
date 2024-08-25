@@ -1,5 +1,5 @@
 ---
-date: 2023-01-20T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: "Guide to Contacting Your Senators"
 seo_title: "Guide to Contacting Your Senators"
 description: As a citizen, it's important to have a voice in government and make your opinions heard. One of the most effective ways to do so is by reaching out to your senators.
@@ -10,40 +10,6 @@ url:
 weight: 0
 authors:
   - john shim
-keywords:
-- Comprehensive Guide
-- Contacting Senators
-- Citizen
-- Voice in Government
-- Effective Ways
-- United States Senate
-- State
-- U.S. Senate Website
-- Email
-- Phone
-- Snail Mail
-- Advantages and Disadvantages
-- Contact Form
-- Fast and Easy
-- Phone Numbers
-- U.S. Senate Switchboard
-- Voice Message
-- Snail Mail Letter
-- Relevant Information
-- Issue
-- Brief Introduction
-- Clear and Concise
-- Stance
-- Relevant Facts
-- Statistics
-- Request for Action
-- When to Contact
-- Legislation
-- Vote
-- Town Hall Meetings
-- Conclusion
-- Powerful Way
-- Make a Difference
 
 layout: single
 ---

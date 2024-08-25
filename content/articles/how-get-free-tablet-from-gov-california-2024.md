@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get a Free Tablet from the Government in California in 2024
 seo_title: How to Get a Free Tablet from the Government in California in 2024
 description: California is participating in a government-sponsored program designed to provide free tablets to eligible low-income families. 
-date: 2024-06-28T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablets.jpg
 draft: false
 ---

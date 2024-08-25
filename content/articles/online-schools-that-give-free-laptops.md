@@ -3,7 +3,7 @@ author: john hashim
 title: 14 Online Schools that Give Free Laptops
 seo_title: 14 Online Schools that Give Free Laptops
 description: The government has initiated a program for online schools that give free laptops to help students out. They are now accepting online applications for this government laptop program.
-date: 2024-05-20T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laptop.webp
 draft: false
 ---

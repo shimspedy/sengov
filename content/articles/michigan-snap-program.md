@@ -3,7 +3,7 @@ author: john hashim
 title:  Michigan's Supplemental Nutrition Assistance Program (SNAP)
 seo_title:  Michigan's Supplemental Nutrition Assistance Program (SNAP)
 description: Michigan’s Supplemental Nutrition Assistance Program (SNAP) plays a vital role in supporting low-income individuals and families by providing them with the means to purchase nutritious food.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

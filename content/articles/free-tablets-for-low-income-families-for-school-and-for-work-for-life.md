@@ -3,7 +3,7 @@ author: john hashim
 title: How to get Free Tablets for Low-Income Families
 seo_title: How to get Free Tablets for Low-Income Families
 description: Everyone knows that access to the internet is an essential service. In the modern pandemic world, it’s impossible to get by without the ability to send emails, apply for jobs, check the news, engage in remote learning, or stay in touch with friends and family.
-date: 2024-07-10T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tab.jpg
 draft: false
 ---

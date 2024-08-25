@@ -3,7 +3,7 @@ author: john hashim
 title: California Lifeline Free Government Phone Service
 seo_title: California Lifeline Free Government Phone Service
 description: Assurance Wireless offers free government phone service to eligible California residents through the California Lifeline program. This service includes a free smartphone, unlimited texts, unlimited talk minutes, and 6.5GB of data each month on T-Mobile’s 4G LTE network.
-date: 2024-07-03T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.webp
 draft: false
 ---

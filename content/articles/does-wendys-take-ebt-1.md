@@ -4,7 +4,7 @@ title: Does Wendys Take EBT?
 seo_title: Does Wendys Take EBT?
 description: Wendy’s, the well-known fast-food chain, has a select number of
   locations that accept EBT through the Restaurant Meals Program (RMP).
-date: 2024-04-18T06:02:15.775Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: false
 ---

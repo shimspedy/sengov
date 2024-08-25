@@ -3,7 +3,7 @@ author: john hashim
 title: Does Carl’s Jr. Accept EBT? 
 seo_title: Does Carl’s Jr. Accept EBT?
 description: The acceptance of Electronic Benefit Transfer (EBT) at Carl’s Jr. restaurants varies by location. Whether a particular Carl’s Jr. can process EBT transactions, either as cash benefits or SNAP (Supplemental Nutrition Assistance Program) food benefits, depends on the policies of the specific outlet and the region’s participation in the Restaurant Meals Program (RMP).
-date: 2024-07-02T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: carls.jpeg
 draft: false
 ---

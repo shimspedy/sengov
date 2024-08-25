@@ -5,7 +5,7 @@ seo_title: Kentucky Low Income Home Energy Assistance Program
 description: "Low Income Home Energy Assistance Program (LIHEAP) is a
   Federally-funded program that helps low-income households with their home
   energy bills. "
-date: 2024-07-30T02:52:36.441Z
+date: 2024-08-21T05:45:23.641Z
 image: /housing.webp
 draft: false
 ---

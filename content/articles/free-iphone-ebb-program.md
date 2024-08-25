@@ -3,7 +3,7 @@ author: john hashim
 title: How To Get a Free iPhone from the EBB Program
 seo_title: How To Get a Free iPhone from the EBB Program
 description: having access to a mobile phone and the internet is crucial for staying in touch with loved ones and conducting business. However, many people struggle to afford these necessities, especially during the pandemic.
-date: 2024-07-05T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: free-phone.png
 draft: false
 ---

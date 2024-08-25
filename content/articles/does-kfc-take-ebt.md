@@ -6,7 +6,7 @@ description: KFC, the iconic fast-food chain famous for its crispy fried
   chicken, participates in the Restaurant Meals Program (RMP) at select
   locations, allowing SNAP recipients to use their EBT cards for purchasing
   meals.
-date: 2024-04-18T05:56:42.245Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: false
 ---

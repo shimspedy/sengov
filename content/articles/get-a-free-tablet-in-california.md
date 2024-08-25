@@ -3,7 +3,7 @@ author: john hashim
 title: Get a Free Tablet in California?
 seo_title: Get a Free Tablet in California?
 description:  having a tablet is essential for education, work, and communication. To help bridge the digital divide, California has a program to provide free tablets to low-income families.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablet.webp
 draft: false
 ---

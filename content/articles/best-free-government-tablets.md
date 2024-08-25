@@ -3,7 +3,7 @@ author: john hashim
 title: Best Government Programs That Offer Free Tablets
 seo_title: Best Government Programs That Offer Free Tablets
 description: Numerous government initiatives are dedicated to ensuring digital inclusion by providing free tablets to eligible individuals.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablet.webp
 draft: false
 ---

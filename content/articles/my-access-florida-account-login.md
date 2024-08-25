@@ -3,7 +3,7 @@ author: john hashim
 title: Guide to My Access Florida Account Easy and Secure Benefits Management
 seo_title: Guide to My Access Florida Account Easy and Secure Benefits Management
 description: Navigating the My ACCESS Florida Account can initially seem overwhelming, but with proper guidance, the process becomes straightforward. This article provides a comprehensive resource for individuals seeking to access the various assistance programs offered by the state of Florida.
-date: 2024-06-18T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

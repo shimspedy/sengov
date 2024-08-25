@@ -3,7 +3,7 @@ author: john hashim
 title: Does Dollar General Take EBT?
 seo_title: Does Dollar General Take EBT?
 description: Dollar General, a well-known discount retailer in the U.S., offers a variety of affordable products and accepts EBT from the Supplemental Nutrition Assistance Program (SNAP).
-date: 2024-07-29T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snapc.png
 draft: false
 ---

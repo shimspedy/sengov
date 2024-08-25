@@ -3,7 +3,7 @@ author: john hashim
 title: California EBT Discounts and Perks
 seo_title: California EBT Discounts and Perks
 description: California’s Electronic Benefit Transfer (EBT) program offers much more than assistance with food purchases.
-date: 2024-07-29T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: cali-discount.png
 draft: false
 ---

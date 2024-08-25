@@ -3,7 +3,7 @@ author: john hashim
 title: How to use your EBT Card In Person
 seo_title: How to use your EBT Card In Person
 description: You also can use an EBT card at some convenience stores/gas stations, farmers markets, and more. 
-date: 2024-07-28T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snapc.png
 draft: false
 ---

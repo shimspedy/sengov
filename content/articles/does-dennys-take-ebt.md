@@ -6,7 +6,7 @@ description: Denny’s, the classic American diner chain, is known for its wide
   range of breakfast, lunch, and dinner options. For those using the
   Supplemental Nutrition Assistance Program (SNAP) benefits, the question of
   whether Denny’s accepts EBT is quite pertinent.
-date: 2024-04-18T06:28:43.095Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: false
 ---

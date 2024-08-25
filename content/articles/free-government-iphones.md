@@ -3,7 +3,7 @@ author: john hashim
 title: How to Claim a Free Government iPhone
 seo_title: How to Claim a Free Government iPhone
 description: Having access to a smartphone is essential to stay connected, access important services, and take advantage of opportunities. However, not everyone can afford the high price of a brand-new iPhone.
-date: 2024-07-28T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.webp
 draft: false
 ---

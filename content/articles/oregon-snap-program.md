@@ -3,7 +3,7 @@ author: john hashim
 title: Oregon's Supplemental Nutrition Assistance Program (SNAP)
 seo_title:  Oregon's Supplemental Nutrition Assistance Program (SNAP)
 description: The Supplemental Nutrition Assistance Program (SNAP) in Oregon is designed to help individuals and families with low incomes to buy nutritious food. The program is a crucial component of the state’s efforts to combat hunger and improve the health and well-being of residents.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---

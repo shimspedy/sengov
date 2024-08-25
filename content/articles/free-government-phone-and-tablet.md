@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get a Free Government Phone and Tablet 
 seo_title: How to Get a Get a Free Government Phone and Tablet
 description: To receive a free government phone and tablet, certain requirements must be met. Individuals participating in government assistance programs such as SNAP or Medicaid are usually eligible. You will need to submit supporting paperwork, such as proof of income or enrollment in approved programs.
-date: 2024-07-12T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tab.jpg
 draft: false
 ---

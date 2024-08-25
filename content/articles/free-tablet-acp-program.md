@@ -3,7 +3,7 @@ author: john hashim
 title: Free Tablet ACP Program
 seo_title: Free Tablet ACP Program
 description: This is the Free Tablet ACP Program that helps households connect where you can get a free tablet with the ACP Program and a 4G tablet with no cost service monthly
-date: 2024-06-04T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: free-tablet-acp-program.png
 draft: false
 ---

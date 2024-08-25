@@ -1,5 +1,5 @@
 ---
-date: 2022-06-20T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " Monkeypox Frequently Asked Questions"
 seo_title: "Monkeypox Frequently Asked Questions"
 description: Get answers to frequently asked questions about the 2022 monkeypox outbreak in the United States.

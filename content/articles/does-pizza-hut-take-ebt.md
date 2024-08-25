@@ -5,7 +5,7 @@ seo_title: Does Pizza Hut Take EBT?
 description: Pizza Hut is one of the participating establishments in the
   Restaurant Meals Program (RMP), a program specifically designed to assist
   eligible individuals who may face challenges in preparing their own meals.
-date: 2024-04-18T06:49:51.594Z
+date: 2024-08-21T05:45:23.641Z
 image: /16519930255493.jpg
 draft: true
 ---

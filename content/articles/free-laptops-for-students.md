@@ -3,7 +3,7 @@ author: john hashim
 title: Free Government Laptops for Students Program
 seo_title: Free Government Laptops for Students Program
 description: there are programs that offer free laptops to students in need. These programs are run by the government, charities, and universities, helping students succeed in their academic endeavors.
-date: 2024-05-21T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laptop.webp
 draft: false
 ---

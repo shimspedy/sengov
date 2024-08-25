@@ -3,7 +3,7 @@ author: john hashim
 title: Free Computers For Low-Income Families
 seo_title: Free Computers For Low-Income Families
 description: With many jobs turning toward remote help and students no longer learning inside a classroom, the need for a computer at home has never been greater. Computers can be costly, making it hard for low-income families to spare that expense despite the ever-pressing need.
-date: 2024-07-11T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laps.jpg
 draft: false
 ---

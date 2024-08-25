@@ -3,7 +3,7 @@ author: john hashim
 title: How to Cancel SNAP Benefits Online and In-Person
 seo_title: How to Cancel SNAP Benefits Online and In-Person
 description: Navigating the process of canceling your Supplemental Nutrition Assistance Program (SNAP) benefits, also known as Electronic Benefit Transfer (EBT), can be crucial if your financial situation improves or if you no longer need the assistance. 
-date: 2024-07-28T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snapc.png
 draft: false
 ---

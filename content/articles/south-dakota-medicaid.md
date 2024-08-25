@@ -1,5 +1,5 @@
 ---
-date: 2023-01-20T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " Benefits of South Dakota Medicaid"
 seo_title: "Applying for South Dakota Medicaid"
 description: South Dakota Medicaid is a government-run health insurance program for low-income individuals and families. 
@@ -10,42 +10,6 @@ url:
 weight: 0
 authors:
   - john shim
-keywords:
-- South Dakota Medicaid
-- Government-run health insurance program
-- Low-income individuals
-- Families
-- Health care services
-- Doctor visits
-- Hospital stays
-- Prescription drugs
-- Laboratory and X-ray services
-- Mental health services
-- Dental services
-- Vision services
-- Physical therapy
-- Speech therapy
-- Occupational therapy
-- Home health care
-- Hospice care
-- Preventative care services
-- Routine check-ups
-- Screenings
-- Eligibility criteria
-- Income requirements
-- Resource requirements
-- Household size
-- Citizens
-- Legal residents
-- United States
-- South Dakota
-- 65 years of age
-- Disabled
-- Blind
-- Application process
-- South Dakota Department of Social Services website
-- Paper application
-- Local Department of Social Services office
 
 layout: single
 ---

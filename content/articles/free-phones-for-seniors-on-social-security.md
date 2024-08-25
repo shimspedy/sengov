@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get Free Phones for Seniors on Social Security
 seo_title: How to Get Free Phones for Seniors on Social Security
 description: If you are seeking free phones for seniors on Social Security, you’ve come to the right place. Social Security is a government program designed to assist seniors and disabled individuals, including providing access to free cell phones.
-date: 2024-07-05T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.jpeg
 draft: false
 ---

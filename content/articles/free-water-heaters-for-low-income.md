@@ -3,7 +3,7 @@ author: john hashim
 title: How to get Free Water Heaters for Low-Income Families from Government and NGO Programs
 seo_title: How to get Free Water Heaters for Low-Income Families from Government and NGO Programs
 description: Water heaters are essential household appliances, especially during winter. However, many low-income families struggle to afford them.
-date: 2024-07-01T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: save-money.webp
 draft: false
 ---

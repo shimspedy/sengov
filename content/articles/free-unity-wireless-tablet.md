@@ -3,7 +3,7 @@ author: john hashim
 title: How to Get a Free Unity Wireless Tablet with the ACP?
 seo_title: How to Get a Free Unity Wireless Tablet with the ACP?
 description: Are you eligible for the Affordable Connectivity Program (ACP)? If so, you can get a free Unity Wireless Tablet! This portable device is perfect for online learning, job searches, and entertainment. 
-date: 2024-05-17T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablets.webp
 draft: false
 ---

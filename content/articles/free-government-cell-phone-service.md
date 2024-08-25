@@ -3,7 +3,7 @@ author: john hashim
 title: free government cell phone service
 seo_title: free government cell phone service
 description: Recognizing the importance of having access to a phone and concerned that low-income households may not be able to afford the full cost of phone service on their own, the federal government created the Lifeline Assistance program in 1985
-date: 2024-05-29T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablets.webp
 draft: false
 ---

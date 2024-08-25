@@ -4,7 +4,7 @@ title: How to apply for california free health care
 seo_title: How to get free california health care
 description: Get health care for your family including for children and seniors.
   Care also covers people with a disability, foster care, and pregnant women.
-date: 2024-07-30T02:37:11.055Z
+date: 2024-08-21T05:45:23.641Z
 image: /health.jpeg
 draft: false
 ---

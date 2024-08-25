@@ -3,7 +3,7 @@ author: john hashim
 title: How to Apply for free government laptop
 seo_title: How to Apply for free government laptop
 description: The Free Laptop Application Form is a document you fill out to request a free or very cheap laptop. It is mainly for low-income families and college students. This form is the first step in obtaining a free government laptop. You will need to provide personal information, financial details, educational background, and the reason for needing the laptop.
-date: 2024-05-20T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laptop.webp
 draft: false
 ---

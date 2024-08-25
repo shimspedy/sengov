@@ -3,7 +3,7 @@ author: john hashim
 title: Lifeline Cell Phone Service
 seo_title: Lifeline Cell Phone Service
 description: Lifeline is an assistance program providing government cell phone service for free to eligible customers in low-income households. 
-date: 2024-06-10T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.webp
 draft: false
 ---

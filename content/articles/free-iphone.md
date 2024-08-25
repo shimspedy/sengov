@@ -3,7 +3,7 @@ author: john hashim
 title: Government free iPhone Program
 seo_title:  Government free iPhone Program
 description: The federal government's Affordable Connectivity program (ACP) hash ended but some lifeline programs like Airtalk, metro by t-mobile still offer free iphones and other phone services at no cost.
-date: 2024-06-05T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: iphone.jpeg
 draft: false
 ---

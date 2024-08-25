@@ -3,7 +3,7 @@ author: john hashim
 title: Eligibility Criteria for Free Government Tablets
 seo_title: Eligibility Criteria for Free Government Tablets
 description: To qualify for free government tablets, applicants typically need to meet specific criteria set by the programs. Here are the common eligibility
-date: 2024-06-13T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablet.webp
 draft: false
 ---

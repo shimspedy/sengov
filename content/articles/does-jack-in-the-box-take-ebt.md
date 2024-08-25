@@ -5,7 +5,7 @@ seo_title: "Does Jack in the Box Take EBT? "
 description: Jack in the Box, the fast-food chain known for its diverse menu,
   participates in the Restaurant Meals Program (RMP), allowing SNAP EBT
   cardholders to enjoy their offerings at select locations.
-date: 2024-04-18T06:45:10.165Z
+date: 2024-08-21T05:45:23.641Z
 image: /ebt.jpeg
 draft: false
 ---

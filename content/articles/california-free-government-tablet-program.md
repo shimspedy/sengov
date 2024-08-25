@@ -3,7 +3,7 @@ author: john hashim
 title: California’s Free Government Tablet Program
 seo_title: California’s Free Government Tablet Program
 description: California's Free Government Tablet Program aims to close the digital gap by providing free tablets to eligible individuals. These tablets come with essential educational tools and resources.
-date: 2024-05-16T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: tablet.webp
 draft: false
 ---

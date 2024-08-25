@@ -1,5 +1,5 @@
 ---
-date: 2023-01-20T10:02:20-04:00
+date: 2024-08-21T05:45:23.641Z
 title: " What is Medicaid?"
 seo_title: "The Ultimate Guide to Medicaid: Everything You Need to Know"
 description: Medicaid is a joint federal and state program that provides health insurance to those with low income, disabilities, and the elderly.
@@ -10,19 +10,6 @@ url:
 weight: 0
 authors:
   - john shim
-keywords:
-  - senators
-  - constituents
-  - representation
-  - policies
-  - laws
-  - legislative process
-  - advocacy
-  - funding
-  - government resources
-  - contact
-  - engagement
-  - community impact
 layout: single
 ---
 

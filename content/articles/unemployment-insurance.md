@@ -3,7 +3,7 @@ author: john hashim
 title: how to file Unemployment Insurance 
 seo_title: how to file Unemployment Insurance 
 description: Unemployment Insurance is a joint state-federal program that provides cash benefits to eligible workers. Each state administers a separate UI program, but all states follow the same guidelines established by federal law.
-date: 2024-06-04T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: ui.webp
 draft: false
 ---

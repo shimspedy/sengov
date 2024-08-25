@@ -3,7 +3,7 @@ author: john hashim
 title: Free Government Laptops
 seo_title: Free Government Laptops
 description: how you can obtain a free laptop through top programs like EBT, Medicaid, and the Affordable Connectivity Program (ACP). I will cover eligibility requirements, necessary documentation, the online application process, and answer common questions. Let’s delve into the details.
-date: 2024-07-21T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: laptop.webp
 draft: false
 ---

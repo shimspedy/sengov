@@ -3,7 +3,7 @@ author: john hashim
 title: the Texas SNAP Program
 seo_title: the Texas SNAP Program
 description: The Supplemental Nutrition Assistance Program (SNAP) in Texas provides essential nutrition assistance to low-income individuals and families.
-date: 2024-06-14T05:45:23.641Z
+date: 2024-08-21T05:45:23.641Z
 image: snap.jpg
 draft: false
 ---
