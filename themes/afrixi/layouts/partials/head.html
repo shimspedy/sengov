@@ -46,8 +46,15 @@
 <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 
-{{ $style := resources.Get "sass/styles.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+<!-- {{ $style := resources.Get "sass/styles.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}"> -->
+
+
+{{ $opts := dict "transpiler" "libsass" "targetPath" "css/style.css" }}
+{{ with resources.Get "sass/styles.scss" | toCSS $opts }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+
 
 <!-- sw -->
 <link rel="manifest" href="{{.Site.BaseURL}}manifest.json">
@@ -55,5 +62,3 @@
 {{ if eq .Section "pay" }}
 <link  rel="stylesheet"   href="{{.Site.BaseURL}}css/pay.css">
 {{end }}
-<!-- 
-<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.scriptwrapper.com/tags/661b79cb-0fb0-42af-9c06-08323bb84845.js"></script> -->
