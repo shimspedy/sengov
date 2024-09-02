@@ -5,7 +5,7 @@ description: Lifeline is a federally sponsored program designed to ensure that a
 author: Shim
 image:
 video:
-url:
+url: /lifeline-program/
 weight: 0
 layout: single
 ---
