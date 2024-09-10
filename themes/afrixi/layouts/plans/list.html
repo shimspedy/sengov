@@ -1,0 +1,62 @@
+{{ define "main" }}
+    <div style="margin: 20px 0; background-color: bisque; border-radius: 10px; border: 5px solid #26b4d2;">
+        <input type="text" id="search" placeholder="Search for a lifeline..." style="font-size: 25px !important;     border-bottom: 0 !important;">
+    </div>
+   
+    <ul id="searchResults" class="row"></ul> <!-- Container for search results -->
+
+    <ul id="mosList" class="row">
+        {{ range where .Site.Pages "Section" "plans" }}
+            <li class="col s12 m8 offset-m2 l6 offset-l3 search-item" data-mos="{{ .Params.title }}">
+                <a href="{{ .Permalink }}">
+                    <div class="card-panel grey lighten-5 z-depth-1">
+                        <div class="row valign-wrapper" style="margin-bottom: 0px;">
+                            <div class="col s2">
+                                {{ with .Params.image }}
+                                    <img src="/lifeline/{{ . }}" alt="" class="circle responsive-img" style="width: 100px;">
+                                {{ else }}
+                                    <img src="/lifeline.png" alt="" class="circle responsive-img" style="width: 100px;">
+                                {{ end }}
+                            </div>
+                            <div class="col s10">
+                                <span class="black-text">
+                                    {{ .Params.title }} 
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+
+    <script>
+        const search = document.getElementById('search');
+        const searchResults = document.getElementById('searchResults');
+        const mosList = document.getElementById('mosList');
+
+        // Listen for input on the search field
+        search.addEventListener('input', function () {
+            const filter = search.value.toLowerCase();
+            searchResults.innerHTML = ''; // Clear previous search results
+
+            const items = document.querySelectorAll('.search-item');
+
+            let resultsFound = false;
+
+            items.forEach(item => {
+                const mosKey = item.dataset.mos.toLowerCase();
+                const mosTitle = item.querySelector('.black-text').textContent.toLowerCase();
+
+                if (mosKey.includes(filter) || mosTitle.includes(filter)) {
+                    const clonedItem = item.cloneNode(true);
+                    searchResults.appendChild(clonedItem);
+                    resultsFound = true;
+                }
+            });
+
+            // Hide the full list if there is a search query and results are found
+            mosList.style.display = filter && resultsFound ? 'none' : '';
+        });
+    </script>
+{{ end }}

@@ -1,0 +1,170 @@
+{{ define "main" }}
+  
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Params.seo_title }}",
+    "author": {
+      "@type": "Person",
+      "name": "john hashim"  // Assuming you have an author parameter in your site config
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": " Lifeline List",  // Replace with your site's name
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://Lifelinelist.com/logo.png"  // Replace with your site's logo URL
+      }
+    },
+    "articleBody": "{{ .Summary }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "company",
+      "value": "{{ .Params.seo_title }}"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "company Title",
+        "identifier": "{{ .Params.seo_title }}"
+      }
+    ]
+  }
+  </script>
+
+  
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="  col xl4 l4 hide-on-med-and-down right-col-article" i style="padding: 0px; position: sticky; top: 100px;">
+      <div class="white z-depth-1">
+
+
+
+        {{ with .Params.image }}
+          <img src="/lifeline/{{ . }}"  class="responsive-img" style="width: 100%;">
+        {{ else }}
+            <img src="/lifeline.jpg"  class="responsive-img" style="width: 100%;">
+        {{ end }}
+
+       
+
+
+
+
+
+      </div>
+      
+      {{- partial "ads/sidebar-custom" . -}}
+
+      {{ partial "nav/table-of-contents" . }}
+    </aside>
+    <div class="col xl8 l8 m12 s12">
+  
+      <article class="white z-depth-1 details " style="  padding-bottom: 30px; ">
+
+  
+        <div class="company-profile"
+        style='background-image: url("/bg.webp");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;'>
+        <div class="company" style="margin-top:0px; padding: 25px 20px 20px; border-radius: 6px;">
+            <h4 class=" flow-text">
+              {{.Params.title}}
+            </h4>
+           
+            
+        </div>
+    </div>
+
+          <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+            style="margin-top:0px; padding: 25px 20px 20px; border-radius: 6px; ">
+            
+            {{.Content}}
+
+
+
+
+          {{ if $currentState := .Params.state }}
+            <div class="row">
+              <h2 > A List Of Current {{ .Title }}</h2>
+              {{ range where .Site.RegularPages "Section" "lifeline" }}
+                  <!-- Check if the state parameter is a list -->
+                  {{ $matched := false }}
+                  {{ if (reflect.IsSlice .Params.state) }}
+                      <!-- Iterate through the state array -->
+                      {{ range $index, $state := .Params.state }}
+                          {{ if eq (lower $state) $currentState }}
+                              {{ $matched = true }}
+                          {{ end }}
+                      {{ end }}
+                  {{ else }}
+                      <!-- If state is a single string -->
+                      {{ if eq (lower .Params.state) $currentState }}
+                          {{ $matched = true }}
+                      {{ end }}
+                  {{ end }}
+          
+                  <!-- Display the post only if there's a match -->
+                  {{ if $matched }}
+                      <div class="col s12 m12 l12">
+                          <div class="card-panel grey lighten-5 z-depth-1">
+                              <a href="{{ .Permalink }}">
+                                  <div class="row valign-wrapper" style="margin-bottom: 0px;">
+                                      <div class="col s2">
+                                          {{ with .Params.image }}
+                                              <img src="/lifeline/{{ . }}" alt="" class="circle responsive-img" style="width: 60px;">
+                                          {{ else }}
+                                              <img src="/lifeline.png" alt="" class="circle responsive-img" style="width: 60px;">
+                                          {{ end }}
+                                      </div>
+                                      <div class="col s8">
+                                          <span class="black-text">
+                                              {{ .Params.title }}
+                                          </span>
+                                      </div>
+                                      <div class="col s2">
+                                            <img src="/icon.svg" alt="" class="circle responsive-img" style="width: 60px;">
+                                        
+                                    </div>
+                                  </div>
+                              </a>
+                          </div>
+                      </div>
+                  {{ end }}
+              {{ end }}
+          </div>
+          {{ end }}
+
+            
+            
+            
+
+            
+
+
+
+
+          </div>
+          
+
+
+
+
+
+
+
+  
+      </article>
+  
+    </div>
+  
+  </div>
+  
+   
+{{ end }}

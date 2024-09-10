@@ -1,0 +1,132 @@
+{{ define "main" }}
+  
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Params.seo_title }}",
+    "author": {
+      "@type": "Person",
+      "name": "john hashim"  // Assuming you have an author parameter in your site config
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": " Lifeline List",  // Replace with your site's name
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://Lifelinelist.com/logo.png"  // Replace with your site's logo URL
+      }
+    },
+    "articleBody": "{{ .Summary }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "company",
+      "value": "{{ .Params.seo_title }}"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "company Title",
+        "identifier": "{{ .Params.seo_title }}"
+      }
+    ]
+  }
+  </script>
+
+  
+
+<div class="row" itemscope itemtype="https://schema.org/Person">
+    <aside class="  col xl4 l4 hide-on-med-and-down right-col-article" i style="padding: 0px; position: sticky; top: 100px;">
+      <div class="white z-depth-1">
+
+
+
+        {{ with .Params.image }}
+          <img src="/lifeline/{{ . }}"  class="responsive-img" style="width: 100%;">
+        {{ else }}
+            <img src="/lifeline.jpg"  class="responsive-img" style="width: 100%;">
+        {{ end }}
+
+       
+
+
+
+
+
+      </div>
+      
+      {{- partial "ads/sidebar-custom" . -}}
+
+      {{ partial "nav/table-of-contents" . }}
+    </aside>
+    <div class="col xl8 l8 m12 s12">
+  
+      <article class="white z-depth-1 details " style="  padding-bottom: 30px; ">
+
+  
+        <div class="company-profile"
+        style='background-image: url("/bg.webp");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;'>
+        <div class="company" style="margin-top:0px; padding: 25px 20px 20px; border-radius: 6px;">
+            <h4 class=" flow-text">
+              {{.Params.title}}
+            </h4>
+            <p class="  flow-text">
+                
+              {{.Params.title}} Assistance Programs  in {{.Params.state}}
+             
+            
+            </p>
+            <div class=" flow-text">
+                <button class="waves-effect waves-light btn-small  ">
+                    <a target="_blank" href="{{.Params.CompanyURL}}" class="white-text">Visit Website</a>
+                </button>
+                <button class="waves-effect white-text  waves-light btn-small ">
+                  {{.Params.Phone}}
+                </button>
+            </div>
+        </div>
+    </div>
+         
+
+
+          <div class="{{if or (not (isset .Params `flow_text`)) (eq .Params.flow_text true)}}flow-text{{end}}"
+            style="margin-top:0px; padding: 25px 20px 20px; border-radius: 6px; ">
+            
+
+
+          
+
+
+
+
+
+
+
+
+
+
+            {{.Content}}
+          </div>
+          
+  
+  
+  
+  
+  
+  
+  
+      </article>
+  
+    </div>
+  
+  </div>
+  
+   
+{{ end }}
