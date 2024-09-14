@@ -25,14 +25,6 @@ website: https://legislature.vermont.gov/people/single/2024/37359/
 email : https://legislature.vermont.gov/people/single/2024/37359/
 twitter:
 ---
-**Name:** Bobby Farlice-Rubio  
-**District:** Caledonia-1  
-**Party:** Democrat  
-**Seat Number:** 21  
-**Email:** bfarlice-rubio@leg.state.vt.us  
-**Phone:** (802) 828-2228  
-**Mailing Address:** 115 State St., Montpelier, VT 05633  
-
 Bobby Farlice-Rubio was born in the Mission District of San Francisco, California, to a Cuban immigrant mother and a Black American father. He spent most of his childhood in a Spanish-speaking household within the Cuban American community of Hialeah, Florida. Bobby attended Amherst College in Massachusetts, where he majored in English with a concentration in Film Studies, graduating in 2001.
 
 Bobby has had a diverse career, including roles as an educator, musician, and park ranger. He worked for 18 years at the Fairbanks Museum and Planetarium in St. Johnsbury, Vermont, where he taught science, nature, and culture. Currently, he serves as a Park Ranger and Assistant Park Manager at Stillwater State Park and Seyon Lodge State Park in Groton State Forest. Bobby is also a regular contributor to the North Star Monthly, a newspaper based in Danville, Vermont, where he writes a column entitled “Consider This.”
