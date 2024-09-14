@@ -15,11 +15,23 @@
 </div>
 
 <script>
-    function shareOntwitter(){
-    var url = 'https://twitter.com/intent/tweet?url={{.Permalink}}&text={{ .Summary | truncate 200 }}';
-    TwitterWindow = window.open(url, 'TwitterWindow',width=600,height=300);
+function shareOntwitter() {
+    // Replace these placeholders with actual values
+    const permalink = encodeURIComponent('{{ .Permalink }}');
+    const summary = encodeURIComponent('{{ .Summary | plainify | truncate 200 }}');
+    
+    const url = `https://twitter.com/intent/tweet?url=${permalink}&text=${summary}`;
+    
+    const windowFeatures = 'width=600,height=300,menubar=no,toolbar=no,status=no';
+    const twitterWindow = window.open(url, 'TwitterWindow', windowFeatures);
+    
+    if (twitterWindow) {
+        twitterWindow.focus();
+    }
+    
     return false;
- } 
+}
+
 </script>
  
 <style>
