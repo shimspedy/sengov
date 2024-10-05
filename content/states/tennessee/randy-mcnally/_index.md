@@ -1,5 +1,5 @@
 ---
-date: 2024-06S-28T11:54:12-05:00
+date: 2024-06-28T11:54:12-05:00
 title: "Randy McNally"
 seo_title: "contact Senator Randy McNally"
 subheader:
