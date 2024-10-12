@@ -1,5 +1,5 @@
 ---
-date: 2024-04-16T11:54:12-05:00
+date: 2024-09-16T11:54:12-05:00
 title: "Kimberly Remak"
 seo_title: "contact Representative Kimberly Remak"
 subheader:
@@ -10,7 +10,7 @@ image: kimberly-remak.jpeg
 video:
 url:  /states/mississippi/kimberly-remak/
 weight: 1
-layout: course_homef
+layout: course_home
 
 ####candidate
 name: Kimberly Remak
