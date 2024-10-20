@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2024-10-20T11:54:12-05:00
 title: "Dina Titus"
 seo_title: "contact Representative Dina Titus"
 subheader:
@@ -30,63 +30,71 @@ powrid:
 ---
 
 ## About Dina Titus
-Serving the First Congressional District of Nevada, Congresswoman Dina Titus has built a strong record of achievement as both an educator and a public servant. As a professor, Dr. Titus taught American and Nevada government classes from 1979 through June 2011 at the University of Nevada, Las Vegas where she has professor emeritus status. A noted non-fiction writer, she is internationally known for her expertise in the history and policies related to nuclear power, weaponry, and waste as well as for her knowledge of the popular lore of "Atomic Culture."
+Serving the First Congressional District of Nevada for more than a decade, Rep. Dina Titus is the dean of Nevada’s delegation. Previously she served as State Senate Minority Leader from 1993 to 2009. 
 
-In 1988, Dina was elected to represent the people of District Seven in the Nevada State Senate, serving as the Democratic Minority Leader from 1993 to 2008. During her service in the Legislature, Dina was a champion for quality education and renewable energy development, and a strong advocate on behalf of Nevada’s children, seniors, and persons with disabilities.
+Dina has been a persistent champion for average Nevadans and has been rated one of the most effective Democratic members of the House of Representatives by the Center for Effective Lawmaking. 
 
-Dina has received numerous awards from various state and local organizations, but one of her proudest moments came in 2006 with the dedication of the Dina Titus Estates, an innovative affordable housing complex for disabled Nevadans, named in recognition of Dina's tireless advocacy.
+Dina is addressing the affordable housing crisis in Southern Nevada with legislation to provide more rental housing vouchers for lower-income families. She also is pushing legislation to help homebuyers by forcing outside institutional investors to divest themselves of the thousands of homes they have bought in Southern Nevada. Dina wants those homes to be owned by people, not corporations. She has brought jobs to Southern Nevada as a member of the House Transportation and Infrastructure Committee. She has introduced legislation to raise the minimum wage and she has fought to protect a woman’s right to choose. 
 
-Currently in her sixth term in the U.S. House of Representatives, Dina is the dean of Nevada’s Congressional delegation. She is a proud member of the House Committees on Transportation and Infrastructure, Foreign Affairs, and Homeland Security. In 2018, Dina was elected to become the Chair of a key Transportation and Infrastructure Subcommittee, where she works to help Nevada’s communities better respond to natural disasters, address the devastating impacts of climate change, and fight for infrastructure projects that will benefit the most vulnerable.
+Dina serves as a member of the House Foreign Affairs Committee where she brings common-sense expertise to international problems. Within the House Transportation and Infrastructure Committee, Dina serves as ranking member of a subcommittee that helps Nevada’s communities adapt to climate change and better respond to natural disasters. 
 
-After helping the Las Vegas community recover from the deadliest shooting in modern American history, Dina has emerged as one of the leading voices in Congress for substantive action to reduce gun violence. She is a strong advocate for the DREAM Act and comprehensive immigration reform. An expert on matters of nuclear energy and waste, Dina leads the effort in Congress to oppose the revitalization of Yucca Mountain.
+After helping the Las Vegas community recover from the deadliest shooting in modern American history, Dina has emerged as one of the leading voices in Congress for substantive action to reduce gun violence. She introduced legislation to ban bump stocks that convert rifles into machine guns. 
 
-Dina grew up in the small town of Tifton, Georgia, with her parents, Joe and Betty Titus, and her younger sister, Dr. Rho Hudson, who is a professor of special education and founding faculty member of Nevada State College. Dina is a graduate of the College of William and Mary, holds a Master's degree from the University of Georgia, and earned her Doctorate at Florida State University.
+Dina supported capping the price of insulin at $35. She has fought every Republican effort to overturn the Affordable Care Act, which provides health insurance to tens of thousands of Nevadans.
 
-Dina has been married to Professor Thomas C. Wright for over 35 years. Tom, a Latin American historian, received the prestigious UNLV Distinguished Professor award in 2008 and is the author of a number of award-winning books, most notably on political exile and human rights. John Wright Hall on campus is named after his father, pioneer professor at UNLV.
+Dina is a strong advocate for the DREAM Act and comprehensive immigration reform that provides a legal pathway to citizenship. 
 
-## Advocate in the Making
+Dina has worked to preserve Nevada’s special environment through creation of two national monuments. She also has fought to protect Nevada’s environment and its people through her three-decades-long opposition to the storage of nuclear waste at Yucca Mountain. She is also a founding member of the Colorado River Caucus and a strong advocate for renewable energy. 
 
-Dina grew up in the small community of Tifton, Georgia, with her parents, Joe and Betty Titus, and her younger sister, Dr. Rho Hudson, who is a retired Nevada State College professor of special education and does educational consulting in Nevada.
+Dina understands the importance of education because she has been an educator herself. She taught American and Nevada political science classes at the University of Nevada, Las Vegas from 1979 until 2011. A noted non-fiction writer, she is internationally known for her expertise in the history and policies related to nuclear power, weaponry and waste. 
 
-Dina learned from a close-knit family the value of community involvement and was introduced to politics at an early age. On the Titus side, her great, great grandfather James Seward served as a Democrat in the U.S. Congress from 1853 to 1859 and in the Georgia State Senate from 1860 to 1864.  Her uncle, Theo Titus, served in the Georgia Legislature as a Republican and her father Joe ran for a seat on the Tifton City Council. He went on to serve as the Head of the Building and Safety Departments for both Tifton and Henderson, NV. Additionally, on her mother Betty’s side, the "coffee table" in her Papu's downtown Plaza restaurant was always occupied by local politicos debating current issues. 
+Dina is a proud Greek American and serves as Vice Chair of the Hellenic Caucus in Congress, representing her heritage and fostering cooperation between the United States and Greece. She has called for the reunification of Cyprus and protections for the Ecumenical Patriarchate of Constantinople. 
 
-​
-Dina's high school years included cheerleading and tap dancing in addition to her studies. A dedicated student, Dina attended a summer program at the historic College of William and Mary and did so well that she was admitted full time for the fall - without a high school diploma. Attending school in the heartland of American democracy during the height of the Civil Rights movement and the Vietnam War inspired Dina to study Political Science and engage others in the critical issues of a changing world. After receiving her Bachelor's degree from William and Mary, Dina went on to earn a Master's degree from the University of Georgia and a Doctorate from Florida State University.
+Dina grew up in the small town of Tifton, Georgia, with her parents, Joe and Betty Titus, and her younger sister, Dr. Rho Hudson, who is a professor of special education and a founding faculty member of Nevada State College. 
 
-​
-She taught for a year at North Texas State University in Denton and then moved to Nevada to accept a faculty position at the University of Nevada, Las Vegas. Over the next 34 years, a virtual who's-who in government, public service, and legal circles studied with Professor Titus, whose classes consistently ranked among the most popular offerings on the campus. She believes her time in office enriched her teaching and that her knowledge of political science enhanced her public service.
+Dina is a graduate of the College of William and Mary, holds a master's degree from the University of Georgia, and earned her doctorate at Florida State University. 
 
-Dina has been married to Professor Thomas C. Wright since 1979. Tom, the author of numerous books on contemporary Latin American history, received the prestigious UNLV Distinguished Professor award in 2008. John Wright Hall on campus is named for his father, a Civil War historian and pioneer professor at UNLV.
+Dina has been married to Professor Thomas C. Wright for over 40 years. Tom, a Latin American historian, received the prestigious UNLV Distinguished Professor award in 2008 and is the author of a number of award-winning books, most notably on political exile and human rights. John Wright Hall on campus is named after his father, pioneer professor at UNLV.
 
-## Adventures around the Globe
 
-Dina and Tom share a love of travel, global culture, and folklore. Wright's studies in his field of expertise have taken the couple on extended stays in Mexico, Costa Rica, Chile, Argentina, and Spain and briefer visits to other Latin American countries.
+### TOP ISSUES
 
-Dina has also visited Taiwan and Siberia as a legislative liaison and traveled to both Israel and Afghanistan with Congressional delegations. As a member of the bipartisan House Democratic Partnership, she has visited a number of emerging democratic countries, including East Timor, Indonesia, Nepal, Georgia, Ukraine, Myanmar, Mongolia, and Kyrgyzstan. In June 2011 she went to Ukraine as a volunteer for the non-profit National Democratic Institute to offer seminars and lectures on democratic political practices and to encourage women’s participation.
+#### Creating Jobs, Boosting Wages, and Investing in Infrastructure
 
-As a scholar and legislator, Dina has particularly enjoyed visits to Greece – the birthplace of democracy as well as the home of her personal lineage as a Greek-American. Her grandfather, Arthur Costandinos Cathones, after whom she is named, came to the U.S. in 1911, landing at Ellis Island. Dina honored the life and memory of her grandfather by purchasing a brick with his name on it at the restored Ellis Island memorial.
+Share on Facebook Share on Twitter Print this Page Share by Email
+I believe that economic inequality is a defining challenge of our time, and I am proud to champion the rights of workers to unionize and to engage in collective bargaining for better wages and working conditions. As a senior member of the Transportation and Infrastructure Committee, I am focused on making sound, long-term investments in our nation’s highways, roadways, and airports that would create good-paying jobs for hardworking individuals in Southern Nevada and across the country. I will continue to ensure that Las Vegas has a seat at the table in any federal discussion about transportation and infrastructure. 
 
-Fully embracing her Hellenic heritage, she has visited Athens, Meteora, Delphi, and many of the beautiful islands, gaining a deeper understanding of the country's regions, ruins, museums, and cuisine. As a proud Greek, Dina has spoken out in favor of Hellenism in the classroom and in the Nevada legislature where she sponsored resolutions honoring the consecration of St. John the Baptist Greek Church in Las Vegas and recognizing that Macedonia is Greek. As a member of the Congressional Hellenic Caucus, she remains committed to reunifying Cyprus, protecting the ecumenical patriarchate in Constantinople, and maintaining the Greek sanctity of the name and symbols of Macedonia. 
+Additionally, I am committed to ensuring that all Nevadans earn a living wage. To that end, I have co-sponsored the Raise the Wage Act, which would raise the minimum wage to $15 per hour. No one should work full time and still live in poverty. Of course, we must also insist on equal pay for equal work, which is why I am proud to be an original co-sponsor of the Paycheck Fairness Act. 
 
-Dina keeps in close touch with her fellow members of the Greek community from around the world. She was honored to represent President Obama at the opening of the spectacular Acropolis Museum in Athens in 2009. She received the prestigious Pericles Award for public service from the Los Angeles American Hellenic Council in 2010; the Cyprus Leadership Award from the National Coordinated Effort of Hellenes in 2010; the “Salute to Women” Award from the Daughters of Penelope in 2012; and the Hellenic Heritage National Public Service Award from the American Hellenic Institute in 2014. 
+#### Humane Treatment of Animals
 
-Dina's travels have not only brought unforgettable personal experiences but have also informed her research and teaching with the perspective of numerous cultural viewpoints and political systems. This is important because she represents the most ethnically diverse district in Nevada.
+Share on Facebook Share on Twitter Print this Page Share by Email
+I believe animals should be treated with care, not cruelty. As a result, I am proud to consistently fight for animal welfare in Congress. I have helped lead the effort to end government agencies from wasting taxpayer dollars on inhumane animal experiments. I’ve also introduced legislation to make sure animals are taken care of in times of emergencies and natural disasters. Finally, I will continue to defend wild horses and burros which are too often threatened despite their importance to so many of us in the West.
 
-## Life under the Mushroom Cloud
+#### Foreign Affairs
 
-A noted non-fiction writer, Dina is the author of Bombs in the Backyard: Atomic Testing and American Politics (University of Nevada Press, Revised Edition 2001) and Battle Born: Federal-State Relations in Nevada during the Twentieth Century (Kendall-Hunt, 1989). She has also published numerous scholarly articles on American, Nevada, and atomic politics.
+Share on Facebook Share on Twitter Print this Page Share by Email
+Las Vegas is an international city that thrives on tourism from all around the world. I am committed to using my position on the Foreign Affairs Committee to build strong relationships between Southern Nevada and foreign nations, which helps create jobs in our community. 
 
-Dina is internationally known for her expertise in the history and policies related to nuclear power, weaponry, and waste – as well as her knowledge of the popular lore of "Atomic Culture." This unique area of study extends to a wide-ranging personal collection of atomic memorabilia. She appeared in the 2006 PBS documentary, “The American Experience: Las Vegas – an Unconventional History,” by acclaimed director Steven Ives, and is a favorite source on all things nuclear for the media. She was honored to give a guest lecture to the Los Alamos Historical Society and present an academic paper at the International War and Peace Conference at Sokendai University in Tokyo.
+I strongly believe that diplomacy must be the foundation of U.S. foreign policy. The United States has a stronger position on the world stage when we stand with our allies to confront global challenges. On urgent issues ranging from counterterrorism to nuclear proliferation, and climate change to human rights advocacy, the United States must mobilize our international partners to meet the challenges of the 21st century. 
 
-Today, the Atomic Testing Museum on the Las Vegas campus of the Desert Research Institute features the Dina Titus Reading Room in recognition of her scholarly achievement in the field and her support for the museum in the Nevada Legislature.
+#### Preventing Gun Violence
 
-While in Congress, Dina has continued her academic involvement, often visiting and lecturing in college classes. She has also published The Impact of the 2013 Sequester Cuts on Programs Affecting Women and Children (Notre Dame Journal of Legislation); Puff, Puff, Pass… That Law: The Changing Legislative Environment of Medical Marijuana Policy (Harvard Journal on Legislation); and Is Congress the “Broken Branch” of Government? (PS: Political Science and Politics).
+Share on Facebook Share on Twitter Print this Page Share by Email
+It is long past time for Congress to take substantive action to prevent gun violence. After the nation’s worst mass shooting in modern American history occurred at an October 2017 music festival in Las Vegas, I introduced legislation banning bump stocks, which allowed the gunman to convert his assault rifle into a machine gun that ended 58 lives. This is a key first step toward ending the senseless gun violence that plagues our nation. 
 
-## Other Accomplishments
+Additionally, I have co-sponsored bills to ban assault weapons and require comprehensive background checks for all gun purchases. Parents shouldn’t have to fear that their children won’t come home from school or a concert. We pass gun violence prevention legislation to keep our communities safe.
 
-In the spring of 2011, Dina created and hosted a radio show on UNLV’s KUNV (91.5 FM) featuring people, policy, and politics in the community and on the campus.
+#### Immigration Reform
 
-Dina also served as a member of the United States Civil Rights Commission. One of only eight members nationally, Dina was appointed to the Commission by Senator Harry Reid. The Commission meets monthly in Washington and addresses issues as diverse as voting rights, accommodations for people with disabilities, and discrimination in women’s sports on college campuses.
+Share on Facebook Share on Twitter Print this Page Share by Email
+I strongly believe that the symbol of the United States must always remain the Statue of Liberty, not an ineffective border wall. The diversity of Las Vegas is part of what makes our community unique. I am committed to reforming our broken immigration system and I believe strongly that law-abiding immigrants should have a pathway to citizenship. 
 
-In addition, Dina remains active in Democratic organizations and various local charities and service groups that she supports.
+DREAMers and TPS holders are teachers, nurses, and entrepreneurs. More importantly, they are our neighbors, friends, and colleagues. They are asking for nothing more than a shot at the American Dream. I will continue to support legislation that would keep families together, allow undocumented immigrants to come out of the shadows, protect DREAMers, and preserve the temporary protected status of immigrants fleeing violence and persecution in their native countries.
 
+#### Protecting the Environment and Stopping Yucca Mountain
+
+Share on Facebook Share on Twitter Print this Page Share by Email
+Due to decades of inaction and the denial of science, we are running out of time to address the climate crisis. Continuing on that path would have unacceptable and irreversible consequences on the planet and our people. I support a transition to a clean energy economy that could create millions of good-paying jobs while significantly reducing greenhouse gas emissions. 
+
+Additionally, I am leading the fight in Congress to prevent Nevada from becoming the dumping ground for the nation’s nuclear waste. As part of my efforts to block any effort to revitalize Yucca Mountain, I have introduced the Nuclear Waste Informed Consent Act which would prohibit the U.S. Department of Energy from establishing a nuclear waste dump without the consent of locally impacted communities, governments, and tribes. The attempts to move forward with the unsafe, unsound storage of nuclear waste at Yucca Mountain are based on dirty politics, not sound science. Nevada doesn’t use nuclear power, we don’t produce nuclear waste, and we shouldn’t be forced to store it.
