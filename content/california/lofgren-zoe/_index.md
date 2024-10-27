@@ -1,12 +1,12 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2024-10-26T11:54:12-05:00
 title: "Zoe Lofgren"
 seo_title: "contact Representative Zoe Lofgren"
 subheader:
      greeting: Contact RepresentativeZoe Lofgren 
-     description: Susan Ellen "Zoe" Lofgren is an American politician serving as a U.S. Representative from California. A member of the Democratic Party, Lofgren is in her 13th term as a congresswoman, having been first elected in 1994.
+     description: Zoe Lofgren has been a Democratic member of the United States House of Representatives since 1995. She represents the 18th District of California, which serves communities in Monterey, San Benito, Santa Clara, and Santa Cruz counties.
 description: Contact RepresentativeZoe Lofgren of California. Contact information for Zoe Lofgren includes email address, phone number, and mailing address.
-image: lofgren-zoe.jpeg
+image: lofgren-zoe.jpg
 video: 
 url: /california/lofgren-zoe/
 weight: 1
@@ -30,39 +30,70 @@ powrid:
 ---
 
 #### Congresswoman Zoe Lofgren
-Zoe Lofgren has been a Democratic member of the United States House of Representatives since 1995. She represents the 19th District of California, based in the “Capital of Silicon Valley,” San Jose, and the Santa Clara Valley.  
 
-A lifelong Bay Area resident and the daughter of a truck driver and a cafeteria cook, Zoe attended public schools and attended Stanford University on a California State Scholarship, graduating with a bachelor’s degree in political science in 1970. Prior to attending Stanford, Lofgren worked the night shift at the Eastman Kodak plant in Palo Alto to save money for non-tuition college expenses not covered by her scholarship. After graduating from Stanford, she attended, with the help of a scholarship, Santa Clara University School of Law, graduating cum laude in 1975. She served as a member of Congressman Don Edwards’ staff for eight years in both his San Jose and Washington DC offices. While practicing and teaching immigration law, she was first elected to the San Jose Evergreen Community College Board in 1979.  In 1980, she was elected to the Santa Clara County Board of Supervisors where she served for 14 years. Following Congressman Don Edwards’ retirement in 1994 after 32 years in Congress, Zoe was elected to the House of Representatives. She currently serves on the House Judiciary Committee, the House Science, Space and Technology Committee, and the Committee on House Administration.
-As the Chair of the Subcommittee on Immigration and Citizenship, and a former immigration attorney and immigration law professor, Zoe is recognized as an established champion of top-to-bottom immigration reform and a national leader in immigration policy. During the 113th Congress she played a key role in negotiating a comprehensive reform bill in the House Representatives as part of an eight-person bipartisan working group.
+Zoe Lofgren has been a Democratic member of the United States House of Representatives since 1995. She represents the 18th District of California, which serves communities in Monterey, San Benito, Santa Clara, and Santa Cruz counties.
 
-In 2010, in part due to her work on the Development, Relief and Education for Alien Minors (DREAM) Act, then-Speaker Nancy Pelosi presented Zoe with the gavel used to preside over the passage of the bill in the House of Representatives.
+A lifelong Bay Area resident and the daughter of a truck driver and a cafeteria cook, Zoe attended public schools and Stanford University on a California State Scholarship, graduating with a bachelor's degree in political science in 1970. She worked the night shift at the Eastman Kodak plant in Palo Alto to save for her college expenses not covered by the scholarship. After graduating from Stanford, Zoe attended Santa Clara University School of Law on a scholarship, graduating cum laude in 1975.
 
-Zoe is known for her work on patent reform, copyright issues, digital rights, and net neutrality.  She successfully fought to initiate the “e-rate” that provides affordable internet access for schools, libraries, and rural health centers, and she is the author of legislation that would allow the unlocking of cellular phones and other digital devices to give owners more control over their devices. She led a bipartisan effort in the House to decontrol encryption technology. 
+She served on Congressman Don Edwards' staff from 1970 to 1978 and was the first executive director of the nonprofit Community Housing Developers. In 1979, Zoe was elected to the San Jose Evergreen Community College Board, followed by her election to the Santa Clara County Board of Supervisors in 1980, where she served for 14 years. In 1994, Zoe was elected to the House of Representatives following Congressman Edwards' retirement.
 
-A staunch advocate for digital rights, Zoe was the lead early opponent of the Stop Online Piracy Act (SOPA) and led a successful fight to stop the bill in the House Judiciary Committee. Her Online Communications and Geolocation Protection Act would require law enforcement to obtain a warrant before retrieving communications and documents stored remotely or geolocation information about an individual.
+Zoe is currently the Ranking Member of the [House Science, Space and Technology Committee](https://democrats-science.house.gov/) and serves on the [House Judiciary Committee](https://democrats-judiciary.house.gov/). She also chairs the California Democratic Congressional Delegation, the most diverse delegation in the House.
 
-In 2014, Zoe led a bipartisan effort to close backdoor loopholes on unwarranted government surveillance. The Massie-Lofgren amendment to the 2015 Department of Defense Appropriations Act to stop the NSA from searching Americans’ private communications collected without a warrant, and to prohibit the NSA from weakening security protections in devices and software for unwarranted surveillance purposes, passed the House by a resoundingly bipartisan vote of 293 to 123.
+##### Immigrant Rights Leader
 
-In 2019, Zoe was appointed Chairperson of the Committee on House Administration by Speaker Nancy Pelosi and confirmed unanimously by the House Democratic Caucus. The Committee on House Administration (CHA) was established in 1947 as part of a larger effort to streamline the U.S. House of Representatives' committee system and to modernize its internal management and operations. After more than 70 years since the committee was established, CHA’s two principal functions include oversight of federal elections and day-to-day operations in the House. Historically, the committee has had a hand in shaping legislation that touches on any and all aspects of federal elections. Issues concerning corrupt practices, contested congressional elections, campaign finance disclosures, and credentials and qualifications of House Members also fall under its purview. Additionally, she is a member of the Select Committee on the Modernization of Congress, formed to make Congress more transparent, unifying and responsive to the needs and aspirations of the American people. 
+Zoe is known for her steadfast advocacy for immigrant communities and her expertise in U.S. immigration law and policy. She led Democrats on the House Immigration and Citizenship Subcommittee for eight consecutive sessions of Congress and led bipartisan negotiations for the [Farm Workforce Modernization Act](https://lofgren.house.gov/media/press-releases/bipartisan-house-members-introduce-farm-workforce-modernization-act-0), which provides a path to legal status for farmworkers and improves the H-2A visa program. Zoe has consistently pushed for common-sense immigration policies, including efforts to [address visa backlogs](https://lofgren.house.gov/media/press-releases/house-passes-reps-lofgrens-and-bucks-bipartisan-bill-strengthen-american) and create a [new visa program for immigrant entrepreneurs](https://lofgren.house.gov/media/press-releases/lofgren-introduces-legislation-create-new-visa-program-immigrant-entrepreneurs).
 
-Zoe is also the Chair of the California Democratic Congressional Delegation. It is the most diverse delegation in the House and outnumbers all other state House delegations.
+Zoe has also been a champion of comprehensive immigration reform and humanitarian protection, advocating for Temporary Protected Status (TPS) for various nations, including [Ukraine](https://lofgren.house.gov/press-releases/padilla-lofgren-call-for-protections-ukrainians), [El Salvador](https://lofgren.house.gov/media/press-releases/nadler-lofgren-condemn-trump-administration-decision-strip-salvadorans-tps), and [Haiti](https://lofgren.house.gov/media/press-releases/lofgren-statement-trump-administration-cancellation-temporary-protected-status).
 
-Zoe is married to John Marshall Collins and is the mother of two.
+##### Focused on Innovation and Tech Policy
 
-#### Personal Information
-- Born on December 21, 1947 in San Mateo, California
+Zoe has made significant strides in patent reform, internet privacy, digital rights, and net neutrality. She successfully pushed for the "e-rate" program, providing affordable internet access for schools and libraries. Zoe led a bipartisan effort to [decontrol encryption technology](https://lofgren.house.gov/media/press-releases/house-vote-amendment-shut-surveillance-backdoors) and was an early opponent of SOPA, successfully leading the fight against it.
+
+In 2014, Zoe spearheaded efforts to close loopholes on unwarranted surveillance, and in 2020, she led bicameral reform efforts to protect civil liberties during FISA reauthorization. She introduced the [Online Privacy Act](https://lofgren.house.gov/media/press-releases/eshoo-lofgren-introduce-online-privacy-act) to establish user rights and data protections.
+
+As the top Democrat on the House Science, Space and Technology Committee, Zoe is focused on [spurring innovation](https://democrats-science.house.gov/news/press-releases/rep-lofgren-selected-to-lead-democrats-on-house-science-space-and-technology-committee), [accelerating research on fusion energy](https://www.facebook.com/zoelofgren/posts/pfbid02wkA6Lvh4Qt9sR1R6h9V4XY2b5FTHDNgi32fAW97e18VMq7FwwUdhcaKEpK2U8gYQl), and [addressing wildfires](https://lofgren.house.gov/media/press-releases/comprehensive-science-authorization-bill-bolster-federal-agenda-wildfires).
+
+##### Defending Democracy
+
+Zoe has been a leader in anti-corruption, campaign finance, and pro-democracy reforms. She shepherded the [For the People Act](https://lofgren.house.gov/hr1) through the House, aiming to limit the influence of money in politics and protect voting rights. Zoe also served on the [Select Committee to Investigate the January 6th Attack](https://www.govinfo.gov/app/details/GPO-J6-REPORT/) and was a [House Manager in Trump's 2020 impeachment trial](https://www.nytimes.com/2020/01/15/us/politics/who-is-zoe-lofgren.html).
+
+
+
+#### Quick Facts
+
+##### Personal Information
+
+- Born on December 21, 1947
+- Daughter of a truck driver and a cafeteria cook, later a secretary
+- Grew up in Santa Clara County, California
+- First in her family to go to college
 - Married to John Marshall Collins
-- Mother of two adult children, Sheila and John Collins
-#### Education
+- Mother of two adult children
+- Grandmother of three
+
+##### Education
+
 - K-12 public schools
 - B.A., Political Science, Stanford University, 1970
 - J.D., cum laude, University of Santa Clara School of Law, 1975
-#### Professional Career
-- Served as Staff Assistant to her predecessor, Congressman Don Edwards, 1970-1978; Worked on impeachment proceedings, the Equal Rights Amendment, the Equal Rights Estension, and creation of the Don Edwards National Wildlife Refuge in the South San Francisco Bay
-- Practiced immigration law as a partner in the firm of Webber & Lofgren, 1978-1980
+
+##### Professional Career
+
+- Staff member for Congressman Don Edwards, 1970-1978
+- Practiced immigration law as a partner at Webber & Lofgren, 1978-1980
+- Elected to the San Jose Evergreen Community College Board, 1979
+- First Executive Director of Community Housing Developers, 1979
 - Taught immigration law at University of Santa Clara School of Law, 1977-1980
-- Served on Santa Clara County Board of Supervisors, 1981-1994 
-#### U.S. Congress
-- Elected in 1994 as only freshman Democrat from west of the Rocky Mountains
-- Serves as the Chair of the California Democratic Congressional Delegation
-- Serves as the Chair of the Committee on House Administration
+- Elected to the Santa Clara County Board of Supervisors, serving from 1981-1994
+
+##### U.S. Congress
+
+- Elected in 1994 as the only freshman Democrat from west of the Rocky Mountains
+- First woman to represent areas of the South Bay and Central Coast in Congress
+- Only Member of Congress involved in all four modern impeachment proceedings
+- First woman in U.S. history to address the Senate as an Impeachment Manager
+- Former Chair of the Committee on House Administration and the House Subcommittee on Immigration and Citizenship
+- Former Member of the Select Committee to Investigate the January 6th Attack
+- Ranking Member of the House Science, Space, and Technology Committee
+- Senior Member of the House Judiciary Committee
+- Chair of the California Democratic Congressional Delegation
