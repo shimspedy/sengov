@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Scott H. Peters
 state:	California
-district: 52nd
+district: 50nd
 party:	Democratic
 officeroom:	1201 LHOB
 phonenumber:	(202) 225-0508

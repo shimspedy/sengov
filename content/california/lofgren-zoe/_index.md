@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Zoe Lofgren
 state:	California
-district: 19th
+district: 18th
 party:	Democratic
 officeroom:	1401 LHOB
 phonenumber:	(202) 225-3072
@@ -29,7 +29,7 @@ twitter: RepZoeLofgren
 powrid: 
 ---
 
-#### Congresswoman Zoe Lofgren
+### Congresswoman Zoe Lofgren
 
 Zoe Lofgren has been a Democratic member of the United States House of Representatives since 1995. She represents the 18th District of California, which serves communities in Monterey, San Benito, Santa Clara, and Santa Cruz counties.
 
@@ -39,13 +39,13 @@ She served on Congressman Don Edwards' staff from 1970 to 1978 and was the first
 
 Zoe is currently the Ranking Member of the [House Science, Space and Technology Committee](https://democrats-science.house.gov/) and serves on the [House Judiciary Committee](https://democrats-judiciary.house.gov/). She also chairs the California Democratic Congressional Delegation, the most diverse delegation in the House.
 
-##### Immigrant Rights Leader
+#### Immigrant Rights Leader
 
 Zoe is known for her steadfast advocacy for immigrant communities and her expertise in U.S. immigration law and policy. She led Democrats on the House Immigration and Citizenship Subcommittee for eight consecutive sessions of Congress and led bipartisan negotiations for the [Farm Workforce Modernization Act](https://lofgren.house.gov/media/press-releases/bipartisan-house-members-introduce-farm-workforce-modernization-act-0), which provides a path to legal status for farmworkers and improves the H-2A visa program. Zoe has consistently pushed for common-sense immigration policies, including efforts to [address visa backlogs](https://lofgren.house.gov/media/press-releases/house-passes-reps-lofgrens-and-bucks-bipartisan-bill-strengthen-american) and create a [new visa program for immigrant entrepreneurs](https://lofgren.house.gov/media/press-releases/lofgren-introduces-legislation-create-new-visa-program-immigrant-entrepreneurs).
 
 Zoe has also been a champion of comprehensive immigration reform and humanitarian protection, advocating for Temporary Protected Status (TPS) for various nations, including [Ukraine](https://lofgren.house.gov/press-releases/padilla-lofgren-call-for-protections-ukrainians), [El Salvador](https://lofgren.house.gov/media/press-releases/nadler-lofgren-condemn-trump-administration-decision-strip-salvadorans-tps), and [Haiti](https://lofgren.house.gov/media/press-releases/lofgren-statement-trump-administration-cancellation-temporary-protected-status).
 
-##### Focused on Innovation and Tech Policy
+#### Focused on Innovation and Tech Policy
 
 Zoe has made significant strides in patent reform, internet privacy, digital rights, and net neutrality. She successfully pushed for the "e-rate" program, providing affordable internet access for schools and libraries. Zoe led a bipartisan effort to [decontrol encryption technology](https://lofgren.house.gov/media/press-releases/house-vote-amendment-shut-surveillance-backdoors) and was an early opponent of SOPA, successfully leading the fight against it.
 
@@ -53,15 +53,15 @@ In 2014, Zoe spearheaded efforts to close loopholes on unwarranted surveillance,
 
 As the top Democrat on the House Science, Space and Technology Committee, Zoe is focused on [spurring innovation](https://democrats-science.house.gov/news/press-releases/rep-lofgren-selected-to-lead-democrats-on-house-science-space-and-technology-committee), [accelerating research on fusion energy](https://www.facebook.com/zoelofgren/posts/pfbid02wkA6Lvh4Qt9sR1R6h9V4XY2b5FTHDNgi32fAW97e18VMq7FwwUdhcaKEpK2U8gYQl), and [addressing wildfires](https://lofgren.house.gov/media/press-releases/comprehensive-science-authorization-bill-bolster-federal-agenda-wildfires).
 
-##### Defending Democracy
+#### Defending Democracy
 
 Zoe has been a leader in anti-corruption, campaign finance, and pro-democracy reforms. She shepherded the [For the People Act](https://lofgren.house.gov/hr1) through the House, aiming to limit the influence of money in politics and protect voting rights. Zoe also served on the [Select Committee to Investigate the January 6th Attack](https://www.govinfo.gov/app/details/GPO-J6-REPORT/) and was a [House Manager in Trump's 2020 impeachment trial](https://www.nytimes.com/2020/01/15/us/politics/who-is-zoe-lofgren.html).
 
 
 
-#### Quick Facts
+### Quick Facts
 
-##### Personal Information
+#### Personal Information
 
 - Born on December 21, 1947
 - Daughter of a truck driver and a cafeteria cook, later a secretary
@@ -71,13 +71,13 @@ Zoe has been a leader in anti-corruption, campaign finance, and pro-democracy re
 - Mother of two adult children
 - Grandmother of three
 
-##### Education
+#### Education
 
 - K-12 public schools
 - B.A., Political Science, Stanford University, 1970
 - J.D., cum laude, University of Santa Clara School of Law, 1975
 
-##### Professional Career
+#### Professional Career
 
 - Staff member for Congressman Don Edwards, 1970-1978
 - Practiced immigration law as a partner at Webber & Lofgren, 1978-1980
@@ -86,7 +86,7 @@ Zoe has been a leader in anti-corruption, campaign finance, and pro-democracy re
 - Taught immigration law at University of Santa Clara School of Law, 1977-1980
 - Elected to the Santa Clara County Board of Supervisors, serving from 1981-1994
 
-##### U.S. Congress
+#### U.S. Congress
 
 - Elected in 1994 as the only freshman Democrat from west of the Rocky Mountains
 - First woman to represent areas of the South Bay and Central Coast in Congress

@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Jimmy Panetta
 state:	California
-district: 20th
+district: 19th
 party:	Democratic
 officeroom:	212 CHOB
 phonenumber:	(202) 225-2861

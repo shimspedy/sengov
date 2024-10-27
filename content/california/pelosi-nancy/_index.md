@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Nancy Pelosi
 state:	California
-district: 12th
+district: 11th
 party:	Republican
 officeroom:	1236 LHOB
 phonenumber:	(202) 225-4965

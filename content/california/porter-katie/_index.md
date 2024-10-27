@@ -16,7 +16,7 @@ layout: course_home
 ####candidate
 name:	Katie Porter 
 state:	California
-district: 45th
+district: 47th
 party:	Democratic
 officeroom:	1117 LHOB
 phonenumber:	(202) 225-5611
