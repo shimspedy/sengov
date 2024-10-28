@@ -1,12 +1,12 @@
 ---
-date: 2024-06-28T11:54:12-05:00
+date: 2024-10-24T11:54:12-05:00
 title: "Elaine Davis"
 seo_title: "contact Representative Elaine Davis"
 subheader:
      greeting: Contact Representative Elaine Davis
      description: Elaine Davis (born July 25, 1967) is an American politician who represents parts of western and southern Knox County in the 18th district of the Tennessee House of Representatives.
 description: Contact Representative Elaine Davis of Tennessee. Contact information for Elaine Davis includes email address, phone number, and mailing address.
-image: elaine-davis.jpeg
+image: elaine-davis.png
 video:
 url: /states/tennessee/elaine-davis/
 weight: 1
