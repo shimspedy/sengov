@@ -22,7 +22,7 @@ elected: 2019
 mailing1: Missouri House of Representatives Room 403-A 201 W Capitol Ave Jefferson City, MO 65101
 phone1: 573-751-9781
 website: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=160/
-email : Ben.Baker@house.mo.gov
+email : https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=160/
 twitter: benbakermo
 ---
 
