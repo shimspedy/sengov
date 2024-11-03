@@ -26,13 +26,46 @@
      {{end}}
 {{end}} -->
 
-{{ if .Sections }}
+<!-- {{ if .Sections }}
      {{ $shuffledSections := shuffle .Sections }}
      {{ range $shuffledSections }}
      {{ if eq .Section "states" }}
           {{ if .Sections }}
           <div class="mainx row">
                {{ range first 6  .Sections }}
+                         {{ range first 1 (shuffle .Sections) }}
+
+                         {{ if eq .Params.party "Democratic" }}
+                              <div class="wrapx wrap--3 col s6 m3 l2 democraticx">
+                           {{else if eq .Params.party "Republican"}}
+                              <div class="wrapx wrap--3 col s6 m3 l2 republicanx">
+                           {{else}}
+                              <div class="wrapx wrap--3 col s6 m3 l2 Independentx">
+                           {{ end }}
+                             
+                                  <a href="{{ .Permalink }}" title="{{ .Params.title }}">
+                                <div class="containerx containerx--1" style="background-image:url({{ .Params.url }}{{ .Params.image }});">
+                                  <p>{{ .Params.name }}</p>
+                                </div>
+                                  </a>
+                              </div>
+                         {{ end }}
+               {{ end }}
+          </div>
+          {{ end }}
+     {{ end }}
+     {{ end }}
+{{ end }} -->
+
+
+{{ if .Sections }}
+     {{ $shuffledSections := shuffle .Sections }}
+     {{ range $shuffledSections }}
+     {{ if eq .Section "states" }}
+          {{ if .Sections }}
+          <div class="mainx row">
+               {{ $reversedSections := reverse .Sections }}
+               {{ range first 6 $reversedSections }}
                          {{ range first 1 (shuffle .Sections) }}
 
                          {{ if eq .Params.party "Democratic" }}
