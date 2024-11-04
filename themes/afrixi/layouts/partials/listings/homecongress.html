@@ -1,7 +1,6 @@
-<!-- {{ if .Sections }}
+{{ if .Sections }}
 <div class="mainx row">
-     {{ range first 4 (shuffle .Sections) }}
-          {{ if (eq .Params.state "yes") }}
+     {{ range first 4 (where (shuffle .Sections) ".Params.state" "yes") }}
                {{ range first 1 .Sections }}
                     <div class="wrapx wrap--3 col s12 m4 l3">
                          <a href="{{ .Permalink }}" title="{{ .Params.title }}">
@@ -11,24 +10,10 @@
                          </a>
                     </div>
                {{ end }}
-          {{ end }}
-     {{ end }}
-</div>
-{{ end }} -->
-
-
-
-{{ if .Sections }}
-<div class="mainx row">
-     {{ range first 4 (where (shuffle .Sections) ".Params.state" "yes") }}
-          <div class="wrapx wrap--3 col s12 m4 l3">
-               <a href="{{ .Permalink }}" title="{{ .Params.title }}">
-                    <div class="containerx containerx--1" style="background-image: url('{{ .Params.image }}');">
-                         <p>{{ .Params.name }}</p>
-                    </div>
-               </a>
-          </div>
      {{ end }}
 </div>
 {{ end }}
+
+
+
 
