@@ -1,8 +1,9 @@
 {{ if .Sections }}
 <div class="mainx row">
      {{ range first 6 (shuffle .Sections) }}
-          {{ if (eq .Params.state "yes") }}
+          <!-- {{ if (eq .Params.state "yes") }} -->
                {{ range first 1 .Sections }}
+               {{ if (eq .Params.state "yes") }}
                     <div class="wrapx wrap--3 col s12 m4 l3">
                          <a href="{{ .Permalink }}" title="{{ .Params.title }}">
                               <div class="containerx containerx--1" style="background-image: url('{{ with .Params.url }}{{ . }}{{ end }}{{ .Params.image }}');">
