@@ -65,7 +65,7 @@ If you have to meet the general work requirements but you don’t, you are disqu
 
 #### The ABAWD Work Requirement and Time Limit
 
-If you are age 18–52\*, able to work, and don’t have any dependents, you might need to meet both the general work requirements and an additional work requirement for ABAWDs to get SNAP for more than 3 months in 3 years (the time limit).
+If you are age 18–52, able to work, and don’t have any dependents, you might need to meet both the general work requirements and an additional work requirement for ABAWDs to get SNAP for more than 3 months in 3 years (the time limit).
 
 You can meet the ABAWD work requirement by doing any one of these:
 
@@ -74,7 +74,7 @@ You can meet the ABAWD work requirement by doing any one of these:
 - Participate in a combination of work and work program hours for a total of at least 80 hours a month
 - Participate in workfare for the number of hours assigned to you each month (the number of hours will depend on the amount of your SNAP benefit)
 
-\*Note: Starting Oct. 1, 2024, these rules apply to people age 18-54.
+Note: Starting Oct. 1, 2024, these rules apply to people age 18-54.
 
 You are excused from the ABAWD work requirement and time limit if you are any one of these:
 
