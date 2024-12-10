@@ -72,3 +72,9 @@ readingTime = true
         weight = 4
         name = "states"
         url = "/states"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

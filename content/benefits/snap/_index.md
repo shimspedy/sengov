@@ -243,8 +243,6 @@ You can contact your state agency by visiting your local SNAP office, visiting y
 
 If you are unable to go to or call your local SNAP office or do not have access to the internet, you may have another person act as an authorized representative by applying and being interviewed on your behalf. You must designate the authorized representative in writing.
 
-
-
 #### What happens when I apply for SNAP?
 
 In most cases, once you submit your application, your state agency or local SNAP office will process it and send you a notice telling you whether or not you are eligible for benefits within 30 days.
@@ -475,4 +473,3 @@ You must request a fair hearing within 90 days of the day your local SNAP office
 You can request a fair hearing over the phone, in writing, or in person at the local SNAP office.
 
 Although a fair hearing cannot change the laws or regulations governing SNAP, it can ensure that decisions on your case have been made correctly.
-
