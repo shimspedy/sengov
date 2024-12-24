@@ -1,5 +1,5 @@
 ---
-date: 2024-11-22T11:54:12-05:00
+date: 2024-12-22T11:54:12-05:00
 title: "Adam B. Schiff"
 seo_title: "contact senator Adam B. Schiff"
 subheader:
@@ -35,6 +35,7 @@ Adam and his wife, Eve, have two wonderful children and have been married for al
 
 #### Serving Californians
 In 1996, Adam was elected to the California State Senate, and when his term began, he was the Senate’s youngest member. During his four-year term, Adam chaired the the Senate Judiciary Committee, the Senate Public Employment and Retirement Committee, the Senate Select Committee on Juvenile Justice, and the Joint Committee on the Arts. While serving in the State Senate, Adam also was a professor teaching political science at Glendale Community College.
+
 As a state legislator, Adam authored dozens of bills that were signed into law by both Democratic and Republican governors, including measures guaranteeing up-to-date textbooks in the classroom, overhauling state child support laws, passing a patient’s bill of rights, and guaranteeing cost-of-living increases for teacher pensions. He also authored the Schiff-Cárdenas Juvenile Justice Crime Prevention Act of 2000, which provided millions in funding to keep at-risk youth out of prison. Adam is also known as the “Father of the Gold Line” for his work to expand Metro rail into the San Gabriel valley, from Pasadena to Azusa, a project that is still ongoing.
 
 In 2000, Adam was first elected to the U.S. House of Representatives, where he served as a member of the House Committee on the Judiciary, the House Committee on Foreign Affairs, and the House Appropriations Committee. He also served as Chairman of the House Permanent Select Committee on Intelligence, and as a member of the House Select Committee to Investigate the January 6th Attack on the U.S. Capitol, and the United States House Select Committee on Benghazi.
