@@ -18,15 +18,15 @@ name:	Laphonza R. Butler
 state:	California
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	May 11, 1979
 age: ''
 enteredoffice:	October 3, 2023
-termexpires:	January 3, 2025
-mailingaddress: G10 Dirksen Senate Office Building Washington, DC 20510
-phonenumber:	202 224-3841
-emailaddress:	https://www.butler.senate.gov/
-website:	https://www.butler.senate.gov/
+termexpires:	December 8, 2024
+mailingaddress: 
+phonenumber:	
+emailaddress:	https://bioguide.congress.gov/search/bio/B001320
+website:	https://bioguide.congress.gov/search/bio/B001320
 twitter: LaphonzaB
 ---
 
