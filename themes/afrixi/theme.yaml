@@ -8,4 +8,4 @@ description: ""
 homepage: "https://sengov.com/"
 tags: ["website", "starter", "responsive", "Disqus", "blog", "Tachyons"]
 features: ["posts", "shortcodes", "related content", "comments"]
-min_version: "0.140.0"
+min_version: "0.140.1"
