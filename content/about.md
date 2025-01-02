@@ -26,7 +26,7 @@ My name is [John Hashim](https://johnhashim.com/). I was born and raised in a re
 
 See My graduation on CBSNEWS [From Africa to Philly ](https://www.cbsnews.com/philadelphia/news/from-africa-to-philly-refugee-never-stopped-chasing-dream-of-graduating/)
 
-![cpl hashim](/cpl.jpeg)
+![cpl hashim](/SgtShim.jpg)
 
 In 2021, I decided to pursue a childhood dream of serving in the Marine Corps. I developed a keen interest in politics and the biographies of public servants, often engaging in conversations about who I would vote for. This led to the creation of Sengov, initially focusing on governors, then senators, and eventually expanding to Congress and state-level officials.
 
