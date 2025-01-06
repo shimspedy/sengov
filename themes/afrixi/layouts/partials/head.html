@@ -19,20 +19,30 @@
 
 <meta name="fo-verify" content="f79749e8-2863-4c0a-96d8-39176c1ff0a8">
 {{ template "_internal/opengraph.html" . }}
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/schema.html" . }}
 {{ if eq .Params.imagedir "root" }}
 <meta property="og:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.imageurl}}" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
 {{ else if eq .Section "candidates" }}
 <meta property="og:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
 {{ else if eq .Section "articles" }}
 <meta property="og:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}candidates/{{.Params.image}}" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
 {{ else }}
 <meta property="og:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
 <meta property="twitter:image" content="{{.Site.BaseURL}}{{.Params.url}}{{.Params.image}}" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
 {{- end -}}
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 <link rel="canonical" href="{{ .Permalink }}" />
