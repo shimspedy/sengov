@@ -32,7 +32,7 @@
      {{ if eq .Section "states" }}
           {{ if .Sections }}
           <div class="mainx row">
-               {{ range first 6  .Sections }}
+               {{ range first 6  (shuffle .Sections) }}
                          {{ range first 1 (shuffle .Sections) }}
 
                          {{ if eq .Params.party "Democratic" }}
