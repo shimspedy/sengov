@@ -20,10 +20,10 @@ const rebuildSite = async (triggerTitle: string) => {
 // Scheduled function logic
 export default async () => {
     console.log("Triggering scheduled site rebuild...");
-    await rebuildSite('Scheduled rebuild (thrice daily)');
+    await rebuildSite('Scheduled rebuild (four times a daily)');
 };
 
-// Schedule: Runs 3 times a day at 6 AM, 2 PM, and 10 PM
+// Schedule: Runs 4 times a day at 6 AM, 12 PM, 2 PM, and 10 PM
 export const config: Config = {
-    schedule: '0 6,14,22 * * *', // Cron syntax for specific times
+    schedule: '0 6,12,14,22 * * *', // Cron syntax for specific times
 };
