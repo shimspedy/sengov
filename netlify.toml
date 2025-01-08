@@ -33,3 +33,7 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[functions]
+  directory = "netlify/functions"
+

@@ -1,3 +1,6 @@
+# Local Netlify folder
+.netlify
+
 # Ignore bundler config
 /.bundle
 
