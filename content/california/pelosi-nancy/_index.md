@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2024-11-22T11:54:12-05:00
 title: "Nancy Pelosi"
 seo_title: "contact Representative Nancy Pelosi"
 subheader:
@@ -17,7 +17,7 @@ layout: course_home
 name:	Nancy Pelosi
 state:	California
 district: 11th
-party:	Republican
+party:	Democratic
 officeroom:	1236 LHOB
 phonenumber:	(202) 225-4965
 emailaddress:	https://pelosi.house.gov/contact-me
@@ -29,7 +29,7 @@ twitter: SpeakerPelosi
 powrid: 
 ---
 
-Nancy Pelosi is the 52nd Speaker of the House of Representatives, having made history in 2007 when she was elected the first woman to serve as Speaker of the House. Pelosi made history again in January 2019 when she regained her position second-in-line to the presidency – the first person to do so in more than six decades. Speaker Pelosi has been the chief architect of generation-defining legislation under two Democratic administrations, including the Affordable Care Act and the American Rescue Plan. Now in her fourth term as Speaker, Pelosi is fighting For The People: working to lower costs, increase paychecks and create jobs for American families.
+Nancy Pelosi was the 52nd Speaker of the House of Representatives, having made history in 2007 when she was elected the first woman to serve as Speaker of the House. Pelosi made history again in January 2019 when she regained her position second-in-line to the presidency – the first person to do so in more than six decades. Speaker Pelosi has been the chief architect of generation-defining legislation under two Democratic administrations, including the Affordable Care Act and the American Rescue Plan. Now in her fourth term as Speaker, Pelosi is fighting For The People: working to lower costs, increase paychecks and create jobs for American families.
 
 For 35 years, Speaker Pelosi has represented San Francisco, California's 12th District, in Congress. She has led House Democrats for 19 years and previously served as House Democratic Whip. In 2013, she was inducted into the National Women's Hall of Fame at a ceremony in Seneca Falls, the birthplace of the American women's rights movement.
 
