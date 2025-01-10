@@ -1,5 +1,5 @@
 ---
-date: 2023-10-08T11:54:12-05:00
+date: 2025-01-08T11:54:12-05:00
 title: "Locality Rates for  Members of Boards of Contract Appeals"
 seo_title: "Locality Pay for  Members of Boards of Contract Appeals Members | Federal BCA Compensation"
 subheader:

@@ -1,5 +1,5 @@
 ---
-date: 2023-10-08T11:54:12-05:00
+date: 2025-01-08T11:54:12-05:00
 title: "Locality Rates for Administrative Law Judges"
 seo_title: "Locality Pay for Administrative Administrative Law Judges | Federal ALJ Salaries "
 subheader:

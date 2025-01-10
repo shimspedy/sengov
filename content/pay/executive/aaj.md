@@ -1,5 +1,5 @@
 ---
-date: 2023-10-08T11:54:12-05:00
+date: 2025-01-08T11:54:12-05:00
 title: " Administrative Appeals Judges"
 seo_title: "Appeals Judge Pay Scale | Federal Appeals Judge Salary "
 subheader:

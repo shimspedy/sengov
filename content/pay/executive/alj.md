@@ -1,5 +1,5 @@
 ---
-date: 2023-10-08T11:54:12-05:00
+date: 2025-01-08T11:54:12-05:00
 title: "Administrative Law Judges"
 seo_title: "Administrative Law Judge Pay Scale | Federal ALJ Salary"
 subheader:
