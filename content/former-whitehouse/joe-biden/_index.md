@@ -22,10 +22,10 @@ party:	Democratic
 officeroom: 1600 Pennsylvania Avenue NW, Washington, DC 20500
 phonenumber:	(202) 456-1111
 emailaddress:	https://www.whitehouse.gov/contact/
-website:	https://www.whitehouse.gov/administration/president-biden/
+website:	https://www.whitehouse.gov/administration/donald-j-trump/
 committeeassignment: 
 role: President
-inoffice: current
+inoffice: former
 twitter: POTUS
 
 ---
