@@ -25,7 +25,7 @@ emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/
 committeeassignment: 
 role: Secretary Of Agriculture  
-inoffice: current
+inoffice: former
 twitter: SecVilsack
 ---
 

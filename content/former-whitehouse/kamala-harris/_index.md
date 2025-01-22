@@ -25,7 +25,7 @@ emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/
 committeeassignment: 
 role: Vice President
-inoffice: current
+inoffice: former
 twitter: KamalaHarris
 
 ---

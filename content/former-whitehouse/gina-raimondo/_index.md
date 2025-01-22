@@ -19,7 +19,7 @@ state:	whitehouse
 birthstate: Rhode Island
 party:	Democratic
 role: Secretary Of Commerce
-inoffice: current
+inoffice: former
 born:	May 17, 1971
 age: '49'
 enteredoffice:	January 6, 2021
