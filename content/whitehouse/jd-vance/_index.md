@@ -24,7 +24,7 @@ phonenumber:	(202) 456-1111
 emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/administration/jd-vance/
 committeeassignment: 
-role: President
+role: Vice President
 inoffice: Current
 
 ---
