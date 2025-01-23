@@ -6,10 +6,10 @@ subheader:
      greeting: Contact Lee Zeldin
      description: Lee Zeldin is a former United States Congressman who represented New York’s First Congressional District from 2015 to 2023.
 description: Here you will find contact information for Lee Zeldin, including the email address, phone number, and mailing address.
-image: jd-vance.webp
+image: lee-zeldin.jpg
 video: 
-url: /whitehouse/jd-vance/
-weight: 1
+url: /whitehouse/lee-zeldin/
+weight: 3
 layout: course_home
 
 
@@ -18,14 +18,14 @@ name:	Lee Zeldin
 state:	whitehouse
 enteredoffice:	January 20, 2025
 district: 
-party:	Democratic
+party:	Republican
 officeroom: 1600 Pennsylvania Avenue NW, Washington, DC 20500
 phonenumber:	(202) 456-1111
 emailaddress:	https://www.whitehouse.gov/contact/
-website:	https://www.whitehouse.gov/administration/jd-vance/
+website:	https://www.whitehouse.gov/administration/
 committeeassignment: 
 role: Administrator of the Environmental Protection Agency
-inoffice: Current
+inoffice: current
 
 ---
 

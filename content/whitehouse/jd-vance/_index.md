@@ -9,7 +9,7 @@ description: Here you will find contact information for Vice President JD Vance,
 image: jd-vance.webp
 video: 
 url: /whitehouse/jd-vance/
-weight: 1
+weight: 2
 layout: course_home
 
 
@@ -18,14 +18,14 @@ name:	JD Vance
 state:	whitehouse
 enteredoffice:	January 20, 2025
 district: 
-party:	Democratic
+party:	Republican
 officeroom: 1600 Pennsylvania Avenue NW, Washington, DC 20500
 phonenumber:	(202) 456-1111
 emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/administration/jd-vance/
 committeeassignment: 
 role: Vice President
-inoffice: Current
+inoffice: current
 
 ---
 

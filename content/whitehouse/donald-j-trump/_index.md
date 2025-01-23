@@ -18,14 +18,14 @@ name:	Donald J. Trump
 state:	whitehouse
 enteredoffice:	January 20, 2025
 district: 
-party:	Democratic
+party:	Republican
 officeroom: 1600 Pennsylvania Avenue NW, Washington, DC 20500
 phonenumber:	(202) 456-1111
 emailaddress:	https://www.whitehouse.gov/contact/
 website:	https://www.whitehouse.gov/administration/donald-j-trump/
 committeeassignment: 
 role: President
-inoffice: Current
+inoffice: current
 
 ---
 
