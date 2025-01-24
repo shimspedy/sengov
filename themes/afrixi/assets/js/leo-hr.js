@@ -85,7 +85,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
     let i = 1;
     tables.forEach((item) => {
       let xml = item.xml + leo_url;
-      let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2024/${xml}.xml`;
+      let url = `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2025/${xml}.xml`;
       let tableid = "table" + i;
       xml_to_json_tables(url, tableid, "table");
       i++;
@@ -105,7 +105,7 @@ function xml_to_json_tables(url, tableid, tablediv) {
       }
       if (id != "AK" && id != "HI") {
         xml_to_json_tables(
-          `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2024/RUS${leo_url}.xml`,
+          `https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/xml/2025/RUS${leo_url}.xml`,
           "table_rus",
           "table_rus"
         );
