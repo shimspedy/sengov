@@ -22,7 +22,7 @@ inoffice: current
 born:	September 8, 1941
 age: '79'
 enteredoffice:	January 3, 2007
-termexpires:	January 3, 2025
+termexpires:	January 3, 2029
 mailingaddress:	332 Dirksen Senate Office Building Washington DC 20510
 phonenumber:	(202) 224-5141
 emailaddress:	http://www.sanders.senate.gov/contact/
