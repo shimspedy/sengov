@@ -1,10 +1,10 @@
 ---
-date: 2024-03-22T11:48:55-05:00
+date: 2025-01-22T11:48:55-05:00
 title: "Bernie Sanders "
 seo_title: "contact senator Bernie Sanders "
 subheader:
      greeting: contact senator Bernie Sanders (I-VT) 
-     description: Bernard "Bernie" Sanders is an American politician who has served as the junior United States senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007.
+     description: Bernie Sanders is serving his fourth term in the U.S. Senate after winning re-election in 2024. His previous 16 years in the House of Representatives make him the longest serving independent member of Congress in American history.
 description: Contact senator Bernard Sanders of Vermont. Contact information for Bernard Sanders includes  email address, phone number, and mailing address.
 author: john shim
 image: bernie-sanders.jpg
