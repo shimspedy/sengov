@@ -1,11 +1,11 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-01-22T11:54:12-05:00
 title: "Andy Kim "
-seo_title: "contact Representative Andy Kim "
+seo_title: "contact senator Andy Kim "
 subheader:
-     greeting: Contact Representative Andy Kim  
-     description: Andrew N. Kim is an American politician and former diplomat serving as the U.S. Representative from New Jersey's 3rd congressional district. The district stretches from Philadelphia's eastern suburbs to the Jersey Shore.
-description: Contact Representative Andy Kim  of New Jersey. Contact information for Andy Kim  includes email address, phone number, and mailing address.
+     greeting: Contact senator Andy Kim  
+     description: Andrew N. Kim is an American politician and former diplomat serving as the U.S. senator from New Jersey's 3rd congressional district. The district stretches from Philadelphia's eastern suburbs to the Jersey Shore.
+description: Contact senator Andy Kim  of New Jersey. Contact information for Andy Kim  includes email address, phone number, and mailing address.
 image: kim-andy.jpg
 video: 
 url: /new-jersey/kim-andy/
@@ -16,30 +16,25 @@ layout: course_home
 ####candidate
 name:	Andy Kim 
 state:	New Jersey
-district: 3rd
 party:	Democratic
-officeroom:	2444 RHOB
-phonenumber:	(202) 225-4765
-emailaddress:	https://kim.house.gov/contact
-website:	https://kim.house.gov/
+officeroom:	B40D Dirksen Senate Office Building Washington, DC 20510
+phonenumber:	(202) 224-4744
+emailaddress:	https://www.kim.senate.gov/contact/
+website:	https://www.kim.senate.gov/
 committeeassignment: 
-role: congress
+role: senator
 inoffice: current
-twitter: RepAndyKimNJ
-powrid: 
 ---
 
-​​I am the son of Korean immigrants — born and raised in America, the product of New Jersey public schools, a Rhodes scholar, national security expert, public servant, husband, and proud dad to two growing young boys.
+Andy Kim is a life-long public servant who is proud to represent the state where he grew up, and that gave his family a chance at the American Dream, in the United States Senate.
 
-I'm raising my kids just a few blocks from where I grew up because this community means everything to me and my family.
+Senator Kim represented his home community in the U.S. House of senators for three terms, representing parts of Burlington, Ocean, Mercer, and Monmouth Counties. During that time, Kim focused on strengthening America’s national security and standing up for our servicemembers, veterans, and their families as a member of the House Armed Services and House Foreign Affairs Committees. He also was an outspoken advocate for New Jersey’s entrepreneurs as a member of the House Small Business Committee. Kim also worked to address big challenges on the Select Committee on the Coronavirus Crisis and the Select Committee on the Strategic Competition between the United States and the Chinese Communist Party.
 
-My father suffered as a baby from Polio, grew up without parents, and even was homeless for parts of his childhood. My mother grew up in a poor farming community that experienced famine and hunger. My father went on to become a PhD scientist who dedicated his life to finding a cure for cancer and Alzheimer’s. My mother became a nurse and helped serve thousands of people in South Jersey.
+Before being elected to represent New Jersey’s 3rd Congressional District, Senator Kim worked as a career public servant under both Democrats and Republicans, having served at USAID, the Pentagon, the State Department, the White House National Security Council, and in Afghanistan as an advisor to Generals Petraeus and Allen.
 
-My parents chose to raise me and my sister in South Jersey because they believed the top-notch public school system would give us the best opportunities to succeed. I did all of K-12 right here, and that education helped me become a Rhodes Scholar and a leading national security expert – working at the Pentagon and in Afghanistan as a civilian advisor to the military.
+In the United States Senate, Senator Kim is committed to building a better future for his two little boys and generations to come. He is focused on combating corruption and ensuring our democracy is reflective of all American voices, on building an economy where everyone can afford to provide a better future for the next generation, and in making America more secure by growing our competitiveness.
 
-New Jersey gave my family the opportunity to achieve the American dream, but now, with all the dysfunction and challenges in our country, I worry those same opportunities won’t be there for my kids. I worry that the community that gave me everything isn’t getting the support it deserves. That’s why I’m fighting for my family, for my neighbors, for the community that raised me, and for working families in pursuit of the American Dream.
-
-I’m so honored to represent in Congress a district where I went to Kindergarten and where my little boys are going to Kindergarten now. This is where I got my first job and hit my first home run. Fighting for the community that raised me is the honor of a lifetime.
+Senator Kim is a proud husband, and father to a seven and nine-year old. 2024 marks 50 years since Senator-elect Kim’s parents immigrated from South Korea. He is proud to be the first Korean American elected to the United States Senate and New Jersey’s first Asian American senator.
 
 ## Strengthening Your Healthcare
 Ifirst ran for Congress to protect your access to healthcare after doctors warned us that our unborn son could have serious medical complications in 2017. We’re lucky that he’s grown into a healthy and thriving little boy, but no family should worry about losing their healthcare just because of a pre-existing condition.

@@ -18,7 +18,7 @@ name:	Robert Menendez
 state:	New Jersey
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	January 1, 1954
 age: '66'
 enteredoffice:	January 18, 2006
