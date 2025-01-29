@@ -7,7 +7,7 @@ subheader:
      description: Tina Kotek is an American politician who  serves as Oregon Governor also served as Speaker of the Oregon House of Representatives from 2013 to 2022. Kotek was the first openly lesbian person to serve as a speaker of a state house in the United States and was the longest-serving speaker in Oregon history before entering the gubernatorial race.
 description: Contact Governor Tina Kotek of Alabama. Contact information for Tina Kotek includes his email address, phone number, and mailing address.
 author: contact governors
-image: tina-kotek.jpeg
+image: tina-kotek.jpg
 video:
 url: /oregon/tina-kotek/
 weight: 1
@@ -21,7 +21,6 @@ party:	Democratic
 role: governor
 inoffice: current
 born:	September 30, 1966
-age: '56'
 enteredoffice:	February 18, 2023
 terms1: January 13, 2023
 terms2: 

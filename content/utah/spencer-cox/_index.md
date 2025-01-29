@@ -7,7 +7,7 @@ subheader:
      description: A sixth-generation Utahn, Gov. Spencer J. Cox was born and raised in Fairview, a town of 1,247 residents located about two hours south of Salt Lake City. He graduated from Snow College, Utah State University and Washington and Lee University School of Law.
 description: Contact Governor Spencer Cox of Utah. Contact information for Spencer Cox includes his email address, phone number, and mailing address.
 author: contact governors
-image: spencer-cox.jpeg
+image: spencer-cox.jpg
 video:
 url: /utah/spencer-cox/
 weight: 1

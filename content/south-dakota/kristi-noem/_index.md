@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:48:55-05:00
+date: 2025-01-22T11:48:55-05:00
 title: "Kristi Noem"
 seo_title: "contact Governor Kristi Noem "
 subheader:
@@ -19,24 +19,22 @@ state:	South Dakota
 birthstate: South Dakota
 party:	Republican
 role: governor
-inoffice: current
+inoffice: former
 born:	November 30, 1971
 age: '49'
 enteredoffice:	January 8, 2019 
-terms1: January 8, 2019 - Current
+terms1: January 8, 2019 - 2025
 terms2: 
 terms3: 
 termexpires:	
-mailingaddress1: 500 East Capitol Street Pierre, SD 57501
+mailingaddress1: 
 mailingaddress2:		
-phonenumber1: 605/773-3212
+phonenumber1: 
 phonenumber2:	
-fax1: 605/773-4711
+fax1: 
 fax2: 
-emailaddress:	https://governor.sd.gov/office/contact.aspx
-website:	https://governor.sd.gov/
-powrid: 43b470de_1609210882
-twitter: KristiNoem
+emailaddress:	
+website:	
 ---
 
 

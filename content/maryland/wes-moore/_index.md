@@ -1,5 +1,5 @@
 ---
-date: 2022-11-22T11:48:55-05:00
+date: 2025-01-27T11:48:55-05:00
 title: "Wes Moore"
 seo_title: "contact Governor Wes Moore "
 subheader:
@@ -7,7 +7,7 @@ subheader:
      description: Wes Moore, a combat veteran, bestselling author, small business owner, Rhodes Scholar and former CEO of one of the nation’s largest anti-poverty organizations, has devoted his life’s work to a basic principle no matter your start in life, you deserve an equal opportunity to succeed – a job you can raise a family on, a future you can look forward to.
 description: Contact Governor Wes Moore of Maryland. Contact information for Wes Moore includes his email address, phone number, and mailing address.
 author: contact governors
-image: wes-moore.png
+image: wes-moore.jpg
 video:
 url: /maryland/wes-moore/
 weight: 1
@@ -35,25 +35,27 @@ website:	https://wesmoore.com/
 twitter: iamwesmoore
 ---
 
-Wes Moore, a combat veteran, bestselling author, small business owner, Rhodes Scholar and former CEO of one of the nation’s largest anti-poverty organizations, has devoted his life’s work to a basic principle: no matter your start in life, you deserve an equal opportunity to succeed – a job you can raise a family on, a future you can look forward to.
+Wes Moore is the 63rd Governor of the state of Maryland. He is Maryland’s first Black Governor in the state’s 246-year history, and is just the third African American elected Governor in the history of the United States.
 
-Wes was born in Takoma Park, Maryland, to Joy and Westley Moore. When Wes was just three years old, his father died of a rare, but treatable virus. His father’s untimely death created instability in young Wes’ life, causing his mom to move the family to the Bronx, where Wes’ grandparents lived.
+Born in Takoma Park, Maryland, on October 15, 1978, to Joy and Westley Moore, Moore’s life took a tragic turn when his father died of a rare, but treatable virus when he was just three years old. After his father’s death, his family moved to the Bronx to live with Moore’s grandparents before returning to Maryland at age 14.
 
-The family returned to Maryland when Wes was 14, when Wes’ mom found a job in Baltimore – the first job that paid her benefits.
+Moore is a proud graduate of Valley Forge Military Academy and College, where he received an Associate’s degree in 1998, and was commissioned as a second lieutenant in the U.S. Army. Afterward, he went on to earn his Bachelor’s in international relations and economics at Johns Hopkins University in Baltimore, where he graduated Phi Beta Kappa.
 
-Wes graduated with an Associate’s Degree from Valley Forge Military College in 1998 and then Phi Beta Kappa from Johns Hopkins University in 2001. As a teenager, he interned for former Baltimore Mayor Kurt Schmoke and then went on to earn a Rhodes Scholarship, which took him to Oxford University.
+While at Johns Hopkins, Moore interned in the office of former Baltimore Mayor Kurt Schmoke. Moore was the first Black Rhodes Scholar in the history of Johns Hopkins University. As a Rhodes Scholar, he earned a Master’s in international relations from Wolfson College at Oxford.
 
-Inspired by his mentors at military school, Wes went on to serve as a captain and paratrooper with the U.S. Army’s 82nd Airborne, including leading soldiers in combat in Afghanistan. He also served as a White House Fellow, advising on issues of national security and international relations.
+In 2005, Moore deployed to Afghanistan as a lieutenant with the 82nd Airborne Division, leading soldiers in combat. Immediately upon returning home, Moore served as a White House Fellow, advising on issues of national security and international relations.
 
-Upon returning home, Wes wrote “The Other Wes Moore,” a story about the fragile nature of opportunity in America, which became a perennial New York Times bestseller. It’s commonly assigned reading in Maryland schools. Wes went on to write other best-selling books that reflect on issues of race, equity and opportunity, including his latest book “Five Days,” which tells the story of Baltimore in the days that followed the death of Freddie Gray in 2015.
+In 2010, Moore wrote “The Other Wes Moore,” a story about the fragile nature of opportunity in America, which became a perennial New York Times bestseller. He went on to write other best-selling books that reflect on issues of race, equity, and opportunity, including his latest book “Five Days,” which tells the story of Baltimore in the days that followed the death of Freddie Gray in 2015.
 
-It was Wes’ commitment to taking on our toughest challenges that brought him to the Robin Hood foundation, where he served for four years as CEO. During his tenure, the Robin Hood foundation distributed over $600 million toward lifting families out of poverty, including here in Maryland.
+Moore built and launched a Baltimore-based business called BridgeEdU, which reinvented freshman year of college for underserved students to increase their likelihood of long-term success. BridgeEdu was acquired by the Brooklyn-based student financial success platform, Edquity, in 2018.
 
-While the Robin Hood foundation is headquartered in New York City, Wes and his family never moved from their home in Baltimore.
+It was Moore’s commitment to taking on our toughest challenges that brought him to the Robin Hood Foundation, where he served for four years as CEO. During his tenure, the Robin Hood Foundation distributed over $600 million toward lifting families out of poverty, including here in Maryland.
 
-Earlier in his career, Wes built and launched a Baltimore-based business called BridgeEdU, which reinvents freshman year of college for underserved students to increase their likelihood of long-term success. BridgeEdu was acquired by the Brooklyn-based student financial success platform, Edquity, in 2018. He has also worked in finance with Deutsche Bank in London and with Citigroup in New York.
+While the Robin Hood Foundation is headquartered in New York City, Wes and his family never moved from their home in Baltimore.
 
-Of the many titles Wes has held over the years, there are two that he’s most proud of: husband and father. Wes and his wife Dawn live with their two children in Baltimore City.
+Moore has also worked in finance with Deutsche Bank in London and with Citigroup in New York.
+
+Moore and his wife, First Lady Dawn Flythe Moore​, have two children – Mia, 13; and James, 11 –​ and a dog, Tucker Balti.
 
 #### Work, Wages, And Wealth 
 
