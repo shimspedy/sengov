@@ -20,9 +20,7 @@ birthstate: South Dakota
 party:	Republican
 role: governor
 inoffice: current
-age: '49'
 enteredoffice:	January 8, 2025 
-terms1: January 8, 2025 - Current
 terms2: 
 terms3: 
 termexpires:	
