@@ -18,15 +18,13 @@ name:	Cori Bush
 state:	Missouri
 district: 1st
 party:	Democratic
-officeroom:	1016 LHOB
-phonenumber:	(202) 225-2406
-emailaddress:	https://bush.house.gov- contact
-website:	https://bush.house.gov- 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepDonYoung
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Cori Bush is a registered nurse, community activist, organizer, single mother, and ordained pastor representing the people of Missouri's First Congressional District. Congresswoman Cori is in her first term in the United States House of Representatives, serving on the House Judiciary Committee - including as Vice Chair of the Subcommittee on Crime, Terrorism, and Homeland Security - and the House Oversight Committee.
