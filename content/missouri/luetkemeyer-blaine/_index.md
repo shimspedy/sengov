@@ -24,9 +24,7 @@ emailaddress:	https://luetkemeyer.house.gov/contact/
 website:	https://luetkemeyer.house.gov/
 committeeassignment: Small Business
 role: congress
-inoffice: current
-twitter: RepBlaine
-powrid: 
+inoffice: former
 ---
 ## MEET REP. BLAINE
 A native of St. Elizabeth, Mo., in Miller County, Blaine Luetkemeyer, 67, is a lifelong resident of the district and knows what it takes to improve the economy and create jobs from his more than 30 years of experience as a small businessman. Luetkemeyer also has a strong background in agriculture including operating a 160-acre family farm and raising hogs and cattle to put himself through college. He is strongly pro-life, supports our Second Amendment rights, and believes in fiscal responsibility.
