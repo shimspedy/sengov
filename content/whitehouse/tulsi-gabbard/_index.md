@@ -6,9 +6,9 @@ subheader:
      greeting: Contact Tulsi Gabbard
      description: Lieutenant Colonel Tulsi Gabbard’s life is defined by her unwavering commitment to service and her love of country. 
 description: Here you will find contact information for Tulsi Gabbard, including the email address, phone number, and mailing address.
-image: pam-bondi.jpg
+image: tulsi-gabbard.jpg
 video: 
-url: /whitehouse/pam-bondi/
+url: /whitehouse/tulsi-gabbard/
 weight: 3
 layout: course_home
 
