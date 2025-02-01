@@ -1,10 +1,10 @@
 ---
-date: 2023-11-22T11:54:12-05:00
+date: 2025-01-28T11:54:12-05:00
 title: " Jared Moskowitz"
 seo_title: "contact Representative  Jared Moskowitz"
 subheader:
      greeting: Contact Representative  Jared Moskowitz 
-     description: Jared Moskowitz arrives in Washington with years of public service experience, delivering life-changing results to the people of Florida. 
+     description: Moskowitz answered the call of public service and was elected to the Parkland City Commission when he was in law school.
 description: Contact Representative  Jared Moskowitz of Florida. Contact information for  Jared Moskowitz includes email address, phone number, and mailing address.
 image: jared-moskowitz.jpeg
 video: 
@@ -27,8 +27,6 @@ role: congress
 inoffice: current
 twitter: JaredEMoskowitz
 ---
-Jared Moskowitz arrives in Washington with years of public service experience, delivering life-changing results to the people of Florida. During his first term, Moskowitz will work on initiatives to create jobs, improve schools, protect our democracy, strengthen support for Israel, and enact meaningful gun violence prevention legislation. Currently, Moskowitz serves on the House Oversight Committee and the House Foreign Affairs Committee.
-
 Moskowitz answered the call of public service and was elected to the Parkland City Commission when he was in law school. Right away, he began working for the people he was elected to serve by putting forward and delivering on pragmatic solutions regarding public safety and environmental protection.
 
 In 2012, Moskowitz was elected to the Florida Legislature, where he worked across party lines to deliver for his constituents, including passing bipartisan measures to make Florida’s schools safer, address climate change, support Israel, and implement animal welfare legislation.
@@ -38,6 +36,8 @@ When 17 people died in the mass shooting at his alma mater, Marjory Stoneman Dou
 In 2019, Moskowitz was appointed by Governor Ron DeSantis to be Florida’s Director of Emergency Management. As director, he was responsible for disaster recovery efforts throughout the state.  Most notably, the response to the COVID-19 pandemic and Hurricane Michael, a Category 5 storm.  During the height of the COVID pandemic, Moskowitz established testing programs, the vaccine rollout, and administered the distribution of millions of personal protective equipment to communities and hospitals across the state.
 
 Most recently, Moskowitz served as a Broward County Commissioner. In this position, he worked to improve affordable housing, invest in critical infrastructure, expand public transportation, enhance public safety, and address quality-of-life issues on behalf of his constituents.
+
+Moskowitz is now a dedicated representative to the constituents of Florida’s 23rd Congressional District. During his first term, Moskowitz worked tirelessly on initiatives to address gun violence, defend our democracy, strengthen support for Israel, and protect women’s reproductive freedom. Currently, Moskowitz serves on the House Oversight Committee and the House Foreign Affairs Committee as well as the Task Force on the Attempted Assassination of Donald J. Trump. Additionally, Moskowitz serves as a Co-Chair of the Congressional Sneaker Caucus, Co-Chair of the Congressional Dog Lovers’ Caucus, Vice Chair of the Gun Violence Prevention Task Force, and member of the House Bipartisan Task Force for Combatting Antisemitism.
 
 #### Defending Democracy
 Donald Trump and extremist Republicans have been on a mission to disenfranchise voters, weaken democratic institutions, undermine the rule of law and sow unfounded doubts about the legitimacy of our electoral system and processes. Jared will fight back, ensuring that American democracy is insulated from Trumpism and placed on a safer path than the one which ultimately led us to the horrific events of January 6th, 2021. He will support election security at the national level, advocate for reforms to stop gerrymandering and ensure minority representation, make Election Day a national holiday, universalize vote by mail, and standardize the process by which elections are certified in order to blunt GOP attempts to invalidate them.
