@@ -24,9 +24,7 @@ emailaddress:	https://sherman.house.gov/contact
 website:	https://sherman.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: BradSherman
-powrid: 
+inoffice: former
 ---
 Congressman Brad Sherman (D-Sherman Oaks) was born and raised in southern California and represents California’s San Fernando Valley. Sherman is currently serving his thirteenth term in Congress and has served in the House of Representatives since 1997.
 

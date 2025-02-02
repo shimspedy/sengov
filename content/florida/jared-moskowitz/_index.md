@@ -25,7 +25,6 @@ website:		https://moskowitz.house.gov
 committeeassignment: 
 role: congress
 inoffice: current
-twitter: JaredEMoskowitz
 ---
 Moskowitz answered the call of public service and was elected to the Parkland City Commission when he was in law school. Right away, he began working for the people he was elected to serve by putting forward and delivering on pragmatic solutions regarding public safety and environmental protection.
 

@@ -24,9 +24,7 @@ emailaddress:	https://mikegarcia.house.gov/contact
 website:	https://mikegarcia.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepMikeGarcia
-powrid: 
+inoffice: former
 ---
 
 A first-generation American citizen, Congressman Mike Garcia was a highly decorated United States Naval Officer and businessman before serving in the United States House of Representatives. His superb flying performance earned him the honor of becoming one of the first F/A-18 Super Hornet strike fighter pilots in the Navy. While on active duty, Congressman Garcia flew over 30 combat missions during Operation Iraqi Freedom in the skies above Baghdad, Fallujah, and Tikrit.

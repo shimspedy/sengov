@@ -24,9 +24,7 @@ emailaddress:	https://cardenas.house.gov/contact-me
 website:	https://cardenas.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepCardenas
-powrid: 
+inoffice: former
 ---
 
 Rep. Cárdenas was first elected to the United States House of Representatives in 2013 for the 113th Congress (2013-2014) and has represented California’s 29th district since. Now in the 117th Congress (2021-2022), Rep. Cárdenas sits on the prestigious House Committee on Energy and Commerce, where he is fighting for hard-working American families. He has worked on and authored legislation to lower prescription drug prices, protect American consumers, combat climate change, and ensure that everyone has access to affordable, quality health care. The Committee on Energy and Commerce is the oldest of the "authorizing" committees in the House.

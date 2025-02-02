@@ -25,8 +25,7 @@ website:	https://lee.house.gov/
 committeeassignment: Appropriations, Budget
 role: congress
 inoffice: former
-twitter: RepBarbaraLee
-powrid: 
+
 ---
 
 #### ABOUT BARBARA

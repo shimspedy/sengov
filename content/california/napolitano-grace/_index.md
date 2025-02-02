@@ -24,9 +24,7 @@ emailaddress:	https://napolitano.house.gov/contact/email
 website:	https://napolitano.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: gracenapolitano
-powrid: 
+inoffice: former
 ---
 Congresswoman Grace Flores Napolitano represents California’s 32nd District. Her Los Angeles County-based district covers several cities and communities in the San Gabriel Valley – El Monte, West Covina, Covina, Baldwin Park, Azusa, Duarte, Irwindale, Industry, La Puente, Avocado Heights, West Puente Valley, Valinda, Glendora, San Dimas, La Verne and Monrovia.
 

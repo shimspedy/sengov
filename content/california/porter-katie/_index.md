@@ -24,9 +24,7 @@ emailaddress:	https://porter.house.gov/contact/
 website:	https://porter.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepKatiePorter
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Katie Porter represents the 45th Congressional District in Orange County, California.

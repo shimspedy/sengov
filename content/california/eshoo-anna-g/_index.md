@@ -24,9 +24,7 @@ emailaddress:	https://eshoo.house.gov/contact
 website:	https://eshoo.house.gov/
 committeeassignment: Energy and Commerce
 role: congress
-inoffice: current
-twitter: RepAnnaEshoo
-powrid: 
+inoffice: former
 ---
 
 Like the Silicon Valley region she represents, Congresswoman Anna G. Eshoo exemplifies innovation. She’s creative, boundary breaking and productive. She is a problem solver and a consensus builder. In Rep. Eshoo’s two decades in Congress, she has defended consumers, promoted American competitiveness and innovation, fought for access to health care for families and children, protected the environment, and encouraged development of clean energy technology.

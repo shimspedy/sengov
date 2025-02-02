@@ -25,8 +25,6 @@ website:	https://aguilar.house.gov/
 committeeassignment: 
 role: congress
 inoffice: current
-twitter: RepPeteAguilar
-powrid: 
 ---
 Pete Aguilar represents the 31st Congressional District of California. He was most recently re-elected in 2020 and serves on the House Appropriations Committee. In the 117th Congress, Rep. Aguilar holds the leadership position of Vice Chair of the House Democratic Caucus.
 

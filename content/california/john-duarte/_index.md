@@ -24,9 +24,7 @@ emailaddress:	https://duarte.house.gov/contact/
 website:	https://duarte.house.gov/
 committeeassignment: Appropriations, Budget
 role: congress
-inoffice: current
-twitter: Duarte4Congress
-powrid: 
+inoffice: former
 ---
 
 Congressman John Duarte is a fourth-generation farmer and nurseryman who proudly calls Modesto, California home. He and his wife, Alexandra, operate their wine grape and almond growing family business, Duarte Nursery, together. And as parents to four children, John and Alexandra are proud to have raised their four children in the Central Valley's public schools.

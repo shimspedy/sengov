@@ -24,9 +24,7 @@ emailaddress:	https://steel.house.gov/address_authentication?form=/contact
 website:	https://steel.house.gov/
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: MichelleSteelCA
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Michelle Steel is serving her first term representing California’s 48th District. Born in South Korea and raised in Japan, Michelle immigrated to the United States to build her own American Dream. She is one of the first Korean American women to ever serve in Congress.
