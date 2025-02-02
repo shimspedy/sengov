@@ -1,5 +1,5 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-02T11:54:12-05:00
 title: "Jennifer Conlin"
 seo_title: "contact senator Jennifer Conlin"
 subheader:
@@ -26,10 +26,10 @@ email : https://housedems.com/jennifer-conlin/contact/
 twitter:
 ---
 
-State Representative Jennifer Conlin is currently in her first term, representing House District 48, which encompasses the northernmost precincts in the city of Ann Arbor, along with the townships of Ann Arbor, Dexter, Genoa, Hamburg, Northfield, Waterloo, Webster, Lyndon, and Putnam, and the village of Pinckney.
+Rep. Jennifer Conlin is serving her second term as state representative for House District 48, which comprises the northernmost precincts in the city of Ann Arbor, the townships of Ann Arbor, Dexter, Genoa, Hamburg, Northfield, Waterloo, Webster, Lyndon and Putnam, and the village of Pinckney.
 
-A dedicated wife, mother, daughter, and caregiver, Rep. Conlin is a native of Washtenaw County. Her family has a longstanding commitment to public service, with members serving in various capacities in city, county, and state governments, including the judicial bench to this day. With a career spanning decades as a journalist, she has had the privilege of meeting people from around the world and sharing their stories. Over the past 12 years, she focused on covering Michigan news, delving into topics such as small businesses, tourism, healthcare, arts and culture, and economic development. Rep. Conlin believes that her journalistic background uniquely equips her to be a state legislator who actively listens to all perspectives, seeks common ground, and amplifies the voices of her community.
+She is a wife, mother, daughter, caregiver and Washtenaw County native. Her family has a long legacy of public service in city, county and state governments, and continues to serve on the judicial bench to this day. During her decades-long career as a journalist, she had the opportunity to meet people all over the world and share their stories. For the last 12 years, she has been covering Michigan news, writing about small businesses, tourism, health care, arts and culture and economic development. She believes her profession has uniquely prepared her to be a state legislator who listens to all sides of an issue, finds common ground and amplifies the voices of her community.​
 
-Understanding the real-life challenges faced by her constituents, Rep. Conlin and her husband made the significant decision to return to Ann Arbor to be closer to family, including her aging parents. They have since lived in a multigenerational home, allowing her to witness firsthand the struggles of her children with student loans, her mother's concerns about rising prescription drug costs, and her own experiences as an independent contractor navigating the challenges of running a small business.
+Rep. Conlin understands real-life issues. She and her husband made the important decision to return to Ann Arbor to be closer to family, including her aging parents. Since then, they have lived in a multigenerational home. She has watched her children struggle to pay off their student loans, saw her mother worry about the rising cost of prescription drugs and, as an independent contractor for most of her career, experienced the challenges of running a small business.
 
-In her role as a state representative, her legislative priorities include enhancing infrastructure, safeguarding Michigan's natural resources, improving access and affordability of healthcare, bolstering school safety, attracting and retaining qualified teachers, and fortifying the state's economy. Rep. Conlin is committed to addressing the real issues facing her community and advocating for solutions that enhance the well-being of her constituents.
+As a state representative, her legislative priorities include strengthening infrastructure, protecting Michigan’s natural resources, improving health care access and affordability, increasing school safety, recruiting and retaining teachers, and strengthening the economy.
