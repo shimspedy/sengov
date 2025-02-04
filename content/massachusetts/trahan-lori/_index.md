@@ -4,7 +4,7 @@ title: "Lori Trahan"
 seo_title: "contact Representative Lori Trahan"
 subheader:
      greeting: Contact Representative Lori Trahan 
-     description: Congresswoman Lori Trahan was born and raised in a working-class family in Lowell, Massachusetts. Her father was a union ironworker and her mother was a domestic worker who juggled various part-time jobs while raising four girls. 
+     description: Congresswoman Lori Trahan proudly represents Massachusetts’ Third Congressional District, made up of 35 cities and towns including her hometown of Lowell. 
 description: Contact Representative Lori Trahan of Massachusetts. Contact information for Lori Trahan includes email address, phone number, and mailing address.
 image: trahan-lori.jpg
 video: 
