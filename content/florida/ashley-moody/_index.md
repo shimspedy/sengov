@@ -21,7 +21,6 @@ officeroom: B40B Dirksen Senate Office Building Washington, DC 20510
 phonenumber: (202) 224-3041
 emailaddress: https://www.moody.senate.gov/
 website: https://www.moody.senate.gov/
-committeeassignment: -
 powrid: 
 inoffice: current
 role: Senator
