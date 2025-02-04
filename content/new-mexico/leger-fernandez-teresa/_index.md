@@ -48,7 +48,7 @@ When the U.S. Forest Service started the biggest fire in New Mexico’s history 
 
 Teresa believes everyone needs access to health care no matter their income, insurance, or zip code. Quality and affordable health care is essential for our communities to thrive. As a breast cancer survivor, she understands how important it is to protect individuals with pre-existing conditions. As someone who lost two brothers to addiction, she wants to make sure no family experiences the same pain that her family did. In Congress, she introduced the Campus Prevention and Recovery Services for Students Act to address alcohol and substance use on college campuses. She also introduced the Home of Your Own Act to create a national homeownership assistance grant program to help address the current housing crisis and bring down the cost of homeownership.
 
-## Promote a vibrant, equitable economy. Invest in 21st century infrastructure
+#### Promote a vibrant, equitable economy. Invest in 21st century infrastructure
 New Mexicans are hurting from the high price of food, gas, and inflation. The COVID-19 pandemic, Putin’s war in Ukraine, and corporate greed have all contributed to these price increases. But while prices are increasing for hard-working New Mexicans, massive corporations are posting record profits. In Congress, I work hard to hold these massive corporations accountable for price gouging, fix supply chain issues and bring down the cost of gas, groceries and prescription drugs. But we have to do much more to create jobs, grow paychecks, and reduce costs for hard-working New Mexicans. 
 
 #### Infrastructure
