@@ -25,8 +25,7 @@ website:	https://fernandez.house.gov/
 committeeassignment: 
 role: congress
 inoffice: current
-twitter: TeresaForNM
-powrid: 
+
 ---
 
 Congresswoman Teresa Leger Fernández represents the beautiful and beautifully diverse 3rd Congressional District of New Mexico.
