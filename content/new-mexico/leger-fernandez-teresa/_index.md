@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-02-02T11:54:12-05:00
 title: "Teresa Leger Fernandez"
 seo_title: "contact Representative Teresa Leger Fernandez"
 subheader:
      greeting: Contact Representative Teresa Leger Fernandez 
-     description: I am a daughter of rural New Mexico, and I am here to represent New Mexico’s Third Congressional District with a deep understanding of what New Mexico’s communities need.
+     description: Congresswoman Teresa Leger Fernández represents the beautiful and beautifully diverse 3rd Congressional District of New Mexico.
 description: Contact Representative Teresa Leger Fernandez of New Mexico. Contact information for Teresa Leger Fernandez includes email address, phone number, and mailing address.
 image: leger-fernandez-teresa.jpg
 video: 
@@ -29,34 +29,25 @@ twitter: TeresaForNM
 powrid: 
 ---
 
-I am a daughter of rural New Mexico, and I am here to represent New Mexico’s Third Congressional District with a deep understanding of what New Mexico’s communities need.
+Congresswoman Teresa Leger Fernández represents the beautiful and beautifully diverse 3rd Congressional District of New Mexico.
 
-I am the girl who went to Head Start and fell in love with learning; who wants every child to have access to early childhood education and public schools that inspire them to achieve their potential.
+Teresa is a daughter of rural New Mexico and 17th generation New Mexican. Born in Las Vegas, New Mexico, she was part of the state’s first Head Start class. She went on to graduate from Yale and Stanford Law School.
 
-The pre-teen who flipped burgers at her uncle’s rodeo and wants our ranchers and farmers to stay on their land and help build a green rural economy.
+After law school, Teresa worked as an attorney and advocate and won important legal battles to advance voting rights, promote tribal sovereignty, and protect our environment and acequia waters. She also served as an acequia commissioner.
 
-The advocate who helped build health clinics, businesses, infrastructure and affordable housing who wants our country to invest in the 21st century infrastructure of broadband, transportation, housing and clean energy that we need for our communities and businesses to prosper.
+As a public interest lawyer, she helped secure nearly a billion dollars for and then helped build schools, rural health clinics, broadband, businesses, affordable housing, and critical infrastructure for New Mexico. She was also a Clinton and Obama presidential appointee and worked as a White House Fellow on housing issues and as Vice Chair of the Advisory Council on Historic Preservation.
 
-The former acequia commissioner who fought to keep water running in our valley who wants to make sure New Mexico’s water does not disappear because we did not act to save our planet and build a strong renewable energy economy.
+In Congress, Teresa serves on the House Rules Committee as Ranking Member of its Subcommittee on Legislative and Budget Process. Democratic Leader Hakeem Jeffries placed his trust in the congresswoman to represent Democrats in this powerful committee. She also serves on the House Committee on Natural Resources as the Ranking Member of its Subcommittee on Indian and Insular Affairs. As Ranking Member, her focus is to promote tribal sovereignty and improve life for all Native Americans. When Leger Fernández was chair of the subcommittee, the 117th Congress made the largest investments in Indian Country in generations and passed the Congresswoman’s STOP Act to protect sacred items from being illegally trafficked. 
 
-The Obama appointee and Clinton White House Fellow who knows the importance of marshalling smart federal policy on behalf of our local communities and our world.
+Congresswoman Leger Fernández also serves on the House Committee on Education and the Workforce. As a member of the Subcommittee on Higher Education and Workforce Development, she wants to make sure the paths to higher education and workforce development are available for all Americans.
 
-The mother of three amazing children who wants our state to build a dynamic and innovative economy that creates fulfilling, well-paying jobs for all our kids here in New Mexico.
+For her advocacy and work for women’s rights, Teresa’s colleagues elected her Chair of the Democratic Women's Caucus in 2024. Teresa also serves as a member of the Congressional Hispanic Caucus.
 
-The cancer survivor whose health coverage could be denied for pre-existing conditions who wants every person to have affordable and accessible health care.
+Teresa is the Co-Chair of the National Labs Caucus and the Rural Broadband Caucus. She is also a proud member of the following: Congressional Progressive Caucus, Diabetes Caucus, Labor Caucus, LGBTQ+ Equality Caucus, Mental Health Caucus, National Heritage Area Caucus, Native American Caucus, PFAS Caucus, Pro-Choice Caucus, Rural Caucus, Ski Caucus, and the Assisting Caregivers Today (ACT) Caucus.
 
-The advocate who helped build health clinics, businesses and infrastructure who wants our country to invest in 21st-century infrastructure so our communities and businesses can thrive.
+When the U.S. Forest Service started the biggest fire in New Mexico’s history in April of 2022, people lost their homes, their ranches, and their livelihoods. Teresa knew the USFS must be held accountable and secured a pause on prescribed burns. She helped pass the Hermit's Peak Calf Canyon Fire Assistance Act securing $3.95 billion to create an entirely new program to compensate victims of the fire and pay for the replacement of the damaged Las Vegas water treatment facility so that residents could have access to clean water. 
 
-The family-member that hikes in our beautiful mountains and wilderness…who wants to keep our public lands pristine and protected for generations to come.
-
-The former attorney for tribal sovereignty and the advocate for Hispanic cultural expression...who knows New Mexico’s multicultural understanding is a model for the nation.
-
-A proud daughter of rural New Mexico who grew up in Las Vegas as part of a big family who taught me that now is always the time to be of service to our communities.
-
-The first Congresswoman to represent New Mexico’s Third Congressional District, who is grateful for the opportunity to serve the communities that I love and have dedicated my life to. 
-
-I am running for reelection to continue delivering for our state on the issues that matter most so that our communities can not just survive 
-
+Teresa believes everyone needs access to health care no matter their income, insurance, or zip code. Quality and affordable health care is essential for our communities to thrive. As a breast cancer survivor, she understands how important it is to protect individuals with pre-existing conditions. As someone who lost two brothers to addiction, she wants to make sure no family experiences the same pain that her family did. In Congress, she introduced the Campus Prevention and Recovery Services for Students Act to address alcohol and substance use on college campuses. She also introduced the Home of Your Own Act to create a national homeownership assistance grant program to help address the current housing crisis and bring down the cost of homeownership.
 
 ## Promote a vibrant, equitable economy. Invest in 21st century infrastructure
 New Mexicans are hurting from the high price of food, gas, and inflation. The COVID-19 pandemic, Putin’s war in Ukraine, and corporate greed have all contributed to these price increases. But while prices are increasing for hard-working New Mexicans, massive corporations are posting record profits. In Congress, I work hard to hold these massive corporations accountable for price gouging, fix supply chain issues and bring down the cost of gas, groceries and prescription drugs. But we have to do much more to create jobs, grow paychecks, and reduce costs for hard-working New Mexicans. 
