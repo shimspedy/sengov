@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-02-02T11:54:12-05:00
 title: "Lori Trahan"
 seo_title: "contact Representative Lori Trahan"
 subheader:
@@ -29,17 +29,16 @@ twitter: RepLoriTrahan
 powrid: 
 ---
 
-Congresswoman Lori Trahan was born and raised in a working-class family in Lowell, Massachusetts. Her father was a union ironworker and her mother was a domestic worker who juggled various part-time jobs while raising four girls. 
+Congresswoman Lori Trahan proudly represents Massachusetts’ Third Congressional District, made up of 35 cities and towns including her hometown of Lowell. The granddaughter of immigrants, Lori grew up in a working-class family with her dad working long, hard hours as a union ironworker and her mom juggling part-time jobs while caring for her and her three sisters.
 
-The first in her family to graduate from college, Lori earned a scholarship to play Division 1 volleyball at Georgetown University. She joined the staff of former Congressman Marty Meehan as a scheduler, eventually working her way up to Chief of Staff. Following her public service, Lori began working in the private sector as the only female executive at a tech company before moving on to co-found a woman-owned and -operated consulting firm, Concire, where she advised various companies on business strategy and how to create the conditions for employees — especially women — to thrive.
 
-Congresswoman Trahan is one of few freshman who secured two coveted Committee assignments during her freshman term in Congress. 
+Lori is a proud graduate of the Lowell Public School system, and during her time at Lowell High School, she became a standout volleyball player. She earned a volleyball scholarship to Georgetown University where she became the first person in her family to graduate from college. Like many, Lori was introduced to public service as a college student in Washington, D.C. After college, she joined former Congressman Marty Meehan’s staff, working her way up to Chief of Staff. She deeply enjoyed working to serve her hometown and people across Massachusetts, but she also witnessed firsthand the increasing partisanship that served wealthy special interests instead of families like the one she grew up in.
 
-As a member of the House Education and Labor Committee, Rep. Trahan has jurisdiction over key areas pertaining to supporting public schools, making college more affordable and accessible, and ensuring fair wages and opportunities for our workforce. As a member of the House Armed Services Committee, Rep. Trahan oversees important issues pertaining to our servicemen and women, cybersecurity, and military readiness. This powerful Committee often produces one of the most bipartisan, consensus legislative products, the National Defense Authorization Act. 
+After a decade in public service, Lori took on a new challenge in the private sector as the only female executive at a tech company. Her passion for bringing women into leadership positions led her to co-found a women-owned and -operated consulting firm. In that role, she advised various companies on business strategy and how to create the ideal conditions for employees – especially women – to thrive.
 
-Since taking office, Rep. Trahan has introduced several pieces of legislation directly tied to addressing the needs of her constituents. The Leonel Rondon Pipeline Safety Act, which ensures that lessons learned from the Merrimack Valley Gas Explosion — which affected many families in her district — are realized. Additionally, she introduced bipartisan legislation which would increase funding opportunities for communities dealing with polluted waters due to decaying infrastructure. In the coming months, Rep. Trahan has also introduced several pieces of legislation regarding college affordability and to address the opioid epidemic. 
+Lori decided to run for Congress in 2018 – the first time she had ever sought public office – because she wanted to expand economic opportunities for working families in Massachusetts. Sworn in alongside a historically diverse class of new members, Lori immediately got to work for the people of the Third District. Now, as a member of the powerful House Committee on Energy and Commerce, Lori is an advocate for Third District residents – working to expand access to affordable, quality health care, end the addiction crisis, rebuild our infrastructure, tackle climate change, protect kids online, and more. She also serves in House Democratic Leadership as Co-Chair of the Democratic Policy &  Communications Committee, Senior Whip and member of the Democratic Steering and Policy Committee. 
 
-Rep. Trahan is a part of the historic freshman class which has ushered diverse perspectives into the halls of Congress. As a first-time office holder with public service and private sector experience, and as a mother two young girls, Rep. Trahan is bringing her unique perspective and results-oriented work ethic to the table in order to ensure Massachusetts’ 3rd Congressional District is well served.
+During her time in Congress, Lori has responded swiftly to crises from the Merrimack Valley gas explosions, when she secured passage of the Leonel Rondon Pipeline Safety Act, to the COVID-19 pandemic, when she co-founded the Pandemic Preparedness Caucus, to the overturning of Roe v. Wade, when she immediately got to work on behalf of women and health care providers. With every issue, Lori continues to prioritize the district she was born in, raised in, and that she and her husband are now raising their two young daughters in. To that end, Lori has secured hundreds of millions of dollars in federal funding for local infrastructure projects, small businesses, health centers, community organizations, and more.
 
 ## Education
 
