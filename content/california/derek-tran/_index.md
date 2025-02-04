@@ -1,11 +1,10 @@
 ---
 date: 2025-01-29T11:54:12-05:00
 title: "Derek Tran"
-seo_title: "contact Congress Derek Tran"
+seo_title: "contact Congressman Derek Tran"
 subheader:
-     greeting: Contact Congress Derek Tran
-     description: 
-Congressman Derek Tran proudly represents California’s 45th Congressional District. Serving his first term in Congress, Congressman Tran is a member of the House Armed Services Committee and House Small Business Committee where he focuses on national security, economic issues, consumer protections, and access to capital for small business owners and entrepreneurs.
+     greeting: Contact Congressman Derek Tran
+     description: Congressman Derek Tran proudly represents California’s 45th Congressional District. Serving his first term in Congress, Congressman Tran is a member of the House Armed Services Committee and House Small Business Committee where he focuses on national security, economic issues, consumer protections, and access to capital for small business owners and entrepreneurs.
 description: Contact Congress Derek Tran of California. Contact information for Derek Tran includes email address, phone number, and mailing address.
 image: derek-tran.jpeg
 video:
