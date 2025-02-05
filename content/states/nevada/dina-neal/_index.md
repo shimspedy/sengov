@@ -1,12 +1,12 @@
 ---
-date: 2024-10-19T11:54:12-05:00
+date: 2025-02-03T11:54:12-05:00
 title: "Dina Neal"
 seo_title: "contact Senator Dina Neal"
 subheader:
      greeting: Contact Senator Dina Neal
      description: Dina Neal is an American politician and a Democratic member of the Nevada Senate, serving since November 4, 2020.
 description: Contact Senator Dina Neal of Nevada. Contact information for Dina Neal includes email address, phone number, and mailing address.
-image: rochelle-nguyen.jpeg
+image: dina-neal.jpg
 video:
 url:  /states/Nevada/dina-neal/
 weight: 1
