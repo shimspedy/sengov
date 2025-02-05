@@ -1,22 +1,3 @@
-<!-- 
-{{if .Sections}}
-<div class="row" id="homesen">
-     {{range .Sections }}
-     {{ if  (eq .Params.state "yes")  }}
-           <div class="col s12 m6 l3">
-                    {{if .Sections}}
-                          {{range first 1 .Sections  }}
-                                   {{ partial "listings/inpower" . }}
-                         {{end}}
-
-                    {{end}}
-               
-          </div>
-          {{end}}
-     {{end}}
-</div>
-{{end}} -->
-
 
 {{if .Sections}}
 <div class="row" id="homesen">
