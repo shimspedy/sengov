@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-02-04T11:54:12-05:00
 title: "Dwight Evans"
 seo_title: "contact Representative  Dwight Evans"
 subheader:
      greeting: Contact Representative  Dwight Evans 
-     description: Dwight E. Evans is an American politician of the Democratic Party serving as a member of the United States House of Representatives from Pennsylvania's 3rd congressional district since 2016.
+     description: Congressman Dwight Evans represents Pennsylvania's 3rd Congressional District, which includes Northwest and West Philadelphia and parts of North, South and Center City Philadelphia.
 description: Contact Representative  Dwight Evans of Pennsylvania. Contact information for Dwight Evans includes email address, phone number, and mailing address.
 image: evans-dwight.jpg
 video: 
@@ -29,25 +29,21 @@ twitter: RepDwightEvans
 powrid: 
 ---
 
-Dwight Evans has dedicated his life to the cause of urban renewal, working to give a voice those who too often live in the shadows, the poor and underserved. His commitment has resulted in the rebirth of once-blighted neighborhoods along Ogontz Avenue, in West Oak Lane, an area that now serves as a magnet for the middle-class. For over thirty years, Dwight has worked to rebuild neighborhoods block by block, and his commitment has paid off.
+Congressman Dwight Evans represents Pennsylvania's 3rd Congressional District, which includes Northwest and West Philadelphia and parts of North, South and Center City Philadelphia. He was first elected in a special election in November 2016. Before that, he served as a state representative and made history as the first African-American chairman of the House Appropriations Committee.
 
-Now that the fog of the Great Recession has lifted, thanks in large part to President Obama’s administration, Dwight believes now is the time for a new national policy for America’s cities. Dwight says there are too many neighborhoods that have been hollowed out for forty years, all while federal funding for our cities has declined.
+Throughout his public service career, Congressman Evans has worked tirelessly to expand and broaden access to economic and educational opportunities for all Philadelphians. He currently serves on the influential Ways and Means Committee, which oversees Social Security, Medicare, taxes and trade. His priorities there include using the tax code to increase affordable housing, repair school buildings and strengthen the social safety net.
 
-The second oldest of five kids, Dwight grew up in North Philadelphia. Today, he lives in the same neighborhood, just ten blocks from where he lived in high school. After graduating from the Community College of Philadelphia and LaSalle, Dwight went to work as a teacher in the School District of Philadelphia. He then went to work for the Urban League and became a community activist, working to stop blight and lower crime in his neighborhood.
+In his first term, he had one of his bills passed and signed into law, a true accomplishment for a freshman in the minority party. That law is designed to reduce costs for small business owners who apply for a loan through the Small Business Administration. In his first term, he also supported a criminal justice reform bill which became law, the First Step Act.
 
-In 1980, Dwight Evans was first elected State Representative from the 203rd Legislative District and took office at the age of 26. Far from being a “go-along-get-along” legislator, Dwight stood out for his tenacity in working to help the people he represents. In 1986, Dwight led a hard-fought, historic effort to get approval to build a new convention center in Philadelphia, which has since provided tens of billions of dollars in economic impact, creating thousands of jobs.
+He proudly voted for landmark accomplishments during the first two years of President Biden’s term when Democrats controlled both chambers of Congress. These include the American Rescue Plan that provided a temporary expansion of the Child Tax Credit that lifted millions of kids out of poverty, a policy Congressman Evans wants to restore.
 
-Dwight made history in 1990 by becoming the first African-American Chairman of the House Appropriations Committee. Dwight held the post for two decades, where he was instrumental in helping Philadelphia receive funding for economic development, job training, and education initiatives.
+Congressman Evans also voted for the first major federal gun reform law in nearly 30 years, the Bipartisan Safer Communities Act; the Infrastructure Investment and Jobs Act, which is delivering hundreds of millions of dollars for much-needed work in Philadelphia; and the Inflation Reduction Act, which is cutting the cost of prescription medications like insulin for millions of Americans, and includes the nation’s largest investment ever in fighting climate change.
 
-A champion for teachers and innovation in education, Dwight helped start the West Oak Lane Charter School, a unionized school, which has helped teach thousands of kids from grades K-8.
+Congressman Evans is a member of the House Gun Violence Prevention Task Force and continues to advocate for life-saving gun reforms such as “red flag” laws, restoring a version of the federal assault weapons ban that was in place from 1994 to 2004, and universal background checks for gun buyers. He also continues to support reforms like the George Floyd Justice in Policing Act that the House passed in 2021.
 
-One of Dwight’s proudest achievements has been his work to combat hunger and increase access to quality foods. He took the lead on Pennsylvania’s Fresh Food Financing Initiative, linking public and private funds to provide grocery options in underserved areas. Because of this effort nearly 100 grocery stores have moved into areas that previously had no quality grocers, and more than 5,000 jobs have been created. The Obama administration championed Dwight’s approach and used the Pennsylvania initiative as a model for the nation, replicating it in several other cities across the country, including California, New York, New Jersey, Louisiana, and Illinois. Evans continues his fight to end “food deserts” in Philadelphia to this day.
+As part of the House Democratic majority that served from 2019 to 2022 and in the current Congress, Congressman Evans works to advance priorities such as protecting health care and reducing health disparities, and advocate for gun reform, criminal justice reform and economic development, including supporting small businesses. He works on these issues as a member of the Congressional Black Caucus, the Congressional Progressive Caucus and the Black Maternal Health Caucus.
 
-Dwight believes that now is the time for America to focus on the fact that despite a more urban population, Washington has ignored the need for a Federal urban plan. Since 1975, the population of America’s cities has grown by 100 million people. Yet, Federal funding to combat poverty, provide better housing and schools, and create jobs has not kept up. The Community Development Block Grant program, meant to battle poverty, provide affordable housing, and infrastructure development, provides less funding per capita than it did forty years ago. And in this century, the program has been cut 46%.
-
-For Philadelphia, the result is that it is the poorest big city in America, with 200,000 individuals living in “deep poverty,” while tens of thousands of others just live in “poverty.” Our school system is in crisis. And all of this is happening while jobs have been lost and wages have stagnated.
-
-Dwight Evans will be a voice for all those in the shadows of life, who want clean, safe neighborhoods that are affordable and have access to jobs and good schools. Evans will be a voice for urban America in Congress and will work to build a stronger Philadelphia.
+A lifelong resident of Philadelphia, he is a graduate of Germantown High School, the Community College of Philadelphia and LaSalle University. Congressman Evans will keep working to rebuild Philadelphia, and America, block by block!
 
 ## Access to Fresh Food
 The Pennsylvania Fresh Food Financing Initiative that Dwight Evans has spearheaded has become a model for the nation. FFFI attracted 206 applications from across Pennsylvania, with 88 grocery stores financed as of June 2010. In total, more than $73.2 million in loans and $12.1 million in grants were approved. The new and expanded grocery stores created more than 5,000 jobs.
