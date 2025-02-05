@@ -18,15 +18,12 @@ name:	Donald M. Payne, Jr
 state:	New Jersey
 district: 10th
 party:	Democratic
-officeroom:	106 CHOB
-phonenumber:	(202) 225-3436
-emailaddress:	https://payne.house.gov/contact
-website:	https://payne.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDonaldPayne
-powrid: 
+inoffice: former
 ---
 
 U.S. Representative Donald M. Payne, Jr. is a Democratic congressman representing New Jersey’s 10th Congressional District, which covers portions of Essex, Hudson, and Union counties. A Newark, New Jersey native, he has served the people of the 10th Congressional District since 2012. Rep. Payne, Jr. is a tireless fighter for New Jersey families, working to create jobs and grow the economy, protect and invest in our children, and ensure the health and safety of our communities.
