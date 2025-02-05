@@ -18,15 +18,12 @@ name:	Dean Phillips
 state:	Minnesota
 district: 3rd
 party:	Democratic
-officeroom:	2452 RHOB
-phonenumber:	(202) 225-2871
-emailaddress:	https://phillips.house.gov/contact
-website:	https://phillips.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDeanPhillips
-powrid: 
+inoffice: former
 ---
 
 Dean Phillips is a father, businessman, civic leader, eternal optimist, and Representative for Minnesota's Third Congressional District in Congress.

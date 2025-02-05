@@ -17,13 +17,12 @@ name: Elissa Slotkin
 state: Michigan
 district: 
 party: Democratic
-officeroom: 825B Hart Senate Office Building Washington, DC 20510
-phonenumber: (202) 224-4822
-emailaddress: https://www.slotkin.senate.gov/
-website: https://www.slotkin.senate.gov/
-committeeassignment: Foreign Relations
+officeroom: 
+phonenumber: 
+emailaddress: 
+website: 
 powrid: 
-inoffice: current
+inoffice: former
 role: Senator
 ---
 Elissa has dedicated her career to serving the country she loves. A former CIA analyst who served three tours in Iraq alongside the U.S. military, Elissa then worked in national security roles at the Pentagon and White House under President Bush and President Obama. In the Obama Administration, she briefed the President on some of the most sensitive national security matters of the day and was eventually nominated to serve as Assistant Secretary of Defense for International Security Affairs at the Pentagon. 

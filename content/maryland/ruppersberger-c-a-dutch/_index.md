@@ -18,15 +18,12 @@ name:	Dutch Ruppersberger
 state:	Maryland
 district: 2nd
 party:	Democratic
-officeroom:	2206 RHOB
-phonenumber:	(202) 225-3061
-emailaddress:	https://ruppersberger.house.gov/contact-dutch
-website:	https://ruppersberger.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: Call_Me_Dutch
-powrid: 
+inoffice: former
 ---
 
 Congressman C.A. Dutch Ruppersberger ended up in public service by accident  literally. As a young prosecutor in Baltimore County in 1975, Dutch was in a serious car accident that nearly cost him his life. Thanks to the dedication of the doctors, nurses and technicians at the University of Maryland Shock Trauma Center, Dutch survived. When Dutch asked Shock Trauma founder R. Adams Cowley what he could do to repay him, Cowley said, “Run for office so you can help us get the resources we need to continue saving lives.” That’s exactly what Dutch did.

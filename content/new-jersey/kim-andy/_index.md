@@ -17,13 +17,12 @@ layout: course_home
 name:	Andy Kim 
 state:	New Jersey
 party:	Democratic
-officeroom:	B40D Dirksen Senate Office Building Washington, DC 20510
-phonenumber:	(202) 224-4744
-emailaddress:	https://www.kim.senate.gov/contact/
-website:	https://www.kim.senate.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: senator
-inoffice: current
+inoffice: former
 ---
 
 Andy Kim is a life-long public servant who is proud to represent the state where he grew up, and that gave his family a chance at the American Dream, in the United States Senate.

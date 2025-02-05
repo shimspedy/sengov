@@ -18,15 +18,12 @@ name:	Greg Pence
 state:	Indiana
 district: 6th
 party:	Republican
-officeroom:	211 CHOB
-phonenumber:	(202) 225-3021
-emailaddress:	https://pence.house.gov/contact
-website:	https://pence.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepGregPence
-powrid: 
+inoffice: former
 ---
 
 U.S Representative Greg Pence represents Indiana's 6th District, where he lives with his wife Denise in Columbus. He is a proud husband, father, grandfather, Marine officer and small businessman who will ensure Indiana's 6th District continues its strong tradition of leadership in Congress.

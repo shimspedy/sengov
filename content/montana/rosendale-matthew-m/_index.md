@@ -18,15 +18,12 @@ name:	Matthew M. Rosendale Sr
 state:	Montana
 district: At Large
 party:	Republican
-officeroom:	1037 LHOB
-phonenumber:	(202) 225-3211
-emailaddress:	https://rosendale.house.gov/contact/
-website:	https://rosendale.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepRosendale
-powrid: 
+inoffice: former
 ---
 
 ## MATT'S EXPERIENCE

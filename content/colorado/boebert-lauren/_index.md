@@ -18,15 +18,12 @@ name:	Lauren Boebert
 state:	Colorado
 district: 3rd
 party:	Republican
-officeroom:	1609 LHOB
-phonenumber:	(202) 225-4761
-emailaddress:	https://boebert.house.gov/address_authentication?form=/contact
-website:	https://boebert.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDianaDeGette
-powrid: 
+inoffice: former
 ---
 
 U.S. Congresswoman Lauren Boebert is serving her first term as the Representative for Colorado’s Third Congressional District. She is on the Natural Resources and Budget Committees, is co-chair of the Congressional Second Amendment Caucus, and after only a few months, was elected to the Executive Board as the Communications Chair of the House Freedom Caucus and was also appointed to serve on the Future of American Freedoms Task Force. Rep. Boebert also serves as the Vice Chairman of the Congressional Western Caucus.

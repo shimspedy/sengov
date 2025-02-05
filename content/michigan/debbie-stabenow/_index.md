@@ -23,12 +23,10 @@ born:	April 29, 1950
 age: '70'
 enteredoffice:	January 3, 2001
 termexpires:	January 3, 2025
-mailingaddress:	731 Hart Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-4822
-emailaddress:	https://www.stabenow.senate.gov/contact
-website:	https://www.stabenow.senate.gov/
-powrid: e9072f05_1607161815
-twitter: SenStabenow
+mailingaddress:
+phonenumber:	
+emailaddress:	
+website:	
 ---
 Senator Debbie Stabenow is an American politician. She is a Senior United States Senator from the state of Michigan. She was first elected to this seat in 2000. She was a member of the U.S. House of Representatives before getting elected to the Senate.
 

@@ -18,15 +18,12 @@ name:	Raúl Grijalva
 state:	Arizona
 district: 3rd
 party:	Democratic
-officeroom:	1511 LHOB
-phonenumber:	(202) 225-2435
-emailaddress:	https://grijalva.house.gov/connect-with-raul
-website:	https://grijalva.house.gov/
-committeeassignment: Education and Labor, Natural Resources
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepRaulGrijalva
-powrid: 
+inoffice: former
 ---
 
 Raúl Grijalva began his career in public service as a community organizer in Tucson. Four decades later, he continues to be an advocate for those in need and a voice for the constituents of his home community. From 1974 to 1986, Raúl served on the Tucson Unified School District Governing Board, including six years as Chairman. In 1988, he was elected to the Pima County Board of Supervisors, where he served for the next 15 years, chairing the Board for two of those years. Raúl resigned his seat on the Board of Supervisors in 2002 to seek office in Arizona’s newly created Seventh Congressional District. Despite a nine-candidate primary and the challenge of being outspent three-to-one by his closest competitor, Raúl was elected with a 20-point victory, thanks to a diverse coalition of supporters that led the largest volunteer-driven election effort in Arizona.

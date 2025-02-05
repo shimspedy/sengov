@@ -18,15 +18,12 @@ name:	Garret Graves
 state:	Louisiana
 district: 6th
 party:	Republican
-officeroom:	2402 RHOB
-phonenumber:	(202) 225-3901
-emailaddress:	https://garretgraves.house.gov/contact
-website:	https://garretgraves.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepGarretGraves
-powrid: 
+inoffice: former
 ---
 
 Congressman Garret Graves represents Louisiana’s Sixth Congressional District in the United States House of Representatives.  More than 750,000 people live in the 13 parishes that make up the sixth district, which includes most of Garret’s hometown of Baton Rouge, the bulk of the Capital City’s suburbs, parts of parishes along both sides of the Mississippi River to the western shores of Lake Pontchartrain and continues south through Thibodaux to Houma.

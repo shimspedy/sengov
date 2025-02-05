@@ -18,15 +18,12 @@ name:	Anthony D'Esposito
 state:	New York
 district: 4th
 party:	Republican
-officeroom:	1508 Longworth House Office Building
-phonenumber:	(202) 225-5516
-emailaddress:	https://desposito.house.gov/
-website:	https://desposito.house.gov/address_authentication?form=/contact
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDesposito
-powrid: 
+inoffice: former
 ---
 
 Congressman Anthony D’Esposito represents New York’s 4th Congressional District in the United States House of Representatives.  The district, comprising the majority of the Town of Hempstead and the City of Long Beach on Long Island, is a culturally diverse suburban locale known for its miles of sandy beaches, thriving downtown business districts, and quaint communities.

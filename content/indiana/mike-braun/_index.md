@@ -23,12 +23,10 @@ born:	March 24, 1954
 age: '66'
 enteredoffice:	January 3, 2019
 termexpires:	January 3, 2025
-mailingaddress:	374 Russell Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-4814
-emailaddress:	https://www.braun.senate.gov/contact-mike
-website:	https://www.braun.senate.gov/
-powrid: e9072f05_1607161815
-twitter: SenatorBraun
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 Senator Michael K. Braun is an American politician and businessman. He has been serving as a junior US Senator from Indiana under the Republicans since 2018. He was a member of the Indiana House of Representatives. He represented the 63rd district from 2014 to 2017.

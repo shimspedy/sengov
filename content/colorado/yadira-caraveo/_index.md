@@ -18,15 +18,13 @@ name:	Yadira Caraveo
 state:	Colorado
 district: 6th
 party:	Democratic
-officeroom:		1024 Longworth House Office Building
-phonenumber:	(202) 225-5625
-emailaddress:	https://caraveo.house.gov/address_authentication?form=/contact
-website:	https://caraveo.house.gov/
+officeroom:		
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: YadiraCaraveo
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Yadira Caraveo, M.D. represents Colorado’s 8th Congressional District, composed of most of Adams County, a large portion of Weld County, and a portion of Larimer County. Prior to her election to Congress in 2022, Rep. Caraveo served families across the North Denver metro area as a pediatrician. As one of the few Spanish speaking pediatricians in the area, Rep. Caraveo spent nearly a decade treating families and children from Denver up to Greeley.

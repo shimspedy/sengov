@@ -18,11 +18,10 @@ name:	Blaine Luetkemeyer
 state:	Missouri
 district: 3rd
 party:	Republican
-officeroom:	2230 RHOB
-phonenumber:	(202) 225-2956
-emailaddress:	https://luetkemeyer.house.gov/contact/
-website:	https://luetkemeyer.house.gov/
-committeeassignment: Small Business
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
 inoffice: former
 ---

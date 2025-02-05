@@ -18,14 +18,12 @@ name:	Marcus J. Molinaro
 state:	New York
 district: 19th
 party:	Republican
-officeroom:	1207 Longworth House Office Building
-phonenumber:	(202) 225-5441
-emailaddress:	https://molinaro.house.gov
-website:	https://molinaro.house.gov/contact/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepMolinaroNY19
-powrid: 
+inoffice: former
 ---
 
 #### ABOUT MARC 

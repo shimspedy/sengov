@@ -17,15 +17,12 @@ name:	Brandon Williams
 state:	New York
 district: 22nd
 party:	Republican
-officeroom:		1022 Longworth House Office Building
-phonenumber:	(202) 225-3701
-emailaddress:	https://brandonwilliams.house.gov
-website:	https://brandonwilliams.house.gov/contact/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepWilliams
-powrid: 
+inoffice: former
 ---
 
 Brandon was born in Dallas, Texas and attended Pepperdine University in California where he received a BA in Liberal Arts. In August of 1990, during the build up to the first Gulf War, Brandon volunteered to serve as a nuclear submarine officer for the Navy.  He graduated from college in December 1990 and reported to Officer Candidate School in March 1991. Transitioning into the nuclear engineering training was a very steep learning curve, one which he successfully accomplished against significant odds. During his military service, he made six strategic-deterrent patrols in the Pacific aboard the USS Georgia, serving as the Strategic Missile Officer. Early in his military service he fell in love and married Stephanie McRee (Williams), daughter of a senior Army officer and Vietnam Veteran (Col. McRee was awarded three Bronze Stars with Valor). Stephanie grew up on Army bases and experienced first-hand the threat of Communism while her father was stationed in Germany on the front lines of the Cold War. Following his Navy service, Brandon attended the renowned Wharton School in Philadelphia, earning an MBA double majoring in in Operations & Information Management and Finance.

@@ -18,17 +18,14 @@ name:	Jon Tester
 state:	Montana
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	August 21, 1956
-age: '64'
 enteredoffice:	January 3, 2007
 termexpires:	January 3, 2025
-mailingaddress:	311 Hart Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-2644
-emailaddress:	https://www.tester.senate.gov/?p=email_senator
-website:	https://www.tester.senate.gov/
-powrid: e9072f05_1607161815
-twitter: jontester
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 Raymond Jon Tester is an American farmer and politician. He is currently serving as a senior United States Senator from the state of Montana. He was born in Havre, Montana, and grew up in Chouteau County, Montana. He graduated from the University of Providence. He got a B.A. degree in music from the College of Great Falls.

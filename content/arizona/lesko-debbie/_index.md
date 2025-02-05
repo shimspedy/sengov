@@ -18,15 +18,12 @@ name:	Debbie Lesko
 state:	Arizona
 district: 8th
 party:	Republican
-officeroom:	1113 LHOB
-phonenumber:	(202) 225-4576
-emailaddress:	https://lesko.house.gov/contact/
-website:	https://lesko.house.gov/
-committeeassignment: Homeland Security, Judiciary Rules
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDLesko
-powrid: 
+inoffice: former
 ---
 Congresswoman Debbie Lesko represents Arizona’s 8th Congressional District. In May 2018, she was sworn in to the U.S. House of Representatives after winning a special election and was recently reelected for her second full term. For the 117th Congress, Congresswoman Lesko serves on the prestigious House Committee on Energy and Commerce where she serves on the Subcommittee on Energy and the Subcommittee on Consumer Protection and Commerce.
 

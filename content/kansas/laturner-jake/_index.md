@@ -18,15 +18,12 @@ name:	Jake LaTurner
 state:	Kansas
 district: 2nd
 party:	Republican
-officeroom:	1630 LHOB
-phonenumber:	(202) 225-6601
-emailaddress:	https://laturner.house.gov/address_authentication?form=/contact
-website:	https://laturner.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: JakeLaTurner
-powrid: 
+inoffice: former
 ---
 
 Congressman Jake LaTurner proudly represents Kansas’ 2nd District in the House of Representatives in his first term in office. 

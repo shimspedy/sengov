@@ -18,15 +18,12 @@ name:	John P. Sarbanes
 state:	Maryland
 district: 3rd
 party:	Democratic
-officeroom:	2370 RHOB
-phonenumber:	(202) 225-4016
-emailaddress:	https://sarbanes.house.gov/contact
-website:	https://sarbanes.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:
+website:	
 role: congress
-inoffice: current
-twitter: RepSarbanes
-powrid: 
+inoffice: former
 ---
 
 I have represented Maryland’s 3rd Congressional District in the House of Representatives since 2007. As a lifelong Marylander and one of the few members of Congress who has the opportunity to drive home every night, I hear directly from you in real time about your concerns and priorities.

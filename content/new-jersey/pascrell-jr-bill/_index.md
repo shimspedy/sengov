@@ -18,15 +18,12 @@ name:	Bill Pascrell, Jr.
 state:	New Jersey
 district: 9th
 party:	Democratic
-officeroom:	2409 RHOB
-phonenumber:	(202) 225-5751
-emailaddress:	https://pascrell.house.gov/contact/
-website:	https://pascrell.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: BillPascrell
-powrid: 
+inoffice: former
 ---
 
 A native son of New Jersey, Bill Pascrell, Jr. has built a life of public service around the principles he learned while growing up on the south side of Paterson. Bill credits his parents and his Italian-immigrant grandparents with instilling in him the value of being a bridge builder: one who seeks to bring together the diverse peoples and neighborhoods in our communities to forge a better society.

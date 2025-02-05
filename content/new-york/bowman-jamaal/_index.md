@@ -18,15 +18,12 @@ name:	Jamaal Bowman
 state:	New York
 district: 16th
 party:	Democratic
-officeroom:	1605 LHOB
-phonenumber:	(202) 225-2464
-emailaddress:	https://bowman.house.gov/address_authentication?form=/contact
-website:	https://bowman.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: JamaalBowmanNY
-powrid: 
+inoffice: former
 ---
 
 

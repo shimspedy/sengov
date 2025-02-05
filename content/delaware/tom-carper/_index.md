@@ -18,17 +18,15 @@ name:	Thomas R. Carper
 state:	Delaware
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	January 23, 1947
 age: '73'
 enteredoffice:	January 3, 2001
 termexpires:	January 3, 2025
-mailingaddress:	513 Hart Senate Office Building Washington DC 20510
-phonenumber:	202 224-2441
-emailaddress:	https://www.carper.senate.gov/public/index.cfm/email-senator-carper
-website:	https://www.carper.senate.gov/public/
-powrid: cd8bf160_1607238035
-twitter: TomCarperforDE
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 Senator Thomas Richard Carper is an American politician. He has served as a U.S. Senate under the Democrats since 2001. Formerly a military officer, Carper served in the U.S. House of Representatives from 1983 to 1993. He was also a former Governor of Delaware from 1993 to 2001.
 

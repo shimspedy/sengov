@@ -18,14 +18,13 @@ name:	Mary Sattler Peltola
 state:	Alaska
 district:  District At Large 117th-118th
 party:	Democratic
-officeroom:	2314 Rayburn House Office Building
-phonenumber:	(202) 225-5765
-emailaddress:	https://peltola.house.gov/contact/
-website:	https://peltola.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: marypeltola
+inoffice: former
 ---
 
 Rep. Mary Sattler Peltola  was born in Alaska and raised on the Kuskokwim River in Kwethluk, Tuntutuliak, Platinum, and Bethel. She was just six years old when she began fishing commercially with her father.

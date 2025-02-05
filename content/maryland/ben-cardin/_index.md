@@ -18,17 +18,15 @@ name:	Benjamin L. Cardin
 state:	Maryland
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	October 5, 1943
 age: '77'
 enteredoffice:	January 3, 2007
 termexpires:	January 3, 2025
-mailingaddress:		509 Hart Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-4524
-emailaddress:	https://www.cardin.senate.gov/contact/
-website:	https://www.cardin.senate.gov/
-powrid: 5f34256e_1607161983
-twitter: BenCardinforMD
+mailingaddress:		
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 

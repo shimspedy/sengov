@@ -18,15 +18,13 @@ name:	Bill Posey
 state:	Florida
 district: 8th
 party:	Republican
-officeroom:	2150 RHOB
-phonenumber:	(202) 225-3671
-emailaddress:	https://posey.house.gov/contact/
-website:	https://posey.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: congbillposey
-powrid: 
+inoffice: former
 ---
 
 Congressman Bill Posey represents Florida's 8th Congressional District which encompasses all of Brevard and Indian River Counties, and a small portion of Orange County (Bithlo, Christmas and Wedgefield).  Posey, a Republican, was elected to U.S. House of Representatives in 2008 and is currently serving his seventh term.

@@ -18,14 +18,12 @@ name:	Jim Banks
 state:	Indiana
 district: 3rd
 party:	Republican
-officeroom:	1713 LHOB
-phonenumber:	(202) 225-4436
-emailaddress:	https://banks.house.gov/contact/
-website:	https://banks.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepJimBanks
+inoffice: former
 ---
 
 Congressman Jim Banks is a native Hoosier, born and raised in Columbia City. He earned an undergraduate degree from Indiana University and a Master of Business Administration from Grace College. While serving in the Indiana State Senate from 2010 to 2016, he chaired the Senate Veteran Affairs and the Military Committee where he led the charge on many significant pro-growth, pro-family, and pro-veteran reforms.

@@ -18,15 +18,12 @@ name:	Daniel T. Kildee
 state:	Michigan
 district: 5th
 party:	Democratic
-officeroom:	200 CHOB
-phonenumber:	(202) 225-3611
-emailaddress:	https://dankildee.house.gov/contact
-website:	https://dankildee.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	 
 role: congress
-inoffice: current
-twitter: RepDanKildee
-powrid: 
+inoffice: former
 ---
 
 Born and raised in Flint, Congressman Dan Kildee is a lifelong Michigander. In Congress, he has proven he can bring people together and get real results for his constituents and mid-Michigan.

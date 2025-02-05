@@ -18,17 +18,14 @@ name:	Marco Rubio
 state:	Florida
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	May 28, 1971
-age: '49'
 enteredoffice:	January 3, 2011
 termexpires:	January 3, 2023
-mailingaddress:	284 Russell Senate Office Building Washington DC 20510
-phonenumber:	202 224-3041
-emailaddress:	https://www.rubio.senate.gov/public/index.cfm/contact
-website:	https://www.rubio.senate.gov/public/
-powrid: cd8bf160_1607238035
-twitter: marcorubio
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 Senator Marco Antonio Rubio is an American politician and lawyer.
 

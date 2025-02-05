@@ -18,15 +18,13 @@ name:	Lisa Blunt Rochester
 state:	Delaware
 district: At Large
 party:	Democratic
-officeroom:	1724 LHOB
-phonenumber:	(202) 225-4165
-emailaddress:	https://bluntrochester.house.gov/contact/
-website:	https://bluntrochester.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepLBR
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Lisa Blunt Rochester represents Delaware in the U.S. House of Representatives and serves as an Assistant Whip for House Leadership. Lisa sits on the House Committee on Energy and Commerce. The committee has broad jurisdiction over health care, the environment, commerce and trade, energy policy, telecommunications, manufacturing, and consumer protection.

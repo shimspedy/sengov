@@ -18,15 +18,12 @@ name:	Larry Bucshon
 state:	Indiana
 district: 8th
 party:	Republican
-officeroom:	2313 RHOB
-phonenumber:	(202) 225-4636
-emailaddress:	https://bucshon.house.gov/contact/contact-larry.html
-website:	https://bucshon.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepLarryBucshon
-powrid: 
+inoffice: former
 ---
 
 Congressman Larry Bucshon, M.D. (pronounced: “Boo-shon”) represents the Eighth District of Indiana, which encompasses all or part of 19 counties in Southwest and West Central Indiana. 

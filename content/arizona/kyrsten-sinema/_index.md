@@ -18,18 +18,15 @@ name:	Kyrsten Sinema
 state:	Arizona
 party:	Independent
 role: senator
-inoffice: current
+inoffice: former
 born:	July 12, 1976 
 age: '44'
 enteredoffice:	January 3, 2019
 termexpires:	January 3, 2025
-mailingaddress:	317 Hart Senate Office Building Washington DC 20510
-phonenumber:	202 224-4521
-emailaddress:	https://www.sinema.senate.gov/contact
-website:	https://www.sinema.senate.gov/
-powrid: 79407cbf_1607237019
-twitter: kyrstensinema
-votespotter: '141450'
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 Kyrsten knows firsthand the challenges everyday Arizonans face. Born in Tucson, Kyrsten went through some tough times growing up. Her family struggled to make ends meet, and for a while they were even homeless. But they got by thanks to family, church, and hard work. Kyrsten’s childhood experience showed her the power of hard work and the importance of helping others.

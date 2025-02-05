@@ -18,15 +18,12 @@ name:	David J. Trone
 state:	Maryland
 district: 6th
 party:	Democratic
-officeroom:	1110 LHOB
-phonenumber:	(202) 225-2721
-emailaddress:	https://trone.house.gov/contact
-website:	https://trone.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDavidTrone
-powrid: 
+inoffice: former
 ---
 
 David Trone’s story is an American story. Born in Cheverly, Maryland, David’s mother was a teacher and his father was a salesman for Trans World Airlines (TWA). When David was 11, his dad moved the family to a working farm near the Maryland-Pennsylvania border. With no indoor plumbing for a year and a father with no experience in farming, David and his brothers carried much of the load, selling eggs, cleaning hog pens and chicken houses, and all the other work farming requires.

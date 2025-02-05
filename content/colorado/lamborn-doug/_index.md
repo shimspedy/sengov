@@ -18,15 +18,12 @@ name:	Doug Lamborn
 state:	Colorado
 district: 5th
 party:	Republican
-officeroom:	2371 RHOB
-phonenumber:	(202) 225-4422
-emailaddress:	https://lamborn.house.gov/contact
-website:	https://lamborn.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDLamborn
-powrid: 
+inoffice: former
 ---
 Born in Leavenworth, Kansas in 1954, Doug had service-before-self instilled in him at an early age by his father, a World War II combat veteran and a corrections officer at the Leavenworth Federal Penitentiary.
 

@@ -18,15 +18,12 @@ name:	Ann M. Kuster
 state:	New-Hampshire
 district: 2nd
 party:	Democratic
-officeroom:	320 CHOB
-phonenumber:	(202) 225-5206
-emailaddress:	https://kuster.house.gov/contact/
-website:	https://kuster.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepAnnieKuster
-powrid: 
+inoffice: former
 ---
 
 When Annie Kuster was first elected to Congress, she pledged to bring a new approach to Washington. Annie's number one priority is to look out for the best interests of Granite Staters, and she believes Members of Congress must reach across party lines to end the gridlock and dysfunction in Washington.
