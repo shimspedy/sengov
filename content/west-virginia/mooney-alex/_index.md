@@ -18,14 +18,13 @@ name:	Alexander X. Mooney
 state:	West Virginia
 district: 2nd
 party:	Republican
-officeroom:	2228 RHOB
-phonenumber:	(202) 225-2711
-emailaddress:	https://mooney.house.gov/contact
-website:	https://mooney.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepAlexMooney
+inoffice: former
 
 ---
 

@@ -18,15 +18,12 @@ name:	Michael C. Burgess
 state:	Texas
 district: 26th
 party:	Republican
-officeroom:	2161 RHOB
-phonenumber:	(202) 225-7772
-emailaddress:	https://burgess.house.gov/contact/
-website:	https://burgess.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: michaelcburgess
-powrid: 
+inoffice: former
 ---
 
 Prior to being entrusted with representing the constituents of the 26th District in the House of Representatives, Congressman Michael Burgess, M.D. practiced medicine as an obstetrician for 30 years.

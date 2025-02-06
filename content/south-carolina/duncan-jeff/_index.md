@@ -18,15 +18,12 @@ name:	Jeff Duncan
 state:	South Carolina
 district: 3rd
 party:	Republican
-officeroom:	2229 RHOB
-phonenumber:	(202) 225-5301
-emailaddress:	https://jeffduncan.house.gov/contact
-website:	https://jeffduncan.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepJeffDuncan
-powrid: 
+inoffice: former
 ---
 
 Jeff Duncan is a South Carolina native and a 1988 graduate of Clemson University. Prior to being elected to the U.S. House of Representatives in 2010, Congressman Duncan served as Branch Manager and Assistant Vice President during his seven years working in community banking. Later, he became the President and CEO of J. Duncan Associates, a South Carolina based, family owned real estate marketing firm which specialized in statewide real estate auctions. Duncan concurrently served as a member of the South Carolina House of Representatives from 2002-2010.

@@ -18,15 +18,13 @@ name:	Cathy McMorris Rodgers
 state:	Washington
 district: 5th
 party:	Republican
-officeroom:	1035 LHOB
-phonenumber:	(202) 225-2006
-emailaddress:	https://mcmorris.house.gov/contact/
-website:	https://mcmorris.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: Energy and Commerce
 role: congress
-inoffice: current
-twitter: cathymcmorris
-powrid: 
+inoffice: former
 ---
 
 

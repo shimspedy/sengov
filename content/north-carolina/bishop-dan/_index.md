@@ -18,15 +18,12 @@ name:	Dan Bishop
 state:	North Carolina
 district: 9th
 party:	Republican
-officeroom:	1207 LHOB
-phonenumber:	(202) 225-1976
-emailaddress:	https://danbishop.house.gov/contact
-website:	https://danbishop.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepDanBishop
-powrid: 
+inoffice: former
 ---
 
 Congressman Dan Bishop’s family has hailed for generations from Bladen County, in the eastern end of North Carolina’s Ninth District, but he was born and lives in Charlotte, at the western end. Dan brings to the House an impressive background in policy-making, legal work, and commitment to Conservative North Carolina values.

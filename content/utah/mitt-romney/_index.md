@@ -18,17 +18,14 @@ name:	Mitt Romney
 state:	Utah
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	March 12, 1947
-age: '73'
 enteredoffice:	January 3, 2019
 termexpires:	January 3, 2025
-mailingaddress:	124 Russell Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-5251
-emailaddress:	https://www.romney.senate.gov/contact-senator-romney
-website:	https://www.romney.senate.gov/
-powrid: 5f34256e_1607161983
-twitter: SenatorRomney
+mailingaddress:
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 

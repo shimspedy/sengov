@@ -18,17 +18,14 @@ name:	Sherrod Brown
 state:	Ohio
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	November 9, 1952  
-age: '68'
 enteredoffice:	January 3, 2007
 termexpires:	January 3, 2025
-mailingaddress:	713 Hart Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-2315
-emailaddress:	http://www.brown.senate.gov/contact/
-website:	http://www.brown.senate.gov/
-powrid: e9072f05_1607161815
-twitter: SherrodBrown
+mailingaddress:
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 #### gov. Sherrod Brown BACKGROUND

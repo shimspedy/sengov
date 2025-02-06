@@ -18,15 +18,12 @@ name:	Sheila Jackson Lee
 state:	Texas
 district: 18th
 party:	Democratic
-officeroom:	2426 RHOB
-phonenumber:	(202) 225-3816
-emailaddress:	https://jacksonlee.house.gov/contact
-website:	https://jacksonlee.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: JacksonLeeTX18
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Sheila Jackson Lee is an influential and forceful voice in Washington. She is serving her fourteenth term as a member of the United States House of Representatives. She represents the 18th Congressional District of Texas, centered in Houston, which is the energy capital of the world. Considered by many as the “Voice of Reason”, she is dedicated to upholding the Constitutional rights of all people.

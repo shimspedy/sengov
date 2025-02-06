@@ -18,15 +18,13 @@ name:	 Bob Good
 state:	Virginia
 district: 5th
 party:	Republican
-officeroom:	1213 LHOB
-phonenumber:	(202) 225-4711
-emailaddress:	https://good.house.gov/contact
-website:	https://good.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepBobGood
-powrid: 
+inoffice: former
 ---
 
 Born in Pennsylvania before moving to New Jersey, Bob’s family relocated to Lynchburg, Virginia when he was 9 years old and his father decided to attend seminary.  One of four boys, he grew up in a modest home and learned the importance and necessity of hard work from a young age.  Because his family often struggled for the bare necessities, Bob learned to appreciate the generosity of friends and others who provided assistance to his family during those financially challenging periods of his childhood.  

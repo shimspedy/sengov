@@ -18,15 +18,12 @@ name:	Matt Cartwright
 state:	Pennsylvania
 district: 8th
 party:	Democratic
-officeroom:	2102 RHOB
-phonenumber:	(202) 225-5546
-emailaddress:	https://cartwright.house.gov/contact/
-website:	https://cartwright.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepCartwright
-powrid: 
+inoffice: former
 ---
 Matt Cartwright has spent his entire career sticking up for working people, first as a trial attorney and now as the congressman in Pennsylvania’s Eighth District. He is a fighter for all hardworking northeastern Pennsylvanians, standing up to corporate special interests and Washington insiders to lower prices, protect and expand access to health care, and grow our local economy.
 

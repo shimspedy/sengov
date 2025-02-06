@@ -18,15 +18,14 @@ name:	James David Vance
 state:	Ohio
 party:	Republican
 role: senator
-inoffice: current
+inoffice: former
 born:	August 2, 1984
-enteredoffice:	January 3, 2023
+enteredoffice:	January 3, 2023 - 2025
 termexpires:	
-mailingaddress: B40C Dirksen Senate Office Building Washington, DC 20510
-phonenumber:	(202) 224-3353
-emailaddress:	https://www.vance.senate.gov/contact/
-website:	https://www.vance.senate.gov/about/
-twitter: SenVancePress
+mailingaddress: 
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 

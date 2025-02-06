@@ -18,15 +18,12 @@ name:	Gregorio Kilili Camacho Sablan
 state:	Northern Mariana Islands
 district: Delegate
 party:	Democratic
-officeroom:	2267 RHOB
-phonenumber:	(202) 225-2646
-emailaddress:	https://sablan.house.gov/contact-me
-website:	https://sablan.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: Kilili_Sablan
-powrid: 
+inoffice: former
 ---
 
 Congressman Gregorio Kilili Camacho Sablan is the first and only person to represent the people of the Northern Mariana Islands in the U.S. House of Representatives. He began service on January 6, 2009 and has been reelected to office six times.

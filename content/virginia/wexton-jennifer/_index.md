@@ -18,15 +18,13 @@ name:	Jennifer Wexton
 state:	Virginia
 district: 10th
 party:	Democratic
-officeroom:	1217 LHOB
-phonenumber:	(202) 225-5136
-emailaddress:	https://wexton.house.gov/contact/
-website:	https://wexton.house.gov/
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepWexton
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Jennifer Wexton has been serving the people of Northern Virginia and Shenandoah Valley for two decades as a prosecutor, advocate for abused children, state Senator, and now a member of the U.S. House of Representatives from Virginia’s 10th District.

@@ -18,15 +18,13 @@ name:	Derek Kilmer
 state:	Washington
 district: 6th
 party:	Democratic
-officeroom:	2059 RHOB
-phonenumber:	(202) 225-5916
-emailaddress:	https://kilmer.house.gov/contact
-website:	https://kilmer.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepDerekKilmer
-powrid: 
+inoffice: former
 ---
 
 Derek Kilmer currently serves as United States Representative for the residents of Washington’s 6th Congressional District.

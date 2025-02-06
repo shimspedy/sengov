@@ -18,15 +18,13 @@ name:	John R. Curtis
 state:	Utah
 district: 3rd
 party:	Republican
-officeroom:	2400 RHOB
-phonenumber:	(202) 225-7751
-emailaddress:	https://curtis.house.gov/email/
-website:	https://curtis.house.gov/
+officeroom:
+phonenumber:
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepJohnCurtis
-powrid: 
+inoffice: former
 ---
 
 John R. Curtis proudly represents Utah’s 3rd Congressional District. Since being elected to Congress on November 13, 2017, John has worked on 15 pieces of legislation that were signed into law, ranging in diverse topics such as better managing public lands, combatting human trafficking, supporting small businesses, and more. Additionally, he serves as the inaugural Chairman of the Conservative Climate Caucus and a member of the powerful House Committee on Energy and Commerce. He previously served on the House Natural Resources Committee and Foreign Affairs Committee.

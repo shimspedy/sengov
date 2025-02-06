@@ -27,8 +27,6 @@ mailingaddress:	400 Russell Senate Office Building Washington DC 20510
 phonenumber:	(202) 224-2043
 emailaddress:	https://www.cramer.senate.gov/contact_kevin
 website:	https://www.cramer.senate.gov/
-powrid: e9072f05_1607161815
-twitter: SenKevinCramer
 ---
 
 Kevin Cramer was elected to the United States Senate on November 6, 2018 after serving three terms as North Dakota’s At-Large Member of the United States House of Representatives. He is the first Republican to hold this Senate seat in his lifetime. He serves on the Armed Services, Environment and Public Works, Veterans Affairs, and Banking, Housing and Urban Affairs Committees.

@@ -18,15 +18,12 @@ name:	Kathy E. Manning
 state:	North Carolina
 district: 6th
 party:	Democratic
-officeroom:	415 CHOB
-phonenumber:	(202) 225-3065
-emailaddress:	https://manning.house.gov/address_authentication?form=/contact
-website:	https://manning.house.gov/
-committeeassignment: 
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: KathyManningNC
-powrid: 
+inoffice: former
 ---
 
 Kathy Manning represents North Carolina’s Sixth Congressional District which includes all of Guilford County and parts of Forsyth County -- an area known as the Triad. Kathy graduated from Harvard University and the University of Michigan Law School before moving to Greensboro, NC in 1987, where she and her husband raised their three children. After serving as a partner at a major law firm for 15 years, she left to start her own law firm.

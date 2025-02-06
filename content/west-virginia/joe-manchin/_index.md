@@ -18,17 +18,14 @@ name:	Joe Manchin
 state:	West Virginia
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	August 24, 1947
-age: '73'
 enteredoffice:	November 15, 2010
 termexpires:	January 3, 2025
-mailingaddress:	306 Hart Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-3954
-emailaddress:	http://www.manchin.senate.gov/public/index.cfm/contact-form
-website:	http://www.manchin.senate.gov/
-powrid: 5f34256e_1607161983
-twitter: Sen_JoeManchin
+mailingaddress:
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 #### ABOUT JOE

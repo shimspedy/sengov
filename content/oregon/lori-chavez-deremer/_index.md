@@ -18,14 +18,12 @@ name:	Lori Chavez-DeRemer
 state:	Oregon
 district: 5th
 party:	Republican
-officeroom:	1722 Longworth House Office Building
-phonenumber:	(202) 225-5711
-emailaddress:	https://chavez-deremer.house.gov/address_authentication?form=/contact
-website:	https://chavez-deremer.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepLCD
+inoffice: former
 ---
 
 

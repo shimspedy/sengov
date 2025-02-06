@@ -18,15 +18,12 @@ name:	Jeff Jackson
 state:	North Carolina
 district: 14th
 party:	Democratic
-officeroom:	1318 Longworth House Office Building
-phonenumber:	(202) 225-5634
-emailaddress:	https://jeffjackson.house.gov/contact
-website:		https://jeffjackson.house.gov
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:		
 role: congress
 inoffice: current
-twitter: JeffJacksonNC
-powrid: 
 ---
 
 Congressman Jeff Jackson is a dad, husband and soldier. He is in his 20th year of military service, having enlisted after the attacks of September 11th, trained at Ft. Bragg, and served in Afghanistan. He continues to serve today as a Major in the Army National Guard.

@@ -18,15 +18,12 @@ name:	Susan Wild
 state:	Pennsylvania
 district: 7th
 party:	Democratic
-officeroom:	1027 LHOB
-phonenumber:	(202) 225-6411
-emailaddress:	https://wild.house.gov/contact
-website:	https://wild.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepSusanWild
-powrid: 
+inoffice: former
 ---
 
 Congresswoman Susan Wild is a mother, attorney, public servant, and a dedicated member of the Greater Lehigh Valley community for more than 30 years.

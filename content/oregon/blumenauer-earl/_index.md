@@ -18,15 +18,12 @@ name:	Earl Blumenauer
 state:	Oregon
 district: 3rd
 party:	Democratic
-officeroom:	1111 LHOB
-phonenumber:	(202) 225-4811
-emailaddress:	https://blumenauerforms.house.gov/forms/writeyourrep/
-website:	https://blumenauer.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: repblumenauer
-powrid: 
+inoffice: former
 ---
 
 Earl is a nationally recognized champion fighting for bold, lasting progressive change. He has been on the front lines of critical local issues important to Oregonians, tackling the housing crisis, and protecting our natural resources.

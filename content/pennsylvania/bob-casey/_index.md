@@ -23,12 +23,10 @@ born:	April 13, 1960
 age: '60'
 enteredoffice:	January 3, 2007
 termexpires:	January 3, 2025
-mailingaddress:	393 Russell Senate Office Building Washington DC 20510
-phonenumber:	(202) 224-6324
-emailaddress:	https://www.casey.senate.gov/contact/
-website:	http://www.casey.senate.gov/
-powrid: e9072f05_1607161815
-twitter: SenBobCasey
+mailingaddress:	
+phonenumber:	
+emailaddress:	
+website:	
 ---
 
 #### U.S. Senator Bob Casey fights every day for Pennsylvania families

@@ -35,8 +35,6 @@ fax1: 670/664-2211
 fax2: 
 emailaddress:	https://governor.gov.mp/contact/
 website:	https://governor.gov.mp/
-powrid: 43b470de_1609210882
-twitter: LtCnmi
 ---
 
 The Honorable Ralph DLG. Torres is the 9th Governor of the Commonwealth of the Northern Mariana Islands, serving alongside Lieutenant Governor Arnold I. Palacios, and the youngest Governor in the United States of America at 40 years old.

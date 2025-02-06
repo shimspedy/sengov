@@ -18,15 +18,12 @@ name:	Wiley Nickel
 state:	North Carolina
 district: 13th
 party:		Democratic
-officeroom:	1133 Longworth House Office Building
-phonenumber:	(202) 225-4531
-emailaddress:	https://nickel.house.gov/contact/
-website:	https://nickel.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: repwileynickel
-powrid: 
+inoffice: former
 ---
 
 Wiley Nickel is currently serving his first term in Congress as the U.S. Representative of the 13th District of North Carolina which includes Wake, Wayne, Johnston and Harnett Counties.

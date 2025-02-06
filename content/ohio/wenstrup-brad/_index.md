@@ -18,15 +18,12 @@ name:	Brad R. Wenstrup
 state:	Ohio
 district: 2nd
 party:	Republican
-officeroom:	2419 RHOB
-phonenumber:	(202) 225-3164
-emailaddress:	https://wenstrup.house.gov/contact/
-website:	https://wenstrup.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepBradWenstrup
-powrid: 
+inoffice: former
 ---
 
 Dr. Brad Wenstrup’s life has centered on hard work, service, and sacrifice. As a doctor, combat surgeon and small business owner, Brad has a deep understanding of the issues facing America.

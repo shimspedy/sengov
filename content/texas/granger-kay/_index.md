@@ -18,15 +18,13 @@ name:	Kay Granger
 state:	Texas
 district: 12th
 party:	Republican
-officeroom:	1026 LHOB
-phonenumber:	(202) 225-5071
-emailaddress:	https://kaygranger.house.gov/contact
-website:	https://kaygranger.house.gov/
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: Appropriations
 role: congress
 inoffice: former
-twitter: RepKayGranger
-powrid: 
 ---
 
 A native Texan and member of the Daughters of the American Revolution, Granger is an alumna of Texas Wesleyan University. After graduation, she was a classroom teacher for nine years before building a successful insurance business, which she managed for more than two decades. In recognition of her service as an educator, business owner and public servant, her alma mater honored her with an honorary doctorate of humane letters. 

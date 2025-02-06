@@ -18,15 +18,12 @@ name:	Colin Z. Allred
 state:	Texas
 district: 32rd
 party:	Democratic
-officeroom:	114 CHOB
-phonenumber:	(202) 225-2231
-emailaddress:	https://allred.house.gov/contact
-website:	https://allred.house.gov/
-committeeassignment: 
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: RepColinAllred
-powrid: 
+inoffice: former
 ---
 
 Colin is a civil rights attorney and Dallas native who is running to keep representing Texas’ 32nd District.

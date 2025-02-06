@@ -18,15 +18,13 @@ name:	Abigail Davis Spanberger
 state:	Virginia
 district: 7th
 party:	Democratic
-officeroom:	1431 LHOB
-phonenumber:	(202) 225-2815
-emailaddress:	https://spanberger.house.gov/contact/
-website:	https://spanberger.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepSpanberger
-powrid: 
+inoffice: former
 ---
 
 Abigail Spanberger has always served her country and community. She began her career of public service as a federal law enforcement officer working narcotics and money laundering cases with the U.S. Postal Inspection Service.

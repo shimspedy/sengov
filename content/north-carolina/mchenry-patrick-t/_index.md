@@ -18,15 +18,12 @@ name:	Patrick T. McHenry
 state:	North Carolina
 district: 10th
 party:	Republican
-officeroom:	2004 RHOB
-phonenumber:	(202) 225-2576
-emailaddress:	https://mchenry.house.gov/contact/
-website:	https://mchenry.house.gov/
-committeeassignment: Financial Services
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 role: congress
-inoffice: current
-twitter: PatrickMcHenry
-powrid: 
+inoffice: former
 ---
 
 Biography of Congressman Patrick McHenry
