@@ -1,12 +1,13 @@
+
+
 {{ if .Sections }}
      {{ $shuffledSections := shuffle .Sections }}
      {{ range $shuffledSections }}
-     {{ if eq .Section "states" }}
-          {{ if .Sections }}
-          <div class="mainx row">
-               {{ range first 6  (shuffle .Sections) }}
-                         {{ range first 1 (shuffle .Sections) }}
-                         {{ if eq .Params.inoffice "current"  }}
+          {{ if eq .Section "states" }}
+               {{ if .Sections }}
+               <div class="mainx row">
+                    {{ range first 6  (shuffle .Sections) }}
+                              {{ range first 1 (shuffle .Sections) }}
                               {{ if eq .Params.party "Democratic" }}
                                    <div class="wrapx wrap--3 col s6 m3 l2 democraticx">
                               {{else if eq .Params.party "Republican"}}
@@ -14,7 +15,6 @@
                               {{else}}
                                    <div class="wrapx wrap--3 col s6 m3 l2 Independentx">
                               {{ end }}
-                                   
                                    <a href="{{ .Permalink }}" title="{{ .Params.title }}">
                                    <div class="containerx containerx--1" style="background-image:url({{ .Params.url }}{{ .Params.image }});">
                                    <p>{{ .Params.name }}</p>
@@ -22,11 +22,10 @@
                                    </a>
                                    
                                    </div>
-                              {{ end }}     
-                         {{ end }}
+                              {{ end }}
+                    {{ end }}
+               </div>
                {{ end }}
-          </div>
           {{ end }}
-     {{ end }}
      {{ end }}
 {{ end }}
