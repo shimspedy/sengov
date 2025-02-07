@@ -5,11 +5,11 @@
      {{ if  (eq .Params.ab "WH")  }}
                     {{if .Sections}}
                           {{range  .Sections  }}
-                          {{ if   eq .Params.inoffice "current"  }}
-                          <div class="col s12 m6 l4">
-                                   {{ partial "listings/inpower" . }}
-                         </div>
-                         {{ end }}
+                              {{ if eq .Params.inoffice "current"  }}
+                              <div class="col s12 m6 l4">
+                                        {{ partial "listings/inpower" . }}
+                              </div>
+                              {{ end }}
                          {{end}}
 
                     {{end}}
