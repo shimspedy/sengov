@@ -18,15 +18,13 @@ name:	Jenniffer González-Colón
 state:	Puerto Rico
 district: Resident Commissioner
 party:	Republican
-officeroom:	2338 RHOB
-phonenumber:	(202) 225-2615
-emailaddress:	https://gonzalez-colon.house.gov/contact
-website:	https://gonzalez-colon.house.gov/
+officeroom:
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepJenniffer
-powrid: 
+inoffice: former
 ---
 
 Jenniffer González-Colón was elected November 8th, 2016, as Puerto Rico's sole Representative to the U.S. Congress, known as Resident Commissioner. The first woman to hold the office, Ms. Gonzalez-Colón received the most votes (over 718,000) of any elected official on the Island in that election.
