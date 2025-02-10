@@ -18,23 +18,41 @@ name:	Mike Garcia
 state:	California
 district: 25th
 party:	Republican
-officeroom:	1535 LHOB
-phonenumber:	(202) 225-1956
-emailaddress:	https://mikegarcia.house.gov/contact
-website:	https://mikegarcia.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
 inoffice: former
 ---
 
-A first-generation American citizen, Congressman Mike Garcia was a highly decorated United States Naval Officer and businessman before serving in the United States House of Representatives. His superb flying performance earned him the honor of becoming one of the first F/A-18 Super Hornet strike fighter pilots in the Navy. While on active duty, Congressman Garcia flew over 30 combat missions during Operation Iraqi Freedom in the skies above Baghdad, Fallujah, and Tikrit.
+**Michael Joseph Garcia** (born April 24, 1976) is an American politician and former United States Navy pilot who served as the U.S. Representative for California’s 27th congressional district from 2020 to 2025. A member of the Republican Party, he first won the seat in a May 2020 special election and subsequently secured a full term in the general election later that year. 
 
-A top graduate of Saugus High School, Congressman Garcia was nominated to attend the United States Naval Academy in Annapolis by former U.S. Representative Howard “Buck” McKeon. Graduating with a Bachelor’s degree while majoring in Political Science with a minor in Spanish, Congressman Garcia was in the top 3% of his class. Upon graduating from Annapolis, Garcia also attended graduate school at Georgetown University, where he earned a Master’s Degree in National Securities Studies.
+Garcia attended the United States Naval Academy and later earned a Master of Arts in national security policy studies from Georgetown University. Serving in the U.S. Navy from 1998 to 2012, he flew combat missions during the Iraq War as an F/A-18 aviator. Following his military service, he worked as a business development manager at Raytheon Intelligence & Space.
 
-After receiving his commission, Congressman Garcia attended flight school. On the heels of 9/11, Congressman Garcia deployed as an F/A-18 strike fighter pilot aboard the USS Nimitz, a nuclear-powered aircraft carrier. Throughout his career, Congressman Garcia was lauded as one of the best leaders and most naturally-talented pilots in the U.S. Navy. He participated in combat operations during the first six months of Operation Iraqi Freedom in 2003. Accruing over 1,400 hours of operational flight time over nearly 20 years of active and reserve military service to our Nation, Congressman Garcia decided to separate from the Navy with an Honorable Discharge and focus on his family. He subsequently joined the Raytheon Company as an executive.
+Throughout his congressional tenure, Garcia won multiple elections against Democratic challenger Christy Smith, including the 2020 special election, the 2020 general election, and the 2022 general election. Originally representing California’s 25th congressional district, he continued serving the region when it was renumbered as the 27th district following the 2020 redistricting cycle.
 
-Throughout eleven years as an executive with Raytheon, Congressman Garcia was responsible for business growth and the creation of hundreds of jobs. Additionally, he has demonstrated a long track record of community service, business growth, and investment across the District.
+Garcia sought re-election in 2024 but was defeated in the general election by Democrat George T. Whitesides. His tenure in Congress ended in January 2025.
 
-Congressman Garcia is a native of Santa Clarita since his move to Saugus in 1983 with his mother and step-father at the age of seven. From a young age, Congressman Garcia yearned to serve his nation. He views his role as Representative for California’s 25th District as a continuation of that lifelong desire as well as a sense of responsibility to give back to his local community. He lives in Santa Clarita with his wife, Rebecca, and their two sons.
+### **Early Life and Education**  
+Born in Granada Hills, California, Garcia was raised in Santa Clarita. His parents immigrated from Mexico in 1959. He graduated from Saugus High School in 1994 before attending the United States Naval Academy, where he earned a Bachelor of Science in political science and graduated in the top 3% of his class. He later obtained a Master’s degree in national security policy studies from Georgetown University in 1998.
 
-Congressman Garcia currently serves on two House committees: House Committee on Appropriations and House Committee on Science, Space, and Technology.
+### **Military and Civilian Career**  
+Garcia was commissioned as an ensign in the U.S. Navy in 1998 and trained as a naval aviator. During his service, he was deployed from the USS *Nimitz* and participated in over 30 combat missions during the 2003 invasion of Iraq. After leaving active duty in 2012, he transitioned to the private sector, working in business development at Raytheon Intelligence & Space.
+
+### **U.S. House of Representatives**  
+#### **Elections and Tenure**  
+Garcia entered politics in 2019, initially challenging then-Representative Katie Hill for California’s 25th congressional district. After Hill’s resignation, Garcia won the 2020 special election, becoming the first Republican in over two decades to flip a Democratic-held House seat in California. He successfully defended his seat in the 2020 and 2022 general elections, facing Christy Smith each time. 
+
+During his time in Congress, Garcia served on the House Appropriations Committee, the House Permanent Select Committee on Intelligence, and the House Science, Space, and Technology Committee. He was known for his advocacy for military funding, national security, and conservative economic policies.
+
+In the 2024 election, Garcia lost to Democratic challenger George T. Whitesides. He conceded the race on November 11, 2024.
+
+### **Political Positions and Legislative Work**  
+Garcia aligned with conservative policies, particularly in defense and tax policy. He supported increasing military spending, opposed abortion rights, and backed stronger border security measures. He voted against the certification of the 2020 presidential election results and opposed Donald Trump’s second impeachment.
+
+On economic issues, Garcia advocated for tax cuts and the repeal of the Affordable Care Act. He was also one of the few House Republicans to vote for the Respect for Marriage Act, which codified same-sex marriage protections.
+
+### **Personal Life**  
+Garcia is married to Rebecca Garcia, an interior designer, and they have two sons. The family resides in Santa Clarita, California.
