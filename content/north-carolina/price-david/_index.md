@@ -18,15 +18,13 @@ name:	David E. Price
 state:	North Carolina
 district: 4th
 party:	Democratic
-officeroom:	2108 RHOB
-phonenumber:	(202) 225-1784
-emailaddress:	https://priceforms.house.gov/contact/
-website:	https://price.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
 inoffice: former
-twitter: RepDavidEPrice
-powrid: 
 ---
 
 #### From Educator to Congressman
