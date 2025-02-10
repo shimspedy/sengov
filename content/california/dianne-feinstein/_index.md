@@ -19,21 +19,11 @@ state:	California
 party:	Democratic
 role: senator
 inoffice: former
-born:	June 22, 1933
-age: '87'
-enteredoffice:	November 10, 1992
-termexpires:	January 3, 2025
-mailingaddress:	331 Hart Senate Office Building Washington DC 20510
-phonenumber:	202 224-3841
-emailaddress:	https://www.feinstein.senate.gov/public/index.cfm/e-mail-me
-website:	https://www.feinstein.senate.gov/public/
-powrid: cd8bf160_1607238035
-twitter: SenFeinstein
-votespotter: '141451'
+
 ---
 
 
-Dianne Goldman Berman Feinstein (/ˈfaɪnstaɪn/; born Dianne Emiel Goldman; June 22, 1933 – September 29, 2023) was a prominent American political figure who held the position of United States Senator from California from 1992 until her passing in 2023. She was a stalwart member of the Democratic Party and previously served as the Mayor of San Francisco from 1978 to 1988.
+Dianne Goldman Berman Feinstein (born Dianne Emiel Goldman; June 22, 1933 – September 29, 2023) was a prominent American political figure who held the position of United States Senator from California from 1992 until her passing in 2023. She was a stalwart member of the Democratic Party and previously served as the Mayor of San Francisco from 1978 to 1988.
 
 A native of San Francisco, Feinstein graduated from Stanford University in 1955. Her political journey commenced with her election to the San Francisco Board of Supervisors in 1969, where she swiftly assumed the role of the board's first female president in 1970. Notably, in 1978, while serving as president of the board for the third time, Feinstein found herself in the spotlight following the tragic assassinations of Mayor George Moscone and City Supervisor Harvey Milk. She stepped into the role of mayor, marking the first time a woman had held the position in San Francisco's history. During her tenure, she spearheaded the revitalization of the city's iconic cable car system and managed the 1984 Democratic National Convention. Despite a recall attempt in 1983, Feinstein remained a beloved mayor and was acclaimed as the most effective mayor in the nation by City & State in 1987.
 
