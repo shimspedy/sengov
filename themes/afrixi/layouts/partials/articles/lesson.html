@@ -25,7 +25,12 @@
             {{end}}
           </div>
           <div class="col s12 m6 l7">
+            {{ if eq .Params.inoffice "former" }}
+            <div class="senator-info" style="   background-image: url(/out.jpg); background-color: #ffffff;background-position: center;background-repeat: no-repeat; background-size: contain;" itemscope itemtype="https://schema.org/Table">
+            {{else}}
             <div class="senator-info" itemscope itemtype="https://schema.org/Table">
+            {{end}}
+            
               <h1 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact
                 information</h1>
               <p class="flow-text" style="font-size: 12px;">Here you will find contact information for {{.Params.Role}}
@@ -148,7 +153,7 @@
         </div>
 
 
-      
+     
       
         {{ partial "subheader" . }}
        
