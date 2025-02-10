@@ -18,15 +18,13 @@ name:	James R. Langevin
 state:	Rhode Island
 district: 2nd
 party:	Democratic
-officeroom:	2077 RHOB
-phonenumber:	(202) 225-2735
-emailaddress:	https://langevin.house.gov/contact-me
-website:	https://langevin.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
 inoffice: former
-twitter: JimLangevin
-powrid: 
 ---
 
 Congressman Jim Langevin (LAN'-jih-vin) is a senior member of the House Armed Services Committee, on which he chairs the Cyber, Innovative Technologies, and Information Systems Subcommittee and serves on the Subcommittees on Seapower and Projection Forces and Strategic Forces. He is a senior member of the Committee on Homeland Security and serves on its Subcommittees on Intelligence & Counterterrorism and Cybersecurity, Infrastructure Protection, & Innovation.
