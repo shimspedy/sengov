@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Representative Marie Woodson
      description: Marie Paule Woodson served as a member of the Florida House of Representatives for the 101st district from 2020 to 2022. Due to redistricting, she is now the representative for the 105th district.
 description: Contact Representative Marie Woodson of Florida. Contact information for Marie Woodson includes email address, phone number, and mailing address.
-image: marie-woodson.jpeg
+image: marie-woodson.jpg
 video:
 url:  /states/florida/marie-woodson/
 weight: 1
