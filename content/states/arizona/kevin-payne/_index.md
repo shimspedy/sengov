@@ -1,14 +1,15 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-02-08T11:54:12-05:00
 title: "Kevin Payne"
-seo_title: "contact Representative Kevin Payne"
+seo_title: "contact Senator Kevin Payne"
 subheader:
-     greeting: Contact Representative Kevin Payne
-     description: Kevin Payne, a member of the Republican Party, is currently serving in the Arizona House of Representative, representing District 27. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
-description: Contact Representative Kevin Payne of Arizona. Contact information for Kevin Payne includes email address, phone number, and mailing address.
+     greeting: Contact Senator Kevin Payne
+     description: Kevin Payne, an American politician affiliated with the Republican Party, serves as a member of the Arizona State Senate for District 27. He began his term on January 13, 2025, and his current term will conclude on January 11, 2027.
+
+description: Contact Senator Kevin Payne of Arizona. Contact information for Kevin Payne includes email address, phone number, and mailing address.
 image: kevin-payne.jpeg
 video:
-url:  /states/arizona/kevin-payne/
+url: /states/arizona/kevin-payne/
 weight: 1
 layout: course_home
 
@@ -16,22 +17,32 @@ layout: course_home
 name: Kevin Payne
 state: Arizona
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: Capitol Complex Room 110 1700 W Washington St., Rm. 203 Phoenix, AZ 85007-2890
-phone1: 602-926-4854
-website: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2188/
-email : https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2188/
-twitter: kevinpayneld21
+elected: 2025
+mailing1: Capitol Complex Room 302 1700 W Washington St., Rm. 204 Phoenix, AZ 85007-2890
+phone1:  602-926-4854
+website: https://www.azleg.gov/senate-member/?legislature=57&legislator=2387/
+email : https://www.azleg.gov/senate-member/?legislature=57&legislator=2387/
+twitter: http://www.twitter.com/kevinpayneld21
 ---
+I have served on a variety of committees in the legislature, but much of my work centers around being Chairman of the House Military Affairs and Public Safety Committee, where I get to focus on issues related to public safety as well as Arizona’s veteran population and military bases.
 
-Kevin Payne, a member of the Republican Party, is currently serving in the Arizona House of Representatives, representing District 27. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
+I’ve received awards from pro-taxpayer and pro-education groups and have been a strong advocate for balanced budgets, strong schools, and low taxes.  I have a strong voting record on issues like Life, our 2nd Amendment rights, School Choice, Election Integrity, Parental Rights, Medical Freedom, and making Arizona one of the most job-friendly states in the country.
 
-Born in Florence, Arizona, Payne served in the U.S. Navy from 1978 to 1986 and was honorably discharged. His career experience includes working as an electrical engineer, aerospace technical consultant, and small business owner and operator.
+I have been called a common-sense conservative and I think that’s the best way to describe me.  I believe in limited government, low taxes, and allowing Arizonans to thrive with as little interference as possible.  A little more about me:
+ 
 
-Before his current tenure, Payne served in the Arizona House of Representatives for District 21. He succeeded Marcelino Quiñonez and was succeeded by Consuelo Hernandez. His base salary as a legislator is $24,000/year. In addition to his salary, he receives a per diem for the first 120 days of regular and special sessions and half that amount after the 120th day. The per diem for legislators residing outside of Maricopa County is tied to the federal rate.
+US NAVY Veteran 8 years honorably discharged
 
-Payne has served on a variety of committees throughout his legislative career. In the 2023-2024 session, he was assigned to the Government and Elections Committee, Military Affairs and Public Safety Committee (as Chair), and the Regulatory Affairs Committee. In the 2021-2022 session, he served on the Government and Elections Committee, Transportation Committee, and Military Affairs and Public Safety Committee (as Chair). In the 2019-2020 session, he served on the Government and Higher Education Committee (as Vice Chairman), Transportation Committee, and Public Safety Committee (as Chairman).
+Married over 35 years, 4 children and 8 grandchildren
 
-Payne ran for re-election to the Arizona House of Representatives to represent District 27 and won in the general election on November 8, 2022.
+4 years as Electrical Engineer
+
+3 years Aerospace Technical Consultant
+
+22 years Information Technology
+
+Small Business Owner/Operator
+
+Former GOP District Chairman
