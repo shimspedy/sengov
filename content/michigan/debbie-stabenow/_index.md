@@ -18,7 +18,7 @@ name:	Debbie Stabenow
 state:	Michigan
 party:	Democratic
 role: senator
-inoffice: current
+inoffice: former
 born:	April 29, 1950 
 age: '70'
 enteredoffice:	January 3, 2001

@@ -18,15 +18,13 @@ name:	Elissa Slotkin
 state:	Michigan
 district: 8th
 party:	Democratic
-officeroom:	1210 LHOB
-phonenumber:	(202) 225-4872
-emailaddress:	https://slotkin.house.gov/contact
-website:	https://slotkin.house.gov/
+officeroom:	
+phonenumber:	
+emailaddress:	
+website:	
 committeeassignment: 
 role: congress
-inoffice: current
-twitter: RepSlotkin
-powrid: 
+inoffice: former
 ---
 
 Serving mid-Michigan in Congress is the most important thing I’ve ever done. Since winning election in 2018, I’ve worked to defend and expand the middle class—but our work is just beginning.

@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Elissa Slotkin
      description: In November 2024, Elissa was elected to serve Michigan in the U.S. Senate, succeeding Debbie Stabenow. In the Senate, Elissa will fight to expand Michigan’s middle class, create jobs with dignity, and keep our communities and children safe.
 description: Contact Senator Elissa Slotkin of Michigan. Contact information for Elissa Slotkin includes email address, phone number, and mailing address.
-image: elissa-slotkin.jpeg
+image: elissa-slotkin.jpg
 video:
 url: /michigan/elissa-slotkin/
 weight: 1
@@ -17,12 +17,11 @@ name: Elissa Slotkin
 state: Michigan
 district: 
 party: Democratic
-officeroom: 
-phonenumber: 
-emailaddress: 
-website: 
-powrid: 
-inoffice: former
+officeroom: 825B Hart Senate Office Building Washington, DC 20510
+phonenumber: (202) 224-4822
+emailaddress: https://www.slotkin.senate.gov/
+website:      https://www.slotkin.senate.gov/
+inoffice: current
 role: Senator
 ---
 Elissa has dedicated her career to serving the country she loves. A former CIA analyst who served three tours in Iraq alongside the U.S. military, Elissa then worked in national security roles at the Pentagon and White House under President Bush and President Obama. In the Obama Administration, she briefed the President on some of the most sensitive national security matters of the day and was eventually nominated to serve as Assistant Secretary of Defense for International Security Affairs at the Pentagon. 
