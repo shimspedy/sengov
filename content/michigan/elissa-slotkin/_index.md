@@ -6,7 +6,7 @@ subheader:
      greeting: Contact Senator Elissa Slotkin
      description: In November 2024, Elissa was elected to serve Michigan in the U.S. Senate, succeeding Debbie Stabenow. In the Senate, Elissa will fight to expand Michigan’s middle class, create jobs with dignity, and keep our communities and children safe.
 description: Contact Senator Elissa Slotkin of Michigan. Contact information for Elissa Slotkin includes email address, phone number, and mailing address.
-image: elissa-slotkin.jpg
+image: elissa-slotkin.jpeg
 video:
 url: /michigan/elissa-slotkin/
 weight: 1
