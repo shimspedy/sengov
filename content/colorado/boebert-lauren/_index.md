@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-01-22T11:54:12-05:00
 title: "Lauren Boebert "
 seo_title: "contact Representative Lauren Boebert "
 subheader:
@@ -18,22 +18,26 @@ name:	Lauren Boebert
 state:	Colorado
 district: 3rd
 party:	Republican
-officeroom:	
-phonenumber:	
-emailaddress:	
-website:	
+officeroom:	1713 Longworth House Office Building
+phonenumber:	(202) 225-4761
+emailaddress:	https://boebertforms.house.gov/forms/writeyourrep/
+website:	https://boebert.house.gov/
 role: congress
-inoffice: former
+inoffice: current
 ---
 
-U.S. Congresswoman Lauren Boebert is serving her first term as the Representative for Colorado’s Third Congressional District. She is on the Natural Resources and Budget Committees, is co-chair of the Congressional Second Amendment Caucus, and after only a few months, was elected to the Executive Board as the Communications Chair of the House Freedom Caucus and was also appointed to serve on the Future of American Freedoms Task Force. Rep. Boebert also serves as the Vice Chairman of the Congressional Western Caucus.
+U.S. Congresswoman Lauren Boebert is serving her third term as a member of Congress and her first as Representative for Colorado’s Fourth Congressional District.
 
-A 35-year-old, citizen legislator from Rifle, Colorado, she never held public office prior to her 2020 victory and is the first woman, first mother, and youngest ever to represent the District. She is the owner of Shooters Grill, a Western-themed restaurant in Rifle, Colorado.
+She serves on the Natural Resources and Oversight Committees, is the Vice Chair of the House Natural Resources Subcommittee on Oversight and Investigations, is co-chair of the Congressional Second Amendment Caucus, and is a member of the House Freedom Caucus.
 
-Representative Boebert was raised in a Democrat household on welfare. Her senior year of high school, she earned an opportunity to serve as an assistant manager at her local McDonald’s. She made the difficult decision to drop out of school to help put food on her family's table, realizing she could provide better for herself than the government ever could.
+Rep. Boebert is also a member of the Congressional Western Caucus where she focuses on issues that impact rural Colorado like energy, agriculture, multiple-use on public lands and water.
+
+A 38-year-old, citizen legislator who lives in Windsor, Colorado, she never held public office prior to her 2020 victory and is now the senior Republican member of Colorado's Congressional Delegation.
+
+Congresswoman Boebert was the proud owner of Shooter's Grill, a Second Amendment and Western-themed restaurant in Rifle, Colorado where staff open-carried.
 
 Congresswoman Boebert is active in her church and spent years as a volunteer, counseling and assisting at-risk women at the local jail with reentering society and becoming contributing members in their communities.
 
-She has worked as a natural gas product technician, GIS technician, and pipeline integrity coordinator. Congresswoman Boebert is married to a natural gas drilling foreman who has worked his entire adult life in the oil and gas fields.
+She worked in the domestic energy sector as a natural gas product technician, GIS technician, and pipeline integrity coordinator.
 
-Representative Boebert is the mother of four boys, ages 9-17.
+Representative Boebert is the mother of four boys and a grandmother of one.
