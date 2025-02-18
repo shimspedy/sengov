@@ -17,13 +17,12 @@ name: John Mannion
 state: New York
 party: Democratic
 role: Senator
-inoffice: current
+inoffice: former 
 elected: 2021
-mailing1: Legislative Office Building Room 946 LOB Albany, NY 12247
-phone1: 518-455-3511
+mailing1: 
+phone1: 
 website: https://www.nysenate.gov/senators/john-w-mannion/
 email : https://www.nysenate.gov/senators/john-w-mannion/
-twitter: senjohnmannion
 ---
 
 Senator John W. Mannion is a lifelong Central New Yorker and the grandchild of Irish immigrants. His mother worked at New York Telephone and his father for New York Central Railroad, raising John and his siblings on Syracuse's famous Tipperary Hill. He now resides in Geddes with his wife, Jennifer. They have three children, two in college and one recently graduated.
