@@ -1,10 +1,10 @@
 ---
-date: 2020-11-22T11:54:12-05:00
+date: 2025-02-16T11:54:12-05:00
 title: "Jamie Raskin "
 seo_title: "contact Representative Jamie Raskin "
 subheader:
      greeting: Contact Representative Jamie Raskin  
-     description: Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S. House of Representatives.
+     description: Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S. House of Representatives. The district includes most of Montgomery County and a small part of Prince George's County.
 description: Contact Representative Jamie Raskin  of Maryland. Contact information for Jamie Raskin  includes email address, phone number, and mailing address.
 image: raskin-jamie.jpg
 video: 
@@ -29,10 +29,12 @@ twitter: RepRaskin
 powrid: 
 ---
 
-Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S. House of Representatives. The district includes parts of Montgomery, Carroll, and Frederick Counties. Congressman Raskin was sworn into his second Term at the start of the 116th Congress on January 3, 2019.
+Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S. House of Representatives. The district includes most of Montgomery County and a small part of Prince George's County. Congressman Raskin was sworn into his fourth Term at the start of the 118th Congress on January 6, 2023.
 
-Congressman Raskin is a returning Member of the House Judiciary Committee, the Committee on Oversight and Reform, and the Committee on House Administration. He is a new Member of the House Committee on Rules. Raskin is Vice Chair of  the House Administration Committee, Chairman of the Oversight Subcommittee on Civil Rights and Civil Liberties, and Vice Chair of the Judiciary Subcommittee on the Constitution. Raskin is the Caucus Leadership Representative for the 116th Congress, a role in which he represents Junior Members of the Caucus (those who have served five or less Terms) at the leadership table. He was also appointed to serve as a Senior Whip for the 116th Congress.
+Rep. Raskin was chosen by the Democratic Caucus to be the Ranking Member of the House Committee on Oversight and Accountability in the 118th Congress. This is his fourth term serving on the Oversight Committee.
 
-Prior to his time in Congress, Raskin was a three-term State Senator in Maryland, where he also served as the Senate Majority Whip. He quickly earned a reputation for building coalitions in Annapolis, and delivered a series of landmark legislative accomplishments. He was also a professor of constitutional law at American University’s Washington College of Law for more than 25 years. He authored several books, including the Washington Post best-seller Overruling Democracy: The Supreme Court versus the American People and the highly-acclaimed We the Students: Supreme Court Cases For and About America’s Students, which has sold more than 50,000 copies.
+Previously Rep. Raskin served three terms on the House Judiciary Committee and the Committee on House Administration. He served two terms on the Rules Committee and the Coronavirus Select Subcommittee. During the 117th Congress he served as Chair of the Oversight Subcommittee on Civil Rights and Civil Liberties and Chair of the Rules Subcommittee on Expedited Procedure. Rep. Raskin was the lead impeachment manager in the second impeachment trial of former president Donald Trump and served on the Select Committee to Investigate the January 6th Attack on the United States Capitol.
 
-Congressman Raskin is a graduate of Harvard University and Harvard Law School. He and his wife, Sarah Bloom Raskin, live in Takoma Park with their dog, Potter. They have three children: Tabitha, Tommy, and Hannah.
+Prior to his time in Congress, Raskin was a three-term State Senator in Maryland, where he also served as the Senate Majority Whip. He earned a reputation for building coalitions in Annapolis to deliver a series of landmark legislative accomplishments, including marriage equality, abolition of the death penalty, passage of the first Benefit Corporation law in America and the National Popular Vote Interstate Compact. He was also a professor of constitutional law at American University’s Washington College of Law for more than 25 years. He has authored several books, including the Washington Post best-seller Overruling Democracy: The Supreme Court versus the American People, the highly-acclaimed We the Students: Supreme Court Cases For and About America’s Students, and the New York Times #1 best-seller Unthinkable: Trauma, Truth and the Trials of American Democracy.
+
+Congressman Raskin is a graduate of Harvard College and Harvard Law School and is a former editor of the Harvard Law Review.
