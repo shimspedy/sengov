@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-02-10T11:54:12-05:00
 title: "Kristen Arrington"
-seo_title: "contact Representative Kristen Arrington"
+seo_title: "contact Senator Kristen Arrington"
 subheader:
-     greeting: Contact Representative Kristen Arrington
-     description: Kristen Aston Arrington is an American politician and businesswoman who has been serving as a member of the Florida House of Representatives since 2020. She was born in Holiday, Florida, and currently resides in Kissimmee, Florida.
-description: Contact Representative Kristen Arrington of Florida. Contact information for Kristen Arrington includes email address, phone number, and mailing address.
+     greeting: Contact Senator Kristen Arrington
+     description: Kristen Arrington is an American politician affiliated with the Democratic Party. She currently serves as a member of the Florida State Senate, representing District 25. Arrington began her term on November 5, 2024.
+description: Contact Senator Kristen Arrington of Florida. Contact information for Kristen Arrington includes email address, phone number, and mailing address.
 image: kristen-arrington.jpeg
 video:
-url:  /states/florida/kristen-arrington/
+url: /states/florida/kristen-arrington/
 weight: 1
 layout: course_home
 
@@ -16,26 +16,23 @@ layout: course_home
 name: Kristen Arrington
 state: Florida
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2020
-mailing1: 513 The Capitol Room 1302 CAP 402 S. Monroe St. Tallahassee, FL 32399-1300
-phone1: 850-717-5046
-website: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4774&LegislativeTermId=90/
-email : https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4774&LegislativeTermId=90/
+elected: 2024
+mailing1: 405 The Capitol Room 226 SOB 404 S Monroe St Tallahassee, FL 32399-1100
+phone1: 850-487-5025
+website: https://flsenate.gov/Senators/S25/
+email : https://flsenate.gov/Senators/S25/
 twitter: arrington4fl
 ---
+Kristen Aston Arrington, born on August 22, 1975, in Holiday, Florida, is an American politician and businesswoman who has been serving as a member of the Florida Senate since 2024. She grew up in Holiday and graduated from Osceola High School. Arrington pursued higher education at Valencia College, where she earned an Associate of Arts degree in political science and government.
 
-Kristen Aston Arrington is an American politician and businesswoman who has been serving as a member of the Florida House of Representatives since 2020. She was born in Holiday, Florida, and currently resides in Kissimmee, Florida.
+Before entering politics, Arrington had a diverse career. From 2006 to 2012, she worked as a property manager. She then served as a consultant for the Transportation and Expressway Authority Membership of Florida from 2012 to 2015. In 2015, she founded Pitbull Strategies, a social media marketing company, showcasing her entrepreneurial spirit.
 
-Arrington graduated from Osceola High School and earned an Associate of Arts degree in political science and government from Valencia College. Her early career spanned various roles, including working as a property manager from 2006 to 2012. She then served as a consultant for the Transportation and Expressway Authority Membership of Florida from 2012 to 2015.
+Arrington's political career began when she was elected to the Florida House of Representatives in November 2020. She represented the 43rd district from 2020 to 2022 and the 46th district from 2022 to 2024. During her tenure in the House, she was a member of the House Education & Employment Committee, where she focused on improving education and employment opportunities for her constituents.
 
-In 2015, she founded Pitbull Strategies, a social media marketing company, demonstrating her entrepreneurial spirit. Her political journey began when she was elected to the Florida House of Representatives in November 2020.
+In 2024, Arrington successfully ran for the Florida Senate, representing the 25th district. Her campaign was marked by her dedication to addressing the needs of her community, including increasing funding for education, improving transportation infrastructure, providing affordable housing, and securing higher wages for workers. Arrington's commitment to her constituents and her ability to address their concerns have made her a respected figure in Florida politics.
 
-In the House, she has been a member of various committees, including the House Education & Employment Committee and the Commerce Committee. She has also served on the House Judiciary Committee.
+Throughout her career, Arrington has been actively involved in her community. She has served on the board of the Central Florida Foundation and Kissimmee Main Street. Additionally, she is known for her philanthropic efforts, such as delivering weekly Meals on Wheels to local senior citizens and raising funds for various non-profit organizations, including those supporting animal welfare.
 
-Arrington's tenure in the Florida House of Representatives has been marked by her commitment to her constituents and her dedication to public service. Her current term ends on November 5, 2024.
-
-In addition to her political career, Arrington has also made significant contributions to her community. She has served on the board of the Central Florida Foundation and Kissimmee Main Street.
-
-Looking ahead, Arrington has declared her candidacy for the Democratic primary for the Florida State Senate to represent District 25, scheduled on August 20, 2024. This next step in her political career is a testament to her ongoing commitment to serving the people of Florida.
+Arrington's dedication to public service and her community has earned her a reputation as a tireless advocate for the people of Osceola County. Her deep roots in Kissimmee, where she has lived since the age of three, have shaped her commitment to making a positive impact on the lives of her constituents. As a business owner, politician, and community leader, Kristen Arrington continues to work towards creating a better future for the residents of Florida.

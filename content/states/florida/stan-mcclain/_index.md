@@ -1,14 +1,14 @@
 ---
-date: 2024-02-15T11:54:12-05:00
+date: 2025-02-10T11:54:12-05:00
 title: "Stan McClain"
-seo_title: "contact Representative Stan McClain"
+seo_title: "contact Senator Stan McClain"
 subheader:
-     greeting: Contact Representative Stan McClain
-     description: Stan McClain, born on July 7, 1961, in Norfolk, Virginia, is an American politician who has been serving in the Florida House of Representatives since 2016. He is currently representing the 27th district.
-description: Contact Representative Stan McClain of Florida. Contact information for Stan McClain includes email address, phone number, and mailing address.
+     greeting: Contact Senator Stan McClain
+     description: Stan McClain, born on July 7, 1961, in Norfolk, Virginia, is an American politician who has made significant contributions to the state of Florida. He currently serves as a member of the Florida Senate, representing the 9th district, a position he has held since November 5, 2024.
+description: Contact Senator Stan McClain of Florida. Contact information for Stan McClain includes email address, phone number, and mailing address.
 image: stan-mcclain.jpeg
 video:
-url:  /states/florida/stan-mcclain/
+url: /states/florida/stan-mcclain/
 weight: 1
 layout: course_home
 
@@ -16,26 +16,23 @@ layout: course_home
 name: Stan McClain
 state: Florida
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2016
-mailing1: 513 The Capitol Room 418 CAP 402 S. Monroe St. Tallahassee, FL 32399-1300
-phone1: 850-717-5027
-website: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=90/
-email : https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=90/
-twitter: repmcclain
+elected: 2024
+mailing1: 405 The Capitol Room 312 SOB 404 S Monroe St Tallahassee, FL 32399-1100
+phone1: 850-487-5009
+website: https://flsenate.gov/Senators/S9/
+email : https://flsenate.gov/Senators/S9/
+twitter: http://www.twitter.com/repmcclain
 ---
+Stan McClain, born on July 7, 1961, in Norfolk, Virginia, is an American politician who has made significant contributions to the state of Florida. He currently serves as a member of the Florida Senate, representing the 9th district, a position he has held since November 5, 2024. Before his tenure in the Senate, McClain served in the Florida House of Representatives from 2016 to 2024, representing the 23rd and 27th districts.
 
-Stan McClain, born on July 7, 1961, in Norfolk, Virginia, is an American politician who has been serving in the Florida House of Representatives since 2016. He is currently representing the 27th district.
+McClain's career in politics is marked by his dedication to public service and his commitment to the principles of freedom and democracy. During his time in the Florida House of Representatives, he co-sponsored several notable bills. One such bill required high school students to earn credit in United States Government, including a comparative discussion of political ideologies that conflict with the principles of freedom and democracy. Another significant bill he co-sponsored aimed to repeal the voluntary firearm confiscation provisions of the Marjory Stoneman Douglas School Safety Act.
 
-Before his current tenure, he served as a member of the Florida House of Representatives from the 23rd district from November 8, 2016, to November 8, 2022. He was succeeded by Ralph Massullo in this role.
+In addition to his legislative work, McClain has been actively involved in various committees. His committee assignments have included the Education & Employment Committee, the House Rules Committee, and the Ways and Means Committee, where he served as Chair. His leadership and expertise have been instrumental in shaping policies and legislation that impact the lives of Floridians.
 
-McClain assumed his current office on November 8, 2022, after being redistricted. His predecessor in the 27th district was Webster Barnaby. His current term is set to end on November 5, 2024.
+McClain's career experience extends beyond politics. He has worked as a residential contractor, bringing a practical understanding of the construction industry to his legislative work. This background has informed his approach to issues related to housing, infrastructure, and economic development.
 
-In addition to his political career, McClain has experience working as a residential contractor. He resides in Ocala, Florida, with his spouse, Jessica E. McClain, and their 11 children.
+Throughout his career, McClain has been a staunch advocate for his constituents. He has focused on addressing the needs and concerns of the communities he represents, working tirelessly to improve the quality of life for all Floridians. His dedication to public service and his commitment to the principles of freedom and democracy have earned him the respect and admiration of his colleagues and constituents alike.
 
-During his time in office, Representative McClain has co-sponsored several significant bills. One such bill required a credit in United States Government comparative discussion of political ideologies, which conflict with the principles of freedom and democracy, for high school graduation. Another notable bill he co-sponsored aimed to repeal the voluntary firearm confiscation provisions of the Marjory Stoneman Douglas School Safety Act.
-
-Over the years, McClain has been assigned to various committees. For the 2023-2024 term, he was assigned to the Education & Employment Committee, the House Rules Committee, and the Ways and Means Committee, where he served as Chair. In the 2021-2022 term, he served as Vice Chair of the Education & Employment Committee, in addition to his roles in the House Rules Committee and the Ways and Means Committee.
-
-McClain's dedication to his role and his contributions to the Florida House of Representatives have been significant, and he continues to serve his constituents with commitment and integrity.
+Stan McClain resides in Ocala, Florida, with his wife, Jessica E. McClain, and their eleven children. His personal and professional life is a testament to his dedication to his family, his community, and his state. As he continues to serve in the Florida Senate, McClain remains committed to making a positive impact on the lives of those he represents.

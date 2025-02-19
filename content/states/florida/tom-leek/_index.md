@@ -1,14 +1,14 @@
 ---
-date: 2024-02-15T11:54:12-05:00
+date: 2025-02-10T11:54:12-05:00
 title: "Tom Leek"
-seo_title: "contact Representative Tom Leek"
+seo_title: "contact Senator Tom Leek"
 subheader:
-     greeting: Contact Representative Tom Leek
-     description: Tom Leek is a member of the Republican Party and represents District 28 in the Florida House of Representatives. He assumed office on November 8, 2022, and his current term ends on November 5, 2024.
-description: Contact Representative Tom Leek of Florida. Contact information for Tom Leek includes email address, phone number, and mailing address.
+     greeting: Contact Senator Tom Leek
+     description: Tom Leek is a prominent American politician and attorney who has made significant contributions to the state of Florida. He currently serves as a member of the Florida State Senate, representing District 7, which includes all of St. Johns, Putnam, and Flagler County, as well as northern parts of Volusia County.
+description: Contact Senator Tom Leek of Florida. Contact information for Tom Leek includes email address, phone number, and mailing address.
 image: tom-leek.jpeg
 video:
-url:  /states/florida/tom-leek/
+url: /states/florida/tom-leek/
 weight: 1
 layout: course_home
 
@@ -16,24 +16,21 @@ layout: course_home
 name: Tom Leek
 state: Florida
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2016
-mailing1: 513 The Capitol Room 418 CAP 402 S. Monroe St. Tallahassee, FL 32399-1300
-phone1: 850-717-5028
-website: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90/
-email : https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90/
-twitter:
+elected: 2024
+mailing1: 405 The Capitol Room 310 SOB 404 S Monroe St Tallahassee, FL 32399-1100
+phone1: 850-487-5007
+website: https://flsenate.gov/Senators/S7/
+email : https://flsenate.gov/Senators/S7/
+twitter: 
 ---
+Tom Leek is a prominent American politician and attorney who has made significant contributions to the state of Florida. Born on August 6, 1968, in Columbus, Ohio, Leek has built a distinguished career in public service and law. He currently serves as a member of the Florida State Senate, representing District 7, which includes all of St. Johns, Putnam, and Flagler County, as well as northern parts of Volusia County.
 
-Tom Leek is a member of the Republican Party and represents District 28 in the Florida House of Representatives. He assumed office on November 8, 2022, and his current term ends on November 5, 2024. Prior to this, he served in the Florida House of Representatives District 25.
+Leek's journey in politics began with his election to the Florida House of Representatives in 2016, where he represented District 25. He was re-elected in 2022 to represent District 28 after redistricting. During his tenure in the Florida House, Leek quickly established himself as a conservative leader, serving as a committee chairman and on the leadership team of the last three Speakers in the Florida House. His legislative accomplishments include landmark legislation that strengthened law enforcement recruitment, retention, and rewards, as well as important measures related to emergency management and banning vaccine passports.
 
-Born on August 6, 1968, in Columbus, Ohio, Tom Leek now resides in Ormond Beach, Florida. He has a rich educational background, having earned a Bachelor's degree from the University of Central Florida in 1992, and a Juris Doctor degree from Stetson University in 1997.
+In 2024, Leek ran for election to the Florida State Senate and won the general election on November 5, 2024. He assumed office on the same day, succeeding Travis Hutson. As a state senator, Leek continues to advocate for conservative values and policies that strengthen families, promote economic development, and expand school choice.
 
-In his professional life, Tom Leek has worked as a Chief Legal Officer. He is married to Michelle of Delaware and they have two children, Alexandria J. Leek and Sarah E. Leek. He is affiliated with the Presbyterian church.
+Leek's educational background includes a Bachelor of Arts degree from the University of Central Florida, which he earned in 1992, and a Juris Doctor degree from Stetson University College of Law, obtained in 1997. His career in law spans over two decades, during which he served as the managing partner at the law firm of Cobb Cole in Daytona Beach. In 2018, he joined Foundation Risk Partners, Corp., a national insurance brokerage, as the Chief Legal Officer and Executive Vice President.
 
-Tom Leek has a keen interest in boating, college football, and fishing. His political career has been marked by significant committee assignments. In the 2023-2024 term, he was assigned to the House Appropriations Committee (as Chair), Commerce Committee, and House Judiciary Committee. In the 2021-2022 term, he chaired the Pandemics & Public Emergencies Committee and was a member of the House Appropriations Committee.
-
-In the 2019-2020 term, he served on the House Appropriations Committee, Public Integrity & Elections Committee (as Chair), and Health & Human Services Committee. At the beginning of the 2017 legislative session, he served on the Public Integrity and Ethics committee.
-
-Tom Leek ran for re-election to the Florida House of Representatives to represent District 28 and won in the general election on November 8, 2022. He is now looking forward to contributing more to his district and the state of Florida.
+Leek resides in Ormond Beach, Florida, with his wife Michelle and their two daughters. His dedication to public service, combined with his extensive legal expertise, has made him a respected figure in Florida politics. Throughout his career, Leek has remained committed to advancing conservative principles and improving the lives of Floridians.
