@@ -1,10 +1,10 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-20T11:54:12-05:00
 title: "Erin Byrnes"
 seo_title: "contact senator Erin Byrnes"
 subheader:
      greeting: Contact senator Erin Byrnes
-     description: State Rep. Erin Byrnes is serving her first term representing House District 15. Her priorities include protecting the right to vote, defending reproductive rights, supporting education, enhancing infrastructure, increasing access to mental health care and passing common-sense gun regulations.
+     description: State Rep. Erin Byrnes is serving her second term representing House District 15, which comprises the west end of Dearborn and Dearborn Heights.
 description: Contact senator Erin Byrnes of Michigan. Contact information for Erin Byrnes includes email address, phone number, and mailing address.
 image: erin-byrnes.jpeg
 video:
