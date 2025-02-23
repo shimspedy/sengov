@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-02-12T11:54:12-05:00
 title: "Jason Esteves"
 seo_title: "contact Senator Jason Esteves"
 subheader:
      greeting: Contact Senator Jason Esteves
-     description: Senator Jason Esteves is the Georgia State Senator for Georgia’s 6th Senate District, which includes portions of Fulton and Cobb Counties. Sen. Esteves was first elected on November 8, 2022, and he serves on the following Senate Committees of Agriculture and Consumer Affairs, Children and Families, Finance, Interstate Cooperation, and State and Local Governmental Operations.
+     description: Jason Esteves is a dedicated public servant and a prominent figure in Georgia politics. He currently serves as a member of the Georgia State Senate, representing District 35. Esteves assumed office on January 13, 2025, after winning the general election on November 5, 2024
 description: Contact Senator Jason Esteves of Georgia. Contact information for Jason Esteves includes email address, phone number, and mailing address.
 image: jason-esteves.jpeg
 video:
-url:  /states/georgia/jason-esteves/
+url: /states/georgia/jason-esteves/
 weight: 1
 layout: course_home
 
@@ -18,18 +18,25 @@ state: Georgia
 party: Democratic
 role: Senator
 inoffice: current
-elected: 2023
-mailing1: 353 State Capitol Room 319-A CLOB Atlanta, GA 30334
-phone1: 404-463-1562
-website: https://www.legis.ga.gov/members/senate/5014?session=1031/
-email : https://www.legis.ga.gov/members/senate/5014?session=1031/
+elected: 2025
+mailing1: 353 State Capitol Room 121-D CAP Atlanta, GA 30334
+phone1: 404-463-1379
+website: https://www.legis.ga.gov/members/senate/5014?session=1033/
+email : https://www.legis.ga.gov/members/senate/5014/contact/
 twitter: jasonesteves
 ---
+Jason Esteves is a dedicated public servant and a prominent figure in Georgia politics. He currently serves as a member of the Georgia State Senate, representing District 35. Esteves assumed office on January 13, 2025, after winning the general election on November 5, 2024. His tenure in the Georgia State Senate is marked by his commitment to improving the lives of his constituents and advocating for policies that promote social and economic justice.
 
-Senator Jason Esteves is the Georgia State Senator for Georgia’s 6th Senate District, which includes portions of Fulton and Cobb Counties. Sen. Esteves was first elected on November 8, 2022, and he serves on the following Senate Committees: Agriculture and Consumer Affairs, Children and Families, Finance, Interstate Cooperation, and State and Local Governmental Operations.
+Born and raised in Atlanta, Georgia, Jason Esteves has deep roots in the community he now serves. He earned a Bachelor of Arts degree in psychology from the University of Miami in 2005 and went on to obtain a Juris Doctor from Emory University School of Law in 2010. Esteves' educational background laid a strong foundation for his career in law and public service.
 
-Sen. Esteves currently serves as Vice President-Legal at Equifax Inc. Previously, he was a litigation associate at McKenna Long & Aldridge LLP (now Dentons US LLP). Additionally, Sen. Esteves is a former at-large representative and Board Chair of the Atlanta Public Schools Board of Education, where he became the first Latino elected to a school board in Georgia in 2013. He attended the University of Miami before attending Emory University School of Law.
+Before entering politics, Esteves gained valuable experience in the legal field. He worked as an associate at McKenna Long & Aldridge LLP, where he honed his skills in legal analysis and advocacy. Later, he joined Equifax as an assistant general counsel and eventually became a vice president of legal. His professional journey also includes a stint as a middle school social studies teacher with Teach For America, where he developed a passion for education and community engagement.
 
-Sen. Esteves is involved in his community and with many non-profit organizations. He currently serves as Treasurer of the Democratic Party of Georgia as well as a board member of GALEO and the Children’s Museum of Atlanta. He is a previous member of LEAD Atlanta (2012), Leadership Georgia (2015), and Outstanding Atlanta (2020), and is in the Leadership Atlanta Class of 2022.
+Esteves' dedication to education is evident in his service on the Atlanta Public Schools Board of Education. As an at-large representative and Board Chair, he played a pivotal role in improving the quality of education for students in Atlanta. Under his leadership, the school district achieved record-breaking graduation rates, redirected funding to classrooms, and provided significant pay increases and stipends for staff.
 
-Jason Esteves is married to Ariel, a nurse and founder of WestsideMed. They have two children, Jaeden and Zoe.
+In the Georgia State Senate, Jason Esteves continues to champion causes that matter most to his constituents. He serves on several key Senate committees, including Agriculture and Consumer Affairs, Finance, State and Local Governmental Operations, and Ethics. As Vice Chair of Finance and a member of the Senate Democratic Caucus executive team, Esteves is committed to finding innovative solutions to invest in Georgia communities.
+
+Esteves' legislative priorities include expanding access to affordable healthcare, reducing housing costs, and supporting small businesses. He believes that every Georgian deserves the opportunity to thrive, regardless of their background or circumstances. His work in the Senate reflects his commitment to creating a more equitable and prosperous Georgia for all.
+
+Outside of his professional life, Jason Esteves is a devoted family man. He is a proud father and is actively involved in his community. Esteves' personal experiences and values drive his dedication to public service and his desire to make a positive impact on the lives of those he represents.
+
+Jason Esteves' journey from a dedicated educator and legal professional to a respected state senator is a testament to his unwavering commitment to public service. His leadership and advocacy continue to inspire those around him, and his work in the Georgia State Senate is making a meaningful difference in the lives of his constituents.
