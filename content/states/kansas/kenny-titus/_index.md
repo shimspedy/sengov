@@ -1,14 +1,14 @@
 ---
-date: 2024-02-29T11:54:12-05:00
+date: 2025-02-20T11:54:12-05:00
 title: "Kenny Titus"
-seo_title: "contact Representative Kenny Titus"
+seo_title: "contact Senator Kenny Titus"
 subheader:
-     greeting: Contact Representative Kenny Titus
-     description: Kenny Titus is a member of the Republican Party and serves as a representative in the Kansas House of Representatives for District 51. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
-description: Contact Representative Kenny Titus of Kansas. Contact information for Kenny Titus includes email address, phone number, and mailing address.
+     greeting: Contact Senator Kenny Titus
+     description: Kenny Titus is an American politician who has been serving as a member of the Kansas State Senate since January 13, 2025. He represents the 18th district and is a member of the Republican Party.
+description: Contact Senator Kenny Titus of Kansas. Contact information for Kenny Titus includes email address, phone number, and mailing address.
 image: kenny-titus.jpeg
 video:
-url:  /states/kansas/kenny-titus/
+url: /states/kansas/kenny-titus/
 weight: 1
 layout: course_home
 
@@ -16,24 +16,23 @@ layout: course_home
 name: Kenny Titus
 state: Kansas
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2023
-mailing1: State Capitol Room 165-W 300 SW 10th Ave Topeka, KS 66612-1504
-phone1: 785-296-7310
-website: http://kslegislature.org/li/b2023_24/members/rep_titus_kenny_1/
-email : http://kslegislature.org/li/b2023_24/members/rep_titus_kenny_1/
+elected: 2025
+mailing1: State Capitol Room 124-E 300 SW 10th Ave Topeka, KS 66612-1504
+phone1: 785-296-7656
+website: https://kslegislature.gov/li/b2025_26/members/sen_titus_kenny_1//
+email : https://kslegislature.gov/li/b2025_26/members/sen_titus_kenny_1//
 twitter: titusforkansas
 ---
+Kenny Titus is an American politician who has been serving as a member of the Kansas State Senate since January 13, 2025. He represents the 18th district and is a member of the Republican Party. Before his tenure in the Senate, Titus served in the Kansas House of Representatives from January 9, 2023, to January 13, 2025, representing the 51st district.
 
-Kenny Titus is a member of the Republican Party and serves as a representative in the Kansas House of Representatives for District 51. He assumed office on January 9, 2023, and his current term is set to end on January 13, 2025.
+Titus was born and raised in Manhattan, Kansas. He pursued higher education at Kansas State University, where he earned a bachelor's degree in history and journalism in 2006. He continued his studies at Kansas State University, obtaining a master's degree in history in 2009. Titus then attended the University of Kansas, where he earned his juris doctor in 2014.
 
-Titus lives in Flint Hills, Kansas. He earned a bachelor's degree in history and journalism from Kansas State University in 2006, followed by a master's degree in history from the same university in 2009. He later pursued law and obtained a juris doctor from the University of Kansas in 2014.
+Throughout his career, Titus has held various positions in both the public and private sectors. He worked as corporate counsel with Foley Equipment and served as an adjunct professor at the University of Kansas School of Law. Additionally, he was the chief legal counsel for the Kansas Department of Agriculture. His extensive legal background and experience in public service have made him a prominent figure in Kansas politics.
 
-Before his election, Titus served as Chief Counsel to the Kansas Department of Agriculture, working with stakeholders in the state’s largest industry. He is considered one of the state's top water law experts. Prior to that, he worked in the Office of the Kansas Attorney General under Derek Schmidt.
+Titus has been actively involved in his community, participating in organizations such as the Great Bend Elks Lodge, the Great Bend Recreation Commission, and the Junction City YMCA. His commitment to public service and community engagement has earned him a reputation as a dedicated and hardworking legislator.
 
-In addition to his political career, Titus has also worked as corporate counsel with Foley Equipment, an adjunct professor with the University of Kansas School of Law, and the chief legal counsel with the Kansas Department of Agriculture. He has been affiliated with the Great Bend Elks Lodge, the Great Bend Recreation Commission, and the Junction City YMCA.
+In the Kansas State Senate, Titus has been a strong advocate for various issues, including agriculture, natural resources, and local government transparency. He has sponsored several bills and resolutions aimed at improving the lives of Kansans and ensuring the state's prosperity. Some of his notable legislative efforts include exempting Kansas from daylight saving time, designating Kansas as a Purple Heart state, and proposing constitutional amendments to recognize the right to bear arms and support the wellbeing and education of Kansas' youngest residents.
 
-Titus ran for election to the Kansas House of Representatives to represent District 51 and won in the general election on November 8, 2022. During his tenure, he has been assigned to several committees including the Corrections and Juvenile Justice Committee, House Judiciary Committee, and Water Committee.
-
-In his personal life, Titus is also a co-owner of National Sports Network, a nationally syndicated play-by-play broadcast network. He plans to move into private law practice by the end of the year.
+Titus' dedication to his constituents and his ability to navigate complex legal and political landscapes have made him a respected leader in the Kansas State Senate. As he continues to serve, he remains committed to addressing the needs of his district and working towards a brighter future for all Kansans.

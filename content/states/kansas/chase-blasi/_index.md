@@ -1,14 +1,14 @@
 ---
-date: 2024-02-29T11:54:12-05:00
+date: 2025-02-20T11:54:12-05:00
 title: "Chase Blasi"
 seo_title: "contact Senator Chase Blasi"
 subheader:
      greeting: Contact Senator Chase Blasi
-     description: Chase Blasi, born in 1994 or 1995, is an American politician who is a member of the Republican Party. He represents the 27th district of the Kansas State Senate since January 9, 2023.
+     description: Chase Blasi is a Republican member of the Kansas State Senate, representing the 26th district since January 13, 2025. He won in the general election on November 5, 2024. His current term ends on January 8, 2029.
 description: Contact Senator Chase Blasi of Kansas. Contact information for Chase Blasi includes email address, phone number, and mailing address.
 image: chase-blasi.jpeg
 video:
-url:  /states/kansas/chase-blasi/
+url: /states/kansas/chase-blasi/
 weight: 1
 layout: course_home
 
@@ -19,19 +19,17 @@ party: Republican
 role: Senator
 inoffice: current
 elected: 2023
-mailing1: State Capitol Room 236-E 300 SW 10th Ave Topeka, KS 66612-1504
-phone1: 785-296-7394
-website: http://kslegislature.org/li/b2023_24/members/sen_blasi_chase_1/
-email : http://kslegislature.org/li/b2023_24/members/sen_blasi_chase_1/
-twitter:
+mailing1: State Capitol Room 330-E 300 SW 10th Ave Topeka, KS 66612-1504
+phone1: 785-296-2497
+website: https://kslegislature.gov/li/b2025_26/members/sen_blasi_chase_1//
+email : https://kslegislature.gov/li/b2025_26/members/sen_blasi_chase_1//
+twitter: 
 ---
+Chase Blasi is a Republican member of the Kansas State Senate, representing the 26th district since January 13, 2025. Born in 1994/1995, Blasi has had a notable career in politics. He graduated from Newman University with a Bachelor of Arts degree. After completing his education, Blasi served as the legislative policy director for the Kansas Department of Revenue. He also held the position of chief of staff for both former Senate President Susan Wagle and current Senate President Ty Masterson.
 
-Chase Blasi, born in 1994 or 1995, is an American politician who is a member of the Republican Party. He represents the 27th district of the Kansas State Senate since January 9, 2023.
+Blasi's political career has been marked by his dedication to various causes and his active involvement in legislative matters. In 2023, he introduced a bill to turn over abortion restrictions to localities, showcasing his commitment to addressing complex and controversial issues. Blasi has been a member of several committees, including the Assessment and Taxation Committee, the Senate Education Committee, the Senate Federal and State Affairs Committee, and the Public Health and Welfare Committee.
 
-After graduating from Newman University in 2015, Blasi served in various roles in every legislative session. He was the legislative policy director for the Kansas Department of Revenue. He has also been the chief of staff for both former Senate President Susan Wagle and current Senate President Ty Masterson.
+In addition to his legislative work, Blasi has been affiliated with various organizations, such as the Kansas Farm Bureau, the Northwest YMCA, the Knights of Columbus, Big Brothers Big Sisters, and the National Rifle Association. His involvement in these organizations reflects his commitment to community service and advocacy.
 
-In 2023, Blasi introduced a bill to turn over abortion restrictions to localities. He has been a part of several committees including Public Health and Welfare, Education, Federal and State Affairs, Assessment and Taxation, Capitol Preservation Committee, and others.
+Blasi is married to McKenna Blasi, and they have two adopted sons, Damian and Desmond. He is a devout Catholic and actively participates in his faith community. Blasi's personal and professional life demonstrates his dedication to public service, family, and faith. As a rising political figure, he continues to make significant contributions to the state of Kansas and its residents.
 
-Blasi has sponsored several bills and resolutions. Some of them include providing a sales tax exemption for certain purchases by disabled veterans, expanding the scope of uses of campaign contributions to include family caregiving services, exempting all social security benefits from Kansas income tax, and others.
-
-On the personal front, Blasi is married to McKenna Blasi. They have two adopted sons, Damian and Desmond. Blasi is a Catholic.

@@ -1,14 +1,14 @@
 ---
-date: 2024-02-29T11:54:12-05:00
+date: 2025-02-20T11:54:12-05:00
 title: "Rick Kloos"
 seo_title: "contact Senator Rick Kloos"
 subheader:
      greeting: Contact Senator Rick Kloos
-     description: Rick Kloos is a Republican member of the Kansas Senate, representing the 19th district. The district covers Topeka and eastern Shawnee County, western Douglas County, and all of Osage County and Jefferson County. He assumed office on January 11, 2021.
+     description: Rick Kloos, born on July 26, 1966, in Miltonvale, Kansas, is a Republican member of the Kansas Senate, representing the 19th district. This district covers Topeka and eastern Shawnee County, western Douglas County, and all of Osage County and Jefferson County.
 description: Contact Senator Rick Kloos of Kansas. Contact information for Rick Kloos includes email address, phone number, and mailing address.
 image: rick-kloos.jpeg
 video:
-url:  /states/kansas/rick-kloos/
+url: /states/kansas/rick-kloos/
 weight: 1
 layout: course_home
 
@@ -21,21 +21,20 @@ inoffice: current
 elected: 2021
 mailing1: State Capitol Room 418-E 300 SW 10th Ave Topeka, KS 66612-1504
 phone1: 785-296-7645
-website: http://kslegislature.org/li/b2023_24/members/sen_kloos_rick_1/
-email : http://kslegislature.org/li/b2023_24/members/sen_kloos_rick_1/
-twitter:
+website: https://kslegislature.gov/li/b2025_26/members/sen_kloos_rick_1//
+email : https://kslegislature.gov/li/b2025_26/members/sen_kloos_rick_1//
+twitter: 
 ---
+Rick Kloos, born on July 26, 1966, in Miltonvale, Kansas, is a Republican member of the Kansas Senate, representing the 19th district. This district covers Topeka and eastern Shawnee County, western Douglas County, and all of Osage County and Jefferson County. Kloos assumed office on January 11, 2021, succeeding Anthony Hensley, who had held the position for 44 years.
 
-Rick Kloos is a Republican member of the Kansas Senate, representing the 19th district. The district covers Topeka and eastern Shawnee County, western Douglas County, and all of Osage County and Jefferson County. He assumed office on January 11, 2021.
+Kloos's journey into politics is marked by his dedication to community service and his entrepreneurial spirit. In June 2009, he founded God's Storehouse in Topeka, Kansas, a non-profit community thrift store that has grown to employ over 80 people. This venture reflects his commitment to supporting his community and providing opportunities for those in need.
 
-Born as Richard Gene Kloos on July 26, 1966, in Miltonvale, Kansas, U.S., Rick Kloos has been a significant figure in Kansas politics. He defeated Anthony Hensley, who had been holding office in the Kansas statehouse for 44 years, by 51.2% to 48.8% on November 3, 2020. This victory was considered a huge upset victory.
+In 2018, Kloos ran as an Independent candidate for governor of Kansas, with his son Nathaniel as his running mate for lieutenant governor. Although they finished last in the general election, their campaign demonstrated Kloos's determination to bring change to Kansas politics.
 
-Before his political career, Rick started God's Storehouse in Topeka, Kansas, in June 2009. It's a church that operates a non-profit, community thrift store with over 80 employees.
+Kloos's political career took a significant turn in 2020 when he ran unchallenged in the GOP primary for the Kansas Senate's 19th district. In the general election held on November 3, 2020, he achieved a remarkable victory by defeating Anthony Hensley with 51.2% of the vote. This victory was considered a major upset, as Hensley had a much larger campaign budget and had represented the area for over four decades.
 
-In 2018, Kloos ran as an Independent for governor, on a ticket with his son, Nathaniel, running for lieutenant governor. They finished last, in 5th place in the general election, with 6,584 votes, 0.6% of the total.
+As a senator, Kloos has been an advocate for various causes, including opposition to abortion, for which he received an endorsement from Kansans for Life. He has also been actively involved in several committees, including the Joint Committee on State Building Construction, the Transportation Committee, and the Financial Institutions and Insurance Committee.
 
-During the 2020 Kansas 19th Senate district campaign, Kloos ran unchallenged in the GOP primary; however, he received 6,758 in the primary. He beat Anthony Hensley 16,141 votes to 15,383 votes, 51% to 49%, in the November 3, 2020 general election.
+Kloos and his wife, Pennie, have been married for 34 years and have lived in Berryton, Kansas, for 22 years. They have four grown sons and seven grandchildren, reflecting the importance of family in Kloos's life.
 
-Kloos opposes abortion and was endorsed by Kansans for Life. The Kloos campaign outraised Hensley $37,433 to $1,286.
-
-On a personal note, Kloos and his wife Pennie have been married for 34 years and have lived in Berryton, Kansas for 22 years. They have four grown boys, along with seven grandchildren.
+Throughout his career, Rick Kloos has demonstrated a strong commitment to his community, a willingness to challenge the status quo, and a dedication to public service. His journey from founding a thrift store to serving in the Kansas Senate is a testament to his determination and passion for making a positive impact on the lives of Kansans.
