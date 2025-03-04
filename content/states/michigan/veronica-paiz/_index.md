@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-22T11:54:12-05:00
 title: "Veronica Paiz"
-seo_title: "contact senator Veronica Paiz"
+seo_title: "contact Representative Veronica Paiz"
 subheader:
-     greeting: Contact senator Veronica Paiz
-     description: State Rep. Veronica Paiz is serving her first term representing the 11th House District. As a legislator, Rep. Paiz is fighting to defend reproductive freedom, increase access to affordable food, health care and housing, safeguard pensions, lower child care costs, protect people with disabilities, reform insurance laws and improve water infrastructure.
-description: Contact senator Veronica Paiz of Michigan. Contact information for Veronica Paiz includes email address, phone number, and mailing address.
+     greeting: Contact Representative Veronica Paiz
+     description: State Rep. Veronica Paiz is serving her second term representing the 10th House District, which includes northeast Detroit, Harper Woods, Grosse Pointe, Grosse Pointe Farms, Grosse Pointe Park, Grosse Pointe Shores and Grosse Pointe Woods.
+description: Contact Representative Veronica Paiz of Michigan. Contact information for Veronica Paiz includes email address, phone number, and mailing address.
 image: veronica-paiz.jpeg
 video:
-url:  /states/michigan/veronica-paiz/
+url: /states/michigan/veronica-paiz/
 weight: 1
 layout: course_home
 
@@ -18,15 +18,14 @@ state: Michigan
 party: Democratic
 role: Representative
 inoffice: current
-elected: 2021
-mailing1: Room 70 Capitol Building Room N 690 HOB Lansing, MI 48909-7514
-phone1: 517-373-0849
-website: https://housedems.com/veronica-paiz/
-email : https://housedems.com/veronica-paiz/contact/
-twitter:
+elected: 2023
+mailing1: Room 70 Capitol Building Room N 689 HOB Lansing, MI 48909-7514
+phone1:  517-373-0857
+website: https://housedems.com/Veronica-Paiz/
+email : https://housedems.com/Veronica-Paiz/
+twitter: 
 ---
-
-State Rep. Veronica Paiz is serving her first term representing the 11th House District, which stretches from northeast Detroit to St. Clair Shores. As a legislator, Rep. Paiz is fighting to defend reproductive freedom, increase access to affordable food, health care and housing, safeguard pensions, lower child care costs, protect people with disabilities, reform insurance laws and improve water infrastructure.
+State Rep. Veronica Paiz is serving her second term representing the 10th House District, which includes northeast Detroit, Harper Woods, Grosse Pointe, Grosse Pointe Farms, Grosse Pointe Park, Grosse Pointe Shores and Grosse Pointe Woods. As a legislator, Rep. Paiz is fighting to defend reproductive freedom, increase access to affordable food, health care and housing, safeguard pensions, lower child care costs, protect people with disabilities, reform insurance laws and improve water infrastructure.
 
 Rep. Paiz is a second generation Mexican American, whose family moved to Michigan from Texas in the 1960s to work in the auto industry. A longtime resident of the district, a former Detroiter and a native of Macomb County, Paiz brings to the Legislature a unique insight into the community she represents and the challenges they have faced. As an activist, community volunteer and member of the Harper Woods City Council, she has seen how legislation directly impacts the power and resources a community receives. She’s advocating to reverse the wrongs her community has endured and protect the policies that have worked for residents throughout her district and the state.
 

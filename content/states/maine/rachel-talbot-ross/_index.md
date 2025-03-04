@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-20T11:54:12-05:00
 title: "Rachel Talbot Ross"
-seo_title: "contact representative Rachel Talbot Ross"
+seo_title: "contact Senator Rachel Talbot Ross"
 subheader:
-     greeting: Contact representative Rachel Talbot Ross
-     description: Rachel Ross is a distinguished member of the Maine House of Representatives, representing District 118. A ninth-generation Mainer, she has dedicated her career to public service and social justice. She holds the historic distinction of being the first black woman to serve as Speaker of the Maine House.
-description: Contact representative Rachel Talbot Ross of Maine. Contact information for Rachel Talbot Ross includes email address, phone number, and mailing address.
+     greeting: Contact Senator Rachel Talbot Ross
+     description: Rachel Talbot Ross is an American politician and activist. A Democrat from Portland, she is the incumbent State Senator for Senate District 28. She assumed office on December 3, 2024. Her current term ends on December 1, 2026.
+description: Contact Senator Rachel Talbot Ross of Maine. Contact information for Rachel Talbot Ross includes email address, phone number, and mailing address.
 image: rachel-talbot-ross.jpeg
 video:
-url:  /states/maine/rachel-talbot-ross/
+url: /states/maine/rachel-talbot-ross/
 weight: 1
 layout: course_home
 
@@ -16,22 +16,21 @@ layout: course_home
 name: Rachel Talbot Ross
 state: Maine
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2016
-mailing1: 2 State House Station Room 333 Room 300 Augusta, ME 04333-0002
-phone1: 207-287-1430
-website: https://legislature.maine.gov/house/house/MemberProfiles/Details/56/
-email : https://legislature.maine.gov/house/house/MemberProfiles/Details/56/
-twitter: mattmoonen
+elected: 2024
+mailing1: 210 State Street Room 327 Augusta, ME 04333-0003
+phone1: 207-287-1515
+website: https://legislature.maine.gov/District28/
+email : https://legislature.maine.gov/District28/
+twitter: 
 ---
+Rachel Talbot Ross is an American politician and activist. A Democrat from Portland, she is the incumbent State Senator for Senate District 28. Previously, Talbot Ross was the Speaker of the Maine House of Representatives from 2022 to 2024. When she was first elected to the Maine House of Representatives in 2016, Talbot Ross became the first Black woman to serve in the Maine Legislature. Talbot Ross represented District 40 from 2016 to 2020, and District 118 from 2022 to 2024, consisting of the Parkside, Bayside, East Bayside, and Oakdale neighborhoods of Portland as well as the University of Southern Maine campus. She became Maine's first African-American House Speaker, and the highest-ranking African-American politician in Maine history, when she was elected speaker on December 7, 2022.
 
-Rachel Ross is a distinguished member of the Maine House of Representatives, representing District 118. A ninth-generation Mainer, she has dedicated her career to public service and social justice. She holds the historic distinction of being the first black woman to serve as Speaker of the Maine House.
+Talbot Ross grew up in Portland with her father, Gerald Talbot, her mother Anita, and three sisters. Her father, who also served as a Maine lawmaker and civil rights leader, was the first person of color ever elected to the Maine Legislature, and Talbot Ross describes her family as being consistently involved in public service and civic action. She is a ninth-generation Maine resident. Talbot Ross attended Wesleyan University and American University and worked as the Director of Equal Opportunity and Multicultural Affairs for the City of Portland for 21 years. She resigned in 2015 following a leave of absence. She also served as the president of the Portland branch of the NAACP. The branch disbanded in 2013, but as of February 2021 Talbot Ross was working with other area leaders to reinstate the chapter. She also helped direct the Maine Freedom Trails project, the first part of which opened in 2006, and co-founded the Martin Luther King Jr. Fellows program with Portland city councilor Pious Ali, a youth-led racial justice program for high school students of color in Portland. Talbot Ross considers herself a prison abolitionist and has advocated for incarcerated individuals in Maine over the course of fifteen years.
 
-Her extensive career includes over two decades of service as the City of Portland’s Director of Equal Opportunity and Multicultural Affairs. She has been a leading figure in the NAACP in Maine and has founded several nonprofit organizations, such as Maine Black Community Development, Maine Freedom Trails, and the Martin Luther King, Jr. Fellows.
+Rachel Talbot Ross was first elected to represent Maine House District 40 in 2016. She defeated Democrats Herbert Adams and Anna Kellar in the Democratic primary, and after Republican opponent Carol Taylor dropped out of the race in late September, Talbot Ross received 100% of the votes in the general election. She was re-elected in 2018 and 2020, and in 2022, she was elected to represent District 118 following redistricting. In November 2020, Talbot Ross became the assistant majority leader in the Maine state House. During her time in the legislature, Talbot Ross has sponsored legislation to create Maine's Permanent Commission on the Status of Racial, Indigenous and Tribal Populations, which she chaired. She also sponsored bills to include racial impact analysis in the legislative process and expand tribal legal authority over domestic violence against Native Americans in Maine. Talbot Ross was one of five Black House speakers honored at a White House ceremony in February 2023. During her trip to the White House, Talbot Ross said, "While it is an honor to be included at events at the White House, it was equally critical that I used my platform and this trip to highlight Maine’s need for federal support in the areas of housing, food insecurity, support for the care economy and crucial investments in infrastructure."
 
-In her legislative role, Speaker Ross has been a strong advocate for justice reform and has played a significant role in shaping critical conversations about equity for all Mainers. Her legislative achievements include sponsoring successful legislation to create Maine’s Permanent Commission on the Status of Racial, Indigenous and Tribal Populations, which she now co-chairs. She has also been instrumental in passing bills to include racial impact analysis in the legislative process and expanding tribal legal authority over domestic violence against Native Americans.
+Talbot Ross' father, Gerald Talbot, was the first Black person elected to the Maine Legislature in 1972. After Maine Democrats nominated Rachel Talbot Ross to serve as speaker of the house, she said, "What I would like to do is take all of the voices, all of the lived experiences – so very different from the top of the state to the bottom – and to really listen to those, to use all of that experiences to the best of our ability."
 
-Speaker Ross’s contributions to public service and social justice have been recognized with several awards, including the University of New England’s Deborah Morton Award for exceptional civic leadership and the 2020 Gerda Haas Award for Excellence in Holocaust and Human Rights Education and Leadership. She was named the 2020 Woman of the Year by Emerge Maine and received the 2021 Waynflete Klingenstein Alumni Award.
-
-Her commitment to her community and her impactful work in the Maine House of Representatives continue to inspire many and contribute to the betterment of society.
+Senator Rachel Talbot Ross has made history as the first African American to serve in leadership in the Maine Legislature and the first African American woman to serve in both the House and Senate. During her time in the Legislature, she has championed groundbreaking policies, including expanding the authority of tribal courts to include protections for victims of domestic violence and passing Maine’s Housing First law to address chronic homelessness through permanent housing and support services. Sen. Talbot Ross has served as the Speaker of the House, Assistant House Minority Leader and as a member of the Criminal Justice and Public Safety, Health and Human Services, and Judiciary Committees. Her legacy in public service has been marked by a commitment to advancing equity, justice, and opportunity for all Mainers. Sen. Talbot Ross is serving her first term in the Maine Senate, representing part of Portland and Peaks Island.

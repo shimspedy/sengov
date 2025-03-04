@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-22T11:54:12-05:00
 title: "Donavan McKinney"
-seo_title: "contact senator Donavan McKinney"
+seo_title: "contact Representative Donavan McKinney"
 subheader:
-     greeting: Contact senator Donavan McKinney
-     description: State Rep. Donavan McKinney is serving his first term representing the 14th House District. McKinney was appointed to serve on the House Appropriations Committee and as majority vice chair of the Subcommittees on the Department of Corrections and the Department of Environment, Great Lakes, and Energy.
-description: Contact senator Donavan McKinney of Michigan. Contact information for Donavan McKinney includes email address, phone number, and mailing address.
+     greeting: Contact Representative Donavan McKinney
+     description: State Rep. Donavan McKinney is serving his second term representing the 11th House District, which comprises northeast Detroit and part of Warren. He assumed office on January 1, 2025. His current term ends on January 1, 2027.
+description: Contact Representative Donavan McKinney of Michigan. Contact information for Donavan McKinney includes email address, phone number, and mailing address.
 image: donavan-mckinney.jpeg
 video:
-url:  /states/michigan/donavan-mckinney/
+url: /states/michigan/donavan-mckinney/
 weight: 1
 layout: course_home
 
@@ -18,15 +18,14 @@ state: Michigan
 party: Democratic
 role: Representative
 inoffice: current
-elected: 2019
-mailing1: Room 70 Capitol Building Room N 693 HOB Lansing, MI 48909-7514
-phone1: 517-373-0140
+elected: 2023
+mailing1: Room 70 Capitol Building Room N 690 HOB Lansing, MI 48909-7514
+phone1: 517-373-0849
 website: https://housedems.com/donavan-mckinney/
-email : https://housedems.com/donavan-mckinney/contact/
-twitter:
+email : https://housedems.com/donavan-mckinney/
+twitter: 
 ---
-
-State Rep. Donavan McKinney is serving his first term representing the 14th House District, which comprises northeast Detroit, part of Warren and Center Line. McKinney was appointed to serve on the House Appropriations Committee and as majority vice chair of the Subcommittees on the Department of Corrections and the Department of Environment, Great Lakes, and Energy. In addition, he will be a member of the Department of Agriculture and Rural Development/Department of Natural Resources, Department of Licensing and Regulatory Affairs/Department of Insurance and Financial Services, and Department of Labor and Economic Opportunity subcommittees. His priorities while in office are increasing access to health care, ensuring every child in Michigan receives a quality education, improving the criminal justice system, and securing the rights of unions and workers.
+State Rep. Donavan McKinney is serving his second term representing the 11th House District, which comprises northeast Detroit and part of Warren. McKinney previously served on the House Appropriations Committee and as majority vice chair of the Subcommittees on the Department of Corrections and the Department of Environment, Great Lakes, and Energy. In addition, he was a member of the Department of Agriculture and Rural Development/Department of Natural Resources, Department of Licensing and Regulatory Affairs/Department of Insurance and Financial Services, and Department of Labor and Economic Opportunity subcommittees. His priorities while in office are increasing access to health care, ensuring every child in Michigan receives a quality education, improving the criminal justice system, and securing the rights of unions and workers.
 
 Rep. McKinney began his career in public service as a legislative director in the Michigan House of Representatives. He later worked for the nonprofit Community Development Advocates of Detroit and Wayne County Community College District. Soon after, Rep. McKinney did political and coalition work for the largest health care union in the state, Service Employees International Union Healthcare Michigan.
 
