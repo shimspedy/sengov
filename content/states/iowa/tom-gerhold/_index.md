@@ -15,7 +15,7 @@ layout: course_home
 ####candidate
 name: Tom Gerhold
 state: Iowa
-party: Democratic
+party: Republican
 role: Representative
 inoffice: current
 elected: 2019
