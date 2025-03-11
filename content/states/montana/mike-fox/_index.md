@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Mike Fox"
-seo_title: "contact senator Mike Fox"
+seo_title: "contact Representative Mike Fox"
 subheader:
-     greeting: Contact senator Mike Fox
-     description: Mike Fox is a member of the Democratic Party and represents District 16 in the Montana State Senate. He assumed office on January 4, 2021, and his current term ends on January 6, 2025.
-description: Contact senator Mike Fox of Montana. Contact information for Mike Fox includes email address, phone number, and mailing address.
+     greeting: Contact Representative Mike Fox
+     description: Mike Fox is a dedicated public servant and a member of the Montana House of Representatives, representing District 32. He assumed office on January 6, 2025, following his victory in the general election held on November 5, 2024.
+description: Contact Representative Mike Fox of Montana. Contact information for Mike Fox includes email address, phone number, and mailing address.
 image: mike-fox.jpeg
 video:
-url:  /states/montana/mike-fox/
+url: /states/montana/mike-fox/
 weight: 1
 layout: course_home
 
@@ -16,22 +16,21 @@ layout: course_home
 name: Mike Fox
 state: Montana
 party: Democratic
-role: Senator
+role: Representative
 inoffice: current
-elected: 2021
-mailing1: Room 302B, State Capitol Helena, MT 59620-0500
+elected: 2024
+mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7509/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7509/
-twitter:
+website: https://www.legmt.gov/legislators/1344/
+email : https://www.legmt.gov/legislators/1344/
+twitter: 
 ---
+Mike Fox is a dedicated public servant and a member of the Montana House of Representatives, representing District 32. He assumed office on January 6, 2025, following his victory in the general election held on November 5, 2024. A member of the Democratic Party, Fox has consistently demonstrated a commitment to serving his community and addressing the needs of his constituents.
 
-Mike Fox is a member of the Democratic Party and represents District 16 in the Montana State Senate. He assumed office on January 4, 2021, and his current term ends on January 6, 2025.
+Born and raised in Hays, Montana, Fox graduated from Harlem High School. His early life was marked by a strong sense of duty and service, which led him to join the U.S. Coast Guard, where he served for four years. Following this, he continued his service in the Montana Army National Guard for an impressive 20 years. These experiences not only shaped his leadership skills but also deepened his understanding of the challenges faced by individuals in his community.
 
-Fox lives in Hays, Montana. He graduated from Harlem High School and served in the U.S. Coast Guard for four years and the Montana Army National Guard for 20 years.
+Fox's professional career has been equally impactful. He has worked extensively in tribal law enforcement, showcasing his dedication to justice and community safety. Additionally, he served as the chair of Island Mountain Development Corp., where he played a pivotal role in fostering economic growth and development within his region.
 
-In addition to his military service, Fox's career experience includes working with tribal law enforcement and serving as the chair of Island Mountain Development Corp.
+Throughout his career, Fox has been a staunch advocate for issues such as economic development, education, and healthcare. His legislative priorities reflect his deep-rooted commitment to improving the quality of life for the people of Montana. As a representative, he brings a wealth of experience, a strong work ethic, and an unwavering dedication to his role.
 
-He ran for election to the Montana State Senate to represent District 16 and won in the general election on November 3, 2020.
-
-In terms of committee assignments, Fox was assigned to the Business, Labor and Economic Affairs Committee, Fish and Game Committee (as Vice Chair), and Senate State Administration Committee for the 2023-2024 term.
+Fox's journey from a small-town upbringing to a prominent position in the Montana House of Representatives is a testament to his resilience, determination, and passion for public service. His story continues to inspire those around him, and his contributions to his community and state are both significant and enduring.

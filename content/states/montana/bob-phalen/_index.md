@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Bob Phalen"
-seo_title: "contact representative Bob Phalen"
+seo_title: "contact Senator Bob Phalen"
 subheader:
-     greeting: Contact representative Bob Phalen
-     description: Bob Phalen is a member of the Republican Party and represents District 36 in the Montana House of Representatives. He assumed office on January 4, 2021, and his current term ends on January 6, 2025.
-description: Contact representative Bob Phalen of Montana. Contact information for Bob Phalen includes email address, phone number, and mailing address.
+     greeting: Contact Senator Bob Phalen
+     description: Bob Phalen is an American politician and a Republican member of the Montana House of Representatives for district 17. He assumed office on January 6, 2025. His current term ends on January 3, 2029.
+description: Contact Senator Bob Phalen of Montana. Contact information for Bob Phalen includes email address, phone number, and mailing address.
 image: bob-phalen.jpeg
 video:
-url:  /states/montana/bob-phalen/
+url: /states/montana/bob-phalen/
 weight: 1
 layout: course_home
 
@@ -16,20 +16,23 @@ layout: course_home
 name: Bob Phalen
 state: Montana
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2021
-mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
+elected: 2025
+mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7575/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7575/
+website: https://www.legmt.gov/legislators/1276//
+email : https://www.legmt.gov/legislators/1276//
 twitter:
 ---
+Senator Bob Phalen is a dedicated public servant and a prominent figure in Montana's political landscape. Representing District 17 in the Montana State Senate, he assumed office on January 6, 2025, following his victory in the general election held on November 5, 2024. His current term is set to conclude on January 3, 2029. A member of the Republican Party, Senator Phalen has consistently demonstrated his commitment to serving his constituents and addressing the needs of his community.
 
-Bob Phalen is a member of the Republican Party and represents District 36 in the Montana House of Representatives. He assumed office on January 4, 2021, and his current term ends on January 6, 2025.
+Before his tenure in the State Senate, Senator Phalen served in the Montana House of Representatives, representing District 36. His experience in the House provided him with valuable insights into the legislative process and allowed him to champion issues important to his district. Throughout his political career, he has been an advocate for policies that promote economic growth, support agriculture, and enhance the quality of life for Montanans.
 
-Phalen ran for re-election to the Montana House of Representatives to represent District 36 and won in the general election on November 8, 2022.
+Senator Phalen's journey to public office is rooted in his diverse professional background and deep connection to Montana's rural communities. He served in the U.S. Navy from 1970 to 1973, an experience that instilled in him a strong sense of discipline and duty. Following his military service, he pursued a career as a mechanic with Horizon Equipment, where he honed his technical skills and work ethic. In addition to his work as a mechanic, Senator Phalen has been a farmer and rancher, professions that have given him a firsthand understanding of the challenges and opportunities facing Montana's agricultural sector.
 
-Before his political career, Phalen served in the U.S. Navy from 1970 to 1973. His career experience includes working as a mechanic with Horizon Equipment, and he has also been a farmer and a rancher.
+As a legislator, Senator Phalen has been actively involved in various committees, including those focused on energy, technology, wildlife, and state administration. His committee assignments reflect his dedication to addressing a wide range of issues that impact his constituents and the state as a whole. He has also been instrumental in sponsoring legislation aimed at fostering innovation, preserving Montana's natural resources, and ensuring responsible governance.
 
-In terms of committee assignments for 2023-2024, Phalen was assigned to the Energy, Technology, and Federal Relations Committee, the Fish, Wildlife and Parks Committee, and he serves as the Vice Chair of the House State Administration Committee.
+Senator Phalen's commitment to public service extends beyond his legislative duties. He is deeply engaged with his community and values the input of his constituents. His approachable demeanor and willingness to listen have earned him the respect and trust of those he represents.
+
+Through his leadership and unwavering dedication, Senator Bob Phalen continues to make a positive impact on Montana's political and social landscape. His efforts to promote progress and uphold the values of his community serve as an inspiration to many.

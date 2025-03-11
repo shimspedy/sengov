@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-26T11:54:12-05:00
 title: "Jamie Burger"
-seo_title: "contact representative Jamie Burger "
+seo_title: "contact Senator Jamie Burger"
 subheader:
-     greeting: Contact representative Jamie Burger
-     description: Representative Jamie Burger, a Republican, represents Scott and Mississippi Counties (District 148) in the Missouri House of Representatives. He was elected to his first two-year term in November 2020.
-description: Contact representative Jamie Burger of Missouri. Contact information for Jamie Burger includes email address, phone number, and mailing address.
+     greeting: Contact Senator Jamie Burger
+     description: Senator Jamie Burger, a Republican from Benton, was elected in 2024 to represent the 27th Senatorial District, which includes Bollinger, Cape Girardeau, Iron, Madison, Perry, Reynolds and Scott counties.
+description: Contact Senator Jamie Burger of Missouri. Contact information for Jamie Burger includes email address, phone number, and mailing address.
 image: jamie-burger.jpeg
 video:
-url:  /states/missouri/jamie-burger/
+url: /states/missouri/jamie-burger/
 weight: 1
 layout: course_home
 
@@ -16,20 +16,19 @@ layout: course_home
 name: Jamie Burger
 state: Missouri
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2021
-mailing1: Missouri House of Representatives Room 302-B 201 W Capitol Ave Jefferson City, MO 65101
-phone1: 573-751-5471
-website: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=148/
-email : Jamie.Burger@house.mo.gov
-twitter:
+elected: 2025
+mailing1: Missouri Senate Room 334 201 W Capitol Ave Jefferson City, MO 65101
+phone1: 573-751-2459
+website: https://www.senate.mo.gov/Senators/Member/27/
+email : https://www.senate.mo.gov/Senators/Member/27/
+twitter: 
 ---
-
-Representative Jamie Burger, a Republican, represents Scott and Mississippi Counties (District 148) in the Missouri House of Representatives. He was elected to his first two-year term in November 2020.
-
-Prior to serving in the legislature, Burger spent 37 years, including 30 in management, at Buzzi Unicem USA, Inc. He also served 18 years on the Scott County Commission, including 12 years as Presiding Commissioner.
-
-Burger was born in Sikeston and raised in New Hamburg, where he was a member of St. Lawrence Catholic Church. He is now a member of St. Denis Catholic Church in Benton, where he serves as Lector and Eucharistic Minister. He is also a member of the NRA, Area Chambers of Commerce and the Knights of Columbus.
-
-Burger currently lives in Benton with his wife, Sherry. They have three children, six grandchildren and two bonus grandchildren.
+Senator Jamie Burger, a Republican from Benton, was elected in 2024 to represent the 27th Senatorial District, which includes Bollinger, Cape Girardeau, Iron, Madison, Perry, Reynolds and Scott counties. Senator Burger also served District 148 in the Missouri House of Representatives from 2020-2024.
+ 
+Prior to serving in the Legislature, Sen. Burger devoted 37 years, including 30 years in management, at Buzzi Unicem USA, Inc. He also served 18 years on the Scott County Commission, including 12 years as the presiding commissioner.
+ 
+Dedicated to his community and faith, Sen. Burger is a member of St. Denis Catholic Church, where he serves as lector and Eucharistic minister. He is also a member of the NRA, Area Chambers of Commerce and the Knights of Columbus.
+ 
+Born in Sikeston and raised in New Hamburg, Missouri, Sen. Burger currently resides in Benton with his wife, Sherry. They have three children and eight grandchildren.

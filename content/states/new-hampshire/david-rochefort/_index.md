@@ -1,11 +1,11 @@
 ---
-date: 2024-05-28T11:54:12-05:00
+date: 2025-03-01T11:54:12-05:00
 title: "David Rochefort"
-seo_title: "contact Representative David Rochefort"
+seo_title: "contact Senator David Rochefort"
 subheader:
-     greeting: Contact Representative David Rochefort
-     description: David Rochefort is a member of the Republican Party and represents Grafton 1 in the New Hampshire House of Representatives. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
-description: Contact Representative David Rochefort of New Hampshire. Contact information for David Rochefort includes email address, phone number, and mailing address.
+     greeting: Contact Senator David Rochefort
+     description: David Rochefort is a Republican member of the New Hampshire State Senate, representing District 1. He assumed office on December 4, 2024, and his current term is set to end on December 2, 2026.
+description: Contact Senator David Rochefort of New Hampshire. Contact information for David Rochefort includes email address, phone number, and mailing address.
 image: david-rochefort.jpeg
 video:
 url: /states/new-hampshire/david-rochefort/
@@ -16,23 +16,21 @@ layout: course_home
 name: David Rochefort
 state: New Hampshire
 party: Republican
-role: Representative
-inoffice: Current
-elected: 2022
-mailing1: State House Room 317 107 N Main St Concord, NH 03301-4951
-phone1: 603-271-3661
-website: https://gencourt.state.nh.us/house/members/member.aspx?pid=10614/
-email : https://gencourt.state.nh.us/house/members/member.aspx?pid=10614/
-twitter:
+role: Senator
+inoffice: current
+elected: 2024
+mailing1: State House Room SH 107 107 N Main St Concord, NH 03301-4951
+phone1: 603-271-8631
+website: https://gencourt.state.nh.us/Senate/members/webpages/district01.aspx/
+email : https://gencourt.state.nh.us/Senate/members/webpages/district01.aspx/
+twitter: 
 ---
-David Rochefort is a member of the Republican Party and represents Grafton 1 in the New Hampshire House of Representatives. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
+David Rochefort is a Republican member of the New Hampshire State Senate, representing District 1. He assumed office on December 4, 2024, and his current term is set to end on December 2, 2026.
 
-David Rochefort was born in Lancaster, New Hampshire, and currently resides in Littleton. He earned a Bachelor of Science degree in Pharmacy from the University of Rhode Island in 1997. His career experience includes working as a pharmacist and owning a specialty pharmacy.
+Born in Lancaster, New Hampshire, David Rochefort has deep roots in the community he now serves. He pursued his education at the University of Rhode Island, earning a Bachelor of Science in Pharmacy in 1997. His professional journey began as a pharmacist, and he later became a business owner, establishing Eastern States Compounding Pharmacy in Littleton. This pharmacy was the first of its kind in New Hampshire, reflecting his entrepreneurial spirit and commitment to innovation in healthcare. After years of successfully running the business, he sold it in 2022.
 
-In addition to his professional career, Rochefort has been active in his community. He volunteered on the Littleton Zoning Board of Adjustment and was appointed to serve on the New Hampshire Board of Pharmacy by Governor Chris Sununu (R), where he served in roles including the vice president.
+David's dedication to public service is evident in his extensive involvement in community and state affairs. He served on the Littleton Zoning Board of Adjustment and was appointed to the New Hampshire Board of Pharmacy by Governor Chris Sununu. During his tenure on the board, he held various roles, including vice president, and contributed to drafting and adopting critical regulations in the field of pharmacy.
 
-Rochefort ran for election to the New Hampshire House of Representatives to represent Grafton 1 and won in the general election on November 8, 2022. As a legislator, he has sponsored several bills, although the specific bills he sponsored are not listed due to an error in retrieving the bills.
+Beyond his professional and public service achievements, David is a family man who values the quality of life in New Hampshire's North Country. He is married and has three daughters. His personal interests include skiing, hiking, hunting, and exploring historical sites across the United States. David's appreciation for New Hampshire's four distinct seasons and its outdoor activities underscores his connection to the region he represents.
 
-In the 2022 elections, Rochefort was one of the three candidates who ran for the New Hampshire House of Representatives Grafton 1. The other two candidates were Matthew Simon (R) and Linda Massimilla (D). Rochefort received 17.9% of the votes, securing his position in the House of Representatives.
-
-David Rochefort is not just a politician, but also a second-generation pharmacist and independent pharmacy owner. He endeavors to bring a first-hand pharmacist perspective to his state's legislature. His dedication to his profession and his community is evident in his service both in the pharmacy and in the House of Representatives.
+As a senator, David Rochefort brings a wealth of experience from his background in healthcare, business, and community service. His commitment to representing the interests of District 1 ensures that the voices of his constituents are heard in Concord.

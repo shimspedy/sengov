@@ -1,10 +1,10 @@
 ---
-date: 2024-05-28T11:54:12-05:00
+date: 2025-03-01T11:54:12-05:00
 title: "Jean Jeudy"
 seo_title: "contact Representative Jean Jeudy"
 subheader:
      greeting: Contact Representative Jean Jeudy
-     description: Jean Leniol Jeudy, born in 1958, is a prominent figure in American politics. He is one of the three members of the New Hampshire House of Representatives for Hillsborough 10, which includes Ward 3 in Manchester.
+     description: Jean Jeudy is a Democratic member of the New Hampshire House of Representatives, representing Hillsborough District 23. He assumed office on December 18, 2024, and his current term is set to end on December 2, 2026.
 description: Contact Representative Jean Jeudy of New Hampshire. Contact information for Jean Jeudy includes email address, phone number, and mailing address.
 image: jean-jeudy.jpeg
 video:
@@ -17,20 +17,18 @@ name: Jean Jeudy
 state: New Hampshire
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2005
 mailing1: State House Room 317 107 N Main St Concord, NH 03301-4951
 phone1: 603-271-3661
-website: https://gencourt.state.nh.us/house/members/member.aspx?pid=527/
-email : https://gencourt.state.nh.us/house/members/member.aspx?pid=527/
-twitter:
+website: https://gc.nh.gov/house/members/member.aspx?pid=527/
+email : https://gc.nh.gov/house/members/member.aspx?pid=527/
+twitter: 
 ---
-Jean Leniol Jeudy, born in 1958, is a prominent figure in American politics. He is one of the three members of the New Hampshire House of Representatives for Hillsborough 10, which includes Ward 3 in Manchester.
+Jean Jeudy is a Democratic member of the New Hampshire House of Representatives, representing Hillsborough District 23. He assumed office on December 18, 2024, and his current term is set to end on December 2, 2026.
 
-Born in Jeremie, Haiti, Jeudy moved to the United States in 1983, two years after his vacation to the country. He was deeply inspired by the political freedom in the United States, which led him to make this life-changing decision. He gained his American citizenship in 1995.
+Born in Jérémie, Haiti, in 1958, Jean Jeudy emigrated to the United States in 1983 after being inspired by the political freedoms he observed during a visit. He settled in New Hampshire and became a U.S. citizen in 1995. His journey into public service began after a back injury in 1993, which motivated him to give back to his community. He founded the Manchester Haitian Community Center and served on the boards of organizations like the United Way and Manchester Public-access television.
 
-Before entering politics, Jeudy faced a debilitating back injury in 1993. This incident inspired him to give back to his adopted community. He founded the Manchester Haitian Community Center and served on the Board of Directors for the local United Way, as well as for the Manchester Public-access television station.
+Jeudy's political career took off in 2005 when he became the first Haitian-American legislator in New Hampshire's history. Over the years, he has been an active participant in legislative committees, including the State-Federal Relations and Veterans Affairs Committee. Beyond politics, Jeudy has worked as a journalist and hosted TV Palmiste, showcasing his dedication to communication and community engagement.
 
-In 2004, Jeudy decided to run for State Representative. Although he finished 5th in the Democratic Primary, falling short by 53 votes to Manchester Firefighters Union president William Clayton, he did not give up. After Clayton's resignation in 2005, Jeudy ran again and defeated his Republican opponent, Robert Fremeau, with a vote count of 508 to 322. This victory marked Jeudy as the first Haitian-American legislator in New Hampshire history.
-
-Apart from his political career, Jeudy has also worked as a journalist and the host of TV Palmiste. His career experience and dedication to serving the community have made him a respected figure in New Hampshire politics.
+His story is one of resilience and commitment, reflecting his passion for serving both his local community and the broader public.

@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Derek Harvey"
-seo_title: "contact representative Derek Harvey"
+seo_title: "contact Senator Derek Harvey"
 subheader:
-     greeting: Contact representative Derek Harvey
-     description: Derek Harvey is a member of the Democratic Party and represents District 74 in the Montana House of Representatives. He assumed office on January 7, 2019, and his current term is set to end on January 6, 2025.
-description: Contact representative Derek Harvey of Montana. Contact information for Derek Harvey includes email address, phone number, and mailing address.
+     greeting: Contact Senator Derek Harvey
+     description: Derek Harvey is an American politician and a member of the Montana State Senate, representing District 37. He assumed office on January 6, 2025. His current term ends on January 3, 2029.
+description: Contact Senator Derek Harvey of Montana. Contact information for Derek Harvey includes email address, phone number, and mailing address.
 image: derek-harvey.jpeg
 video:
-url:  /states/montana/derek-harvey/
+url: /states/montana/derek-harvey/
 weight: 1
 layout: course_home
 
@@ -16,18 +16,21 @@ layout: course_home
 name: Derek Harvey
 state: Montana
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
+elected: 2025
+mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7524/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7524/
+website: https://www.legmt.gov/legislators/1492//
+email : https://www.legmt.gov/legislators/1492//
 twitter: derekrep
 ---
+Derek J. Harvey is a dedicated public servant and a prominent figure in Montana's political landscape. Born and raised in Butte, Montana, Derek has deep roots in his community, which have shaped his values and commitment to public service. He pursued his education at the University of Montana-Helena College of Technology, earning an Associate of Applied Science degree in Fire Science. This academic foundation laid the groundwork for his career as a firefighter and Emergency Medical Technician (EMT) with the Butte-Silver Bow Fire Department, where he has served for over 15 years.
 
-Derek Harvey is a member of the Democratic Party and represents District 74 in the Montana House of Representatives. He assumed office on January 7, 2019, and his current term is set to end on January 6, 2025. Harvey ran for re-election to continue representing District 74 in the Montana House of Representatives and won in the general election held on November 8, 2022.
+Derek's passion for serving his community extended beyond his professional life and into the realm of politics. He began his political journey as a member of the Montana House of Representatives, representing District 74 from 2019 to 2025. During his tenure, he held the position of Minority Whip from 2021 to 2025, showcasing his leadership skills and ability to navigate complex legislative processes. Derek was actively involved in several key committees, including the Business and Labor Committee, the Energy, Telecommunications, and Federal Relations Committee, and the Rules Committee. His work in these committees reflected his dedication to addressing critical issues affecting Montanans.
 
-During his tenure, he has been assigned to various committees. For the years 2023-2024, he served on the Business and Labor Committee as Vice Chair, and was also part of the Energy, Technology, and Federal Relations Committee and the House Rules Committee. In the years 2021-2022, he was assigned to the House Local Government Committee, House Rules Committee, Transportation Committee, and Business and Labor Committee. In his initial years from 2019-2020, he served on the Business and Labor Committee, House Local Government Committee, and the Transportation Committee.
+In 2024, Derek Harvey successfully ran for the Montana State Senate, representing District 37. His election marked a significant milestone in his political career, as he transitioned to the Senate to continue advocating for the needs of his constituents. Derek's campaign focused on pressing issues such as property tax reform, aiming to alleviate the financial burden on working-class Montanans while ensuring that essential services remain adequately funded.
 
-Harvey has sponsored several pieces of legislation, including bills to revise alcohol laws relating to catering endorsements, repeal termination dates relating to certain Workers' Compensation Programs, revise vehicle registration laws regarding military personnel, and revise workers compensation laws to increase benefits. He also sponsored bills revising candidate self-finance laws and establishing the Montana family and medical leave insurance act.
+Beyond his legislative achievements, Derek is known for his unwavering commitment to his community. His experience as a firefighter has instilled in him a strong sense of responsibility and the ability to make decisions under pressure—qualities that have proven invaluable in his role as a legislator. Derek's dedication to public service is further exemplified by his involvement in civic organizations, including his tenure as President of the International Association of Firefighters #96.
+
+Derek Harvey's journey from a firefighter in Butte to a respected state senator is a testament to his dedication, resilience, and passion for making a positive impact. He continues to work tirelessly to address the challenges facing Montana and to create a brighter future for its residents.

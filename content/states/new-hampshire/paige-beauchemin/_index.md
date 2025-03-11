@@ -1,10 +1,10 @@
 ---
-date: 2024-05-28T11:54:12-05:00
+date: 2025-03-01T11:54:12-05:00
 title: "Paige Beauchemin"
 seo_title: "contact Representative Paige Beauchemin"
 subheader:
      greeting: Contact Representative Paige Beauchemin
-     description: Paige Beauchemin is a dedicated and accomplished politician serving as a member of the New Hampshire House of Representatives. She represents the Hillsborough 3 constituency and assumed office on November 29, 2023. Her current term is set to end on December 4, 2024.
+     description: Paige Beauchemin is a Democratic Party member serving in the New Hampshire House of Representatives. She represents Hillsborough District 3, having assumed office on December 18, 2024. Her current term is set to conclude on December 2, 2026.
 description: Contact Representative Paige Beauchemin of New Hampshire. Contact information for Paige Beauchemin includes email address, phone number, and mailing address.
 image: paige-beauchemin.jpeg
 video:
@@ -17,19 +17,18 @@ name: Paige Beauchemin
 state: New Hampshire
 party: Democratic
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2023
 mailing1: State House Room 317 107 N Main St Concord, NH 03301-4951
 phone1: 603-271-3661
-website: https://gencourt.state.nh.us/house/members/member.aspx?pid=11100/
-email : https://gencourt.state.nh.us/house/members/member.aspx?pid=11100/
+website: https://gc.nh.gov/house/members/member.aspx?pid=11100/
+email : https://gc.nh.gov/house/members/member.aspx?pid=11100/
 twitter: 
 ---
-Paige Beauchemin is a dedicated and accomplished politician serving as a member of the New Hampshire House of Representatives. She represents the Hillsborough 3 constituency and assumed office on November 29, 2023. Her current term is set to end on December 4, 2024.
+Paige Beauchemin is a Democratic Party member serving in the New Hampshire House of Representatives. She represents Hillsborough District 3, having assumed office on December 18, 2024. Her current term is set to conclude on December 2, 2026.
 
-Before her political career, Beauchemin was a nurse at St Joseph's Hospital in Nashua, New Hampshire. Her commitment to healthcare and her community led her to pursue a career in politics. She was elected to the New Hampshire House of Representatives following the resignation of David Cote. Beauchemin's dedication and hard work were evident in her campaign, as she won the Democratic primary unanimously, receiving 84 votes. She went on to win the general election, receiving 409 votes and securing 60.68% of the vote.
+Paige Beauchemin has a strong academic and professional background that complements her political career. She earned a Bachelor of Arts in Psychology from Chatham University in 2006. Following this, she pursued her passion for healthcare and obtained her registered nursing degree from the University of Pittsburgh Medical Center's Shadyside School of Nursing. Her career spans various roles in the healthcare sector, including working as a registered nurse at St. Joseph's Hospital. She also held leadership positions, such as serving as a director at Walgreens Boots Alliance and as the Women's Health Digital Health Coach Manager for Ovia Health.
 
-In addition to her political and healthcare careers, Beauchemin has an impressive educational background. She earned a Bachelor's degree in Psychology from Chatham University and later received her nursing certification from the University of Pittsburgh.
+In her role as a state representative, Beauchemin has been actively involved in addressing issues that resonate with her constituents. Her healthcare background provides her with a unique perspective on public health policies, and she is committed to advocating for accessible and equitable healthcare solutions. Beyond her professional and legislative work, she is known for her dedication to community engagement and her efforts to bring about meaningful change in her district.
 
-Throughout her career, Beauchemin has demonstrated a strong commitment to serving her community. Her work in the New Hampshire House of Representatives continues to have a positive impact on her constituents and the state of New Hampshire.
-
+Beauchemin's journey reflects her commitment to public service and her determination to make a positive impact on the lives of those she represents. Her blend of healthcare expertise and legislative experience positions her as a valuable advocate for her community.

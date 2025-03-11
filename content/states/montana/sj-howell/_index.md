@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "SJ Howell"
-seo_title: "contact representative SJ Howell"
+seo_title: "contact Representative SJ Howell"
 subheader:
-     greeting: Contact representative SJ Howell
-     description: SJ Howell, born on July 3, 1980, is an American politician who represents Missoula in the 95th district in the Montana House of Representatives. Howell was sworn in as a representative on January 2, 2023.
-description: Contact representative SJ Howell of Montana. Contact information for SJ Howell includes email address, phone number, and mailing address.
+     greeting: Contact Representative SJ Howell
+     description: SJ Howell is a member of the Democratic Party serving in the Montana House of Representatives. They represent District 100 and assumed office on January 6, 2025. Their current term is set to end on January 4, 2027.
+description: Contact Representative SJ Howell of Montana. Contact information for SJ Howell includes email address, phone number, and mailing address.
 image: sj-howell.jpeg
 video:
-url:  /states/montana/sj-howell/
+url: /states/montana/sj-howell/
 weight: 1
 layout: course_home
 
@@ -18,18 +18,19 @@ state: Montana
 party: Democratic
 role: Representative
 inoffice: current
-elected: 2023
+elected: 2024
 mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7630/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7630/
-twitter:
+website: https://www.legmt.gov/legislators/1368//
+email : https://www.legmt.gov/legislators/1368//
+twitter: 
 ---
+SJ Howell is a member of the Democratic Party serving in the Montana House of Representatives. They represent District 100 and assumed office on January 6, 2025. Their current term is set to end on January 4, 2027.
 
-SJ Howell, born on July 3, 1980, is an American politician who represents Missoula in the 95th district in the Montana House of Representatives. A member of the Democratic Party, Howell was elected in the 2022 election, making them the first non-binary person to be elected to the state legislature in Montana. Howell was sworn in as a representative on January 2, 2023.
+Born in Billings, Montana, SJ Howell has dedicated their career to advocacy and public service. They earned a bachelor's degree from the University of Montana and currently reside in Missoula. Before entering politics, Howell served as the executive director of Montana Women Vote, a nonprofit organization focused on engaging low-income women in the democratic process as informed voters, policy advocates, and community leaders. Their work in this role highlighted their commitment to social justice and equality, particularly for women and the LGBTQ+ community.
 
-In addition to their political career, Howell is also the executive director of Montana Women Vote, an organization that aims to engage low-income women in the democratic process as informed voters, policy advocates, and community leaders. Howell has been the executive director of Montana Women Vote since 2013, and has been an activist and lobbyist for women and the LGBTQ+ community. In 2021, Howell lobbied and spoke publicly against bills that advocates for LGBTQ+ rights saw as discriminatory.
+Howell first entered the Montana Legislature in 2023, representing District 95. They made history as one of the first openly transgender individuals elected to the state legislature in Montana. During their initial term, Howell introduced several pieces of legislation, including efforts to expand eligibility for childcare scholarships under Montana's Best Beginnings program. Although their proposals faced challenges in a Republican-dominated legislature, Howell's advocacy underscored their dedication to progressive policies and community welfare.
 
-Howell announced their run for the 95th district in February of 2022. They ran uncontested in the Democratic primary, guaranteeing their spot to run against Republican opponent Lauren Subith. In the general election, Howell managed to win over Subith by almost 2,000 votes, therefore being elected to the 95th district. With this victory, Howell, along with 100th district member Zooey Zephyr, became the first two openly transgender people to ever be elected to the Montana Legislature.
+Due to redistricting, Howell ran for and won the seat for District 100 in the 2024 elections. Their victory was a testament to their strong connection with constituents and their ability to address the needs of their community effectively. As a legislator, Howell has been an outspoken advocate for marginalized groups, often taking a stand on controversial issues to ensure that all voices are heard in the legislative process.
 
-During the 2023 legislative session, Howell introduced their first piece of legislation, House Bill 238, which would have expanded the eligibility requirements for Montana's Best Beginnings program, a child care scholarship program. Howell introduced four bills in total, one of which passed out of committee, but all were ultimately voted down by the Republican party’s supermajority.
+In addition to their legislative work, Howell has been a vocal supporter of LGBTQ+ rights and has actively opposed bills perceived as discriminatory. Their leadership and resilience have made them a prominent figure in Montana politics, inspiring many to engage in civic activities and fight for equality and justice. Howell's journey reflects a deep commitment to creating a more inclusive and equitable society for all Montanans.

@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Greg Oblander"
-seo_title: "contact representative Greg Oblander"
+seo_title: "contact Representative Greg Oblander"
 subheader:
-     greeting: Contact representative Greg Oblander
-     description: Greg Oblander is a member of the Republican Party and represents District 40 in the Montana House of Representatives. He assumed office on January 2, 2023, and his current term ends on January 6, 2025. 
-description: Contact representative Greg Oblander of Montana. Contact information for Greg Oblander includes email address, phone number, and mailing address.
+     greeting: Contact Representative Greg Oblander
+     description: Greg Oblander is a dedicated public servant and a prominent figure in Montana's political landscape. He currently represents District 38 in the Montana House of Representatives, a position he assumed on January 6, 2025.
+description: Contact Representative Greg Oblander of Montana. Contact information for Greg Oblander includes email address, phone number, and mailing address.
 image: greg-oblander.jpeg
 video:
-url:  /states/montana/greg-oblander/
+url: /states/montana/greg-oblander/
 weight: 1
 layout: course_home
 
@@ -21,13 +21,18 @@ inoffice: current
 elected: 2023
 mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7640/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7640/
-twitter:
+website: https://www.legmt.gov/legislators/1284//
+email : https://www.legmt.gov/legislators/1284//
+twitter: 
 ---
+Greg Oblander is a dedicated public servant and a prominent figure in Montana's political landscape. He currently represents District 38 in the Montana House of Representatives, a position he assumed on January 6, 2025. As a member of the Republican Party, Oblander has been a strong advocate for his constituents, focusing on issues that matter most to the people of Yellowstone County and beyond.
 
-Greg Oblander is a member of the Republican Party and represents District 40 in the Montana House of Representatives. He assumed office on January 2, 2023, and his current term ends on January 6, 2025.
+Born and raised in Montana, Oblander has deep roots in the community he serves. He pursued higher education at Logan University, where he earned a doctorate in chiropractic. This academic achievement laid the foundation for a successful career in healthcare. As a chiropractor, Oblander has owned and operated two chiropractic clinics, providing essential services to his community and promoting wellness.
 
-Oblander was born in and lives in Yellowstone County, Montana. He earned a doctorate degree in chiropractic from Logan University. His career experience includes working as an ATV instructor, in the oil and gas division of Montana Power, and as a chiropractor and owner of two chiropractic clinics.
+Beyond his professional career, Oblander has been actively involved in various organizations that reflect his diverse interests and commitment to public service. He has served as the vice president of the Montana Trail Vehicle Riders Association, showcasing his passion for outdoor recreation and responsible trail use. Additionally, he held the position of president of the Montana Petroleum Landman Association, highlighting his expertise and leadership in the energy sector.
 
-Oblander served as vice president of the Montana Trail Vehicle Riders Association and president of the Montana Petroleum Landman Association. He ran for election to the Montana House of Representatives to represent District 40 and won in the general election on November 8, 2022.
+Oblander's career also includes experience in the oil and gas division of Montana Power, as well as work as an ATV instructor. These roles have equipped him with a broad understanding of Montana's industries and the challenges they face. His multifaceted background enables him to approach legislative issues with a well-rounded perspective.
+
+In the Montana House of Representatives, Oblander has been an active participant in shaping policies that benefit his district and the state as a whole. His legislative priorities include economic development, healthcare access, and preserving Montana's natural resources. Oblander's dedication to his constituents is evident in his efforts to address their concerns and advocate for their needs.
+
+Greg Oblander's journey from a healthcare professional to a respected legislator underscores his commitment to making a positive impact on his community. His leadership, experience, and passion for public service continue to drive his work in the Montana House of Representatives, where he strives to build a better future for all Montanans.

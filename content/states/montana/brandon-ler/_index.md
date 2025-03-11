@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Brandon Ler"
-seo_title: "contact representative Brandon Ler"
+seo_title: "contact Representative Brandon Ler"
 subheader:
-     greeting: Contact representative Brandon Ler
-     description: Brandon Ler is an American politician from the state of Montana. He is a Republican member of the Montana House of Representatives for district 35. He assumed office on January 4, 2021.
-description: Contact representative Brandon Ler of Montana. Contact information for Brandon Ler includes email address, phone number, and mailing address.
+     greeting: Contact Representative Brandon Ler
+     description: Brandon Ler is an American politician from the state of Montana, and a Republican member of the Montana House of Representatives, representing District 33. He assumed office on January 6, 2025. His current term ends on January 4, 2027.
+description: Contact Representative Brandon Ler of Montana. Contact information for Brandon Ler includes email address, phone number, and mailing address.
 image: brandon-ler.jpeg
 video:
-url:  /states/montana/brandon-ler/
+url: /states/montana/brandon-ler/
 weight: 1
 layout: course_home
 
@@ -21,15 +21,18 @@ inoffice: current
 elected: 2021
 mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7548/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7548/
-twitter:
+website: https://www.legmt.gov/legislators/1282//
+email : https://www.legmt.gov/legislators/1282//
+twitter: 
 ---
+Brandon Ler is a prominent American politician and a dedicated public servant from the state of Montana. A member of the Republican Party, he has made significant contributions to his community and state through his leadership and legislative efforts. Born in 1985 in Sidney, Montana, Brandon grew up with a strong connection to his roots and a deep understanding of the values that define his community.
 
-Brandon Ler is an American politician from the state of Montana. He is a Republican member of the Montana House of Representatives for district 35. He assumed office on January 4, 2021.
+Brandon's career in public service began with his election to the Montana House of Representatives, where he represented House District 35 starting in January 2021. During his tenure, he worked tirelessly to address the needs of his constituents and to advocate for policies that promote economic growth, education, and community well-being. His dedication and effectiveness as a legislator earned him widespread respect and recognition.
 
-Born in 1985 in Sidney, Montana, U.S., Ler owns and operates a fencing company and served for six years on the Savage School District Board of Education. He is also a rancher.
+In January 2025, Brandon Ler assumed the role of Speaker of the Montana House of Representatives, a position that underscores his leadership abilities and his commitment to serving the people of Montana. As Speaker, he has played a pivotal role in shaping the legislative agenda and ensuring that the voices of Montanans are heard and represented in the state's decision-making processes.
 
-In February 2023, Ler introduced a bill that would state that misgendering a transgender student or calling them by their dead name —the name they were given at birth — is not considered a discriminatory practice. Ler characterized the bill as an effort to ensure students aren't punished by teachers or school officials for references made out of confusion.
+Beyond his political career, Brandon is a successful entrepreneur and the owner of Double L Fencing, a business that reflects his strong work ethic and entrepreneurial spirit. He has also been actively involved in his local community, serving for six years on the Savage School District Board of Education. This experience has given him valuable insights into the challenges and opportunities facing Montana's education system.
 
-In the 2020 State House of Representatives election for Montana's 35th District, Ler received 1,457 votes (52.60%) in the Republican primary. He was uncontested in the general election, having received 4,760 votes.
+Brandon Ler is not only a dedicated public servant but also a family man. He is married to Stephanie Ler, and together they have two children. His family remains a source of inspiration and support as he continues to work toward a brighter future for Montana.
+
+Throughout his career, Brandon has demonstrated a steadfast commitment to his principles and a deep respect for the values that define Montana. His leadership, vision, and dedication to public service have made him a respected figure in the state's political landscape.

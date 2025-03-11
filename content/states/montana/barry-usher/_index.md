@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Barry Usher"
-seo_title: "contact senator Barry Usher"
+seo_title: "contact Senator Barry Usher"
 subheader:
-     greeting: Contact senator Barry Usher
-     description: Barry Usher is a member of the Republican Party and currently serves in the Montana State Senate, representing District 20. He assumed office on January 2, 2023, and his current term ends on January 4, 2027
-description: Contact senator Barry Usher of Montana. Contact information for Barry Usher includes email address, phone number, and mailing address.
+     greeting: Contact Senator Barry Usher
+     description: Barry Usher is an American politician serving as a member of the Montana House of Representatives from the 40th district. He assumed office on January 6, 2025. His current term ends on January 4, 2027.
+description: Contact Senator Barry Usher of Montana. Contact information for Barry Usher includes email address, phone number, and mailing address.
 image: barry-usher.jpeg
 video:
-url:  /states/montana/barry-usher/
+url: /states/montana/barry-usher/
 weight: 1
 layout: course_home
 
@@ -21,15 +21,24 @@ inoffice: current
 elected: 2023
 mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7603/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7603/
+website: https://www.legmt.gov/legislators/1259//
+email : https://www.legmt.gov/legislators/1259//
 twitter: barry4montana
 ---
+Barry Usher is a dedicated public servant and a prominent figure in Montana's political landscape. Currently serving as a member of the Montana State Senate, he represents District 19 with a commitment to addressing the needs of his constituents and advancing the state's interests. His journey into public service is marked by a rich tapestry of experiences that have shaped his leadership style and dedication to community development.
 
-Barry Usher is a member of the Republican Party and currently serves in the Montana State Senate, representing District 20. He assumed office on January 2, 2023, and his current term ends on January 4, 2027. Prior to this, he was a member of the Montana House of Representatives, representing District 40 from 2017 to 2022.
+Barry's career began with his service in the United States Coast Guard, where he honed his skills in leadership, law enforcement, and public safety. His assignments included patrolling the Caribbean, combating drug trafficking, and engaging in search and rescue missions. These experiences instilled in him a deep sense of duty and a passion for serving others.
 
-Barry Usher served in the U.S. Coast Guard. His career experience includes working in law enforcement on patrol, as a U.S. customs police explorer, as a college Greek liaison, and on assignment to a federal/statewide drug task force. Usher also owned his own businesses.
+After his tenure in the Coast Guard, Barry transitioned into law enforcement, taking on roles that ranged from patrol duties to working with federal and statewide drug task forces. His work in this field further solidified his commitment to ensuring the safety and well-being of his community.
 
-He served as president of the Red Lodge Area Chamber of Commerce, the Red Lodge Area Economic Development Corporation, the Big Sky Young Presidents Organization chapter, and the Metra Park Advisory Board. He became a board member of the Metra Park Foundation and Families for Outdoor Recreation.
+Barry's entrepreneurial spirit led him to establish and manage several businesses across diverse industries, including technology, motorsports, and the powersports sector. As the owner of Beartooth Harley-Davidson and other ventures, he demonstrated his ability to navigate complex challenges and foster economic growth.
 
-In terms of legislative assignments, Usher was assigned to the Highways and Transportation Committee, Senate Judiciary Committee (Vice Chair), Senate Natural Resources Committee, and Senate Rules Committee in 2023-2024. Previously, he served on the House Judiciary Committee (Chair), House Legislative Administration Committee, House Rules Committee, and Transportation Committee in 2021-2022.
+In addition to his professional achievements, Barry has been an active participant in community organizations. He has held leadership positions such as President of the Red Lodge Area Chamber of Commerce and the Red Lodge Area Economic Development Corporation. His involvement extended to serving on boards like the Metra Park Foundation and Families for Outdoor Recreation, where he contributed to initiatives that enhanced the quality of life for Montana residents.
+
+Barry's dedication to public service eventually led him to the Montana House of Representatives, where he represented District 40 from 2017 to 2022. During his tenure, he served on various committees, including the Judiciary and Transportation Committees, and played a pivotal role in shaping legislation that addressed critical issues facing the state.
+
+In 2025, Barry assumed office as a Montana State Senator, continuing his legacy of service and leadership. His priorities include promoting economic development, safeguarding public safety, and preserving Montana's natural resources for future generations.
+
+Beyond his professional and political endeavors, Barry is a devoted family man. He and his wife, Ann Marie, have four children and five grandchildren. Together, they enjoy traveling, camping, fly fishing, and motorcycling, cherishing the moments they spend as a family.
+
+Barry Usher's life is a testament to his unwavering commitment to service, community, and family. His multifaceted career and dedication to Montana's prosperity make him a respected and influential figure in the state's political and social spheres.

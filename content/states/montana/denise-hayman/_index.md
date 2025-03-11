@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Denise Hayman"
-seo_title: "contact senator Denise Hayman"
+seo_title: "contact Senator Denise Hayman"
 subheader:
-     greeting: Contact senator Denise Hayman
-     description: Denise Hayman is a member of the Democratic Party and currently serves in the Montana State Senate, representing District 33. She assumed office on January 2, 2023, and her current term ends on January 4, 2027. Prior to this, she was a member of the Montana House of Representatives, representing District 66 from 2015 to 2022.
-description: Contact senator Denise Hayman of Montana. Contact information for Denise Hayman includes email address, phone number, and mailing address.
+     greeting: Contact Senator Denise Hayman
+     description: Denise Hayman is an American politician who is currently serving in the  Montana State Senate, representing District 32. She assumed office on January 6, 2025. Her current term ends on January 4, 2027.
+description: Contact Senator Denise Hayman of Montana. Contact information for Denise Hayman includes email address, phone number, and mailing address.
 image: denise-hayman.jpeg
 video:
-url:  /states/montana/denise-hayman/
+url: /states/montana/denise-hayman/
 weight: 1
 layout: course_home
 
@@ -21,13 +21,16 @@ inoffice: current
 elected: 2023
 mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7526/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7526/
-twitter: dhaymanhd66
+website: https://www.legmt.gov/legislators/1266//
+email : https://www.legmt.gov/legislators/1266//
+twitter: 
 ---
+Denise Hayman is a dedicated public servant and influential figure in Montana politics. She has served as a member of the Montana State Senate, representing District 32, and previously held a seat in the Montana House of Representatives for District 66. Her career in public service is marked by her commitment to education, community development, and progressive policies.
 
-Denise Hayman is a member of the Democratic Party and currently serves in the Montana State Senate, representing District 33. She assumed office on January 2, 2023, and her current term ends on January 4, 2027. Prior to this, she was a member of the Montana House of Representatives, representing District 66 from 2015 to 2022.
+Born in Winnipeg, Canada, Denise later made Bozeman, Montana, her home. Her journey into public service began with her involvement in local education. She volunteered as the Parent Advisory Council president for the Willson Science and Technology and Irving schools, showcasing her dedication to improving educational opportunities for children. In 2000, she was elected to the Bozeman School Board, where she served for 15 years. Her tenure on the school board was characterized by her focus on enhancing educational standards and fostering a supportive environment for students and educators alike.
 
-Hayman ran for election to the Montana State Senate to represent District 33 and won in the general election on November 8, 2022. She lives in Bozeman, Montana, and has been actively involved in her community. She volunteered to be Parent Advisory Council president for the Willson Science and Technology and, later, Irving schools. In 2000, she was elected to serve on the Bozeman School Board.
+Denise transitioned to state-level politics in 2015 when she was elected to the Montana House of Representatives. During her time in the House, she served on various committees, including those focused on energy, technology, and state administration. Her work in these areas demonstrated her ability to address complex issues and advocate for policies that benefit her constituents.
 
-Throughout her tenure, Hayman has been assigned to various committees, including the Energy and Telecommunications Committee, Senate State Administration Committee, Senate Taxation Committee, and Legislative Audit Committee.
+In 2025, Denise assumed office as a member of the Montana State Senate, representing District 32. Her leadership and experience have made her a respected voice in the Senate, where she continues to champion causes such as renewable energy, education reform, and community development. Denise's dedication to her constituents and her ability to navigate the intricacies of state politics have solidified her reputation as a committed and effective legislator.
+
+Beyond her political career, Denise is known for her strong connection to her community. She has been an active participant in local initiatives and has consistently worked to address the needs of her constituents. Her passion for public service and her unwavering commitment to making a positive impact on her community define her legacy as a leader in Montana politics.

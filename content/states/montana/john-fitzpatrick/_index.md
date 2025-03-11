@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "John Fitzpatrick"
-seo_title: "contact representative John Fitzpatrick"
+seo_title: "contact Representative John Fitzpatrick"
 subheader:
-     greeting: Contact representative John Fitzpatrick
-     description: John Fitzpatrick is a member of the Republican Party and represents District 77 in the Montana House of Representatives. He assumed office on January 2, 2023, and his current term is set to end on January 6, 2025.
-description: Contact representative John Fitzpatrick of Montana. Contact information for John Fitzpatrick includes email address, phone number, and mailing address.
+     greeting: Contact Representative John Fitzpatrick
+     description: John Fitzpatrick, a member of the Republican Party, serves in the Montana House of Representatives, representing District 76. He assumed office on January 6, 2025, and his current term is set to conclude on January 4, 2027.
+description: Contact Representative John Fitzpatrick of Montana. Contact information for John Fitzpatrick includes email address, phone number, and mailing address.
 image: john-fitzpatrick.jpeg
 video:
-url:  /states/montana/john-fitzpatrick/
+url: /states/montana/john-fitzpatrick/
 weight: 1
 layout: course_home
 
@@ -19,13 +19,20 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2023
-mailing1: Room 302B, State Capitol Helena, MT 59620-0500
+mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7627/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7627/
-twitter:
+website: https://www.legmt.gov/legislators/1341//
+email : https://www.legmt.gov/legislators/1341//
+twitter: 
 ---
+John Fitzpatrick, a member of the Republican Party, serves in the Montana House of Representatives, representing District 76. He assumed office on January 6, 2025, and his current term is set to conclude on January 4, 2027.
 
-John Fitzpatrick is a member of the Republican Party and represents District 77 in the Montana House of Representatives. He assumed office on January 2, 2023, and his current term is set to end on January 6, 2025. Fitzpatrick ran for election to the Montana House of Representatives to represent District 77 and won in the general election held on November 8, 2022. Prior to his election, the seat was held by Sara Novak.
+John Fitzpatrick has been a dedicated public servant with a strong commitment to his constituents. Before representing District 76, he served in the Montana House of Representatives for District 77, where he gained valuable experience and built a reputation for his pragmatic approach to governance. His legislative priorities have consistently focused on economic development, education reform, and preserving Montana's natural resources.
 
-As a legislator, Fitzpatrick has been assigned to various committees, including the Appropriations Committee. His tenure as a representative is marked by his commitment to his district and the state of Montana.
+Born and raised in Anaconda, Montana, Fitzpatrick has deep roots in his community. He attended the University of Montana, where he earned a degree in sociology, and later pursued advanced studies at Ohio State University, obtaining both a master's and a doctorate in governmental affairs and business development. His academic background has equipped him with a nuanced understanding of policy-making and economic strategies.
+
+In addition to his political career, Fitzpatrick is an accomplished author, having published works that explore historical and cultural themes. His books reflect his passion for storytelling and his appreciation for Montana's rich heritage. Outside of his professional life, he is a devoted family man, sharing his life with his wife, Connie, and their two children.
+
+Throughout his career, Fitzpatrick has been an active participant in legislative committees, including the Appropriations Committee, where he has played a pivotal role in shaping the state's budget and fiscal policies. His leadership and dedication have earned him respect among his peers and constituents alike.
+
+John Fitzpatrick's journey in public service is marked by his unwavering commitment to the people of Montana. He continues to advocate for policies that promote growth, sustainability, and the well-being of his district and the state as a whole.

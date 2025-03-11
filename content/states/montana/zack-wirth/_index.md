@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Zack Wirth"
-seo_title: "contact representative Zack Wirth"
+seo_title: "contact Representative Zack Wirth"
 subheader:
-     greeting: Contact representative Zack Wirth
-     description: Zachary Wirth is a member of the Republican Party and represents District 80 in the Montana House of Representatives. He assumed office on January 3, 2023, and his current term is set to end on January 6, 2025.
-description: Contact representative Zack Wirth of Montana. Contact information for Zack Wirth includes email address, phone number, and mailing address.
+     greeting: Contact Representative Zack Wirth
+     description: Zack Wirth is an American politician who is serving in the Montana House of Representatives, representing District 17. He assumed office on January 6, 2025. His current term ends on January 4, 2027.
+description: Contact Representative Zack Wirth of Montana. Contact information for Zack Wirth includes email address, phone number, and mailing address.
 image: zack-wirth.jpeg
 video:
-url:  /states/montana/zack-wirth/
+url: /states/montana/zack-wirth/
 weight: 1
 layout: course_home
 
@@ -19,15 +19,22 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2023
-mailing1: Room 302B, State Capitol Helena, MT 59620-0500
+mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7654/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7654/
+website: https://www.legmt.gov/legislators/1464//
+email : https://www.legmt.gov/legislators/1464//
 twitter:
 ---
+Zack Wirth is a dedicated public servant and a prominent figure in Montana's political landscape. Born and raised in the picturesque state of Montana, Wirth has spent his life deeply connected to the land and its people. His upbringing in a ranching family instilled in him a strong work ethic, a deep appreciation for rural communities, and a commitment to preserving Montana's unique way of life.
 
-Zachary Wirth is a member of the Republican Party and represents District 80 in the Montana House of Representatives. He assumed office on January 3, 2023, and his current term is set to end on January 6, 2025. Wirth was appointed to the state House on January 3, 2023, to fill a vacancy after Representative Becky Beard was appointed to the state Senate.
+Wirth's professional journey began at the Rocking Z Guest Ranch near Wolf Creek, Montana, where he worked as a rancher. This experience not only strengthened his ties to the agricultural community but also provided him with firsthand insight into the challenges and opportunities faced by rural Montanans. His passion for serving his community eventually led him to pursue a career in public service.
 
-Born and raised in Montana, Wirth's career experience includes working as a rancher at the Rocking Z Guest Ranch near Wolf Creek, Montana. In addition to his legislative duties, Wirth has been assigned to the Agriculture Committee, House State Administration Committee, and Transportation Committee for the 2023-2024 term.
+In January 2023, Wirth was appointed to the Montana House of Representatives to fill a vacancy in District 80. This marked the beginning of his legislative career, where he quickly established himself as a dedicated and effective representative. During his tenure in District 80, Wirth focused on addressing issues that mattered most to his constituents, including agriculture, transportation, and state administration.
 
-Before his appointment, Wirth had also participated in the Montana House of Representatives elections in 2016. However, he was defeated by Becky Beard in the District 80 Republican primary. Despite the setback, Wirth continued his political journey, eventually earning his current position in the House of Representatives.
+Following redistricting efforts, Wirth ran for election in District 17 and secured a decisive victory in November 2024. His campaign resonated with voters, earning him an impressive 75% of the vote. On January 6, 2025, he assumed office as the representative for District 17, which encompasses parts of Lewis and Clark and Powell counties.
+
+As a member of the Montana House of Representatives, Wirth has taken on significant responsibilities. He serves as the Vice Chair of the House Transportation Committee and is an active member of the House State Administration and House Agriculture Committees. These roles allow him to advocate for policies that support Montana's infrastructure, governance, and agricultural heritage.
+
+Beyond his legislative duties, Wirth remains deeply rooted in his community. He is a devoted family man, residing in Wolf Creek with his family. His commitment to his constituents and his unwavering dedication to Montana's values have earned him respect and admiration from colleagues and constituents alike.
+
+Zack Wirth's journey from rancher to legislator exemplifies his passion for public service and his determination to make a positive impact on the lives of Montanans. His leadership and vision continue to shape the future of Montana, ensuring that the state's rich heritage and vibrant communities thrive for generations to come.

@@ -1,37 +1,36 @@
 ---
-date: 2024-04-19T11:54:12-05:00
+date: 2025-03-01T11:54:12-05:00
 title: "Angie Taylor"
-seo_title: "contact Representative Angie Taylor"
+seo_title: "contact Senator Angie Taylor"
 subheader:
-     greeting: Contact Representative Angie Taylor
-     description: Angie Taylor is an American politician who has been serving in the Nevada Assembly for the 27th district in Reno since 2022. She is a member of the Democratic Party and has previously served on the Washoe County School District Board of Trustees for District E.
-description: Contact Representative Angie Taylor of nevada. Contact information for Angie Taylor includes email address, phone number, and mailing address.
+     greeting: Contact Senator Angie Taylor
+     description: Angie Taylor is a member of the Democratic Party serving in the Nevada State Senate, representing District 15. She assumed office on November 6, 2024, and her current term is set to end on November 8, 2028.
+description: Contact Senator Angie Taylor of Nevada. Contact information for Angie Taylor includes email address, phone number, and mailing address.
 image: angie-taylor.jpeg
 video:
-url:  /states/nevada/angie-taylor/
+url: /states/nevada/angie-taylor/
 weight: 1
 layout: course_home
 
 ####candidate
 name: Angie Taylor
-state: nevada
+state: Nevada
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2023
-mailing1: Nevada Legislature Room 4107A 401 S Carson St Carson City, NV 89701-4747
-phone1: 775-684-8845
-website: https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27/
-email : https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27/
+elected: 2025
+mailing1:  Nevada Legislature Room 2112 401 S Carson St Carson City, NV 89701-4747
+phone1: 775-684-1419
+website: https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15/
+email : https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/15/
 twitter: voteangietaylor
 ---
+Angie Taylor is a member of the Democratic Party serving in the Nevada State Senate, representing District 15. She assumed office on November 6, 2024, and her current term is set to end on November 8, 2028.
 
-Angie Taylor is an American politician who has been serving in the Nevada Assembly for the 27th district in Reno since 2022. She is a member of the Democratic Party and has previously served on the Washoe County School District Board of Trustees for District E.
+Born in San Francisco, California, Angie Taylor has dedicated her life to public service, education, and community engagement. She holds three degrees from the University of Nevada, Reno: a bachelor's degree in business administration, a master's degree in public administration, and a Ph.D. in educational leadership. Her academic achievements reflect her commitment to lifelong learning and leadership development.
 
-Born in San Francisco, California, Angie moved to Reno in her early teens. She is an alumni of Hug High School. Angie has a strong academic background with multiple degrees from the University of Nevada, Reno. She earned a Bachelor of Science in Business Administration in 1985, a Master of Public Administration and Policy in 1991, and a Doctor of Education in 2004.
+Before her tenure in the Nevada State Senate, Taylor served as a member of the Nevada State Assembly from 2022 to 2024. She also held a position on the Washoe County School District Board of Trustees, where she worked tirelessly to improve educational opportunities for students in her community. Her career experience includes roles as a consultant, president, and CEO of Guardian Quest, as well as positions at the University of Nevada, Reno.
 
-Before her political career, Angie worked as a consultant, as president and chief executive officer at Guardian Quest, and for the University of Nevada, Reno. She has been affiliated with several organizations including the Boys and Girls Clubs, the NAACP, the Northern Nevada Black Cultural Awareness Society, Nevada Women's Fund, and the University of Nevada Intercollegiate Athletics.
+Taylor is deeply involved in her community and has been affiliated with organizations such as the Boys and Girls Clubs, the NAACP, the Northern Nevada Black Cultural Awareness Society, and the Nevada Women's Fund. Her dedication to public service is further demonstrated by her efforts to address issues like school safety, education funding, and healthcare accessibility.
 
-In the 2023-2024 legislative session, Angie was assigned to the Education Committee as Vice Chair, and also served on the Government Affairs Committee and Health and Human Services Committee.
-
-Angie is currently running for election to the Nevada State Senate to represent District 15. She is on the ballot in the Democratic primary on June 11, 2024.
+As a state senator, Angie Taylor continues to advocate for policies that promote equity, education, and economic growth. Her leadership and vision have made her a respected figure in Nevada's political landscape.

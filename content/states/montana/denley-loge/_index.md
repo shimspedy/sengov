@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Denley Loge"
-seo_title: "contact representative Denley Loge"
+seo_title: "contact Senator Denley Loge"
 subheader:
-     greeting: Contact representative Denley Loge
-     description: Denley Loge is an American politician who serves as a Republican member of the Montana House of Representatives. He represents District 14, which includes St. Regis, Montana. He assumed office on January 2, 2017, succeeding Nick Schwaderer.
-description: Contact representative Denley Loge of Montana. Contact information for Denley Loge includes email address, phone number, and mailing address.
+     greeting: Contact Senator Denley Loge
+     description: Denley Loge is an American politician. He is serving as a Republican member of the Montana State Senate, representing District 45. He assumed office on January 6, 2025. His current term ends on January 3, 2029.
+description: Contact Senator Denley Loge of Montana. Contact information for Denley Loge includes email address, phone number, and mailing address.
 image: denley-loge.jpeg
 video:
-url:  /states/montana/denley-loge/
+url: /states/montana/denley-loge/
 weight: 1
 layout: course_home
 
@@ -16,20 +16,23 @@ layout: course_home
 name: Denley Loge
 state: Montana
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2017
-mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
+elected: 2025
+mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7549/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7549/
-twitter:
+website: https://www.legmt.gov/legislators/1503//
+email : https://www.legmt.gov/legislators/1503//
+twitter: 
 ---
+Denley Loge is a dedicated public servant and a prominent figure in Montana's political landscape. Born in Valley City, North Dakota, he grew up with a strong sense of community and a deep appreciation for the values of hard work and service. He graduated from St. Regis High School and later earned a bachelor's degree from the University of Montana, where he developed a keen interest in public policy and governance.
 
-Denley Loge is an American politician who serves as a Republican member of the Montana House of Representatives. He represents District 14, which includes St. Regis, Montana. He assumed office on January 2, 2017, succeeding Nick Schwaderer.
+Loge's professional journey has been diverse and impactful. He has worked as a rancher, which gave him firsthand experience with the challenges and rewards of agricultural life. Additionally, his career in highway maintenance and construction provided him with a practical understanding of infrastructure and transportation issues—an area he would later champion in his political career.
 
-Born in 1950 in Valley City, North Dakota, U.S., Loge resides in Saint Regis, Montana. He is a graduate of the University of Montana and practices Lutheranism.
+In 2017, Denley Loge began his tenure as a member of the Montana House of Representatives, representing District 14. Over the years, he has been a steadfast advocate for his constituents, focusing on issues such as transportation, natural resource management, and economic development. His leadership skills were recognized early on, and he served as the chair of the Transportation Committee for multiple legislative sessions. This role allowed him to spearhead initiatives aimed at improving Montana's transportation systems and ensuring the safety and efficiency of its infrastructure.
 
-In terms of his political career, Loge has been serving in the Montana House of Representatives since 2017. His current term ends on January 6, 2025. He successfully ran for re-election to represent District 14 in the general election held on November 8, 2022.
+Loge's legislative work has also extended to other critical areas. He has been a member of the Business and Labor Committee and the Fish, Wildlife, and Parks Committee, where he has contributed to policies that balance economic growth with environmental stewardship. His commitment to public service is evident in his efforts to address pressing issues such as property tax reform, affordable housing, and maintaining public access to natural resources while respecting private property rights.
 
-Throughout his tenure, Loge has been assigned to several committees, including the Business and Labor Committee, Fish, Wildlife and Parks Committee, and the Transportation Committee, where he served as Chair.
+Throughout his career, Denley Loge has remained deeply connected to his roots in St. Regis, Montana. His experiences as a rancher and his involvement in local community activities have kept him grounded and attuned to the needs of the people he represents. As a legislator, he has consistently prioritized the well-being of his constituents, striving to create opportunities and improve the quality of life for all Montanans.
+
+Denley Loge's journey from a small-town upbringing to a respected position in the Montana State Senate is a testament to his dedication, resilience, and unwavering commitment to public service. His work continues to leave a lasting impact on the state of Montana and its residents.

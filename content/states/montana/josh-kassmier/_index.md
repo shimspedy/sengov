@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Josh Kassmier"
-seo_title: "contact representative Josh Kassmier"
+seo_title: "contact Senator Josh Kassmier"
 subheader:
-     greeting: Contact representative Josh Kassmier
-     description: Joshua J. Kassmier born in 1981 in Fort Benton, Montana is an American politician and a Republican member of the Montana House of Representatives. He represents the 27th district and assumed office on January 7, 2019.
-description: Contact representative Josh Kassmier of Montana. Contact information for Josh Kassmier includes email address, phone number, and mailing address.
+     greeting: Contact Senator Josh Kassmier
+     description: Joshua Kassmier is a dedicated American politician and a member of the Republican Party, currently serving in the Montana State Senate, representing District 13. He assumed office on January 6, 2025. His current term ends on January 3, 2029.
+description: Contact Senator Josh Kassmier of Montana. Contact information for Josh Kassmier includes email address, phone number, and mailing address.
 image: josh-kassmier.jpeg
 video:
-url:  /states/montana/josh-kassmier/
+url: /states/montana/josh-kassmier/
 weight: 1
 layout: course_home
 
@@ -16,16 +16,19 @@ layout: course_home
 name: Josh Kassmier
 state: Montana
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
+elected: 2025
+mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7536/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7536/
-twitter:
+website: https://www.legmt.gov/legislators/1274//
+email : https://www.legmt.gov/legislators/1274//
+twitter: 
 ---
+Joshua Kassmier is a dedicated American politician and a member of the Republican Party, currently serving in the Montana State Senate, representing District 13. His journey in public service began with his election to the Montana House of Representatives, where he represented District 27 from January 2019 to January 2025. During his tenure in the House, Kassmier was actively involved in various legislative committees, including the Agriculture Committee, where he served as Chair, as well as the Energy, Technology, and Federal Relations Committee, and the House Taxation Committee.
 
-Joshua J. Kassmier is an American politician and a Republican member of the Montana House of Representatives. He represents the 27th district and assumed office on January 7, 2019. He was born in 1981 in Fort Benton, Montana, U.S. He is married to Chelsey Johnston and they have three children: CoraLynn, Joshua Banks, and Regina. They reside in Fort Benton, Montana, U.S. He is a graduate of Carroll College and works as a crop adjuster.
+Born in Fort Benton, Montana, in 1981, Kassmier has deep roots in the state he serves. He pursued higher education at Carroll College, earning a Bachelor of Arts degree. His professional background as a crop adjuster reflects his connection to Montana's agricultural community, which has undoubtedly influenced his legislative priorities and understanding of the challenges faced by rural communities.
 
-In his political career, he has served on various committees including the Agriculture Committee (as Chair), Energy, Technology, and Federal Relations Committee, and House Taxation Committee. He has also sponsored several legislations. He ran for re-election to the Montana House of Representatives to represent District 27 and won in the general election on November 8, 2022. His current term ends on January 6, 2025.
+In November 2024, Kassmier successfully ran for the Montana State Senate, assuming office in January 2025. His election marked a continuation of his commitment to serving the people of Montana, focusing on issues such as agriculture, energy, taxation, and rural development. As a State Senator, he has continued to advocate for policies that support Montana's economy and enhance the quality of life for its residents.
+
+Kassmier resides in Fort Benton with his wife, Chelsey Johnston, and their three children, CoraLynn, Joshua Banks, and Regina. His family life and professional experiences have shaped his approach to governance, emphasizing the importance of community, family values, and practical solutions to the challenges faced by Montanans. Through his work in the legislature, Kassmier remains dedicated to making a positive impact on his constituents and the state as a whole.

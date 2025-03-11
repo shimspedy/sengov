@@ -1,10 +1,10 @@
 ---
-date: 2024-05-28T11:54:12-05:00
+date: 2025-03-01T11:54:12-05:00
 title: "Jim Kofalt"
 seo_title: "contact Representative Jim Kofalt"
 subheader:
      greeting: Contact Representative Jim Kofalt
-     description: Jim Kofalt is a member of the New Hampshire House of Representatives, representing Hillsborough 32. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
+     description: Jim Kofalt is a Republican member of the New Hampshire House of Representatives, representing Hillsborough District 32. He assumed office on December 18, 2024, and his current term is set to end on December 2, 2026.
 description: Contact Representative Jim Kofalt of New Hampshire. Contact information for Jim Kofalt includes email address, phone number, and mailing address.
 image: jim-kofalt.jpeg
 video:
@@ -17,22 +17,16 @@ name: Jim Kofalt
 state: New Hampshire
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2020
 mailing1: State House Room 317 107 N Main St Concord, NH 03301-4951
 phone1: 603-271-3661
-website: https://gencourt.state.nh.us/house/members/member.aspx?pid=9895/
-email : https://gencourt.state.nh.us/house/members/member.aspx?pid=9895/
-twitter:
+website: https://gc.nh.gov/house/members/member.aspx?pid=9895/
+email : https://gc.nh.gov/house/members/member.aspx?pid=9895/
+twitter: 
 ---
-Jim Kofalt is a member of the New Hampshire House of Representatives, representing Hillsborough 32. He assumed office on December 7, 2022, and his current term ends on December 4, 2024.
+Jim Kofalt is a Republican member of the New Hampshire House of Representatives, representing Hillsborough District 32. He assumed office on December 18, 2024, and his current term is set to end on December 2, 2026.
 
-Jim Kofalt's family first moved to New Hampshire in 1998 and settled in Wilton a few years later. Since then, he has served on the Wilton-Lyndeborough Cooperative School Board, where he is currently the Chair. Prior to being elected to the Board, he was also a member of the Budget Committee. His focus has always been on providing quality education, seeking to get the best possible value for their money.
+Jim Kofalt has a diverse professional and educational background. He earned a Bachelor of Science degree in Russian from Georgetown University in 1987 and later pursued an MBA from Syracuse University in 2008. His career spans various roles, including serving as the president of DX4 Research, a program manager with SAP, and a technical product manager with Microsoft. Beyond his professional endeavors, Kofalt has been actively involved in his local community. He served as the school board chair for the Wilton-Lyndeborough Cooperative School District, showcasing his commitment to education and public service.
 
-He was elected as State Representative in 2020, serving on the Health & Human Services & Elderly Affairs Committee during his first term. He has been a strong proponent of medical freedom, the 2nd Amendment, free speech, property rights, and free-market economics. He sponsored House Bill 440,  legislation that preserves civil liberties during a declared state of emergency, assuring that Constitutional rights may not be limited or suspended by a New Hampshire governor.
-
-In 2022, he sponsored bills aimed at establishing 50/50 shared parenting as the default presumption in divorce cases, and a bill that would have limited the power of DHHS to impose new vaccine mandates on children. He has co-sponsored legislation that would have enabled patients in New Hampshire to obtain Ivermectin, a bill to extend Constitutional Carry to include snowmobiles, and legislation aimed at shoring up election integrity.
-
-Jim Kofalt earned a B.S. in Russian from Georgetown University in 1987 and an M.B.A. from Syracuse University in 2008. His career experience includes working as the president of DX4 Research, a program manager with SAP, and a technical product manager with Microsoft.
-
-As your representative, Jim Kofalt will continue to support personal freedoms, low taxes, & responsible, transparent government.
+In his legislative role, Kofalt has been a member of several committees, including the Health, Human Services and Elderly Affairs Committee. His work in these committees reflects his dedication to addressing the needs of his constituents and improving the quality of life in his district. Known for his pragmatic approach and focus on community welfare, Kofalt continues to play an active role in shaping policies that benefit the residents of New Hampshire.

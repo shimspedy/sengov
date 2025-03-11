@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Greg Hertz"
-seo_title: "contact senator Greg Hertz"
+seo_title: "contact Senator Greg Hertz"
 subheader:
-     greeting: Contact senator Greg Hertz
-     description: Gregory J. Hertz, born on December 30, 1957, in Malta, Montana, is an American businessman and politician. He is a member of the Republican Party and currently represents District 6 in the Montana State Senate.
-description: Contact senator Greg Hertz of Montana. Contact information for Greg Hertz includes email address, phone number, and mailing address.
+     greeting: Contact Senator Greg Hertz
+     description: Greg Hertz is a prominent American politician from Montana. He is a member of the Montana State Senate, representing District 7. He assumed office on January 6, 2025. His current term ends on January 3, 2029.
+description: Contact Senator Greg Hertz of Montana. Contact information for Greg Hertz includes email address, phone number, and mailing address.
 image: greg-hertz.jpeg
 video:
-url:  /states/montana/greg-hertz/
+url: /states/montana/greg-hertz/
 weight: 1
 layout: course_home
 
@@ -21,17 +21,16 @@ inoffice: current
 elected: 2021
 mailing1: Room 302B, State Capitol Helena, MT 59620-0500
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7528/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7528/
+website: https://www.legmt.gov/legislators/1472//
+email : https://www.legmt.gov/legislators/1472//
 twitter: hertzrep
 ---
+Greg Hertz is a prominent American businessman and politician from Montana, known for his dedication to public service and his contributions to the state's legislative process. Born on December 30, 1957, in Malta, Montana, Hertz grew up with a strong sense of community and a commitment to making a difference. He graduated from Ronan High School in 1976 and later earned a Bachelor of Arts in Business Administration from the University of Montana in 1980.
 
-Gregory J. Hertz, born on December 30, 1957, in Malta, Montana, is an American businessman and politician. He is a member of the Republican Party and currently represents District 6 in the Montana State Senate.
+Hertz's professional journey began in the business world, where he founded an accounting practice and became the majority owner, President, and CEO of Moody's Market, Inc., a company that operates grocery stores in Polson, Montana. His business acumen and leadership skills laid the foundation for his transition into politics.
 
-Hertz attended the University of Montana, where he earned a Bachelor of Arts in Business Administration. In 1998, he became the majority owner, President, and CEO of Moody's Market, Incorporated, an operator of grocery stores in Polson, Montana.
+In 2012, Hertz entered the political arena, winning a seat in the Montana House of Representatives for District 11. Over the years, he represented District 12 as well, serving multiple terms and earning the respect of his colleagues and constituents. During his tenure in the House, Hertz held several key leadership positions, including Majority Whip and Speaker of the House. His ability to navigate complex legislative issues and build consensus made him a highly effective leader.
 
-Hertz's political career began when he won the election and became a Republican member of the Montana House of Representatives for District 11 in 2012. He later represented District 12 from 2015 to 2021. During his tenure, he served as the Majority Whip of the House during the 2015-2016 session and as the Speaker of the Montana House of Representatives from 2019 to 2021.
+In 2021, Hertz was elected to the Montana State Senate, representing District 6. His legislative priorities have focused on economic development, education, and tax reform, reflecting his commitment to improving the lives of Montanans. Throughout his career, Hertz has been an advocate for fiscal responsibility and policies that promote growth and opportunity.
 
-Due to Montana's rules on term limits, Hertz was unable to run for a 5th term in the House. He was elected in 2021 to a 4-year term for Senate District 6.
-
-Hertz is married to Kate Hertz, and they have three children. They reside in Polson, Montana.
+Beyond his professional achievements, Hertz is a devoted family man. He and his wife, Kate, have three children and reside in Polson, Montana. His deep connection to his community and his unwavering dedication to public service continue to define his legacy as a leader in Montana's political landscape.

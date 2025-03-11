@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-26T11:54:12-05:00
 title: "Mike Henderson"
-seo_title: "contact representative Mike Henderson "
+seo_title: "contact Senator Mike Henderson"
 subheader:
-     greeting: Contact representative Mike Henderson
-     description: Rep. Mike Henderson, a Republican, represents St. Francois County (District 117) in the Missouri House of Representatives. He was elected to his first two-year term in November 2016.
-description: Contact representative Mike Henderson of Missouri. Contact information for Mike Henderson includes email address, phone number, and mailing address.
+     greeting: Contact Senator Mike Henderson
+     description: Senator Mike Henderson, a Republican, was elected in 2024 to represent Missouri’s 3rd Senatorial District, which includes Crawford, St. Francois, Ste. Genevieve, Washington and part of Jefferson County.
+description: Contact Senator Mike Henderson of Missouri. Contact information for Mike Henderson includes email address, phone number, and mailing address.
 image: mike-henderson.jpeg
 video:
-url:  /states/missouri/mike-henderson/
+url: /states/missouri/mike-henderson/
 weight: 1
 layout: course_home
 
@@ -16,20 +16,17 @@ layout: course_home
 name: Mike Henderson
 state: Missouri
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2017
-mailing1: Missouri House of Representatives Room 301 201 W Capitol Ave Jefferson City, MO 65101
-phone1: 573-751-2317
-website: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=117/
-email : Mike.Henderson@house.mo.gov
-twitter:
+elected: 2025
+mailing1: Missouri Senate Room 431 201 W Capitol Ave Jefferson City, MO 65101
+phone1:  573-751-4008
+website: https://www.senate.mo.gov/Senators/Member/03/
+email : https://www.senate.mo.gov/Senators/Member/03/
+twitter: 
 ---
+Senator Mike Henderson, a Republican, was elected in 2024 to represent Missouri’s 3rd Senatorial District, which includes Crawford, St. Francois, Ste. Genevieve, Washington and part of Jefferson County. Senator Henderson is a former member of the Missouri House of Representatives, representing St. Francois County (District 117) from 2017-2025, where he served as Speaker Pro Tem from 2023-2025.
 
-Rep. Mike Henderson, a Republican, represents St. Francois County (District 117) in the Missouri House of Representatives. He was elected to his first two-year term in November 2016.
+Senator Henderson graduated from high school in Jackson, Missouri, in 1978; received his bachelor’ degree from Murray State University in 1982; completed his master’s degree from Southeast Missouri State in 1990; and received his specialist certificate in 1992. Prior to running for office, Sen. Henderson worked as an educator administrator from 1983-2014 and served as both a public school teacher and a coach.
 
-In addition to his legislative duties, Rep. Henderson worked as an Educator Administrator from 1983-2014, and served as both a teacher and a coach.
-
-Rep. Henderson graduated from high school in Jackson, Missouri in 1978, and went onto attend college at Murray State where he graduated with a Bachelor’s in Science in 1982. He went back to school in his later life and graduated with a Masters from Southeast Missouri State in 1990, and a Specialist certificate in 1992.
-
-Born in Cape Girardeau, MO, Rep. Henderson resides in Desloge, MO with his wife and their two children.
+Born in Cape Girardeau, Missouri, Sen. Henderson resides in Desloge with his wife, Cheri. They have two children and one grandson.

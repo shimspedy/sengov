@@ -1,14 +1,14 @@
 ---
-date: 2023-10-22T11:54:12-05:00
+date: 2025-02-27T11:54:12-05:00
 title: "Jodee Etchart"
-seo_title: "contact representative Jodee Etchart"
+seo_title: "contact Representative Jodee Etchart"
 subheader:
-     greeting: Contact representative Jodee Etchart
-     description: Jodee Etchart is a member of the Republican Party and represents District 48 in the Montana House of Representatives. She assumed office on January 2, 2023, and her current term ends on January 6, 2025.
-description: Contact representative Jodee Etchart of Montana. Contact information for Jodee Etchart includes email address, phone number, and mailing address.
+     greeting: Contact Representative Jodee Etchart
+     description: Jodee Etchart is a dedicated public servant and a proud representative of Montana's House District 51. She assumed office on January 6, 2025. Her current term ends on January 4, 2027.
+description: Contact Representative Jodee Etchart of Montana. Contact information for Jodee Etchart includes email address, phone number, and mailing address.
 image: jodee-etchart.jpeg
 video:
-url:  /states/montana/jodee-etchart/
+url: /states/montana/jodee-etchart/
 weight: 1
 layout: course_home
 
@@ -18,16 +18,21 @@ state: Montana
 party: Republican
 role: Representative
 inoffice: current
-elected: 2023
+elected: 2024
 mailing1: Room 370, State Capitol PO Box 200400 Helena, MT 59620-0400
 phone1: 406-444-3064
-website: https://www.leg.mt.gov/legislator-information/roster/individual/7625/
-email : https://www.leg.mt.gov/legislator-information/roster/individual/7625/
-twitter:
+website: https://www.legmt.gov/legislators/1286//
+email : https://www.legmt.gov/legislators/1286//
+twitter: 
 ---
+Jodee Etchart is a dedicated public servant and a proud representative of Montana's House District 51. With deep roots in the state, her family has been part of Montana's history since 1908, when her great-grandfather homesteaded in the Huntley Project area. His love for the United States, declared upon his return from a visit to his homeland in 1924, has been a guiding principle for Jodee and her family ever since.
 
-Jodee Etchart is a member of the Republican Party and represents District 48 in the Montana House of Representatives. She assumed office on January 2, 2023, and her current term ends on January 6, 2025. Etchart ran for election to the Montana House of Representatives to represent District 48 and won in the general election on November 8, 2022.
+Jodee's educational journey reflects her commitment to serving others. She earned a Bachelor of Science in Human Services from Montana State University-Billings and later pursued a Bachelor of Arts in Physician Assistant Studies at Rocky Mountain College. For over two decades, she has worked as a Physician Assistant, providing compassionate care and advocating for better healthcare access for Montanans.
 
-Etchart grew up wanting to be in the healthcare field and helping others. She has been actively involved in her local community and children’s school. She graduated from Montana State University-Billings with a BS in Human Services and from Rocky Mountain College with a BA in Physician Assistant Studies. She has practiced as a PA for 20 years.
+As a legislator, Jodee is known for her fiscal conservatism and her dedication to eliminating unnecessary regulations that hinder economic growth. She is passionate about creating policies that encourage job creation, responsible natural resource development, and economic stability. Her legislative priorities include reducing property taxes, improving access to healthcare, lowering prescription drug costs, and promoting safe and thriving communities.
 
-Representative Etchart is a fiscal conservative who will fight to eliminate unnecessary, duplicate, and excessive regulation. She will focus on policies that encourage economic growth, job creation and responsible natural resource development while decreasing inflation. Promoting safe communities, decreasing property taxes, improving access to health care and reducing costs of prescription drugs are also issues Jodee will focus on for you.
+Jodee's commitment to her constituents goes beyond policy. She is a staunch defender of constitutional freedoms and individual liberties, working tirelessly to protect the values that Montanans hold dear. Her efforts in the legislature have focused on fostering economic growth, supporting veterans and law enforcement, and ensuring that Montana remains a place where families can thrive.
+
+Outside of her professional life, Jodee is a devoted wife and mother. She and her husband have been married for over 22 years and share a love for Montana's natural beauty and community spirit. In her free time, Jodee enjoys gardening, target shooting, and planning events that bring people together.
+
+Jodee Etchart's leadership is defined by her unwavering dedication to the people of Montana. Her work in the legislature reflects her belief in the power of community, the importance of preserving individual freedoms, and the need to build a brighter future for all Montanans.
