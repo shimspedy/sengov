@@ -1,11 +1,11 @@
 ---
-date: 2024-05-26T11:54:12-05:00
+date: 2025-03-03T11:54:12-05:00
 title: "Larry Scott"
-seo_title: "contact Representative Larry Scott"
+seo_title: "contact Senator Larry Scott"
 subheader:
-     greeting: Contact Representative Larry Scott
-     description: Larry R. Scott is a member of the New Mexico House of Representatives, representing District 62. He assumed office on January 1, 2015. His current term ends on December 31, 2024.
-description: Contact Representative Larry Scott of New Mexico. Contact information for Larry Scott includes email address, phone number, and mailing address.
+     greeting: Contact Senator Larry Scott
+     description: Larry R. Scott is a Republican member of the New Mexico State Senate, representing District 42. He assumed office on January 1, 2025, and his current term is set to end on December 31, 2028.
+description: Contact Senator Larry Scott of New Mexico. Contact information for Larry Scott includes email address, phone number, and mailing address.
 image: larry-scott.jpeg
 video:
 url: /states/new-mexico/larry-scott/
@@ -16,19 +16,19 @@ layout: course_home
 name: Larry Scott
 state: New Mexico
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2015
-mailing1: State Capitol Building Room 203GN Room #100 Santa Fe, NM 87501
-phone1: 505-986-4450
-website: https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT/
-email : https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT/
+elected: 2025
+mailing1: State Capitol Building Room 415B Room # 400 Santa Fe, NM 87501
+phone1: 505-986-4701
+website: https://www.nmlegis.gov/Members/Legislator?SponCode=SSCOL/
+email : https://www.nmlegis.gov/Members/Legislator?SponCode=SSCOL/
 twitter: 
 ---
-Larry Ray Scott was born on March 24, 1952, in Hobbs, New Mexico. He attended the University of Texas at Austin, earning a Bachelor of Science degree in electrical engineering. Prior to entering politics, Scott worked as an engineer and was the president of Lynx Petroleum Consultants, an oil and gas company based in Hobbs, New Mexico.
+Larry R. Scott is a Republican member of the New Mexico State Senate, representing District 42. He assumed office on January 1, 2025, and his current term is set to end on December 31, 2028.
 
-Scott is a member of the Republican Party. Since his election in 2014, Scott has not faced an opponent for re-election. In 2020, Scott opposed an economic recovery bill, criticizing the state's decision to shut down the economy during the COVID-19 pandemic.
+Born on March 24, 1952, in Hobbs, New Mexico, Larry Scott has had a distinguished career as a businessman, engineer, and politician. He earned a Bachelor of Science degree in electrical engineering from the University of Texas at Austin. Before entering politics, Scott worked extensively in the oil and gas industry. He served as the president of Lynx Petroleum Consultants, a company based in Hobbs, New Mexico, where he gained significant expertise and leadership experience.
 
-As of 2024, Larry R. Scott is a member of the New Mexico House of Representatives, representing District 62. He assumed office on January 1, 2015. His current term ends on December 31, 2024. Scott is also running for election to the New Mexico State Senate to represent District 42. He is on the ballot in the Republican primary on June 4, 2024.
+Scott's political journey began in the New Mexico House of Representatives, where he served from 2015 to 2024. During his tenure, he was known for his focus on energy policies, taxation, and economic development. In 2024, he transitioned to the New Mexico State Senate after winning the election for District 42. His campaign emphasized his commitment to representing the interests of his constituents and addressing key issues such as energy independence and economic growth.
 
-Throughout his tenure, Scott has been assigned to various committees including the Energy, Environment and Natural Resources Committee, and the Taxation & Revenue Committee. His professional experience includes being the president of Lynx Petroleum Consultants. His contributions and efforts have been significant in shaping the policies and directions of these committees.
+Throughout his career, Larry Scott has been recognized for his dedication to public service and his ability to navigate complex policy challenges. His background in engineering and business has provided him with a unique perspective on legislative matters, particularly those related to energy and infrastructure. As a senator, he continues to advocate for policies that promote economic prosperity and improve the quality of life for the residents of his district.

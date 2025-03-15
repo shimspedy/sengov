@@ -1,11 +1,11 @@
 ---
-date: 2024-05-26T11:54:12-05:00
+date: 2025-03-03T11:54:12-05:00
 title: "Natalie Figueroa"
-seo_title: "contact Representative Natalie Figueroa"
+seo_title: "contact Senator Natalie Figueroa"
 subheader:
-     greeting: Contact Representative Natalie Figueroa
-     description: Natalie Figueroa is an American politician and educator serving as a member of the New Mexico House of Representatives from the 30th district, which includes a portion of Bernalillo County. She is a member of the Democratic Party.
-description: Contact Representative Natalie Figueroa of New Mexico. Contact information for Natalie Figueroa includes email address, phone number, and mailing address.
+     greeting: Contact Senator Natalie Figueroa
+     description: Natalie Figueroa is a member of the Democratic Party serving in the New Mexico State Senate, representing District 18. She assumed office on January 1, 2025, and her current term is set to end on December 31, 2028.
+description: Contact Senator Natalie Figueroa of New Mexico. Contact information for Natalie Figueroa includes email address, phone number, and mailing address.
 image: natalie-figueroa.jpeg
 video:
 url: /states/new-mexico/natalie-figueroa/
@@ -16,28 +16,21 @@ layout: course_home
 name: Natalie Figueroa
 state: New Mexico
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: State Capitol Building Room 203AN Room #100 Santa Fe, NM 87501
-phone1: 505-986-4255
-website: https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU/
-email : https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU/
-twitter: 
+elected: 2025
+mailing1: State Capitol Building Room 416F Room # 400 Santa Fe, NM 8750
+phone1:  505-986-4266
+website: https://www.nmlegis.gov/Members/Legislator?SponCode=SFIGU/
+email : https://www.nmlegis.gov/Members/Legislator?SponCode=SFIGU/
+twitter:
 ---
-Natalie Figueroa is an American politician and educator serving as a member of the New Mexico House of Representatives from the 30th district, which includes a portion of Bernalillo County. She is a member of the Democratic Party.
+Natalie Figueroa is a member of the Democratic Party serving in the New Mexico State Senate, representing District 18. She assumed office on January 1, 2025, and her current term is set to end on December 31, 2028.
 
-Education:
-Figueroa earned a Bachelor of Arts degree from Stanford University and a Master of Education from the University of California, Los Angeles. Her education has played a significant role in shaping her political career and her approach to policy-making.
+Natalie Figueroa has a rich background in education and public service. She earned her Bachelor of Arts degree from Stanford University and a Master of Education from the University of California, Los Angeles. Before entering politics, she dedicated over 30 years to teaching Spanish and mentoring educators. Her career included roles such as the director of the Global Studies Center at Alexander Hamilton High School, a trainer for the National Board of Professional Teaching Standards, and the chair of the Modern, Classical, and Native Language Department at Volcano Vista High School. She was also a Fulbright-Hays Scholar in 1999, which highlights her commitment to global education and cultural exchange.
 
-Career:
-Before entering politics, Figueroa worked as a Spanish teacher in Albuquerque. This experience in education has undoubtedly influenced her political career and her focus on educational policies. In 2016, she ran unsuccessfully for a seat in the New Mexico House of Representatives. However, she did not let this setback deter her. She ran again in 2018, this time successfully, succeeding incumbent Republican and House Minority Leader, Nate Gentry, who did not run for re-election.
+Figueroa's journey into politics began with her passion for improving education and advocating for her community. She previously served in the New Mexico House of Representatives for District 30, where she worked on various legislative initiatives aimed at enhancing public safety, expanding broadband access, and improving educational outcomes. Her leadership extended to serving on multiple committees, including the State Government, Elections & Indian Affairs Committee, and the Labor, Veterans' and Military Affairs Committee.
 
-Tenure:
-Figueroa assumed office on January 1, 2019. Her current term ends on December 31, 2024. During her tenure, she has been assigned to several committees. In 2019-2020, she was assigned to the House Education Committee and the Commerce & Economic Development Committee, where she served as Vice Chair. In 2021-2022, she continued her service on the Commerce & Economic Development Committee as Vice chair and was also assigned to the House Education Committee. For the 2023-2024 term, she was assigned to the State Government, Elections & Indian Affairs Committee, where she serves as Vice Chair, and the Labor, Veterans' And Military Affairs Committee.
+Beyond her legislative work, Natalie Figueroa has been actively involved in numerous organizations. She has served as a board member for the American Council of Teachers of Foreign Language and the Southwest Conference on Language Teaching. Her community engagement includes volunteering with the Asbury Café and the Joshua Foundation, as well as participating in the Loma Del Rey Neighborhood Association.
 
-Future Plans:
-Figueroa is running for election to the New Mexico State Senate to represent District 18. She is on the ballot in the Democratic primary on June 4, 2024. This move indicates her ambition and commitment to serving the people of New Mexico at a higher level.
-
-In conclusion, Natalie Figueroa's career is marked by her dedication to public service, her focus on education, and her resilience in the face of setbacks. As she continues her political journey, she remains a significant figure in New Mexico's political landscape.
-
+Throughout her career, Figueroa has been a strong advocate for public safety, education reform, and community development. Her dedication to her constituents and her ability to address pressing issues make her a respected leader in New Mexico's political landscape.

@@ -1,11 +1,11 @@
 ---
-date: 2024-05-26T11:54:12-05:00
+date: 2025-03-03T11:54:12-05:00
 title: "Candy Ezzell"
-seo_title: "contact Representative Candy Ezzell"
+seo_title: "contact Senator Candy Ezzell"
 subheader:
-     greeting: Contact Representative Candy Ezzell
-     description: Candy Spence Ezzell, born on November 26, 1953, in Artesia, New Mexico, is an American politician and a Republican member of the New Mexico House of Representatives. She has been representing District 58 since January 2005.
-description: Contact Representative Candy Ezzell of New Mexico. Contact information for Candy Ezzell includes email address, phone number, and mailing address.
+     greeting: Contact Senator Candy Ezzell
+     description: Candy Spence Ezzell is a Republican member of the New Mexico State Senate, representing District 32. She assumed office on January 1, 2025, and her current term is set to end on December 31, 2028.
+description: Contact Senator Candy Ezzell of New Mexico. Contact information for Candy Ezzell includes email address, phone number, and mailing address.
 image: candy-ezzell.jpeg
 video:
 url: /states/new-mexico/candy-ezzell/
@@ -16,24 +16,21 @@ layout: course_home
 name: Candy Ezzell
 state: New Mexico
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2005
-mailing1: State Capitol Building Room 203IN Room #100 Santa Fe, NM 87501
-phone1: 505-986-4454
-website: https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE/
-email : https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE/
+elected: 2025
+mailing1: State Capitol Building Room 415H Room # 400 Santa Fe, NM 87501
+phone1: 505-986-4381
+website: https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE/
+email : https://www.nmlegis.gov/Members/Legislator?SponCode=SEZZE/
 twitter: candyezzell
 ---
-Candy Spence Ezzell, born on November 26, 1953, in Artesia, New Mexico, is an American politician and a Republican member of the New Mexico House of Representatives. She has been representing District 58 since January 2005.
+Candy Spence Ezzell is a Republican member of the New Mexico State Senate, representing District 32. She assumed office on January 1, 2025, and her current term is set to end on December 31, 2028.
 
-Ezzell attended Eastern New Mexico University and New Mexico State University for her education. Her professional experience includes being the owner and operator of 2 C Slash Ranch. 
+Born and raised in Artesia, New Mexico, Candy Spence Ezzell has dedicated her life to serving her community and state. Before her tenure in the State Senate, she served as a member of the New Mexico House of Representatives for District 58 from 2005 to 2024. Her extensive experience in public service has made her a respected figure in New Mexico politics.
 
-In her political career, Ezzell has had a series of successful elections. In 2004, she challenged District 58 incumbent Democratic Representative Pauline Ponce and won the three-way General election with 54.6% votes against Representative Ponce and Libertarian candidate George Peterson. 
+In addition to her political career, Ezzell is a rancher and the owner and operator of the 2 C Slash Ranch. Her deep connection to the agricultural community has shaped her legislative priorities, particularly in areas related to agriculture, water resources, and rural development. She has been an active member of various committees throughout her career, including the Agriculture & Water Resources Committee, where she has served as a ranking member.
 
-In the 2006 general election, she won with 54.1% votes against Democratic nominee Pablo Martinez. In the 2008 General election, she won with 61.6% votes against her returning 2004 opponent George Peterson, who was running as a Democrat. In the 2010 General election, she won with 64.9% votes against Democratic nominee Michael Trujillo.
+Ezzell is also a lifetime member of the New Mexico Cattle Growers Association, the North American Limousin Foundation, and the American Quarter Horse Association. Her commitment to these organizations reflects her passion for ranching and her dedication to preserving New Mexico's agricultural heritage.
 
-Ezzell has served on several committees during her tenure. These include the Agriculture & Water Resources Committee, House Education Committee, Consumer & Public Affairs Committee, and Energy, Environment and Natural Resources Committee among others.
-
-As of 2024, Ezzell is running for election to the New Mexico State Senate to represent District 32. She is on the ballot in the Republican primary.
-
+Candy Spence Ezzell's leadership and advocacy have earned her recognition and respect across the state. She continues to work tirelessly to address the needs of her constituents and to promote policies that benefit the people of New Mexico. Her career is a testament to her unwavering commitment to public service and her community.

@@ -1,11 +1,11 @@
 ---
-date: 2024-05-22T11:54:12-05:00
+date: 2025-03-03T11:54:12-05:00
 title: "Benjie Wimberly"
-seo_title: "contact Representative Benjie Wimberly"
+seo_title: "contact Senator Benjie Wimberly"
 subheader:
-     greeting: Contact Representative Benjie Wimberly
-     description: Benjie E. Wimberly (born December 1, 1964) is an American teacher and Democratic Party politician who represents the 35th Legislative District in the New Jersey General Assembly.
-description: Contact Representative Benjie Wimberly of New Jersey. Contact information for Benjie Wimberly includes email address, phone number, and mailing address.
+     greeting: Contact Senator Benjie Wimberly
+     description: Benjie Wimberly is a Democratic Party member serving in the New Jersey State Senate, representing District 35. He assumed office on January 30, 2025, and his current term is set to end on January 11, 2028.
+description: Contact Senator Benjie Wimberly of New Jersey. Contact information for Benjie Wimberly includes email address, phone number, and mailing address.
 image: benjie-wimberly.jpeg
 video:
 url: /states/new-jersey/benjie-wimberly/
@@ -16,31 +16,23 @@ layout: course_home
 name: Benjie Wimberly
 state: New Jersey
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2012
-mailing1: State House PO Box 098 Trenton, NJ 08625-0098
-phone1: 609-847-3500
-website: https://www.njleg.state.nj.us/legislative-roster/347/assemblyman-wimberly/
-email : https://www.njleg.state.nj.us/legislative-roster/347/assemblyman-wimberly/
+elected: 2025
+mailing1: State House Room 115 Trenton, NJ 08625-0099
+phone1: 609-847-3700
+website: https://www.njleg.state.nj.us/legislative-roster/499/senator-wimberly/
+email : https://www.njleg.state.nj.us/legislative-roster/499/senator-wimberly/
 twitter: benjiewimberly
 ---
-Benjie E. Wimberly, born on December 1, 1964, is an American teacher and Democratic Party politician. He represents the 35th Legislative District in the New Jersey General Assembly. Beyond his political career, Wimberly has made significant contributions as a football coach and educator.
+Benjie Wimberly is a Democratic Party member serving in the New Jersey State Senate, representing District 35. He assumed office on January 30, 2025, and his current term is set to end on January 11, 2028.
 
-**Education:**
-Wimberly graduated from Passaic County Technical Institute in Wayne, New Jersey. He then attended Virginia State University, where he earned a Bachelor of Arts degree in sociology.
+Born and raised in Paterson, New Jersey, Wimberly has dedicated much of his life to public service and community development. Before his tenure in the State Senate, he served in the New Jersey General Assembly from 2012 to 2025, representing the same district. During his time in the Assembly, he held significant roles, including Speaker Pro Tempore and Vice Chair of the Budget Committee. His legislative work often focused on education, housing, and economic justice, reflecting his commitment to improving the lives of his constituents.
 
-**Football Coach:**
-Wimberly's coaching journey began as an assistant coach for Eastside High School in Paterson from 1989 to 1994. Later, he served as the head coach of the football team at Paterson Catholic High School from 1995 to 2010. During his tenure at Paterson Catholic, Wimberly achieved an impressive 70-3 win-loss record and mentored Victor Cruz. The team secured seven state championships under his leadership.
+Wimberly's professional background is as diverse as it is impactful. He earned a Bachelor of Arts degree in sociology from Virginia State University and has worked as a special education teacher. His passion for youth development extended beyond the classroom, as he also served as the Director of the Paterson Division of Recreation. In this role, he played a pivotal part in organizing community programs and fostering opportunities for young people.
 
-In 2012, Wimberly became the head coach of the football team at Hackensack High School, succeeding Mike Miello. Simultaneously, he took on the role of Paterson's Recreation Director.
+In addition to his educational and legislative contributions, Wimberly has a storied career in sports coaching. He was the head football coach at Paterson Catholic High School, where he led the team to multiple state championships. Later, he took on the role of head coach at Hackensack High School, continuing his legacy of mentorship and athletic excellence.
 
-**Elective Office:**
-Wimberly's political career took off when he was elected to the Paterson city council in 2010. His campaign strategy, inspired by Barack Obama's youth-focused approach during the 2008 presidential election, resonated with young voters. In 2011, he won a seat in the New Jersey General Assembly and was reelected in 2013. Notably, Wimberly co-sponsored Assembly Bill 4454 (now N.J.S.A. 18A:35-4.36a), which mandates diversity and inclusion curriculum in schools from kindergarten through twelfth grade.
+Wimberly's dedication to his community is further exemplified by his tenure as a Paterson City Councilman from 2010 to 2012. His ability to connect with residents and address their concerns has made him a respected figure in local and state politics.
 
-**Committee Assignments (2024-2025):**
-- Budget (Vice-chair)
-- Higher Education
-- Housing
-
-Wimberly continues to serve as a dedicated representative for the 35th District, advocating for education, diversity, and community well-being.
+Beyond his professional achievements, Wimberly is a family man. He and his wife, Kimberlynn, are proud parents to four sons and grandparents to a grandson. His personal and professional life reflects a deep commitment to service, education, and community empowerment.
