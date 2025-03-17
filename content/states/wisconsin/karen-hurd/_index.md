@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Karen Hurd"
 seo_title: "contact Representative Karen Hurd"
 subheader:
      greeting: Contact Representative Karen Hurd
-     description: Karen Hurd, born in 1958, is an American politician affiliated with the Republican Party. She assumed office as a member of the Wisconsin State Assembly, representing District 68, on January 3, 2023.
+     description: Karen Hurd is a Republican member of the Wisconsin State Assembly, representing the 69th Assembly District. She assumed office on January 6, 2025, and her current term is set to end in January 2027.
 description: Contact Representative Karen Hurd of Wisconsin. Contact information for Karen Hurd includes email address, phone number, and mailing address.
 image: karen-hurd.jpeg
 video:
@@ -19,25 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2023
-mailing1: State Capitol Room 15 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9168
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2552/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2552/
+mailing1: State Capitol Room 321 East PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9169
+website: https://legis.wisconsin.gov/assembly/69/hurd//
+email : https://legis.wisconsin.gov/assembly/69/hurd//
 twitter: 
 ---
-Karen Ruth Hurd (née Willa; born 1958) is an American nutritionist, writer, and Republican politician hailing from Eau Claire County, Wisconsin. She has been serving as a member of the Wisconsin State Assembly, representing the 68th Assembly district since January 2023. Notably, she is also an active member of the village board in Fall Creek, Wisconsin.
+Karen Hurd is a Republican member of the Wisconsin State Assembly, representing the 69th Assembly District. She assumed office on January 6, 2025, and her current term is set to end in January 2027.
 
-**Early Life and Military Service:**
-Karen was born as Karen Willa in Texas. Her parents' divorce during her childhood led her to move to Missouri, where she graduated from Kirkwood High School in 1976. Later, she attended Truman State University, earning her bachelor's degree in 1980. While in college, she participated in the Reserve Officers' Training Corps (ROTC) and was commissioned as a second lieutenant in the United States Army upon graduation. Karen served honorably for four years, achieving the rank of captain before her discharge in 1984. Her outstanding service earned her the Army Commendation Medal.
+Born in Texas in 1958, Karen Hurd has had a diverse and accomplished career. She graduated from Truman State University in 1980 with a Bachelor of Arts in Spanish and a minor in German. During her time at university, she participated in the Reserve Officers' Training Corps (ROTC) and was commissioned as a second lieutenant in the United States Army upon graduation. She served in the Army from 1980 to 1984, achieving the rank of captain and receiving the Army Commendation Medal for her outstanding service.
 
-**Advocacy and Nutrition Practice:**
-After leaving the Army, Karen focused on her growing family in St. Louis, Missouri. However, a pivotal moment occurred in 1989 when her infant daughter was poisoned by a household pesticide (Organophosphate). Determined to find alternative treatment options, Karen administered a nutrition plan that successfully restored her daughter's health. This experience ignited her passion for nutrition and biology.
+After her military career, Hurd focused on her family and later pursued a career in nutrition. Her interest in nutrition was sparked by a personal experience when her infant daughter was poisoned by a household pesticide. Determined to find a solution, she studied alternative treatment options and successfully restored her daughter's health through a nutrition plan. This experience led her to further her education in nutrition and biology. She earned a diploma in comprehensive nutrition from Huntington College of Health Sciences in 1994 and later completed a Master of Science in Biochemistry from the University of Saint Joseph in 2017.
 
-She furthered her education by attending the American Academy of Nutrition (now Huntington University of Health Sciences), where she received a diploma in comprehensive nutrition in 1994. Subsequently, Karen established her nutrition practice, Karen R. Hurd Nutrition Practice LLC. Her journey didn't stop there—she moved to Fall Creek, Wisconsin, with her family in the late 1990s.
+Hurd established her own nutrition practice, Karen R. Hurd Nutrition Practice LLC, and became an advocate for nutrition education. She has authored several books and digital courses on the subject and has been a speaker on various platforms. In addition to her work in nutrition, she has been involved in her community, serving as a trustee for the Village of Fall Creek and participating in various local organizations.
 
-**Education and Advocacy:**
-Karen's thirst for knowledge persisted. She attended courses at the University of Wisconsin–Eau Claire and ultimately completed her master's degree in biochemistry in 2017 from the University of Saint Joseph (online). An outspoken advocate on nutrition issues, Karen has shared her findings through radio appearances, speaking engagements, and self-published books. Her dedication extends to digital coursework as well.
-
-Currently, Karen Hurd is pursuing a master's in public health from George Washington University (also online). Beyond her political role, she has recently worked as a substitute teacher in the Fall Creek School System.
-
-Karen's multifaceted journey—from military service to nutrition advocacy and political leadership—reflects her commitment to making a positive impact.
+Her political career began with her election to the Wisconsin State Assembly, where she has been an active legislator. Hurd's dedication to public service is evident in her committee work and her efforts to address the needs of her constituents. She continues to reside in the Town of Withee, Wisconsin, with her family, and remains committed to serving her community and state.

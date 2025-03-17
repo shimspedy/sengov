@@ -1,11 +1,11 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Dan Knodl"
-seo_title: "contact Senator Dan Knodl"
+seo_title: "contact Representative Dan Knodl"
 subheader:
-     greeting: Contact Senator Dan Knodl
-     description: Daniel Knodl, born on December 14, 1958, is an American politician affiliated with the Republican Party. He is a member of the Wisconsin State Senate, representing District 8. He assumed office on May 3, 2023.
-description: Contact Senator Dan Knodl of Wisconsin. Contact information for Dan Knodl includes email address, phone number, and mailing address.
+     greeting: Contact Representative Dan Knodl
+     description: Dan Knodl is a Republican member of the Wisconsin State Assembly, representing District 24. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
+description: Contact Representative Dan Knodl of Wisconsin. Contact information for Dan Knodl includes email address, phone number, and mailing address.
 image: dan-knodl.jpeg
 video:
 url: /states/wisconsin/dan-knodl/
@@ -16,31 +16,21 @@ layout: course_home
 name: Dan Knodl
 state: Wisconsin
 party: Republican
-role: Senator
+role: Representative
 inoffice: current
-elected: 2023
-mailing1:  State Capitol Room 108 South PO Box 7882 Madison, WI 53707-7882
-phone1: 608-266-5830
-website: https://docs.legis.wisconsin.gov/2023/legislators/senate/2688/
-email : https://docs.legis.wisconsin.gov/2023/legislators/senate/2688/
+elected: 2025
+mailing1: State Capitol Room 221 North PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9124
+website: https://docs.legis.wisconsin.gov/2025/legislators/assembly/2849/
+email : https://docs.legis.wisconsin.gov/2025/legislators/assembly/2849/
 twitter: 
 ---
-Daniel Raymond Knodl (born December 14, 1958) is an American Republican politician from Washington County, Wisconsin. He is a member of the Wisconsin Senate, having won a 2023 special election to represent the 8th State Senate district. Prior to this, he served 14 years in the Wisconsin State Assembly, representing the 24th Assembly district.
+Dan Knodl is a Republican member of the Wisconsin State Assembly, representing District 24. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-Early Life and Education:
-Born in Milwaukee, Knodl was raised in Menomonee Falls, Wisconsin, and graduated from Menomonee Falls East High School in 1977. He briefly attended the University of Wisconsin–Madison.
+Born on December 14, 1958, in Milwaukee, Wisconsin, Dan Knodl grew up in Menomonee Falls, where he graduated from Menomonee Falls East High School in 1977. He briefly attended the University of Wisconsin–Madison before embarking on a career as a business owner. Knodl's professional experience includes owning and operating the Reef Point Resort, showcasing his entrepreneurial spirit.
 
-Career Highlights:
-- First elected to the Washington County board of supervisors in 2006.
-- Won his first term in the Wisconsin State Assembly in 2008, representing the 24th Assembly district.
-- Re-elected seven times in the same district.
-- On January 5, 2021, Knodl signed a letter to Vice President Mike Pence asking to delay certification of the 2020 United States presidential election.
-- In 2023, he won the Republican primary race for the 8th state senate district and defeated Democrat Jodi Habush Sinykin in the general election.
-- Knodl was sworn in as a state senator on May 3, 2023.
-- After redistricting in 2024, he chose not to seek re-election to the Senate but instead ran for his old seat in the 24th Assembly district.
+Knodl's political journey began with his election to the Washington County Board of Supervisors in 2006. Two years later, he successfully ran for the Wisconsin State Assembly, representing District 24. He served in this role from 2009 until 2023, during which he was re-elected multiple times, demonstrating his strong connection with his constituents. In 2023, he transitioned to the Wisconsin State Senate after winning a special election to represent the 8th Senate District. However, following redistricting changes, Knodl decided to return to the Assembly, reclaiming his seat in District 24 in 2025.
 
-Personal Details:
-- Spouse: Diana Maria Bertieri (divorced in 2003)
-- Residence: Germantown, Wisconsin
+Throughout his career, Knodl has been an active member of his community, participating in organizations such as the Ozaukee/Washington Land Trust, the Pike Lake Sportsmans Club, and the MF Optimist Club. His dedication to public service is further reflected in his leadership roles, including serving as Majority Caucus Chair and Assistant Majority Leader during his tenure in the Assembly.
 
-Senator Knodl remains an active figure in Wisconsin politics, advocating for his constituents and contributing to legislative discussions.
+Dan Knodl's legislative priorities have often focused on government accountability, public benefit reform, and urban revitalization. His commitment to these issues underscores his dedication to improving the lives of his constituents and addressing the challenges facing his district. With a career spanning nearly two decades in public service, Knodl continues to be a prominent figure in Wisconsin politics.

@@ -1,11 +1,11 @@
 ---
-date: 2024-07-26T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Darren Thorne"
-seo_title: "contact Representative Darren Thorne"
+seo_title: "contact Senator Darren Thorne"
 subheader:
-     greeting: Contact Representative Darren Thorne
-     description: Darren Thorne is an American politician affiliated with the Republican Party. He serves as a member of the West Virginia House of Delegates, representing District 89, and assumed office on December 1, 2022.
-description: Contact Representative Darren Thorne of West Virginia. Contact information for Darren Thorne includes email address, phone number, and mailing address.
+     greeting: Contact Senator Darren Thorne
+     description: Darren Thorne is a Republican member of the West Virginia State Senate, representing District 15. He assumed office on January 3, 2025, and his current term is set to end on December 1, 2028.
+description: Contact Senator Darren Thorne of West Virginia. Contact information for Darren Thorne includes email address, phone number, and mailing address.
 image: darren-thorne.jpeg
 video:
 url: /states/west-virginia/darren-thorne/
@@ -16,28 +16,27 @@ layout: course_home
 name: Darren Thorne
 state: West Virginia
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2023
-mailing1: Room 212M, Bldg. 1 Room 222E Bldg 1 State Capitol Complex Charleston, WV 25305
-phone1: 304-340-3157
-website: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne/
-email : https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne/
-twitter:
+elected: 2025
+mailing1: Room 211M, Bldg. 1 Room 200W State Capitol Complex Charleston, WV 25305
+phone1: 304-357-7880 
+website: https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne/
+email : https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Thorne/
+twitter: 
 ---
-Darren Thorne assumed office on December 1, 2022, and his current term will end on December 1, 2024. He was elected in the general election held on November 8, 2022, and is now seeking re-election in the upcoming general election on November 5, 2024.
+Darren Thorne is a Republican member of the West Virginia State Senate, representing District 15. He assumed office on January 3, 2025, and his current term is set to end on December 1, 2028.
 
-Before entering politics, Thorne worked as a farmer. His experiences in agriculture likely inform his legislative priorities and understanding of rural issues.
+Born and raised in Hampshire County, West Virginia, Darren Thorne has deep roots in his community. His upbringing on a family farm instilled in him a strong work ethic and a commitment to serving others. Thorne pursued his education locally, graduating from Hampshire High School before attending West Virginia University, where he earned a degree in Agricultural Science. His academic background reflects his lifelong connection to farming and rural development.
 
-Within the West Virginia House of Delegates, Thorne serves on several committees:
+Thorne's professional career has been centered around agriculture and public service. As a farmer, he has been actively involved in promoting sustainable farming practices and supporting local agricultural initiatives. His dedication to the farming community has earned him recognition as a leader in the field. In addition to his work in agriculture, Thorne has served on various local boards and committees, contributing to the development and well-being of his district.
 
-Agriculture and Natural Resources Committee
-House Banking and Insurance Committee
-Economic Development Committee
-House Education Committee
-Fire Departments and Emergency Medical Services Committee
-In the 2024 general election, Thorne faces competition from Alyson Reeves (D) for the District 89 seat. The race promises to be closely watched, and voters will decide whether to re-elect Thorne or choose a new representative.
+Before joining the State Senate, Thorne served as a member of the West Virginia House of Delegates, representing District 89. During his tenure in the House, he gained valuable legislative experience and built a reputation as a pragmatic and results-oriented leader. His appointment to the State Senate in December 2024 by Governor Jim Justice marked a significant milestone in his political career.
 
-Thorne successfully advanced from the Republican primary held on May 14, 2024. Alyson Reeves secured the Democratic nomination in the same primary.
+In the West Virginia State Senate, Thorne has been an active participant in several key committees, including Agriculture and Natural Resources, Banking and Insurance, Economic Development, and Education. His legislative priorities include supporting rural communities, improving access to quality education, and fostering economic growth in his district. Thorne's approach to governance is characterized by his focus on practical solutions and his commitment to addressing the needs of his constituents.
 
-As a member of the West Virginia House of Delegates, Thorne receives a base salary of $20,000 per year. Additionally, he is eligible for per diem payments: $75 per day for members who commute daily and $175 per day for those who do not.
+Thorne is also deeply committed to his community outside of his legislative duties. He is a member of organizations such as the West Virginia Farm Bureau, the Hampshire County Chamber of Commerce, and the Rotary Club. These affiliations underscore his dedication to community engagement and development.
+
+Family plays a central role in Thorne's life. He is married to his high school sweetheart, Emily, and together they have three children. The Thorne family continues to reside on their farm in Hampshire County, where they enjoy the simple joys of rural life. Thorne's parents, who were also lifelong residents of the area, have been a source of inspiration and guidance throughout his life.
+
+Darren Thorne's journey from a family farm to the West Virginia State Senate exemplifies his dedication to public service and his unwavering commitment to making a positive impact on his community and state. His leadership and vision continue to shape the future of District 15 and beyond.

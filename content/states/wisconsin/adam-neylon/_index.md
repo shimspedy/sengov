@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Adam Neylon"
 seo_title: "contact Representative Adam Neylon"
 subheader:
      greeting: Contact Representative Adam Neylon
-     description: Adam Neylon, born December 30, 1984, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 98, on April 16, 2013.
+     description: Adam Neylon is a Republican member of the Wisconsin State Assembly, representing the 15th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Adam Neylon of Wisconsin. Contact information for Adam Neylon includes email address, phone number, and mailing address.
 image: adam-neylon.jpeg
 video:
@@ -20,17 +20,19 @@ role: Representative
 inoffice: current
 elected: 2013
 mailing1: State Capitol Room 204 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9198
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2492/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2492/
+phone1: 608-237-9115
+website: https://legis.wisconsin.gov/assembly/15/neylon/
+email : https://legis.wisconsin.gov/assembly/15/neylon/
 twitter: repadamneylon
 ---
-Adam Neylon, born on December 30, 1984, hails from Elgin, Illinois, and was raised in West Dundee, Illinois. He graduated from Harry D. Jacobs High School in Algonquin, Illinois, and later attended Carroll University, where he earned a degree in political science in 2008. During his college years, Neylon also played second base on the university's baseball team.
+Adam Neylon is a Republican member of the Wisconsin State Assembly, representing the 15th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-After completing his education, Neylon delved into Wisconsin politics. His journey included serving as a member of The Sensenbrenner Committee Primary Campaign Staff, working as an Absentee Ballot Director for the Republican National Committee, and serving as a Congressional Staff member for the Office of Congressman Jim Sensenbrenner. In 2010, he founded his own commercial window cleaning company.
+Born on December 30, 1984, in Elgin, Illinois, Neylon grew up in West Dundee, Illinois, and graduated from Harry D. Jacobs High School in Algonquin. He later attended Carroll University, where he earned a degree in political science in 2008. During his time at Carroll, he was an active member of the baseball team, playing second base.
 
-In a special election held on April 2, 2013, Neylon was elected to represent the 98th District in the Wisconsin State Assembly as a Republican from Waukesha County. He has since been re-elected in 2014 and 2016. Neylon resides in Pewaukee, Wisconsin, with his wife Hannah and their children, Elizabeth Grace and Thomas Robert.
+Neylon's career in politics began with various roles, including serving as a member of The Sensenbrenner Committee Primary Campaign Staff in 2008 and working as an Absentee Ballot Director for the Republican National Committee the same year. He also served as a Congressional Staff member for Congressman Jim Sensenbrenner from 2008 to 2010 and as a Policy Advisor for the Wisconsin State Assembly from 2011 to 2012. In 2010, Neylon ventured into entrepreneurship by starting his own commercial window cleaning business.
 
-Throughout his political career, Neylon has championed issues such as tax cuts, reduced long-term borrowing, and opposition to DNA collection upon arrest. He has also been actively involved in legislative committees, including serving as Chairman of the Assembly Committee on Jobs and the Economy and Chairman of Wisconsin's Small Business Regulatory Review Board.
+In 2013, Neylon was elected to the Wisconsin State Assembly's 98th District in a special election. He quickly gained recognition as a rising star within the Republican Party, championing issues such as tax cuts, reduced long-term borrowing, and opposing DNA collection upon arrest. Over the years, he has held significant leadership roles, including serving as Chairman of the Assembly Committee on Jobs and the Economy and Chairman of Wisconsin's Small Business Regulatory Review Board.
 
-Adam Neylon continues to make his mark in Wisconsin politics, combining his business acumen with a commitment to public service.
+Neylon has also been actively involved in various initiatives and task forces, such as the Assembly Speaker's Task Force on Foster Care and the Task Force on Artificial Intelligence. He was selected to attend the Bowhay Institute for Legislative Leadership Development fellowship in 2014, further solidifying his reputation as a dedicated and forward-thinking legislator.
+
+Currently residing in Pewaukee, Wisconsin, Neylon lives with his wife, Hannah, and their two children, Elizabeth Grace and Thomas Robert. His commitment to public service and his community continues to define his career in the Wisconsin State Assembly.

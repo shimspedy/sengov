@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Barbara Dittrich"
 seo_title: "contact Representative Barbara Dittrich"
 subheader:
      greeting: Contact Representative Barbara Dittrich
-     description: Barbara Dittrich, born May 21, 1964, is an American politician affiliated with the Republican Party. She serves as a member of the Wisconsin State Assembly, representing District 38, and assumed office in 2019.
+     description: Barbara Dittrich is a Republican member of the Wisconsin State Assembly, representing the 99th Assembly District. She assumed office on January 6, 2025, and her current term is set to end in January 2027.
 description: Contact Representative Barbara Dittrich of Wisconsin. Contact information for Barbara Dittrich includes email address, phone number, and mailing address.
 image: barbara-dittrich.jpeg
 video:
@@ -20,13 +20,17 @@ role: Representative
 inoffice: current
 elected: 2019
 mailing1: State Capitol Room 317 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9138
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2460/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2460/
+phone1: 608-237-9199
+website: https://legis.wisconsin.gov/assembly/99/Dittrich/
+email : https://legis.wisconsin.gov/assembly/99/Dittrich/
 twitter: repdittrich
 ---
-Born in Milwaukee, Wisconsin, on May 21, 1964, Barbara Dittrich is an American politician. She was elected as a Republican to the Wisconsin State Assembly in 2018, securing victory over Democratic candidate Melissa Winker with 57.6 percent of the vote. Representing District 38, which encompasses areas around Oconomowoc and Lake Mills, Dittrich brings a wealth of experience to her role.
+Barbara Dittrich is a Republican member of the Wisconsin State Assembly, representing the 99th Assembly District. She assumed office on January 6, 2025, and her current term is set to end in January 2027.
 
-Her educational journey includes graduating from Hamilton High School in Sussex, Wisconsin, in 1982. She then attended Waukesha County Technical College in 1983 and later earned her degree from the University of Wisconsin-Milwaukee in 1986. Prior to her political career, Dittrich served as a non-profit leader for 16 years and worked as a financial advisor for 13 years. Additionally, she has experience as a small business owner.
+Born on May 21, 1964, in Milwaukee, Wisconsin, Barbara Dittrich has dedicated her career to public service and community involvement. She graduated from Hamilton High School in Sussex, Wisconsin, in 1982, and pursued further education at Waukesha County Technical College and the University of Wisconsin-Milwaukee. Before entering politics, Dittrich worked as a financial advisor for 13 years and was a small business owner. She also served as a nonprofit leader for 16 years, showcasing her commitment to making a difference in her community.
 
-Barbara Dittrich remains committed to providing information about state government to her constituents.
+Dittrich is an active member of various organizations, including the Oconomowoc Area Chamber of Commerce and Crosspoint Community Church. She has also been involved in several legislative caucuses, such as the Legislative Trails Caucus, the American Irish State Legislators Caucus, and the Taiwan Friendship Caucus. Her dedication to public service has earned her recognition, including the National Foundation for Women Legislators' Woman of Excellence award in 2019 and the Common Sense Wisconsin Inaugural Common Sense Award in 2021.
+
+Throughout her tenure in the Wisconsin State Assembly, Dittrich has focused on issues such as education, health care, and family support. She has served on multiple committees, including the Committee on Children and Families, the Committee on Education, and the Committee on Health, Aging, and Long-Term Care. Her legislative efforts reflect her commitment to addressing the needs of her constituents and improving the quality of life in her district.
+
+Barbara Dittrich's journey in public service is marked by her dedication to her community, her advocacy for important issues, and her unwavering commitment to representing the people of Wisconsin's 99th Assembly District.

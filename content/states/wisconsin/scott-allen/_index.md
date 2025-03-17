@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Scott Allen"
 seo_title: "contact Representative Scott Allen"
 subheader:
      greeting: Contact Representative Scott Allen
-     description: Scott Allen, born December 18, 1965, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 97, on January 5, 2015.
+     description: Scott Allen is a Republican member of the Wisconsin State Assembly, representing the 82nd Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Scott Allen of Wisconsin. Contact information for Scott Allen includes email address, phone number, and mailing address.
 image: scott-allen.jpeg
 video:
@@ -20,15 +20,19 @@ role: Representative
 inoffice: current
 elected: 2015
 mailing1: State Capitol Room 105 West PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9197
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2441/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2441/
+phone1: 608-237-9182
+website: https://legis.wisconsin.gov/assembly/82/allen/
+email : https://legis.wisconsin.gov/assembly/82/allen/
 twitter: 
 ---
-Scott Allen (born December 18, 1965) is an American businessman and Republican politician. He currently serves as a member of the Wisconsin State Assembly, representing central Waukesha County. Originally from Waukesha, Wisconsin, Scott has a background in real estate and holds a bachelor's degree in political science from the University of Wisconsin–Milwaukee, as well as a master's degree in urban planning and public administration from the University of Southern California. Prior to his political career, he served in the United States Army Reserve.
+Scott Allen is a Republican member of the Wisconsin State Assembly, representing the 82nd Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-In 2014, Scott Allen was elected to the Wisconsin State Assembly, where he represents Senate District 33 and Assembly District 97. He has been an active voice within the Republican party. Notably, he recorded a "Christmas message" for the Wisconsin Assembly Republicans' YouTube channel, where he encouraged hope and quoted from the Bible.
+Born on December 18, 1965, in Racine, Wisconsin, Scott Allen has built a career that spans public service, business, and community involvement. He graduated from Kettle Moraine High School and pursued higher education at the University of Wisconsin-Oshkosh and the University of Wisconsin-Waukesha before earning a bachelor's degree in political science from the University of Wisconsin-Milwaukee. He later obtained dual master's degrees in Urban Planning and Public Administration from the University of Southern California.
 
-Allen has also been involved in local politics, having served on the Waukesha Common Council. However, he has not shied away from controversy; in 2019, he criticized the flying of the Gay Pride flag over the Wisconsin capitol during LGBT Pride Month, deeming it divisive.
+Allen's professional journey includes extensive experience in real estate, where he worked in areas such as sales, land development, and home construction. His business acumen is complemented by his public sector experience, which includes serving on the Waukesha Common Council and working for the Los Angeles County Transportation Commission during a major public works project.
 
-Overall, Scott Allen's career has spanned business, military service, and politics, making him a notable figure in Wisconsin's political landscape.
+In addition to his professional achievements, Allen has a strong record of community service. He has contributed his time and resources to organizations such as the Waukesha Civic Theatre, Christ the Servant Church, and the Greater Milwaukee Association of Realtors. His commitment to public service is also evident in his military background; he served in the United States Army Reserve, achieving the rank of Sergeant and earning the Wisconsin Reserve Military Achievement Award.
+
+Scott Allen's legislative priorities reflect his dedication to transparency, good governance, and the well-being of his constituents. He has been an advocate for affordable homeownership, safe neighborhoods, and a high quality of life shaped by strong local economies and schools. His approach to governance emphasizes bipartisanship and consensus-building, aiming to address the challenges and opportunities facing Wisconsin's changing demographics.
+
+Throughout his career, Allen has remained deeply rooted in his faith and family. He is a member of Spring Creek Church and values the role of faith in guiding his personal and professional life. His dedication to his community and his state continues to drive his work in the Wisconsin State Assembly.

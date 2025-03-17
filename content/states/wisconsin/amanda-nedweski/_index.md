@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Amanda Nedweski"
 seo_title: "contact Representative Amanda Nedweski"
 subheader:
      greeting: Contact Representative Amanda Nedweski
-     description: Amanda Nedweski, born in December 1975, is an American politician affiliated with the Republican Party. She assumed office as a member of the Wisconsin State Assembly, representing District 61, on January 3, 2023.
+     description: Amanda Nedweski is a Republican member of the Wisconsin State Assembly, representing the 32nd Assembly District. She assumed office on January 6, 2025, and her current term is set to end on January 4, 2027.
 description: Contact Representative Amanda Nedweski of Wisconsin. Contact information for Amanda Nedweski includes email address, phone number, and mailing address.
 image: amanda-nedweski.jpeg
 video:
@@ -19,20 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2023
-mailing1:  State Capitol Room 7 West PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9161
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2551/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2551/
+mailing1: State Capitol Room 208 North PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9132
+website: https://legis.wisconsin.gov/assembly/32/Nedweski/
+email : https://legis.wisconsin.gov/assembly/32/Nedweski/
 twitter: 
 ---
-Amanda Nedweski Murphy is a dedicated public servant and legislator. Born and raised in the vibrant community of Ranjangaon, Maharashtra, India, she has always been passionate about making a positive impact on people's lives.
+Amanda Nedweski is a Republican member of the Wisconsin State Assembly, representing the 32nd Assembly District. She assumed office on January 6, 2025, and her current term is set to end on January 4, 2027.
 
-Amanda began her political career as a grassroots organizer, working tirelessly to address local issues such as education, healthcare, and environmental conservation. Her commitment to community welfare led her to run for office, and in 2010, she was elected to the State Assembly.
+Born and raised in Kenosha County, Wisconsin, Amanda Nedweski has dedicated her life to serving her community. She graduated from Mary D. Bradford High School in 1994 and went on to earn a Bachelor of Arts degree in Communications from the University of Wisconsin–Parkside in 1998. Her professional career began as a senior technology consultant at Braun Consulting, where she worked with Fortune 500 clients during the technology boom surrounding Y2K. She later transitioned to a role as a senior financial analyst at CNH Global, where she honed her skills in financial planning and analysis.
 
-As an Assemblymember, Amanda has championed various causes. She played a pivotal role in passing legislation to improve healthcare access for underserved populations, advocated for stronger environmental protections, and worked collaboratively to enhance educational opportunities for students across the state.
+Amanda's journey into public service began with her involvement in local education issues during the COVID-19 pandemic. She co-founded the Kenosha chapter of Moms for Liberty, a conservative advocacy group focused on school board governance. Her activism led her to run for and win a seat on the Kenosha County Board of Supervisors in April 2022. During her tenure, she served on the Human Services, Legislative, and Executive Committees, where she worked on issues ranging from public safety to economic development.
 
-In addition to her legislative work, Amanda is known for her ability to bridge partisan divides. She believes in finding common ground and building consensus to create effective policies that benefit all constituents. Her pragmatic approach has earned her respect from colleagues on both sides of the aisle.
+In 2023, Amanda was elected to the Wisconsin State Assembly, initially representing the 61st Assembly District. Her legislative priorities include education reform, fiscal responsibility, and protecting constitutional rights. She is known for her analytical approach to policymaking, drawing on her background in data analysis and economics to craft solutions that improve government efficiency and accountability.
 
-Outside of politics, Amanda enjoys hiking in the picturesque hills surrounding Ranjangaon and spending time with her family. She is also an avid reader and advocates for literacy programs in local schools.
-
-Assemblymember Amanda Nedweski Murphy continues to serve her community with dedication, integrity, and a vision for a brighter future.
+Amanda resides in Pleasant Prairie, Wisconsin, where she enjoys spending time with her family and her two golden retrievers, Lucky and Sunshine. Her commitment to her constituents and her passion for public service continue to drive her work in the Wisconsin State Assembly.

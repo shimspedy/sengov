@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Treig Pronschinske"
 seo_title: "contact Representative Treig Pronschinske"
 subheader:
      greeting: Contact Representative Treig Pronschinske
-     description: Treig Pronschinske, born July 7, 1978, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 92, in 2017.
+     description: Treig Pronschinske is a Republican member of the Wisconsin State Assembly, representing the 29th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Treig Pronschinske of Wisconsin. Contact information for Treig Pronschinske includes email address, phone number, and mailing address.
 image: treig-pronschinske.jpeg
 video:
@@ -19,14 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2017
-mailing1: State Capitol Room 127 West PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9192
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2502/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2502/
+mailing1: State Capitol Room 103 West PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9129
+website: https://legis.wisconsin.gov/assembly/29/Pronschinske/
+email : https://legis.wisconsin.gov/assembly/29/Pronschinske/
 twitter: 
 ---
-Treig E. Pronschinske, born on July 7, 1978, hails from Eau Claire, Wisconsin. He graduated from Memorial High School and holds a degree in Construction Management from Chippewa Valley Technical College. As a small business owner and general construction contractor, Treig has made his mark. Notably, he is ambidextrous—a unique skill! Since 2017, he has served as a member of the Wisconsin State Assembly, representing the 92nd Assembly district.
+Treig Pronschinske is a Republican member of the Wisconsin State Assembly, representing the 29th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-In 2017, Pronschinske was involved in a sex discrimination lawsuit, which was settled in 2019 with the city of Mondovi paying $325,000 in the settlement. More recently, in 2022, he raised questions about public health measures, pondering how one can stop the spread of a virus if it cannot be seen by the naked eye.
+Born on July 7, 1978, in Eau Claire, Wisconsin, Pronschinske graduated from Memorial High School and later earned a degree in construction management from Chippewa Valley Technical College. He is a small business owner and operates a construction company in Mondovi, Wisconsin. His professional background in construction has shaped his approach to public service, emphasizing practical solutions and community-focused initiatives.
 
-Treig Pronschinske continues to be an active figure in Wisconsin politics, advocating for his constituents and engaging in important discussions.
+Pronschinske has a long history of community involvement. He has served as a volunteer firefighter for the Mondovi Fire Department and was a member of the Mondovi Ambulance Commission. Additionally, he has contributed to youth development through his work with the Mondovi Youth Baseball Association, Big Brothers Big Sisters, and Junior Achievement. His dedication to his community extends beyond his professional and legislative roles, reflecting his commitment to improving the lives of those he represents.
+
+Before his current role in the 29th Assembly District, Pronschinske represented the 92nd Assembly District from 2017 to 2025. During his tenure, he has been actively involved in various legislative committees, focusing on issues such as children and families, consumer protection, housing, and outdoor recreation. His leadership as the chair of the Sporting Heritage Committee highlights his dedication to preserving Wisconsin's natural resources and promoting outdoor activities.
+
+Pronschinske's legislative priorities include supporting small businesses, enhancing public safety, and fostering economic growth in his district. His pragmatic approach and deep connection to his community have earned him respect among his constituents and colleagues alike. Through his work in the Wisconsin State Assembly, he continues to advocate for policies that reflect the values and needs of the people he serves.

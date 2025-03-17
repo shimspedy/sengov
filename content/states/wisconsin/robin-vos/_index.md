@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Robin Vos"
 seo_title: "contact Representative Robin Vos"
 subheader:
      greeting: Contact Representative Robin Vos
-     description: Robin Vos, born July 5, 1968, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 63, on January 3, 2005.
+     description: Robin Vos is a Republican member of the Wisconsin State Assembly, representing District 33. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Robin Vos of Wisconsin. Contact information for Robin Vos includes email address, phone number, and mailing address.
 image: robin-vos.jpeg
 video:
@@ -20,24 +20,21 @@ role: Representative
 inoffice: current
 elected: 2005
 mailing1: State Capitol Room 217 West PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9163
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2531/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2531/
+phone1: 608-237-9133
+website: https://legis.wisconsin.gov/assembly/33/vos//
+email : https://legis.wisconsin.gov/assembly/33/vos//
 twitter: speakervos
 ---
-Robin Joseph Vos (born July 5, 1968) is an American businessman and Republican politician. He has been serving as the Speaker of the Wisconsin State Assembly since 2013. Vos has been a member of the Assembly since 2005, representing most of the southern half of Racine County.
+Robin Vos is a Republican member of the Wisconsin State Assembly, representing District 33. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-Early Life and Education:
-- Born in 1968 in Burlington, Wisconsin, Vos attended Burlington High School, graduating in 1986.
-- He then pursued his studies at the University of Wisconsin–Whitewater, majoring in political science and public relations.
-- Fun fact: While at Whitewater, he roomed with Reince Priebus, who later became chairman of the Republican Party of Wisconsin, chairman of the Republican National Committee, and White House chief of staff.
+Robin Vos has been a prominent figure in Wisconsin politics for many years. Born and raised in Burlington, Wisconsin, he has deep roots in Racine County, where his family has lived for generations. He graduated from Burlington High School in 1986 and later earned a bachelor's degree in Political Science and Public Relations from the University of Wisconsin–Whitewater in 1991. During his college years, he developed a passion for public service and was appointed by Governor Tommy Thompson as the student representative on the University of Wisconsin Board of Regents.
 
-Political Career Highlights:
-- Vos gained prominence for his role in advancing legislation to weaken bargaining rights and labor unions in Wisconsin during Scott Walker's governorship. This effort culminated in the 2012 Wisconsin gubernatorial recall election.
-- Since 2013, he has held the position of Speaker of the Wisconsin State Assembly, maintaining Republican control of the chamber through heavily gerrymandered maps.
-- During Governor Tony Evers's tenure (a Democrat), Vos actively sought to limit the governor's powers.
-- Notably, during the COVID-19 pandemic, Vos opposed measures such as mask mandates and vaccine requirements by private businesses.
-- In response to claims of election fraud after Joe Biden's 2020 victory, Vos allocated taxpayer funds for an investigation led by Michael Gableman. Gableman's report, released in March 2022, contained false claims and conspiracy theories.
-- Vos eventually fired Gableman in August 2022, after Gableman endorsed Vos's primary challenger.
+Before his tenure in the State Assembly, Vos served on the Racine County Board for a decade, where he played a key role in shaping the county budget as the chair of the Finance Committee. His leadership in local government laid the foundation for his career in state politics.
 
-Robin Vos continues to play a significant role in Wisconsin politics, navigating complex issues and shaping legislative outcomes. 
+In addition to his political career, Vos is a successful businessman. He owns and operates several businesses in southeastern Wisconsin, including rental properties, a car wash, and a popcorn company. His entrepreneurial spirit and focus on customer service have been integral to his success in both business and public service.
+
+As a member of the Wisconsin State Assembly, Vos has been a vocal advocate for conservative policies. He has campaigned on issues such as lowering taxes, reducing government mandates, and promoting economic development. Over the years, he has played a significant role in shaping legislation, including efforts to limit public-sector union activity and reduce the authority of state executive officials.
+
+Vos's leadership extends beyond his role as a legislator. He has served as the Speaker of the Wisconsin State Assembly since 2013, making him the longest-serving Speaker in the state's history. In this capacity, he has been instrumental in maintaining Republican control of the Assembly and advancing the party's legislative agenda.
+
+Throughout his career, Robin Vos has been a dedicated public servant, committed to representing the interests of his constituents and working towards a more efficient and effective government. His contributions to Wisconsin politics and his community have made him a respected figure in the state.

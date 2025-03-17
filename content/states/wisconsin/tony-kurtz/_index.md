@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Tony Kurtz"
 seo_title: "contact Representative Tony Kurtz"
 subheader:
      greeting: Contact Representative Tony Kurtz
-     description: Tony Kurtz, born December 23, 1966, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 50, in 2019.
+     description: Tony Kurtz is a Republican member of the Wisconsin State Assembly, representing the 41st Assembly District. He assumed office on January 6, 2025, and his current term is set to end in January 2027.
 description: Contact Representative Tony Kurtz of Wisconsin. Contact information for Tony Kurtz includes email address, phone number, and mailing address.
 image: tony-kurtz.jpeg
 video:
@@ -19,18 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2019
-mailing1:  State Capitol Room 320 East PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9150
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2479/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2479/
+mailing1: State Capitol Room 304 East PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9141
+website: https://legis.wisconsin.gov/assembly/41/Kurtz/
+email : https://legis.wisconsin.gov/assembly/41/Kurtz/
 twitter: reptonykurtz
 ---
-Tony Kurtz (born December 23, 1966) is an American businessman and politician. He is a Republican member of the Wisconsin State Assembly, representing Juneau County and parts of northern Sauk and Richland counties.
+Tony Kurtz is a Republican member of the Wisconsin State Assembly, representing the 41st Assembly District. He assumed office on January 6, 2025, and his current term is set to end in January 2027.
 
-Tony grew up in a typical small middle American town, excelling at sports and learning the value of hard work at an early age. Following high school, he spent the next two decades in the U.S. Army. During his service career, Tony met and married the former Kimberly Bjornstad.
+Tony Kurtz has dedicated his life to public service and community engagement. Born on December 23, 1966, in Columbus, Ohio, he pursued higher education at Embry-Riddle Aeronautical University, where he earned a Bachelor of Science degree, and later at Troy University, where he completed a Master of Science degree. Before entering politics, Kurtz served in the United States Army for two decades, achieving the rank of Chief Warrant Officer Four. His military career included deployments during the Gulf War and the Iraq War, showcasing his commitment to his country.
 
-After retiring from the Army, Tony and his wife Kim made their home in Western Wisconsin, where they own a farm in Wonewoc. In addition to his military service, Tony is the CEO of Kaynick Solutions.
+After retiring from the Army, Kurtz transitioned to civilian life in Wonewoc, Wisconsin, where he and his wife, Kim, own and operate a farm. The couple has two children, Kaylin and Nick, who are pursuing their education in Wisconsin. In addition to farming, Kurtz is the CEO of Kaynick Solutions, a business venture that reflects his entrepreneurial spirit.
 
-Since January 2019, Tony Kurtz has been an active Republican member of the Wisconsin State Assembly, advocating for his constituents and working on legislation that impacts the community.
+Kurtz's political journey began in 2019 when he was elected to represent Wisconsin's 50th Assembly District. During his tenure, he focused on issues such as tax reform, economic development, and support for veterans. In 2025, he transitioned to representing the 41st Assembly District, continuing his advocacy for policies that benefit his constituents and the broader Wisconsin community.
 
-Tony's commitment to public service and his background in both the military and business make him a dedicated representative for the people of his district.
+Throughout his career, Tony Kurtz has been recognized for his dedication to service, both in the military and in public office. His leadership and commitment to his constituents have made him a respected figure in Wisconsin politics.

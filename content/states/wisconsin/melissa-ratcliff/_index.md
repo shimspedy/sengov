@@ -1,11 +1,11 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Melissa Ratcliff"
-seo_title: "contact Representative Melissa Ratcliff"
+seo_title: "contact Senator Melissa Ratcliff"
 subheader:
-     greeting: Contact Representative Melissa Ratcliff
-     description: Melissa Ratcliff, born in November 1976, is an American politician affiliated with the Democratic Party. She assumed office as a member of the Wisconsin State Assembly, representing District 46, on January 3, 2023.
-description: Contact Representative Melissa Ratcliff of Wisconsin. Contact information for Melissa Ratcliff includes email address, phone number, and mailing address.
+     greeting: Contact Senator Melissa Ratcliff
+     description: Melissa Ratcliff is a Democratic Party member serving in the Wisconsin State Senate, representing the 16th District. She assumed office on January 6, 2025, and her current term is set to end on January 3, 2029.
+description: Contact Senator Melissa Ratcliff of Wisconsin. Contact information for Melissa Ratcliff includes email address, phone number, and mailing address.
 image: melissa-ratcliff.jpeg
 video:
 url: /states/wisconsin/melissa-ratcliff/
@@ -16,19 +16,23 @@ layout: course_home
 name: Melissa Ratcliff
 state: Wisconsin
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2023
-mailing1:  State Capitol Room 11 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9146
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2546/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2546/
+elected: 2025
+mailing1: State Capitol Room 5 South PO Box 7882 Madison, WI 53707-7882
+phone1: 608-266-9170
+website: https://docs.legis.wisconsin.gov/2025/legislators/senate/2837/
+email : https://docs.legis.wisconsin.gov/2025/legislators/senate/2837/
 twitter: repratcliff
 ---
-Melissa Amy Ratcliff (née Larsen) is an American paralegal and Democratic politician hailing from Cottage Grove, Wisconsin. She currently serves as a member of the Wisconsin State Assembly, representing the 46th Assembly district since January 2023. Additionally, she holds a position on the Dane County Board of Supervisors.
+Melissa Ratcliff is a Democratic Party member serving in the Wisconsin State Senate, representing the 16th District. She assumed office on January 6, 2025, and her current term is set to end on January 3, 2029.
 
-Born in November 1976, Melissa grew up in Wausau, Wisconsin, and graduated from Wausau East High School in 1995. She furthered her education by obtaining a paralegal certification from Madison Area Technical College. For over two decades, she has worked as a paralegal at the Eisenberg Law Offices in Madison, Wisconsin.
+Melissa Ratcliff has a rich history of public service and community involvement. Before her tenure in the State Senate, she served in the Wisconsin State Assembly, representing the 46th Assembly District during the 2023–2024 term. Her political journey began at the local level, where she was a member of the Dane County Board of Supervisors for six years and served on the Cottage Grove Village Board for four years. These roles allowed her to deeply engage with her community and address local issues effectively.
 
-In the Spring of 2018, Ratcliff secured her first public office when she was elected to the Cottage Grove village board. Later that same year, she was chosen to fill a vacant seat on the Dane County board after incumbent Danielle Williams resigned. Ratcliff's selection was ratified by a vote of the county board on September 6, 2018. She has since been re-elected to the Dane County Board and, following the Spring 2022 election, entered the race for the Democratic nomination in the 46th Assembly district, succeeding retiring incumbent Gary Hebl.
+Born and raised in Wisconsin, Melissa grew up in Wausau and graduated from Wausau East High School. She later earned her paralegal certification from Madison Area Technical College and worked as a paralegal for 24 years. Her professional background has equipped her with a strong understanding of legal and administrative processes, which she brings to her legislative work.
 
-Melissa and her family reside in Cottage Grove, where her son attends Madison College, and her daughter is a freshman at Monona Grove High School.
+Throughout her career, Melissa has been a staunch advocate for various causes, including reproductive rights, LGBTQ+ health and safety, broadband access, housing affordability, and family-friendly policies like affordable childcare. Her dedication to these issues reflects her commitment to improving the lives of her constituents.
+
+Melissa is also an active volunteer and community member. She has been recognized for her contributions, including being named Ally of the Year in 2024 by the Sun Prairie Colonial Club. She is a founding member of the Miracle League of Dane County, showcasing her passion for inclusive community initiatives.
+
+Currently residing in Cottage Grove, Wisconsin, Melissa enjoys spending time with her two children, Dan and Adeline, and their two dogs, Lucy and Ricky. She is an avid hiker and has maintained a 10,000-step-a-day streak since her campaign days, reflecting her energetic and determined spirit. Her personal and professional life exemplifies her dedication to her community and her role as a public servant.

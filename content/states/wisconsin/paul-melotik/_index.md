@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Paul Melotik"
 seo_title: "contact Representative Paul Melotik"
 subheader:
      greeting: Contact Representative Paul Melotik
-     description: Paul Melotik, born on February 27, 1957, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 24, on August 7, 2023.
+     description: Paul Melotik is a Republican member of the Wisconsin State Assembly, representing the 22nd Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Paul Melotik of Wisconsin. Contact information for Paul Melotik includes email address, phone number, and mailing address.
 image: paul-melotik.jpeg
 video:
@@ -19,27 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2023
-mailing1: State Capitol Room 219 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9124
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2690/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2690/
+mailing1: State Capitol Room 308 North PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9122 
+website: https://legis.wisconsin.gov/assembly/22/melotik//
+email : https://legis.wisconsin.gov/assembly/22/melotik//
 twitter: 
 ---
-Representative Paul Melotik was elected to the 24th Assembly District in a special election in July of 2023. He currently serves as Vice Chair of the Committee on Government Accountability and Oversight, the Committee on Regulatory Licensing Reform, and the Committee on Jobs, Economy, and Small Business Development.
+Paul Melotik is a Republican member of the Wisconsin State Assembly, representing the 22nd Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-Born in Milwaukee, Wisconsin, on February 27, 1957, Paul Melotik has spent his entire life in Southeastern Wisconsin. He attended Nathan Hale High School in West Allis, graduating in 1975. Later, he pursued a double major in Business Administration and Accounting at Carroll College in Waukesha, earning his BS degree in 1979. During his college years, Rep. Melotik was an active athlete, earning All-Conference honors in football and contributing to his team's Conference Championship in 1977.
+Born on February 27, 1957, in Milwaukee, Wisconsin, Paul Melotik has had a diverse career as an accountant, businessman, and public servant. He graduated from Nathan Hale High School in West Allis, Wisconsin, in 1975 and went on to earn a Bachelor of Science degree in accounting and business management from Carroll University in 1979. His professional journey began as an accountant with Wisconsin Electric, but he later ventured into the hospitality industry, co-owning and operating Flannery's Bar and Restaurant in Milwaukee and at the Fire Ridge Golf Course in Grafton.
 
-Paul's professional journey led him into the small business world. He has been the owner/operator of several businesses throughout his career. Notably, he was part owner of Club 400 Bar and Grill in Waukesha, followed by other establishments in Whitewater and Milwaukee, including Flannery’s Bar and Restaurant and McGillycuddy’s on Water Street. His commitment to community extended beyond business; for a decade, he served as President of the Water Street Business Association.
+Melotik's political career began with his election to the Ozaukee County Board of Supervisors in 2012, where he represented the 10th district. He later served on the Grafton Town Board, further solidifying his commitment to public service. In 2023, he successfully ran for the Wisconsin State Assembly, initially representing the 24th Assembly District in a special election. Following redistricting, he transitioned to represent the 22nd Assembly District.
 
-In addition to his business endeavors, Paul developed an interest in politics. He served 12 years on the Ozaukee County Board, where he took on leadership roles such as 1st Vice Chair, Finance Committee Chairperson, and Public Safety Committee Chairperson. From 2016 to 2023, he was also a Supervisor on the Town of Grafton Town Board. Furthermore, Paul contributed to the Grafton Library board from 2021 to 2023.
+Throughout his tenure, Melotik has been an advocate for economic growth, workforce development, and community engagement. His efforts have been recognized with awards such as the Associated Builders and Contractors Building Wisconsin Award and the Working for Wisconsin Award from the Wisconsin Manufacturers and Commerce. These accolades highlight his dedication to fostering a thriving business climate and addressing the needs of his constituents.
 
-Paul and his wife, Wendy, have resided in Grafton for over 25 years, raising their four children there. They are actively involved in their community, particularly at St. Joseph’s Parish in Grafton. Wendy taught Christian Formation for 12 years, while Paul served as Athletic Director. As a sports enthusiast, he also coached various sports his children participated in and worked as a WIAA basketball referee.
-
-Representative Melotik's current legislative responsibilities include serving on the following committees:
-- Committee on Government Accountability and Oversight (Vice Chair)
-- Committee on Jobs, Economy, and Small Business Development
-- Committee on Regulatory Licensing Reform
-- Joint Committee on Information Policy and Technology
-- Speaker's Taskforce on Truancy
-
-Paul Melotik embodies a strong commitment to public service, community, and small business development. His journey reflects the heart of Wisconsin, and he continues to make a positive impact in the state's Assembly.
+Paul Melotik resides in Grafton, Wisconsin, with his wife, Wendy. Together, they have four children. His life and career reflect a deep commitment to serving his community and contributing to the betterment of Wisconsin.

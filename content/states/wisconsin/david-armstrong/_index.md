@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "David Armstrong"
 seo_title: "contact Representative David Armstrong"
 subheader:
      greeting: Contact Representative David Armstrong
-     description: David Armstrong, born October 3, 1961, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 75, on January 4, 2021.
+     description: David Armstrong is a Republican member of the Wisconsin State Assembly, representing the 67th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative David Armstrong of Wisconsin. Contact information for David Armstrong includes email address, phone number, and mailing address.
 image: david-armstrong.jpeg
 video:
@@ -20,17 +20,17 @@ role: Representative
 inoffice: current
 elected: 2021
 mailing1: State Capitol Room 220 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9175
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2444/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2444/
+phone1: 608-237-9167
+website: https://legis.wisconsin.gov/assembly/67/armstrong/
+email : https://legis.wisconsin.gov/assembly/67/armstrong/
 twitter: 
 ---
-David B. Armstrong, born on October 3, 1961, is an American politician and local administrator. Representing the 75th district of the Wisconsin State Assembly, he is a Republican. This district encompasses Barron County, the southern half of Washburn County, and several neighboring towns in Polk, St. Croix, and Dunn counties in northwestern Wisconsin. Armstrong was elected to this position in November 2020.
+David Armstrong is a Republican member of the Wisconsin State Assembly, representing the 67th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-Before entering politics, Armstrong had a background in the substance abuse testing industry. He held positions as a vice president at Healthcomp Evaluation Services Corporation and ClinNet Solutions (which was later acquired by ADP). Additionally, he founded two health-related companies earlier in his career, both of which were also acquired.
+David Armstrong has had a diverse career that spans business, local governance, and state politics. Before entering the State Assembly, he served as the executive director of the Barron County Economic Development Corporation, where he worked to foster economic growth and development in the region. His professional background also includes founding two companies in the medical field and serving as vice president of substance abuse services for Healthcomp Evaluation Services Corporation. These roles highlight his commitment to addressing community needs and his entrepreneurial spirit.
 
-Armstrong's civic involvement extends beyond the State Assembly. He served on the Rice Lake City Council from 2009 to 2013 and was a board member of the Rice Lake Cable Commission until 2020. Furthermore, he has been the executive director of the Barron County Economic Development Corporation since 2012. Armstrong also sits on the Rice Lake Utilities Commission.
+Armstrong's political journey began at the local level, where he served two terms on the Rice Lake City Council. During his tenure, he was actively involved in various commissions and boards, including the Rice Lake Cable Commission, Rice Lake Utility Commission, and Rice Lake Tourism Commission. His leadership extended to serving as president of the Law Enforcement Foundation of Barron County and mentoring students at Rice Lake High School.
 
-During his political journey, Armstrong faced controversy when his Twitter feed revealed posts related to the QAnon conspiracy theory. While he did not disavow the conspiracy, he clarified that he found its core claims "interesting" but not necessarily credible. His feed also contained years of controversial content, including racism, misogyny, religious bigotry, and conspiracy theories.
+In the Wisconsin State Assembly, Armstrong has been a dedicated legislator, focusing on issues such as rural development, workforce development, and housing. He has served on several committees, including the Housing and Real Estate Committee, the Jobs and the Economy Committee, and the Ways and Means Committee. His legislative efforts reflect his commitment to improving the quality of life for his constituents and addressing the challenges faced by rural communities in Wisconsin.
 
-Despite these challenges, David B. Armstrong continues to represent his constituents in the Wisconsin State Assembly, committed to making their voices heard in Madison.
+David Armstrong's career is marked by a strong dedication to public service, economic development, and community engagement. His work in the State Assembly continues to build on his extensive experience and passion for making a positive impact in Wisconsin.

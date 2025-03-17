@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Robert Wittke"
 seo_title: "contact Representative Robert Wittke"
 subheader:
      greeting: Contact Representative Robert Wittke
-     description: Robert Wittke, born September 23, 1957, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 62, on January 7, 2019.
+     description: Robert Wittke is a Republican member of the Wisconsin State Assembly, representing the 63rd Assembly District. He assumed office on January 6, 2025, and his current term is set to end in January 2027.
 description: Contact Representative Robert Wittke of Wisconsin. Contact information for Robert Wittke includes email address, phone number, and mailing address.
 image: robert-wittke.jpeg
 video:
@@ -19,14 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2019
-mailing1: State Capitol Room 18 West PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9162
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2534/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2534/
+mailing1: State Capitol Room 129 West PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9163
+website: https://legis.wisconsin.gov/assembly/63/wittke//
+email : https://legis.wisconsin.gov/assembly/63/wittke//
 twitter: repwittke
 ---
-Robert Otto Wittke Jr. (born September 23, 1957) is an accountant and Republican politician. He represents the northern half of Racine County in the Wisconsin State Assembly. Wittke graduated from the University of Wisconsin–Eau Claire with a B.A. in accounting. His professional background includes work as a tax accountant for companies like Modine Manufacturing and Snap-on Inc. He has also been employed by CORPTAX, a tax software as a service company based in Deerfield, Illinois, since 2012.
+Robert Wittke is a Republican member of the Wisconsin State Assembly, representing the 63rd Assembly District. He assumed office on January 6, 2025, and his current term is set to end in January 2027.
 
-Wittke's political journey began when he ran for the Racine Unified School Board in 2013, eventually winning a seat in the newly drawn ninth district in 2016. He was later elected School Board President. In 2018, he successfully ran for the 62nd district seat in the Wisconsin State Assembly, defeating former State Senator John Lehman.
+Born on September 23, 1957, in Racine, Wisconsin, Wittke has deep roots in his community. He graduated from William Horlick High School in 1975 and earned a Bachelor of Arts in Accounting from the University of Wisconsin–Eau Claire in 1980. Wittke's professional career spans over three decades in corporate taxation, working with prominent firms like Modine Manufacturing, Snap-on Incorporated, and Deloitte. Since 2012, he has been associated with CORPTAX, a tax software company, where he continues to contribute his expertise.
 
-Wittke resides in Wind Point, Wisconsin, and is married with four children. He continues to be a strong voice for his constituents, advocating for successful small businesses, local employment opportunities, and an effective education system.
+Wittke's journey into public service began with his election to the Racine Unified School District Board in 2016, where he represented the 9th District. His leadership skills were quickly recognized, and he served as the Board President from 2017 to 2019. During this time, he focused on improving the public education system and addressing the needs of one of Wisconsin's largest urban school districts.
+
+In 2018, Wittke transitioned to state-level politics, successfully running for the Wisconsin State Assembly to represent the 62nd District. He served in this capacity until 2025, when redistricting led him to represent the 63rd District. Throughout his tenure, Wittke has been a strong advocate for education reform, economic development, and fiscal responsibility. His legislative efforts reflect his commitment to creating opportunities for small businesses, enhancing local employment, and ensuring a safe and effective education system.
+
+Wittke resides in Wind Point, Wisconsin, with his wife, Alison. Together, they have four children. His dedication to his family and community continues to inspire his work in the Assembly, where he strives to make a positive impact on the lives of his constituents.

@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Elijah Behnke"
 seo_title: "contact Representative Elijah Behnke"
 subheader:
      greeting: Contact Representative Elijah Behnke
-     description: Elijah Behnke, born February 15, 1983, is an American politician affiliated with the Republican Party. He assumed office as a member of the Wisconsin State Assembly, representing District 89, on April 28, 2021.
+     description: Elijah Behnke is a Republican member of the Wisconsin State Assembly, representing the 6th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 description: Contact Representative Elijah Behnke of Wisconsin. Contact information for Elijah Behnke includes email address, phone number, and mailing address.
 image: elijah-behnke.jpeg
 video:
@@ -19,20 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2021
-mailing1: State Capitol Room 308 North PO Box 8952 Madison, WI 53708-8952
-phone1: 608-237-9189
-website: https://docs.legis.wisconsin.gov/2023/legislators/assembly/2447/
-email : https://docs.legis.wisconsin.gov/2023/legislators/assembly/2447/
+mailing1: State Capitol Room 219 North PO Box 8952 Madison, WI 53708-8952
+phone1: 608-237-9106
+website: https://legis.wisconsin.gov/assembly/06/behnke/
+email : https://legis.wisconsin.gov/assembly/06/behnke/
 twitter: 
 ---
-Elijah Behnke, born on February 15, 1983, is an American small business owner and a dedicated Republican politician. He currently serves as a member of the Wisconsin State Assembly, representing the 89th Assembly district since April 2021. However, following the 2024 redistricting, he has announced his intention to run for re-election in the newly redrawn 6th Assembly district.
+Elijah Behnke is a Republican member of the Wisconsin State Assembly, representing the 6th Assembly District. He assumed office on January 6, 2025, and his current term is set to end on January 4, 2027.
 
-Behnke's roots trace back to Oconto Falls, Wisconsin, where he spent his childhood working on his parents' nearby farm. After graduating from Oconto High School in 2001, he embarked on a journey to northeast Georgia to attend bible college. In 2006, he returned to Wisconsin and joined his mother's cleaning business. Not content with just that, he eventually founded his own cleaning business, Eschalon Cleaning LLC.
+Born on February 15, 1983, in Oconto Falls, Wisconsin, Elijah Behnke grew up on his family’s farm in the nearby area. His upbringing instilled in him a strong work ethic and a deep appreciation for rural life. After graduating from Oconto High School in 2001, he pursued higher education at Toccoa Falls College, a Bible college in Georgia, where he earned an associate degree in 2005. Following his studies, Behnke returned to Wisconsin and began working in his mother’s cleaning business. A year later, he established his own company, Eschalon Cleaning LLC, showcasing his entrepreneurial spirit.
 
-Beyond business endeavors, Behnke wears multiple hats. He manages a hobby farm and actively serves as a ministry leader in his church. His decision to enter politics was fueled by a desire to advocate for small business owners who faced challenges during the COVID-19 pandemic and subsequent safety measures.
+In addition to running his cleaning business, Behnke operates a hobby farm and serves as a ministry leader in his local church. His involvement in the community and his experiences as a small business owner motivated him to enter politics. He first gained political attention in December 2020, when he announced his candidacy for the Wisconsin State Assembly following the resignation of John Nygren. Behnke’s campaign focused on advocating for small business owners and addressing the challenges posed by the COVID-19 pandemic.
 
-In the 2021 Republican primary, Behnke secured endorsements from influential figures like State Senator André Jacque and Oconto County Sheriff Todd Skarban. His victory in the primary led to a successful campaign in the April special election, where he defeated Democrat Karl Jaeger.
+Behnke’s political career began in May 2021 when he won a special election to represent the 89th Assembly District. After the 2024 redistricting, he transitioned to representing the 6th Assembly District. Throughout his tenure, Behnke has been an active participant in legislative matters, serving on various committees and championing issues important to his constituents.
 
-However, it's worth noting that Behnke faced controversy when a recording emerged of him making unfounded claims about Democrat electoral fraud. Despite this, he remains a prominent figure in Wisconsin politics.
-
-As we look ahead, Behnke's determination and commitment to his constituents continue to shape his political journey. Whether it's defending small businesses, championing religious freedom, or advocating for Wisconsin's agricultural community, Elijah Behnke remains a steadfast representative for everyday Wisconsinites.
+Elijah Behnke’s journey from a farm in Oconto County to the Wisconsin State Assembly reflects his dedication to public service and his commitment to the values of his community. His story is one of perseverance, leadership, and a desire to make a positive impact on the lives of those he represents.

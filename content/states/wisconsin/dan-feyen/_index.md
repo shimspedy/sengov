@@ -1,10 +1,10 @@
 ---
-date: 2024-07-15T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Dan Feyen"
 seo_title: "contact Senator Dan Feyen"
 subheader:
      greeting: Contact Senator Dan Feyen
-     description: Dan Feyen is the Assistant Majority Leader of the Wisconsin State Senate. Elected in 2016, Senator Feyen serves the constituents of the 18th State Senate District which includes portions of Fond du Lac, Winnebago, and Dodge Counties.
+     description: Dan Feyen is a Republican member of the Wisconsin State Senate, representing District 20. He assumed office on January 6, 2025, and his current term is set to end on January 3, 2029.
 description: Contact Senator Dan Feyen of Wisconsin. Contact information for Dan Feyen includes email address, phone number, and mailing address.
 image: dan-feyen.jpeg
 video:
@@ -20,19 +20,17 @@ role: Senator
 inoffice: current
 elected: 2017
 mailing1: State Capitol Room 306 South PO Box 7882 Madison, WI 53707-7882
-phone1: 608-266-5300
-website: https://docs.legis.wisconsin.gov/2023/legislators/senate/2418/
-email : https://docs.legis.wisconsin.gov/2023/legislators/senate/2418/
+phone1: 608-266-7513
+website: https://legis.wisconsin.gov/senate/20/feyen/
+email : https://legis.wisconsin.gov/senate/20/feyen/
 twitter: sendanfeyen
 ---
-Dan Feyen is the Assistant Majority Leader of the Wisconsin State Senate. Elected in 2016, Senator Feyen serves the constituents of the 18th State Senate District which includes portions of Fond du Lac, Winnebago, and Dodge Counties. Senator Feyen announced February 27th his campaign for the 20th Senate district which comprises of portions of Dodge, Fond du Lac, Ozaukee, Sheboygan, and Washington Counties. The General election will be held Tuesday November 5th, 2024. 
+Dan Feyen is a Republican member of the Wisconsin State Senate, representing District 20. He assumed office on January 6, 2025, and his current term is set to end on January 3, 2029.
 
+Born on July 12, 1968, in New Holstein, Wisconsin, Dan Feyen has deep roots in his community. He graduated from New Holstein High School in 1986 and later earned a diploma in printing from Fox Valley Technical College in 1988. His professional background includes a long career in the printing and bindery industry, where he worked for nearly three decades in Fond du Lac, Wisconsin.
 
+Feyen's journey into politics began with his active involvement in local organizations and the Republican Party. He served as the chairman of the Fond du Lac County Republican Party for nearly a decade and was also a member of the United States Junior Chamber, where he held the position of president for the Fond du Lac chapter in the 1990s. His leadership roles extended to various community organizations, including the Knights of Columbus and the Elks Club.
 
-As a member of Legislative leadership, Senator Feyen serves on the Committee on Senate Organization and the Joint Committee on Legislative Organization. He is also the Chairman of the Senate Committee on Economic Development and Technical Colleges, Vice-chair of the Senate Committee on Shared Revenue, Elections and Consumer Protection, and member of the Committee on Government Operations.
+In 2016, Feyen entered the political arena by running for the Wisconsin State Senate to represent District 18. He won the election and served in that capacity until 2025. During his tenure, he was elected as the Assistant Majority Leader of the Senate, a position he has held since 2019. Feyen has been a strong advocate for economic development and technical education, chairing committees focused on these areas.
 
-Appointed in 2017, Senator Feyen continues to serve on the Wisconsin Economic Development Corporation’s Board of Directors and was appointed in 2024 to serve on the Board of Directors of the Southeast Wisconsin Professional Baseball Park District.  Senator Feyen also serves as Co-Chair of the Bi-Partisan Legislative Tech Caucus.
-
-Senator Feyen was born and raised in New Holstein Wisconsin and attended Fox Valley Technical College where he earned a degree in printing. He currently lives in Fond du Lac with his wife, and has two children who are both graduates of UW-Madison.
-
-
+Following the 2024 redistricting, Feyen transitioned to representing District 20 in the Wisconsin State Senate. This district encompasses parts of Fond du Lac, Washington, Sheboygan, Ozaukee, and Dodge counties. His commitment to public service and his community remains steadfast as he continues to work on policies that promote growth and opportunity for his constituents.
