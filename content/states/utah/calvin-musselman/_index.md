@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Calvin Musselman"
-seo_title: "contact representative Calvin Musselman"
+seo_title: "contact Senator Calvin Musselman"
 subheader:
-     greeting: Contact representative Calvin Musselman
-     description: Calvin R. "Cal" Musselman is an American politician and real estate broker who is currently serving as a member of the Utah House of Representatives from the 9th district. He was elected in 2018 and assumed office on January 1, 2019.
-description: Contact representative Calvin Musselman of Utah. Contact information for Calvin Musselman includes email address, phone number, and mailing address.
+     greeting: Contact Senator Calvin Musselman
+     description: Calvin Musselman, a member of the Republican Party, serves in the Utah State Senate representing District 4. He assumed office on January 1, 2025, and his current term is set to end on January 1, 2029.
+description: Contact Senator Calvin Musselman of Utah. Contact information for Calvin Musselman includes email address, phone number, and mailing address.
 image: calvin-musselman.jpeg
 video:
-url:  /states/utah/calvin-musselman/
+url: /states/utah/calvin-musselman/
 weight: 1
 layout: course_home
 
@@ -16,20 +16,23 @@ layout: course_home
 name: Calvin Musselman
 state: Utah
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: PO Box 145030 Salt Lake City, UT 84114
-phone1: 801-538-1029
-website: https://house.utleg.gov/rep/MUSSECR/
-email : https://house.utleg.gov/rep/MUSSECR/
-twitter:
+elected: 2025
+mailing1: PO Box 145115 Salt Lake City, UT 84114
+phone1: 801-538-1035
+website: https://senate.utah.gov/sen/MUSSECR//
+email : https://senate.utah.gov/sen/MUSSECR//
+twitter: 
 ---
+Calvin Musselman, a member of the Republican Party, serves in the Utah State Senate representing District 4. He assumed office on January 1, 2025, and his current term is set to end on January 1, 2029.
 
-Calvin R. "Cal" Musselman is an American politician and real estate broker who is currently serving as a member of the Utah House of Representatives from the 9th district. He was elected in 2018 and assumed office on January 1, 2019.
+Born and raised in Salt Lake City, Utah, Musselman has deep roots in the state he now represents. His early life was shaped by his parents—his father worked as a diesel mechanic, and his mother was a school cafeteria cook. Musselman pursued higher education at Dixie State University, earning an Associate of Science degree in general science. He also studied geology at the University of Utah during the early 1990s.
 
-Musselman was born in Salt Lake City and raised in Monticello, Utah. His father was a diesel mechanic and his mother was a school cafeteria cook. He earned an Associate of Science degree in general science from Dixie State University and studied geology at the University of Utah in 1990 and 1991.
+Before entering politics, Musselman served in the United States Army during the Gulf War, an experience that instilled in him a strong sense of discipline and commitment. Following his military service, he transitioned into a career as a real estate broker, working with Golden Spike Realty in Ogden, Utah, since 1999.
 
-Musselman served in the United States Army during the Gulf War. Since 1999, he has worked as an associate real estate broker at Golden Spike Realty in Ogden, Utah. He was elected to the Utah House of Representatives in 2018 and assumed office on January 1, 2019.
+Musselman’s political journey began in 2018 when he was elected to the Utah House of Representatives for District 9. He served in the House from January 1, 2019, to December 31, 2024, before successfully running for the Utah State Senate. His tenure in the House was marked by active participation in various committees, including the Business and Labor Committee and the Rules Committee.
 
-Musselman and his wife live in West Haven, Utah. They previously lived in Ogden and Roy, Utah. Musselman's current term ends on January 1, 2025.
+As a state senator, Musselman continues to focus on issues that resonate with his constituents, such as economic development, workforce services, and government operations. His leadership style is characterized by a pragmatic approach to problem-solving and a commitment to fostering bipartisan collaboration.
+
+Outside of his professional and political life, Musselman resides in West Haven, Utah, with his wife, Dawnell, and their four children. His family life and community involvement remain central to his identity, reflecting his dedication to serving not just as a politician but as a neighbor and advocate for the people of Utah.

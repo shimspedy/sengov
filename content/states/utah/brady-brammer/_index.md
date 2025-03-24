@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Brady Brammer"
-seo_title: "contact representative Brady Brammer"
+seo_title: "contact Senator Brady Brammer"
 subheader:
-     greeting: Contact representative Brady Brammer
-     description: Brady Brammer is an American politician and a member of the Republican Party. He is currently representing the 54th district in the Utah House of Representatives.
-description: Contact representative Brady Brammer of Utah. Contact information for Brady Brammer includes email address, phone number, and mailing address.
+     greeting: Contact Senator Brady Brammer
+     description: Brady Brammer is a Republican serving in the Utah State Senate, representing District 21. He assumed office on January 1, 2025, and his current term is set to end on January 1, 2027.
+description: Contact Senator Brady Brammer of Utah. Contact information for Brady Brammer includes email address, phone number, and mailing address.
 image: brady-brammer.jpeg
 video:
-url:  /states/utah/brady-brammer/
+url: /states/utah/brady-brammer/
 weight: 1
 layout: course_home
 
@@ -16,22 +16,21 @@ layout: course_home
 name: Brady Brammer
 state: Utah
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
 elected: 2019
-mailing1: PO Box 145030 Salt Lake City, UT 84114
-phone1: 801-538-1029
-website: https://house.utleg.gov/rep/BRAMMB/
-email : https://house.utleg.gov/rep/BRAMMB/
-twitter:
+mailing1: PO Box 145115 Salt Lake City, UT 84114
+phone1: 801-538-1035
+website: https://senate.utah.gov/sen/BRAMMB//
+email : https://senate.utah.gov/sen/BRAMMB//
+twitter: 
 ---
+Brady Brammer is a Republican serving in the Utah State Senate, representing District 21. He assumed office on January 1, 2025, and his current term is set to end on January 1, 2027.
 
-Brady Brammer is an American politician and a member of the Republican Party. He is currently representing the 54th district in the Utah House of Representatives.
+Brady Brammer has built a reputation as a dedicated public servant and an experienced leader. Before joining the Utah State Senate, he served in the Utah House of Representatives, where he represented District 27 and later District 54. His tenure in the House was marked by his commitment to addressing key issues affecting his constituents, including infrastructure development, education, and public safety.
 
-Brammer's political career began in 2018 when he ran for election to the District 27 seat in the Utah House of Representatives, which was being vacated by fellow Republican Mike Kennedy. He defeated Jared Carman in the Republican primary with 57.5% of the vote, and went on to win the general election with 75.6% of the vote. He ran for re-election in 2020.
+Brammer's educational background is rooted in his studies at Brigham Young University, where he earned a Bachelor of Arts in American Studies, a Juris Doctor, and a Master of Public Administration. His academic achievements laid the foundation for his career as an attorney, where he gained extensive experience representing cities, school districts, businesses, and individuals in governmental legal matters. He also served as a shareholder at Spaulding Law, further honing his expertise in legal and ethical issues.
 
-In February 2020, Brammer proposed a bill to require warning labels for pornography. A version of the bill became law in April. As of October 2020, Brammer sits on the following committees: Infrastructure and General Government Appropriations Subcommittee, House Business and Labor Committee, House Judiciary Committee, Government Operations Interim Committee, and Judiciary Interim Committee.
+In addition to his legal career, Brammer has contributed to his community in various capacities. He spent over five years on the Highland City Planning Commission, addressing local zoning and development challenges. He has also been an adjunct professor at Brigham Young University, teaching ethics and business law, and has served as a board member for The Great Outdoors Fund, where he provided legal insight to support outdoor recreation and conservation efforts.
 
-Brammer earned a B.A. in American studies in 2004, a J.D. in 2007, and an M.P.A. in 2008, all from Brigham Young University. His career experience includes working as an attorney at several law firms and as a shareholder of Spaulding Law. He was previously a member of the Highland Planning Commission.
-
-In the 2022 general election for Utah House of Representatives District 54, incumbent Brady Brammer defeated Nikki Pino and Andrew Matishen. Brammer received 80.6% of the votes.
+Throughout his political career, Brammer has been known for his conservative fiscal policies and his dedication to finding practical solutions to complex problems. His leadership and commitment to public service continue to make a positive impact on the lives of Utah residents.

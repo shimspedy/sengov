@@ -1,11 +1,11 @@
 ---
-date: 2024-06-18T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Bill Ramos"
-seo_title: "contact Representative Bill Ramos"
+seo_title: "contact Senator Bill Ramos"
 subheader:
-     greeting: Contact Representative Bill Ramos
-     description: Bill Ramos, born on April 6, 1956, is an American politician affiliated with the Democratic Party. He assumed office as a member of the Washington House of Representatives, representing District 5-Position 1, on January 14, 2019.
-description: Contact Representative Bill Ramos of Washington. Contact information for Bill Ramos includes email address, phone number, and mailing address.
+     greeting: Contact Senator Bill Ramos
+     description: Bill Ramos is a Democratic member of the Washington State Senate, representing the 5th Legislative District. He assumed office in January 2025, and his current term is set to end in January 2029.
+description: Contact Senator Bill Ramos of Washington. Contact information for Bill Ramos includes email address, phone number, and mailing address.
 image: bill-ramos.jpeg
 video:
 url: /states/washington/bill-ramos/
@@ -16,32 +16,23 @@ layout: course_home
 name: Bill Ramos
 state: Washington
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: 338B LEG Room 325 JLOB PO Box 40600 Olympia, WA 98504-0600
-phone1: 360-786-7852
-website: https://housedemocrats.wa.gov/ramos//
-email : https://housedemocrats.wa.gov/ramos//
+elected: 2025
+mailing1: 417 LEG Room 405 LEG PO Box 40482 Olympia, WA 98504-0482
+phone1: 360-786-7608
+website: https://senatedemocrats.wa.gov/ramos//
+email : https://senatedemocrats.wa.gov/ramos//
 twitter: 
 ---
-Bill George Ramos (born April 6, 1956) is a Democratic member of the Washington Legislature representing the State's 5th House district for position 1. He has held office since 2019 after being elected in 2018 and re-elected in 2020.
+Bill Ramos is a Democratic member of the Washington State Senate, representing the 5th Legislative District. He assumed office in January 2025, and his current term is set to end in January 2029. 
 
-Background and Early Life:
-Bill Ramos grew up in East Oakland, California, where he witnessed firsthand the challenges faced by students who lack the necessary resources for success. His commitment to education and community service began during these formative years.
+Born and raised in East Oakland, California, Bill Ramos witnessed firsthand the challenges faced by underserved communities. He pursued higher education at Humboldt State University, earning a Bachelor’s Degree in Forest Sciences. His professional journey began with the U.S. Forest Service, where he held various leadership roles, including Director of Timber Management and Director of Ecosystem Management. In these roles, he led teams of scientists conducting environmental analyses of federal lands, showcasing his commitment to sustainable practices and environmental stewardship.
 
-Education and Professional Experience:
-- Ramos attended Humboldt State University, earning a Bachelor’s Degree in Forest Sciences. His passion for environmental stewardship and public service led him to work with the U.S. Forest Service in North Bend and Enumclaw.
-- During his tenure with the Forest Service, Ramos held various roles, including Director of Timber Management, Director of Recreation and Public Services, and Director of Ecosystem Management. His team of biological and earth scientists conducted critical environmental analyses of federal lands.
-- From 2005 to 2013, Bill served with the U.S. Department of Transportation in the Federal Transit Administration (FTA). As a Community Planner, he specialized in developing and managing the Tribal Transit Program, as well as Rural and Small Urban Area Transit Systems. His work as the Federal Tribal Liaison involved collaborating with 56 tribes in the Pacific Northwest and Alaska to enhance public transit on tribal lands.
-- Ramos is also a small business owner, demonstrating his entrepreneurial spirit and commitment to economic growth.
+Ramos later transitioned to the U.S. Department of Transportation, where he worked as a Community Planner specializing in rural and tribal transit systems. As the Federal Tribal Liaison, he collaborated with numerous tribes across the Pacific Northwest and Alaska to enhance public transit on tribal lands. His dedication to improving infrastructure and accessibility has been a hallmark of his career.
 
-Community Involvement:
-- Bill Ramos served as a member of the Issaquah City Council from 2016 to 2019. His contributions included serving on Issaquah’s Economic Vitality Commission, the Planning and Policy Commission, and as Chair of the Issaquah Human Service Commission.
-- As a legislator, he continues to prioritize the needs of his constituents:
-  - Advocating for the timely completion of Highway 18 widening and securing funding for Highway 169.
-  - Balancing environmental protection with job creation, including industry partnerships to sequester carbon.
-  - Championing public safety and law enforcement reform to build trust between police officers and the communities they serve.
-  - Addressing property tax concerns and promoting affordable housing options.
+In addition to his federal service, Ramos has been a small business owner since 1996, demonstrating his entrepreneurial spirit and understanding of local economic challenges. His political career began at the local level, serving on the Issaquah City Council from 2016 to 2018. During this time, he also contributed to various commissions, including the Economic Vitality Commission and the Human Services Commission.
 
-Bill Ramos remains committed to making a positive impact on Washington State through thoughtful legislation, community engagement, and a deep understanding of the issues that matter most to his district.
+As a state senator, Ramos has prioritized environmental protection, public safety reforms, and infrastructure development. He has been a vocal advocate for widening Highway 18 and securing funding for Highway 169, aiming to improve transportation and reduce congestion in his district. His legislative efforts also focus on affordable housing, reducing property taxes, and fostering industry partnerships to address climate change through carbon sequestration.
+
+Ramos’s multifaceted career reflects his deep commitment to public service, environmental conservation, and community development. His leadership continues to shape policies that benefit both his constituents and the broader state of Washington.

@@ -1,11 +1,11 @@
 ---
-date: 2024-06-18T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Tina Orwall"
-seo_title: "contact Representative Tina Orwall"
+seo_title: "contact Senator Tina Orwall"
 subheader:
-     greeting: Contact Representative Tina Orwall
-     description: Tina Orwall, born on April 3, 1965, is an American politician affiliated with the Democratic Party. She is a member of the Washington House of Representatives, representing District 33-Position 1. She assumed office in 2009.
-description: Contact Representative Tina Orwall of Washington. Contact information for Tina Orwall includes email address, phone number, and mailing address.
+     greeting: Contact Senator Tina Orwall
+     description: Tina Orwall is a dedicated member of the Democratic Party, serving in the Washington State Senate. Representing the 33rd District, she assumed office on December 10, 2024, and her current term is set to end in January 2029. Her commitment to public service and her district has been a hallmark of her career.
+description: Contact Senator Tina Orwall of Washington. Contact information for Tina Orwall includes email address, phone number, and mailing address.
 image: tina-orwall.jpeg
 video:
 url: /states/washington/tina-orwall/
@@ -16,37 +16,21 @@ layout: course_home
 name: Tina Orwall
 state: Washington
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2009
-mailing1: 338B LEG Room 430 LEG PO Box 40600 Olympia, WA 98504-0600
-phone1: 360-786-7834
-website: https://housedemocrats.wa.gov/orwall//
-email : https://housedemocrats.wa.gov/orwall//
+elected: 2025
+mailing1: 417 LEG Room 404 LEG PO Box 40482 Olympia, WA 98504-0482
+phone1: 360-786-7664
+website: https://senatedemocrats.wa.gov/orwall//
+email : https://senatedemocrats.wa.gov/orwall//
 twitter: tinaorwall
 ---
-Tina Louise Orwall (born April 3, 1965) is an American politician serving as the Speaker pro tempore of the Washington House of Representatives since 2021, a position she previously held from 2017 to 2018.
+Tina Orwall is a dedicated member of the Democratic Party, serving in the Washington State Senate. Representing the 33rd District, she assumed office on December 10, 2024, and her current term is set to end in January 2029. Her commitment to public service and her district has been a hallmark of her career.
 
-Background and Accomplishments :
-- Tina has represented the 33rd legislative district since 2009.
-- Her legislative accomplishments include:
-    - Rape Kit Reform : She played a crucial role in finally clearing the backlog of untested rape kits in 2023 and creating a trauma-informed response for survivors.
-    - Suicide Prevention Measures : Tina championed training requirements for suicide prevention in K-12 schools, higher education institutions, and Safer Homes. She also played a key role in implementing the 988 system in Washington.
-    - Anti-Trafficking Laws : Tina worked on anti-trafficking laws and protections for victims.
-    - Consumer Protections : She advocated for the Foreclosure Fairness Act and other consumer protections for homeowners.
-    - Language Access in Schools:** Tina focused on improving language access in schools.
-    - Deaf/Hard of Hearing Youth : She ensured coverage for hearing aids and drivers' education for deaf/hard of hearing youth.
-    - Assisted Reproduction Accountability : Tina worked to ensure accountability of assisted reproduction health care providers.
-    - Port Mitigation Measures : She addressed air quality in South King County.
-    - Wrongful Conviction Compensation : Tina advocated for compensation for those wrongly convicted.
-    - Adoptee Rights : She supported adoptee rights.
-- Tina's 20 years of experience in the public mental health system, along with her expertise in strategic planning for workforce development and affordable housing, have established her as a valued legislator and community leader.
-- She actively participates in the Kent Chamber of Commerce, serves as an Honorary Rotarian, and holds the position of State Director for Women In Government.
-- Tina's commitment to better serving the community extends beyond legislative work, as she has been involved in various organizations and boards.
+Before her tenure in the Senate, Tina Orwall had an extensive and impactful career in the Washington State House of Representatives, where she served from 2009 to 2024. During this time, she held the position of Speaker Pro Tempore on two occasions, showcasing her leadership and dedication to legislative progress. Her legislative efforts have been instrumental in addressing critical issues such as rape kit reform, suicide prevention, anti-trafficking laws, and consumer protections. She has also championed initiatives to improve language access in schools, enhance air quality, and support adoptee rights.
 
-Educational Background :
-- University of Washington:
-    - Bachelor of Science Degree in Psychology (1988)
-    - Master of Social Work in Administration (1991)
+Tina's professional background as a clinical social worker has deeply influenced her approach to governance. With over two decades of experience in the public mental health system, she has brought a compassionate and strategic perspective to her work. Her expertise in workforce development and affordable housing has further solidified her reputation as a legislator who prioritizes the well-being of her constituents.
 
-Tina Orwall's dedication to public service, combined with her educational background and community leadership, positions her as a tireless advocate for the people of Washington.
+Beyond her legislative duties, Tina Orwall is an active member of her community. She has been involved with organizations such as the Kent Chamber of Commerce, Women In Government, and various local boards. Her educational background includes a Bachelor of Science in Psychology and a Master of Social Work from the University of Washington, which have equipped her with the knowledge and skills to address complex social issues effectively.
+
+Tina Orwall's career is a testament to her unwavering commitment to public service and her ability to navigate the complexities of governance with empathy and determination. Her work continues to make a meaningful impact on the lives of those she represents.

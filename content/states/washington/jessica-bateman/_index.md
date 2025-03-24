@@ -1,11 +1,11 @@
 ---
-date: 2024-06-18T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Jessica Bateman"
-seo_title: "contact Representative Jessica Bateman"
+seo_title: "contact Senator Jessica Bateman"
 subheader:
-     greeting: Contact Representative Jessica Bateman
-     description: Jessica Bateman, born in 1981, is an American politician affiliated with the Democratic Party. She assumed office as a member of the Washington House of Representatives, representing District 22-Position 2, on January 11, 2021.
-description: Contact Representative Jessica Bateman of Washington. Contact information for Jessica Bateman includes email address, phone number, and mailing address.
+     greeting: Contact Senator Jessica Bateman
+     description: Jessica Bateman is a Democratic member of the Washington State Senate, representing the 22nd Legislative District. She assumed office on January 13, 2025, and her current term is set to end in January 2029.
+description: Contact Senator Jessica Bateman of Washington. Contact information for Jessica Bateman includes email address, phone number, and mailing address.
 image: jessica-bateman.jpeg
 video:
 url: /states/washington/jessica-bateman/
@@ -16,28 +16,23 @@ layout: course_home
 name: Jessica Bateman
 state: Washington
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2021
-mailing1: 338B LEG Room 317 JLOB PO Box 40600 Olympia, WA 98504-0600
-phone1: 360-786-7992
-website: https://housedemocrats.wa.gov/bateman//
-email : https://housedemocrats.wa.gov/bateman//
+elected: 2025
+mailing1: 417 LEG Room 409 LEG PO Box 40482 Olympia, WA 98504-0482
+phone1: 360-786-7642
+website: https://senatedemocrats.wa.gov/bateman//
+email : https://senatedemocrats.wa.gov/bateman//
 twitter: jessdbateman
 ---
-Jessica Danielle Bateman (born 1981) is an American politician representing District 22 in the Washington House of Representatives. Elected in 2020, she assumed office on January 11, 2021, succeeding Beth Doglio.
+Jessica Bateman is a Democratic member of the Washington State Senate, representing the 22nd Legislative District. She assumed office on January 13, 2025, and her current term is set to end in January 2029.
 
-Background and Advocacy :
-Rep. Jessica Bateman lives by the commitment that no one should be left out or left behind. A lifelong resident of the Pacific Northwest, she grew up in a single-parent, working-class household. Watching her mom work hard to provide for her family deeply shaped Jessica’s worldview and later motivated her advocacy for those most vulnerable in our communities.
+Jessica Bateman has dedicated her career to public service and advocacy, with a focus on creating inclusive and equitable communities. A lifelong resident of the Pacific Northwest, she grew up in a single-parent, working-class household, which shaped her commitment to addressing the needs of vulnerable populations. Her early experiences inspired her to pursue a career in public policy and community development.
 
-As an organizer and coalition leader, Jessica has worked tirelessly to create affordable housing, assist struggling families, and empower at-risk youth. She played a pivotal role in passing a Sanctuary City Resolution in Olympia, demonstrating her commitment to inclusivity and social justice. Additionally, Jessica is a passionate advocate for accessible health care, recognizing its importance in ensuring the well-being of all residents.
+Before joining the State Senate, Bateman served as a member of the Washington House of Representatives, representing the same district. During her tenure in the House, she was known for her efforts to tackle housing affordability, expand access to healthcare, and promote environmental sustainability. She also played a key role in passing legislation aimed at increasing housing construction and addressing the state's housing crisis.
 
-Education and Career :
-Jessica is a first-generation college student who earned her master’s degree in Public Administration from The Evergreen State College and her bachelor’s degree in environmental science. Her educational background equips her with a strong foundation for addressing complex policy issues.
+Bateman's educational background includes a Bachelor of Arts in Environmental Studies and a Master of Public Policy from Evergreen State College. She is a first-generation college graduate, and her academic achievements reflect her determination to overcome challenges and make a difference in her community.
 
-Currently, Jessica works as a health care policy analyst, where she continues to champion policies that improve health outcomes and promote equity. Her experience on the Olympia City Council and as staff in the House of Representatives has further honed her skills in governance and policymaking.
+In addition to her legislative work, Bateman has been actively involved in local government and community organizations. She served on the Olympia City Council, where she worked to pass a Sanctuary City Resolution and advocated for policies that support working families and at-risk youth. Her leadership and dedication have earned her recognition as a passionate and effective advocate for social justice and equity.
 
-Legislative Accomplishments :
-During her tenure, Jessica has authored legislation to increase housing construction in Washington, recognizing the urgent need for affordable and accessible housing options. Her commitment to environmental sustainability and social justice informs her work, and she actively collaborates with colleagues to find innovative solutions.
-
-Rep. Jessica Bateman’s dedication to her constituents and her vision of an inclusive, equitable future for all who call the 22nd Legislative District home make her a valuable advocate and leader in Washington state politics.
+Throughout her career, Jessica Bateman has remained committed to putting people first and ensuring that no one is left behind. Her work in the Washington State Senate continues to reflect her vision for a more inclusive and equitable future for all residents of the 22nd Legislative District and beyond.

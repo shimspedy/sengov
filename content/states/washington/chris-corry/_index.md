@@ -1,10 +1,10 @@
 ---
-date: 2024-06-18T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Chris Corry"
 seo_title: "contact Representative Chris Corry"
 subheader:
      greeting: Contact Representative Chris Corry
-     description: Chris Corry, born in 1982, is an American politician affiliated with the Republican Party. He assumed office as a member of the Washington House of Representatives, representing District 14-Position 1, on January 14, 2019.
+     description: Chris Corry is a Republican member of the Washington House of Representatives, representing District 15. He assumed office on January 13, 2025, and his current term is set to end on January 11, 2027.
 description: Contact Representative Chris Corry of Washington. Contact information for Chris Corry includes email address, phone number, and mailing address.
 image: chris-corry.jpeg
 video:
@@ -19,18 +19,18 @@ party: Republican
 role: Representative
 inoffice: current
 elected: 2019
-mailing1: 338B LEG Room 122F LEG PO Box 40600 Olympia, WA 98504-0600
+mailing1: 338B LEG Room 335A LEG PO Box 40600 Olympia, WA 98504-0600
 phone1: 360-786-7810
-website: http://chriscorry.houserepublicans.wa.gov//
-email : http://chriscorry.houserepublicans.wa.gov//
+website: https://chriscorry.houserepublicans.wa.gov//
+email : https://chriscorry.houserepublicans.wa.gov//
 twitter: repcorry
 ---
-Chris Corry (born 1982) is an American politician and businessman serving as a member of the Washington House of Representatives from the 14th district, which includes portions of Yakima County, Washington.
+Chris Corry is a Republican member of the Washington House of Representatives, representing District 15. He assumed office on January 13, 2025, and his current term is set to end on January 11, 2027.
 
-Education :
-Corry earned a Bachelor of Arts degree in political science from the University of Washington.
+Born in California in 1982, Chris Corry pursued his education at the University of Washington, where he earned a Bachelor of Arts degree in political science. It was during his time in Southern California that he met his wife, Jennica. The couple later moved to Yakima, Washington, Jennica's hometown, seeking a better environment to raise their family. Together, they have four children.
 
-Career :
-After graduating from college, Corry moved to Southern California, where he met his wife, Jennica. The two eventually moved to Yakima, Washington, Jennica's hometown. Corry has worked as a risk management advisor and in the insurance industry.
+Before entering politics, Corry built a career as a risk management advisor and worked in the insurance industry. His professional background provided him with insights into the challenges faced by businesses and individuals, which he carried into his legislative work. Corry's decision to enter public service was driven by his passion for the state and national Constitutions and his commitment to serving the communities of Central Washington.
 
-Elected in 2018, Corry assumed office on January 14, 2019.
+As a legislator, Chris Corry has focused on several key priorities, including protecting parental rights, ensuring a fully funded and effective K-12 education system, and supporting law enforcement with the tools needed to maintain public safety. He has also been an advocate for reducing taxes, curbing irresponsible budget growth, and fostering job creation by protecting businesses from excessive regulations. Additionally, Corry has championed reforms to balance emergency powers between the Executive and Legislative branches and has worked to improve Washington's mental health system.
+
+Beyond his legislative duties, Corry is deeply involved in his community. He has volunteered with organizations such as the Salvation Army and Crime Stoppers of Yakima County and serves as a board member for the Central Washington Fair Association. His dedication to public service and community engagement reflects his commitment to making a positive impact on the lives of those he represents.

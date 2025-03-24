@@ -1,11 +1,11 @@
 ---
-date: 2024-06-18T11:54:12-05:00
+date: 2025-03-26T11:54:12-05:00
 title: "Vandana Slatter"
-seo_title: "contact Representative Vandana Slatter"
+seo_title: "contact Senator Vandana Slatter"
 subheader:
-     greeting: Contact Representative Vandana Slatter
-     description: Dr. Vandana Slatter is a State Representative in the Washington State Legislature, representing the 48th Legislative District, which includes parts of Bellevue, Redmond, Kirkland and all of Clyde Hill, Medina, Yarrow Point and Hunts Point. 
-description: Contact Representative Vandana Slatter of Washington. Contact information for Vandana Slatter includes email address, phone number, and mailing address.
+     greeting: Contact Senator Vandana Slatter
+     description: Vandana Slatter is a Democratic member of the Washington State Senate, representing the 48th Legislative District. She assumed office on January 7, 2025, and her current term is set to end in January 2029.
+description: Contact Senator Vandana Slatter of Washington. Contact information for Vandana Slatter includes email address, phone number, and mailing address.
 image: vandana-slatter.jpeg
 video:
 url: /states/washington/vandana-slatter/
@@ -16,23 +16,23 @@ layout: course_home
 name: Vandana Slatter
 state: Washington
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2017
-mailing1: 338B LEG Room 308 JLOB PO Box 40600 Olympia, WA 98504-0600
-phone1: 360-786-7936
-website: https://housedemocrats.wa.gov/slatter//
-email : https://housedemocrats.wa.gov/slatter//
-twitter: 
+elected: 2025
+mailing1: 417 LEG Room 213 JCB PO Box 40482 Olympia, WA 98504-0482
+phone1: 360-786-7694
+website: https://senatedemocrats.wa.gov/slatter//
+email : https://senatedemocrats.wa.gov/slatter//
+twitter: slattervandana
 ---
-Dr. Vandana Slatter is a State Representative in the Washington State Legislature, representing the 48th Legislative District, which includes parts of Bellevue, Redmond, Kirkland and all of Clyde Hill, Medina, Yarrow Point and Hunts Point. She chairs the House Post Secondary Education & Workforce Committee and serves on the Environment & Energy, and the Appropriations Committees. She also is Co-chair of the Science, Technology and Innovation Caucus, and serves on the Future of Work Task Force, the Electric Airplane Working Group, and the Sustainable Aviation Biofuels Work Group.
+Vandana Slatter is a Democratic member of the Washington State Senate, representing the 48th Legislative District. She assumed office on January 7, 2025, and her current term is set to end in January 2029.
 
-Vandana served on the Bellevue City Council in 2016 and represented the Council on the Eastside Transportation Partnership; King County EMS Advisory Task Force; Cascade Water Alliance; Environmental Services Commission, and was Youth Link Board Liaison.
+Dr. Vandana Slatter has a rich and diverse background that combines public service, healthcare, and education. Before her tenure in the Senate, she served four consecutive terms in the Washington State House of Representatives, where she championed legislation aimed at expanding access to education, protecting healthcare privacy, and addressing climate change. Her dedication to public service began even earlier, as a Bellevue City Councilmember, where she worked on initiatives to improve community well-being and sustainability.
 
-Her public service activities include advocacy for access to medicine, healthcare, and education. She currently serves on the UW Evans School Advisory Board. In 2007, Vandana was appointed by Governor Gregoire to a four-year term on the Washington State Board of Pharmacy. She has also served on the boards of NARAL Pro-Choice Washington, the Children’s Institute for Learning Differences, the Overlake Hospital Foundation, and Farmer Frog.
+Dr. Slatter's professional career is equally impressive. She is a licensed pharmacist and has over two decades of experience as a clinical scientist in leading biotech companies. Her expertise in healthcare has been a driving force behind her legislative priorities, including expanding access to healthcare and defending reproductive rights. She also served on the Washington State Board of Pharmacy, where she contributed to shaping healthcare policies.
 
-Prior to being elected to the Bellevue City Council in 2015, Vandana worked for over 20 years as a clinical scientist in leading biotech/pharma companies Amgen, Genentech/Roche, UCB Pharma & Pharmacia/Pfizer. She also worked as a hospital pharmacist at Battle Creek Health Systems in Michigan.
+An advocate for education and workforce development, Dr. Slatter believes that investing in post-secondary education is crucial for the future of Washington State. She has also been a strong proponent of environmental protection and the growth of a green economy. In the Senate, she serves as vice chair of the Environment, Energy & Technology Committee and is a member of the Health & Long-Term Care and Higher Education & Workforce Development committees.
 
-Dr. Slatter received a Bachelor of Science in Pharmacy (BSc Pharm) from the University of British Columbia, Canada, a Doctor of Pharmacy (PharmD) from the University of Washington, and a Master of Public Administration (MPA) from the Evans School of Public Affairs at the University of Washington. She is a licensed pharmacist in the State of Washington. At UBC, she earned a varsity athletic letter in the sport of fencing, was captain of the UBC women’s varsity fencing team and gold medalist at the BC Junior Women’s foil championships.
+Dr. Slatter's academic achievements include a Bachelor of Science in Pharmacy from the University of British Columbia, a Doctor of Pharmacy from the University of Washington, and a Master of Public Administration from the Evans School of Public Affairs at the University of Washington. Her commitment to excellence extends beyond academics; she was also a gold medalist in fencing during her university years.
 
-Vandana, her husband Greg and their son have called Bellevue home since 2003.
+Vandana Slatter and her husband, Greg, have been residents of Bellevue since 2003. Together, they are deeply involved in their community, reflecting her belief in putting people first and fostering a better future for all.
