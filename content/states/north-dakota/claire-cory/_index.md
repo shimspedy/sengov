@@ -1,11 +1,11 @@
 ---
-date: 2024-04-07T11:54:12-05:00
+date: 2025-03-10T11:54:12-05:00
 title: "Claire Cory"
-seo_title: "contact Representative Claire Cory"
+seo_title: "contact Senator Claire Cory"
 subheader:
-     greeting: Contact Representative Claire Cory
-     description: Claire Cory, born on September 11, 1998, is an American politician who is currently serving as a member of the North Dakota House of Representatives from the 42nd district. She assumed office on October 11, 2019, succeeding Jake Blum.
-description: Contact Representative Claire Cory of North Dakota. Contact information for Claire Cory includes email address, phone number, and mailing address.
+     greeting: Contact Senator Claire Cory
+     description: Claire Cory is a Republican member of the North Dakota State Senate, representing District 42. She assumed office on December 1, 2024, and her current term will end on December 1, 2028.
+description: Contact Senator Claire Cory of North Dakota. Contact information for Claire Cory includes email address, phone number, and mailing address.
 image: claire-cory.jpeg
 video:
 url: /states/north-dakota/claire-cory/
@@ -16,24 +16,21 @@ layout: course_home
 name: Claire Cory
 state: North Dakota
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2019
-mailing1: State Capitol 600 E Boulevard Ave Bismarck, ND 58505-0360
-phone1: 701-213-6553
-website: https://www.ndlegis.gov/biography/claire-cory/
-email : https://www.ndlegis.gov/biography/claire-cory/
+elected: 2024
+mailing1: State Capitol 600 E Boulevard Avenue Dept 108 Bismarck, ND 58505-0360
+phone1: 701-741-2612
+website: https://ndlegis.gov/biography/claire-cory/
+email : https://ndlegis.gov/biography/claire-cory/
 twitter: claireforhouse
 ---
-Claire Cory, born on September 11, 1998, is an American politician who is currently serving as a member of the North Dakota House of Representatives from the 42nd district. She assumed office on October 11, 2019, succeeding Jake Blum.
+Claire Cory is a Republican member of the North Dakota State Senate, representing District 42. She assumed office on December 1, 2024, and her current term will end on December 1, 2028.​
 
-Cory was born and raised in Grand Forks, North Dakota. She completed her high school education at Grand Forks Central High School. Following her high school graduation, she pursued higher education at the University of North Dakota. There, she earned a Bachelor of Science degree in public administration and political science.
+Born on September 11, 1998, in Grand Forks, North Dakota, Claire has deep roots in her community. She graduated from Grand Forks Central High School and pursued higher education at the University of North Dakota (UND), where she earned Bachelor of Science degrees in Public Administration and Political Science. During her time at UND, she was recognized as a Council of State Governments' Bowhay Institute for Legislative Leadership Development (CSG BILLD) Fellow, highlighting her commitment to public service and leadership development.​
 
-Before her political career, in 2018, Cory worked as an intern for the North Dakota Republican Party and the United States Senate. Her dedication and hard work led to her appointment to represent District 42 in the North Dakota House of Representatives in 2019. She assumed her office on October 11, 2019, and was subsequently elected in November 2020.
+Claire's professional experience is diverse and community-focused. She has worked as an Event Coordinator, showcasing her organizational skills and ability to bring people together. Her dedication to public service was evident early in her career; in 2018, she served as an intern for the North Dakota Republican Party and the United States Senate, gaining valuable insights into the legislative process. Additionally, she worked as an election official for Grand Forks County in 2018, ensuring the integrity and smooth operation of local elections. Her commitment to her community is further demonstrated by her role as a mentor for the S.M.I.L.E program with the Grand Forks Park District in 2016, where she guided and supported young individuals in their personal development.​
 
-Cory has made history as the youngest female ever elected to the legislature in the state of North Dakota. Her commitment to her role and her constituents is evident in her work and achievements.
+Claire's political career began in the North Dakota House of Representatives, where she represented District 42 from 2019 to 2024. During her tenure in the House, she served on several committees, including the Judiciary Committee and the Government and Veterans Affairs Committee, contributing to the development and oversight of legislation in these critical areas. In February 2024, Claire announced her candidacy for the North Dakota State Senate seat for District 42, following the retirement of Senator Curt Kreun. She secured the Republican nomination in June 2024 and won the general election in November 2024. As a state senator, Claire serves as the Vice Chair of the Transportation Committee and is a member of the Judiciary Committee, where she continues to advocate for policies that benefit her constituents and the state of North Dakota.​
 
-In addition to her legislative duties, Cory has also served on the University Senate at the University of North Dakota. Her contact information includes a postal address of P.O. Box 5094, Grand Forks, ND 58206-5094, and a cell phone number of 701-213-6553. She can also be reached via email at clairecory@ndlegis.gov.
-
-As of the 68th Legislative Assembly - Regular Session in 2023, Cory continues to serve as a Republican representative for District 42 in Grand Forks. She has sponsored numerous bills and is a member of several committees, including the Interim (Vice Chair) Higher Education Committee and the Judiciary Committee. She also serves on the Standing Government and Veterans Affairs Judiciary.
-
+Claire's dedication to public service, combined with her educational background and professional experience, positions her as a committed and effective representative for the people of District 42. Her ongoing involvement in community initiatives and legislative work reflects her unwavering commitment to the betterment of her community and state.

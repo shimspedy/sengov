@@ -1,11 +1,11 @@
 ---
-date: 2024-05-31T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Sue Peterson"
-seo_title: "contact Representative Sue Peterson"
+seo_title: "contact Senator Sue Peterson"
 subheader:
-     greeting: Contact Representative Sue Peterson
-     description: Senator Sue Peterson, a member of the South Dakota House of Representatives and a candidate for the South Dakota State Senate representing District 13.
-description: Contact Representative Sue Peterson of South Dakota. Contact information for Sue Peterson includes email address, phone number, and mailing address.
+     greeting: Contact Senator Sue Peterson
+     description: Sue Peterson is a Republican member of the South Dakota State Senate, representing District 13. She assumed office on January 14, 2025, and her current term is set to end on January 12, 2027.
+description: Contact Senator Sue Peterson of South Dakota. Contact information for Sue Peterson includes email address, phone number, and mailing address.
 image: sue-peterson.jpeg
 video:
 url: /states/south-dakota/sue-peterson/
@@ -16,17 +16,23 @@ layout: course_home
 name: Sue Peterson
 state: South Dakota
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2017
+elected: 2025
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
-phone1: 605-773-3851
-website: https://sdlegislature.gov/Legislators/Profile/4545/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4545/Detail/
+phone1: 605-773-3821
+website: https://sdlegislature.gov/Legislators/Profile/4651/Detail/
+email : https://sdlegislature.gov/Legislators/Profile/4651/Detail/
 twitter: suepetersonsd
 ---
-Sue Peterson is an American politician who currently serves in the South Dakota House of Representatives. Prior to her political career, she worked as a commercial banker and a track coach at Sioux Falls Christian High School. However, the job she is most proud of is being a mom. Sue and her husband Bill have three grown children—Lucas, Robert, and William—who were born, raised, and continue to reside in Sioux Falls.
+Sue Peterson is a Republican member of the South Dakota State Senate, representing District 13. She assumed office on January 14, 2025, and her current term is set to end on January 12, 2027.
 
-Rep. Peterson has had the privilege of serving the people of District 13 in the South Dakota House of Representatives for the past seven years. During her time in the State Legislature, she has been actively involved in various committees. Notably, she served as the Chair of the Government Operations and Audit Committee, Vice Chair of the Education Committee, and Vice Chair of the Military and Veterans Affairs Committee.
+Sue Peterson has been a dedicated public servant with a strong commitment to her community. Before her tenure in the State Senate, she served in the South Dakota House of Representatives, representing the same district from 2017 to 2025. Her legislative career has been marked by her focus on education, fiscal responsibility, and community development. Sue has been an active participant in various committees, including the Appropriations Committee, where she worked to ensure adequate funding for essential services and programs.
 
-In addition to her legislative duties, Sue Peterson is currently running for election to the South Dakota State Senate to represent District 13. Her commitment to public service and her dedication to her community make her a strong advocate for the people of South Dakota.
+Beyond her political career, Sue has a rich professional background. She holds a bachelor's degree in Business Administration and Communications from Concordia College and an MBA from the University of South Dakota. Her career experience includes working as a commercial banker, where she honed her financial expertise, and as a high school track and field coach, where she positively impacted the lives of many young people.
+
+Sue is deeply rooted in her community in Sioux Falls, South Dakota. She and her husband, Bill, have three grown children who were born and raised in the area. Sue's dedication to her family and her community is evident in her legislative priorities, which include supporting strong families, promoting quality education, and fostering a favorable business climate with low taxes and minimal government regulation.
+
+Throughout her career, Sue has been recognized for her leadership and commitment to her constituents. She has sponsored and passed significant legislation, including measures to expand educational opportunities, protect free speech, and enhance public safety. Her work reflects her belief in empowering individuals and families while maintaining accountability in government operations.
+
+Sue Peterson's journey as a legislator and community leader showcases her unwavering dedication to making South Dakota a better place to live, work, and raise a family. Her efforts continue to leave a lasting impact on her district and the state as a whole.

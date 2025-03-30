@@ -1,11 +1,11 @@
 ---
-date: 2024-05-31T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Jack Kolbeck"
-seo_title: "contact Senator Jack Kolbeck"
+seo_title: "contact Representative Jack Kolbeck"
 subheader:
-     greeting: Contact Senator Jack Kolbeck
-     description: Jack Kolbeck is an American politician serving as a member of the South Dakota Senate from the 13th district. Elected in 2016, he assumed office on January 10, 2017.
-description: Contact Senator Jack Kolbeck of South Dakota. Contact information for Jack Kolbeck includes email address, phone number, and mailing address.
+     greeting: Contact Representative Jack Kolbeck
+     description: Jack Kolbeck is a Republican member of the South Dakota House of Representatives, representing District 13. He assumed office on February 5, 2025, and his current term is set to end on January 12, 2027.
+description: Contact Representative Jack Kolbeck of South Dakota. Contact information for Jack Kolbeck includes email address, phone number, and mailing address.
 image: jack-kolbeck.jpeg
 video:
 url: /states/south-dakota/jack-kolbeck/
@@ -16,24 +16,23 @@ layout: course_home
 name: Jack Kolbeck
 state: South Dakota
 party: Republican
-role: Senator
+role: Representative
 inoffice: current
-elected: 2016
+elected: 2025
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
-phone1: 605-773-3821
-website: https://sdlegislature.gov/Legislators/Profile/4516/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4516/Detail/
-twitter: jkolbeckrd13
+phone1: 605-773-3851
+website: https://sdlegislature.gov/Legislators/Profile/4727/Detail/
+email : https://sdlegislature.gov/Legislators/Profile/4727/Detail/
+twitter: 
 ---
-Jack Kolbeck is an American politician serving as a member of the South Dakota Senate from the 13th district. Elected in 2016, he assumed office on January 10, 2017.
+Jack Kolbeck is a Republican member of the South Dakota House of Representatives, representing District 13. He assumed office on February 5, 2025, and his current term is set to end on January 12, 2027.
 
-Background:
-Kolbeck was born in McCook County, South Dakota. He earned a bachelor's degree in business from South Dakota State University. Prior to serving in the Senate, Kolbeck worked as a beer distributor in Sioux Falls, South Dakota. He is a member of the Republican Party.
+Born in McCook County, South Dakota, Jack Kolbeck has dedicated much of his life to public service and community involvement. He earned a bachelor's degree in economics and political science from South Dakota State University in 1974. Before entering politics, Kolbeck built a successful career in the malt beverage industry, working as the Key Accounts Manager for Beal Distributing since 2002. His professional experience has given him a strong understanding of business and economic issues, which he brings to his legislative work.
 
-Personal Details:
-- Born: McCook County, South Dakota
-- Education: Bachelor's degree in business from South Dakota State University
-- Spouse: Muriel
-- Children: 3
+Kolbeck's political career began in the South Dakota Senate, where he represented District 13 from 2017 to 2024. During his tenure in the Senate, he served on various committees, including the Appropriations Committee and the Military and Veterans' Affairs Committee. He also held the position of Majority Whip from 2023 to 2024, showcasing his leadership skills and commitment to his party's values.
 
-Senator Kolbeck has been actively involved in legislative matters, advocating for the interests of his constituents. His commitment to public service and his background in business contribute to his effectiveness as a legislator.
+In February 2025, Kolbeck was appointed to the South Dakota House of Representatives to fill a vacancy left by Tony Venhuizen. As a legislator, he continues to focus on issues such as economic development, veterans' affairs, and community well-being. His dedication to his constituents and his ability to work collaboratively with colleagues have earned him respect across party lines.
+
+Outside of his political and professional life, Kolbeck is deeply involved in his community. He serves as a board member for several organizations, including the National Beer Distributors Association and Call to Freedom, a nonprofit focused on combating human trafficking. He is also the president of the 50-and-over Sioux Falls Men's Slowpitch Softball League, reflecting his passion for sports and community engagement.
+
+Jack Kolbeck has been married to his wife, Muriel, for over 46 years. Together, they have three children and ten grandchildren. The Kolbeck family has been residents of Sioux Falls for more than five decades and are active members of Central Church since 1978. Kolbeck's strong family values and deep roots in his community continue to guide his work as a public servant.

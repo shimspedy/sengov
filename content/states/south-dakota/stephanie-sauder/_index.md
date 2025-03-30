@@ -1,11 +1,11 @@
 ---
-date: 2024-05-31T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Stephanie Sauder"
-seo_title: "contact Representative Stephanie Sauder"
+seo_title: "contact Senator Stephanie Sauder"
 subheader:
-     greeting: Contact Representative Stephanie Sauder
-     description: Stephanie Sauder is a fourth-generation South Dakotan and lifelong Hamlin County resident. After serving District 4 in the House of Representatives and serving as Mayor of Bryant, Steph is now running to serve in the State Senate.
-description: Contact Representative Stephanie Sauder of South Dakota. Contact information for Stephanie Sauder includes email address, phone number, and mailing address.
+     greeting: Contact Senator Stephanie Sauder
+     description: Stephanie Sauder is a Republican serving in the South Dakota State Senate, representing District 4. She assumed office on January 14, 2025, and her current term is set to end on January 12, 2027.
+description: Contact Senator Stephanie Sauder of South Dakota. Contact information for Stephanie Sauder includes email address, phone number, and mailing address.
 image: stephanie-sauder.jpeg
 video:
 url: /states/south-dakota/stephanie-sauder/
@@ -16,31 +16,21 @@ layout: course_home
 name: Stephanie Sauder
 state: South Dakota
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2023
+elected: 2025
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
-phone1: 605-773-3851
-website: https://sdlegislature.gov/Legislators/Profile/4555/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4555/Detail/
-twitter:
+phone1: 605-773-3821
+website: https://sdlegislature.gov/Legislators/Profile/4661/Detail/
+email : https://sdlegislature.gov/Legislators/Profile/4661/Detail/
+twitter: 
 ---
-Stephanie Sauder is a fourth-generation South Dakotan and lifelong Hamlin County resident. After serving District 4 in the House of Representatives and serving as Mayor of Bryant, Steph is now running to serve in the State Senate.
+Stephanie Sauder is a Republican serving in the South Dakota State Senate, representing District 4. She assumed office on January 14, 2025, and her current term is set to end on January 12, 2027.
 
-## Focused on Family
+Stephanie Sauder has had a distinguished career in public service and education. Before her tenure in the State Senate, she served in the South Dakota House of Representatives, also representing District 4. Her journey into politics was preceded by a long and impactful career as a K-12 educator in the Hamlin School District. Her dedication to education extended beyond the classroom, as she also worked as a training officer with the South Dakota Department of Education. Sauder's commitment to her community was evident during her time as the mayor of Bryant, South Dakota, where she served for eight years, focusing on local development and community engagement.
 
-Steph has deep roots in South Dakota. She grew up farming with her family, the Laknesses, in Hamlin County. Today, the fifth generation of the Lakness Family Farm operation continues to farm, as do Steph and her husband, Jerry. Their combined operations cover Hamlin, Codington, Clark, and Kingsbury counties.
+In addition to her political and educational roles, Sauder has been actively involved in journalism, serving as the editor of the Hamlin Co. Herald Enterprise. Her leadership and communication skills have been instrumental in her various roles, showcasing her ability to connect with people and address their concerns effectively.
 
-Steph and Jerry are the proud parents of Levi and Isaac. Both sons followed the call for public service as law enforcement officers in South Dakota, protecting their communities. Grandson George keeps the Sauder family on their toes.
+Sauder's academic background includes a Bachelor of Science in Education from Dakota State University, earned in 1990, and a Master of Science in K-12 Educational Leadership and Administration from Northern State University, completed in 2012. Her educational achievements have provided her with a strong foundation for her work in both teaching and legislative roles.
 
-As a retired elementary school teacher, Steph is passionate about ensuring that South Dakota schools are the best they can be, so students have bright futures. She has also owned and managed a local newspaper, believing in reaching out to the public with information and transparency.
-
-## Focused on Community
-
-Steph learned the values of faith, family, freedom, and farming from her parents, Milt and Benita Lakness. Her parents emphasized public service and giving back to the community. Milt served as a State House Representative, and Benita served as a Hamlin County Commissioner. For eight years, Steph served as mayor in Bryant, where she led with common sense, conservative values, and always did what was best for her neighbors and the community.
-
-As a legislator, Steph continues to collaborate with citizens throughout the district on all issues. Her focus, discipline, and principles have resulted in legislative wins for the region—a trend that will continue when she moves to the State Senate.
-
-## Focused on South Dakota
-
-Steph’s approach to serving in the Legislature is simple: listen to the citizens and do good things for South Dakota. As a mother, grandmother, farmer, retired teacher, former small business owner, community volunteer, and woman of faith, Steph knows the issues important to South Dakota. She is committed to working toward positive policy initiatives that will help move the state forward while preserving our rural values.
+Throughout her career, Stephanie Sauder has demonstrated a deep commitment to her community and state, advocating for policies that benefit her constituents and enhance the quality of life in South Dakota. Her multifaceted career reflects her dedication to public service, education, and community development.

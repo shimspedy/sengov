@@ -1,11 +1,11 @@
 ---
-date: 2024-07-09T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Luke Rankin"
-seo_title: "contact Senator Luke Rankin"
+seo_title: "contact Representative Luke Rankin"
 subheader:
-     greeting: Contact Senator Luke Rankin
-     description: Luke Rankin, born on April 9, 1962, is an American politician affiliated with the Republican Party. He is a member of the South Carolina State Senate, representing District 33, and assumed office in 1992.
-description: Contact Senator Luke Rankin of South Carolina. Contact information for Luke Rankin includes email address, phone number, and mailing address.
+     greeting: Contact Representative Luke Rankin
+     description: Luke Rankin is a member of the Republican Party serving in the South Carolina House of Representatives. He represents District 14 and assumed office on November 11, 2024. His current term is set to end on November 9, 2026.
+description: Contact Representative Luke Rankin of South Carolina. Contact information for Luke Rankin includes email address, phone number, and mailing address.
 image: luke-rankin.jpeg
 video:
 url: /states/south-carolina/luke-rankin/
@@ -16,29 +16,19 @@ layout: course_home
 name: Luke Rankin
 state: South Carolina
 party: Republican
-role: Senator
+role: Representative
 inoffice: current
-elected: 1993
-mailing1:  P.O. Box 142 Room 101 Columbia, SC 29202-0142
-phone1: 803-212-6610
-website: http://www.scstatehouse.gov/member.php?code=1511363455/
-email : http://www.scstatehouse.gov/member.php?code=1511363455/
-twitter: lukerankinsc
+elected: 2025
+mailing1:  P.O. Box 11867 Room 420A Columbia, SC 29211-1867
+phone1: 803-212-6713
+website: https://www.scstatehouse.gov/member.php?code=1510227092/
+email : https://www.scstatehouse.gov/member.php?code=1510227092/
+twitter: 
 ---
-Senator Luke A. Rankin
+Luke Rankin is a member of the Republican Party serving in the South Carolina House of Representatives. He represents District 14 and assumed office on November 11, 2024. His current term is set to end on November 9, 2026.
 
-- **Party Affiliation:** Republican
-- **District:** Horry District 33 (Horry County)
-- **Born:** April 9, 1962, in Horry County
-- **Education:** University of South Carolina, B.A. (1984), J.D. (1987)
-- **Family:** Married to Lindsey Bonds since May 28, 2011; they have two children, Luke Jr. and Hollings
-- **Residence:** Myrtle Beach (3745 Waterford Dr.)
+Luke Rankin has a background in the banking industry, which has shaped his approach to economic and financial policies during his tenure. He earned his bachelor's degree from Southern New Hampshire University, equipping him with a solid foundation in business and public service. Before his election to the South Carolina House of Representatives, Rankin was actively involved in local governance. He served as a member of the Laurens County Council and also held the position of chair of the Laurens County Republican Party. These roles allowed him to gain valuable experience in addressing community needs and advocating for local interests.
 
-**Committee Assignments:**
-- Senate Judiciary Committee (Chairman)
-- Senate Banking and Insurance Committee
-- Senate Education Committee
-- Senate Ethics Committee
-- Senate Transportation Committee
+In the South Carolina House of Representatives, Rankin is a member of the Agriculture, Natural Resources & Environmental Affairs Committee and the Rules Committee. His legislative priorities include promoting sustainable agricultural practices, protecting natural resources, and ensuring that environmental policies align with the economic growth of South Carolina. His work in these committees reflects his commitment to balancing economic development with environmental stewardship.
 
-Senator Rankin has been serving in the South Carolina Senate since 1993. His dedication to public service and his leadership roles in various committees have made him a respected figure in the state's legislative landscape.
+Luke Rankin's dedication to public service and his community-focused approach have earned him recognition among his constituents. He continues to work towards policies that benefit the residents of District 14 and contribute to the overall progress of South Carolina.

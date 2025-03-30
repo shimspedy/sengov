@@ -1,11 +1,11 @@
 ---
-date: 2024-07-09T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Russell Ott"
-seo_title: "contact Representative Russell Ott"
+seo_title: "contact Senator Russell Ott"
 subheader:
-     greeting: Contact Representative Russell Ott
-     description: Russell L. Ott, an American politician affiliated with the Democratic Party, assumed office as a member of the South Carolina House of Representatives, representing District 93, on October 29, 2013.
-description: Contact Representative Russell Ott of South Carolina. Contact information for Russell Ott includes email address, phone number, and mailing address.
+     greeting: Contact Senator Russell Ott
+     description: Russell L. Ott is a Democratic Party member serving in the South Carolina State Senate, representing District 26. He assumed office on November 11, 2024, and his current term is set to end on November 13, 2028.
+description: Contact Senator Russell Ott of South Carolina. Contact information for Russell Ott includes email address, phone number, and mailing address.
 image: russell-ott.jpeg
 video:
 url: /states/south-carolina/russell-ott/
@@ -16,19 +16,21 @@ layout: course_home
 name: Russell Ott
 state: South Carolina
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2013
-mailing1:  P.O. Box 11867 Room 422C Columbia, SC 29211-1867
-phone1: 803-212-6945
-website: http://www.scstatehouse.gov/member.php?code=1433096420/
-email : http://www.scstatehouse.gov/member.php?code=1433096420/
+elected: 2025
+mailing1:  P.O. Box 142 Room 513 Columbia, SC 29202-0142
+phone1: 803-212-6140
+website: https://www.scstatehouse.gov/member.php?code=1433096420/
+email : https://www.scstatehouse.gov/member.php?code=1433096420/
 twitter: reprussellott
 ---
-Russell L. Ott is an American lobbyist and politician from the state of South Carolina. He is a member of the Democratic Party and represents the 93rd district in the South Carolina House of Representatives. Born in St. Matthews, South Carolina, Ott graduated from Clemson University with a Bachelor's degree in English. He later earned his Master of Public Administration from the University of South Carolina.
+Russell L. Ott is a Democratic Party member serving in the South Carolina State Senate, representing District 26. He assumed office on November 11, 2024, and his current term is set to end on November 13, 2028.
 
-Before entering politics, Ott worked as a lobbyist for the South Carolina Farm Bureau Federation for eight years. His father, Harry L. Ott, Jr., previously held the same seat in the House but resigned in 2013. Russell declared his candidacy in the special election to fill the remainder of his father's term and won, defeating Republican Charles Stoudemire.
+Born and raised in St. Matthews, South Carolina, Russell Ott has deep roots in his community. He earned a Bachelor’s degree in English from Clemson University and later pursued a Master of Public Administration from the University of South Carolina. Before entering politics, Ott worked as a lobbyist for the South Carolina Farm Bureau Federation, where he spent eight years advocating for agricultural interests. His professional background also includes serving as a town administrator for several municipalities, showcasing his commitment to public service at the local level.
 
-In addition to his legislative duties, Ott serves on the House Legislative Oversight and the Labor, Commerce, and Industry Committees. He has also held the position of Assistant Minority Leader of the House. Recently, he announced his candidacy for the State Senate District 26 seat, which is currently held by incumbent Senator Nikki G. Setzler.
+Ott’s political journey began in 2013 when he was elected to the South Carolina House of Representatives in a special election to fill the seat vacated by his father, Harry L. Ott Jr. He represented District 93 in the House until 2024, during which time he served on various committees and held leadership roles, including Assistant Minority Leader. His tenure in the House was marked by his dedication to legislative oversight and economic development.
 
-Russell Ott is a dedicated public servant, committed to representing his constituents and making a positive impact in South Carolina politics.
+In 2024, Ott transitioned to the South Carolina State Senate, succeeding Nikki Setzler in representing District 26. His campaign emphasized his experience, community ties, and vision for the future. As a state senator, Ott serves on several key committees, including Agriculture and Natural Resources, Family and Veterans' Services, Fish, Game and Forestry, Judiciary, and Rules. These assignments reflect his focus on issues such as environmental stewardship, veterans' affairs, and judicial reform.
+
+Beyond his legislative duties, Russell Ott is a devoted family man. He resides in St. Matthews with his two sons, Lawson Legare and Bryce Jameson. Ott is an active member of Andrew Chapel United Methodist Church and remains engaged in various community activities. His career and personal life exemplify a commitment to service, both to his constituents and his family.

@@ -1,11 +1,11 @@
 ---
-date: 2024-05-31T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Al Novstrup"
-seo_title: "contact Senator Al Novstrup"
+seo_title: "contact Representative Al Novstrup"
 subheader:
-     greeting: Contact Senator Al Novstrup
-     description: Al Novstrup is a business owner, an American politician, and a Republican member of the South Dakota House of Representatives representing District 3 since January 2015.
-description: Contact Senator Al Novstrup of South Dakota. Contact information for Al Novstrup includes email address, phone number, and mailing address.
+     greeting: Contact Representative Al Novstrup
+     description: Al Novstrup is a Republican member of the South Dakota House of Representatives, representing District 3. He assumed office on January 14, 2025, and his current term is set to end on January 12, 2027.
+description: Contact Representative Al Novstrup of South Dakota. Contact information for Al Novstrup includes email address, phone number, and mailing address.
 image: al-novstrup.jpeg
 video:
 url: /states/south-dakota/al-novstrup/
@@ -16,22 +16,21 @@ layout: course_home
 name: Al Novstrup
 state: South Dakota
 party: Republican
-role: Senator
+role: Representative
 inoffice: current
-elected: 2016
+elected: 2025
 mailing1: Capitol Building 500 E Capitol Ave Pierre, SD 57501-5070
-phone1: 605-773-3821
-website: https://sdlegislature.gov/Legislators/Profile/4537/Detail/
-email : https://sdlegislature.gov/Legislators/Profile/4537/Detail/
+phone1: 605-773-3851
+website: https://sdlegislature.gov/Legislators/Profile/4644/Detail/
+email : https://sdlegislature.gov/Legislators/Profile/4644/Detail/
 twitter: 
 ---
-Al Novstrup is a business owner, an American politician, and a Republican member of the South Dakota House of Representatives representing District 3 since January 2015. He was born on August 4, 1954, in Sisseton, South Dakota, U.S. He is married to Kathy Novstrup and they have two children. They currently reside in Aberdeen, South Dakota, U.S.
+Al Novstrup is a Republican member of the South Dakota House of Representatives, representing District 3. He assumed office on January 14, 2025, and his current term is set to end on January 12, 2027.
 
-Novstrup earned his BS in economics from South Dakota State University. After earning his degree, he worked as a teacher for Granite Falls High School from 1977 to 1980. He then worked as manager and owner of Computer Specialists from 1982 to 2001. He has worked as manager and owner of Thunder Road Family Fun Park since 1994.
+Born on August 4, 1954, in Sisseton, South Dakota, Novstrup has had a long and varied career in both politics and business. He earned a Bachelor of Science degree in Economics from South Dakota State University in 1977. Before entering politics, he worked as a teacher and coach at Granite Falls High School from 1977 to 1980. He later became the owner and manager of Computer Specialists from 1982 to 2001 and has been the owner and president of Thunder Road Family Fun Park since 1994.
 
-Novstrup has served in the South Dakota Legislature since 2003. He was a member of the State House of Representatives from 2003-2009 and 2015 to 2017 and a member of the South Dakota Senate from 2009–2015 and from 2017 to present. In 2018, he was re-elected to the state senate after winning a rematch with liberal blogger and substitute teacher Cory Heidelberger. In 2016, he ran & won seat in the senate against liberal blogger and substitute teacher Cory Heidelberger. In 2014, he was elected back to the house. He currently serves with Dan Kaiser.
+Novstrup's political career began in 2003 when he was elected to the South Dakota House of Representatives. He served in the House until 2009, after which he transitioned to the South Dakota Senate, where he represented District 3 from 2009 to 2015. He returned to the House in 2015 and served until 2017, before once again taking a seat in the Senate from 2017 to 2025. Throughout his tenure, Novstrup has been involved in various legislative committees, including those focused on agriculture, health, taxation, and commerce.
 
-Novstrup has been assigned to several committees throughout his political career. These include the Senate Agriculture and Natural Resources Committee, Senate Health and Human Services Committee, Senate Taxation Committee, Senate Commerce and Energy Committee, Senate Legislative Procedure Committee, Senate Local Government Committee, Senate State Affairs Committee, and Joint Legislative Procedure Committee.
+In addition to his professional and political endeavors, Novstrup is deeply rooted in his community. He has served as a board member for the Boys and Girls Club of Aberdeen and has been recognized for his contributions to transparency and public service, receiving the Eagle Award from the South Dakota Newspaper Association for "Protecting the People's Right to Know."
 
-Novstrup is the father of David Novstrup, who also represented District 3 of the state Senate and state House.
-
+Novstrup is married to Kathy Novstrup, and together they have two children, Linda and David. His son, David Novstrup, has also been active in South Dakota politics, representing District 3 in both the state Senate and House of Representatives. Al Novstrup's dedication to public service and his community has made him a prominent figure in South Dakota's political landscape.
