@@ -21,8 +21,8 @@ inoffice: current
 elected: 2019
 mailing1: Capitol Building Room 417B CB Springfield, IL 62706
 phone1: 217-782-5399
-website: https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3125/
-email : https://www.ilga.gov/senate/Senator.asp?GA=103&MemberID=3125/
+website: https://www.ilga.gov/senate/Senator.asp?MemberID=3337&GA=104
+email : https://www.ilga.gov/senate/Senator.asp?MemberID=3337&District=Y
 twitter: senatorbelt
 ---
 
