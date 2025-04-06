@@ -1,14 +1,14 @@
 ---
-date: 2024-02-17T11:54:12-05:00
+date: 2025-03-31T11:54:12-05:00
 title: "Khanh Pham"
-seo_title: "contact Representative Khanh Pham"
+seo_title: "contact Senator Khanh Pham"
 subheader:
-     greeting: Contact Representative Khanh Pham
-     description: Khanh Pham is the State Representative for Oregon House District 46 (Jade District, SE Portland), serving in her second term. She was first elected in 2020 and was the first Vietnamese American legislator in the State Legislature.
-description: Contact Representative Khanh Pham of Oregon. Contact information for Khanh Pham includes email address, phone number, and mailing address.
+     greeting: Contact Senator Khanh Pham
+     description: Khanh Pham is a member of the Democratic Party and the Oregon Working Families Party, serving in the Oregon State Senate. She represents District 23, having assumed office on January 13, 2025. Her current term is set to end on January 8, 2029.
+description: Contact Senator Khanh Pham of Oregon. Contact information for Khanh Pham includes email address, phone number, and mailing address.
 image: khanh-pham.jpeg
 video:
-url:  /states/oregon/khanh-pham/
+url: /states/oregon/khanh-pham/
 weight: 1
 layout: course_home
 
@@ -16,22 +16,19 @@ layout: course_home
 name: Khanh Pham
 state: Oregon
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2021
-mailing1: State Capitol Room H-274 900 Court St NEH-271 Salem, OR 97301
-phone1: 503-986-1446
+elected: 2025
+mailing1: State Capitol Room S-407 900 Court St NE Room 233 Salem, OR 97301 
+phone1: 503-986-1723
 website: https://www.oregonlegislature.gov/pham/
 email : https://www.oregonlegislature.gov/pham/
-twitter:
+twitter: 
 ---
+Khanh Pham is a member of the Democratic Party and the Oregon Working Families Party, serving in the Oregon State Senate. She represents District 23, having assumed office on January 13, 2025. Her current term is set to end on January 8, 2029.
 
-Khanh Pham is the State Representative for Oregon House District 46 (Jade District, SE Portland), serving in her second term. She was first elected in 2020 and was the first Vietnamese American legislator in the State Legislature. She currently serves on the House Climate, Energy, and Environment Committee, and the Joint Committees on Transportation, and Full Ways & Means. She is the Co-Chair of the Ways & Means Subcommittee on Natural Resources.  
+Born in Oklahoma City, Oklahoma, Khanh Pham has a rich academic and professional background. She earned a Bachelor of Arts in sociology/anthropology and political economy from Lewis & Clark College in 2001, followed by a master's degree in urban studies from Portland State University in 2018. Her career has been deeply rooted in advocacy and community engagement. She has worked as the director of alliances for OPAL Environmental Justice and held roles such as immigrant organizing manager and environmental justice manager for the Asian Pacific American Network of Oregon (APANO). Additionally, she has been a Ph.D. researcher at Portland State University and has contributed to various organizations, including the National Radio Project, Refugee Transitions, Hesperian Health Guides, and the Global Fund for Women.
 
-​In the recent 2023 session, Khanh shepherded the natural resource state agencies to take advantage of the largest ever federal investment. Building off the $100 million invested in the 2022 Climate Resilience budget, she helped champion a comprehensive $90 million investment in climate action and climate resiliency, including $7 million allocated to establish a grant program for local investments in green infrastructure and urban tree canopy improvements in every corner of the state. She also co-led the effort to refer statewide Ranked Choice Voting to the Oregon ballot for 2024, the first legislature in the country to refer the choice to voters.
+Khanh Pham's dedication to public service extends beyond her professional roles. She has served as vice-chair of the Multnomah County Advisory Committee on Sustainability and Innovation and has been actively involved with the Portland Clean Energy Fund Executive Committee and the Jade District Steering Committee. Her legislative priorities reflect her commitment to environmental justice, sustainable development, and community empowerment.
 
-​In the 2021 session, Khanh championed the passage of the Oregon Clean Energy Opportunity bills, including the country’s most ambitious 100% clean energy standard. She was recognized as Oregon League of Conservation Voters’ 2021 MVP, as a 2021 Street Trust Alice Award winner, and by The Grist as one of their 2022 50 Fixers. She shares these awards with her community and inspires her to continue the fight for climate justice, healthy, inclusive democracy, and an economy centered on well-being not profits.   
-
-During her time as State Representative, Khanh has led on bills covering Clean Energy and Low-income Utility Rates, Jurisdictional Transfer of Unsafe State Highways to Local Cities, Transportation Safety Investments, Renters’ Rights to Cooling and Heat Resilience, Willamette River Oil Tank Storage, Earned Income Tax Credit eligibility, Affordable Housing Preservation, Bias Crimes Response and Victim Support, Voter Language Access, the Office of Immigrant and Refugee Advancement, Afghan Arrivals Support, and Pacific Islander Student Success.
-
-Prior to the legislature, Khanh was a founding leader of and spokesperson for the groundbreaking Portland Clean Energy Fund Initiative, which successfully passed in November 2018. She served as the Interim Alliance Director at the Oregon Just Transition Alliance, leading efforts to develop a frontline-led vision and platform for an Oregon Green New Deal. Prior to that, she was a Environmental Justice Manager at the Asian Pacific American Network of Oregon (APANO).  Khanh brings years of experience in community organizing and a deep commitment to Environmental and Climate Justice. Khanh has a BA from Lewis & Clark College and a Masters in Urban Studies from Portland State University, where she specialized in urban planning, climate change adaptation, and equity planning.
+Throughout her career, Senator Pham has demonstrated a steadfast commitment to addressing the needs of her constituents and advocating for policies that promote equity and sustainability. Her leadership in the Oregon State Senate continues to be guided by her passion for creating a more just and inclusive society.

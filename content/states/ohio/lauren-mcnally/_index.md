@@ -1,10 +1,10 @@
 ---
-date: 2024-05-12T11:54:12-05:00
+date: 2025-03-10T11:54:12-05:00
 title: "Lauren McNally"
 seo_title: "contact Representative Lauren McNally"
 subheader:
      greeting: Contact Representative Lauren McNally
-     description: Representative Lauren McNally is a practical and selfless leader, representing Ohio’s 59th district which includes parts of Mahoning and Columbiana counties. The district also includes a substantial amount of the City of Youngstown, where Representative McNally served as the 5th Ward Councilwoman from 2016-2022, concentrating on economic development, neighborhood improvements and infrastructure investment.
+     description: Representative Lauren McNally is a committed and results-driven leader, proudly serving Ohio’s 58th District, which includes much of Mahoning County and the entire City of Youngstown. Before joining the Ohio House, she represented Youngstown’s 5th Ward on City Council from 2016 to 2022, where she focused on economic development, neighborhood revitalization, and infrastructure improvements.
 description: Contact Representative Lauren McNally of Ohio. Contact information for Lauren McNally includes email address, phone number, and mailing address.
 image: lauren-mcnally.jpeg
 video:
@@ -19,16 +19,22 @@ party: Democratic
 role: Representative
 inoffice: current
 elected: 2023
-mailing1: 77 S High St Room 11th Floor Columbus, OH 43215
-phone1: 614-466-9435
-website: https://www.ohiohouse.gov/members/lauren-mcnally/
-email : https://www.ohiohouse.gov/members/lauren-mcnally/
-twitter:
+mailing1:  77 S High St Room 13th Floor Columbus, OH 43215
+phone1: 614-466-6107
+website: https://ohiohouse.gov/members/lauren-mcnally/
+email : https://ohiohouse.gov/members/lauren-mcnally/
+twitter: 
 ---
-Representative Lauren McNally is a practical and selfless leader, representing Ohio’s 59th district which includes parts of Mahoning and Columbiana counties. The district also includes a substantial amount of the City of Youngstown, where Representative McNally served as the 5th Ward Councilwoman from 2016-2022, concentrating on economic development, neighborhood improvements and infrastructure investment. She is a graduate of Ursuline High School, and continued her education at The Ohio State University and Miami University, earning degrees in Political Science and Journalism. She has worked around the country as a journalist for various local NPR stations and other print media outlets as well as various consulting firms as a Marketing Specialist.
+Representative Lauren McNally is a committed and results-driven leader, proudly serving Ohio’s 58th District, which includes much of Mahoning County and the entire City of Youngstown. Before joining the Ohio House, she represented Youngstown’s 5th Ward on City Council from 2016 to 2022, where she focused on economic development, neighborhood revitalization, and infrastructure improvements.
 
-Alongside her family, Representative McNally is often quick to step up and give her time generously to lighten the load and enrich the lives of others. A mother of four, she is active in her community, having served on several community boards including the American Red Cross and Women’s Junior League of Youngstown. Her husband, Breen McNally, is a staff representative for AFSCME Ohio Council 8. His father, Jerome McNally, also served the 5th Ward on Youngstown City Council and in other various public positions for two decades.
+A graduate of Ursuline High School, Representative McNally earned degrees in Political Science and Journalism from The Ohio State University and Miami University. She built a diverse career as a journalist, reporting for NPR stations and print media across the country, and later worked as a Marketing Specialist for various consulting firms.
 
-Representative McNally’s family values stem from a strong sense of duty and a legacy of service to others.  Her Grandfathers were both World War II veterans. Her maternal grandfather is famed longtime Principal and legendary high school football coach at Ursuline High School, Tom Carey, while her paternal grandfather was a lifelong union millworker and Romanian native who helped several others immigrate to the United States. Representative McNally knows firsthand how educators and good union wages and benefits can strengthen communities.
+Beyond public service, Representative McNally is deeply involved in her community. A devoted mother of four, she understands the importance of strong families and thriving neighborhoods. She has served on several local boards, including the American Red Cross and the Junior League of Youngstown. Her husband, Breen McNally, advocates for workers' rights as a staff representative for AFSCME Ohio Council 8, following a family tradition of public service—his father, Jerome McNally, was a longtime Youngstown City Councilman.
 
-No matter your family’s interests or makeup, Representative McNally wants you to thrive. Education initiatives, traditional or alternative, as well as workforce initiatives that create opportunities for Mahoning Valley, were strong motivators in her decision to run for the statehouse. She intends to find practical solutions to these and other issues, such as public corruption and local government funding, while representing us in Columbus. Representative McNally will be a hardworking and accessible lawmaker whose office is open to you.
+Public service runs deep in Representative McNally’s roots. Her grandfathers were both World War II veterans, and her maternal grandfather, Tom Carey, was a legendary high school principal and football coach at Ursuline High School. Her paternal grandfather, a Romanian immigrant and lifelong union millworker, dedicated himself to helping others build better lives in the United States. These experiences instilled in her a deep respect for education, organized labor, and community strength.
+
+Representative McNally is passionate about ensuring all families—no matter their background—have the tools they need to succeed. She is a strong advocate for education and workforce initiatives that create meaningful opportunities for the Mahoning Valley. Addressing public corruption and securing fair funding for local governments are also central to her legislative priorities.
+
+Now in her second term, she continues to serve as the Ranking Member of the Commerce & Labor Committee, where she remains a steadfast voice for workers’ rights and employee protections.
+
+Representative McNally is a hardworking, accessible lawmaker who is always ready to listen and fight for the people she serves. Her office is open to you.

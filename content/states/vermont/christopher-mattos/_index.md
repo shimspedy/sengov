@@ -1,11 +1,11 @@
 ---
-date: 2024-07-19T11:54:12-05:00
+date: 2025-03-28T11:54:12-05:00
 title: "Christopher Mattos"
-seo_title: "contact Representative Christopher Mattos"
+seo_title: "contact Senator Christopher Mattos"
 subheader:
-     greeting: Contact Representative Christopher Mattos
-     description: Christopher Mattos, an American politician affiliated with the Republican Party, serves as a member of the Vermont House of Representatives, representing the Chittenden-Franklin District. He assumed office on January 4, 2023.
-description: Contact Representative Christopher Mattos of Vermont. Contact information for Christopher Mattos includes email address, phone number, and mailing address.
+     greeting: Contact Senator Christopher Mattos
+     description: Christopher Mattos is a Republican member of the Vermont State Senate, representing the Chittenden North District. He assumed office on January 8, 2025, and his current term is set to end on January 6, 2027.
+description: Contact Senator Christopher Mattos of Vermont. Contact information for Christopher Mattos includes email address, phone number, and mailing address.
 image: christopher-mattos.jpeg
 video:
 url: /states/vermont/christopher-mattos/
@@ -16,32 +16,23 @@ layout: course_home
 name: Christopher Mattos
 state: Vermont
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2017
+elected: 2025
 mailing1: State House 115 State St Montpelier, VT 05633-5501
-phone1: 802-828-2228
-website: https://legislature.vermont.gov/people/single/2024/29153/
-email : https://legislature.vermont.gov/people/single/2024/29153/
+phone1: 802-828-2228 
+website: https://legislature.vermont.gov/people/single/2026/40391/
+email : https://legislature.vermont.gov/people/single/2026/40391/
 twitter: 
 ---
-## Early Life and Education
-Christopher P. Mattos was born in Burlington, Vermont, and has been a lifelong resident of Milton, Chittenden County. He attended Milton High School, where he developed a strong foundation in academics and community involvement. After high school, he pursued higher education at the University of Vermont, earning a Bachelor of Science degree in Business Administration.
+Christopher Mattos is a Republican member of the Vermont State Senate, representing the Chittenden North District. He assumed office on January 8, 2025, and his current term is set to end on January 6, 2027.
 
-## Professional Career
-Christopher Mattos is a small business owner, a role that has allowed him to understand the challenges and opportunities faced by local entrepreneurs. His professional experience also includes working as a senior financial specialist at the University of Vermont Medical Center and as a real estate agent. He is an active member of the Northwest Vermont Board of Realtors and the National Association of Realtors.
+Born and raised in Milton, Vermont, Mattos has been deeply connected to his community throughout his life. He attended Milton High School before pursuing higher education at the University of Vermont, where he earned a Bachelor of Science degree in Business Administration. His professional journey has been diverse, including roles as a senior financial specialist at the University of Vermont Medical Center, a real estate agent, and a business planner. These experiences have equipped him with a strong understanding of both financial and community dynamics.
 
-## Political Career
-Christopher Mattos was appointed to the Vermont House of Representatives in 2017 to fill the seat vacated by Representative Ronald Hubert. Since then, he has been serving the Chittenden-Franklin District with dedication and commitment. His tenure in the House has been marked by his involvement in various committees, including the House Committee on Education, the House Discrimination Prevention Panel, and the Canvassing Committee.
+Mattos began his political career in the Vermont House of Representatives, where he represented the Chittenden-Franklin District. He was first appointed to the House in 2017 to fill a vacancy and served until 2024. During his tenure in the House, he was actively involved in several committees, including the House Discrimination Prevention Panel and the Ways and Means Committee. His legislative work focused on issues such as education, community development, and fiscal responsibility.
 
-## Legislative Work
-Throughout his time in the Vermont House of Representatives, Christopher Mattos has sponsored numerous bills and resolutions aimed at improving the lives of his constituents. His legislative efforts focus on education, economic development, and community well-being. He is known for his pragmatic approach to problem-solving and his ability to work collaboratively with colleagues from both sides of the aisle.
+In 2024, Mattos ran for election to the Vermont State Senate and successfully defeated the incumbent, Irene Wrenner, in the general election. His campaign emphasized his commitment to serving the needs of his constituents and addressing key challenges facing the state, such as economic growth and public health.
 
-## Personal Life
-Christopher Mattos is deeply rooted in his community. He resides in Milton with his family and is actively involved in local events and organizations. His commitment to public service is driven by his desire to make a positive impact on the lives of the people he represents.
+As a senator, Mattos continues to advocate for policies that promote sustainable development and enhance the quality of life for Vermonters. He is known for his pragmatic approach to governance and his dedication to fostering bipartisan collaboration. Outside of his legislative duties, Mattos remains active in local organizations, including the Northwest Vermont Board of Realtors and the National Association of Realtors.
 
-## Future Aspirations
-Looking ahead, Christopher Mattos aims to continue his work in public service, with a focus on creating sustainable economic opportunities and enhancing the quality of life for all Vermonters. He is running for election to the Vermont State Senate to represent the Chittenden North District, with the primary election scheduled for August 13, 2024.
-
-Christopher Mattos remains dedicated to his constituents and is committed to fostering a vibrant and prosperous community in Vermont.
-
+Mattos's journey from a small-town upbringing to a prominent role in state politics reflects his unwavering commitment to public service and his belief in the power of community engagement. His leadership in the Vermont State Senate is marked by a focus on practical solutions and a deep respect for the values and traditions of his home state.

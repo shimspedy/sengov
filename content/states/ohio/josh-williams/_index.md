@@ -1,10 +1,10 @@
 ---
-date: 2024-05-12T11:54:12-05:00
+date: 2025-03-10T11:54:12-05:00
 title: "Josh Williams"
 seo_title: "contact Representative Josh Williams"
 subheader:
      greeting: Contact Representative Josh Williams
-     description: Josh Williams is a Republican member of the Ohio House of Representatives representing the 41st district. He was elected November 8, 2022 and assumed office on January 1, 2023.
+     description: State Representative Josh Williams is an incredible example of the power of persistence, hope, and determination. He went from a homeless high school dropout to an attorney, but there were a lot of challenges and obstacles along the way.
 description: Contact Representative Josh Williams of Ohio. Contact information for Josh Williams includes email address, phone number, and mailing address.
 image: josh-williams.jpeg
 video:
@@ -17,13 +17,13 @@ name: Josh Williams
 state: Ohio
 party: Republican
 role: Representative
-inoffice: Current
+inoffice: current
 elected: 2023
-mailing1: 77 S High St Room 11th Floor Columbus, OH 43215
-phone1: 614-466-1418
-website: https://www.ohiohouse.gov/members/josh-williams/
-email : https://www.ohiohouse.gov/members/josh-williams/
-twitter:
+mailing1: 77 S High St Room 10th Floor Columbus, OH 43215
+phone1: 614-466-1401
+website: https://ohiohouse.gov/members/josh-williams/
+email : https://ohiohouse.gov/members/josh-williams/
+twitter: 
 ---
 State Representative Josh Williams is an incredible example of the power of persistence, hope, and determination. He went from a homeless high school dropout to an attorney, but there were a lot of challenges and obstacles along the way.
 
@@ -33,6 +33,6 @@ After getting his GED, Josh started college at the age of 30. By the time he was
 
 After graduating from the University of Toledo College of Law with his juris doctorate (J.D.) Josh decided to give back and help shape our youth by teaching at Adrian College. He currently teaches constitutional law, criminal law, and criminal procedure in the undergraduate criminal justice programs.
 
-Enjoying a career as a successful attorney and professor, Josh still felt a pull to do more for his local community in Lucas County. With a unique perspective on the problems facing Toledo, Josh decided to run for the Ohio House of Representatives to make the voice of his community heard in the capital.
+Enjoying a career as a successful attorney and professor, Josh still felt a pull to do more for his local community in Lucas County. With a unique perspective on the problems facing Toledo, Josh decided to run for the Ohio House of Representatives to make the voice of his community heard in the capital. 
 
-As a State Representative, Josh is pursuing reform in all the areas that affect Lucas County residents most: workforce development, education and criminal justice.
+As a State Representative, Josh is pursuing reform in all the areas that affect Lucas County residents most: workforce development, education and criminal justice. 

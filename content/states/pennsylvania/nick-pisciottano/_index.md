@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-03-31T11:54:12-05:00
 title: "Nick Pisciottano"
-seo_title: "contact representative Nick Pisciottano"
+seo_title: "contact Senator Nick Pisciottano"
 subheader:
-     greeting: Contact representative Nick Pisciottano
-     description: Nickolas R. Pisciottano, born on January 12, 1990, is an American elected official serving as a member of the Pennsylvania House of Representatives for the 38th legislative district. This district includes nine municipalities across the Monongahela Valley and South Hills regions of Allegheny County. Nick was first elected in 2020.
-description: Contact representative Nick Pisciottano of Pennsylvania. Contact information for Nick Pisciottano includes email address, phone number, and mailing address.
+     greeting: Contact Senator Nick Pisciottano
+     description: Nick Pisciottano, a member of the Democratic Party, serves in the Pennsylvania State Senate representing District 45. He assumed office on December 1, 2024, and his current term is set to conclude on November 30, 2028.
+description: Contact Senator Nick Pisciottano of Pennsylvania. Contact information for Nick Pisciottano includes email address, phone number, and mailing address.
 image: nick-pisciottano.jpeg
 video:
-url:  /states/pennsylvania/nick-pisciottano/
+url: /states/pennsylvania/nick-pisciottano/
 weight: 1
 layout: course_home
 
@@ -16,23 +16,19 @@ layout: course_home
 name: Nick Pisciottano
 state: Pennsylvania
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2020
-mailing1: Capitol Building Room 121 IOB House Post Office Harrisburg, PA 17120
-phone1: 717-787-8175
-website: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1900/
-email : https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1900/
-twitter:
+elected: 2025
+mailing1: 104 North Office Huilding Room 184 MCB Harrisburg, PA 17120
+phone1: 717-787-5580
+website: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1900/
+email : https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1900/
+twitter: 
 ---
+Nick Pisciottano, a member of the Democratic Party, serves in the Pennsylvania State Senate representing District 45. He assumed office on December 1, 2024, and his current term is set to conclude on November 30, 2028.
 
-Nickolas R. Pisciottano, born on January 12, 1990, is an American elected official serving as a member of the Pennsylvania House of Representatives for the 38th legislative district. This district includes nine municipalities across the Monongahela Valley and South Hills regions of Allegheny County. Nick was first elected in 2020.
+Born and raised in West Mifflin, Pennsylvania, Pisciottano graduated from West Mifflin Area High School in 2008. He pursued higher education at Washington & Jefferson College, earning bachelor's degrees in history and accounting in 2012. Furthering his academic journey, he obtained a Master of Arts in government analytics from Johns Hopkins University in 2019. His professional background includes experience as a certified public accountant and auditor, showcasing his expertise in financial matters and governance.
 
-Education:
-Nick graduated as class valedictorian from West Mifflin Area High School before earning bachelor's degrees in Accounting and History from Washington & Jefferson College. He later earned a master's degree in Government Analytics from Johns Hopkins University. While at Hopkins, his research focused on the concept of social capital culminating in his capstone thesis, “The Impact of the Internet on Social Capital: Broadband Access and Influences on Voting Turnout.”
+Pisciottano has been actively involved in community service, notably serving as the president of the West Mifflin Community Foundation. His dedication to public service and community development has been a cornerstone of his career. In the Pennsylvania State Senate, he has been assigned to various committees, including the Consumer Protection & Professional Licensure Committee, where he serves as the Subcommittee Chair on Utilities, as well as the House Labor & Industry Committee and the House Transportation Committee.
 
-Career:
-After graduation from Washington & Jefferson, Nick worked as an auditor at KPMG earning his Certified Public Accountant license in 2014. Outside of his professional career, Nick was active in his community volunteering as the president of the West Mifflin Community Foundation and as a student mentor with Big Brothers, Big Sisters of Greater Pittsburgh. In 2020, Pisciottano was elected to the Pennsylvania House of Representatives for the 38th District succeeding the retiring Rep. William C. Kortz. His campaign focused on protecting workers’ rights, economic development, education reform, and providing high-quality constituent services.
-
-Personal life:
-Pisciottano was born and raised in West Mifflin, Pennsylvania hailing from a family that settled in the area before the Civil War. He married his wife Molly in 2018 and they live together with their son Nico and two rescue dogs in West Mifflin.
+Throughout his political career, Pisciottano has demonstrated a commitment to addressing the needs of his constituents and advocating for policies that promote economic growth, social equity, and community well-being. His leadership and vision continue to shape his contributions to the state of Pennsylvania.

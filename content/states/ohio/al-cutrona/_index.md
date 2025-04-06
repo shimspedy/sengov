@@ -1,11 +1,11 @@
 ---
-date: 2024-05-12T11:54:12-05:00
+date: 2025-03-10T11:54:12-05:00
 title: "Al Cutrona"
-seo_title: "contact Representative Al Cutrona"
+seo_title: "contact Senator Al Cutrona"
 subheader:
-     greeting: Contact Representative Al Cutrona
-     description: State Representative Alessandro “Al” Cutrona is currently serving his second term in the Ohio House of Representatives. He represents the 58th House District, which encompasses portions of northern Mahoning County.
-description: Contact Representative Al Cutrona of Ohio. Contact information for Al Cutrona includes email address, phone number, and mailing address.
+     greeting: Contact Senator Al Cutrona
+     description: State Senator Al Cutrona is serving in the Ohio Senate following his appointment in 2024. He represents the 33rd Ohio Senate District, which encompasses Mahoning, Columbiana and Carroll counties.
+description: Contact Senator Al Cutrona of Ohio. Contact information for Al Cutrona includes email address, phone number, and mailing address.
 image: al-cutrona.jpeg
 video:
 url: /states/ohio/al-cutrona/
@@ -16,21 +16,35 @@ layout: course_home
 name: Al Cutrona
 state: Ohio
 party: Republican
-role: Representative
-inoffice: Current
-elected: 2020
-mailing1: 77 S High St Room 13th Floor Columbus, OH 43215
-phone1: 614-466-6107
-website: https://www.ohiohouse.gov/members/al-cutrona/
-email : https://www.ohiohouse.gov/members/al-cutrona/
-twitter:
+role: Senator
+inoffice: current
+elected: 2024
+mailing1: Senate Building Room 041 1 Capitol Sq Columbus, OH 43215
+phone1: 614-466-8285 
+website: https://www.ohiosenate.gov/members/al-cutrona/
+email : https://www.ohiosenate.gov/members/al-cutrona/
+twitter: 
 ---
-State Representative Alessandro “Al” Cutrona is currently serving his second term in the Ohio House of Representatives. He represents the 58th House District, which encompasses portions of northern Mahoning County
+State Senator Al Cutrona is serving in the Ohio Senate following his appointment in 2024. He represents the 33rd Ohio Senate District, which encompasses Mahoning, Columbiana and Carroll counties.
 
-Prior to joining the House, Cutrona is a 59th House District native. He is a proud graduate of Canfield High School. He earned his Bachelor’s degree in Political Science and History from Youngstown State University (YSU), where he graduated Cum Laude. During college he was a Representative of Student Government Association and member of the Academic Affairs Committee. He then attended law school and earned his juris doctorate from Case Western Reserve University School of Law, where he earned a Leadership Scholarship.
+Prior to joining the Senate, Cutrona served in the Ohio House for two terms. During his time as state representative, he accomplished several milestones, including passing the most bills out of the House chamber during his first year. He also chaired the Health Provider Services Committee and sponsored House Bill 2, the $3 billion state capital budget that helped fund several local community projects.
 
-Currently, Cutrona holds a position as the Chief Operating Officer for a large tri-county infectious disease medical practice. The infectious disease medical practice covers Mahoning, Trumbull, and Columbiana County. Additionally, he is a practicing attorney at a consumer bankruptcy law firm of Amourgis & Associates. As a federally licensed attorney, he focuses on consumer bankruptcy law (Chapter 7 and Chapter 13). Additionally, he has held several other positions at law offices throughout his professional career. While in law school, he has clerked for the Honorable Gene Donofrio of the Ohio Seventh District Court of Appeals and held an externship for the United States Attorney’s Office for the Northern District of Ohio in the Civil Division.
+He is a proud graduate of Canfield High School, and he earned his bachelor’s degree in Political Science and History from Youngstown State University (YSU), where he graduated cum laude. During college he was a representative of the Student Government Association and member of the Academic Affairs Committee. He then attended law school and earned his J.D. from Case Western Reserve University School of Law, where he earned a leadership scholarship.
 
-He is currently on the Board of Trustees for Organizacion Civica y Cultrural Hispana Americana (OCCHA), where he is a proud Hispanic and Italian-American. He is also a member of St. Anthony’s of Padua Church in Youngstown, Ohio, where he volunteered during college. He is a lifetime member of the NRA. During his spare time, he enjoys hunting and helping out on his family’s farm.
+He has held a position as the Chief Operating Officer for a large tri-county infectious disease medical practice. The infectious disease medical practice covers Mahoning, Trumbull and Columbiana counties.
 
-His father is a leading physician in the area of infectious disease and his mother is a real estate agent.
+Additionally, he has held several other positions at law offices throughout his professional career. While in law school, he clerked for the Honorable Gene Donofrio of the Ohio Seventh District Court of Appeals and held an externship for the United States Attorney’s Office for the Northern District of Ohio in the Civil Division. 
+
+Currently, Cutrona is a practicing attorney with a focus in healthcare, business, and bankruptcy law. 
+
+He is a former Board of Trustees for Organizacion Civica y Cultural Hispana Americana (OCCHA). Cutrona remains active in his community celebrating both his Puerto Rican and Italian heritage and is a member of St. Anthony’s of Padua/Our Lady of Mount Carmel Church in Youngstown, Ohio. A lifetime member of the NRA, he enjoys spending his spare time hunting and helping out on his family’s farm.
+
+ 
+
+136th General Assembly Committee Assignments:
+
+Small Business and Economic Opportunity, Chair 
+Addiction and Community Revitalization 
+Education
+Housing 
+Judiciary

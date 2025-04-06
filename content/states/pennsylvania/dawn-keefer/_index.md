@@ -1,14 +1,14 @@
 ---
-date: 2024-01-08T11:54:12-05:00
+date: 2025-03-31T11:54:12-05:00
 title: "Dawn Keefer"
-seo_title: "contact representative Dawn Keefer"
+seo_title: "contact Senator Dawn Keefer"
 subheader:
-     greeting: Contact representative Dawn Keefer
-     description: Dawn Wetzel Keefer, born on October 6, 1972, in Gettysburg, Pennsylvania, is an American politician currently representing the 92nd District in the Pennsylvania House of Representatives. She graduated from Gettysburg Area High School in 1991 and earned a BA degree in government and politics from George Mason University in 1995.
-description: Contact representative Dawn Keefer of Pennsylvania. Contact information for Dawn Keefer includes email address, phone number, and mailing address.
+     greeting: Contact Senator Dawn Keefer
+     description: Dawn Keefer is a Republican Party member serving in the Pennsylvania State Senate, representing District 31. She assumed office on December 1, 2024, and her current term is set to end on November 30, 2028.
+description: Contact Senator Dawn Keefer of Pennsylvania. Contact information for Dawn Keefer includes email address, phone number, and mailing address.
 image: dawn-keefer.jpeg
 video:
-url:  /states/Pennsylvania/dawn-keefer/
+url: /states/pennsylvania/dawn-keefer/
 weight: 1
 layout: course_home
 
@@ -16,22 +16,23 @@ layout: course_home
 name: Dawn Keefer
 state: Pennsylvania
 party: Republican
-role: Representative
+role: Senator
 inoffice: current
-elected: 2007
-mailing1: Capitol Building Room 422 IOB House Post Office Harrisburg, PA 17120
-phone1: 717-783-8783
-website: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1748/
-email : https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1748/
+elected: 2025
+mailing1: 104 North Office Huilding Room 168 MCB Harrisburg, PA 17120
+phone1: 717-787-8524
+website: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1748/
+email : https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1748/
 twitter: dwkeefer
 ---
+Dawn Keefer is a Republican Party member serving in the Pennsylvania State Senate, representing District 31. She assumed office on December 1, 2024, and her current term is set to end on November 30, 2028.
 
-Dawn Wetzel Keefer, born on October 6, 1972, in Gettysburg, Pennsylvania, is an American politician currently representing the 92nd District in the Pennsylvania House of Representatives. She graduated from Gettysburg Area High School in 1991 and earned a BA degree in government and politics from George Mason University in 1995.
+Before her election to the Pennsylvania State Senate, Dawn Keefer had a notable career in the Pennsylvania House of Representatives, where she represented District 92. Her time in the House was marked by her dedication to addressing the concerns of her constituents and her active participation in legislative committees. She was involved in committees focusing on health, labor and industry, and state government, among others. Her work in these areas showcased her commitment to improving the lives of Pennsylvanians through thoughtful policymaking and advocacy.
 
-Keefer has served in the Pennsylvania House of Representatives, representing the 92nd district, since 2017. She was initially elected in 2016 and won reelection in 2018, 2020, and 2022. Following the 2020 United States presidential election, Keefer supported efforts to overturn the election results in Pennsylvania, advocating for an audit of the election. She was one of 26 Pennsylvania House Republicans who signed a letter requesting the disqualification of Pennsylvania's electoral votes.
+Dawn Keefer's professional background includes her experience as a business owner, which has provided her with a unique perspective on the challenges faced by small businesses and the importance of fostering economic growth. Her entrepreneurial experience has informed her legislative priorities, particularly in areas such as job creation, regulatory reform, and fiscal responsibility.
 
-Keefer is the inaugural chairwoman of the Pennsylvania State Freedom Caucus. Under her leadership, the caucus called for Pennsylvania libraries to withdraw from the American Library Association after its president, Emily Drabinski, referred to herself as a "Marxist" in a social media post. The caucus also sued the administration of Governor Josh Shapiro in 2024 after Shapiro implemented automatic voter registration in the state, claiming it to be executive overreach.
+Throughout her political career, Dawn Keefer has been a strong advocate for conservative values, emphasizing the importance of limited government, individual freedoms, and personal responsibility. Her legislative efforts have often focused on reducing the tax burden on families and businesses, improving access to quality healthcare, and ensuring transparency and accountability in government operations.
 
-On January 11, 2024, Keefer announced her candidacy for the Pennsylvania State Senate in the 31st district following the retirement of Mike Regan. Keefer is frequently described as a small government conservative due to her efforts to cut back and restrict government spending. She was recognized by the Conservative Political Action Committee (CPAC) for her high score on their Award for Conservative Excellence.
+In addition to her legislative work, Dawn Keefer is known for her active engagement with her community. She regularly meets with constituents to understand their concerns and priorities, ensuring that their voices are represented in the legislative process. Her approachable demeanor and commitment to public service have earned her the respect and trust of her constituents.
 
-Keefer's husband is Tom. They have three children and live in Dillsburg, Pennsylvania.
+Dawn Keefer's journey from a business owner to a state senator reflects her dedication to serving her community and her determination to make a positive impact through public service. Her tenure in the Pennsylvania State Senate continues to be characterized by her focus on advancing policies that promote economic prosperity, uphold constitutional principles, and enhance the quality of life for all Pennsylvanians.

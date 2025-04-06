@@ -1,11 +1,11 @@
 ---
-date: 2024-05-12T11:54:12-05:00
+date: 2025-03-10T11:54:12-05:00
 title: "Willis Blackshear"
-seo_title: "contact Representative Willis Blackshear"
+seo_title: "contact Senator Willis Blackshear"
 subheader:
-     greeting: Contact Representative Willis Blackshear
-     description: Willis Blackshear Jr is currently serving in his second term as State Representative for Ohio’s 38th House District, which includes the City of Dayton, Riverside, and parts of Huber Heights.
-description: Contact Representative Willis Blackshear of Ohio. Contact information for Willis Blackshear includes email address, phone number, and mailing address.
+     greeting: Contact Senator Willis Blackshear
+     description: Senator Willis E Blackshear Jr. is currently serving in his 1st term as State Senator for Senate District 6, which includes Centerville, Dayton, Jefferson Township, Kettering, Miami Township, Moraine, Oakwood, Riverside, Trotwood, Washington Township, West Carrollton, Carlisle (part), and Springboro (part).
+description: Contact Senator Willis Blackshear of Ohio. Contact information for Willis Blackshear includes email address, phone number, and mailing address.
 image: willis-blackshear.jpeg
 video:
 url: /states/ohio/willis-blackshear/
@@ -16,19 +16,17 @@ layout: course_home
 name: Willis Blackshear
 state: Ohio
 party: Democratic
-role: Representative
+role: Senator
 inoffice: current
-elected: 2021
-mailing1: 77 S High St Room 10th Floor Columbus, OH 43215
-phone1: 614-466-1607
-website: https://www.ohiohouse.gov/members/willis-e-blackshear-jr/
-email : https://www.ohiohouse.gov/members/willis-e-blackshear-jr/
+elected: 2025
+mailing1: Senate Building Room 042 1 Capitol Sq Columbus, OH 43215
+phone1: 614-466-4538
+website: https://ohiosenate.gov/members/willis-e-blackshear-jr/
+email : https://ohiosenate.gov/members/willis-e-blackshear-jr/
 twitter: willisb_jr
 ---
-Willis Blackshear Jr is currently serving in his second term as State Representative for Ohio’s 38th House District, which includes the City of Dayton, Riverside, and parts of Huber Heights.
+Senator Willis E Blackshear Jr. is currently serving in his 1st term as State Senator for Senate District 6, which includes Centerville, Dayton, Jefferson Township, Kettering, Miami Township, Moraine, Oakwood, Riverside, Trotwood, Washington Township, West Carrollton, Carlisle (part), and Springboro (part). He previously served two terms as the State Representative for Districts 39 and then 38 prior to becoming a State Senator.
 
-Rep. Blackshear serves his hometown the only way he knows how—by working together to find solutions to the issues that matter most to working people and families. He is prioritizing ways to reinvest in area neighborhoods and communities, bring tax dollars back to the district and put more money back in the pockets of Ohio taxpayers. Rep. Blackshear is committed to helping Ohioans achieve the American Dream.
+Through his work in the General Assembly, Senator Blackshear hopes to help the business community in his district and bolster the workforce. Additionally, Senator Blackshear aims to prioritize families and find solutions to make living in Ohio more affordable while advocating for the mental health needs of Ohioans.
 
-Whether it’s attending Church on Sunday, helping with community service or stopping by local sporting events; Rep. Blackshear is active in his community. He prides himself on being an accessible Representative. He regularly hosts events in his district, and always prioritizes helping constituents and listening to their feedback.
-
-A Dayton-area native, Rep. Blackshear formerly served as an outreach specialist at the Montgomery County Auditor’s Office and earned his BA in Political Science from Wright State University in Dayton. He is currently pursuing his MBA at Ohio State University.
+Outside of his official duties, Senator Blackshear attends church service regularly and participates with his faith community. He can be seen at local sporting events cheering on the talented athletes of District 6. A lifelong Ohioan, Senator Blackshear is a graduate of Wright State University and is currently pursuing his MBA at The Ohio State University.
