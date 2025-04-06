@@ -4,8 +4,7 @@ title: "Kyle Koehler"
 seo_title: "contact Senator Kyle Koehler"
 subheader:
      greeting: Contact Senator Kyle Koehler
-     description: Senator Kyle Koehler serves the people of Senate District 10
-Senator Kyle Koehler Is serving his first term in the Ohio Senate. He serves the people of the 10th Senate District which encompasses Clark, Greene, and Clinton Counties. 
+     description: Senator Kyle Koehler serves the people of Senate District 10 Senator Kyle Koehler Is serving his first term in the Ohio Senate. He serves the people of the 10th Senate District which encompasses Clark, Greene, and Clinton Counties. 
 description: Contact Senator Kyle Koehler of Ohio. Contact information for Kyle Koehler includes email address, phone number, and mailing address.
 image: kyle-koehler.jpeg
 video:
