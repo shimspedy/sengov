@@ -5,5 +5,6 @@ seo_title: "Current Legislative bills introduced"
 description: Current Legislative bills introduced
 author: john shim
 url: /bills/
-weight: 99999
+layout: "bills" 
 ---
+

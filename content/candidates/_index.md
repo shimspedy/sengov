@@ -5,5 +5,5 @@ seo_title: "Senators and Governors Upcoming Elections"
 description: Senators and Governors Upcoming Elections
 author: john shim
 url: /candidates/
-weight: 99999
+layout: "candidates" 
 ---

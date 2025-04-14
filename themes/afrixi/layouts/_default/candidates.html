@@ -1,6 +1,8 @@
+{{/* Get all pages in the "candidates" section without pagination */}}
+{{ $candidatePages := where .Site.RegularPages "Section" "candidates" }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "candidates") 50 }}
-{{ range $paginator.Pages }}
+{{/* Loop through all the fetched pages */}}
+{{ range $candidatePages }}
 <article id="{{ range  $categories := .Params.categories }} {{ $categories| lower }}{{ end }}"
   class="hentry post-contents {{ range  $categories := .Params.categories }} {{ $categories | lower }}{{ end }}"
   itemtype="http://schema.org/Article">
@@ -19,11 +21,4 @@
 </article>
 {{ end }}
 
-<ul class="pagination center">
-{{ if .Paginator.HasPrev }}
-    <li class="waves-effect "><a href="{{ .Paginator.Prev.URL }}" class=" waves-light btn white-text light-blue darken-4"><i class="material-icons left">chevron_left</i>PREV</a></li>
-{{ end }}
-{{ if .Paginator.HasNext }}
-    <li class="waves-effect "><a href="{{ .Paginator.Next.URL }}" class=" waves-light btn white-text light-blue darken-4"><i class="material-icons right">chevron_right</i>NEXT</a></li>
-{{ end }}
-</ul>
+{{/* Pagination controls removed */}}

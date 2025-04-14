@@ -30,8 +30,6 @@ mailingaddress:
 phonenumber:	
 emailaddress:	
 website:	
-powrid: 
-votespotter: '151127'
 ---
 
 

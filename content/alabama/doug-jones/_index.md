@@ -33,15 +33,5 @@ mailingaddress:
 phonenumber:	
 emailaddress:	
 website:	
-powrid: 
-zipcode:
-city:
-facebook:
-youtube:
-linkedin:
-wiki:
-instagram:
-twitter: SenDougJones
-votespotter: '151127'
 ---
 
