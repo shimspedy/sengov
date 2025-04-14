@@ -2,6 +2,9 @@
      {{if and (.Layout) (eq .Layout "single")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/single" . }}
+     {{else if and (.Layout) (eq .Layout "course_home")}}
+          {{ partial "markup/course" . }}
+          {{ partial "articles/lesson" . }}
      {{else if and (.Layout) (eq .Layout "pay")}}
           {{ partial "markup/article" . }}
           {{ partial "articles/pay" . }}
